@@ -4251,3 +4251,51 @@ body.has-comparison {
 .tone-l-arginine{background:#e8effc;color:#4264a4}.tone-l-carnitine{background:#fff0de;color:#a66b20}.tone-bcaa{background:#eeeaf8;color:#7e68a8}.tone-eaa{background:#e3f3ed;color:#297b65}.tone-pre-workout{background:#f8e9f0;color:#a15379}
 
 .tone-citrulline{background:#e2f3f4;color:#16828b}.tone-beta-alanine{background:#eeeaf8;color:#7e68a8}.tone-taurine{background:#e8eefb;color:#526eaa}.tone-betaine{background:#fff0de;color:#a66b20}.tone-hmb{background:#e9f1df;color:#698644}
+
+/* Contextual buying guidance, shared by the library, catalogs and offer details. */
+.buying-guide-controls{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px;margin:0 0 14px}
+.buying-guide-controls label{font-size:12px;font-weight:650;display:grid;gap:7px}
+.buying-guide-controls select{width:100%;min-width:0;padding:11px 12px;border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:5px}
+.buying-policy-note{font-size:12px;line-height:1.7;color:var(--muted);max-width:960px}
+.buying-priority{border:1px solid var(--line);background:var(--surface);padding:22px;border-radius:8px;margin:16px 0}
+.priority-pair{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px;margin-bottom:16px}
+.priority-rating{min-width:0}
+.priority-context{font-size:11px;font-weight:700;color:var(--muted);display:block;margin-bottom:8px}
+.priority-number{display:flex;align-items:center;gap:12px;min-height:43px}
+.priority-number>strong{font-size:32px;line-height:1;font-variant-numeric:tabular-nums;white-space:nowrap;color:var(--ink)}
+.priority-number small{font-size:15px;color:var(--muted);font-weight:500;margin-left:2px}
+.priority-number>span{font-size:12px;font-weight:650;line-height:1.45;color:var(--ink)}
+.priority-steps{display:flex;gap:4px;height:5px;margin-top:12px}
+.priority-steps i{flex:1;background:var(--line);border-radius:2px}
+.priority-steps i.is-filled{background:var(--accent)}
+.buying-priority p{font-size:13px;line-height:1.7;margin:12px 0 0}
+.buying-priority .priority-need{color:var(--ink)}
+.buying-priority .priority-scope,.buying-priority .priority-baseline{font-size:12px;color:var(--muted)}
+.guide-card>.buying-priority{margin:0 18px 18px;padding:16px}
+.guide-card .priority-pair{gap:14px}
+.guide-card .priority-number{display:block}
+.guide-card .priority-number>strong{display:block;font-size:27px;margin-bottom:7px}
+.guide-card .priority-number>span{font-size:11px}
+.guide-card .buying-priority p{font-size:11px;line-height:1.6}
+.audience-guidance,.value-reasons{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px;margin:22px 0}
+.audience-guidance>div,.value-reasons>div{border-top:2px solid var(--line);padding-top:15px;min-width:0}
+.audience-guidance h4,.value-reasons h4,.food-source-card h4{font-size:15px;margin:0 0 12px;line-height:1.5}
+.audience-guidance ul,.value-reasons ul{padding-left:20px;margin:0;font-size:13px;line-height:1.8}
+.audience-guidance li,.value-reasons li{margin-bottom:10px}
+.food-source-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin:22px 0}
+.food-source-card{padding:18px;border:1px solid var(--line);border-radius:6px;background:var(--surface);min-width:0}
+.food-source-card>span{display:block;color:var(--accent);font-size:10px;font-weight:700;margin-bottom:9px}
+.food-source-card>p{font-size:13px;line-height:1.7;color:var(--muted);margin:0}
+.value-evidence{font-size:12px;color:var(--muted)}
+.rating-method{padding:16px 0;margin:20px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.rating-method summary,.category-buying-preview summary,.offer-buying-guide summary{cursor:pointer;font-size:13px;font-weight:650;color:var(--accent)}
+.rating-method p,.rating-method ol{font-size:12px;line-height:1.8;margin-top:14px}
+.rating-method ol{padding-left:22px}
+.category-buying-preview{margin-top:17px;padding-top:14px;border-top:1px solid var(--line)}
+.category-buying-preview .buying-priority{max-width:760px;padding:17px}
+.category-buying-preview>small{display:block;font-size:11px;color:var(--muted);max-width:760px;line-height:1.7}
+.offer-buying-guide{border:1px solid var(--line);padding:18px;border-radius:7px;background:var(--surface);margin:16px 0 24px}
+.offer-buying-guide>p{font-size:13px;line-height:1.7;margin:13px 0}
+.guidance-overline{font-size:10px!important;font-weight:700;letter-spacing:.06em;color:var(--muted)}
+.food-examples{font-size:12px!important;color:var(--muted)}
+@media(max-width:700px){.buying-guide-controls,.audience-guidance,.value-reasons,.food-source-grid{grid-template-columns:1fr}.buying-priority{padding:17px}.priority-pair{gap:16px}.priority-number{display:block}.priority-number>strong{display:block;margin-bottom:8px}.priority-number>span{font-size:11px}.offer-buying-guide{padding:15px}}

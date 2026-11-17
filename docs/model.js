@@ -132,6 +132,15 @@ export function createSnapshot(bundle){
    const sourceIds=new Set();
    for(const source of research.sources){if(!source.id||sourceIds.has(source.id)||!https(source.url)||!isoDate(source.checked)||['title','kind','summary','limitations'].some(k=>!source[k]))invalid('Invalid, duplicate or unsafe research reference.');sourceIds.add(source.id);}
    const articleIds=new Set();for(const a of research.articles){if(!a.id||articleIds.has(a.id)||!result[a.category]||!isoDate(a.reviewed)||['title','summary','evidence','limitations','catalogReading','safety','author'].some(k=>!a[k])||!a.sourceIds?.length||a.sourceIds.some(id=>!sourceIds.has(id)))invalid('Invalid guide, category or reference link.');articleIds.add(a.id);if(!Array.isArray(a.bodySteps)||a.bodySteps.length<2||a.bodySteps.some(step=>typeof step!=='string'||!step.trim())||['treatment','whoMayBenefit','routineUse'].some(key=>typeof a[key]!=='string'||!a[key].trim())||['bodySources','sectionSources'].some(key=>!Array.isArray(a[key])||!a[key].length||a[key].some(id=>!sourceIds.has(id)||!a.sourceIds.includes(id))))invalid('Each guide needs sourced body processing, treatment limits, eligibility and routine-use context.');}
+   if(research.articles.some(a=>a.buyingGuide!=null)&&research.valuePolicy==null)invalid('Buying guides require an explicit editorial rating policy.');
+   if(research.valuePolicy!=null){
+    const p=research.valuePolicy,text=v=>typeof v==='string'&&v.trim().length>0,strings=v=>Array.isArray(v)&&v.length>0&&v.every(text),score=v=>Number.isInteger(v)&&v>=1&&v<=5;
+    if(!text(p.name)||!text(p.baseline)||!text(p.summary)||!text(p.method)||!isoDate(p.reviewed)||!Array.isArray(p.scale)||p.scale.length!==5||p.scale.some(s=>!s||typeof s!=='object')||new Set(p.scale.map(s=>s.score)).size!==5||p.scale.some(s=>!score(s.score)||!text(s.label)||!text(s.description))||['strong','moderate','limited','mixed'].some(k=>!text(p.evidenceLabels?.[k])))invalid('Buying guidance needs a complete five-level editorial rating policy and explicit routine-use context.');
+    for(const a of research.articles){
+     const g=a.buyingGuide,v=g?.value,validRefs=ids=>Array.isArray(ids)&&ids.length>0&&new Set(ids).size===ids.length&&ids.every(id=>sourceIds.has(id)&&a.sourceIds.includes(id));
+     if(!g||!isoDate(g.reviewed)||!strings(g.whoCanConsider)||!strings(g.whoShouldReview)||!text(g.foodSummary)||!Array.isArray(g.foods)||g.foods.some(f=>!text(f?.name)||!text(f?.detail)||!['direct','precursor','different-form'].includes(f?.relationship))||!validRefs(g.foodSourceIds)||!v||!score(v.routineScore)||!score(v.targetedScore)||!['strong','moderate','limited','mixed'].includes(v.evidence)||!text(v.targetedUse)||!text(v.reason)||!text(v.scope)||!strings(v.worthWhen)||!strings(v.skipWhen)||!validRefs(v.sourceIds))invalid(`Guide ${a.category} needs sourced audience, food context and conditional purchase ratings.`);
+    }
+   }
   }
  }
  if(bundle.recommender){

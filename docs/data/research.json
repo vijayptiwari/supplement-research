@@ -15,9 +15,13 @@
       "sourceIds": [
         "protein-review",
         "exercise",
-        "digestion"
+        "digestion",
+        "food-protein",
+        "food-protein-vegetarian",
+        "food-kidney-diet",
+        "food-allergens"
       ],
-      "reviewed": "2026-10-29",
+      "reviewed": "2026-11-17",
       "author": "Supplement Research editorial synthesis",
       "bodySteps": [
         "Stomach and intestinal enzymes break dietary protein into smaller peptides and amino acids.",
@@ -35,7 +39,68 @@
         "digestion",
         "exercise",
         "protein-review"
-      ]
+      ],
+      "buyingGuide": {
+        "whoCanConsider": [
+          "Adults whose food intake leaves a protein gap, including people with higher requirements from training.",
+          "People who find an appropriate powder more practical than adding another protein-containing meal."
+        ],
+        "whoShouldReview": [
+          "Kidney disease or an existing protein-restricted diet requires an individualized nutrition plan.",
+          "Milk, egg, soy or other food allergy requires ingredient and allergen review; whey is milk-derived."
+        ],
+        "foodSummary": "Food can supply protein without a powder. Judge the need from total intake, preferences and practical meal choices.",
+        "foods": [
+          {
+            "name": "Dal, beans and chickpeas",
+            "relationship": "direct",
+            "detail": "Provide dietary protein alongside fibre."
+          },
+          {
+            "name": "Tofu and other soy foods",
+            "relationship": "direct",
+            "detail": "Plant protein options for a varied diet."
+          },
+          {
+            "name": "Milk, curd and paneer",
+            "relationship": "direct",
+            "detail": "Dairy protein; suitability depends on milk allergy and individual tolerance."
+          },
+          {
+            "name": "Eggs, fish and poultry",
+            "relationship": "direct",
+            "detail": "Animal-food protein options; powders are an additional convenient format."
+          }
+        ],
+        "foodSourceIds": [
+          "food-protein",
+          "food-protein-vegetarian"
+        ],
+        "value": {
+          "routineScore": 2,
+          "targetedScore": 4,
+          "targetedUse": "Filling an identified dietary protein gap when a suitable powder is practical.",
+          "reason": "Useful convenience when intake is short; additional powder has little purchase priority once the protein requirement is already met.",
+          "worthWhen": [
+            "A food-intake review shows a gap.",
+            "The chosen protein source, price and tolerability fit the person."
+          ],
+          "skipWhen": [
+            "Food already supplies adequate protein.",
+            "Buying it would displace needed meals or essential food spending."
+          ],
+          "evidence": "strong",
+          "scope": "Editorial purchase priority for meeting protein needs; the score does not certify a brand, batch or medical suitability.",
+          "sourceIds": [
+            "exercise",
+            "protein-review",
+            "food-protein",
+            "food-kidney-diet",
+            "food-allergens"
+          ]
+        },
+        "reviewed": "2026-11-17"
+      }
     },
     {
       "id": "creatine-guide",
@@ -48,9 +113,10 @@
       "safety": "Discuss use with a clinician if you have kidney disease or another relevant medical condition. Research protocols are not personalized instructions.",
       "sourceIds": [
         "exercise",
-        "creatine-position"
+        "creatine-position",
+        "food-protein-vegetarian"
       ],
-      "reviewed": "2026-10-29",
+      "reviewed": "2026-11-17",
       "author": "Supplement Research editorial synthesis",
       "bodySteps": [
         "Absorbed creatine enters circulation and is taken up by tissues, predominantly muscle.",
@@ -66,7 +132,61 @@
       "sectionSources": [
         "exercise",
         "creatine-position"
-      ]
+      ],
+      "buyingGuide": {
+        "whoCanConsider": [
+          "Adults undertaking structured resistance training or repeated high-intensity efforts who want an optional performance aid.",
+          "Vegetarian athletes may be responsive because habitual muscle creatine stores can be lower."
+        ],
+        "whoShouldReview": [
+          "Existing kidney disease or unexplained abnormal kidney tests warrants professional review before use.",
+          "Athletes in weight-category or weight-sensitive sports should consider potential body-mass increases with their sports professional."
+        ],
+        "foodSummary": "Meat and seafood contain creatine. The body also makes it from amino acids; food and precursor intake are not a standardized supplement dose.",
+        "foods": [
+          {
+            "name": "Fish, including salmon",
+            "relationship": "direct",
+            "detail": "A dietary source of preformed creatine; content varies."
+          },
+          {
+            "name": "Meat",
+            "relationship": "direct",
+            "detail": "Contains preformed creatine alongside protein and other nutrients."
+          },
+          {
+            "name": "Protein foods such as beans and soy",
+            "relationship": "precursor",
+            "detail": "Supply amino acids used in endogenous creatine synthesis; they are not comparable direct creatine sources."
+          }
+        ],
+        "foodSourceIds": [
+          "exercise",
+          "creatine-position",
+          "food-protein-vegetarian"
+        ],
+        "value": {
+          "routineScore": 3,
+          "targetedScore": 5,
+          "targetedUse": "Creatine monohydrate supporting a consistent resistance-training or repeated high-intensity exercise programme.",
+          "reason": "Monohydrate has substantial performance evidence for this goal. General fitness alone does not establish the same purchase priority.",
+          "worthWhen": [
+            "The training goal matches the evidence.",
+            "A clearly labelled monohydrate product fits the budget and body-mass trade-off."
+          ],
+          "skipWhen": [
+            "No relevant performance goal exists.",
+            "Paying extra for another chemical form relies on an unsupported superiority claim."
+          ],
+          "evidence": "strong",
+          "scope": "Targeted score applies to monohydrate and the stated training goal; it is not a necessity, medical-treatment rating or rating of every creatine form.",
+          "sourceIds": [
+            "exercise",
+            "creatine-position"
+          ]
+        },
+        "reviewed": "2026-11-17"
+      }
     },
     {
       "id": "ashwagandha-guide",
@@ -81,7 +201,7 @@
         "ash-overview",
         "ash-trial"
       ],
-      "reviewed": "2026-10-29",
+      "reviewed": "2026-11-17",
       "author": "Supplement Research editorial synthesis",
       "bodySteps": [
         "A swallowed product supplies a mixture of plant constituents; powders and extracts can have different compositions.",
@@ -97,7 +217,44 @@
       "sectionSources": [
         "ash-overview",
         "ash-trial"
-      ]
+      ],
+      "buyingGuide": {
+        "whoCanConsider": [
+          "Adults discussing persistent stress or sleep difficulties and appropriate treatment options with a clinician.",
+          "People considering a short-term, clearly identified extract while accepting the limited and formulation-specific evidence."
+        ],
+        "whoShouldReview": [
+          "Avoid during pregnancy or breastfeeding; discuss alternatives with a clinician.",
+          "Liver or thyroid disease requires particular caution.",
+          "Thyroid medicines, sedatives, immunosuppressants, and blood-pressure or diabetes medicines need interaction review."
+        ],
+        "foodSummary": "Ashwagandha is a botanical preparation with no ordinary food equivalent. Root powder in a food or drink does not establish equivalence to a studied standardized extract.",
+        "foods": [],
+        "foodSourceIds": [
+          "ash-overview"
+        ],
+        "value": {
+          "routineScore": 1,
+          "targetedScore": 3,
+          "targetedUse": "A short-term clinician-reviewed discussion of a specific extract for stress or sleep difficulties.",
+          "reason": "Small studies suggest possible benefit, but preparations vary and long-term safety is uncertain.",
+          "worthWhen": [
+            "The preparation can be compared meaningfully with a studied extract.",
+            "Safety, medicines and a plan to reassess use have been reviewed."
+          ],
+          "skipWhen": [
+            "There is no defined problem to address.",
+            "The purchase is driven by universal stress, hormone or cure claims."
+          ],
+          "evidence": "limited",
+          "scope": "Editorial priority for a selected short-term context; it does not replace assessment or establish safety of all extracts.",
+          "sourceIds": [
+            "ash-overview",
+            "ash-trial"
+          ]
+        },
+        "reviewed": "2026-11-17"
+      }
     },
     {
       "id": "fish-oil-guide",
@@ -110,9 +267,11 @@
       "safety": "Discuss use with a clinician when taking anticoagulants or considering high doses. High-dose trials have raised atrial-fibrillation concerns in some settings.",
       "sourceIds": [
         "omega-overview",
-        "omega-vital"
+        "omega-vital",
+        "food-omega3",
+        "food-allergens"
       ],
-      "reviewed": "2026-10-29",
+      "reviewed": "2026-11-17",
       "author": "Supplement Research editorial synthesis",
       "bodySteps": [
         "Digestion releases fatty acids from dietary oils.",
@@ -128,7 +287,57 @@
       "sectionSources": [
         "omega-overview",
         "omega-vital"
-      ]
+      ],
+      "buyingGuide": {
+        "whoCanConsider": [
+          "Adults with persistently low oily-fish intake who are reviewing options for dietary EPA and DHA.",
+          "People for whom food changes are impractical and a suitable clearly labelled product meets an assessed nutritional preference."
+        ],
+        "whoShouldReview": [
+          "Fish allergy requires product-specific suitability review.",
+          "Anticoagulant use or a history of atrial fibrillation warrants discussion before supplementation, particularly stronger products.",
+          "High triglycerides or cardiovascular disease needs medical assessment; ordinary retail fish oil does not substitute for prescription treatment."
+        ],
+        "foodSummary": "Oily fish supplies EPA and DHA directly. Plant omega-3 foods mainly provide ALA, whose conversion to EPA and DHA is limited.",
+        "foods": [
+          {
+            "name": "Sardines, mackerel and salmon",
+            "relationship": "direct",
+            "detail": "Seafood sources of EPA and DHA; contents vary by species and food."
+          },
+          {
+            "name": "Flaxseed, chia seeds and walnuts",
+            "relationship": "different-form",
+            "detail": "Provide mainly ALA omega-3; they are not equivalent EPA+DHA amounts."
+          }
+        ],
+        "foodSourceIds": [
+          "food-omega3"
+        ],
+        "value": {
+          "routineScore": 2,
+          "targetedScore": 3,
+          "targetedUse": "Reviewing an EPA/DHA source when oily-fish intake stays low and dietary change is impractical.",
+          "reason": "A dietary gap can justify consideration, but routine retail fish oil has not consistently prevented major cardiovascular events in generally healthy adults.",
+          "worthWhen": [
+            "Actual EPA+DHA and label servings are declared.",
+            "Dietary context and relevant medicines have been considered."
+          ],
+          "skipWhen": [
+            "The purchase assumes guaranteed heart-disease prevention.",
+            "Only total fish-oil mass is offered as evidence of strength."
+          ],
+          "evidence": "mixed",
+          "scope": "Retail nutritional comparison only; prescription omega-3 indications and formulations require separate evidence and care.",
+          "sourceIds": [
+            "omega-overview",
+            "omega-vital",
+            "food-omega3",
+            "food-allergens"
+          ]
+        },
+        "reviewed": "2026-11-17"
+      }
     },
     {
       "id": "vitamin-d-guide",
@@ -141,9 +350,10 @@
       "safety": "Excess vitamin D can cause harm, including high blood calcium. Consider existing prescriptions and other supplements before combining products.",
       "sourceIds": [
         "d-overview",
-        "d-vital"
+        "d-vital",
+        "food-vitamin-d"
       ],
-      "reviewed": "2026-10-29",
+      "reviewed": "2026-11-17",
       "author": "Supplement Research editorial synthesis",
       "bodySteps": [
         "The intestine absorbs vitamin D from food or supplements; skin can also produce it after UVB exposure.",
@@ -159,7 +369,65 @@
       "sectionSources": [
         "d-overview",
         "d-vital"
-      ]
+      ],
+      "buyingGuide": {
+        "whoCanConsider": [
+          "Adults with diagnosed deficiency following an individualized treatment plan.",
+          "People with malabsorption or another recognized risk factor who need assessment of vitamin D intake and status."
+        ],
+        "whoShouldReview": [
+          "Kidney disease, hyperparathyroidism or high blood calcium requires medical review.",
+          "Thiazide use, strong products or overlapping calcium/vitamin D supplements needs a total-intake check."
+        ],
+        "foodSummary": "Few foods naturally provide much vitamin D. Fortified foods can contribute; fortification varies by product and country.",
+        "foods": [
+          {
+            "name": "Fatty fish",
+            "relationship": "direct",
+            "detail": "Salmon, trout and mackerel provide vitamin D."
+          },
+          {
+            "name": "Egg yolks",
+            "relationship": "direct",
+            "detail": "Contribute smaller naturally occurring amounts."
+          },
+          {
+            "name": "UV-exposed mushrooms",
+            "relationship": "different-form",
+            "detail": "Provide vitamin D2; the amount varies with treatment and product."
+          },
+          {
+            "name": "Vitamin-D-fortified milk or plant drinks",
+            "relationship": "direct",
+            "detail": "Read the label; ordinary dairy or plant drinks are not automatically fortified."
+          }
+        ],
+        "foodSourceIds": [
+          "food-vitamin-d",
+          "d-overview"
+        ],
+        "value": {
+          "routineScore": 1,
+          "targetedScore": 5,
+          "targetedUse": "Clinician-guided correction of an established vitamin D deficiency.",
+          "reason": "Treating deficiency has a strong rationale. Extra supplementation has not shown the same benefit in generally healthy, adequately supplied adults.",
+          "worthWhen": [
+            "There is an established need and an appropriate treatment plan.",
+            "Strength, frequency and overlapping sources have been reviewed."
+          ],
+          "skipWhen": [
+            "A strong product is chosen solely for general wellness.",
+            "Adequate status is assumed to improve further with escalating intake."
+          ],
+          "evidence": "strong",
+          "scope": "Targeted rating concerns deficiency treatment. Population-specific preventive guidance and high-strength retail products need separate assessment.",
+          "sourceIds": [
+            "d-overview",
+            "d-vital"
+          ]
+        },
+        "reviewed": "2026-11-17"
+      }
     },
     {
       "id": "magnesium-guide",
@@ -173,7 +441,7 @@
       "sourceIds": [
         "mg-overview"
       ],
-      "reviewed": "2026-10-29",
+      "reviewed": "2026-11-17",
       "author": "Supplement Research editorial synthesis",
       "bodySteps": [
         "A magnesium compound must release magnesium that can be absorbed from the intestine.",
@@ -188,7 +456,63 @@
       "routineUse": "No universal need for magnesium tablets if intake is adequate. Symptoms such as cramps alone do not establish deficiency.",
       "sectionSources": [
         "mg-overview"
-      ]
+      ],
+      "buyingGuide": {
+        "whoCanConsider": [
+          "Adults with an assessed magnesium shortfall that food changes cannot readily address.",
+          "People with diagnosed deficiency or ongoing losses following a clinician's plan."
+        ],
+        "whoShouldReview": [
+          "Impaired kidney function raises the risk from excess supplemental magnesium.",
+          "Certain antibiotics, oral bisphosphonates, diuretics or long-term acid-suppressing medicines require review."
+        ],
+        "foodSummary": "Magnesium is available across common plant foods; dietary variety can address many intake gaps.",
+        "foods": [
+          {
+            "name": "Pumpkin seeds, almonds and cashews",
+            "relationship": "direct",
+            "detail": "Nuts and seeds provide dietary magnesium."
+          },
+          {
+            "name": "Beans, lentils and soybeans",
+            "relationship": "direct",
+            "detail": "Legume sources that also supply protein and fibre."
+          },
+          {
+            "name": "Green leafy vegetables",
+            "relationship": "direct",
+            "detail": "Spinach and similar vegetables contribute magnesium."
+          },
+          {
+            "name": "Whole grains",
+            "relationship": "direct",
+            "detail": "Retaining bran and germ generally retains more magnesium than refining."
+          }
+        ],
+        "foodSourceIds": [
+          "mg-overview"
+        ],
+        "value": {
+          "routineScore": 2,
+          "targetedScore": 4,
+          "targetedUse": "Addressing an assessed inadequate intake or deficiency with a suitable elemental-magnesium amount.",
+          "reason": "A demonstrated shortfall supports purchase; a salt name alone does not establish a need or sleep benefit.",
+          "worthWhen": [
+            "Food intake and the reason for supplementation are understood.",
+            "Elemental content, tolerability and medicines have been checked."
+          ],
+          "skipWhen": [
+            "Adequate intake is already achieved.",
+            "The only rationale is a promise of better sleep or recovery for everyone."
+          ],
+          "evidence": "strong",
+          "scope": "Assessment concerns meeting magnesium needs; it does not grade sleep claims or certify superiority of a particular salt.",
+          "sourceIds": [
+            "mg-overview"
+          ]
+        },
+        "reviewed": "2026-11-17"
+      }
     },
     {
       "id": "zmc-guide",
@@ -204,7 +528,7 @@
         "mg-overview",
         "zn-overview"
       ],
-      "reviewed": "2026-10-29",
+      "reviewed": "2026-11-17",
       "author": "Supplement Research editorial synthesis",
       "bodySteps": [
         "The tablet releases separate calcium, magnesium and zinc compounds in the digestive tract.",
@@ -223,7 +547,68 @@
         "ca-overview",
         "mg-overview",
         "zn-overview"
-      ]
+      ],
+      "buyingGuide": {
+        "whoCanConsider": [
+          "Adults whose separate calcium, magnesium and zinc assessments identify needs that match a combination product.",
+          "People simplifying an established mineral plan after checking amounts and duplication with a clinician or dietitian."
+        ],
+        "whoShouldReview": [
+          "Kidney disease, kidney-stone history or high blood calcium requires review.",
+          "Levothyroxine, oral bisphosphonates and certain antibiotics can interact with mineral supplements.",
+          "Existing mineral products need a total-intake check, including zinc exposure and copper balance."
+        ],
+        "foodSummary": "ZMC is three nutrients combined in a product. A varied diet supplies the minerals in different proportions; it need not reproduce a tablet's ratio.",
+        "foods": [
+          {
+            "name": "Milk, curd and calcium-set tofu",
+            "relationship": "direct",
+            "detail": "Calcium sources; tofu calcium depends on the coagulant and label."
+          },
+          {
+            "name": "Seeds, nuts and legumes",
+            "relationship": "direct",
+            "detail": "Provide magnesium and zinc; phytate affects zinc absorption."
+          },
+          {
+            "name": "Fish eaten with edible bones",
+            "relationship": "direct",
+            "detail": "Canned sardines and salmon with bones are calcium sources."
+          },
+          {
+            "name": "Meat and seafood",
+            "relationship": "direct",
+            "detail": "Dietary zinc sources; mineral profiles differ across foods."
+          }
+        ],
+        "foodSourceIds": [
+          "ca-overview",
+          "mg-overview",
+          "zn-overview"
+        ],
+        "value": {
+          "routineScore": 1,
+          "targetedScore": 3,
+          "targetedUse": "A convenience combination when individually reviewed needs for all three minerals match the product amounts.",
+          "reason": "The minerals are essential, but their individual roles do not establish that a fixed combination is the best purchase.",
+          "worthWhen": [
+            "Each elemental amount fits a specific plan.",
+            "The combination reduces practical burden without unnecessary overlap."
+          ],
+          "skipWhen": [
+            "Only one mineral needs attention.",
+            "The purchase relies on combined-mass, testosterone or universal recovery claims."
+          ],
+          "evidence": "limited",
+          "scope": "This grades the added purchase value of a fixed ZMC combination; evidence for treating individual nutrient needs is a separate question.",
+          "sourceIds": [
+            "ca-overview",
+            "mg-overview",
+            "zn-overview"
+          ]
+        },
+        "reviewed": "2026-11-17"
+      }
     },
     {
       "id": "glutathione-guide",
@@ -239,9 +624,10 @@
         "gsh-stores",
         "gsh-oxidative",
         "gsh-skin",
-        "gsh-skin-2026"
+        "gsh-skin-2026",
+        "food-gsh-protein-healthcanada"
       ],
-      "reviewed": "2026-10-31",
+      "reviewed": "2026-11-17",
       "author": "Supplement Research editorial synthesis",
       "bodySteps": [
         "Glutathione is a small peptide made from glutamate, cysteine and glycine. Digestion, uptake and processing influence what an oral formulation delivers; the label amount is not a measured amount reaching a tissue.",
@@ -262,7 +648,62 @@
         "gsh-oxidative",
         "gsh-skin",
         "gsh-skin-2026"
-      ]
+      ],
+      "buyingGuide": {
+        "whoCanConsider": [
+          "Adults discussing a specific cosmetic goal, limited expected benefit and alternatives with a dermatologist.",
+          "Adults who then choose a time-limited trial with a clear goal and a stopping point if it does not help."
+        ],
+        "whoShouldReview": [
+          "Pregnant or breastfeeding people and children: the small adult oral trials do not establish safety for these groups.",
+          "Anyone with a medical condition, medicines or changing skin pigmentation: review the cause and the full formulation before buying."
+        ],
+        "foodSummary": "The body makes glutathione from amino acids. Protein foods supply building blocks; they are not equivalent doses of oral glutathione and do not prove a skin-lightening or detox effect.",
+        "foods": [
+          {
+            "name": "Lentils, beans and soy foods",
+            "relationship": "precursor",
+            "detail": "Protein supplies amino-acid building blocks within a varied diet; this is nutritional support, not a measured glutathione dose."
+          },
+          {
+            "name": "Eggs, fish and poultry",
+            "relationship": "precursor",
+            "detail": "Protein foods contribute building blocks for normal metabolism. No particular portion is equated with a supplement serving."
+          },
+          {
+            "name": "Milk and plain curd or yogurt",
+            "relationship": "precursor",
+            "detail": "Dietary protein supports adequate overall nutrition; it is not a clinically equivalent substitute for a studied glutathione formulation."
+          }
+        ],
+        "foodSourceIds": [
+          "gsh-metabolism",
+          "food-gsh-protein-healthcanada"
+        ],
+        "value": {
+          "routineScore": 1,
+          "targetedScore": 2,
+          "targetedUse": "A dermatologist-reviewed, short-term cosmetic goal in an informed adult.",
+          "reason": "Biomarker changes and small cosmetic studies do not establish broad health benefits or lasting skin changes. Even for a narrow cosmetic goal this remains low priority.",
+          "worthWhen": [
+            "The limited evidence and alternatives have been discussed, the goal is specific and the cost is acceptable."
+          ],
+          "skipWhen": [
+            "The promise is general detox, anti-ageing, disease prevention or guaranteed skin lightening.",
+            "The purchase displaces adequate food or appropriate skin assessment."
+          ],
+          "evidence": "mixed",
+          "scope": "Editorial purchase priority for oral products. Routine means a healthy adult with an adequate diet; the targeted score is limited to the stated cosmetic context, not disease treatment or injections.",
+          "sourceIds": [
+            "gsh-metabolism",
+            "gsh-stores",
+            "gsh-oxidative",
+            "gsh-skin",
+            "gsh-skin-2026"
+          ]
+        },
+        "reviewed": "2026-11-17"
+      }
     },
     {
       "id": "melatonin-guide",
@@ -279,9 +720,10 @@
         "melatonin-insomnia",
         "melatonin-children",
         "melatonin-metabolism",
-        "melatonin-physiology"
+        "melatonin-physiology",
+        "food-melatonin-cherries-burkhardt"
       ],
-      "reviewed": "2026-10-31",
+      "reviewed": "2026-11-17",
       "author": "Supplement Research editorial synthesis",
       "bodySteps": [
         "Darkness normally promotes melatonin release from the brain's pineal gland, providing a biological night-time signal; evening light can suppress this signal.",
@@ -301,7 +743,52 @@
         "melatonin-circadian",
         "melatonin-insomnia",
         "melatonin-children"
-      ]
+      ],
+      "buyingGuide": {
+        "whoCanConsider": [
+          "Adults managing travel across time zones who have checked whether a timed jet-lag plan fits their journey.",
+          "Adults with clinically assessed delayed sleep-wake phase who are following a sleep and light-timing plan."
+        ],
+        "whoShouldReview": [
+          "People with epilepsy or blood-thinner treatment need medical supervision; review other medicines too.",
+          "Children, pregnant or breastfeeding people and older adults with dementia need appropriate professional review.",
+          "Persistent insomnia, daytime sleepiness or repeated need for sleep products warrants assessment of the cause."
+        ],
+        "foodSummary": "Tart cherries can contain trace melatonin, with amounts differing by cultivar. Ordinary food is not a predictable, clinically timed melatonin dose, and cherries are not an established cure for insomnia.",
+        "foods": [
+          {
+            "name": "Tart cherries",
+            "relationship": "direct",
+            "detail": "Melatonin has been measured in particular cherry cultivars. Food composition research does not establish reliable pill-equivalent amounts or prove treatment of chronic insomnia."
+          }
+        ],
+        "foodSourceIds": [
+          "food-melatonin-cherries-burkhardt"
+        ],
+        "value": {
+          "routineScore": 1,
+          "targetedScore": 4,
+          "targetedUse": "Adult jet lag or a professionally assessed delayed sleep-wake phase.",
+          "reason": "A selected body-clock problem offers a clearer reason to consider melatonin than a general nightly sleep stack. Timing and the diagnosis matter; chronic insomnia has different treatment priorities.",
+          "worthWhen": [
+            "There is a defined circadian goal and an appropriate timing plan.",
+            "Benefit and ongoing need will be reviewed rather than increasing strength automatically."
+          ],
+          "skipWhen": [
+            "Sleep is already adequate or the aim is simply stronger sedation.",
+            "Persistent insomnia is being managed by indefinite self-escalation instead of assessment and behavioural treatment."
+          ],
+          "evidence": "moderate",
+          "scope": "Editorial priority for the stated adult circadian uses, not a validated efficacy score. It does not endorse a retail strength, pediatric use or routine long-term treatment.",
+          "sourceIds": [
+            "melatonin-overview",
+            "melatonin-circadian",
+            "melatonin-insomnia",
+            "melatonin-children"
+          ]
+        },
+        "reviewed": "2026-11-17"
+      }
     },
     {
       "id": "biotin-guide",
@@ -318,7 +805,7 @@
         "b-family",
         "biotin-metabolic"
       ],
-      "reviewed": "2026-10-31",
+      "reviewed": "2026-11-17",
       "author": "Supplement Research editorial synthesis",
       "bodySteps": [
         "Digestion releases food-bound biotin; the enzyme biotinidase helps make free biotin available for intestinal absorption.",
@@ -335,7 +822,59 @@
         "biotin-overview",
         "biotin-lab",
         "biotin-metabolic"
-      ]
+      ],
+      "buyingGuide": {
+        "whoCanConsider": [
+          "People with established biotin deficiency receiving a cause-specific clinical plan.",
+          "People diagnosed with biotinidase deficiency receiving specialist treatment."
+        ],
+        "whoShouldReview": [
+          "Anyone having blood tests should disclose biotin, including hair gummies and multivitamins; susceptible tests can be misleading. Ask the testing team for assay-specific instructions.",
+          "New or persistent hair loss, brittle nails or a rash needs assessment rather than assuming biotin deficiency."
+        ],
+        "foodSummary": "Many ordinary foods provide biotin. Food supply is different from taking a high-strength beauty product; evidence for extra hair benefit without deficiency is limited.",
+        "foods": [
+          {
+            "name": "Cooked whole eggs",
+            "relationship": "direct",
+            "detail": "Provide dietary biotin. Cooking also inactivates avidin, the raw egg-white protein that can hinder biotin absorption."
+          },
+          {
+            "name": "Fish, including salmon",
+            "relationship": "direct",
+            "detail": "A dietary biotin source; content varies between foods and preparations."
+          },
+          {
+            "name": "Sunflower seeds, almonds and cooked sweet potato",
+            "relationship": "direct",
+            "detail": "Plant-food examples in the NIH food table; these are food choices, not isolated-dose equivalents."
+          }
+        ],
+        "foodSourceIds": [
+          "biotin-overview"
+        ],
+        "value": {
+          "routineScore": 1,
+          "targetedScore": 5,
+          "targetedUse": "Established deficiency or a diagnosed biotinidase disorder managed by the treating team.",
+          "reason": "Replacing a genuinely missing nutrient has a clear purpose. That case does not support buying the largest dose for healthy hair or nails.",
+          "worthWhen": [
+            "The need and formulation have been established by the treating professional."
+          ],
+          "skipWhen": [
+            "Diet is adequate and the purchase rests only on a hair-growth claim.",
+            "Biotin from overlapping products is being ignored before laboratory testing."
+          ],
+          "evidence": "strong",
+          "scope": "The strong targeted rating applies to established deficiency or a diagnosed metabolic disorder. It is an editorial priority, not evidence of cosmetic benefit or a recommendation for a catalog strength.",
+          "sourceIds": [
+            "biotin-overview",
+            "biotin-lab",
+            "biotin-metabolic"
+          ]
+        },
+        "reviewed": "2026-11-17"
+      }
     },
     {
       "id": "vitamin-c-guide",
@@ -349,9 +888,10 @@
       "sourceIds": [
         "c-overview",
         "c-food",
-        "c-cold-review"
+        "c-cold-review",
+        "food-india-nin-fruits"
       ],
-      "reviewed": "2026-10-31",
+      "reviewed": "2026-11-17",
       "author": "Supplement Research editorial synthesis",
       "bodySteps": [
         "Vitamin C is absorbed through the intestine; the fraction absorbed falls as oral intake becomes larger.",
@@ -368,7 +908,66 @@
         "c-overview",
         "c-food",
         "c-cold-review"
-      ]
+      ],
+      "buyingGuide": {
+        "whoCanConsider": [
+          "People with a persistent dietary gap because fruit and vegetable intake is markedly restricted.",
+          "People with confirmed vitamin C deficiency receiving treatment and help with the dietary cause."
+        ],
+        "whoShouldReview": [
+          "People with kidney disease, hyperoxaluria or an iron-overload condition should review supplemental use with a clinician.",
+          "People receiving cancer treatment should discuss antioxidant supplements with their oncology team."
+        ],
+        "foodSummary": "Fruit and vegetables can meet everyday vitamin C needs. Storage and cooking affect content; a food list is not a prediction of an exact absorbed dose.",
+        "foods": [
+          {
+            "name": "Guava and amla",
+            "relationship": "direct",
+            "detail": "Common Indian fruits that provide vitamin C. Their food value does not imply that an amla extract or a fixed serving supplies a particular supplement dose."
+          },
+          {
+            "name": "Oranges and other citrus fruit",
+            "relationship": "direct",
+            "detail": "Provide vitamin C as part of a varied diet."
+          },
+          {
+            "name": "Red or green peppers, tomatoes and broccoli",
+            "relationship": "direct",
+            "detail": "Vegetable sources of vitamin C; heat and prolonged storage can reduce the amount."
+          },
+          {
+            "name": "Kiwifruit and strawberries",
+            "relationship": "direct",
+            "detail": "Additional fruit options listed by NIH; no special fruit or supplement format is required for everyone."
+          }
+        ],
+        "foodSourceIds": [
+          "c-overview",
+          "c-food",
+          "food-india-nin-fruits"
+        ],
+        "value": {
+          "routineScore": 2,
+          "targetedScore": 5,
+          "targetedUse": "Confirmed vitamin C deficiency, with an appropriate replacement plan and assessment of its cause.",
+          "reason": "Correcting deficiency is valuable. For an adequately nourished adult, a larger tablet or an immunity claim is a weaker reason to buy; routine use generally does not prevent colds.",
+          "worthWhen": [
+            "A demonstrated intake gap cannot reasonably be corrected with food, or deficiency treatment has been advised."
+          ],
+          "skipWhen": [
+            "Diet already supplies enough and the aim is general infection prevention.",
+            "Extra strength, liposomal branding or effervescence is being treated as proof of better outcomes."
+          ],
+          "evidence": "strong",
+          "scope": "The score of 5 applies to established deficiency, not a promise of cold prevention or better athletic performance. Scores are editorial purchase priorities, not clinical effect sizes.",
+          "sourceIds": [
+            "c-overview",
+            "c-food",
+            "c-cold-review"
+          ]
+        },
+        "reviewed": "2026-11-17"
+      }
     },
     {
       "id": "vitamin-b-guide",
@@ -383,9 +982,10 @@
         "b-family",
         "b12-overview",
         "b6-overview",
-        "b3-overview"
+        "b3-overview",
+        "food-gsh-protein-healthcanada"
       ],
-      "reviewed": "2026-10-31",
+      "reviewed": "2026-11-17",
       "author": "Supplement Research editorial synthesis",
       "bodySteps": [
         "Different B vitamins enter distinct metabolic pathways; there is no single absorption or processing route for a B-complex blend.",
@@ -405,7 +1005,68 @@
         "b12-overview",
         "b6-overview",
         "b3-overview"
-      ]
+      ],
+      "buyingGuide": {
+        "whoCanConsider": [
+          "People eating little or no animal food who need a reliable B12 source from appropriately fortified food or supplementation.",
+          "People with an identified deficiency or a clinician-assessed absorption problem needing the relevant vitamin and treatment route."
+        ],
+        "whoShouldReview": [
+          "Numbness, balance problems, unexplained anaemia or persistent fatigue needs cause-specific assessment.",
+          "People with gastrointestinal disease or surgery, or medicines that affect B12, should review absorption and treatment needs.",
+          "Anyone stacking B-complex, multivitamin and energy products should check total B6 and niacin exposure; more is not automatically harmless."
+        ],
+        "foodSummary": "The eight B vitamins have different food sources and requirements. A varied diet supplies many of them, but unfortified plant foods are not a reliable B12 strategy.",
+        "foods": [
+          {
+            "name": "Wholegrains, peas, nuts and seeds",
+            "relationship": "direct",
+            "detail": "Supply several B vitamins, with the mix differing by food. They do not provide a reliable natural B12 source."
+          },
+          {
+            "name": "Milk, curd and eggs",
+            "relationship": "direct",
+            "detail": "Examples supplying B2 and B12; whether the overall intake is sufficient depends on the diet."
+          },
+          {
+            "name": "Fish, meat and poultry",
+            "relationship": "direct",
+            "detail": "Supply B12 and other B vitamins in differing amounts."
+          },
+          {
+            "name": "Foods explicitly fortified with B12",
+            "relationship": "direct",
+            "detail": "Check the label on plant beverages, cereals or nutritional yeast: fortification varies and cannot be assumed."
+          }
+        ],
+        "foodSourceIds": [
+          "b-family",
+          "b12-overview",
+          "food-gsh-protein-healthcanada"
+        ],
+        "value": {
+          "routineScore": 2,
+          "targetedScore": 5,
+          "targetedUse": "Supplying a specific missing B vitamin, including a reliable B12 source where dietary provision is inadequate.",
+          "reason": "There is a strong case for addressing the actual nutrient gap. That does not make every broad B-complex or high-strength energy formula a good purchase.",
+          "worthWhen": [
+            "The required vitamin, amount and route fit an assessed dietary gap or clinical plan."
+          ],
+          "skipWhen": [
+            "A broad complex is being chosen solely for nonspecific tiredness or an energy claim.",
+            "A stronger blend adds unnecessary B6 or niacin to products already being used."
+          ],
+          "evidence": "strong",
+          "scope": "The targeted rating applies to an appropriate missing-vitamin replacement or B12 provision. It is not a universal B-complex endorsement, a potency score or a substitute for diagnosis.",
+          "sourceIds": [
+            "b-family",
+            "b12-overview",
+            "b6-overview",
+            "b3-overview"
+          ]
+        },
+        "reviewed": "2026-11-17"
+      }
     },
     {
       "id": "folic-acid-guide",
@@ -422,7 +1083,7 @@
         "b-family",
         "b12-overview"
       ],
-      "reviewed": "2026-10-31",
+      "reviewed": "2026-11-17",
       "author": "Supplement Research editorial synthesis",
       "bodySteps": [
         "Food folates, folic acid and supplemental 5-MTHF enter the diet in different chemical forms; their label masses do not directly describe identical availability.",
@@ -440,7 +1101,61 @@
         "folate-overview",
         "folate-prevention",
         "b-family"
-      ]
+      ],
+      "buyingGuide": {
+        "whoCanConsider": [
+          "People who could become pregnant should follow a preconception folic-acid prevention plan; waiting until pregnancy is recognised can miss the relevant period.",
+          "People with established folate deficiency after the cause and possible B12 deficiency have been assessed."
+        ],
+        "whoShouldReview": [
+          "A previous neural-tube-defect-affected pregnancy or antiseizure or antifolate medicines calls for an individual clinical plan.",
+          "Unexplained anaemia or neurological symptoms needs assessment, including B12 where appropriate; folic acid alone can leave B12-related nerve injury unaddressed."
+        ],
+        "foodSummary": "Leafy vegetables and pulses supply natural food folate. Folic acid is a different form used in supplements and fortified foods; do not equate food folate or methylfolate with the established folic-acid prevention evidence.",
+        "foods": [
+          {
+            "name": "Spinach and other dark leafy vegetables",
+            "relationship": "different-form",
+            "detail": "Provide native food folates, rather than a labelled dose of added folic acid."
+          },
+          {
+            "name": "Beans, peas and lentils",
+            "relationship": "different-form",
+            "detail": "Useful food-folate sources in a varied diet; they are not a substitute for a recommended preconception folic-acid plan."
+          },
+          {
+            "name": "Foods labelled as fortified with folic acid",
+            "relationship": "direct",
+            "detail": "Some cereals or grain foods contain added folic acid. Check the actual Indian product label: fortification and amounts are not universal."
+          }
+        ],
+        "foodSourceIds": [
+          "folate-overview",
+          "folate-prevention"
+        ],
+        "value": {
+          "routineScore": 2,
+          "targetedScore": 5,
+          "targetedUse": "Folic-acid prevention before and during early pregnancy for people who could become pregnant.",
+          "reason": "This defined prevention use has a strong evidence base. A blanket folate purchase for an otherwise adequately nourished adult is a different decision.",
+          "worthWhen": [
+            "The product supports an appropriate preconception or pregnancy-care plan and explicitly declares folic acid.",
+            "Folate deficiency has been assessed with attention to B12 and its cause."
+          ],
+          "skipWhen": [
+            "There is no identified gap or prevention indication and it simply duplicates a prenatal, multivitamin or B-complex.",
+            "An active-form marketing claim is being assumed to have identical neural-tube-defect prevention evidence."
+          ],
+          "evidence": "strong",
+          "scope": "Editorial priority for the defined prevention need. It does not select an adult retail strength as a pregnancy prescription, cover every birth defect or replace an individual higher-risk care plan.",
+          "sourceIds": [
+            "folate-overview",
+            "folate-prevention",
+            "b12-overview"
+          ]
+        },
+        "reviewed": "2026-11-17"
+      }
     },
     {
       "id": "l-arginine-guide",
@@ -456,7 +1171,9 @@
         "arginine-meta",
         "arginine-methods",
         "arginine-reply",
-        "arginine-mi"
+        "arginine-mi",
+        "food-performance-protein",
+        "food-performance-amino-acids"
       ],
       "reviewed": "2026-11-17",
       "author": "Supplement Research editorial synthesis",
@@ -477,7 +1194,65 @@
         "arginine-methods",
         "arginine-reply",
         "arginine-mi"
-      ]
+      ],
+      "buyingGuide": {
+        "whoCanConsider": [
+          "Healthy adults evaluating a specific workout claim after reviewing diet and training can consider the evidence; a nitric-oxide mechanism alone is a weak buying reason.",
+          "Adults comparing an isolated ingredient with a pre-workout can check whether arginine is already present and whether its actual amount is declared."
+        ],
+        "whoShouldReview": [
+          "People with a recent heart attack should seek medical advice rather than self-start; the post-infarction trial raised safety concerns.",
+          "People taking blood-pressure or other relevant medicines, or with a cardiovascular or kidney condition, need individual review.",
+          "Under-18s and people who are pregnant or breastfeeding need professional guidance rather than an adult sports-product selection."
+        ],
+        "foodSummary": "Arginine is supplied within ordinary dietary protein and is also made by the body. Protein-rich food is a source, not a dose-matched substitute for an isolated workout product.",
+        "foods": [
+          {
+            "name": "Nuts and peanuts",
+            "relationship": "direct",
+            "detail": "Their protein supplies arginine; a separate nitric-oxide claim does not establish a need for extra arginine."
+          },
+          {
+            "name": "Chicken, fish or meat",
+            "relationship": "direct",
+            "detail": "Arginine is present within dietary protein and released during digestion."
+          },
+          {
+            "name": "Dal, beans and soy foods",
+            "relationship": "direct",
+            "detail": "Contribute dietary protein and amino acids as part of a varied eating pattern."
+          }
+        ],
+        "foodSourceIds": [
+          "exercise",
+          "food-performance-protein",
+          "food-performance-amino-acids"
+        ],
+        "value": {
+          "routineScore": 1,
+          "targetedScore": 2,
+          "targetedUse": "An otherwise healthy adult seeking an additional, measurable workout-performance benefit after the basic training and nutrition plan is adequate.",
+          "reason": "Limited and conflicting performance evidence, including methodological concerns in a positive synthesis, makes standalone arginine a low-priority purchase even for that goal.",
+          "worthWhen": [
+            "There is a specific outcome to assess, the labelled L-arginine basis is clear, and the buyer accepts that a benefit may not occur.",
+            "Relevant medical or medicine concerns have been reviewed and the ingredient is not simply duplicated in a pre-workout."
+          ],
+          "skipWhen": [
+            "The main reason is a pump sensation, nitric-oxide marketing or a claim of guaranteed recovery.",
+            "Food and training basics are still the main constraint, or an AAKG/blend headline is being treated as verified free L-arginine."
+          ],
+          "evidence": "limited",
+          "scope": "Fitness purchases in generally healthy adults; this assessment does not rate condition-specific medical treatment or equate AAKG with L-arginine.",
+          "sourceIds": [
+            "exercise",
+            "arginine-meta",
+            "arginine-methods",
+            "arginine-reply",
+            "arginine-mi"
+          ]
+        },
+        "reviewed": "2026-11-17"
+      }
     },
     {
       "id": "l-carnitine-guide",
@@ -516,7 +1291,67 @@
         "lclt",
         "alcar",
         "acetyl l carnitine"
-      ]
+      ],
+      "buyingGuide": {
+        "whoCanConsider": [
+          "Adults discussing a diagnosed carnitine deficiency with a clinician may need a medically selected replacement; this is separate from sports-product shopping.",
+          "Adults reviewing a weight-management claim can consider the small average effects reported in trials alongside the wider nutrition and activity plan."
+        ],
+        "whoShouldReview": [
+          "People with kidney disease, a seizure disorder, or medicines affecting carnitine need individual advice.",
+          "People already prescribed carnitine should review any retail product with their treating clinician rather than substitute forms themselves.",
+          "Children and people who are pregnant or breastfeeding should not select an adult fat-loss product without professional guidance."
+        ],
+        "foodSummary": "Meat, fish, poultry and dairy provide carnitine. Healthy people generally synthesize sufficient carnitine too; a vegetarian diet alone does not establish a deficiency.",
+        "foods": [
+          {
+            "name": "Milk and dairy foods",
+            "relationship": "direct",
+            "detail": "Supply dietary carnitine, with amounts differing by food."
+          },
+          {
+            "name": "Fish",
+            "relationship": "direct",
+            "detail": "A food source of carnitine as well as protein."
+          },
+          {
+            "name": "Chicken and other poultry",
+            "relationship": "direct",
+            "detail": "Provide some carnitine within an ordinary diet."
+          },
+          {
+            "name": "Red meat, where eaten",
+            "relationship": "direct",
+            "detail": "A comparatively rich food source; this is a composition example, not a recommendation to increase intake."
+          }
+        ],
+        "foodSourceIds": [
+          "carnitine-overview",
+          "carnitine-physiology"
+        ],
+        "value": {
+          "routineScore": 1,
+          "targetedScore": 2,
+          "targetedUse": "An adult considering an optional adjunct to a structured weight-management plan, without a diagnosed carnitine deficiency.",
+          "reason": "Trials show a small average weight effect with variable results, not rapid or guaranteed fat burning. A normal role in fat transport does not make extra carnitine a routine need.",
+          "worthWhen": [
+            "The goal and time frame are realistic, and the decision is made within an established nutrition and activity plan.",
+            "The exact form and declared L-carnitine basis are known, rather than substituting full tartrate or acetyl-compound mass."
+          ],
+          "skipWhen": [
+            "It is being bought as a shortcut to fat loss or because meat avoidance is assumed to prove deficiency.",
+            "The buyer expects an immediate energy effect or the same outcome from every carnitine compound."
+          ],
+          "evidence": "mixed",
+          "scope": "This score covers healthy-adult fitness and weight-management purchases. It does not rate prescribed replacement for a diagnosed deficiency or assume all carnitine forms are equivalent.",
+          "sourceIds": [
+            "carnitine-overview",
+            "carnitine-weight",
+            "carnitine-physiology"
+          ]
+        },
+        "reviewed": "2026-11-17"
+      }
     },
     {
       "id": "bcaa-guide",
@@ -531,7 +1366,9 @@
         "exercise",
         "bcaa-trial",
         "bcaa-review",
-        "eaa-position"
+        "eaa-position",
+        "food-performance-protein",
+        "food-performance-amino-acids"
       ],
       "reviewed": "2026-11-17",
       "author": "Supplement Research editorial synthesis",
@@ -552,7 +1389,70 @@
         "bcaa-trial",
         "bcaa-review",
         "eaa-position"
-      ]
+      ],
+      "buyingGuide": {
+        "whoCanConsider": [
+          "Healthy adult exercisers can assess an optional BCAA drink after total protein intake is known, while recognizing that separate BCAA may add little.",
+          "Adults comparing protein, EAA and BCAA can use the ingredient profile to identify overlap instead of assuming all three products are necessary."
+        ],
+        "whoShouldReview": [
+          "Anyone with an inherited amino-acid disorder or a prescribed protein/amino-acid restriction needs specialist advice.",
+          "People with unexplained muscle loss, persistent fatigue or a medical nutrition problem need assessment of the cause and full intake.",
+          "Check allergens and any stimulants or other actives in a mixed product rather than assuming a BCAA label covers their safety."
+        ],
+        "foodSummary": "Leucine, isoleucine and valine occur within food proteins. Complete proteins and a varied plant-protein diet supply them together with the other essential amino acids.",
+        "foods": [
+          {
+            "name": "Milk, curd and paneer",
+            "relationship": "direct",
+            "detail": "Protein foods that supply BCAA together with other amino acids."
+          },
+          {
+            "name": "Eggs, fish or chicken",
+            "relationship": "direct",
+            "detail": "Complete dietary protein supplies BCAA as part of the full amino-acid profile."
+          },
+          {
+            "name": "Tofu and other soy foods",
+            "relationship": "direct",
+            "detail": "Soy protein supplies all nine essential amino acids, including the three BCAA."
+          },
+          {
+            "name": "Dal, beans, nuts and grains",
+            "relationship": "direct",
+            "detail": "A varied daily diet contributes amino acids; assess total protein quality and quantity rather than one isolated ingredient."
+          }
+        ],
+        "foodSourceIds": [
+          "food-performance-protein",
+          "food-performance-amino-acids",
+          "bcaa-review",
+          "eaa-position"
+        ],
+        "value": {
+          "routineScore": 1,
+          "targetedScore": 1,
+          "targetedUse": "Trying to address an identified dietary protein shortfall or add muscle-building benefit once complete protein needs are met.",
+          "reason": "BCAA alone provide only three essential amino acids and are a poor way to correct a full protein gap. An acute synthesis signal does not establish extra long-term gains on top of adequate complete protein.",
+          "worthWhen": [
+            "There is a specific reason for the beverage format and the buyer understands that buying a BCAA ingredient is optional, not a demonstrated complete recovery strategy."
+          ],
+          "skipWhen": [
+            "The purpose is to replace complete protein, meals or all-nine-EAA intake.",
+            "Food or a suitable complete protein already covers requirements, or EAA already supplies the same BCAA.",
+            "A high leucine ratio is being treated as proof of superior muscle gain."
+          ],
+          "evidence": "limited",
+          "scope": "Healthy-adult fitness buying; this low score applies to isolated BCAA, not to the nutritional importance of their amino acids or to specialist clinical nutrition.",
+          "sourceIds": [
+            "exercise",
+            "bcaa-trial",
+            "bcaa-review",
+            "eaa-position"
+          ]
+        },
+        "reviewed": "2026-11-17"
+      }
     },
     {
       "id": "eaa-guide",
@@ -568,7 +1468,9 @@
         "bcaa-review",
         "protein-review",
         "digestion",
-        "eaa-deficit-trial"
+        "eaa-deficit-trial",
+        "food-performance-protein",
+        "food-performance-amino-acids"
       ],
       "reviewed": "2026-11-17",
       "author": "Supplement Research editorial synthesis",
@@ -590,7 +1492,71 @@
         "bcaa-review",
         "protein-review",
         "eaa-deficit-trial"
-      ]
+      ],
+      "buyingGuide": {
+        "whoCanConsider": [
+          "Adults unable to meet professionally assessed protein needs through practical food or complete-protein options may consider a verified all-nine-EAA format.",
+          "Selected older adults or people with low appetite may discuss EAA within an individual nutrition plan; age alone does not establish a need.",
+          "Adult athletes with a documented intake constraint can review EAA as one possible format, rather than automatically adding it to protein and BCAA."
+        ],
+        "whoShouldReview": [
+          "People with an inherited amino-acid disorder or prescribed protein restriction need specialist input.",
+          "Unexplained weight or muscle loss, swallowing problems or persistent poor appetite require assessment of the cause.",
+          "Children, pregnancy and medical nutrition needs require a product and plan selected for that context."
+        ],
+        "foodSummary": "All nine EAA are available from dietary protein. Animal proteins and soy provide a complete profile; varied plant-protein foods can meet needs over the day without being paired at every meal.",
+        "foods": [
+          {
+            "name": "Milk, curd, paneer and eggs",
+            "relationship": "direct",
+            "detail": "Supply complete protein, including all nine essential amino acids."
+          },
+          {
+            "name": "Soybeans, tofu and other soy foods",
+            "relationship": "direct",
+            "detail": "Plant sources of a complete amino-acid profile."
+          },
+          {
+            "name": "Fish, chicken or other meat",
+            "relationship": "direct",
+            "detail": "Complete dietary protein supplies the essential amino acids."
+          },
+          {
+            "name": "Dal or beans with a varied grain-based diet",
+            "relationship": "direct",
+            "detail": "Food variety over the day helps provide the full profile; the individual meal need not imitate a supplement formula."
+          }
+        ],
+        "foodSourceIds": [
+          "food-performance-protein",
+          "food-performance-amino-acids",
+          "eaa-position"
+        ],
+        "value": {
+          "routineScore": 2,
+          "targetedScore": 4,
+          "targetedUse": "A documented protein/EAA intake gap when practical food and complete-protein options are insufficient or not tolerated, with a nutrition professional confirming the format fits.",
+          "reason": "An all-nine-EAA product can be useful as a compact nutrition format for a real intake constraint. It is lower priority when ordinary food or complete protein already meets needs, and short-term synthesis findings are not guaranteed long-term strength gains.",
+          "worthWhen": [
+            "The intake gap has been assessed, and the chosen amino-acid format has a clear practical advantage.",
+            "All nine EAA and their serving amounts are verified, and the product fits the overall nutrition plan."
+          ],
+          "skipWhen": [
+            "The purchase merely duplicates adequate dietary protein or is added to BCAA because both names sound necessary.",
+            "The label does not establish all nine EAA or a useful serving basis.",
+            "It is replacing assessment of unexplained muscle loss or a medical condition."
+          ],
+          "evidence": "moderate",
+          "scope": "The higher targeted score is limited to an assessed intake constraint, not a general performance boost. It concerns a verified all-nine-EAA profile, not BCAA or an unspecified amino blend.",
+          "sourceIds": [
+            "eaa-position",
+            "eaa-deficit-trial",
+            "protein-review",
+            "bcaa-review"
+          ]
+        },
+        "reviewed": "2026-11-17"
+      }
     },
     {
       "id": "pre-workout-guide",
@@ -606,7 +1572,8 @@
         "caffeine-position",
         "preworkout-dryscoop",
         "exercise",
-        "creatine-position"
+        "creatine-position",
+        "food-performance-watermelon"
       ],
       "reviewed": "2026-11-17",
       "author": "Supplement Research editorial synthesis",
@@ -628,7 +1595,67 @@
         "caffeine-position",
         "preworkout-dryscoop",
         "exercise"
-      ]
+      ],
+      "buyingGuide": {
+        "whoCanConsider": [
+          "Healthy adults with a defined exercise-performance objective can consider a transparently labelled formulation after checking ingredient-specific evidence.",
+          "Adults who already tolerate caffeine and have a relevant performance goal can compare a caffeine-containing formula with simpler options; more ingredients are not automatically useful."
+        ],
+        "whoShouldReview": [
+          "Under-18s and people who are pregnant or breastfeeding need professional guidance and should not default to adult stimulant blends.",
+          "People with cardiovascular conditions, palpitations, anxiety, sleep problems, kidney conditions or regular medicines need individual review.",
+          "Anyone using coffee, energy drinks, caffeine tablets or another pre-workout needs to review total stimulant exposure and duplicate actives.",
+          "Competition athletes should review current sport rules and independently verified batch information; a category label does not certify contents."
+        ],
+        "foodSummary": "There is no single whole-food equivalent of a pre-workout blend. Foods and beverages can provide individual components, but their amounts and effects do not reproduce an arbitrary supplement formula.",
+        "foods": [
+          {
+            "name": "Coffee or tea",
+            "relationship": "different-form",
+            "detail": "Contain caffeine with variable amounts; this is not a standardized multi-ingredient pre-workout."
+          },
+          {
+            "name": "Watermelon",
+            "relationship": "different-form",
+            "detail": "Provides food-derived citrulline, not a dose-matched citrulline-malate formula."
+          },
+          {
+            "name": "Fish or meat",
+            "relationship": "different-form",
+            "detail": "Can provide dietary creatine; eating them does not reproduce the amounts or ingredients in a blend."
+          }
+        ],
+        "foodSourceIds": [
+          "caffeine-position",
+          "exercise",
+          "creatine-position",
+          "food-performance-watermelon"
+        ],
+        "value": {
+          "routineScore": 2,
+          "targetedScore": 3,
+          "targetedUse": "An adult with a defined performance goal where one or more disclosed ingredients are relevant, with total stimulant exposure and health context already reviewed.",
+          "reason": "Selected ingredients can have evidence, but the category is heterogeneous. A complex blend has not automatically been shown better than a simpler ingredient, and unknown amounts prevent a useful comparison.",
+          "worthWhen": [
+            "The exact serving and relevant ingredient amounts are disclosed and match the intended evidence context.",
+            "The formulation offers practical value beyond simpler options, with no unnecessary stimulant or active overlap."
+          ],
+          "skipWhen": [
+            "Caffeine or key active amounts are unknown, or a proprietary-blend total is being treated as an efficacy score.",
+            "The purchase compensates for inadequate sleep, food or a medical cause of fatigue.",
+            "It duplicates another stimulant product or is chosen for the strongest sensation or most ingredients."
+          ],
+          "evidence": "mixed",
+          "scope": "This is a category-level assessment of an appropriately selected transparent adult formulation. It is not a rating of every stimulant-free or caffeinated blend, and it cannot certify a product as safe.",
+          "sourceIds": [
+            "preworkout-review",
+            "caffeine-position",
+            "exercise",
+            "preworkout-dryscoop"
+          ]
+        },
+        "reviewed": "2026-11-17"
+      }
     },
     {
       "id": "citrulline-guide",
@@ -643,7 +1670,8 @@
         "exercise",
         "citrulline-meta",
         "citrulline-forms-trial",
-        "citrulline-critical"
+        "citrulline-critical",
+        "food-performance-watermelon"
       ],
       "reviewed": "2026-11-17",
       "author": "Supplement Research editorial synthesis",
@@ -664,7 +1692,58 @@
         "citrulline-meta",
         "citrulline-forms-trial",
         "citrulline-critical"
-      ]
+      ],
+      "buyingGuide": {
+        "whoCanConsider": [
+          "Healthy adult athletes with a defined exercise test or training objective can consider the small, uncertain performance findings.",
+          "Adults comparing isolated L-citrulline with citrulline malate or a pre-workout can examine declared ingredient amounts and form without assuming equal grams are equivalent."
+        ],
+        "whoShouldReview": [
+          "People using blood-pressure or other relevant medicines, or with cardiovascular or kidney conditions, need individual review.",
+          "People with unexplained fatigue or symptoms attributed to poor circulation need assessment rather than a pump supplement.",
+          "Under-18s, pregnancy and breastfeeding require guidance beyond an adult sports-product comparison."
+        ],
+        "foodSummary": "Watermelon supplies citrulline. Its content varies, and a normal fruit portion or juice serving is not assumed to match an isolated L-citrulline or citrulline-malate amount.",
+        "foods": [
+          {
+            "name": "Watermelon flesh",
+            "relationship": "direct",
+            "detail": "A natural citrulline-containing food; content varies by variety and growing conditions."
+          },
+          {
+            "name": "Watermelon juice",
+            "relationship": "direct",
+            "detail": "Used as a food source of citrulline in research; a biomarker result does not prove the same performance effect as a supplement."
+          }
+        ],
+        "foodSourceIds": [
+          "food-performance-watermelon",
+          "exercise"
+        ],
+        "value": {
+          "routineScore": 2,
+          "targetedScore": 3,
+          "targetedUse": "An otherwise healthy adult evaluating an optional, measurable exercise-performance benefit after training and nutrition are adequate.",
+          "reason": "The latest citrulline-malate synthesis found a small average effect with low to very low certainty. That supports at most a situational purchase, without a reliable benefit or proof that malate is superior.",
+          "worthWhen": [
+            "The buyer has a specific outcome and accepts that a benefit may be small or absent.",
+            "The label distinguishes free L-citrulline from full citrulline-malate mass, and overlap with pre-workout or arginine is reviewed."
+          ],
+          "skipWhen": [
+            "The purchase relies on a pump claim, an assumed conversion of a nominal ratio, or treating compound grams as free L-citrulline.",
+            "It crowds out higher-priority food, training or recovery needs."
+          ],
+          "evidence": "limited",
+          "scope": "Applies to an optional adult exercise goal. Evidence and amounts for L-citrulline and citrulline malate remain separate; the score does not rate treatment of a medical condition.",
+          "sourceIds": [
+            "exercise",
+            "citrulline-meta",
+            "citrulline-forms-trial",
+            "citrulline-critical"
+          ]
+        },
+        "reviewed": "2026-11-17"
+      }
     },
     {
       "id": "beta-alanine-guide",
@@ -679,7 +1758,8 @@
         "exercise",
         "beta-alanine-position",
         "beta-alanine-meta",
-        "beta-alanine-safety"
+        "beta-alanine-safety",
+        "food-performance-bioactives"
       ],
       "reviewed": "2026-11-17",
       "author": "Supplement Research editorial synthesis",
@@ -700,7 +1780,63 @@
         "beta-alanine-position",
         "beta-alanine-meta",
         "beta-alanine-safety"
-      ]
+      ],
+      "buyingGuide": {
+        "whoCanConsider": [
+          "Adult athletes performing selected high-intensity efforts lasting roughly one to four minutes can consider whether the evidence fits their event.",
+          "Adults able to follow a consistent nutrition plan over time can assess repeated-use beta-alanine evidence; occasional use and immediate tingling address different questions."
+        ],
+        "whoShouldReview": [
+          "People with a medical condition, regular medicines or troublesome symptoms should review use with a qualified professional.",
+          "Children and people who are pregnant or breastfeeding need guidance beyond the healthy-adult trial evidence.",
+          "Anyone already using a pre-workout should account for its beta-alanine before adding a separate product."
+        ],
+        "foodSummary": "Meat and fish contain beta-alanine-containing dipeptides such as carnosine or anserine. These are a different dietary form, not an equivalent amount of free beta-alanine isolate.",
+        "foods": [
+          {
+            "name": "Chicken and other poultry",
+            "relationship": "different-form",
+            "detail": "Contain carnosine or anserine, which include beta-alanine; food intake is not treated as an isolate-equivalent serving."
+          },
+          {
+            "name": "Meat, where eaten",
+            "relationship": "different-form",
+            "detail": "Provides carnosine within food, rather than a standardized amount of supplemental free beta-alanine."
+          },
+          {
+            "name": "Fish",
+            "relationship": "different-form",
+            "detail": "Can supply beta-alanine-containing dipeptides; composition differs by species and preparation."
+          }
+        ],
+        "foodSourceIds": [
+          "food-performance-bioactives",
+          "beta-alanine-position"
+        ],
+        "value": {
+          "routineScore": 2,
+          "targetedScore": 4,
+          "targetedUse": "An adult athlete with a relevant sustained high-intensity event, especially in the roughly one-to-four-minute range, where a small performance change matters.",
+          "reason": "There is a reasonable case for selected event demands and repeated exposure that raises muscle carnosine. It is lower priority for general gym use, and neither tingling nor a single pre-workout serving establishes benefit.",
+          "worthWhen": [
+            "The event and outcome fit the studied high-intensity context and the athlete values a possible small effect.",
+            "The labelled beta-alanine amount is clear and combined pre-workout exposure is considered."
+          ],
+          "skipWhen": [
+            "The goal is simply more tingling, immediate energy, guaranteed muscle growth or better performance in every sport.",
+            "Use is occasional and assumed to reproduce repeated-use carnosine studies."
+          ],
+          "evidence": "moderate",
+          "scope": "The higher targeted score is restricted to an appropriate adult high-intensity exercise context. It does not imply all sprint, endurance, strength or recreational activities benefit equally.",
+          "sourceIds": [
+            "beta-alanine-position",
+            "beta-alanine-meta",
+            "beta-alanine-safety",
+            "exercise"
+          ]
+        },
+        "reviewed": "2026-11-17"
+      }
     },
     {
       "id": "taurine-guide",
@@ -715,7 +1851,8 @@
         "taurine-exercise",
         "taurine-meta",
         "caffeine-position",
-        "preworkout-review"
+        "preworkout-review",
+        "food-performance-bioactives"
       ],
       "reviewed": "2026-11-17",
       "author": "Supplement Research editorial synthesis",
@@ -736,7 +1873,57 @@
         "taurine-meta",
         "caffeine-position",
         "preworkout-review"
-      ]
+      ],
+      "buyingGuide": {
+        "whoCanConsider": [
+          "Healthy adult exercisers can review isolated-taurine studies for a specific measurable performance goal, with modest expectations.",
+          "Adults comparing taurine with an energy drink or pre-workout can distinguish the ingredient from caffeine and the effects of the whole mixture."
+        ],
+        "whoShouldReview": [
+          "People with kidney conditions, regular medicines or other medical conditions need individual advice.",
+          "Children, pregnancy and breastfeeding are not covered by a general healthy-adult performance assessment.",
+          "Anyone using energy drinks or pre-workout should review duplicate taurine and separate stimulant exposure."
+        ],
+        "foodSummary": "Fish, shellfish and meat are dietary taurine sources, and the body can synthesize taurine. A low-taurine plant-based diet alone does not demonstrate a need for a sports supplement.",
+        "foods": [
+          {
+            "name": "Fish and shellfish",
+            "relationship": "direct",
+            "detail": "Provide dietary taurine; the amount differs by species and preparation."
+          },
+          {
+            "name": "Poultry and other meat",
+            "relationship": "direct",
+            "detail": "Contain taurine in food, independently of energy-drink caffeine or a proprietary blend."
+          }
+        ],
+        "foodSourceIds": [
+          "food-performance-bioactives",
+          "taurine-exercise"
+        ],
+        "value": {
+          "routineScore": 2,
+          "targetedScore": 2,
+          "targetedUse": "An otherwise healthy adult considering isolated taurine for a defined exercise-performance outcome after basic training and nutrition are addressed.",
+          "reason": "A small pooled exercise effect is possible, but evidence certainty is low to very low and results are not reliably replicated across tasks. That leaves taurine a low-priority purchase for most fitness budgets.",
+          "worthWhen": [
+            "The goal is measurable, the standalone taurine amount is known and uncertainty is acceptable.",
+            "The decision does not depend on assigning all energy-drink effects to taurine."
+          ],
+          "skipWhen": [
+            "The expectation is guaranteed endurance, recovery, fat loss or anti-ageing benefit.",
+            "A mixed drink obscures the amount or duplicates existing pre-workout, and the goal is just to feel stimulated."
+          ],
+          "evidence": "limited",
+          "scope": "Fitness assessment for isolated oral taurine, not an energy-drink safety rating, a clinical indication or a claim that low dietary taurine is a deficiency.",
+          "sourceIds": [
+            "taurine-exercise",
+            "taurine-meta",
+            "caffeine-position"
+          ]
+        },
+        "reviewed": "2026-11-17"
+      }
     },
     {
       "id": "betaine-guide",
@@ -752,7 +1939,8 @@
         "betaine-meta",
         "betaine-endurance",
         "betaine-hcl-trial",
-        "betaine-medical"
+        "betaine-medical",
+        "food-performance-betaine"
       ],
       "reviewed": "2026-11-17",
       "author": "Supplement Research editorial synthesis",
@@ -775,7 +1963,69 @@
         "betaine-endurance",
         "betaine-hcl-trial",
         "betaine-medical"
-      ]
+      ],
+      "buyingGuide": {
+        "whoCanConsider": [
+          "Adult resistance-trained people with a specific strength objective can consider the limited findings for anhydrous betaine/TMG.",
+          "Adults comparing TMG with betaine HCl can first identify the form and intended purpose; exercise and digestive claims use different evidence."
+        ],
+        "whoShouldReview": [
+          "People prescribed betaine for a metabolic disorder require specialist monitoring and should not substitute a workout product.",
+          "Persistent digestive symptoms or use of acid-suppressing medicines warrant clinical review rather than self-diagnosis of low stomach acid.",
+          "People with medical conditions, regular medicines, pregnancy, breastfeeding or under-18 use need individual guidance."
+        ],
+        "foodSummary": "Spinach, wheat products and beets provide naturally occurring betaine/TMG. Food betaine is not a betaine-hydrochloride digestive product or a prescription treatment.",
+        "foods": [
+          {
+            "name": "Spinach",
+            "relationship": "direct",
+            "detail": "Contains food-derived betaine/TMG."
+          },
+          {
+            "name": "Wheat bran and wheat germ",
+            "relationship": "direct",
+            "detail": "Foods identified in USDA composition research as betaine sources."
+          },
+          {
+            "name": "Whole-wheat foods",
+            "relationship": "direct",
+            "detail": "Contribute dietary betaine; processing and preparation affect composition."
+          },
+          {
+            "name": "Beetroot",
+            "relationship": "direct",
+            "detail": "A food source of betaine, without implying equivalence to betaine HCl or a supplement amount."
+          }
+        ],
+        "foodSourceIds": [
+          "food-performance-betaine",
+          "betaine-hcl-trial"
+        ],
+        "value": {
+          "routineScore": 2,
+          "targetedScore": 3,
+          "targetedUse": "A healthy adult resistance-training programme with a specific lower-body strength objective, evaluating anhydrous betaine/TMG as an optional adjunct.",
+          "reason": "Some strength outcomes improve in pooled studies, while several others do not, and endurance evidence remains weak. This is situational value for a particular TMG context, not a broad performance or digestive recommendation.",
+          "worthWhen": [
+            "The exact anhydrous betaine/TMG form and serving are disclosed and the intended outcome fits the evidence.",
+            "The buyer accepts modest, uncertain benefit and has checked whether a pre-workout already includes it."
+          ],
+          "skipWhen": [
+            "Betaine HCl is being bought using TMG workout claims or nonspecific low-stomach-acid symptoms.",
+            "The expectation is a universal strength, endurance or fat-loss effect."
+          ],
+          "evidence": "mixed",
+          "scope": "The targeted rating concerns anhydrous betaine/TMG for a defined adult training outcome. It does not score betaine HCl, prescribe homocystinuria care or equate compound weights.",
+          "sourceIds": [
+            "exercise",
+            "betaine-meta",
+            "betaine-endurance",
+            "betaine-hcl-trial",
+            "betaine-medical"
+          ]
+        },
+        "reviewed": "2026-11-17"
+      }
     },
     {
       "id": "hmb-guide",
@@ -790,7 +2040,9 @@
         "exercise",
         "hmb-position",
         "hmb-young-meta",
-        "hmb-older-meta"
+        "hmb-older-meta",
+        "food-performance-protein",
+        "food-performance-amino-acids"
       ],
       "reviewed": "2026-11-17",
       "author": "Supplement Research editorial synthesis",
@@ -811,7 +2063,65 @@
         "hmb-position",
         "hmb-young-meta",
         "hmb-older-meta"
-      ]
+      ],
+      "buyingGuide": {
+        "whoCanConsider": [
+          "People with a professionally assessed risk of muscle loss during undernutrition or recovery may discuss HMB within their complete nutrition plan.",
+          "Healthy adult athletes can review the conflicting training evidence, while recognizing that adequate food and training do not automatically create an HMB need."
+        ],
+        "whoShouldReview": [
+          "Unexplained muscle or weight loss, immobility, frailty or a medical condition needs a clinical nutrition assessment rather than a standalone muscle-preservation purchase.",
+          "People with kidney disease, regular medicines, pregnancy, breastfeeding or children need individual review.",
+          "People using a clinical nutrition product or mineral supplements should check its full ingredients and declared calcium before adding another product."
+        ],
+        "foodSummary": "Ordinary protein foods supply leucine, from which the body makes some HMB. These are precursor sources; they are not presented as meaningful or dose-matched sources of supplemental HMB.",
+        "foods": [
+          {
+            "name": "Milk, curd, paneer and eggs",
+            "relationship": "precursor",
+            "detail": "Their proteins supply leucine. Food leucine is not a measured HMB supplement dose."
+          },
+          {
+            "name": "Soy foods, dal and beans",
+            "relationship": "precursor",
+            "detail": "Supply protein and leucine within a varied diet; conversion does not establish an HMB-equivalent serving."
+          },
+          {
+            "name": "Fish, chicken or other meat",
+            "relationship": "precursor",
+            "detail": "Provide leucine-containing protein, not an interchangeable calcium-HMB or HMB-free-acid amount."
+          }
+        ],
+        "foodSourceIds": [
+          "food-performance-protein",
+          "food-performance-amino-acids",
+          "hmb-position"
+        ],
+        "value": {
+          "routineScore": 1,
+          "targetedScore": 3,
+          "targetedUse": "A professionally assessed nutrition or recovery situation with a real risk of muscle loss, where HMB is being considered as part of a complete supervised plan.",
+          "reason": "Routine extra benefit alongside adequate resistance training is not established in recent syntheses. Some clinical or nutritional settings warrant individualized consideration, but findings and expert interpretations conflict and should not become an automatic purchase.",
+          "worthWhen": [
+            "A qualified professional has assessed the cause of muscle-loss risk and a complete nutrition and rehabilitation plan.",
+            "The chosen formulation and its declared HMB basis fit that specific plan, with realistic outcomes."
+          ],
+          "skipWhen": [
+            "The only reason is age, a normal training programme, or a promise to prevent all muscle loss.",
+            "Food, protein and training needs are adequate and an additional muscle-gain effect is assumed.",
+            "Calcium-HMB compound mass, HMB free acid and leucine/BCAA intake are treated as equivalent."
+          ],
+          "evidence": "mixed",
+          "scope": "The routine score concerns adequately nourished healthy-adult fitness use. The targeted score is limited to supervised nutritional risk, not all older adults or all rehabilitation; HMB forms and clinical mixtures remain distinct.",
+          "sourceIds": [
+            "exercise",
+            "hmb-position",
+            "hmb-young-meta",
+            "hmb-older-meta"
+          ]
+        },
+        "reviewed": "2026-11-17"
+      }
     }
   ],
   "sources": [
@@ -1464,6 +2774,187 @@
       "limitations": "Health status, interventions and strength outcomes differed across trials. A pooled result in people undertaking exercise cannot be generalized to every patient with malnutrition or immobility.",
       "year": 2026,
       "checked": "2026-11-17"
+    },
+    {
+      "id": "food-protein",
+      "title": "NHS: The Eatwell Guide and ordinary protein foods",
+      "url": "https://www.nhs.uk/live-well/eat-well/food-guidelines-and-food-labels/the-eatwell-guide/",
+      "kind": "Public health guidance",
+      "summary": "Identifies pulses, fish, eggs, meat and dairy foods within a varied dietary pattern.",
+      "limitations": "UK population food guidance; examples do not specify an individual's protein needs or Indian product composition.",
+      "year": null,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "food-protein-vegetarian",
+      "title": "NHS: Vegetarian diet and protein variety",
+      "url": "https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/the-vegetarian-diet/",
+      "kind": "Public health guidance",
+      "summary": "Explains vegetarian protein foods, including pulses, tofu, eggs and dairy, and the role of dietary variety.",
+      "limitations": "A general dietary overview, not a comparison of commercial isolates or a measured nutrient analysis of every preparation.",
+      "year": null,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "food-kidney-diet",
+      "title": "NIDDK: Healthy eating for adults with chronic kidney disease",
+      "url": "https://www.niddk.nih.gov/health-information/kidney-disease/chronic-kidney-disease-ckd/healthy-eating-adults-chronic-kidney-disease",
+      "kind": "Clinical public guidance",
+      "summary": "Explains why protein, mineral and fluid choices in kidney disease need an individualized nutrition plan.",
+      "limitations": "Kidney-disease guidance must not be extrapolated into a claim that ordinary protein intake harms healthy kidneys.",
+      "year": null,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "food-allergens",
+      "title": "FDA: Food allergies, ingredient identification and avoidance",
+      "url": "https://www.fda.gov/food/buy-store-serve-safe-food/food-allergies-what-you-need-know",
+      "kind": "Public health guidance",
+      "summary": "Identifies major food allergens and the importance of recognizing allergenic ingredients, including milk-derived whey.",
+      "limitations": "US labelling law is not an assertion about Indian regulatory compliance; check each actual product and individual allergy advice.",
+      "year": null,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "food-omega3",
+      "title": "NCCIH: Omega-3 foods, supplements and clinical limits",
+      "url": "https://www.nccih.nih.gov/health/omega3-supplements-what-you-need-to-know",
+      "kind": "Expert overview",
+      "summary": "Distinguishes seafood EPA/DHA from plant ALA and reviews supplement evidence and safety concerns.",
+      "limitations": "Food examples do not assign a supplement-equivalent amount; prescription therapies and ordinary retail fish oil are distinct contexts.",
+      "year": null,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "food-vitamin-d",
+      "title": "NIH ODS: Vitamin D foods and fortified products",
+      "url": "https://ods.od.nih.gov/factsheets/VitaminD-Consumer/",
+      "kind": "Public health guidance",
+      "summary": "Explains naturally occurring food sources, variable fortification, mushroom vitamin D and the need to check product labels.",
+      "limitations": "Food examples are not standardized treatment doses. Fortification practices described in the US are not assumed for Indian milk or plant drinks.",
+      "year": null,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "food-gsh-protein-healthcanada",
+      "title": "Health Canada: Ordinary protein foods in a varied diet",
+      "url": "https://www.canada.ca/en/health-canada/services/food-guide/explore/healthy-eating-recommendations/eat-variety/eat-proteins.html",
+      "kind": "Public health food guidance",
+      "summary": "Lists beans, lentils, soy foods, eggs, fish, poultry, nuts, seeds and dairy as protein foods, and notes the need for reliable fortified B12 sources in a plant-only diet.",
+      "limitations": "Food examples support adequate protein nutrition; the guidance does not measure glutathione precursor doses or prove that a food is clinically equivalent to a glutathione supplement.",
+      "year": 2026,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "food-melatonin-cherries-burkhardt",
+      "title": "Burkhardt et al.: Melatonin measured in two tart-cherry cultivars",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11600041/",
+      "kind": "Food composition study",
+      "summary": "Laboratory analysis detected melatonin in fresh-frozen Montmorency and Balaton tart cherries, with different concentrations between the cultivars.",
+      "limitations": "An analysis of particular fruit samples does not establish predictable content in all cherries, a supplement-equivalent intake or clinical treatment of insomnia.",
+      "year": 2001,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "food-performance-protein",
+      "title": "FDA: Dietary protein, amino acids and food sources",
+      "url": "https://www.accessdata.fda.gov/scripts/InteractiveNutritionFactsLabel/assets/InteractiveNFL_Protein_October2021.pdf",
+      "kind": "Government nutrition reference",
+      "summary": "Lists animal and plant protein foods and explains complete and complementary amino-acid profiles.",
+      "limitations": "Used for food-source context, not a personalized intake plan, an amino-acid supplement prescription or evidence that every Indian diet is adequate.",
+      "year": 2021,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "food-performance-amino-acids",
+      "title": "MedlinePlus: Essential amino acids and dietary variety",
+      "url": "https://www.medlineplus.gov/ency/article/002222.htm",
+      "kind": "Government health reference",
+      "summary": "Explains the nine essential amino acids, protein digestion and the value of dietary variety over the day.",
+      "limitations": "Does not compare supplement brands, establish an intake gap or require complementary plant foods to be paired at one meal.",
+      "year": null,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "food-performance-watermelon",
+      "title": "Collins et al.: Watermelon as a dietary citrulline source",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17352962/",
+      "kind": "Human food study",
+      "summary": "A controlled feeding study used watermelon juice as a natural citrulline source and measured circulating amino-acid responses.",
+      "limitations": "A biomarker study, not proof of improved exercise performance. Ordinary fruit or juice is not assumed to match an isolated L-citrulline or citrulline-malate serving.",
+      "year": 2007,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "food-performance-bioactives",
+      "title": "Wu: Food taurine, creatine and carnosine composition",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7088015/",
+      "kind": "Food composition review",
+      "summary": "Describes taurine and beta-alanine-containing dipeptides such as carnosine and anserine in animal-source foods.",
+      "limitations": "Used here only for food composition and molecular-form distinctions. The article's broader health claims are not adopted as proof of routine supplement need, disease prevention or vegetarian-diet deficiency.",
+      "year": 2020,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "food-performance-betaine",
+      "title": "USDA ARS: Betaine concentrations in common foods",
+      "url": "https://www.ars.usda.gov/ARSUserFiles/80400525/Articles/IFT2004_Betaine.pdf",
+      "kind": "Government food composition research",
+      "summary": "Identifies dietary betaine sources including wheat bran, wheat germ, spinach and beets from food-composition analysis.",
+      "limitations": "Older US composition research is used qualitatively; no food amounts, Indian cultivar values, exercise benefits or betaine-HCl equivalence are inferred.",
+      "year": 2004,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "food-india-nin-fruits",
+      "title": "NIN Dietary Guidelines for Indians: common vitamin C food sources",
+      "url": "https://www.nin.res.in/downloads/DietaryGuidelinesforNINwebsite.pdf",
+      "kind": "Government dietary guidance",
+      "year": 2011,
+      "checked": "2026-11-17",
+      "summary": "The National Institute of Nutrition identifies amla and guava among vitamin C food sources familiar in India.",
+      "limitations": "An older dietary manual, used here only for qualitative food-source examples. It is not the source of current clinical dosing recommendations; food content varies with variety, storage and preparation."
     }
-  ]
+  ],
+  "valuePolicy": {
+    "schemaVersion": 1,
+    "name": "Supplement purchase priority",
+    "reviewed": "2026-11-17",
+    "baseline": "Routine ratings assume a generally healthy adult fitness reader with adequate food intake and no identified deficiency or clinical indication.",
+    "summary": "The second rating applies only to the need and formulation stated in each guide.",
+    "method": "These 1–5 scores are editorial judgments about purchase priority, informed by the cited evidence, likely added benefit over food, uncertainty and the stated use case. They are not published trial scores, a validated clinical scale, brand-quality tests or safety certification. The targeted score applies only to its named need and formulation. It does not establish that you have that need or that every catalog product meets it. Compare each exact label, current pack cost and individual circumstances before deciding.",
+    "evidenceLabels": {
+      "strong": "Stronger supporting evidence for the stated use",
+      "moderate": "Moderate supporting evidence",
+      "limited": "Limited supporting evidence",
+      "mixed": "Mixed or context-dependent evidence"
+    },
+    "scale": [
+      {
+        "score": 1,
+        "label": "Usually skip",
+        "description": "Little reason to buy for this context; a separate supplement is usually unnecessary."
+      },
+      {
+        "score": 2,
+        "label": "Low priority",
+        "description": "Added value is limited or uncertain; food, habits or a simpler option may already cover the need."
+      },
+      {
+        "score": 3,
+        "label": "Situational",
+        "description": "May be worth considering for a narrow purpose after reviewing the limitations, form and cost."
+      },
+      {
+        "score": 4,
+        "label": "Worth considering",
+        "description": "A reasonable purchase when the stated need is established and the exact product fits it."
+      },
+      {
+        "score": 5,
+        "label": "Strong case for a stated need",
+        "description": "A strong evidence-based reason exists in this defined context; appropriate formulation and professional care still matter where relevant."
+      }
+    ]
+  }
 }

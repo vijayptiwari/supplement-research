@@ -1,11 +1,12 @@
 import {escapeHtml as esc,formatDate} from './model.js';
+import {buyingGuideSearchText} from './guidance.js';
 
 const positive=value=>typeof value==='number'&&Number.isFinite(value)&&value>0;
 const unique=values=>[...new Set(values.filter(value=>value!=null&&value!==''))];
 export const normalizeSearch=value=>String(value??'').normalize('NFKD').replace(/\p{Diacritic}/gu,'').toLowerCase().replace(/[^\p{Letter}\p{Number}]+/gu,' ').trim().replace(/\s+/g,' ');
 const termsFor=q=>unique(normalizeSearch(q).split(' ').filter(Boolean));
 const matches=(text,terms)=>terms.every(term=>/\d/.test(term)?text.split(' ').includes(term):text.includes(term));
-const guideText=(guide,category)=>normalizeSearch([category.label,...(category.searchAliases||[]),...(guide.searchAliases||[]),...(category.nutrientFields||[]).flatMap(f=>f.searchAliases||[]),guide.title,guide.summary,guide.evidence,guide.limitations,guide.catalogReading,guide.safety,...(guide.bodySteps||[]),guide.treatment,guide.whoMayBenefit,guide.routineUse].join(' '));
+const guideText=(guide,category)=>normalizeSearch([category.label,...(category.searchAliases||[]),...(guide.searchAliases||[]),...(category.nutrientFields||[]).flatMap(f=>f.searchAliases||[]),guide.title,guide.summary,guide.evidence,guide.limitations,guide.catalogReading,guide.safety,...(guide.bodySteps||[]),guide.treatment,guide.whoMayBenefit,guide.routineUse,buyingGuideSearchText(guide.buyingGuide)].join(' '));
 const offerText=(offer,category)=>normalizeSearch([category.productSearchLabel||category.label,...(category.searchAliases||[]),...(offer.searchAliases||[]),...(category.nutrientFields||[]).filter(f=>offer.declaredNutrients?.includes(f.key)||offer[f.key]!=null).flatMap(f=>[f.label,...(f.searchAliases||[])]),/b[\s-]?complex/i.test([offer.product,offer.type,offer.subclass].join(' '))?'bcomplex':'',offer.brand,offer.product,offer.type,offer.subclass,offer.flavour,offer.grade,offer.formulation,offer.source,offer.form,offer.packaging,offer.stimulantStatus].join(' '));
 const sourcePrice=offer=>positive(offer.price)&&offer.priceAudit?.status==='verified';
 const pricedFirst=(a,b)=>a.price-b.price||String(a.id).localeCompare(String(b.id));
