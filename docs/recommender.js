@@ -23,7 +23,9 @@ export function recommend(snapshot,input){
  const reviewed=new Set([...existing,...items.map(i=>i.category)]);
  if(['protein','bcaa','eaa'].filter(id=>reviewed.has(id)).length>1)warnings.push('Complete dietary protein supplies all nine essential amino acids; BCAAs are three of those EAAs. Protein, BCAA and EAA review cards are not instructions to buy all three. Check your food and protein intake before paying for overlapping amino acids.');
  if(reviewed.has('pre-workout'))warnings.push('Read the exact pre-workout formula before combining it with coffee, energy drinks or another pre-workout. Count caffeine from every source; undisclosed botanical caffeine prevents a reliable total. A caffeine-free claim does not establish that every other stimulant is absent.');
- if(reviewed.has('pre-workout')&&['creatine','l-arginine','bcaa','eaa'].some(id=>reviewed.has(id)))warnings.push('A pre-workout may already contain creatine, arginine or amino acids. Check the exact label for duplicate ingredients and servings before adding separate products; the stack builder does not total daily ingredient exposure.');
+ if(reviewed.has('pre-workout')&&['creatine','l-arginine','bcaa','eaa','citrulline','beta-alanine','taurine','betaine','hmb'].some(id=>reviewed.has(id)))warnings.push('A pre-workout may already contain creatine, arginine, citrulline, beta-alanine, taurine, betaine or other actives. Check the exact label for duplicate ingredients and servings before adding separate products; the stack builder does not total daily ingredient exposure.');
+ if(reviewed.has('betaine'))warnings.push('Check the betaine form before comparing or combining products. Anhydrous betaine / TMG and betaine HCl have distinct uses and are not interchangeable on a gram-for-gram basis.');
+ if(reviewed.has('hmb'))warnings.push('HMB is a leucine metabolite, not the leucine or BCAA content of another product. Compare the declared HMB payload and calcium/free-acid form; do not add amino-acid or calcium-salt mass as extra HMB.');
  return {items,warnings,budget,restricted};
 }
 

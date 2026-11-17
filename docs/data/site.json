@@ -794,6 +794,185 @@
           "Caffeine status"
         ]
       ]
+    },
+    {
+      "id": "citrulline",
+      "label": "Citrulline",
+      "file": "citrulline.json",
+      "page": "citrulline.html",
+      "measurement": "units",
+      "supportsPowder": true,
+      "mainNutrient": "citrullineMg",
+      "referenceQuantity": 1000,
+      "referenceUnit": "mg",
+      "compoundLabel": "labelled free L-citrulline",
+      "nutrientFields": [
+        {
+          "key": "citrullineMg",
+          "label": "Free L-citrulline",
+          "unit": "mg",
+          "table": true
+        },
+        {
+          "key": "citrullineMalateMg",
+          "label": "Citrulline malate compound",
+          "unit": "mg",
+          "table": true,
+          "costQuantity": 1000,
+          "costTable": true
+        }
+      ],
+      "comparisonNote": "Free L-citrulline and citrulline malate are distinct label profiles. Malate compound mass and a declared ratio are not converted to free L-citrulline. Compare the same form and verified label serving; a nitric-oxide mechanism or ingredient cost does not establish exercise benefit.",
+      "searchAliases": [
+        "citrulline"
+      ],
+      "extraFacets": [
+        [
+          "citrullineMalateRatio",
+          "Declared citrulline-malate ratio"
+        ]
+      ]
+    },
+    {
+      "id": "beta-alanine",
+      "label": "Beta-Alanine",
+      "file": "beta-alanine.json",
+      "page": "beta-alanine.html",
+      "measurement": "units",
+      "supportsPowder": true,
+      "mainNutrient": "betaAlanineMg",
+      "referenceQuantity": 1000,
+      "referenceUnit": "mg",
+      "compoundLabel": "labelled beta-alanine",
+      "nutrientFields": [
+        {
+          "key": "betaAlanineMg",
+          "label": "Beta-alanine",
+          "unit": "mg",
+          "table": true
+        }
+      ],
+      "comparisonNote": "Beta-alanine amounts use the exact stated label serving. Powder serving mass and a pre-workout blend total are not assumed to be beta-alanine. Check overlap with pre-workouts; tingling is not a measure of efficacy.",
+      "searchAliases": [
+        "beta alanine",
+        "betaalanine"
+      ]
+    },
+    {
+      "id": "taurine",
+      "label": "Taurine",
+      "file": "taurine.json",
+      "page": "taurine.html",
+      "measurement": "units",
+      "supportsPowder": true,
+      "mainNutrient": "taurineMg",
+      "referenceQuantity": 1000,
+      "referenceUnit": "mg",
+      "compoundLabel": "labelled taurine",
+      "nutrientFields": [
+        {
+          "key": "taurineMg",
+          "label": "Taurine",
+          "unit": "mg",
+          "table": true
+        }
+      ],
+      "comparisonNote": "Taurine amounts refer to the stated label serving. Taurine and caffeine are separate ingredients; the presence of taurine does not establish a stimulant effect or describe every ingredient in an energy drink or pre-workout.",
+      "searchAliases": [
+        "taurine"
+      ]
+    },
+    {
+      "id": "betaine",
+      "label": "Betaine",
+      "file": "betaine.json",
+      "page": "betaine.html",
+      "measurement": "units",
+      "supportsPowder": true,
+      "mainNutrient": "betaineMg",
+      "referenceQuantity": 1000,
+      "referenceUnit": "mg",
+      "compoundLabel": "labelled betaine anhydrous",
+      "nutrientFields": [
+        {
+          "key": "betaineMg",
+          "label": "Betaine anhydrous / TMG",
+          "unit": "mg",
+          "table": true
+        },
+        {
+          "key": "betaineHclMg",
+          "label": "Betaine hydrochloride compound",
+          "unit": "mg",
+          "table": true,
+          "costQuantity": 1000,
+          "costTable": true
+        },
+        {
+          "key": "vitaminB12Mcg",
+          "label": "Vitamin B12 co-ingredient",
+          "unit": "µg",
+          "table": false
+        }
+      ],
+      "comparisonNote": "Betaine anhydrous (trimethylglycine / TMG) and betaine hydrochloride (HCl) are distinct forms with different research and marketed uses. HCl compound mass is not converted to anhydrous betaine or treated as a sports-performance equivalent. Compare matching forms; added digestive ingredients remain separate.",
+      "searchAliases": [
+        "betaine"
+      ]
+    },
+    {
+      "id": "hmb",
+      "label": "HMB",
+      "file": "hmb.json",
+      "page": "hmb.html",
+      "measurement": "units",
+      "supportsPowder": true,
+      "mainNutrient": "hmbMg",
+      "referenceQuantity": 1000,
+      "referenceUnit": "mg",
+      "compoundLabel": "explicitly labelled HMB",
+      "nutrientFields": [
+        {
+          "key": "hmbMg",
+          "label": "Declared HMB payload",
+          "unit": "mg",
+          "table": true
+        },
+        {
+          "key": "calciumHmbMg",
+          "label": "Calcium HMB compound",
+          "unit": "mg",
+          "table": true,
+          "costQuantity": 1000,
+          "costTable": true
+        },
+        {
+          "key": "hmbFreeAcidMg",
+          "label": "HMB free-acid form",
+          "unit": "mg",
+          "table": true,
+          "costQuantity": 1000,
+          "costTable": true
+        },
+        {
+          "key": "citrullineMalateMg",
+          "label": "Citrulline malate co-ingredient",
+          "unit": "mg",
+          "table": false
+        },
+        {
+          "key": "vitaminDMcg",
+          "label": "Vitamin D co-ingredient",
+          "unit": "µg",
+          "table": false
+        }
+      ],
+      "comparisonNote": "HMB payload, calcium HMB compound and free-acid HMB are recorded separately. No salt-to-active conversion, absorption multiplier or equivalence between forms is inferred. Label amounts do not establish muscle gain or the treatment of muscle loss; compare study populations and formulations in the guide.",
+      "searchAliases": [
+        "hmb",
+        "beta hydroxy beta methylbutyrate",
+        "hydroxymethylbutyrate"
+      ]
     }
   ],
   "quickPicks": [

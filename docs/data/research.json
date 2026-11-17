@@ -629,6 +629,189 @@
         "preworkout-dryscoop",
         "exercise"
       ]
+    },
+    {
+      "id": "citrulline-guide",
+      "category": "citrulline",
+      "title": "Citrulline: separate L-citrulline from citrulline malate",
+      "summary": "The label can describe free L-citrulline or a citrulline-malate material. Their full weights are not interchangeable active amounts.",
+      "evidence": "A 2026 synthesis found a small average exercise effect for citrulline malate, with low to very low certainty. A trial matching delivered citrulline did not demonstrate a clear added malate advantage in its tested outcomes. A nitric-oxide pathway does not guarantee a useful workout effect.",
+      "limitations": "Studies differ in composition, exercise tests and participants, and many findings are not robust. A ratio on the front of a pack does not verify its actual composition. Evidence for one form or protocol cannot automatically be transferred to another.",
+      "catalogReading": "Keep full citrulline-malate compound mass separate from explicitly declared L-citrulline. This catalog does not convert a nominal 2:1 or other ratio into inferred free L-citrulline or rank equal grams of both forms as equivalent. Check label serving and overlap with pre-workout and arginine.",
+      "safety": "Gastrointestinal discomfort can occur, and long-term safety data are limited. Review medicines and medical conditions with a clinician before using it, particularly where blood-pressure treatment is involved. Do not use a pump claim to replace medical assessment.",
+      "sourceIds": [
+        "exercise",
+        "citrulline-meta",
+        "citrulline-forms-trial",
+        "citrulline-critical"
+      ],
+      "reviewed": "2026-11-17",
+      "author": "Supplement Research editorial synthesis",
+      "bodySteps": [
+        "After absorption, citrulline can be converted to arginine, particularly by the kidneys.",
+        "Arginine can supply nitric-oxide production, which participates in normal regulation of blood vessels. Malate has a separate metabolic role.",
+        "A plausible pathway and higher circulating amino-acid levels do not establish improved strength, recovery or a benefit from the added malate."
+      ],
+      "bodySources": [
+        "exercise",
+        "citrulline-critical"
+      ],
+      "treatment": "These sports studies do not establish citrulline as a treatment for cardiovascular disease, erectile dysfunction or persistent fatigue. Medical use requires condition-specific evidence and supervision.",
+      "whoMayBenefit": "An adult evaluating a specific performance outcome can review the modest, uncertain findings with a qualified sports professional. The evidence does not identify a group that must take it routinely or prove a deficiency from poor performance.",
+      "routineUse": "No universal need for a citrulline supplement is established. Treat a pre-workout blend, isolated citrulline and arginine as possible overlapping exposures to review, rather than automatic additions to one stack.",
+      "sectionSources": [
+        "exercise",
+        "citrulline-meta",
+        "citrulline-forms-trial",
+        "citrulline-critical"
+      ]
+    },
+    {
+      "id": "beta-alanine-guide",
+      "category": "beta-alanine",
+      "title": "Beta-alanine: muscle carnosine over time, not proof from tingling",
+      "summary": "Beta-alanine is studied mainly as a way to raise muscle carnosine with repeated use. An immediate skin sensation is a separate effect.",
+      "evidence": "Position statements and trial syntheses support possible small benefits for selected high-intensity exercise tasks. Effects depend on the task and exposure period; performance in every sport, maximal strength and muscle growth are not established benefits.",
+      "limitations": "Laboratory exercise capacity and competition results are different endpoints. Responses vary, and repeated supplementation over time is central to the carnosine rationale. An occasional pre-workout serving cannot be assumed to reproduce those studies.",
+      "catalogReading": "Read verified beta-alanine per label serving rather than total powder or a proprietary blend. Check whether the formulation is immediate or sustained release. Compare the same ingredient basis and include beta-alanine already present in a pre-workout.",
+      "safety": "Tingling or itching can occur and is not a measure of efficacy. Safety reviews are reassuring within studied healthy populations and exposures, while evidence for indefinite use and special populations is limited. Review health conditions, medicines and other ingredients separately.",
+      "sourceIds": [
+        "exercise",
+        "beta-alanine-position",
+        "beta-alanine-meta",
+        "beta-alanine-safety"
+      ],
+      "reviewed": "2026-11-17",
+      "author": "Supplement Research editorial synthesis",
+      "bodySteps": [
+        "Absorbed beta-alanine is available to muscle, where it combines with histidine to form carnosine.",
+        "Increasing muscle carnosine requires repeated exposure over time; carnosine helps buffer changes in acidity during intense exercise.",
+        "Transient skin tingling is a separate sensory response. Its presence or intensity does not demonstrate that muscle carnosine or sporting performance has improved."
+      ],
+      "bodySources": [
+        "beta-alanine-position",
+        "beta-alanine-safety"
+      ],
+      "treatment": "Beta-alanine is not an established treatment for a disease causing weakness, chronic fatigue or cramps. Physiological buffering and a workout effect are different from treatment of a medical problem.",
+      "whoMayBenefit": "Some adults performing a relevant high-intensity event may consider an optional supplement after reviewing the event, evidence and tolerance with a qualified sports professional. Someone starting general training does not automatically need it.",
+      "routineUse": "No universal daily requirement for supplemental beta-alanine is established. Reassess whether the exercise goal fits the evidence and account for combined standalone and pre-workout exposure; more tingling is not a reason to add more.",
+      "sectionSources": [
+        "exercise",
+        "beta-alanine-position",
+        "beta-alanine-meta",
+        "beta-alanine-safety"
+      ]
+    },
+    {
+      "id": "taurine-guide",
+      "category": "taurine",
+      "title": "Taurine: an individual ingredient, not an energy-drink effect",
+      "summary": "Taurine occurs naturally in the body and food. Its presence in an energy drink does not make it the same substance as caffeine.",
+      "evidence": "A 2025 meta-analysis found a small overall exercise effect, but certainty was low to very low and results differed across tasks. Earlier reviews also found mixed performance and recovery outcomes. These findings do not establish a reliable benefit for every user.",
+      "limitations": "Small, short studies and different exercise protocols limit confidence. Laboratory mechanisms and changes in markers are not proof of better long-term health. Results for isolated taurine cannot be attributed to taurine when a tested drink also contains caffeine or other actives.",
+      "catalogReading": "Compare explicitly labelled taurine per serving and verify whether the product is standalone or a blend. Total energy-drink or pre-workout powder mass is not taurine mass. Check caffeine and other ingredients separately, including overlap with another product.",
+      "safety": "Short exercise studies do not establish safety for indefinite high intake, children or pregnancy. Review medical conditions, kidney health and medicines with a clinician. A taurine label does not remove the separate stimulant or other risks of a mixed drink.",
+      "sourceIds": [
+        "taurine-exercise",
+        "taurine-meta",
+        "caffeine-position",
+        "preworkout-review"
+      ],
+      "reviewed": "2026-11-17",
+      "author": "Supplement Research editorial synthesis",
+      "bodySteps": [
+        "Diet and body synthesis contribute taurine, and oral taurine is absorbed through the gastrointestinal tract.",
+        "Tissues contain taurine involved in cell regulation and calcium-related processes; the kidneys help regulate its balance.",
+        "These roles are distinct from caffeine's stimulant action. Proposed cellular mechanisms do not guarantee a useful exercise response from an extra supplement."
+      ],
+      "bodySources": [
+        "taurine-exercise",
+        "caffeine-position"
+      ],
+      "treatment": "Taurine products are not established cures for fatigue, ageing or a metabolic disorder. A sports trial does not validate disease treatment or show that an energy drink corrects a deficiency.",
+      "whoMayBenefit": "An adult considering a defined exercise goal may review the limited findings for isolated taurine. The evidence does not identify a routine requirement or show that people who feel tired should select a taurine drink.",
+      "routineUse": "Routine supplementation is not established as necessary for healthy adults. Review the specific goal, uncertainty and overlapping ingredients rather than assuming an energy-drink ingredient belongs in every stack.",
+      "sectionSources": [
+        "taurine-exercise",
+        "taurine-meta",
+        "caffeine-position",
+        "preworkout-review"
+      ]
+    },
+    {
+      "id": "betaine-guide",
+      "category": "betaine",
+      "title": "Betaine: TMG workout research and HCl digestive claims differ",
+      "summary": "Betaine anhydrous, also called trimethylglycine or TMG, is the main form studied for exercise. Betaine hydrochloride addresses a different product claim.",
+      "evidence": "A 2024 synthesis found a pooled strength benefit, especially in lower-body measures, with several other outcomes unchanged. A 2025 endurance review found sparse studies at high risk of bias. This is limited, outcome-specific evidence rather than a universal performance claim.",
+      "limitations": "Training status, study design and the tested outcomes vary. Anhydrous betaine findings do not establish digestive benefits for betaine HCl. A change in stomach pH from a small experiment does not prove relief of digestive symptoms or diagnose low stomach acid.",
+      "catalogReading": "Identify anhydrous betaine/TMG, betaine HCl or a blend. Keep explicitly labelled active and full compound amounts distinct; do not substitute equal grams of one form for the other or infer an anhydrous equivalent from compound weight. Check other pre-workout ingredients.",
+      "safety": "Digestive discomfort can occur. People using betaine for an inherited metabolic condition require specialist monitoring. Do not self-diagnose low stomach acid or change acid-suppressing medicines based on an HCl product claim; discuss symptoms and medicine interactions with a clinician.",
+      "sourceIds": [
+        "exercise",
+        "betaine-meta",
+        "betaine-endurance",
+        "betaine-hcl-trial",
+        "betaine-medical"
+      ],
+      "reviewed": "2026-11-17",
+      "author": "Supplement Research editorial synthesis",
+      "bodySteps": [
+        "Betaine is obtained from food and normal metabolism, then absorbed and used in several pathways.",
+        "It can donate methyl groups in the conversion of homocysteine to methionine and participates in regulation of cellular water balance.",
+        "Betaine HCl can lower gastric pH under specific experimental conditions. That acidifying property is a separate question from the exercise effects studied with anhydrous betaine."
+      ],
+      "bodySources": [
+        "exercise",
+        "betaine-medical",
+        "betaine-hcl-trial"
+      ],
+      "treatment": "Specialist care can use betaine anhydrous as part of treatment for homocystinuria, a specific inherited disorder. That indication does not make a workout supplement a treatment for digestive problems or justify replacing a prescribed product.",
+      "whoMayBenefit": "An adult with a defined performance goal can review the modest and inconsistent exercise findings. A diagnosed metabolic condition needs a clinician-led plan; ordinary training or digestive symptoms alone do not establish a need for betaine.",
+      "routineUse": "No universal workout requirement for TMG or betaine HCl is established. Review formulation, reason for use and any amount already present in a pre-workout before considering another product.",
+      "sectionSources": [
+        "exercise",
+        "betaine-meta",
+        "betaine-endurance",
+        "betaine-hcl-trial",
+        "betaine-medical"
+      ]
+    },
+    {
+      "id": "hmb-guide",
+      "category": "hmb",
+      "title": "HMB: a leucine metabolite with population-specific evidence",
+      "summary": "HMB is produced from leucine and is also sold as calcium HMB or HMB free acid. Its role in protein turnover does not establish extra muscle gain for everyone.",
+      "evidence": "A 2020 synthesis in younger adults and a 2026 synthesis in adults aged 50 and over found no overall additional strength or body-composition benefit alongside training. The updated ISSN position stand is more favorable in some settings, so results and interpretation remain contested.",
+      "limitations": "Healthy training, malnutrition, immobility and clinical recovery are different settings. Results depend on the population, nutrition and intervention. Faster blood appearance or a particular HMB form does not by itself prove better strength or recovery.",
+      "catalogReading": "Distinguish HMB free acid, calcium HMB and a multi-ingredient formula. Record declared HMB separately from full calcium-HMB compound mass; do not infer equal active content from equal compound weights. Other nutrients in a clinical nutrition product are part of its context.",
+      "safety": "Available safety data in studied adults are generally reassuring, but this does not establish suitability for every condition or product. Clinical nutrition, medicines, kidney disease, pregnancy and children require individual review. Check co-ingredients and any overlapping mineral declarations.",
+      "sourceIds": [
+        "exercise",
+        "hmb-position",
+        "hmb-young-meta",
+        "hmb-older-meta"
+      ],
+      "reviewed": "2026-11-17",
+      "author": "Supplement Research editorial synthesis",
+      "bodySteps": [
+        "Normal leucine metabolism produces a small amount of HMB; taking leucine or BCAA is not the same exposure as swallowing HMB.",
+        "Oral calcium HMB and free-acid HMB enter circulation, with formulation-related differences in absorption reported across studies.",
+        "Proposed effects on protein synthesis and breakdown provide a research rationale. A change in those pathways does not establish a clinically meaningful gain in muscle or function."
+      ],
+      "bodySources": [
+        "exercise",
+        "hmb-position"
+      ],
+      "treatment": "An HMB product alone is not an established cure for sarcopenia, muscle wasting or poor recovery. Nutrition support for an ill or undernourished person requires assessment of the whole plan and the cause of muscle loss.",
+      "whoMayBenefit": "Selected people in supervised nutritional care may discuss HMB in the context of their condition and complete nutrition plan. Age alone or starting resistance training does not establish a need; findings from one clinical group should not be generalized to all older adults.",
+      "routineUse": "No universal HMB requirement is established. Prioritize an appropriate training and nutrition plan and review whether a specific indication and formulation fit the evidence before continuing supplementation.",
+      "sectionSources": [
+        "exercise",
+        "hmb-position",
+        "hmb-young-meta",
+        "hmb-older-meta"
+      ]
     }
   ],
   "sources": [
@@ -1130,6 +1313,156 @@
       "summary": "Ten young adults completed a crossover study of short-term energy deficits. EAA-enriched whey improved acute whole-body protein balance relative to comparators, while measured mixed-muscle protein synthesis did not differ.",
       "limitations": "A small, acute study in a specific underfeeding setting, using an EAA-plus-whey blend. It does not demonstrate extra long-term muscle gain from every EAA-only product.",
       "year": 2021,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "citrulline-meta",
+      "title": "Wang et al.: Citrulline malate exercise-performance synthesis",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42356270/",
+      "kind": "Systematic review / meta-analysis",
+      "summary": "A June 2026 synthesis of 30 trials and 644 participants found a small pooled performance effect and no significant pooled improvement in perceived exertion.",
+      "limitations": "Certainty was low to very low, prediction intervals were wide and subgroup findings were not robust. It does not establish reliable timing, amounts or universal benefit.",
+      "year": 2026,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "citrulline-forms-trial",
+      "title": "Malate or not? L-citrulline versus citrulline malate",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39662304/",
+      "kind": "Randomized trial",
+      "summary": "A crossover trial in 43 trained adults compared placebo with L-citrulline and citrulline malate matched for delivered citrulline; the tested neuromuscular outcomes did not clearly improve.",
+      "limitations": "A specific acute protocol cannot settle every use, but it does not demonstrate an added performance advantage from malate. Published online in December 2024.",
+      "year": 2024,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "citrulline-critical",
+      "title": "A critical review of citrulline malate and exercise performance",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34417881/",
+      "kind": "Evidence review",
+      "summary": "Examines proposed arginine/nitric-oxide mechanisms, mixed exercise findings and the difficulty of interpreting citrulline-malate composition.",
+      "limitations": "Mechanisms and nominal ratios do not establish delivered L-citrulline, clinical equivalence or product superiority.",
+      "year": 2021,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "beta-alanine-position",
+      "title": "Trexler et al.: ISSN beta-alanine position stand",
+      "url": "https://link.springer.com/article/10.1186/s12970-015-0090-y",
+      "kind": "Position stand",
+      "summary": "Repeated beta-alanine use can increase muscle carnosine, with potential benefits for particular high-intensity exercise tasks. Paraesthesia is a recognized effect.",
+      "limitations": "An older position statement; effects depend on the activity and exposure period, and do not establish universal strength, muscle-gain or endurance benefits. Read commercial disclosures.",
+      "year": 2015,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "beta-alanine-meta",
+      "title": "Saunders et al.: Beta-alanine exercise meta-analysis",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27797728/",
+      "kind": "Systematic review / meta-analysis",
+      "summary": "Synthesizes exercise capacity and performance trials, finding a small overall benefit with meaningful differences between exercise tests and task durations.",
+      "limitations": "Capacity tests and competitive performance are different outcomes; a pooled effect does not establish benefit for every athlete or sport.",
+      "year": 2017,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "beta-alanine-safety",
+      "title": "Dolan et al.: Beta-alanine safety assessment",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30980076/",
+      "kind": "Systematic review / meta-analysis",
+      "summary": "Across available studies, tingling was the principal reported side effect; dropout rates were similar to placebo and human muscle taurine did not show a significant reduction.",
+      "limitations": "Safety conclusions apply to studied exposures and participants. Sparse long-term or special-population data should not be treated as proof of unlimited safety.",
+      "year": 2019,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "taurine-exercise",
+      "title": "Kurtz et al.: Taurine in sports and exercise",
+      "url": "https://link.springer.com/article/10.1186/s12970-021-00438-0",
+      "kind": "Evidence review",
+      "summary": "Reviews isolated taurine, gastrointestinal uptake, tissue and kidney regulation, and proposed calcium-handling and exercise mechanisms. Performance and recovery findings were mixed.",
+      "limitations": "Many proposed pathways rely on preclinical work; studies of isolated taurine cannot establish the benefit or safety of a caffeinated energy-drink blend.",
+      "year": 2021,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "taurine-meta",
+      "title": "Deng et al.: Acute taurine exercise meta-analysis",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40852891/",
+      "kind": "Systematic review / meta-analysis",
+      "summary": "A 2025 review of 23 randomized trials reported a small overall exercise effect, with inconsistent findings across tasks and sensitivity analyses.",
+      "limitations": "Evidence certainty was low to very low, and prediction intervals often included no effect. These short studies do not establish universal or long-term benefits.",
+      "year": 2025,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "betaine-meta",
+      "title": "Zawieja et al.: Chronic betaine and exercise performance",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39514262/",
+      "kind": "Systematic review / meta-analysis",
+      "summary": "Seventeen studies involving 317 participants showed a pooled maximal-strength benefit, especially in lower-body measures, but not consistent improvements in upper-body strength, cycling sprint power or muscular endurance.",
+      "limitations": "Small studies and different outcomes limit certainty. Anhydrous betaine findings do not establish digestive benefits for betaine hydrochloride.",
+      "year": 2024,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "betaine-endurance",
+      "title": "Betaine and endurance performance: a systematic review",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40765066/",
+      "kind": "Systematic review",
+      "summary": "A 2025 synthesis found only five eligible endurance studies and judged all to have high risk of bias. Some outcomes improved, but the overall evidence remained inconclusive.",
+      "limitations": "Sparse heterogeneous studies do not identify a dependable endurance benefit or prove that a change in a physiological marker improves sport performance.",
+      "year": 2025,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "betaine-hcl-trial",
+      "title": "Yago et al.: Betaine HCl and experimentally raised gastric pH",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23980906/",
+      "kind": "Clinical pharmacology study",
+      "summary": "A small healthy-volunteer experiment found that betaine hydrochloride temporarily lowered gastric pH after acid-suppressing medication had raised it.",
+      "limitations": "An experimentally induced pH change is not proof of improved digestion, symptom relief, a diagnosis of low stomach acid or improved exercise performance.",
+      "year": 2013,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "betaine-medical",
+      "title": "EMA: Betaine anhydrous in specialist homocystinuria care",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/cystadane",
+      "kind": "Medicines assessment",
+      "summary": "Explains betaine-mediated conversion of homocysteine to methionine and its use alongside other treatment in a specific inherited disease. Specialist monitoring is required.",
+      "limitations": "A European medicine assessment, not a recommendation for a retail workout product, Indian regulatory guidance or evidence that healthy people need supplementation.",
+      "year": null,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "hmb-position",
+      "title": "Rathmacher et al.: Updated ISSN HMB position stand",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/15502783.2024.2434734",
+      "kind": "Position stand",
+      "summary": "Reviews HMB as a leucine metabolite, calcium and free-acid forms, protein-turnover mechanisms and studies in varied training and clinical settings.",
+      "limitations": "Its conclusions differ from some meta-analyses. Read population-specific results and the authors' disclosed industry affiliations and commercial relationships. Published online in December 2024, in the 2025 volume.",
+      "year": 2025,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "hmb-young-meta",
+      "title": "Jakubowski et al.: HMB with resistance training in younger adults",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7285233/",
+      "kind": "Systematic review / meta-analysis",
+      "summary": "The 2020 analysis found no additional overall improvements in body composition or strength from HMB alongside resistance training in adults aged 18 to 45.",
+      "limitations": "Study selection and methods have been debated. These results do not settle every clinical or nutritional context, and they do not test every commercial formulation.",
+      "year": 2020,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "hmb-older-meta",
+      "title": "Wang et al.: HMB as an adjunct to training in older adults",
+      "url": "https://academic.oup.com/ageing/article/55/3/afag073/8586702",
+      "kind": "Systematic review / meta-analysis",
+      "summary": "Published in April 2026, this synthesis of 13 trials and 561 participants found no overall added improvement in muscle mass, fat mass or strength in adults aged 50 and over.",
+      "limitations": "Health status, interventions and strength outcomes differed across trials. A pooled result in people undertaking exercise cannot be generalized to every patient with malnutrition or immobility.",
+      "year": 2026,
       "checked": "2026-11-17"
     }
   ]

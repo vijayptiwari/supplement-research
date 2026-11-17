@@ -2585,6 +2585,600 @@
         "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B0BMWZCHDD.PT08.jpg?v=1788179477"
       ],
       "arginineCompoundMg": 500
+    },
+    {
+      "category": "citrulline",
+      "brand": "AS-IT-IS Nutrition",
+      "base": "https://asitisnutrition.com",
+      "handle": "l-citrulline-powder",
+      "product": "ONE L-Citrulline Powder",
+      "form": "Powder",
+      "type": "L-citrulline",
+      "subclass": "Single amino acid",
+      "source": "Not specified",
+      "flavour": "Unflavoured",
+      "packaging": "Single retail pack",
+      "grams": 250,
+      "servingGrams": 2.5,
+      "basis": "Official title and FAQ state 2.5 g per serving of single-ingredient L-citrulline. Exact selected variants are 100 g and 250 g.",
+      "notes": "Label quantities are manufacturer declarations; no independent batch assay or guaranteed exercise benefit is inferred.",
+      "labelChecked": "2026-11-17",
+      "variantIds": [
+        "8442574831667"
+      ],
+      "citrullineMg": 2500,
+      "citrullineMalateMg": null,
+      "energyPerServing": null,
+      "labelSources": [
+        "https://asitisnutrition.com/products/l-citrulline-powder"
+      ]
+    },
+    {
+      "category": "citrulline",
+      "brand": "AS-IT-IS Nutrition",
+      "base": "https://asitisnutrition.com",
+      "handle": "l-citrulline-powder",
+      "product": "ONE L-Citrulline Powder",
+      "form": "Powder",
+      "type": "L-citrulline",
+      "subclass": "Single amino acid",
+      "source": "Not specified",
+      "flavour": "Unflavoured",
+      "packaging": "Single retail pack",
+      "grams": 100,
+      "servingGrams": 2.5,
+      "basis": "Official title and FAQ state 2.5 g per serving of single-ingredient L-citrulline. Exact selected variants are 100 g and 250 g.",
+      "notes": "Label quantities are manufacturer declarations; no independent batch assay or guaranteed exercise benefit is inferred.",
+      "labelChecked": "2026-11-17",
+      "variantIds": [
+        "16091227553843"
+      ],
+      "citrullineMg": 2500,
+      "citrullineMalateMg": null,
+      "energyPerServing": null,
+      "labelSources": [
+        "https://asitisnutrition.com/products/l-citrulline-powder"
+      ]
+    },
+    {
+      "category": "beta-alanine",
+      "brand": "AS-IT-IS Nutrition",
+      "base": "https://asitisnutrition.com",
+      "handle": "beta-alanine-powder-supplement",
+      "product": "ONE Beta-Alanine Powder",
+      "form": "Powder",
+      "type": "Beta-alanine",
+      "subclass": "Single amino acid",
+      "source": "Not specified",
+      "flavour": "Unflavoured",
+      "packaging": "Single retail pack",
+      "grams": 250,
+      "servingGrams": 2.5,
+      "basis": "Official title and single-ingredient description specify 2.5 g beta-alanine per serving; exact selected pack is 250 g.",
+      "notes": "The label serving is used for comparison only; it is not an individualized dose recommendation.",
+      "labelChecked": "2026-11-17",
+      "variantIds": [
+        "8571090993203"
+      ],
+      "betaAlanineMg": 2500,
+      "energyPerServing": null,
+      "labelSources": [
+        "https://asitisnutrition.com/products/beta-alanine-powder-supplement"
+      ]
+    },
+    {
+      "category": "citrulline",
+      "brand": "HealthyHey",
+      "base": "https://healthyhey.com",
+      "handle": "healthyhey-sports-citrulline-malate-2-1-200-g-100-servings-unflavoured",
+      "product": "Citrulline DL-Malate 2:1 Powder",
+      "form": "Powder",
+      "type": "L-citrulline DL-malate",
+      "subclass": "2:1 compound",
+      "source": "Not specified",
+      "flavour": "Unflavoured",
+      "packaging": "Single retail pack",
+      "grams": 200,
+      "servingGrams": 2,
+      "basis": "Official inspected back-label image specifies one 2 g scoop and 2 g L-citrulline DL-malate, with a stated 2:1 ingredient ratio; pack is 200 g.",
+      "notes": "HTML contains conflicting capsule and 200 g-per-serving text. The inspected powder back label establishes the 2 g composition basis. Free L-citrulline remains unverified; no conversion from 2:1 is made.",
+      "labelChecked": "2026-11-17",
+      "variantIds": [
+        "44683651940637"
+      ],
+      "citrullineMalateMg": 2000,
+      "citrullineMalateRatio": "2:1",
+      "energyPerServing": 0,
+      "labelSources": [
+        "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-sports-powder-citrulline-malate-muscle-growth-2-1-powerful-pre-workout-200-g-100-servings-unflavoured-1251566357.png?v=1791303901"
+      ],
+      "citrullineMg": null
+    },
+    {
+      "category": "beta-alanine",
+      "brand": "HealthyHey",
+      "base": "https://healthyhey.com",
+      "handle": "beta-alanine-powder-endurance",
+      "product": "Beta-Alanine Pro-Series Powder",
+      "form": "Powder",
+      "type": "Beta-alanine",
+      "subclass": "With fructooligosaccharide",
+      "source": "Not specified",
+      "flavour": "Unflavoured",
+      "packaging": "Single retail pack",
+      "grams": 250,
+      "servingGrams": 4,
+      "basis": "Official inspected back label specifies one 4 g scoop, 4 g beta-alanine, 10 mg fructooligosaccharide and 0 kcal. Exact selected product variant is 250 g.",
+      "notes": "The label rounds beta-alanine to the 4 g serving mass while separately declaring 10 mg fructooligosaccharide. The minor mass-basis rounding is disclosed; co-ingredient mass is not added to beta-alanine.",
+      "labelChecked": "2026-11-17",
+      "variantIds": [
+        "44683789926685"
+      ],
+      "betaAlanineMg": 4000,
+      "energyPerServing": 0,
+      "labelSources": [
+        "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-nutrition-capsule-250-gram-beta-alanine-powder-energy-management-for-endurance-pro-series-1260251464.png?v=1791303568"
+      ]
+    },
+    {
+      "category": "citrulline",
+      "brand": "GNC",
+      "base": "https://www.guardian.in",
+      "handle": "gnc-pro-performance-l-citrulline",
+      "product": "Pro Performance L-Citrulline",
+      "form": "Powder",
+      "type": "L-citrulline",
+      "subclass": "Single amino acid",
+      "source": "Not specified",
+      "flavour": "Unflavoured",
+      "packaging": "Single retail pack",
+      "grams": 200,
+      "servingGrams": 3,
+      "basis": "Official inspected nutrition label states one 3 g scoop, L-citrulline 3000 mg and 0 kcal. Exact official variant is 200 g unflavoured.",
+      "notes": "Rounded label servings are not used as the exact cost divisor. Label composition is not an independent batch assay.",
+      "labelChecked": "2026-11-17",
+      "variantIds": [
+        "52777794470119"
+      ],
+      "citrullineMg": 3000,
+      "energyPerServing": 0,
+      "labelSources": [
+        "https://cdn.shopify.com/s/files/1/0623/9010/8391/files/BOP2_bb96da0c-201a-4f9f-b7e5-a2da52066794.png?v=1791797837"
+      ],
+      "citrullineMalateMg": null
+    },
+    {
+      "category": "beta-alanine",
+      "brand": "GNC",
+      "base": "https://www.guardian.in",
+      "handle": "gnc-pro-performance-beta-alanine",
+      "product": "Pro Performance Beta-Alanine",
+      "form": "Powder",
+      "type": "Beta-alanine",
+      "subclass": "Single amino acid",
+      "source": "Not specified",
+      "flavour": "Unflavoured",
+      "packaging": "Single retail pack",
+      "grams": 200,
+      "servingGrams": 6,
+      "basis": "Official inspected nutrition label states one 6 g scoop, beta-alanine 6000 mg and 0 kcal. Exact official variant is 200 g unflavoured.",
+      "notes": "The 6 g is a manufacturer label serving and is not a suggested starting dose. Rounded label servings are not used as the cost divisor.",
+      "labelChecked": "2026-11-17",
+      "variantIds": [
+        "52777981051111"
+      ],
+      "betaAlanineMg": 6000,
+      "energyPerServing": 0,
+      "labelSources": [
+        "https://cdn.shopify.com/s/files/1/0623/9010/8391/files/BOP2.png?v=1791794858"
+      ]
+    },
+    {
+      "category": "citrulline",
+      "brand": "Carbamide Forte",
+      "base": "https://mycf.in",
+      "handle": "carbamide-forte-l-citrulline-powder-2000mg-boosts-nitric-oxide-pre-workout-supplements-for-men-women-unflavoured-50-servings-100g",
+      "product": "L-Citrulline Powder",
+      "form": "Powder",
+      "type": "L-citrulline",
+      "subclass": "Single amino acid",
+      "source": "Not specified",
+      "flavour": "Unflavoured",
+      "packaging": "Single retail pack",
+      "grams": 100,
+      "servingGrams": 2,
+      "basis": "Official page declares 2000 mg L-citrulline per serving; exact single retail variant is 100 g. Inspected 100 g back label specifies one 2 g scoop and 0 kcal.",
+      "notes": "Only Pack of 1 is included; bundle weights and prices are excluded.",
+      "labelChecked": "2026-11-17",
+      "variantIds": [
+        "42691058499697"
+      ],
+      "citrullineMg": 2000,
+      "energyPerServing": 0,
+      "labelSources": [
+        "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B0CNZ4LTTD.PT09.jpg?v=1752469534"
+      ],
+      "citrullineMalateMg": null
+    },
+    {
+      "category": "citrulline",
+      "brand": "Carbamide Forte",
+      "base": "https://mycf.in",
+      "handle": "carbamide-forte-l-citrulline-powder-2000mg-boosts-nitric-oxide-pre-workout-supplements-for-men-women-unflavoured-100-servings-200g",
+      "product": "L-Citrulline Powder",
+      "form": "Powder",
+      "type": "L-citrulline",
+      "subclass": "Single amino acid",
+      "source": "Not specified",
+      "flavour": "Unflavoured",
+      "packaging": "Single retail pack",
+      "grams": 200,
+      "servingGrams": null,
+      "basis": "Official page declares 2000 mg L-citrulline per serving; exact single retail variant is 200 g. Exact serving grams for this 200 g package were not independently verified.",
+      "notes": "No serving-size value is copied across distinct pack labels; unverified energy remains unknown.",
+      "labelChecked": "2026-11-17",
+      "variantIds": [
+        "42690976972913"
+      ],
+      "citrullineMg": 2000,
+      "energyPerServing": null,
+      "labelSources": [
+        "https://mycf.in/products/carbamide-forte-l-citrulline-powder-2000mg-boosts-nitric-oxide-pre-workout-supplements-for-men-women-unflavoured-100-servings-200g"
+      ],
+      "citrullineMalateMg": null
+    },
+    {
+      "category": "citrulline",
+      "brand": "Pure Nutrition",
+      "base": "https://purenutrition.in",
+      "handle": "100-pure-l-citrulline-dl-malate-2-1-powder-unflavoured-faster-recovery-reduce-muscle-fatigue",
+      "product": "L-Citrulline DL-Malate 2:1 Powder",
+      "form": "Powder",
+      "type": "L-citrulline DL-malate",
+      "subclass": "2:1 compound",
+      "source": "Not specified",
+      "flavour": "Unflavoured",
+      "packaging": "Single retail pack",
+      "grams": 200,
+      "servingGrams": 3,
+      "basis": "Official product specifications and inspected instructions image specify 200 g pack and one level 3 g scoop, with stated 2:1 citrulline-to-DL-malate ratio.",
+      "notes": "The 3 g is the powder serving. A separate numeric compound payload was not verified, so neither compound nor free L-citrulline mass is inferred from the ratio or serving weight.",
+      "labelChecked": "2026-11-17",
+      "variantIds": [
+        "67681804747006"
+      ],
+      "citrullineMalateRatio": "2:1",
+      "labelSources": [
+        "https://cdn.shopify.com/s/files/1/0618/9629/4654/files/pure-nutrition-citrulline-label-instructions.jpg?v=1789448792"
+      ],
+      "citrullineMg": null,
+      "citrullineMalateMg": null,
+      "energyPerServing": null
+    },
+    {
+      "category": "beta-alanine",
+      "kind": "jsonld",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-beta-alanine/",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-beta-alanine/?pId=8486513&vId=6440277",
+      "variantSku": "NB-NUT-1005-02",
+      "variantId": "6440277",
+      "cacheKey": "nutrabay-beta",
+      "id": "beta-alanine-nutrabay-6440277",
+      "brand": "Nutrabay",
+      "product": "Pure Beta-Alanine",
+      "form": "Powder",
+      "type": "Beta-alanine",
+      "subclass": "Single amino acid",
+      "source": "Not specified",
+      "flavour": "Unflavoured",
+      "packaging": "Single retail pouch",
+      "grams": 100.0,
+      "servingGrams": 2.5,
+      "betaAlanineMg": 2500,
+      "energyPerServing": null,
+      "basis": "Directly fetched official ProductGroup.hasVariant identifies exact SKU, selected variant URL, sale price, stock and net pack weight. Official FAQ states 2.5 g pure beta-alanine per 2.5 g serving.",
+      "notes": "The 100 g pouch is explicitly sold out and retains its listed price. No price is inferred from MRP or from the in-stock 250 g pack.",
+      "labelChecked": "2026-11-17",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-beta-alanine/"
+      ]
+    },
+    {
+      "category": "beta-alanine",
+      "kind": "jsonld",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-beta-alanine/",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-beta-alanine/?pId=8486513&vId=1480899",
+      "variantSku": "NB-NUT-1005-01",
+      "variantId": "1480899",
+      "cacheKey": "nutrabay-beta",
+      "id": "beta-alanine-nutrabay-1480899",
+      "brand": "Nutrabay",
+      "product": "Pure Beta-Alanine",
+      "form": "Powder",
+      "type": "Beta-alanine",
+      "subclass": "Single amino acid",
+      "source": "Not specified",
+      "flavour": "Unflavoured",
+      "packaging": "Single retail pack",
+      "grams": 250.0,
+      "servingGrams": 2.5,
+      "betaAlanineMg": 2500,
+      "energyPerServing": null,
+      "basis": "Directly fetched official ProductGroup.hasVariant identifies exact SKU, selected variant URL, sale price, stock and net pack weight. Official FAQ states 2.5 g pure beta-alanine per 2.5 g serving.",
+      "notes": "The 100 g pouch is explicitly sold out and retains its listed price. No price is inferred from MRP or from the in-stock 250 g pack.",
+      "labelChecked": "2026-11-17",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-beta-alanine/"
+      ]
+    },
+    {
+      "category": "taurine",
+      "brand": "HealthyHey",
+      "base": "https://healthyhey.com",
+      "handle": "healthyhey-sports-taurine-powder-amino-acid-supplement-improve-performance-helps-recovery-200-gram-80-servings",
+      "source": "Not specified",
+      "packaging": "Single retail pack",
+      "labelChecked": "2026-11-17",
+      "variantIds": [
+        "44683824333085"
+      ],
+      "packCount": null,
+      "servingUnits": null,
+      "servingGrams": 2.5,
+      "grams": 200,
+      "flavour": "Unflavoured",
+      "product": "Taurine Powder",
+      "form": "Powder",
+      "type": "Taurine",
+      "subclass": "Single amino acid with anticaking agent",
+      "taurineMg": 2500,
+      "declaredNutrients": [
+        "taurineMg"
+      ],
+      "basis": "Official product nutritional-information table declares one 2.5 g scoop and 2.50 g taurine per serving; product title establishes net 200 g.",
+      "notes": "The page includes a generic capsule dosage paragraph although this SKU is powder. The powder-specific nutritional-information table supplies the serving basis; marketed 80 servings is not used as the cost divisor.",
+      "searchAliases": [
+        "taurine powder"
+      ],
+      "labelSources": [
+        "https://healthyhey.com/products/healthyhey-sports-taurine-powder-amino-acid-supplement-improve-performance-helps-recovery-200-gram-80-servings"
+      ],
+      "nutritionUrl": "https://healthyhey.com/products/healthyhey-sports-taurine-powder-amino-acid-supplement-improve-performance-helps-recovery-200-gram-80-servings"
+    },
+    {
+      "category": "taurine",
+      "brand": "HealthyHey",
+      "base": "https://healthyhey.com",
+      "handle": "healthyhey-nutrition-l-taurine-500-mg-amino-acid-supplement-120-vegetable-capsules",
+      "source": "Not specified",
+      "packaging": "Single retail pack",
+      "labelChecked": "2026-11-17",
+      "variantIds": [
+        "44683658330397"
+      ],
+      "packCount": 120,
+      "servingUnits": 1,
+      "servingGrams": null,
+      "grams": null,
+      "flavour": "Unflavoured",
+      "product": "L-Taurine 500 mg",
+      "form": "Capsule",
+      "type": "Taurine",
+      "subclass": "Vegetarian capsules",
+      "taurineMg": 500,
+      "energyPerServing": 0,
+      "declaredNutrients": [
+        "taurineMg"
+      ],
+      "basis": "Official back label states one vegetarian capsule (0.67 g), 120 servings per container and L-taurine 500 mg per serving.",
+      "notes": "Capsule total mass includes excipients; 500 mg is the declared L-taurine amount, not capsule weight.",
+      "labelSources": [
+        "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-nutrition-capsule-l-taurine-support-muscle-recovery-amino-acid-supplement-120-veg-capsules-1239034262.png?v=1780894393"
+      ],
+      "searchAliases": [
+        "l taurine",
+        "taurine capsules"
+      ],
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-nutrition-capsule-l-taurine-support-muscle-recovery-amino-acid-supplement-120-veg-capsules-1239034262.png?v=1780894393"
+    },
+    {
+      "category": "taurine",
+      "brand": "GNC",
+      "base": "https://www.guardian.in",
+      "handle": "gnc-pro-performance-l-taurine-unflavoured-200-g",
+      "source": "Not specified",
+      "packaging": "Single retail pack",
+      "labelChecked": "2026-11-17",
+      "variantIds": [
+        "52808104870119"
+      ],
+      "packCount": null,
+      "servingUnits": null,
+      "servingGrams": 5,
+      "grams": 200,
+      "flavour": "Unflavoured",
+      "product": "Pro Performance L-Taurine",
+      "form": "Powder",
+      "type": "Taurine",
+      "subclass": "Single amino acid",
+      "taurineMg": 5000,
+      "energyPerServing": 0,
+      "declaredNutrients": [
+        "taurineMg"
+      ],
+      "basis": "Official nutrition label states a 5.00 g scoop, 40 servings and L-taurine 5000 mg per serving. Official retail title specifies net 200 g.",
+      "notes": "Pack quantity is the retail 200 g title; the feed shipping-weight field is zero and is not used.",
+      "labelSources": [
+        "https://cdn.shopify.com/s/files/1/0623/9010/8391/files/BOP2_88954ee4-aa79-402d-9b46-1bf5cbff3016.png?v=1791800687"
+      ],
+      "searchAliases": [
+        "l taurine",
+        "taurine powder"
+      ],
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0623/9010/8391/files/BOP2_88954ee4-aa79-402d-9b46-1bf5cbff3016.png?v=1791800687"
+    },
+    {
+      "category": "betaine",
+      "brand": "HealthyHey",
+      "base": "https://healthyhey.com",
+      "handle": "tmg-trimethylglycine-with-vitamin-b12-600mg-serving-60-vegetable-capsules",
+      "source": "Not specified",
+      "packaging": "Single retail pack",
+      "labelChecked": "2026-11-17",
+      "variantIds": [
+        "49569691238685"
+      ],
+      "packCount": 60,
+      "servingUnits": 1,
+      "servingGrams": null,
+      "grams": null,
+      "flavour": "Unflavoured",
+      "product": "TMG 600 mg + Vitamin B12 2.2 mcg",
+      "form": "Capsule",
+      "type": "Betaine (TMG)",
+      "subclass": "Trimethylglycine with vitamin B12",
+      "betaineMg": 600,
+      "betaineHclMg": null,
+      "vitaminB12Mcg": 2.2,
+      "energyPerServing": 0,
+      "declaredNutrients": [
+        "betaineMg",
+        "vitaminB12Mcg"
+      ],
+      "basis": "Official 60-capsule back label and current page table agree: one capsule (0.83 g) provides 600 mg betaine (N,N,N-trimethylglycine) and 2.2 mcg vitamin B12.",
+      "notes": "TMG formulation; not betaine hydrochloride. This exact 60-capsule variant is sold out at the quoted listed price.",
+      "labelSources": [
+        "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-nutrition-capsules-tmg-trimethylglycine-with-vitamin-b12-60-vegetable-capsules-1177239885.png?v=1780890656"
+      ],
+      "searchAliases": [
+        "TMG",
+        "trimethylglycine",
+        "betaine anhydrous"
+      ],
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-nutrition-capsules-tmg-trimethylglycine-with-vitamin-b12-60-vegetable-capsules-1177239885.png?v=1780890656"
+    },
+    {
+      "category": "betaine",
+      "brand": "HealthyHey",
+      "base": "https://healthyhey.com",
+      "handle": "betaine-tmg-600mg-120-veg-capsules",
+      "source": "Not specified",
+      "packaging": "Single retail pack",
+      "labelChecked": "2026-11-17",
+      "variantIds": [
+        "44641005633821"
+      ],
+      "packCount": 120,
+      "servingUnits": 1,
+      "servingGrams": null,
+      "grams": null,
+      "flavour": "Unflavoured",
+      "product": "TMG 600 mg + Vitamin B12 1.76 mcg",
+      "form": "Capsule",
+      "type": "Betaine (TMG)",
+      "subclass": "Trimethylglycine with vitamin B12",
+      "betaineMg": 600,
+      "betaineHclMg": null,
+      "vitaminB12Mcg": 1.76,
+      "energyPerServing": 0,
+      "declaredNutrients": [
+        "betaineMg",
+        "vitaminB12Mcg"
+      ],
+      "basis": "Current official 120-capsule back label states one vegetarian capsule (0.82 g), betaine (N,N,N-trimethylglycine) 600 mg and vitamin B12 1.76 mcg per serving. Current product prose also confirms 600 mg per capsule.",
+      "notes": "Current label supersedes older search-cached two-capsule serving text. Vitamin B12 is present on the actual pictured label despite being omitted from the short retail title. TMG formulation is separate from betaine hydrochloride.",
+      "labelSources": [
+        "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-nutrition-capsule-betaine-trimethylglycine-support-healthy-homocysteine-levels-tmg-600mg-120-veg-capsules-1260251496.png?v=1791304961"
+      ],
+      "searchAliases": [
+        "TMG",
+        "trimethylglycine",
+        "betaine anhydrous"
+      ],
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-nutrition-capsule-betaine-trimethylglycine-support-healthy-homocysteine-levels-tmg-600mg-120-veg-capsules-1260251496.png?v=1791304961"
+    },
+    {
+      "category": "hmb",
+      "brand": "HealthyHey",
+      "base": "https://healthyhey.com",
+      "handle": "hmb-calcium-hydroxyl-methyl-butyrate-powder-lemon-flavour-100g",
+      "source": "Not specified",
+      "packaging": "Single retail pack",
+      "labelChecked": "2026-11-17",
+      "variantIds": [
+        "46067580993821"
+      ],
+      "packCount": null,
+      "servingUnits": null,
+      "servingGrams": 6.6,
+      "grams": 100,
+      "flavour": "Lemon",
+      "product": "HMB Calcium + Citrulline Malate + Vitamin D3",
+      "form": "Powder",
+      "type": "Calcium HMB blend",
+      "subclass": "Calcium HMB salt with citrulline malate and vitamin D3",
+      "hmbMg": null,
+      "calciumHmbMg": 3000,
+      "hmbFreeAcidMg": null,
+      "citrullineMalateMg": 3000,
+      "vitaminDMcg": 15,
+      "energyPerServing": 21.12,
+      "declaredNutrients": [
+        "calciumHmbMg",
+        "citrullineMalateMg",
+        "vitaminDMcg"
+      ],
+      "basis": "Official back label states 2 scoops (6.6 g), 3000 mg calcium hydroxyl methyl butyrate (CaHMB), 3000 mg L-citrulline DL-malate and 15 mcg vitamin D3 per serving; label net weight is 100 g.",
+      "notes": "CaHMB is the declared calcium salt mass. Free HMB payload and free L-citrulline payload are not specified and are not inferred. The product is a blend. Approximate 15 servings is not used as the cost divisor.",
+      "labelSources": [
+        "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-sports-powder-hmb-calcium-supports-strength-endurance-muscle-recovery-hydroxyl-methyl-butyrate-powder-lemon-flavour-100g-1241353301.png?v=1780891339"
+      ],
+      "searchAliases": [
+        "calcium HMB",
+        "CaHMB"
+      ],
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-sports-powder-hmb-calcium-supports-strength-endurance-muscle-recovery-hydroxyl-methyl-butyrate-powder-lemon-flavour-100g-1241353301.png?v=1780891339"
+    },
+    {
+      "category": "hmb",
+      "brand": "HealthyHey",
+      "base": "https://healthyhey.com",
+      "handle": "hmb-calcium-hydroxyl-methyl-butyrate-120-capsules",
+      "source": "Not specified",
+      "packaging": "Single retail pack",
+      "labelChecked": "2026-11-17",
+      "variantIds": [
+        "44818569527581"
+      ],
+      "packCount": 120,
+      "servingUnits": 2,
+      "servingGrams": null,
+      "grams": null,
+      "flavour": "Unflavoured",
+      "product": "HMB Calcium 1000 mg + Vitamin D3",
+      "form": "Capsule",
+      "type": "Calcium HMB",
+      "subclass": "Calcium HMB salt with vitamin D3",
+      "hmbMg": null,
+      "calciumHmbMg": 1000,
+      "hmbFreeAcidMg": null,
+      "vitaminDMcg": 3.32,
+      "declaredNutrients": [
+        "calciumHmbMg",
+        "vitaminDMcg"
+      ],
+      "basis": "Official current product nutritional-information table states two vegetarian capsules per serving with calcium hydroxyl methyl butyrate (CaHMB) 1000 mg and vitamin D3 3.32 mcg. Retail pack is 120 capsules.",
+      "notes": "The declared 1000 mg is calcium HMB salt mass per two capsules. Free HMB payload and elemental calcium are not inferred. Generic goal-based dosing elsewhere on the page is not the label serving basis.",
+      "searchAliases": [
+        "calcium HMB",
+        "CaHMB"
+      ],
+      "labelSources": [
+        "https://healthyhey.com/products/hmb-calcium-hydroxyl-methyl-butyrate-120-capsules"
+      ],
+      "nutritionUrl": "https://healthyhey.com/products/hmb-calcium-hydroxyl-methyl-butyrate-120-capsules"
     }
   ]
 }

@@ -98,6 +98,12 @@ The importer requires exact `variantIds` or `variantTitles` for powder profiles 
 
 The stack builder's performance-claims review includes all five categories without automatically selecting products or quantities. It explains overlap among complete protein, BCAA and EAA, and possible duplicate creatine, arginine and caffeine exposure in pre-workouts. It does not calculate a daily stimulant total or prescribe a regimen.
 
+The additional Citrulline, Beta-Alanine, Taurine, Betaine and HMB catalogs use the same dataset-driven serving model. Citrulline includes free L-citrulline and citrulline malate under one category, with chemical-form and declared-ratio filters. Free citrulline and malate compound masses stay separate. Betaine anhydrous / TMG and betaine HCl stay separate, as do declared HMB payload, calcium HMB compound and HMB free acid. No presumed molecular ratios, absorption multipliers or equivalence between these forms enter the cost formulas. Unknown payloads stay null even when a compound amount is known; each known compound has its own clearly labelled cost comparison.
+
+Official non-Shopify product families can use `kind: jsonld` source profiles with a canonical `productUrl`, exact `variantSku` and exact `variantUrl`. The importer accepts the matching ProductGroup variant only, validates INR and a positive price, checks a declared structured weight against the curated pack, and rejects missing or conflicting matches. It never substitutes an aggregate family price or another SKU.
+
+Their guides and stack review distinguish mechanisms from demonstrated outcomes, explain pre-workout overlap and keep suitability and dose decisions separate from label-cost comparisons. Update their exact source profiles and observations with `--categories citrulline beta-alanine taurine betaine hmb`; each category retains its own price and label dates.
+
 ## Articles and research
 
 `docs/data/research.json` contains the category guides, editorial review dates, selected reference metadata, summaries and limitations. It is bundled into the same content-addressed dataset as the catalogs, so editing the data and publishing a validated build updates the reading library without editing UI components. `research.html` supports category, topic and reference-type filters, with shareable query parameters. Catalog pages link directly to the relevant guide collection.

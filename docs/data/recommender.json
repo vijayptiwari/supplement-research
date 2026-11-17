@@ -333,6 +333,79 @@
         "caffeine-position",
         "exercise"
       ]
+    },
+    {
+      "category": "citrulline",
+      "goals": [
+        "performance-claims"
+      ],
+      "review": true,
+      "status": "Review form and uncertain performance benefit",
+      "reason": "Citrulline-malate findings suggest at most a small, uncertain average benefit. Full malate compound mass is not verified free L-citrulline. Review overlap with arginine and pre-workout; these are options to assess, not automatic additions.",
+      "sources": [
+        "exercise",
+        "citrulline-meta",
+        "citrulline-forms-trial",
+        "citrulline-critical"
+      ]
+    },
+    {
+      "category": "beta-alanine",
+      "goals": [
+        "performance-claims"
+      ],
+      "review": true,
+      "status": "Match the exercise task and repeated-use evidence",
+      "reason": "Beta-alanine can raise muscle carnosine with repeated use and may help selected high-intensity tasks. Immediate tingling does not prove benefit. Account for beta-alanine already in pre-workout and review whether the goal fits the evidence.",
+      "sources": [
+        "beta-alanine-position",
+        "beta-alanine-meta",
+        "beta-alanine-safety"
+      ]
+    },
+    {
+      "category": "taurine",
+      "goals": [
+        "performance-claims"
+      ],
+      "review": true,
+      "status": "Assess isolated taurine separately from stimulants",
+      "reason": "Isolated taurine has limited, inconsistent exercise evidence and is distinct from caffeine. A result from an energy drink cannot be assigned to taurine alone. Review taurine and caffeine already present in pre-workout or other drinks before considering another product.",
+      "sources": [
+        "taurine-exercise",
+        "taurine-meta",
+        "caffeine-position"
+      ]
+    },
+    {
+      "category": "betaine",
+      "goals": [
+        "performance-claims"
+      ],
+      "review": true,
+      "status": "Separate TMG exercise claims from betaine HCl",
+      "reason": "Some anhydrous betaine/TMG trials report specific strength benefits, but broad performance evidence remains uncertain. Betaine HCl digestive claims are a separate issue. Review exact form and overlap with pre-workout; no product or digestive treatment is added automatically.",
+      "sources": [
+        "exercise",
+        "betaine-meta",
+        "betaine-endurance",
+        "betaine-hcl-trial"
+      ]
+    },
+    {
+      "category": "hmb",
+      "goals": [
+        "performance-claims"
+      ],
+      "review": true,
+      "status": "Review population, nutrition and exact HMB form",
+      "reason": "HMB evidence differs by setting and interpretation. Recent training meta-analyses do not show a routine added benefit, while some position statements are more favorable. Distinguish free-acid from calcium-HMB amounts and do not treat HMB, leucine, BCAA and EAA as equivalent exposures.",
+      "sources": [
+        "exercise",
+        "hmb-position",
+        "hmb-young-meta",
+        "hmb-older-meta"
+      ]
     }
   ]
 }

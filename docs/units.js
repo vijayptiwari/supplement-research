@@ -6,6 +6,7 @@ export const nutrientCostFields=c=>(c.nutrientFields||[]).filter(f=>positive(f.c
 export const nutrientCostKey=f=>'costPer_'+f.key;
 Object.assign(nutrientUnits,{arginineMg:'mg',carnitineMg:'mg',carnitineCompoundMg:'mg',bcaaMg:'mg',eaaMg:'mg',leucineMg:'mg',isoleucineMg:'mg',valineMg:'mg',caffeineMg:'mg',caffeineAnhydrousMg:'mg',citrullineMg:'mg',citrullineMalateMg:'mg',betaAlanineMg:'mg',creatineMg:'mg',taurineMg:'mg'});
 Object.assign(nutrientUnits,{caffeineComponentMg:'mg',arginineCompoundMg:'mg'});
+Object.assign(nutrientUnits,{betaineMg:'mg',betaineHclMg:'mg',hmbMg:'mg',calciumHmbMg:'mg',hmbFreeAcidMg:'mg'});
 export function completeUnitLabel(r,c){
  if(r.packServings==null)return false;
  if(c.mainNutrient!=='multi')return r[c.mainNutrient]!=null;

@@ -1,0 +1,85 @@
+{
+  "checked": "2026-11-17",
+  "category": "hmb",
+  "offers": [
+    {
+      "brand": "HealthyHey",
+      "source": "Not specified",
+      "packaging": "Single retail pack",
+      "labelChecked": "2026-11-17",
+      "packCount": null,
+      "servingUnits": null,
+      "servingGrams": 6.6,
+      "grams": 100,
+      "flavour": "Lemon",
+      "product": "HMB Calcium + Citrulline Malate + Vitamin D3",
+      "form": "Powder",
+      "type": "Calcium HMB blend",
+      "subclass": "Calcium HMB salt with citrulline malate and vitamin D3",
+      "hmbMg": null,
+      "calciumHmbMg": 3000,
+      "hmbFreeAcidMg": null,
+      "citrullineMalateMg": 3000,
+      "vitaminDMcg": 15,
+      "energyPerServing": 21.12,
+      "declaredNutrients": [
+        "calciumHmbMg",
+        "citrullineMalateMg",
+        "vitaminDMcg"
+      ],
+      "basis": "Official back label states 2 scoops (6.6 g), 3000 mg calcium hydroxyl methyl butyrate (CaHMB), 3000 mg L-citrulline DL-malate and 15 mcg vitamin D3 per serving; label net weight is 100 g.",
+      "notes": "CaHMB is the declared calcium salt mass. Free HMB payload and free L-citrulline payload are not specified and are not inferred. The product is a blend. Approximate 15 servings is not used as the cost divisor.",
+      "labelSources": [
+        "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-sports-powder-hmb-calcium-supports-strength-endurance-muscle-recovery-hydroxyl-methyl-butyrate-powder-lemon-flavour-100g-1241353301.png?v=1780891339"
+      ],
+      "searchAliases": [
+        "calcium HMB",
+        "CaHMB"
+      ],
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-sports-powder-hmb-calcium-supports-strength-endurance-muscle-recovery-hydroxyl-methyl-butyrate-powder-lemon-flavour-100g-1241353301.png?v=1780891339",
+      "id": "hmb-46067580993821",
+      "price": 989.0,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://healthyhey.com/products/hmb-calcium-hydroxyl-methyl-butyrate-powder-lemon-flavour-100g?variant=46067580993821"
+    },
+    {
+      "brand": "HealthyHey",
+      "source": "Not specified",
+      "packaging": "Single retail pack",
+      "labelChecked": "2026-11-17",
+      "packCount": 120,
+      "servingUnits": 2,
+      "servingGrams": null,
+      "grams": null,
+      "flavour": "Unflavoured",
+      "product": "HMB Calcium 1000 mg + Vitamin D3",
+      "form": "Capsule",
+      "type": "Calcium HMB",
+      "subclass": "Calcium HMB salt with vitamin D3",
+      "hmbMg": null,
+      "calciumHmbMg": 1000,
+      "hmbFreeAcidMg": null,
+      "vitaminDMcg": 3.32,
+      "declaredNutrients": [
+        "calciumHmbMg",
+        "vitaminDMcg"
+      ],
+      "basis": "Official current product nutritional-information table states two vegetarian capsules per serving with calcium hydroxyl methyl butyrate (CaHMB) 1000 mg and vitamin D3 3.32 mcg. Retail pack is 120 capsules.",
+      "notes": "The declared 1000 mg is calcium HMB salt mass per two capsules. Free HMB payload and elemental calcium are not inferred. Generic goal-based dosing elsewhere on the page is not the label serving basis.",
+      "searchAliases": [
+        "calcium HMB",
+        "CaHMB"
+      ],
+      "labelSources": [
+        "https://healthyhey.com/products/hmb-calcium-hydroxyl-methyl-butyrate-120-capsules"
+      ],
+      "nutritionUrl": "https://healthyhey.com/products/hmb-calcium-hydroxyl-methyl-butyrate-120-capsules",
+      "id": "hmb-44818569527581",
+      "price": 1199.0,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://healthyhey.com/products/hmb-calcium-hydroxyl-methyl-butyrate-120-capsules?variant=44818569527581"
+    }
+  ]
+}
