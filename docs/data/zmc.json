@@ -35,7 +35,14 @@
       "nutritionUrl": "https://purenutrition.in/products/calcium-magnesium-zinc-vitamin-d3-k2-tablets-60-tabs",
       "flavour": "Unflavoured",
       "packaging": "Single retail pack",
-      "labelChecked": "2026-10-29"
+      "labelChecked": "2026-10-29",
+      "declaredNutrients": [
+        "calciumMg",
+        "magnesiumMg",
+        "zincMg",
+        "vitaminDMcg",
+        "vitaminK2Mcg"
+      ]
     },
     {
       "brand": "NVEDA",
@@ -72,7 +79,15 @@
       "nutritionUrl": "https://nveda.in/products/nveda-calcium-complex-single-pack",
       "flavour": "Unflavoured",
       "packaging": "Single retail pack",
-      "labelChecked": "2026-10-29"
+      "labelChecked": "2026-10-29",
+      "declaredNutrients": [
+        "calciumMg",
+        "magnesiumMg",
+        "zincMg",
+        "vitaminDMcg",
+        "vitaminB12Mcg",
+        "vitaminK2Mcg"
+      ]
     },
     {
       "brand": "Health Veda Organics",
@@ -98,7 +113,14 @@
       "nutritionUrl": "https://healthvedaorganics.com/products/calcium-magnesium-zinc-tablets-with-vitamin-d3-b12-for-healthy-strong-bones-60-veg-tablets",
       "flavour": "Unflavoured",
       "packaging": "Single retail pack",
-      "labelChecked": "2026-10-29"
+      "labelChecked": "2026-10-29",
+      "declaredNutrients": [
+        "calciumMg",
+        "magnesiumMg",
+        "zincMg",
+        "vitaminDMcg",
+        "vitaminB12Mcg"
+      ]
     },
     {
       "brand": "iMuscles",
@@ -124,7 +146,13 @@
       "nutritionUrl": "https://imuscles.in/products/calcium-tablets-for-strong-healthy-bones",
       "flavour": "Unflavoured",
       "packaging": "Single retail pack",
-      "labelChecked": "2026-10-29"
+      "labelChecked": "2026-10-29",
+      "declaredNutrients": [
+        "calciumMg",
+        "magnesiumMg",
+        "zincMg",
+        "vitaminDMcg"
+      ]
     },
     {
       "brand": "HK Vitals",
@@ -150,7 +178,13 @@
       "nutritionUrl": "https://www.hkvitals.com/products/calcium-magnesium-zinc",
       "flavour": "Unflavoured",
       "packaging": "Single retail pack",
-      "labelChecked": "2026-10-29"
+      "labelChecked": "2026-10-29",
+      "declaredNutrients": [
+        "calciumMg",
+        "magnesiumMg",
+        "zincMg",
+        "vitaminDMcg"
+      ]
     }
   ]
 }

@@ -19,7 +19,9 @@
         "food-protein",
         "food-protein-vegetarian",
         "food-kidney-diet",
-        "food-allergens"
+        "food-allergens",
+        "food-usda-sr28",
+        "protein-diabetes-ada"
       ],
       "reviewed": "2026-11-17",
       "author": "Supplement Research editorial synthesis",
@@ -52,29 +54,106 @@
         "foodSummary": "Food can supply protein without a powder. Judge the need from total intake, preferences and practical meal choices.",
         "foods": [
           {
-            "name": "Dal, beans and chickpeas",
+            "name": "Lentils, mature seeds, cooked, boiled, without salt",
             "relationship": "direct",
-            "detail": "Provide dietary protein alongside fibre."
+            "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": "USDA NDB 16070",
+            "amounts": [
+              {
+                "nutrient": "Protein",
+                "min": 9.02,
+                "max": null,
+                "unit": "g",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "100 g edible food"
+                },
+                "sourceIds": [
+                  "food-usda-sr28"
+                ]
+              }
+            ]
           },
           {
-            "name": "Tofu and other soy foods",
+            "name": "Tofu, raw, firm, prepared with calcium sulfate",
             "relationship": "direct",
-            "detail": "Plant protein options for a varied diet."
+            "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": "USDA NDB 16426",
+            "amounts": [
+              {
+                "nutrient": "Protein",
+                "min": 17.27,
+                "max": null,
+                "unit": "g",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "100 g edible food"
+                },
+                "sourceIds": [
+                  "food-usda-sr28"
+                ]
+              }
+            ]
           },
           {
-            "name": "Milk, curd and paneer",
+            "name": "Chicken, broilers or fryers, breast, meat only, cooked, roasted",
             "relationship": "direct",
-            "detail": "Dairy protein; suitability depends on milk allergy and individual tolerance."
+            "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": "USDA NDB 05064",
+            "amounts": [
+              {
+                "nutrient": "Protein",
+                "min": 31.02,
+                "max": null,
+                "unit": "g",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "100 g edible food"
+                },
+                "sourceIds": [
+                  "food-usda-sr28"
+                ]
+              }
+            ]
           },
           {
-            "name": "Eggs, fish and poultry",
+            "name": "Egg, whole, cooked, hard-boiled",
             "relationship": "direct",
-            "detail": "Animal-food protein options; powders are an additional convenient format."
+            "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": "USDA NDB 01129",
+            "amounts": [
+              {
+                "nutrient": "Protein",
+                "min": 12.58,
+                "max": null,
+                "unit": "g",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "100 g edible food"
+                },
+                "sourceIds": [
+                  "food-usda-sr28"
+                ]
+              }
+            ]
           }
         ],
         "foodSourceIds": [
           "food-protein",
-          "food-protein-vegetarian"
+          "food-protein-vegetarian",
+          "food-usda-sr28"
         ],
         "value": {
           "routineScore": 2,
@@ -100,6 +179,102 @@
           ]
         },
         "reviewed": "2026-11-17"
+      },
+      "intakeGuide": {
+        "kind": "daily-target",
+        "summary": "Assess total daily protein from food first; powder only fills a genuine gap.",
+        "targets": [
+          {
+            "key": "protein",
+            "label": "Protein",
+            "min": 0.8,
+            "max": null,
+            "unit": "g",
+            "basis": "total-daily",
+            "perKg": true,
+            "profileIds": [
+              "everyday"
+            ],
+            "sex": "any",
+            "minAge": 19,
+            "maxAge": null,
+            "referenceType": "RDA",
+            "notes": "General adult RDA baseline, not an optimum for every older adult or clinical situation.",
+            "sourceIds": [
+              "exercise"
+            ]
+          },
+          {
+            "key": "protein",
+            "label": "Protein",
+            "min": 1.2,
+            "max": 2,
+            "unit": "g",
+            "basis": "total-daily",
+            "perKg": true,
+            "profileIds": [
+              "general-fitness",
+              "strength-power",
+              "hypertrophy",
+              "endurance",
+              "hybrid"
+            ],
+            "sex": "any",
+            "minAge": 19,
+            "maxAge": null,
+            "referenceType": "sports-range",
+            "notes": "Broad sports nutrition range from all food and supplements. Recreational needs vary; the upper end is not required just because training is frequent.",
+            "sourceIds": [
+              "exercise"
+            ]
+          }
+        ],
+        "limits": [],
+        "notes": [
+          "No automatic dose increase is assigned for training frequency or experience."
+        ],
+        "sourceIds": [
+          "exercise"
+        ],
+        "reviewed": "2026-11-17"
+      },
+      "medicalGuide": {
+        "summary": "Condition-specific evidence, separate from sports benefits and purchase priority.",
+        "conditions": [
+          {
+            "condition": "Protein inadequacy / nutrition support",
+            "level": "conditional",
+            "findings": "Food or supplementation can address an assessed shortfall; treatment also requires the cause and total diet to be addressed.",
+            "limits": "Protein supplementation can help address inadequate intake within a nutrition plan. Powder alone does not cure muscle wasting or an illness causing poor nutrition.",
+            "sourceIds": [
+              "digestion",
+              "exercise",
+              "protein-review"
+            ]
+          },
+          {
+            "condition": "Diabetes",
+            "level": "insufficient",
+            "findings": "Protein powder is not a diabetes treatment. Protein needs should be individualized; kidney disease can materially change the plan.",
+            "limits": "Protein supplementation can help address inadequate intake within a nutrition plan. Powder alone does not cure muscle wasting or an illness causing poor nutrition.",
+            "sourceIds": [
+              "protein-diabetes-ada",
+              "food-kidney-diet"
+            ]
+          },
+          {
+            "condition": "Muscle injury or persistent weakness",
+            "level": "insufficient",
+            "findings": "Supporting ordinary training recovery does not establish treatment for an injury, muscle disease or rhabdomyolysis.",
+            "limits": "Protein supplementation can help address inadequate intake within a nutrition plan. Powder alone does not cure muscle wasting or an illness causing poor nutrition.",
+            "sourceIds": [
+              "digestion",
+              "exercise",
+              "protein-review"
+            ]
+          }
+        ],
+        "reviewed": "2026-11-17"
       }
     },
     {
@@ -114,7 +289,10 @@
       "sourceIds": [
         "exercise",
         "creatine-position",
-        "food-protein-vegetarian"
+        "food-protein-vegetarian",
+        "food-performance-bioactives",
+        "creatine-parkinson-trial",
+        "food-chicken-bioactives"
       ],
       "reviewed": "2026-11-17",
       "author": "Supplement Research editorial synthesis",
@@ -145,25 +323,35 @@
         "foodSummary": "Meat and seafood contain creatine. The body also makes it from amino acids; food and precursor intake are not a standardized supplement dose.",
         "foods": [
           {
-            "name": "Fish, including salmon",
+            "name": "Chicken breast, raw, study samples on storage day 1",
             "relationship": "direct",
-            "detail": "A dietary source of preformed creatine; content varies."
-          },
-          {
-            "name": "Meat",
-            "relationship": "direct",
-            "detail": "Contains preformed creatine alongside protein and other nutrients."
-          },
-          {
-            "name": "Protein foods such as beans and soy",
-            "relationship": "precursor",
-            "detail": "Supply amino acids used in endogenous creatine synthesis; they are not comparable direct creatine sources."
+            "detail": "Range of day-1 group means from conventional and welfare farm samples, not the range of every chicken product. Raw weight describes the assay, not a recommendation to eat raw meat.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Study-specific composition; not a universal food value or supplement-dose equivalent.",
+            "amounts": [
+              {
+                "nutrient": "Creatine",
+                "min": 178.73,
+                "max": 183.18,
+                "unit": "mg",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "100 g raw meat"
+                },
+                "sourceIds": [
+                  "food-chicken-bioactives"
+                ]
+              }
+            ]
           }
         ],
         "foodSourceIds": [
           "exercise",
           "creatine-position",
-          "food-protein-vegetarian"
+          "food-protein-vegetarian",
+          "food-performance-bioactives",
+          "food-chicken-bioactives"
         ],
         "value": {
           "routineScore": 3,
@@ -185,6 +373,68 @@
             "creatine-position"
           ]
         },
+        "reviewed": "2026-11-17"
+      },
+      "intakeGuide": {
+        "kind": "optional-performance",
+        "summary": "No dietary RDA. Optional monohydrate protocols depend on the training goal, not sessions per week.",
+        "targets": [
+          {
+            "key": "creatineMonohydrateMg",
+            "label": "Creatine monohydrate",
+            "min": 3,
+            "max": 5,
+            "unit": "g",
+            "basis": "supplement-daily",
+            "perKg": false,
+            "profileIds": [
+              "strength-power",
+              "hypertrophy",
+              "hybrid"
+            ],
+            "sex": "any",
+            "minAge": 19,
+            "maxAge": null,
+            "referenceType": "studied-protocol",
+            "notes": "Optional maintenance protocol studied with training; loading is not required. Applies to monohydrate, not an assumed equivalent dose of another salt.",
+            "sourceIds": [
+              "creatine-position"
+            ]
+          }
+        ],
+        "limits": [],
+        "notes": [
+          "No automatic dose increase is assigned for training frequency or experience."
+        ],
+        "sourceIds": [
+          "creatine-position"
+        ],
+        "reviewed": "2026-11-17"
+      },
+      "medicalGuide": {
+        "summary": "Condition-specific evidence, separate from sports benefits and purchase priority.",
+        "conditions": [
+          {
+            "condition": "Cognitive impairment and neurological disorders",
+            "level": "insufficient",
+            "findings": "Creatine is not established treatment for dementia or a cognitive disorder. Cognition signals in other populations cannot establish that indication.",
+            "limits": "A performance aid is not a cure for weakness, fatigue or a neurological disease. Specialist uses require condition-specific evidence and care.",
+            "sourceIds": [
+              "creatine-parkinson-trial",
+              "creatine-position"
+            ]
+          },
+          {
+            "condition": "Parkinson disease",
+            "level": "insufficient",
+            "findings": "The large NET-PD trial did not demonstrate slower clinical progression and was stopped for futility.",
+            "limits": "A performance aid is not a cure for weakness, fatigue or a neurological disease. Specialist uses require condition-specific evidence and care.",
+            "sourceIds": [
+              "creatine-parkinson-trial",
+              "creatine-position"
+            ]
+          }
+        ],
         "reviewed": "2026-11-17"
       }
     },
@@ -254,6 +504,36 @@
           ]
         },
         "reviewed": "2026-11-17"
+      },
+      "intakeGuide": {
+        "kind": "no-established-target",
+        "summary": "No established dietary requirement or universally appropriate extract dose. Trials use particular extracts and standardizations; products are not interchangeable.",
+        "targets": [],
+        "limits": [],
+        "notes": [
+          "No automatic dose increase is assigned for training frequency or experience."
+        ],
+        "sourceIds": [
+          "ash-overview",
+          "ash-trial"
+        ],
+        "reviewed": "2026-11-17"
+      },
+      "medicalGuide": {
+        "summary": "Condition-specific evidence, separate from sports benefits and purchase priority.",
+        "conditions": [
+          {
+            "condition": "Stress and sleep symptoms",
+            "level": "mixed",
+            "findings": "Small, short trials of selected extracts suggest symptom benefits; they do not establish treatment of an anxiety disorder or chronic insomnia.",
+            "limits": "No established cure for anxiety disorders, insomnia or thyroid disease. Persistent symptoms need assessment rather than self-treatment with an extract.",
+            "sourceIds": [
+              "ash-overview",
+              "ash-trial"
+            ]
+          }
+        ],
+        "reviewed": "2026-11-17"
       }
     },
     {
@@ -301,18 +581,81 @@
         "foodSummary": "Oily fish supplies EPA and DHA directly. Plant omega-3 foods mainly provide ALA, whose conversion to EPA and DHA is limited.",
         "foods": [
           {
-            "name": "Sardines, mackerel and salmon",
+            "name": "Atlantic farmed salmon, cooked",
             "relationship": "direct",
-            "detail": "Seafood sources of EPA and DHA; contents vary by species and food."
+            "detail": "Calculated sum of EPA 0.59 g and DHA 1.24 g in the same source serving.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": null,
+            "amounts": [
+              {
+                "nutrient": "EPA + DHA",
+                "min": 1.83,
+                "max": null,
+                "unit": "g",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "3 ounces"
+                },
+                "sourceIds": [
+                  "omega-overview"
+                ]
+              }
+            ]
           },
           {
-            "name": "Flaxseed, chia seeds and walnuts",
+            "name": "Sardines, canned in tomato sauce, drained",
+            "relationship": "direct",
+            "detail": "Calculated sum of EPA 0.45 g and DHA 0.74 g.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": null,
+            "amounts": [
+              {
+                "nutrient": "EPA + DHA",
+                "min": 1.19,
+                "max": null,
+                "unit": "g",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "3 ounces"
+                },
+                "sourceIds": [
+                  "omega-overview"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Chia seeds",
             "relationship": "different-form",
-            "detail": "Provide mainly ALA omega-3; they are not equivalent EPA+DHA amounts."
+            "detail": "ALA is a different fatty acid. Its mass must not be added to an EPA+DHA supplement total.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": null,
+            "amounts": [
+              {
+                "nutrient": "ALA (not EPA + DHA)",
+                "min": 5.06,
+                "max": null,
+                "unit": "g",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "1 ounce"
+                },
+                "sourceIds": [
+                  "omega-overview"
+                ]
+              }
+            ]
           }
         ],
         "foodSourceIds": [
-          "food-omega3"
+          "food-omega3",
+          "omega-overview"
         ],
         "value": {
           "routineScore": 2,
@@ -336,6 +679,46 @@
             "food-allergens"
           ]
         },
+        "reviewed": "2026-11-17"
+      },
+      "intakeGuide": {
+        "kind": "no-established-target",
+        "summary": "There is no established US adult RDA for EPA+DHA. The ALA reference is a different omega-3 and must not become a fish-oil target.",
+        "targets": [],
+        "limits": [],
+        "notes": [
+          "No automatic dose increase is assigned for training frequency or experience."
+        ],
+        "sourceIds": [
+          "omega-overview",
+          "omega-vital"
+        ],
+        "reviewed": "2026-11-17"
+      },
+      "medicalGuide": {
+        "summary": "Condition-specific evidence, separate from sports benefits and purchase priority.",
+        "conditions": [
+          {
+            "condition": "High triglycerides",
+            "level": "established",
+            "findings": "Prescription omega-3 medicines have a clinical role. Retail fish oil is not interchangeable; the exact prescription formulation and indication matter.",
+            "limits": "Prescription omega-3 medicines can treat high triglycerides under medical care. Retail fish oil is not an interchangeable prescription or a cure for heart disease.",
+            "sourceIds": [
+              "omega-overview",
+              "omega-vital"
+            ]
+          },
+          {
+            "condition": "General cardiovascular prevention",
+            "level": "mixed",
+            "findings": "Benefits vary by population and formulation; results from a specific prescription cannot be transferred to every fish-oil capsule.",
+            "limits": "Prescription omega-3 medicines can treat high triglycerides under medical care. Retail fish oil is not an interchangeable prescription or a cure for heart disease.",
+            "sourceIds": [
+              "omega-overview",
+              "omega-vital"
+            ]
+          }
+        ],
         "reviewed": "2026-11-17"
       }
     },
@@ -382,24 +765,76 @@
         "foodSummary": "Few foods naturally provide much vitamin D. Fortified foods can contribute; fortification varies by product and country.",
         "foods": [
           {
-            "name": "Fatty fish",
+            "name": "Sockeye salmon, cooked",
             "relationship": "direct",
-            "detail": "Salmon, trout and mackerel provide vitamin D."
+            "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": null,
+            "amounts": [
+              {
+                "nutrient": "Vitamin D",
+                "min": 14.2,
+                "max": null,
+                "unit": "µg",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "3 ounces"
+                },
+                "sourceIds": [
+                  "d-overview"
+                ]
+              }
+            ]
           },
           {
-            "name": "Egg yolks",
+            "name": "White mushrooms, raw, sliced, UV-exposed",
             "relationship": "direct",
-            "detail": "Contribute smaller naturally occurring amounts."
+            "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": null,
+            "amounts": [
+              {
+                "nutrient": "Vitamin D",
+                "min": 9.2,
+                "max": null,
+                "unit": "µg",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "½ cup"
+                },
+                "sourceIds": [
+                  "d-overview"
+                ]
+              }
+            ]
           },
           {
-            "name": "UV-exposed mushrooms",
-            "relationship": "different-form",
-            "detail": "Provide vitamin D2; the amount varies with treatment and product."
-          },
-          {
-            "name": "Vitamin-D-fortified milk or plant drinks",
+            "name": "Milk, 2%, vitamin D fortified",
             "relationship": "direct",
-            "detail": "Read the label; ordinary dairy or plant drinks are not automatically fortified."
+            "detail": "US reference fortified milk; do not assume an Indian milk product has this fortification. Check its label.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": null,
+            "amounts": [
+              {
+                "nutrient": "Vitamin D",
+                "min": 2.9,
+                "max": null,
+                "unit": "µg",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "1 cup"
+                },
+                "sourceIds": [
+                  "d-overview"
+                ]
+              }
+            ]
           }
         ],
         "foodSourceIds": [
@@ -426,6 +861,100 @@
             "d-vital"
           ]
         },
+        "reviewed": "2026-11-17"
+      },
+      "intakeGuide": {
+        "kind": "daily-target",
+        "summary": "Meet the age- and sex-specific total dietary reference. A reference intake is not the same as a supplemental dose or deficiency-treatment regimen.",
+        "targets": [
+          {
+            "key": "vitaminDMcg",
+            "label": "Vitamin D",
+            "min": 15,
+            "max": null,
+            "unit": "µg",
+            "basis": "total-daily",
+            "perKg": false,
+            "profileIds": [
+              "everyday",
+              "general-fitness",
+              "strength-power",
+              "hypertrophy",
+              "endurance",
+              "hybrid"
+            ],
+            "sex": "any",
+            "minAge": 19,
+            "maxAge": 70,
+            "referenceType": "RDA",
+            "notes": "600 IU/day from total intake.",
+            "sourceIds": [
+              "d-overview"
+            ]
+          },
+          {
+            "key": "vitaminDMcg",
+            "label": "Vitamin D",
+            "min": 20,
+            "max": null,
+            "unit": "µg",
+            "basis": "total-daily",
+            "perKg": false,
+            "profileIds": [
+              "everyday",
+              "general-fitness",
+              "strength-power",
+              "hypertrophy",
+              "endurance",
+              "hybrid"
+            ],
+            "sex": "any",
+            "minAge": 71,
+            "maxAge": null,
+            "referenceType": "RDA",
+            "notes": "800 IU/day from total intake.",
+            "sourceIds": [
+              "d-overview"
+            ]
+          }
+        ],
+        "limits": [
+          {
+            "key": "vitaminDMcg",
+            "label": "Vitamin D UL",
+            "max": 100,
+            "unit": "µg",
+            "basis": "total-daily",
+            "minAge": 19,
+            "maxAge": null,
+            "notes": "4,000 IU/day total intake. A ceiling, not a target; medical replacement regimens require supervision.",
+            "sourceIds": [
+              "d-overview"
+            ]
+          }
+        ],
+        "notes": [
+          "No automatic dose increase is assigned for training frequency or experience."
+        ],
+        "sourceIds": [
+          "d-overview"
+        ],
+        "reviewed": "2026-11-17"
+      },
+      "medicalGuide": {
+        "summary": "Condition-specific evidence, separate from sports benefits and purchase priority.",
+        "conditions": [
+          {
+            "condition": "Vitamin D deficiency / osteomalacia",
+            "level": "established",
+            "findings": "Correcting deficiency is indicated; treatment and monitoring depend on the diagnosis. Routine high-dose use is not justified by this indication.",
+            "limits": "Correcting vitamin D deficiency can treat deficiency-related rickets or osteomalacia. It is not a general cure for fatigue, cancer or infections.",
+            "sourceIds": [
+              "d-overview",
+              "d-vital"
+            ]
+          }
+        ],
         "reviewed": "2026-11-17"
       }
     },
@@ -469,24 +998,76 @@
         "foodSummary": "Magnesium is available across common plant foods; dietary variety can address many intake gaps.",
         "foods": [
           {
-            "name": "Pumpkin seeds, almonds and cashews",
+            "name": "Pumpkin seeds, roasted",
             "relationship": "direct",
-            "detail": "Nuts and seeds provide dietary magnesium."
+            "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": null,
+            "amounts": [
+              {
+                "nutrient": "Magnesium",
+                "min": 156,
+                "max": null,
+                "unit": "mg",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "1 ounce"
+                },
+                "sourceIds": [
+                  "mg-overview"
+                ]
+              }
+            ]
           },
           {
-            "name": "Beans, lentils and soybeans",
+            "name": "Almonds, dry roasted",
             "relationship": "direct",
-            "detail": "Legume sources that also supply protein and fibre."
+            "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": null,
+            "amounts": [
+              {
+                "nutrient": "Magnesium",
+                "min": 80,
+                "max": null,
+                "unit": "mg",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "1 ounce"
+                },
+                "sourceIds": [
+                  "mg-overview"
+                ]
+              }
+            ]
           },
           {
-            "name": "Green leafy vegetables",
+            "name": "Spinach, boiled",
             "relationship": "direct",
-            "detail": "Spinach and similar vegetables contribute magnesium."
-          },
-          {
-            "name": "Whole grains",
-            "relationship": "direct",
-            "detail": "Retaining bran and germ generally retains more magnesium than refining."
+            "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": null,
+            "amounts": [
+              {
+                "nutrient": "Magnesium",
+                "min": 78,
+                "max": null,
+                "unit": "mg",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "½ cup"
+                },
+                "sourceIds": [
+                  "mg-overview"
+                ]
+              }
+            ]
           }
         ],
         "foodSourceIds": [
@@ -511,6 +1092,158 @@
             "mg-overview"
           ]
         },
+        "reviewed": "2026-11-17"
+      },
+      "intakeGuide": {
+        "kind": "daily-target",
+        "summary": "Meet the age- and sex-specific total dietary reference. A reference intake is not the same as a supplemental dose or deficiency-treatment regimen.",
+        "targets": [
+          {
+            "key": "magnesiumMg",
+            "label": "Elemental magnesium",
+            "min": 400,
+            "max": null,
+            "unit": "mg",
+            "basis": "total-daily",
+            "perKg": false,
+            "profileIds": [
+              "everyday",
+              "general-fitness",
+              "strength-power",
+              "hypertrophy",
+              "endurance",
+              "hybrid"
+            ],
+            "sex": "male",
+            "minAge": 19,
+            "maxAge": 30,
+            "referenceType": "RDA",
+            "notes": "",
+            "sourceIds": [
+              "mg-overview"
+            ]
+          },
+          {
+            "key": "magnesiumMg",
+            "label": "Elemental magnesium",
+            "min": 420,
+            "max": null,
+            "unit": "mg",
+            "basis": "total-daily",
+            "perKg": false,
+            "profileIds": [
+              "everyday",
+              "general-fitness",
+              "strength-power",
+              "hypertrophy",
+              "endurance",
+              "hybrid"
+            ],
+            "sex": "male",
+            "minAge": 31,
+            "maxAge": null,
+            "referenceType": "RDA",
+            "notes": "",
+            "sourceIds": [
+              "mg-overview"
+            ]
+          },
+          {
+            "key": "magnesiumMg",
+            "label": "Elemental magnesium",
+            "min": 310,
+            "max": null,
+            "unit": "mg",
+            "basis": "total-daily",
+            "perKg": false,
+            "profileIds": [
+              "everyday",
+              "general-fitness",
+              "strength-power",
+              "hypertrophy",
+              "endurance",
+              "hybrid"
+            ],
+            "sex": "female",
+            "minAge": 19,
+            "maxAge": 30,
+            "referenceType": "RDA",
+            "notes": "",
+            "sourceIds": [
+              "mg-overview"
+            ]
+          },
+          {
+            "key": "magnesiumMg",
+            "label": "Elemental magnesium",
+            "min": 320,
+            "max": null,
+            "unit": "mg",
+            "basis": "total-daily",
+            "perKg": false,
+            "profileIds": [
+              "everyday",
+              "general-fitness",
+              "strength-power",
+              "hypertrophy",
+              "endurance",
+              "hybrid"
+            ],
+            "sex": "female",
+            "minAge": 31,
+            "maxAge": null,
+            "referenceType": "RDA",
+            "notes": "",
+            "sourceIds": [
+              "mg-overview"
+            ]
+          }
+        ],
+        "limits": [
+          {
+            "key": "magnesiumMg",
+            "label": "Supplemental magnesium UL",
+            "max": 350,
+            "unit": "mg",
+            "basis": "supplement-daily",
+            "minAge": 19,
+            "maxAge": null,
+            "notes": "Includes supplements and medicines; excludes magnesium naturally in food. Kidney disease needs clinical review.",
+            "sourceIds": [
+              "mg-overview"
+            ]
+          }
+        ],
+        "notes": [
+          "No automatic dose increase is assigned for training frequency or experience."
+        ],
+        "sourceIds": [
+          "mg-overview"
+        ],
+        "reviewed": "2026-11-17"
+      },
+      "medicalGuide": {
+        "summary": "Condition-specific evidence, separate from sports benefits and purchase priority.",
+        "conditions": [
+          {
+            "condition": "Magnesium deficiency",
+            "level": "established",
+            "findings": "Replacement corrects deficiency when indicated. Cause, kidney function and formulation influence care.",
+            "limits": "Replacement treats magnesium deficiency when indicated. Some magnesium medicines act as laxatives or antacids; this does not make every supplement a treatment for constipation, insomnia or cramps.",
+            "sourceIds": [
+              "mg-overview"
+            ]
+          },
+          {
+            "condition": "Insomnia, cramps and general fatigue",
+            "level": "insufficient",
+            "findings": "These symptoms are not proof of deficiency and do not establish that a retail magnesium product will treat their cause.",
+            "limits": "Replacement treats magnesium deficiency when indicated. Some magnesium medicines act as laxatives or antacids; this does not make every supplement a treatment for constipation, insomnia or cramps.",
+            "sourceIds": [
+              "mg-overview"
+            ]
+          }
+        ],
         "reviewed": "2026-11-17"
       }
     },
@@ -561,24 +1294,76 @@
         "foodSummary": "ZMC is three nutrients combined in a product. A varied diet supplies the minerals in different proportions; it need not reproduce a tablet's ratio.",
         "foods": [
           {
-            "name": "Milk, curd and calcium-set tofu",
+            "name": "Yogurt, plain, low fat",
             "relationship": "direct",
-            "detail": "Calcium sources; tofu calcium depends on the coagulant and label."
+            "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": null,
+            "amounts": [
+              {
+                "nutrient": "Calcium",
+                "min": 415,
+                "max": null,
+                "unit": "mg",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "8 ounces"
+                },
+                "sourceIds": [
+                  "ca-overview"
+                ]
+              }
+            ]
           },
           {
-            "name": "Seeds, nuts and legumes",
+            "name": "Pumpkin seeds, roasted",
             "relationship": "direct",
-            "detail": "Provide magnesium and zinc; phytate affects zinc absorption."
+            "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": null,
+            "amounts": [
+              {
+                "nutrient": "Zinc",
+                "min": 2.2,
+                "max": null,
+                "unit": "mg",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "1 ounce"
+                },
+                "sourceIds": [
+                  "zn-overview"
+                ]
+              }
+            ]
           },
           {
-            "name": "Fish eaten with edible bones",
+            "name": "Pumpkin seeds, roasted",
             "relationship": "direct",
-            "detail": "Canned sardines and salmon with bones are calcium sources."
-          },
-          {
-            "name": "Meat and seafood",
-            "relationship": "direct",
-            "detail": "Dietary zinc sources; mineral profiles differ across foods."
+            "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": null,
+            "amounts": [
+              {
+                "nutrient": "Magnesium",
+                "min": 156,
+                "max": null,
+                "unit": "mg",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "1 ounce"
+                },
+                "sourceIds": [
+                  "mg-overview"
+                ]
+              }
+            ]
           }
         ],
         "foodSourceIds": [
@@ -608,6 +1393,353 @@
           ]
         },
         "reviewed": "2026-11-17"
+      },
+      "intakeGuide": {
+        "kind": "daily-target",
+        "summary": "Use individual elemental mineral references; there is no combined ZMC requirement or exercise multiplier.",
+        "targets": [
+          {
+            "key": "magnesiumMg",
+            "label": "Elemental magnesium",
+            "min": 400,
+            "max": null,
+            "unit": "mg",
+            "basis": "total-daily",
+            "perKg": false,
+            "profileIds": [
+              "everyday",
+              "general-fitness",
+              "strength-power",
+              "hypertrophy",
+              "endurance",
+              "hybrid"
+            ],
+            "sex": "male",
+            "minAge": 19,
+            "maxAge": 30,
+            "referenceType": "RDA",
+            "notes": "",
+            "sourceIds": [
+              "mg-overview"
+            ]
+          },
+          {
+            "key": "magnesiumMg",
+            "label": "Elemental magnesium",
+            "min": 420,
+            "max": null,
+            "unit": "mg",
+            "basis": "total-daily",
+            "perKg": false,
+            "profileIds": [
+              "everyday",
+              "general-fitness",
+              "strength-power",
+              "hypertrophy",
+              "endurance",
+              "hybrid"
+            ],
+            "sex": "male",
+            "minAge": 31,
+            "maxAge": null,
+            "referenceType": "RDA",
+            "notes": "",
+            "sourceIds": [
+              "mg-overview"
+            ]
+          },
+          {
+            "key": "magnesiumMg",
+            "label": "Elemental magnesium",
+            "min": 310,
+            "max": null,
+            "unit": "mg",
+            "basis": "total-daily",
+            "perKg": false,
+            "profileIds": [
+              "everyday",
+              "general-fitness",
+              "strength-power",
+              "hypertrophy",
+              "endurance",
+              "hybrid"
+            ],
+            "sex": "female",
+            "minAge": 19,
+            "maxAge": 30,
+            "referenceType": "RDA",
+            "notes": "",
+            "sourceIds": [
+              "mg-overview"
+            ]
+          },
+          {
+            "key": "magnesiumMg",
+            "label": "Elemental magnesium",
+            "min": 320,
+            "max": null,
+            "unit": "mg",
+            "basis": "total-daily",
+            "perKg": false,
+            "profileIds": [
+              "everyday",
+              "general-fitness",
+              "strength-power",
+              "hypertrophy",
+              "endurance",
+              "hybrid"
+            ],
+            "sex": "female",
+            "minAge": 31,
+            "maxAge": null,
+            "referenceType": "RDA",
+            "notes": "",
+            "sourceIds": [
+              "mg-overview"
+            ]
+          },
+          {
+            "key": "zincMg",
+            "label": "Elemental zinc",
+            "min": 11,
+            "max": null,
+            "unit": "mg",
+            "basis": "total-daily",
+            "perKg": false,
+            "profileIds": [
+              "everyday",
+              "general-fitness",
+              "strength-power",
+              "hypertrophy",
+              "endurance",
+              "hybrid"
+            ],
+            "sex": "male",
+            "minAge": 19,
+            "maxAge": null,
+            "referenceType": "RDA",
+            "notes": "",
+            "sourceIds": [
+              "zn-overview"
+            ]
+          },
+          {
+            "key": "zincMg",
+            "label": "Elemental zinc",
+            "min": 8,
+            "max": null,
+            "unit": "mg",
+            "basis": "total-daily",
+            "perKg": false,
+            "profileIds": [
+              "everyday",
+              "general-fitness",
+              "strength-power",
+              "hypertrophy",
+              "endurance",
+              "hybrid"
+            ],
+            "sex": "female",
+            "minAge": 19,
+            "maxAge": null,
+            "referenceType": "RDA",
+            "notes": "",
+            "sourceIds": [
+              "zn-overview"
+            ]
+          },
+          {
+            "key": "calciumMg",
+            "label": "Elemental calcium",
+            "min": 1000,
+            "max": null,
+            "unit": "mg",
+            "basis": "total-daily",
+            "perKg": false,
+            "profileIds": [
+              "everyday",
+              "general-fitness",
+              "strength-power",
+              "hypertrophy",
+              "endurance",
+              "hybrid"
+            ],
+            "sex": "any",
+            "minAge": 19,
+            "maxAge": 50,
+            "referenceType": "RDA",
+            "notes": "",
+            "sourceIds": [
+              "ca-overview"
+            ]
+          },
+          {
+            "key": "calciumMg",
+            "label": "Elemental calcium",
+            "min": 1000,
+            "max": null,
+            "unit": "mg",
+            "basis": "total-daily",
+            "perKg": false,
+            "profileIds": [
+              "everyday",
+              "general-fitness",
+              "strength-power",
+              "hypertrophy",
+              "endurance",
+              "hybrid"
+            ],
+            "sex": "male",
+            "minAge": 51,
+            "maxAge": 70,
+            "referenceType": "RDA",
+            "notes": "",
+            "sourceIds": [
+              "ca-overview"
+            ]
+          },
+          {
+            "key": "calciumMg",
+            "label": "Elemental calcium",
+            "min": 1200,
+            "max": null,
+            "unit": "mg",
+            "basis": "total-daily",
+            "perKg": false,
+            "profileIds": [
+              "everyday",
+              "general-fitness",
+              "strength-power",
+              "hypertrophy",
+              "endurance",
+              "hybrid"
+            ],
+            "sex": "female",
+            "minAge": 51,
+            "maxAge": 70,
+            "referenceType": "RDA",
+            "notes": "",
+            "sourceIds": [
+              "ca-overview"
+            ]
+          },
+          {
+            "key": "calciumMg",
+            "label": "Elemental calcium",
+            "min": 1200,
+            "max": null,
+            "unit": "mg",
+            "basis": "total-daily",
+            "perKg": false,
+            "profileIds": [
+              "everyday",
+              "general-fitness",
+              "strength-power",
+              "hypertrophy",
+              "endurance",
+              "hybrid"
+            ],
+            "sex": "any",
+            "minAge": 71,
+            "maxAge": null,
+            "referenceType": "RDA",
+            "notes": "",
+            "sourceIds": [
+              "ca-overview"
+            ]
+          }
+        ],
+        "limits": [
+          {
+            "key": "magnesiumMg",
+            "label": "Supplemental magnesium UL",
+            "max": 350,
+            "unit": "mg",
+            "basis": "supplement-daily",
+            "minAge": 19,
+            "maxAge": null,
+            "notes": "Includes supplements and medicines; excludes magnesium naturally in food. Kidney disease needs clinical review.",
+            "sourceIds": [
+              "mg-overview"
+            ]
+          },
+          {
+            "key": "zincMg",
+            "label": "Zinc UL",
+            "max": 40,
+            "unit": "mg",
+            "basis": "total-daily",
+            "minAge": 19,
+            "maxAge": null,
+            "notes": "",
+            "sourceIds": [
+              "zn-overview"
+            ]
+          },
+          {
+            "key": "calciumMg",
+            "label": "Calcium UL",
+            "max": 2500,
+            "unit": "mg",
+            "basis": "total-daily",
+            "minAge": 19,
+            "maxAge": 50,
+            "notes": "",
+            "sourceIds": [
+              "ca-overview"
+            ]
+          },
+          {
+            "key": "calciumMg",
+            "label": "Calcium UL",
+            "max": 2000,
+            "unit": "mg",
+            "basis": "total-daily",
+            "minAge": 51,
+            "maxAge": null,
+            "notes": "",
+            "sourceIds": [
+              "ca-overview"
+            ]
+          }
+        ],
+        "notes": [
+          "No automatic dose increase is assigned for training frequency or experience."
+        ],
+        "sourceIds": [
+          "mg-overview",
+          "zn-overview",
+          "ca-overview"
+        ],
+        "reviewed": "2026-11-17"
+      },
+      "medicalGuide": {
+        "summary": "Condition-specific evidence, separate from sports benefits and purchase priority.",
+        "conditions": [
+          {
+            "condition": "Individual mineral deficiencies",
+            "level": "established",
+            "findings": "Replace the deficient mineral when indicated; this does not validate every combined ZMC formula.",
+            "limits": "An appropriate individual mineral can correct its deficiency. This is not evidence that a ZMC combination cures osteoporosis, low testosterone or a general immunity problem.",
+            "sourceIds": [
+              "ca-overview",
+              "mg-overview",
+              "zn-overview"
+            ]
+          },
+          {
+            "condition": "Osteoporosis",
+            "level": "conditional",
+            "findings": "Adequate calcium and vitamin D can support a broader care plan; ZMC does not replace fracture-risk assessment or prescribed treatment.",
+            "limits": "An appropriate individual mineral can correct its deficiency. This is not evidence that a ZMC combination cures osteoporosis, low testosterone or a general immunity problem.",
+            "sourceIds": [
+              "ca-overview",
+              "mg-overview",
+              "zn-overview"
+            ]
+          }
+        ],
+        "reviewed": "2026-11-17"
       }
     },
     {
@@ -625,7 +1757,8 @@
         "gsh-oxidative",
         "gsh-skin",
         "gsh-skin-2026",
-        "food-gsh-protein-healthcanada"
+        "food-gsh-protein-healthcanada",
+        "food-usda-sr28"
       ],
       "reviewed": "2026-11-17",
       "author": "Supplement Research editorial synthesis",
@@ -661,24 +1794,58 @@
         "foodSummary": "The body makes glutathione from amino acids. Protein foods supply building blocks; they are not equivalent doses of oral glutathione and do not prove a skin-lightening or detox effect.",
         "foods": [
           {
-            "name": "Lentils, beans and soy foods",
+            "name": "Lentils, mature seeds, cooked, boiled, without salt",
             "relationship": "precursor",
-            "detail": "Protein supplies amino-acid building blocks within a varied diet; this is nutritional support, not a measured glutathione dose."
+            "detail": "Protein provides amino acids used in synthesis. This quantity is not a measured glutathione content or a glutathione dose.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": "USDA NDB 16070",
+            "amounts": [
+              {
+                "nutrient": "Protein (building blocks, not glutathione)",
+                "min": 9.02,
+                "max": null,
+                "unit": "g",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "100 g edible food"
+                },
+                "sourceIds": [
+                  "food-usda-sr28"
+                ]
+              }
+            ]
           },
           {
-            "name": "Eggs, fish and poultry",
+            "name": "Egg, whole, cooked, hard-boiled",
             "relationship": "precursor",
-            "detail": "Protein foods contribute building blocks for normal metabolism. No particular portion is equated with a supplement serving."
-          },
-          {
-            "name": "Milk and plain curd or yogurt",
-            "relationship": "precursor",
-            "detail": "Dietary protein supports adequate overall nutrition; it is not a clinically equivalent substitute for a studied glutathione formulation."
+            "detail": "Protein provides amino acids used in synthesis. This quantity is not a measured glutathione content or a glutathione dose.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": "USDA NDB 01129",
+            "amounts": [
+              {
+                "nutrient": "Protein (building blocks, not glutathione)",
+                "min": 12.58,
+                "max": null,
+                "unit": "g",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "100 g edible food"
+                },
+                "sourceIds": [
+                  "food-usda-sr28"
+                ]
+              }
+            ]
           }
         ],
         "foodSourceIds": [
           "gsh-metabolism",
-          "food-gsh-protein-healthcanada"
+          "food-gsh-protein-healthcanada",
+          "food-usda-sr28"
         ],
         "value": {
           "routineScore": 1,
@@ -702,6 +1869,55 @@
             "gsh-skin-2026"
           ]
         },
+        "reviewed": "2026-11-17"
+      },
+      "intakeGuide": {
+        "kind": "no-established-target",
+        "summary": "No established dietary requirement or routine oral supplementation target. Trial amounts are not a universal safe daily intake.",
+        "targets": [],
+        "limits": [],
+        "notes": [
+          "No automatic dose increase is assigned for training frequency or experience."
+        ],
+        "sourceIds": [
+          "gsh-metabolism",
+          "gsh-stores",
+          "gsh-oxidative",
+          "gsh-skin",
+          "gsh-skin-2026"
+        ],
+        "reviewed": "2026-11-17"
+      },
+      "medicalGuide": {
+        "summary": "Condition-specific evidence, separate from sports benefits and purchase priority.",
+        "conditions": [
+          {
+            "condition": "Liver disease, cancer and detox claims",
+            "level": "insufficient",
+            "findings": "Selected oral studies do not establish disease treatment or a general detox indication.",
+            "limits": "The selected oral trials do not establish a cure for liver disease, cancer or a pigmentation disorder, or a general detox treatment. A new or changing skin patch needs assessment rather than assuming a supplement will correct it.",
+            "sourceIds": [
+              "gsh-metabolism",
+              "gsh-stores",
+              "gsh-oxidative",
+              "gsh-skin",
+              "gsh-skin-2026"
+            ]
+          },
+          {
+            "condition": "Pigmentation concerns",
+            "level": "mixed",
+            "findings": "Small trials with particular oral products have limitations; a changing skin lesion requires assessment, not a presumed supplement remedy.",
+            "limits": "The selected oral trials do not establish a cure for liver disease, cancer or a pigmentation disorder, or a general detox treatment. A new or changing skin patch needs assessment rather than assuming a supplement will correct it.",
+            "sourceIds": [
+              "gsh-metabolism",
+              "gsh-stores",
+              "gsh-oxidative",
+              "gsh-skin",
+              "gsh-skin-2026"
+            ]
+          }
+        ],
         "reviewed": "2026-11-17"
       }
     },
@@ -757,9 +1973,50 @@
         "foodSummary": "Tart cherries can contain trace melatonin, with amounts differing by cultivar. Ordinary food is not a predictable, clinically timed melatonin dose, and cherries are not an established cure for insomnia.",
         "foods": [
           {
-            "name": "Tart cherries",
+            "name": "Montmorency tart cherries, 2001 study samples",
             "relationship": "direct",
-            "detail": "Melatonin has been measured in particular cherry cultivars. Food composition research does not establish reliable pill-equivalent amounts or prove treatment of chronic insomnia."
+            "detail": "Reported study mean for a named cultivar. Results vary across harvests and assays; do not generalize to every cherry or juice.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Study-specific composition; not a universal food value or supplement-dose equivalent.",
+            "amounts": [
+              {
+                "nutrient": "Melatonin",
+                "min": 13.46,
+                "max": null,
+                "unit": "ng",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "1 g cherry tissue"
+                },
+                "sourceIds": [
+                  "food-melatonin-cherries-burkhardt"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Balaton tart cherries, 2001 study samples",
+            "relationship": "direct",
+            "detail": "Reported study mean for a named cultivar, not a universal supermarket cherry value. Nanograms are one millionth of a milligram; this is not a tablet-equivalent dose.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Study-specific composition; not a universal food value or supplement-dose equivalent.",
+            "amounts": [
+              {
+                "nutrient": "Melatonin",
+                "min": 2.06,
+                "max": null,
+                "unit": "ng",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "1 g cherry tissue"
+                },
+                "sourceIds": [
+                  "food-melatonin-cherries-burkhardt"
+                ]
+              }
+            ]
           }
         ],
         "foodSourceIds": [
@@ -787,6 +2044,52 @@
             "melatonin-children"
           ]
         },
+        "reviewed": "2026-11-17"
+      },
+      "intakeGuide": {
+        "kind": "no-established-target",
+        "summary": "No nutritional requirement. Indication, timing and formulation matter; a sleep problem needs assessment before a personal regimen.",
+        "targets": [],
+        "limits": [],
+        "notes": [
+          "No automatic dose increase is assigned for training frequency or experience."
+        ],
+        "sourceIds": [
+          "melatonin-overview",
+          "melatonin-circadian",
+          "melatonin-insomnia",
+          "melatonin-children"
+        ],
+        "reviewed": "2026-11-17"
+      },
+      "medicalGuide": {
+        "summary": "Condition-specific evidence, separate from sports benefits and purchase priority.",
+        "conditions": [
+          {
+            "condition": "Selected circadian rhythm disorders",
+            "level": "conditional",
+            "findings": "Timed use may be part of professionally planned care; diagnosis, timing and formulation are central.",
+            "limits": "Melatonin can form part of professionally planned care for selected circadian disorders. It is not a cure for chronic insomnia, stress or sleep apnoea. Persistent poor sleep or excessive daytime sleepiness warrants assessment of its cause.",
+            "sourceIds": [
+              "melatonin-overview",
+              "melatonin-circadian",
+              "melatonin-insomnia",
+              "melatonin-children"
+            ]
+          },
+          {
+            "condition": "Chronic insomnia / sleep apnoea",
+            "level": "insufficient",
+            "findings": "Melatonin is not an established remedy for sleep apnoea; chronic insomnia requires assessment and evidence-based care.",
+            "limits": "Melatonin can form part of professionally planned care for selected circadian disorders. It is not a cure for chronic insomnia, stress or sleep apnoea. Persistent poor sleep or excessive daytime sleepiness warrants assessment of its cause.",
+            "sourceIds": [
+              "melatonin-overview",
+              "melatonin-circadian",
+              "melatonin-insomnia",
+              "melatonin-children"
+            ]
+          }
+        ],
         "reviewed": "2026-11-17"
       }
     },
@@ -835,19 +2138,76 @@
         "foodSummary": "Many ordinary foods provide biotin. Food supply is different from taking a high-strength beauty product; evidence for extra hair benefit without deficiency is limited.",
         "foods": [
           {
-            "name": "Cooked whole eggs",
+            "name": "Egg, whole, cooked",
             "relationship": "direct",
-            "detail": "Provide dietary biotin. Cooking also inactivates avidin, the raw egg-white protein that can hinder biotin absorption."
+            "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": null,
+            "amounts": [
+              {
+                "nutrient": "Biotin",
+                "min": 10,
+                "max": null,
+                "unit": "µg",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "1 egg (source serving)"
+                },
+                "sourceIds": [
+                  "biotin-overview"
+                ]
+              }
+            ]
           },
           {
-            "name": "Fish, including salmon",
+            "name": "Sweet potato, cooked",
             "relationship": "direct",
-            "detail": "A dietary biotin source; content varies between foods and preparations."
+            "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": null,
+            "amounts": [
+              {
+                "nutrient": "Biotin",
+                "min": 2.4,
+                "max": null,
+                "unit": "µg",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "½ cup"
+                },
+                "sourceIds": [
+                  "biotin-overview"
+                ]
+              }
+            ]
           },
           {
-            "name": "Sunflower seeds, almonds and cooked sweet potato",
+            "name": "Sunflower seeds, roasted",
             "relationship": "direct",
-            "detail": "Plant-food examples in the NIH food table; these are food choices, not isolated-dose equivalents."
+            "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": null,
+            "amounts": [
+              {
+                "nutrient": "Biotin",
+                "min": 2.6,
+                "max": null,
+                "unit": "µg",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "¼ cup"
+                },
+                "sourceIds": [
+                  "biotin-overview"
+                ]
+              }
+            ]
           }
         ],
         "foodSourceIds": [
@@ -874,6 +2234,73 @@
           ]
         },
         "reviewed": "2026-11-17"
+      },
+      "intakeGuide": {
+        "kind": "daily-target",
+        "summary": "Meet the age- and sex-specific total dietary reference. A reference intake is not the same as a supplemental dose or deficiency-treatment regimen.",
+        "targets": [
+          {
+            "key": "biotinMcg",
+            "label": "Biotin",
+            "min": 30,
+            "max": null,
+            "unit": "µg",
+            "basis": "total-daily",
+            "perKg": false,
+            "profileIds": [
+              "everyday",
+              "general-fitness",
+              "strength-power",
+              "hypertrophy",
+              "endurance",
+              "hybrid"
+            ],
+            "sex": "any",
+            "minAge": 19,
+            "maxAge": null,
+            "referenceType": "AI",
+            "notes": "No established UL does not establish safety of high-dose hair products; biotin can interfere with laboratory tests.",
+            "sourceIds": [
+              "biotin-overview"
+            ]
+          }
+        ],
+        "limits": [],
+        "notes": [
+          "No automatic dose increase is assigned for training frequency or experience."
+        ],
+        "sourceIds": [
+          "biotin-overview"
+        ],
+        "reviewed": "2026-11-17"
+      },
+      "medicalGuide": {
+        "summary": "Condition-specific evidence, separate from sports benefits and purchase priority.",
+        "conditions": [
+          {
+            "condition": "Biotin deficiency / biotinidase deficiency",
+            "level": "established",
+            "findings": "Condition-specific replacement can be indicated; inherited disorders require specialist treatment.",
+            "limits": "Confirmed deficiency and rare inherited biotinidase disorders require an appropriate clinical plan. A retail hair product is not a diagnosis or a general treatment for hair loss.",
+            "sourceIds": [
+              "biotin-overview",
+              "biotin-lab",
+              "biotin-metabolic"
+            ]
+          },
+          {
+            "condition": "Hair loss without deficiency",
+            "level": "insufficient",
+            "findings": "Hair loss alone does not establish biotin deficiency or a benefit from high-dose hair products.",
+            "limits": "Confirmed deficiency and rare inherited biotinidase disorders require an appropriate clinical plan. A retail hair product is not a diagnosis or a general treatment for hair loss.",
+            "sourceIds": [
+              "biotin-overview",
+              "biotin-lab",
+              "biotin-metabolic"
+            ]
+          }
+        ],
+        "reviewed": "2026-11-17"
       }
     },
     {
@@ -889,7 +2316,8 @@
         "c-overview",
         "c-food",
         "c-cold-review",
-        "food-india-nin-fruits"
+        "food-india-nin-fruits",
+        "food-usda-sr28"
       ],
       "reviewed": "2026-11-17",
       "author": "Supplement Research editorial synthesis",
@@ -921,30 +2349,83 @@
         "foodSummary": "Fruit and vegetables can meet everyday vitamin C needs. Storage and cooking affect content; a food list is not a prediction of an exact absorbed dose.",
         "foods": [
           {
-            "name": "Guava and amla",
+            "name": "Guavas, common, raw",
             "relationship": "direct",
-            "detail": "Common Indian fruits that provide vitamin C. Their food value does not imply that an amla extract or a fixed serving supplies a particular supplement dose."
+            "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": "USDA NDB 09139",
+            "amounts": [
+              {
+                "nutrient": "Vitamin C",
+                "min": 228.3,
+                "max": null,
+                "unit": "mg",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "100 g edible food"
+                },
+                "sourceIds": [
+                  "food-usda-sr28"
+                ]
+              }
+            ]
           },
           {
-            "name": "Oranges and other citrus fruit",
+            "name": "Orange",
             "relationship": "direct",
-            "detail": "Provide vitamin C as part of a varied diet."
+            "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": null,
+            "amounts": [
+              {
+                "nutrient": "Vitamin C",
+                "min": 70,
+                "max": null,
+                "unit": "mg",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "1 medium orange"
+                },
+                "sourceIds": [
+                  "c-overview"
+                ]
+              }
+            ]
           },
           {
-            "name": "Red or green peppers, tomatoes and broccoli",
+            "name": "Sweet red pepper, raw",
             "relationship": "direct",
-            "detail": "Vegetable sources of vitamin C; heat and prolonged storage can reduce the amount."
-          },
-          {
-            "name": "Kiwifruit and strawberries",
-            "relationship": "direct",
-            "detail": "Additional fruit options listed by NIH; no special fruit or supplement format is required for everyone."
+            "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": null,
+            "amounts": [
+              {
+                "nutrient": "Vitamin C",
+                "min": 95,
+                "max": null,
+                "unit": "mg",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "½ cup"
+                },
+                "sourceIds": [
+                  "c-overview"
+                ]
+              }
+            ]
           }
         ],
         "foodSourceIds": [
           "c-overview",
           "c-food",
-          "food-india-nin-fruits"
+          "food-india-nin-fruits",
+          "food-usda-sr28"
         ],
         "value": {
           "routineScore": 2,
@@ -967,6 +2448,112 @@
           ]
         },
         "reviewed": "2026-11-17"
+      },
+      "intakeGuide": {
+        "kind": "daily-target",
+        "summary": "Meet the age- and sex-specific total dietary reference. A reference intake is not the same as a supplemental dose or deficiency-treatment regimen.",
+        "targets": [
+          {
+            "key": "vitaminCMg",
+            "label": "Vitamin C",
+            "min": 90,
+            "max": null,
+            "unit": "mg",
+            "basis": "total-daily",
+            "perKg": false,
+            "profileIds": [
+              "everyday",
+              "general-fitness",
+              "strength-power",
+              "hypertrophy",
+              "endurance",
+              "hybrid"
+            ],
+            "sex": "male",
+            "minAge": 19,
+            "maxAge": null,
+            "referenceType": "RDA",
+            "notes": "People who smoke need an additional 35 mg/day; smoking status is not assessed here.",
+            "sourceIds": [
+              "c-overview"
+            ]
+          },
+          {
+            "key": "vitaminCMg",
+            "label": "Vitamin C",
+            "min": 75,
+            "max": null,
+            "unit": "mg",
+            "basis": "total-daily",
+            "perKg": false,
+            "profileIds": [
+              "everyday",
+              "general-fitness",
+              "strength-power",
+              "hypertrophy",
+              "endurance",
+              "hybrid"
+            ],
+            "sex": "female",
+            "minAge": 19,
+            "maxAge": null,
+            "referenceType": "RDA",
+            "notes": "People who smoke need an additional 35 mg/day; smoking status is not assessed here.",
+            "sourceIds": [
+              "c-overview"
+            ]
+          }
+        ],
+        "limits": [
+          {
+            "key": "vitaminCMg",
+            "label": "Vitamin C UL",
+            "max": 2000,
+            "unit": "mg",
+            "basis": "total-daily",
+            "minAge": 19,
+            "maxAge": null,
+            "notes": "",
+            "sourceIds": [
+              "c-overview"
+            ]
+          }
+        ],
+        "notes": [
+          "No automatic dose increase is assigned for training frequency or experience."
+        ],
+        "sourceIds": [
+          "c-overview"
+        ],
+        "reviewed": "2026-11-17"
+      },
+      "medicalGuide": {
+        "summary": "Condition-specific evidence, separate from sports benefits and purchase priority.",
+        "conditions": [
+          {
+            "condition": "Scurvy / vitamin C deficiency",
+            "level": "established",
+            "findings": "Vitamin C replacement treats deficiency; dietary cause and clinical severity require attention.",
+            "limits": "Scurvy is severe vitamin C deficiency and needs treatment and attention to its dietary cause. Correcting deficiency does not make vitamin C a cure for every infection or a replacement for assessment of persistent symptoms.",
+            "sourceIds": [
+              "c-overview",
+              "c-food",
+              "c-cold-review"
+            ]
+          },
+          {
+            "condition": "Common cold",
+            "level": "mixed",
+            "findings": "Evidence does not justify a broad infection-cure claim or replacement of medical assessment.",
+            "limits": "Scurvy is severe vitamin C deficiency and needs treatment and attention to its dietary cause. Correcting deficiency does not make vitamin C a cure for every infection or a replacement for assessment of persistent symptoms.",
+            "sourceIds": [
+              "c-overview",
+              "c-food",
+              "c-cold-review"
+            ]
+          }
+        ],
+        "reviewed": "2026-11-17"
       }
     },
     {
@@ -983,7 +2570,13 @@
         "b12-overview",
         "b6-overview",
         "b3-overview",
-        "food-gsh-protein-healthcanada"
+        "food-gsh-protein-healthcanada",
+        "food-usda-sr28",
+        "folate-overview",
+        "b1-overview",
+        "b2-overview",
+        "b5-overview",
+        "biotin-overview"
       ],
       "reviewed": "2026-11-17",
       "author": "Supplement Research editorial synthesis",
@@ -1019,30 +2612,60 @@
         "foodSummary": "The eight B vitamins have different food sources and requirements. A varied diet supplies many of them, but unfortified plant foods are not a reliable B12 strategy.",
         "foods": [
           {
-            "name": "Wholegrains, peas, nuts and seeds",
+            "name": "Egg, whole, hard-boiled",
             "relationship": "direct",
-            "detail": "Supply several B vitamins, with the mix differing by food. They do not provide a reliable natural B12 source."
+            "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": "USDA NDB 01129",
+            "amounts": [
+              {
+                "nutrient": "B12",
+                "min": 1.11,
+                "max": null,
+                "unit": "µg",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "100 g edible food"
+                },
+                "sourceIds": [
+                  "food-usda-sr28"
+                ]
+              }
+            ]
           },
           {
-            "name": "Milk, curd and eggs",
-            "relationship": "direct",
-            "detail": "Examples supplying B2 and B12; whether the overall intake is sufficient depends on the diet."
-          },
-          {
-            "name": "Fish, meat and poultry",
-            "relationship": "direct",
-            "detail": "Supply B12 and other B vitamins in differing amounts."
-          },
-          {
-            "name": "Foods explicitly fortified with B12",
-            "relationship": "direct",
-            "detail": "Check the label on plant beverages, cereals or nutritional yeast: fortification varies and cannot be assumed."
+            "name": "Spinach, boiled",
+            "relationship": "different-form",
+            "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": null,
+            "amounts": [
+              {
+                "nutrient": "Natural food folate",
+                "min": 131,
+                "max": null,
+                "unit": "µg DFE",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "½ cup"
+                },
+                "sourceIds": [
+                  "folate-overview"
+                ]
+              }
+            ]
           }
         ],
         "foodSourceIds": [
           "b-family",
           "b12-overview",
-          "food-gsh-protein-healthcanada"
+          "food-gsh-protein-healthcanada",
+          "food-usda-sr28",
+          "folate-overview"
         ],
         "value": {
           "routineScore": 2,
@@ -1065,6 +2688,385 @@
             "b3-overview"
           ]
         },
+        "reviewed": "2026-11-17"
+      },
+      "intakeGuide": {
+        "kind": "daily-target",
+        "summary": "Each B vitamin has a separate reference; there is no valid combined B-complex dose. Niacin uses equivalents; folate uses DFE.",
+        "targets": [
+          {
+            "key": "vitaminB1Mg",
+            "label": "B1 (thiamin)",
+            "min": 1.2,
+            "max": null,
+            "unit": "mg",
+            "basis": "total-daily",
+            "perKg": false,
+            "profileIds": [
+              "everyday",
+              "general-fitness",
+              "strength-power",
+              "hypertrophy",
+              "endurance",
+              "hybrid"
+            ],
+            "sex": "male",
+            "minAge": 19,
+            "maxAge": null,
+            "referenceType": "RDA",
+            "notes": "",
+            "sourceIds": [
+              "b1-overview"
+            ]
+          },
+          {
+            "key": "vitaminB1Mg",
+            "label": "B1 (thiamin)",
+            "min": 1.1,
+            "max": null,
+            "unit": "mg",
+            "basis": "total-daily",
+            "perKg": false,
+            "profileIds": [
+              "everyday",
+              "general-fitness",
+              "strength-power",
+              "hypertrophy",
+              "endurance",
+              "hybrid"
+            ],
+            "sex": "female",
+            "minAge": 19,
+            "maxAge": null,
+            "referenceType": "RDA",
+            "notes": "",
+            "sourceIds": [
+              "b1-overview"
+            ]
+          },
+          {
+            "key": "vitaminB2Mg",
+            "label": "B2 (riboflavin)",
+            "min": 1.3,
+            "max": null,
+            "unit": "mg",
+            "basis": "total-daily",
+            "perKg": false,
+            "profileIds": [
+              "everyday",
+              "general-fitness",
+              "strength-power",
+              "hypertrophy",
+              "endurance",
+              "hybrid"
+            ],
+            "sex": "male",
+            "minAge": 19,
+            "maxAge": null,
+            "referenceType": "RDA",
+            "notes": "",
+            "sourceIds": [
+              "b2-overview"
+            ]
+          },
+          {
+            "key": "vitaminB2Mg",
+            "label": "B2 (riboflavin)",
+            "min": 1.1,
+            "max": null,
+            "unit": "mg",
+            "basis": "total-daily",
+            "perKg": false,
+            "profileIds": [
+              "everyday",
+              "general-fitness",
+              "strength-power",
+              "hypertrophy",
+              "endurance",
+              "hybrid"
+            ],
+            "sex": "female",
+            "minAge": 19,
+            "maxAge": null,
+            "referenceType": "RDA",
+            "notes": "",
+            "sourceIds": [
+              "b2-overview"
+            ]
+          },
+          {
+            "key": "vitaminB3Mg",
+            "label": "B3 (niacin equivalents)",
+            "min": 16,
+            "max": null,
+            "unit": "mg NE",
+            "basis": "total-daily",
+            "perKg": false,
+            "profileIds": [
+              "everyday",
+              "general-fitness",
+              "strength-power",
+              "hypertrophy",
+              "endurance",
+              "hybrid"
+            ],
+            "sex": "male",
+            "minAge": 19,
+            "maxAge": null,
+            "referenceType": "RDA",
+            "notes": "",
+            "sourceIds": [
+              "b3-overview"
+            ]
+          },
+          {
+            "key": "vitaminB3Mg",
+            "label": "B3 (niacin equivalents)",
+            "min": 14,
+            "max": null,
+            "unit": "mg NE",
+            "basis": "total-daily",
+            "perKg": false,
+            "profileIds": [
+              "everyday",
+              "general-fitness",
+              "strength-power",
+              "hypertrophy",
+              "endurance",
+              "hybrid"
+            ],
+            "sex": "female",
+            "minAge": 19,
+            "maxAge": null,
+            "referenceType": "RDA",
+            "notes": "",
+            "sourceIds": [
+              "b3-overview"
+            ]
+          },
+          {
+            "key": "vitaminB5Mg",
+            "label": "B5 (pantothenic acid)",
+            "min": 5,
+            "max": null,
+            "unit": "mg",
+            "basis": "total-daily",
+            "perKg": false,
+            "profileIds": [
+              "everyday",
+              "general-fitness",
+              "strength-power",
+              "hypertrophy",
+              "endurance",
+              "hybrid"
+            ],
+            "sex": "any",
+            "minAge": 19,
+            "maxAge": null,
+            "referenceType": "AI",
+            "notes": "",
+            "sourceIds": [
+              "b5-overview"
+            ]
+          },
+          {
+            "key": "vitaminB12Mcg",
+            "label": "B12",
+            "min": 2.4,
+            "max": null,
+            "unit": "µg",
+            "basis": "total-daily",
+            "perKg": false,
+            "profileIds": [
+              "everyday",
+              "general-fitness",
+              "strength-power",
+              "hypertrophy",
+              "endurance",
+              "hybrid"
+            ],
+            "sex": "any",
+            "minAge": 19,
+            "maxAge": null,
+            "referenceType": "RDA",
+            "notes": "",
+            "sourceIds": [
+              "b12-overview"
+            ]
+          },
+          {
+            "key": "vitaminB6Mg",
+            "label": "B6",
+            "min": 1.3,
+            "max": null,
+            "unit": "mg",
+            "basis": "total-daily",
+            "perKg": false,
+            "profileIds": [
+              "everyday",
+              "general-fitness",
+              "strength-power",
+              "hypertrophy",
+              "endurance",
+              "hybrid"
+            ],
+            "sex": "any",
+            "minAge": 19,
+            "maxAge": 50,
+            "referenceType": "RDA",
+            "notes": "",
+            "sourceIds": [
+              "b6-overview"
+            ]
+          },
+          {
+            "key": "vitaminB6Mg",
+            "label": "B6",
+            "min": 1.7,
+            "max": null,
+            "unit": "mg",
+            "basis": "total-daily",
+            "perKg": false,
+            "profileIds": [
+              "everyday",
+              "general-fitness",
+              "strength-power",
+              "hypertrophy",
+              "endurance",
+              "hybrid"
+            ],
+            "sex": "male",
+            "minAge": 51,
+            "maxAge": null,
+            "referenceType": "RDA",
+            "notes": "",
+            "sourceIds": [
+              "b6-overview"
+            ]
+          },
+          {
+            "key": "vitaminB6Mg",
+            "label": "B6",
+            "min": 1.5,
+            "max": null,
+            "unit": "mg",
+            "basis": "total-daily",
+            "perKg": false,
+            "profileIds": [
+              "everyday",
+              "general-fitness",
+              "strength-power",
+              "hypertrophy",
+              "endurance",
+              "hybrid"
+            ],
+            "sex": "female",
+            "minAge": 51,
+            "maxAge": null,
+            "referenceType": "RDA",
+            "notes": "",
+            "sourceIds": [
+              "b6-overview"
+            ]
+          },
+          {
+            "key": "biotinMcg",
+            "label": "Biotin",
+            "min": 30,
+            "max": null,
+            "unit": "µg",
+            "basis": "total-daily",
+            "perKg": false,
+            "profileIds": [
+              "everyday",
+              "general-fitness",
+              "strength-power",
+              "hypertrophy",
+              "endurance",
+              "hybrid"
+            ],
+            "sex": "any",
+            "minAge": 19,
+            "maxAge": null,
+            "referenceType": "AI",
+            "notes": "No established UL does not establish safety of high-dose hair products; biotin can interfere with laboratory tests.",
+            "sourceIds": [
+              "biotin-overview"
+            ]
+          },
+          {
+            "key": "folateMcgDfe",
+            "label": "Folate",
+            "min": 400,
+            "max": null,
+            "unit": "µg DFE",
+            "basis": "total-daily",
+            "perKg": false,
+            "profileIds": [
+              "everyday",
+              "general-fitness",
+              "strength-power",
+              "hypertrophy",
+              "endurance",
+              "hybrid"
+            ],
+            "sex": "any",
+            "minAge": 19,
+            "maxAge": null,
+            "referenceType": "RDA",
+            "notes": "Dietary folate equivalents, not 400 µg of every synthetic folate form. Preconception folic-acid advice is a separate prevention indication; seek individual advice.",
+            "sourceIds": [
+              "folate-overview"
+            ]
+          }
+        ],
+        "limits": [
+          {
+            "key": "folicAcidMcg",
+            "label": "Synthetic folic acid UL",
+            "max": 1000,
+            "unit": "µg",
+            "basis": "synthetic-folic-acid",
+            "minAge": 19,
+            "maxAge": null,
+            "notes": "From supplements and fortified foods, not natural food folate. DFE and methylfolate mass are not automatically added as folic acid.",
+            "sourceIds": [
+              "folate-overview"
+            ]
+          }
+        ],
+        "notes": [
+          "No automatic dose increase is assigned for training frequency or experience.",
+          "High B6 intake can cause nerve injury. Upper limits differ by jurisdiction; do not interpret a missing numeric limit here as unlimited safety. B3 forms also differ; no aggregate B-complex upper limit is calculated."
+        ],
+        "sourceIds": [
+          "b1-overview",
+          "b2-overview",
+          "b3-overview",
+          "b5-overview",
+          "b12-overview",
+          "b6-overview",
+          "biotin-overview",
+          "folate-overview"
+        ],
+        "reviewed": "2026-11-17"
+      },
+      "medicalGuide": {
+        "summary": "Condition-specific evidence, separate from sports benefits and purchase priority.",
+        "conditions": [
+          {
+            "condition": "Specific B-vitamin deficiency, including B12 deficiency",
+            "level": "established",
+            "findings": "Use the vitamin appropriate to the diagnosis and cause. Neurological symptoms or malabsorption may require a different regimen from a retail B-complex.",
+            "limits": "B12 deficiency, other B-vitamin deficiencies and anaemia need cause-specific care. Numbness, persistent fatigue or suspected malabsorption should not be managed solely by choosing an energy supplement.",
+            "sourceIds": [
+              "b-family",
+              "b12-overview",
+              "b6-overview",
+              "b3-overview"
+            ]
+          }
+        ],
         "reviewed": "2026-11-17"
       }
     },
@@ -1114,19 +3116,76 @@
         "foodSummary": "Leafy vegetables and pulses supply natural food folate. Folic acid is a different form used in supplements and fortified foods; do not equate food folate or methylfolate with the established folic-acid prevention evidence.",
         "foods": [
           {
-            "name": "Spinach and other dark leafy vegetables",
+            "name": "Spinach, boiled",
             "relationship": "different-form",
-            "detail": "Provide native food folates, rather than a labelled dose of added folic acid."
+            "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": null,
+            "amounts": [
+              {
+                "nutrient": "Natural food folate",
+                "min": 131,
+                "max": null,
+                "unit": "µg DFE",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "½ cup"
+                },
+                "sourceIds": [
+                  "folate-overview"
+                ]
+              }
+            ]
           },
           {
-            "name": "Beans, peas and lentils",
+            "name": "Black-eyed peas, boiled",
             "relationship": "different-form",
-            "detail": "Useful food-folate sources in a varied diet; they are not a substitute for a recommended preconception folic-acid plan."
+            "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": null,
+            "amounts": [
+              {
+                "nutrient": "Natural food folate",
+                "min": 105,
+                "max": null,
+                "unit": "µg DFE",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "½ cup"
+                },
+                "sourceIds": [
+                  "folate-overview"
+                ]
+              }
+            ]
           },
           {
-            "name": "Foods labelled as fortified with folic acid",
-            "relationship": "direct",
-            "detail": "Some cereals or grain foods contain added folic acid. Check the actual Indian product label: fortification and amounts are not universal."
+            "name": "Asparagus, boiled",
+            "relationship": "different-form",
+            "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": null,
+            "amounts": [
+              {
+                "nutrient": "Natural food folate",
+                "min": 89,
+                "max": null,
+                "unit": "µg DFE",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "4 spears"
+                },
+                "sourceIds": [
+                  "folate-overview"
+                ]
+              }
+            ]
           }
         ],
         "foodSourceIds": [
@@ -1155,6 +3214,87 @@
           ]
         },
         "reviewed": "2026-11-17"
+      },
+      "intakeGuide": {
+        "kind": "daily-target",
+        "summary": "Meet the age- and sex-specific total dietary reference. A reference intake is not the same as a supplemental dose or deficiency-treatment regimen.",
+        "targets": [
+          {
+            "key": "folateMcgDfe",
+            "label": "Folate",
+            "min": 400,
+            "max": null,
+            "unit": "µg DFE",
+            "basis": "total-daily",
+            "perKg": false,
+            "profileIds": [
+              "everyday",
+              "general-fitness",
+              "strength-power",
+              "hypertrophy",
+              "endurance",
+              "hybrid"
+            ],
+            "sex": "any",
+            "minAge": 19,
+            "maxAge": null,
+            "referenceType": "RDA",
+            "notes": "Dietary folate equivalents, not 400 µg of every synthetic folate form. Preconception folic-acid advice is a separate prevention indication; seek individual advice.",
+            "sourceIds": [
+              "folate-overview"
+            ]
+          }
+        ],
+        "limits": [
+          {
+            "key": "folicAcidMcg",
+            "label": "Synthetic folic acid UL",
+            "max": 1000,
+            "unit": "µg",
+            "basis": "synthetic-folic-acid",
+            "minAge": 19,
+            "maxAge": null,
+            "notes": "From supplements and fortified foods, not natural food folate. DFE and methylfolate mass are not automatically added as folic acid.",
+            "sourceIds": [
+              "folate-overview"
+            ]
+          }
+        ],
+        "notes": [
+          "No automatic dose increase is assigned for training frequency or experience."
+        ],
+        "sourceIds": [
+          "folate-overview"
+        ],
+        "reviewed": "2026-11-17"
+      },
+      "medicalGuide": {
+        "summary": "Condition-specific evidence, separate from sports benefits and purchase priority.",
+        "conditions": [
+          {
+            "condition": "Folate-deficiency anaemia",
+            "level": "established",
+            "findings": "Assess B12 status and the cause; folate can correct anaemia while B12-related neurological injury remains.",
+            "limits": "Folate-deficiency anaemia needs an assessment of its cause and of possible B12 deficiency. Preventing neural tube defects is different from treating an established defect or curing infertility.",
+            "sourceIds": [
+              "folate-overview",
+              "folate-prevention",
+              "b-family"
+            ]
+          },
+          {
+            "condition": "Neural tube defect prevention",
+            "level": "established",
+            "findings": "Periconception folic acid has a prevention role. This is not treatment of an established defect or a claim to cure infertility.",
+            "limits": "Folate-deficiency anaemia needs an assessment of its cause and of possible B12 deficiency. Preventing neural tube defects is different from treating an established defect or curing infertility.",
+            "sourceIds": [
+              "folate-overview",
+              "folate-prevention",
+              "b-family"
+            ]
+          }
+        ],
+        "reviewed": "2026-11-17"
       }
     },
     {
@@ -1173,7 +3313,8 @@
         "arginine-reply",
         "arginine-mi",
         "food-performance-protein",
-        "food-performance-amino-acids"
+        "food-performance-amino-acids",
+        "food-usda-sr28"
       ],
       "reviewed": "2026-11-17",
       "author": "Supplement Research editorial synthesis",
@@ -1208,25 +3349,83 @@
         "foodSummary": "Arginine is supplied within ordinary dietary protein and is also made by the body. Protein-rich food is a source, not a dose-matched substitute for an isolated workout product.",
         "foods": [
           {
-            "name": "Nuts and peanuts",
+            "name": "Lentils, mature seeds, cooked, boiled, without salt",
             "relationship": "direct",
-            "detail": "Their protein supplies arginine; a separate nitric-oxide claim does not establish a need for extra arginine."
+            "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": "USDA NDB 16070",
+            "amounts": [
+              {
+                "nutrient": "Arginine",
+                "min": 0.697,
+                "max": null,
+                "unit": "g",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "100 g edible food"
+                },
+                "sourceIds": [
+                  "food-usda-sr28"
+                ]
+              }
+            ]
           },
           {
-            "name": "Chicken, fish or meat",
+            "name": "Egg, whole, cooked, hard-boiled",
             "relationship": "direct",
-            "detail": "Arginine is present within dietary protein and released during digestion."
+            "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": "USDA NDB 01129",
+            "amounts": [
+              {
+                "nutrient": "Arginine",
+                "min": 0.755,
+                "max": null,
+                "unit": "g",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "100 g edible food"
+                },
+                "sourceIds": [
+                  "food-usda-sr28"
+                ]
+              }
+            ]
           },
           {
-            "name": "Dal, beans and soy foods",
+            "name": "Chicken, broilers or fryers, breast, meat only, cooked, roasted",
             "relationship": "direct",
-            "detail": "Contribute dietary protein and amino acids as part of a varied eating pattern."
+            "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": "USDA NDB 05064",
+            "amounts": [
+              {
+                "nutrient": "Arginine",
+                "min": 1.871,
+                "max": null,
+                "unit": "g",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "100 g edible food"
+                },
+                "sourceIds": [
+                  "food-usda-sr28"
+                ]
+              }
+            ]
           }
         ],
         "foodSourceIds": [
           "exercise",
           "food-performance-protein",
-          "food-performance-amino-acids"
+          "food-performance-amino-acids",
+          "food-usda-sr28"
         ],
         "value": {
           "routineScore": 1,
@@ -1251,6 +3450,42 @@
             "arginine-mi"
           ]
         },
+        "reviewed": "2026-11-17"
+      },
+      "intakeGuide": {
+        "kind": "no-established-target",
+        "summary": "No established isolated supplement requirement for healthy adults. Food protein and clinical indications are separate contexts.",
+        "targets": [],
+        "limits": [],
+        "notes": [
+          "No automatic dose increase is assigned for training frequency or experience."
+        ],
+        "sourceIds": [
+          "exercise",
+          "arginine-meta",
+          "arginine-methods",
+          "arginine-reply",
+          "arginine-mi"
+        ],
+        "reviewed": "2026-11-17"
+      },
+      "medicalGuide": {
+        "summary": "Condition-specific evidence, separate from sports benefits and purchase priority.",
+        "conditions": [
+          {
+            "condition": "Cardiovascular disease / erectile dysfunction",
+            "level": "insufficient",
+            "findings": "The selected exercise evidence does not establish treatment. It must not replace clinical care; avoid unsupervised use after myocardial infarction.",
+            "limits": "A sports supplement is not a substitute for treatment of cardiovascular disease, erectile dysfunction or persistent fatigue. Condition-specific clinical nutrition and treatment require a separate assessment.",
+            "sourceIds": [
+              "exercise",
+              "arginine-meta",
+              "arginine-methods",
+              "arginine-reply",
+              "arginine-mi"
+            ]
+          }
+        ],
         "reviewed": "2026-11-17"
       }
     },
@@ -1305,24 +3540,76 @@
         "foodSummary": "Meat, fish, poultry and dairy provide carnitine. Healthy people generally synthesize sufficient carnitine too; a vegetarian diet alone does not establish a deficiency.",
         "foods": [
           {
-            "name": "Milk and dairy foods",
+            "name": "Chicken breast, cooked",
             "relationship": "direct",
-            "detail": "Supply dietary carnitine, with amounts differing by food."
+            "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": null,
+            "amounts": [
+              {
+                "nutrient": "Carnitine",
+                "min": 2,
+                "max": 4,
+                "unit": "mg",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "3 ounces"
+                },
+                "sourceIds": [
+                  "carnitine-overview"
+                ]
+              }
+            ]
           },
           {
-            "name": "Fish",
+            "name": "Whole milk",
             "relationship": "direct",
-            "detail": "A food source of carnitine as well as protein."
+            "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": null,
+            "amounts": [
+              {
+                "nutrient": "Carnitine",
+                "min": 8,
+                "max": null,
+                "unit": "mg",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "1 cup"
+                },
+                "sourceIds": [
+                  "carnitine-overview"
+                ]
+              }
+            ]
           },
           {
-            "name": "Chicken and other poultry",
+            "name": "Codfish, cooked",
             "relationship": "direct",
-            "detail": "Provide some carnitine within an ordinary diet."
-          },
-          {
-            "name": "Red meat, where eaten",
-            "relationship": "direct",
-            "detail": "A comparatively rich food source; this is a composition example, not a recommendation to increase intake."
+            "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": null,
+            "amounts": [
+              {
+                "nutrient": "Carnitine",
+                "min": 3,
+                "max": 5,
+                "unit": "mg",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "3 ounces"
+                },
+                "sourceIds": [
+                  "carnitine-overview"
+                ]
+              }
+            ]
           }
         ],
         "foodSourceIds": [
@@ -1351,6 +3638,49 @@
           ]
         },
         "reviewed": "2026-11-17"
+      },
+      "intakeGuide": {
+        "kind": "no-established-target",
+        "summary": "Healthy adults ordinarily synthesize enough carnitine. There is no established dietary reference intake; prescription deficiency treatment is a separate use.",
+        "targets": [],
+        "limits": [],
+        "notes": [
+          "No automatic dose increase is assigned for training frequency or experience."
+        ],
+        "sourceIds": [
+          "carnitine-overview",
+          "carnitine-weight",
+          "carnitine-physiology"
+        ],
+        "reviewed": "2026-11-17"
+      },
+      "medicalGuide": {
+        "summary": "Condition-specific evidence, separate from sports benefits and purchase priority.",
+        "conditions": [
+          {
+            "condition": "Primary and selected secondary carnitine deficiency",
+            "level": "established",
+            "findings": "Condition-specific clinical replacement is distinct from taking a marketed fat burner or substituting another carnitine form.",
+            "limits": "Clinicians use carnitine for certain established deficiency states. That is distinct from treating obesity, fatigue or a heart condition with a marketed fat-burner product.",
+            "sourceIds": [
+              "carnitine-overview",
+              "carnitine-weight",
+              "carnitine-physiology"
+            ]
+          },
+          {
+            "condition": "Obesity or persistent fatigue",
+            "level": "insufficient",
+            "findings": "Fitness products are not established treatment for obesity or an unexplained cause of fatigue.",
+            "limits": "Clinicians use carnitine for certain established deficiency states. That is distinct from treating obesity, fatigue or a heart condition with a marketed fat-burner product.",
+            "sourceIds": [
+              "carnitine-overview",
+              "carnitine-weight",
+              "carnitine-physiology"
+            ]
+          }
+        ],
+        "reviewed": "2026-11-17"
       }
     },
     {
@@ -1368,7 +3698,8 @@
         "bcaa-review",
         "eaa-position",
         "food-performance-protein",
-        "food-performance-amino-acids"
+        "food-performance-amino-acids",
+        "food-usda-sr28"
       ],
       "reviewed": "2026-11-17",
       "author": "Supplement Research editorial synthesis",
@@ -1403,31 +3734,84 @@
         "foodSummary": "Leucine, isoleucine and valine occur within food proteins. Complete proteins and a varied plant-protein diet supply them together with the other essential amino acids.",
         "foods": [
           {
-            "name": "Milk, curd and paneer",
+            "name": "Lentils, mature seeds, cooked, boiled, without salt",
             "relationship": "direct",
-            "detail": "Protein foods that supply BCAA together with other amino acids."
+            "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": "USDA NDB 16070",
+            "amounts": [
+              {
+                "nutrient": "BCAA (leucine + isoleucine + valine)",
+                "min": 1.492,
+                "max": null,
+                "unit": "g",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "100 g edible food"
+                },
+                "sourceIds": [
+                  "food-usda-sr28"
+                ]
+              }
+            ]
           },
           {
-            "name": "Eggs, fish or chicken",
+            "name": "Egg, whole, cooked, hard-boiled",
             "relationship": "direct",
-            "detail": "Complete dietary protein supplies BCAA as part of the full amino-acid profile."
+            "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": "USDA NDB 01129",
+            "amounts": [
+              {
+                "nutrient": "BCAA (leucine + isoleucine + valine)",
+                "min": 2.528,
+                "max": null,
+                "unit": "g",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "100 g edible food"
+                },
+                "sourceIds": [
+                  "food-usda-sr28"
+                ]
+              }
+            ]
           },
           {
-            "name": "Tofu and other soy foods",
+            "name": "Chicken, broilers or fryers, breast, meat only, cooked, roasted",
             "relationship": "direct",
-            "detail": "Soy protein supplies all nine essential amino acids, including the three BCAA."
-          },
-          {
-            "name": "Dal, beans, nuts and grains",
-            "relationship": "direct",
-            "detail": "A varied daily diet contributes amino acids; assess total protein quality and quantity rather than one isolated ingredient."
+            "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": "USDA NDB 05064",
+            "amounts": [
+              {
+                "nutrient": "BCAA (leucine + isoleucine + valine)",
+                "min": 5.505,
+                "max": null,
+                "unit": "g",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "100 g edible food"
+                },
+                "sourceIds": [
+                  "food-usda-sr28"
+                ]
+              }
+            ]
           }
         ],
         "foodSourceIds": [
           "food-performance-protein",
           "food-performance-amino-acids",
           "bcaa-review",
-          "eaa-position"
+          "eaa-position",
+          "food-usda-sr28"
         ],
         "value": {
           "routineScore": 1,
@@ -1452,6 +3836,40 @@
           ]
         },
         "reviewed": "2026-11-17"
+      },
+      "intakeGuide": {
+        "kind": "no-established-target",
+        "summary": "No separate routine BCAA supplement target. Total complete protein supplies these three essential amino acids.",
+        "targets": [],
+        "limits": [],
+        "notes": [
+          "No automatic dose increase is assigned for training frequency or experience."
+        ],
+        "sourceIds": [
+          "exercise",
+          "bcaa-trial",
+          "bcaa-review",
+          "eaa-position"
+        ],
+        "reviewed": "2026-11-17"
+      },
+      "medicalGuide": {
+        "summary": "Condition-specific evidence, separate from sports benefits and purchase priority.",
+        "conditions": [
+          {
+            "condition": "Muscle wasting or liver disease",
+            "level": "insufficient",
+            "findings": "Gym BCAA products are not established treatment. Specialist clinical nutrition is a separate context from the retail stack reviewed here.",
+            "limits": "Retail BCAA are not a cure for muscle loss, fatigue or liver disease. Clinical nutrition protocols for particular illnesses use different evidence and monitoring.",
+            "sourceIds": [
+              "exercise",
+              "bcaa-trial",
+              "bcaa-review",
+              "eaa-position"
+            ]
+          }
+        ],
+        "reviewed": "2026-11-17"
       }
     },
     {
@@ -1470,7 +3888,8 @@
         "digestion",
         "eaa-deficit-trial",
         "food-performance-protein",
-        "food-performance-amino-acids"
+        "food-performance-amino-acids",
+        "food-usda-sr28"
       ],
       "reviewed": "2026-11-17",
       "author": "Supplement Research editorial synthesis",
@@ -1507,30 +3926,83 @@
         "foodSummary": "All nine EAA are available from dietary protein. Animal proteins and soy provide a complete profile; varied plant-protein foods can meet needs over the day without being paired at every meal.",
         "foods": [
           {
-            "name": "Milk, curd, paneer and eggs",
+            "name": "Lentils, mature seeds, cooked, boiled, without salt",
             "relationship": "direct",
-            "detail": "Supply complete protein, including all nine essential amino acids."
+            "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": "USDA NDB 16070",
+            "amounts": [
+              {
+                "nutrient": "Nine essential amino acids (calculated sum)",
+                "min": 3.302,
+                "max": null,
+                "unit": "g",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "100 g edible food"
+                },
+                "sourceIds": [
+                  "food-usda-sr28"
+                ]
+              }
+            ]
           },
           {
-            "name": "Soybeans, tofu and other soy foods",
+            "name": "Egg, whole, cooked, hard-boiled",
             "relationship": "direct",
-            "detail": "Plant sources of a complete amino-acid profile."
+            "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": "USDA NDB 01129",
+            "amounts": [
+              {
+                "nutrient": "Nine essential amino acids (calculated sum)",
+                "min": 5.547,
+                "max": null,
+                "unit": "g",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "100 g edible food"
+                },
+                "sourceIds": [
+                  "food-usda-sr28"
+                ]
+              }
+            ]
           },
           {
-            "name": "Fish, chicken or other meat",
+            "name": "Chicken, broilers or fryers, breast, meat only, cooked, roasted",
             "relationship": "direct",
-            "detail": "Complete dietary protein supplies the essential amino acids."
-          },
-          {
-            "name": "Dal or beans with a varied grain-based diet",
-            "relationship": "direct",
-            "detail": "Food variety over the day helps provide the full profile; the individual meal need not imitate a supplement formula."
+            "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": "USDA NDB 05064",
+            "amounts": [
+              {
+                "nutrient": "Nine essential amino acids (calculated sum)",
+                "min": 12.865,
+                "max": null,
+                "unit": "g",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "100 g edible food"
+                },
+                "sourceIds": [
+                  "food-usda-sr28"
+                ]
+              }
+            ]
           }
         ],
         "foodSourceIds": [
           "food-performance-protein",
           "food-performance-amino-acids",
-          "eaa-position"
+          "eaa-position",
+          "food-usda-sr28"
         ],
         "value": {
           "routineScore": 2,
@@ -1556,6 +4028,40 @@
           ]
         },
         "reviewed": "2026-11-17"
+      },
+      "intakeGuide": {
+        "kind": "no-established-target",
+        "summary": "No universal EAA powder dose. First assess total protein and the completeness of the dietary pattern.",
+        "targets": [],
+        "limits": [],
+        "notes": [
+          "No automatic dose increase is assigned for training frequency or experience."
+        ],
+        "sourceIds": [
+          "eaa-position",
+          "bcaa-review",
+          "protein-review",
+          "eaa-deficit-trial"
+        ],
+        "reviewed": "2026-11-17"
+      },
+      "medicalGuide": {
+        "summary": "Condition-specific evidence, separate from sports benefits and purchase priority.",
+        "conditions": [
+          {
+            "condition": "Inadequate protein / clinical nutrition support",
+            "level": "conditional",
+            "findings": "An assessed nutritional gap may require complete nutritional support; EAA alone does not treat the disease causing poor intake or muscle loss.",
+            "limits": "An appropriate nutrition plan can address inadequate protein or amino-acid supply. An EAA tub alone is not a treatment for unexplained muscle loss or a disease causing poor nutrition.",
+            "sourceIds": [
+              "eaa-position",
+              "bcaa-review",
+              "protein-review",
+              "eaa-deficit-trial"
+            ]
+          }
+        ],
+        "reviewed": "2026-11-17"
       }
     },
     {
@@ -1573,7 +4079,8 @@
         "preworkout-dryscoop",
         "exercise",
         "creatine-position",
-        "food-performance-watermelon"
+        "food-performance-watermelon",
+        "caffeine-fda"
       ],
       "reviewed": "2026-11-17",
       "author": "Supplement Research editorial synthesis",
@@ -1610,26 +4117,36 @@
         "foodSummary": "There is no single whole-food equivalent of a pre-workout blend. Foods and beverages can provide individual components, but their amounts and effects do not reproduce an arbitrary supplement formula.",
         "foods": [
           {
-            "name": "Coffee or tea",
+            "name": "Black brewed coffee, US reference range",
             "relationship": "different-form",
-            "detail": "Contain caffeine with variable amounts; this is not a standardized multi-ingredient pre-workout."
-          },
-          {
-            "name": "Watermelon",
-            "relationship": "different-form",
-            "detail": "Provides food-derived citrulline, not a dose-matched citrulline-malate formula."
-          },
-          {
-            "name": "Fish or meat",
-            "relationship": "different-form",
-            "detail": "Can provide dietary creatine; eating them does not reproduce the amounts or ingredients in a blend."
+            "detail": "Caffeine varies with beans and preparation. Coffee is one source of caffeine, not a complete pre-workout formula or a universal cup value.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": null,
+            "amounts": [
+              {
+                "nutrient": "Caffeine",
+                "min": 113,
+                "max": 247,
+                "unit": "mg",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "12 US fluid ounces"
+                },
+                "sourceIds": [
+                  "caffeine-fda"
+                ]
+              }
+            ]
           }
         ],
         "foodSourceIds": [
           "caffeine-position",
           "exercise",
           "creatine-position",
-          "food-performance-watermelon"
+          "food-performance-watermelon",
+          "caffeine-fda"
         ],
         "value": {
           "routineScore": 2,
@@ -1654,6 +4171,51 @@
             "preworkout-dryscoop"
           ]
         },
+        "reviewed": "2026-11-17"
+      },
+      "intakeGuide": {
+        "kind": "no-established-target",
+        "summary": "There is no target number of scoops for a product class. Assess each declared ingredient and all caffeine sources.",
+        "targets": [],
+        "limits": [
+          {
+            "key": "caffeineMg",
+            "label": "FDA adult caffeine benchmark",
+            "max": 400,
+            "unit": "mg",
+            "basis": "total-daily",
+            "minAge": 19,
+            "maxAge": null,
+            "notes": "All sources combined, including coffee and energy drinks. This is not a formal UL, a performance target or a guarantee of tolerability. Some adults need much less.",
+            "sourceIds": [
+              "caffeine-fda"
+            ]
+          }
+        ],
+        "notes": [
+          "No automatic dose increase is assigned for training frequency or experience."
+        ],
+        "sourceIds": [
+          "caffeine-fda"
+        ],
+        "reviewed": "2026-11-17"
+      },
+      "medicalGuide": {
+        "summary": "Condition-specific evidence, separate from sports benefits and purchase priority.",
+        "conditions": [
+          {
+            "condition": "Persistent fatigue",
+            "level": "insufficient",
+            "findings": "A stimulant blend does not treat the cause of persistent fatigue. Increasing stimulants can mask a need for assessment.",
+            "limits": "Pre-workout is not a treatment for persistent fatigue, low motivation or a medical cause of poor performance. Assess sleep, food, training load and ongoing symptoms rather than repeatedly increasing stimulants.",
+            "sourceIds": [
+              "preworkout-review",
+              "caffeine-position",
+              "preworkout-dryscoop",
+              "exercise"
+            ]
+          }
+        ],
         "reviewed": "2026-11-17"
       }
     },
@@ -1706,14 +4268,28 @@
         "foodSummary": "Watermelon supplies citrulline. Its content varies, and a normal fruit portion or juice serving is not assumed to match an isolated L-citrulline or citrulline-malate amount.",
         "foods": [
           {
-            "name": "Watermelon flesh",
+            "name": "Watermelon juice used in a controlled feeding study",
             "relationship": "direct",
-            "detail": "A natural citrulline-containing food; content varies by variety and growing conditions."
-          },
-          {
-            "name": "Watermelon juice",
-            "relationship": "direct",
-            "detail": "Used as a food source of citrulline in research; a biomarker result does not prove the same performance effect as a supplement."
+            "detail": "Study-specific juice composition, not a universal value for watermelon flesh, rind or a commercial juice. This portion is not an intake recommendation.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": null,
+            "amounts": [
+              {
+                "nutrient": "Citrulline",
+                "min": 1,
+                "max": null,
+                "unit": "g",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "780 g study juice"
+                },
+                "sourceIds": [
+                  "food-performance-watermelon"
+                ]
+              }
+            ]
           }
         ],
         "foodSourceIds": [
@@ -1743,6 +4319,40 @@
           ]
         },
         "reviewed": "2026-11-17"
+      },
+      "intakeGuide": {
+        "kind": "no-established-target",
+        "summary": "No established dietary requirement or universal performance dose. Free L-citrulline and citrulline malate amounts cannot be treated as equivalent.",
+        "targets": [],
+        "limits": [],
+        "notes": [
+          "No automatic dose increase is assigned for training frequency or experience."
+        ],
+        "sourceIds": [
+          "exercise",
+          "citrulline-meta",
+          "citrulline-forms-trial",
+          "citrulline-critical"
+        ],
+        "reviewed": "2026-11-17"
+      },
+      "medicalGuide": {
+        "summary": "Condition-specific evidence, separate from sports benefits and purchase priority.",
+        "conditions": [
+          {
+            "condition": "Cardiovascular disease / erectile dysfunction",
+            "level": "insufficient",
+            "findings": "Exercise and blood-flow findings do not establish a treatment indication for these conditions.",
+            "limits": "These sports studies do not establish citrulline as a treatment for cardiovascular disease, erectile dysfunction or persistent fatigue. Medical use requires condition-specific evidence and supervision.",
+            "sourceIds": [
+              "exercise",
+              "citrulline-meta",
+              "citrulline-forms-trial",
+              "citrulline-critical"
+            ]
+          }
+        ],
+        "reviewed": "2026-11-17"
       }
     },
     {
@@ -1759,7 +4369,8 @@
         "beta-alanine-position",
         "beta-alanine-meta",
         "beta-alanine-safety",
-        "food-performance-bioactives"
+        "food-performance-bioactives",
+        "food-chicken-bioactives"
       ],
       "reviewed": "2026-11-17",
       "author": "Supplement Research editorial synthesis",
@@ -1794,24 +4405,33 @@
         "foodSummary": "Meat and fish contain beta-alanine-containing dipeptides such as carnosine or anserine. These are a different dietary form, not an equivalent amount of free beta-alanine isolate.",
         "foods": [
           {
-            "name": "Chicken and other poultry",
+            "name": "Chicken breast, raw, study samples on storage day 1",
             "relationship": "different-form",
-            "detail": "Contain carnosine or anserine, which include beta-alanine; food intake is not treated as an isolate-equivalent serving."
-          },
-          {
-            "name": "Meat, where eaten",
-            "relationship": "different-form",
-            "detail": "Provides carnosine within food, rather than a standardized amount of supplemental free beta-alanine."
-          },
-          {
-            "name": "Fish",
-            "relationship": "different-form",
-            "detail": "Can supply beta-alanine-containing dipeptides; composition differs by species and preparation."
+            "detail": "Range of day-1 group means from conventional and welfare farm samples, not the range of every chicken product. Raw weight describes the assay, not a recommendation to eat raw meat. Carnosine mass is not free beta-alanine mass.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Study-specific composition; not a universal food value or supplement-dose equivalent.",
+            "amounts": [
+              {
+                "nutrient": "Carnosine (bound beta-alanine)",
+                "min": 63.16,
+                "max": 68.52,
+                "unit": "mg",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "100 g raw meat"
+                },
+                "sourceIds": [
+                  "food-chicken-bioactives"
+                ]
+              }
+            ]
           }
         ],
         "foodSourceIds": [
           "food-performance-bioactives",
-          "beta-alanine-position"
+          "beta-alanine-position",
+          "food-chicken-bioactives"
         ],
         "value": {
           "routineScore": 2,
@@ -1835,6 +4455,59 @@
             "exercise"
           ]
         },
+        "reviewed": "2026-11-17"
+      },
+      "intakeGuide": {
+        "kind": "optional-performance",
+        "summary": "No nutritional RDA. A studied daily protocol is relevant to selected repeated high-intensity demands, not all athletes.",
+        "targets": [
+          {
+            "key": "betaAlanineMg",
+            "label": "Beta-alanine",
+            "min": 4,
+            "max": 6,
+            "unit": "g",
+            "basis": "supplement-daily",
+            "perKg": false,
+            "profileIds": [
+              "hybrid",
+              "endurance"
+            ],
+            "sex": "any",
+            "minAge": 19,
+            "maxAge": null,
+            "referenceType": "studied-protocol",
+            "notes": "Optional chronic protocol in divided doses for at least 2–4 weeks, especially relevant to hard efforts around 1–4 minutes. Not a per-workout dose or a universal endurance need; tingling is not evidence of benefit.",
+            "sourceIds": [
+              "beta-alanine-position"
+            ]
+          }
+        ],
+        "limits": [],
+        "notes": [
+          "No automatic dose increase is assigned for training frequency or experience."
+        ],
+        "sourceIds": [
+          "beta-alanine-position"
+        ],
+        "reviewed": "2026-11-17"
+      },
+      "medicalGuide": {
+        "summary": "Condition-specific evidence, separate from sports benefits and purchase priority.",
+        "conditions": [
+          {
+            "condition": "Chronic fatigue, weakness or cramps",
+            "level": "insufficient",
+            "findings": "A buffering effect during selected exercise tasks does not establish treatment for a medical cause of these symptoms.",
+            "limits": "Beta-alanine is not an established treatment for a disease causing weakness, chronic fatigue or cramps. Physiological buffering and a workout effect are different from treatment of a medical problem.",
+            "sourceIds": [
+              "exercise",
+              "beta-alanine-position",
+              "beta-alanine-meta",
+              "beta-alanine-safety"
+            ]
+          }
+        ],
         "reviewed": "2026-11-17"
       }
     },
@@ -1887,14 +4560,28 @@
         "foodSummary": "Fish, shellfish and meat are dietary taurine sources, and the body can synthesize taurine. A low-taurine plant-based diet alone does not demonstrate a need for a sports supplement.",
         "foods": [
           {
-            "name": "Fish and shellfish",
+            "name": "Beef loin, laboratory dry-matter sample",
             "relationship": "direct",
-            "detail": "Provide dietary taurine; the amount differs by species and preparation."
-          },
-          {
-            "name": "Poultry and other meat",
-            "relationship": "direct",
-            "detail": "Contain taurine in food, independently of energy-drink caffeine or a proprietary blend."
+            "detail": "Published table uses dry matter. Do not use this value to calculate a fresh-meat serving or an equivalent powder dose.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": null,
+            "amounts": [
+              {
+                "nutrient": "Taurine",
+                "min": 2.92,
+                "max": null,
+                "unit": "mg",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "1 g dry matter (not 1 g fresh or cooked meat)"
+                },
+                "sourceIds": [
+                  "food-performance-bioactives"
+                ]
+              }
+            ]
           }
         ],
         "foodSourceIds": [
@@ -1923,6 +4610,40 @@
           ]
         },
         "reviewed": "2026-11-17"
+      },
+      "intakeGuide": {
+        "kind": "no-established-target",
+        "summary": "No established adult dietary reference intake or routine supplement target. A sports trial is not a personal requirement.",
+        "targets": [],
+        "limits": [],
+        "notes": [
+          "No automatic dose increase is assigned for training frequency or experience."
+        ],
+        "sourceIds": [
+          "taurine-exercise",
+          "taurine-meta",
+          "caffeine-position",
+          "preworkout-review"
+        ],
+        "reviewed": "2026-11-17"
+      },
+      "medicalGuide": {
+        "summary": "Condition-specific evidence, separate from sports benefits and purchase priority.",
+        "conditions": [
+          {
+            "condition": "Metabolic disorders, fatigue and ageing claims",
+            "level": "insufficient",
+            "findings": "The selected sports evidence does not establish a disease-treatment indication or an anti-ageing therapy.",
+            "limits": "Taurine products are not established cures for fatigue, ageing or a metabolic disorder. A sports trial does not validate disease treatment or show that an energy drink corrects a deficiency.",
+            "sourceIds": [
+              "taurine-exercise",
+              "taurine-meta",
+              "caffeine-position",
+              "preworkout-review"
+            ]
+          }
+        ],
+        "reviewed": "2026-11-17"
       }
     },
     {
@@ -1940,7 +4661,8 @@
         "betaine-endurance",
         "betaine-hcl-trial",
         "betaine-medical",
-        "food-performance-betaine"
+        "food-performance-betaine",
+        "food-usda-sr28"
       ],
       "reviewed": "2026-11-17",
       "author": "Supplement Research editorial synthesis",
@@ -1977,29 +4699,58 @@
         "foodSummary": "Spinach, wheat products and beets provide naturally occurring betaine/TMG. Food betaine is not a betaine-hydrochloride digestive product or a prescription treatment.",
         "foods": [
           {
-            "name": "Spinach",
+            "name": "Beets, raw",
             "relationship": "direct",
-            "detail": "Contains food-derived betaine/TMG."
+            "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": "USDA NDB 11080",
+            "amounts": [
+              {
+                "nutrient": "Betaine",
+                "min": 128.7,
+                "max": null,
+                "unit": "mg",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "100 g edible food"
+                },
+                "sourceIds": [
+                  "food-usda-sr28"
+                ]
+              }
+            ]
           },
           {
-            "name": "Wheat bran and wheat germ",
+            "name": "Spinach, raw",
             "relationship": "direct",
-            "detail": "Foods identified in USDA composition research as betaine sources."
-          },
-          {
-            "name": "Whole-wheat foods",
-            "relationship": "direct",
-            "detail": "Contribute dietary betaine; processing and preparation affect composition."
-          },
-          {
-            "name": "Beetroot",
-            "relationship": "direct",
-            "detail": "A food source of betaine, without implying equivalence to betaine HCl or a supplement amount."
+            "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": "USDA NDB 11457",
+            "amounts": [
+              {
+                "nutrient": "Betaine",
+                "min": 102.6,
+                "max": null,
+                "unit": "mg",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "100 g edible food"
+                },
+                "sourceIds": [
+                  "food-usda-sr28"
+                ]
+              }
+            ]
           }
         ],
         "foodSourceIds": [
           "food-performance-betaine",
-          "betaine-hcl-trial"
+          "betaine-hcl-trial",
+          "food-usda-sr28"
         ],
         "value": {
           "routineScore": 2,
@@ -2025,6 +4776,42 @@
           ]
         },
         "reviewed": "2026-11-17"
+      },
+      "intakeGuide": {
+        "kind": "no-established-target",
+        "summary": "No established dietary reference intake or universal sports dose. TMG and betaine HCl have different uses.",
+        "targets": [],
+        "limits": [],
+        "notes": [
+          "No automatic dose increase is assigned for training frequency or experience."
+        ],
+        "sourceIds": [
+          "exercise",
+          "betaine-meta",
+          "betaine-endurance",
+          "betaine-hcl-trial",
+          "betaine-medical"
+        ],
+        "reviewed": "2026-11-17"
+      },
+      "medicalGuide": {
+        "summary": "Condition-specific evidence, separate from sports benefits and purchase priority.",
+        "conditions": [
+          {
+            "condition": "Homocystinuria",
+            "level": "established",
+            "findings": "Prescription betaine anhydrous is used with specialist care and other treatments. This indication does not apply to betaine HCl or establish equivalence of a workout product.",
+            "limits": "Specialist care can use betaine anhydrous as part of treatment for homocystinuria, a specific inherited disorder. That indication does not make a workout supplement a treatment for digestive problems or justify replacing a prescribed product.",
+            "sourceIds": [
+              "exercise",
+              "betaine-meta",
+              "betaine-endurance",
+              "betaine-hcl-trial",
+              "betaine-medical"
+            ]
+          }
+        ],
+        "reviewed": "2026-11-17"
       }
     },
     {
@@ -2042,7 +4829,8 @@
         "hmb-young-meta",
         "hmb-older-meta",
         "food-performance-protein",
-        "food-performance-amino-acids"
+        "food-performance-amino-acids",
+        "food-usda-sr28"
       ],
       "reviewed": "2026-11-17",
       "author": "Supplement Research editorial synthesis",
@@ -2077,25 +4865,83 @@
         "foodSummary": "Ordinary protein foods supply leucine, from which the body makes some HMB. These are precursor sources; they are not presented as meaningful or dose-matched sources of supplemental HMB.",
         "foods": [
           {
-            "name": "Milk, curd, paneer and eggs",
+            "name": "Lentils, mature seeds, cooked, boiled, without salt",
             "relationship": "precursor",
-            "detail": "Their proteins supply leucine. Food leucine is not a measured HMB supplement dose."
+            "detail": "Food leucine is a precursor. It is not HMB mass and cannot be counted toward an HMB supplement protocol.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": "USDA NDB 16070",
+            "amounts": [
+              {
+                "nutrient": "Leucine (precursor, not HMB)",
+                "min": 0.654,
+                "max": null,
+                "unit": "g",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "100 g edible food"
+                },
+                "sourceIds": [
+                  "food-usda-sr28"
+                ]
+              }
+            ]
           },
           {
-            "name": "Soy foods, dal and beans",
+            "name": "Egg, whole, cooked, hard-boiled",
             "relationship": "precursor",
-            "detail": "Supply protein and leucine within a varied diet; conversion does not establish an HMB-equivalent serving."
+            "detail": "Food leucine is a precursor. It is not HMB mass and cannot be counted toward an HMB supplement protocol.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": "USDA NDB 01129",
+            "amounts": [
+              {
+                "nutrient": "Leucine (precursor, not HMB)",
+                "min": 1.075,
+                "max": null,
+                "unit": "g",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "100 g edible food"
+                },
+                "sourceIds": [
+                  "food-usda-sr28"
+                ]
+              }
+            ]
           },
           {
-            "name": "Fish, chicken or other meat",
+            "name": "Chicken, broilers or fryers, breast, meat only, cooked, roasted",
             "relationship": "precursor",
-            "detail": "Provide leucine-containing protein, not an interchangeable calcium-HMB or HMB-free-acid amount."
+            "detail": "Food leucine is a precursor. It is not HMB mass and cannot be counted toward an HMB supplement protocol.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+            "foodId": "USDA NDB 05064",
+            "amounts": [
+              {
+                "nutrient": "Leucine (precursor, not HMB)",
+                "min": 2.328,
+                "max": null,
+                "unit": "g",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "100 g edible food"
+                },
+                "sourceIds": [
+                  "food-usda-sr28"
+                ]
+              }
+            ]
           }
         ],
         "foodSourceIds": [
           "food-performance-protein",
           "food-performance-amino-acids",
-          "hmb-position"
+          "hmb-position",
+          "food-usda-sr28"
         ],
         "value": {
           "routineScore": 1,
@@ -2120,6 +4966,40 @@
             "hmb-older-meta"
           ]
         },
+        "reviewed": "2026-11-17"
+      },
+      "intakeGuide": {
+        "kind": "no-established-target",
+        "summary": "No established dietary requirement. Trial protocols are context-specific and do not create a routine need for a healthy trainee.",
+        "targets": [],
+        "limits": [],
+        "notes": [
+          "No automatic dose increase is assigned for training frequency or experience."
+        ],
+        "sourceIds": [
+          "exercise",
+          "hmb-position",
+          "hmb-young-meta",
+          "hmb-older-meta"
+        ],
+        "reviewed": "2026-11-17"
+      },
+      "medicalGuide": {
+        "summary": "Condition-specific evidence, separate from sports benefits and purchase priority.",
+        "conditions": [
+          {
+            "condition": "Sarcopenia / illness-related muscle loss",
+            "level": "mixed",
+            "findings": "Some nutrition studies examine selected vulnerable populations; HMB alone is not an established cure. Total nutrition, exercise and the cause of wasting require assessment.",
+            "limits": "An HMB product alone is not an established cure for sarcopenia, muscle wasting or poor recovery. Nutrition support for an ill or undernourished person requires assessment of the whole plan and the cause of muscle loss.",
+            "sourceIds": [
+              "exercise",
+              "hmb-position",
+              "hmb-young-meta",
+              "hmb-older-meta"
+            ]
+          }
+        ],
         "reviewed": "2026-11-17"
       }
     }
@@ -2914,6 +5794,86 @@
       "checked": "2026-11-17",
       "summary": "The National Institute of Nutrition identifies amla and guava among vitamin C food sources familiar in India.",
       "limitations": "An older dietary manual, used here only for qualitative food-source examples. It is not the source of current clinical dosing recommendations; food content varies with variety, storage and preparation."
+    },
+    {
+      "id": "food-usda-sr28",
+      "title": "USDA National Nutrient Database, Standard Reference 28",
+      "url": "https://www.ars.usda.gov/ARSUserFiles/80400525/Data/SR/SR28/dnload/sr28asc.zip",
+      "summary": "Published composition per 100 g edible food; NDB identifiers are retained with each food.",
+      "kind": "Official guidance",
+      "year": 2015,
+      "checked": "2026-11-17",
+      "limitations": "Reference composition, not a test of an Indian recipe, brand or portion. Cooking, cultivar and fortification change amounts."
+    },
+    {
+      "id": "b1-overview",
+      "title": "NIH ODS: Thiamin",
+      "url": "https://ods.od.nih.gov/factsheets/Thiamin-HealthProfessional/",
+      "summary": "Adult reference intakes and deficiency context for this individual B vitamin.",
+      "kind": "Official guidance",
+      "year": null,
+      "checked": "2026-11-17",
+      "limitations": "General reference; individual needs and food composition vary. This is not an India-specific prescription."
+    },
+    {
+      "id": "b2-overview",
+      "title": "NIH ODS: Riboflavin",
+      "url": "https://ods.od.nih.gov/factsheets/Riboflavin-HealthProfessional/",
+      "summary": "Adult reference intakes and deficiency context for this individual B vitamin.",
+      "kind": "Official guidance",
+      "year": null,
+      "checked": "2026-11-17",
+      "limitations": "General reference; individual needs and food composition vary. This is not an India-specific prescription."
+    },
+    {
+      "id": "b5-overview",
+      "title": "NIH ODS: Pantothenic acid",
+      "url": "https://ods.od.nih.gov/factsheets/PantothenicAcid-HealthProfessional/",
+      "summary": "Adult reference intakes and deficiency context for this individual B vitamin.",
+      "kind": "Official guidance",
+      "year": null,
+      "checked": "2026-11-17",
+      "limitations": "General reference; individual needs and food composition vary. This is not an India-specific prescription."
+    },
+    {
+      "id": "caffeine-fda",
+      "title": "FDA: caffeine and adult consumption",
+      "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much",
+      "summary": "General adult caffeine benchmark; sensitivity, medicines and health context can require less.",
+      "kind": "Official guidance",
+      "year": null,
+      "checked": "2026-11-17",
+      "limitations": "General reference; individual needs and food composition vary. This is not an India-specific prescription."
+    },
+    {
+      "id": "protein-diabetes-ada",
+      "title": "ADA Standards of Care 2026: nutrition and health behaviours",
+      "url": "https://diabetesjournals.org/care/article/49/Supplement_1/S89/163932/5-Facilitating-Positive-Health-Behaviors-and-Well-being-to-Improve-Health-Outcomes-Standards-of-Care-in-Diabetes-2026",
+      "summary": "Individualized nutrition is part of diabetes care; it does not establish protein powder as a diabetes treatment.",
+      "kind": "Official guidance",
+      "year": 2026,
+      "checked": "2026-11-17",
+      "limitations": "General reference; individual needs and food composition vary. This is not an India-specific prescription."
+    },
+    {
+      "id": "creatine-parkinson-trial",
+      "title": "Creatine and Parkinson disease: NET-PD randomized trial",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4349346/",
+      "summary": "The large trial did not show slowed clinical progression and was stopped for futility.",
+      "kind": "Randomized trial",
+      "year": 2015,
+      "checked": "2026-11-17",
+      "limitations": "Parkinson disease trial; findings do not resolve every cognitive question or establish treatment for another neurological condition."
+    },
+    {
+      "id": "food-chicken-bioactives",
+      "title": "Chicken breast bioactive compounds during refrigerated storage",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7587666/",
+      "summary": "Primary laboratory measurements of creatine and carnosine in raw chicken breast, with the farm and storage day specified.",
+      "limitations": "Study-specific Korean broiler samples, not universal Indian chicken composition; cooking and storage change amounts.",
+      "kind": "Food composition study",
+      "year": 2020,
+      "checked": "2026-11-17"
     }
   ],
   "valuePolicy": {
@@ -2956,5 +5916,78 @@
         "description": "A strong evidence-based reason exists in this defined context; appropriate formulation and professional care still matter where relevant."
       }
     ]
+  },
+  "intakePolicy": {
+    "reviewed": "2026-11-17",
+    "profiles": [
+      {
+        "id": "everyday",
+        "label": "Everyday health",
+        "description": "No structured training; includes ordinary daily activity."
+      },
+      {
+        "id": "general-fitness",
+        "label": "General fitness",
+        "description": "Recreational activity with modest training demands."
+      },
+      {
+        "id": "strength-power",
+        "label": "Strength & power",
+        "description": "Resistance training and powerlifting, at any experience level."
+      },
+      {
+        "id": "hypertrophy",
+        "label": "Muscle gain",
+        "description": "Bodybuilding and resistance training focused on hypertrophy."
+      },
+      {
+        "id": "endurance",
+        "label": "Endurance",
+        "description": "Running, cycling, swimming and sustained aerobic training."
+      },
+      {
+        "id": "hybrid",
+        "label": "Hybrid & repeated intensity",
+        "description": "HYROX, CrossFit and mixed strength/endurance demands."
+      }
+    ],
+    "ageBands": [
+      {
+        "value": 19,
+        "label": "19–30 years"
+      },
+      {
+        "value": 31,
+        "label": "31–50 years"
+      },
+      {
+        "value": 51,
+        "label": "51–70 years"
+      },
+      {
+        "value": 71,
+        "label": "71+ years"
+      }
+    ],
+    "baseline": "Educational references for generally healthy, nonpregnant adults aged 19+. Micronutrient RDA/AI and UL values use US National Academies references reported by NIH ODS; they are not Indian RDA values or treatment doses.",
+    "loadNote": "Session count and duration describe workload. Two, three or five sessions alone cannot determine a supplement dose. Intensity, diet, energy intake and recovery also matter.",
+    "experienceNote": "Beginner, intermediate and advanced are training descriptions, not dosing tiers. Powerlifting maps to strength; bodybuilding to muscle gain; HYROX and CrossFit to hybrid.",
+    "sourceIds": [
+      "exercise",
+      "creatine-position",
+      "beta-alanine-position"
+    ],
+    "foodNote": "Approximate source-specific food composition. Amounts retain the cited preparation and serving; per 100 g refers to edible food. Food quantities are not supplement-dose equivalents.",
+    "aggregateNote": "Totals include only exact products and daily quantities you enter. Food, drinks, medicines, other products and undeclared label ingredients remain outside these totals. Missing values are unknown, never zero."
+  },
+  "medicalPolicy": {
+    "reviewed": "2026-11-17",
+    "summary": "Evidence applies to the specified condition, formulation and population. A biological role or improved laboratory marker does not establish a cure. These entries inform a discussion with a clinician and never select a disease-treatment stack.",
+    "levels": {
+      "established": "Established for the stated indication",
+      "conditional": "Supportive or context-specific",
+      "mixed": "Mixed or emerging evidence",
+      "insufficient": "Not established as treatment"
+    }
   }
 }

@@ -3,9 +3,9 @@ import {escapeHtml as esc,formatDate} from './model.js';
 export const buyingGuideFor=(snapshot,category)=>snapshot.research?.articles?.find(a=>a.category===category)?.buyingGuide;
 export function buyingGuideSearchText(g){
  if(!g)return '';
- return [...g.whoCanConsider,...g.whoShouldReview,g.foodSummary,...g.foods.flatMap(f=>[f.name,f.detail]),g.value.targetedUse,g.value.reason,g.value.scope,...g.value.worthWhen,...g.value.skipWhen].join(' ');
+ return [...g.whoCanConsider,...g.whoShouldReview,g.foodSummary,...g.foods.flatMap(f=>[f.name,f.detail,f.quantityNote,JSON.stringify(f.amounts||[])]),g.value.targetedUse,g.value.reason,g.value.scope,...g.value.worthWhen,...g.value.skipWhen].join(' ');
 }
-const sourceLinks=(ids,refs)=>ids.map(id=>{const s=refs.get(id);return s?`<a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.title)} ↗</a>`:'';}).filter(Boolean).join(' · ');
+export const sourceLinks=(ids,refs)=>ids.map(id=>{const s=refs.get(id);return s?`<a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.title)} ↗</a>`:'';}).filter(Boolean).join(' · ');
 const list=items=>`<ul>${items.map(text=>`<li>${esc(text)}</li>`).join('')}</ul>`;
 const scoreLabel=(policy,score)=>policy?.scale?.find(s=>s.score===score)?.label||'Assessment unavailable';
 function scoreMarkup(score,title,policy){
@@ -20,10 +20,14 @@ export function buyingAudience(g,refs){
  if(!g)return '';
  return `<div class="audience-guidance"><div><h4>Who can consider it</h4>${list(g.whoCanConsider)}</div><div><h4>Who should review it first</h4>${list(g.whoShouldReview)}</div></div><p class="source-line">Sources: ${sourceLinks(g.value.sourceIds,refs)}</p>`;
 }
+export function foodAmounts(f,refs){
+ const n=v=>new Intl.NumberFormat('en-IN',{maximumFractionDigits:4}).format(v);
+ return f.quantityStatus==='quantified'?`<dl class="food-amounts">${f.amounts.map(m=>`<div><dt>${esc(m.nutrient)}</dt><dd><strong>${n(m.min)}${m.max!=null?'–'+n(m.max):''} ${esc(m.unit)}</strong><small>per ${esc(m.per.label)}</small></dd></div>`).join('')}</dl><p class="food-quantity-note">${esc(f.quantityNote)}</p><p class="source-line">${sourceLinks([...new Set(f.amounts.flatMap(m=>m.sourceIds))],refs)}</p>`:f.quantityStatus?`<p class="food-quantity-note"><strong>Amount not established.</strong> ${esc(f.quantityNote)}</p>`:'';
+}
 export function buyingFoods(g,refs){
  if(!g)return '';
  const labels={direct:'Food source',precursor:'Provides building blocks','different-form':'Different form or component'};
- return `<p>${esc(g.foodSummary)}</p>${g.foods.length?`<div class="food-source-grid">${g.foods.map(f=>`<div class="food-source-card"><span>${esc(labels[f.relationship])}</span><h4>${esc(f.name)}</h4><p>${esc(f.detail)}</p></div>`).join('')}</div>`:''}<p class="source-line">Sources: ${sourceLinks(g.foodSourceIds,refs)}</p>`;
+ return `<p>${esc(g.foodSummary)}</p>${g.foods.length?`<div class="food-source-grid">${g.foods.map(f=>`<div class="food-source-card"><span>${esc(labels[f.relationship])}</span><h4>${esc(f.name)}</h4><p>${esc(f.detail)}</p>${foodAmounts(f,refs)}</div>`).join('')}</div>`:''}<p class="source-line">Sources: ${sourceLinks(g.foodSourceIds,refs)}</p>`;
 }
 export function buyingValue(g,policy,refs){
  if(!g||!policy)return '';

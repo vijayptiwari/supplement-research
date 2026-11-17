@@ -4299,3 +4299,41 @@ body.has-comparison {
 .guidance-overline{font-size:10px!important;font-weight:700;letter-spacing:.06em;color:var(--muted)}
 .food-examples{font-size:12px!important;color:var(--muted)}
 @media(max-width:700px){.buying-guide-controls,.audience-guidance,.value-reasons,.food-source-grid{grid-template-columns:1fr}.buying-priority{padding:17px}.priority-pair{gap:16px}.priority-number{display:block}.priority-number>strong{display:block;margin-bottom:8px}.priority-number>span{font-size:11px}.offer-buying-guide{padding:15px}}
+/* Shared educational references and the explicit-quantity stack review. */
+.intake-controls{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin:24px 0}
+.intake-controls label{display:flex;flex-direction:column;gap:8px;font-size:13px;font-weight:650;min-width:0}
+.intake-controls input,.intake-controls select{width:100%;min-height:44px;box-sizing:border-box;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--ink);padding:10px 12px;font-weight:400;font-size:14px}
+.intake-controls input:focus,.intake-controls select:focus{outline:2px solid var(--accent);outline-offset:2px}
+.intake-policy,.intake-workload,.medical-policy,.food-quantity-note{font-size:13px;line-height:1.65;color:var(--muted)}
+.intake-reference-list,.medical-evidence-list{display:grid;gap:12px;margin:20px 0}
+.intake-reference,.medical-evidence{border:1px solid var(--line);border-radius:12px;padding:20px;background:var(--surface)}
+.intake-reference{display:grid;grid-template-columns:1fr auto;gap:12px}
+.intake-reference span,.intake-reference small,.food-amounts small,.stack-ingredient small{display:block;font-size:12px;color:var(--muted);font-weight:400;margin-top:5px}
+.intake-reference-amount{font-size:21px;font-weight:700;text-align:right;line-height:1.4}
+.intake-reference>p{grid-column:1/-1;margin:0;font-size:13px;line-height:1.6}
+.intake-reference .source-line{font-size:11px}
+.intake-review-note{padding:14px 18px;background:var(--accent-soft);border-left:3px solid var(--accent);font-size:13px;line-height:1.7}
+.intake-limits,.stack-daily-audit>details{border-top:1px solid var(--line);padding:16px 0;font-size:13px}
+.intake-limits summary,.stack-category-knowledge summary,.stack-daily-audit summary{cursor:pointer;font-weight:650;line-height:1.6}
+.intake-notes{font-size:13px}
+.evidence-level{display:inline-block;font-size:11px;font-weight:650;line-height:1.5;border-radius:4px;padding:4px 8px;background:var(--accent-soft);color:var(--ink)}
+[data-evidence-level=established] .evidence-level{background:#e3f3e9;color:#22613c}
+[data-evidence-level=conditional] .evidence-level{background:#e5eef8;color:#285781}
+[data-evidence-level=mixed] .evidence-level{background:#fff0d1;color:#7b530c}
+.medical-evidence h4{margin:12px 0 8px}.medical-evidence p{font-size:14px;line-height:1.7;margin:8px 0}
+.food-amounts{margin:16px 0 8px}.food-amounts>div{padding:12px 0;border-top:1px solid var(--line)}
+.food-amounts dt{font-size:12px;color:var(--muted)}.food-amounts dd{margin:6px 0 0;font-size:20px;line-height:1.5}
+.food-source-card .source-line{font-size:11px;overflow-wrap:anywhere}
+.stack-reference-context{padding:24px 0 8px;border-top:1px solid var(--line);margin-top:24px}
+.stack-reference-context h3{font-size:20px}.stack-reference-context>p{font-size:13px;line-height:1.7;color:var(--muted)}
+.stack-category-knowledge{margin:16px 0;border-top:1px solid var(--line)}
+.stack-category-knowledge>details{padding:13px 0;border-bottom:1px solid var(--line)}
+.stack-category-knowledge>details>summary{font-size:13px}.stack-category-knowledge>details>p,.stack-category-knowledge li{font-size:13px;line-height:1.7}
+.stack-category-knowledge .food-source-grid,.stack-category-knowledge .audience-guidance,.stack-category-knowledge .value-reasons{grid-template-columns:1fr}
+.stack-category-knowledge .source-line{font-size:11px}.stack-category-knowledge .priority-number strong{font-size:30px}
+.stack-flow-pick label small{font-weight:400;line-height:1.5;color:var(--muted)}
+.stack-review-context{margin:0 0 24px}.stack-daily-audit{border:1px solid var(--line);padding:28px;border-radius:16px;background:var(--surface);margin-top:24px}
+.stack-daily-audit h3{margin:10px 0;font-size:24px}.stack-daily-audit>p,.stack-daily-audit li{font-size:13px;line-height:1.75}
+.stack-ingredient{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:20px;padding:16px 0;border-bottom:1px solid var(--line);font-size:14px}
+.stack-ingredient>span{text-align:right;font-weight:700}.ingredient-overlap{color:var(--accent)!important}.stack-ingredient small{overflow-wrap:anywhere;line-height:1.5}
+@media(max-width:640px){.intake-controls{grid-template-columns:1fr}.intake-reference{grid-template-columns:1fr}.intake-reference-amount{text-align:left}.stack-daily-audit{padding:20px}.stack-ingredient{grid-template-columns:1fr;gap:8px}.stack-ingredient>span{text-align:left}}

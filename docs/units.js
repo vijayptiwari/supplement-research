@@ -68,6 +68,10 @@ export function normalizeUnitInputs(raw,definition){
  if(r.packServings==null)issue(powder?'servingGrams':'servingUnits','Label serving size not verified; serving and active-content costs are unavailable.','warning');
  if(definition.mainNutrient!=='multi'&&r[definition.mainNutrient]==null)issue(definition.mainNutrient,'Labelled active quantity not verified; no active-content cost is inferred.','warning');
  if(definition.id==='zmc'&&['calciumMg','magnesiumMg','zincMg'].some(k=>r[k]==null))issue('mineralAmounts','One or more elemental amounts are unverified. Mineral masses are not combined into a single value score.','warning');
+ if(definition.id==='zmc'&&raw.declaredNutrients!=null){
+  if(!Array.isArray(raw.declaredNutrients)||!raw.declaredNutrients.length||new Set(raw.declaredNutrients).size!==raw.declaredNutrients.length||raw.declaredNutrients.some(key=>!Object.hasOwn(nutrientUnits,key)||['energyPerServing','withanolidesPct'].includes(key)))issue('declaredNutrients','Declared co-nutrients need valid, unique nutrient keys; unknown amounts must remain unknown.');
+  else if(raw.declaredNutrients.some(key=>r[key]==null))issue('ingredientAmounts','One or more declared minerals or co-vitamins are unquantified. They must not be counted as zero in a stack.','warning');
+ }
  if(definition.mainNutrient==='multi'&&definition.id!=='zmc'){
   if(!Array.isArray(raw.declaredNutrients)||!raw.declaredNutrients.length||new Set(raw.declaredNutrients).size!==raw.declaredNutrients.length||raw.declaredNutrients.some(key=>!(definition.nutrientFields||[]).some(f=>f.key===key)))issue('declaredNutrients','List each declared ingredient once using the category nutrient keys. Do not combine their masses.');
   else if(raw.declaredNutrients.some(key=>r[key]==null))issue('ingredientAmounts','One or more declared ingredient amounts are unverified. Serving cost does not establish a complete ingredient profile.','warning');

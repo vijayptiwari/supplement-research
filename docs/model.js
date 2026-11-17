@@ -1,3 +1,4 @@
+import {validateClinicalGuidance} from './guidance-validation.js';
 // Pure calculations shared by browser pages, validation, exports and the site build.
 import {normalizeUnitInputs,nutrientUnits} from './units.js';
 export const finite=n=>typeof n==='number'&&Number.isFinite(n);
@@ -132,6 +133,7 @@ export function createSnapshot(bundle){
    const sourceIds=new Set();
    for(const source of research.sources){if(!source.id||sourceIds.has(source.id)||!https(source.url)||!isoDate(source.checked)||['title','kind','summary','limitations'].some(k=>!source[k]))invalid('Invalid, duplicate or unsafe research reference.');sourceIds.add(source.id);}
    const articleIds=new Set();for(const a of research.articles){if(!a.id||articleIds.has(a.id)||!result[a.category]||!isoDate(a.reviewed)||['title','summary','evidence','limitations','catalogReading','safety','author'].some(k=>!a[k])||!a.sourceIds?.length||a.sourceIds.some(id=>!sourceIds.has(id)))invalid('Invalid guide, category or reference link.');articleIds.add(a.id);if(!Array.isArray(a.bodySteps)||a.bodySteps.length<2||a.bodySteps.some(step=>typeof step!=='string'||!step.trim())||['treatment','whoMayBenefit','routineUse'].some(key=>typeof a[key]!=='string'||!a[key].trim())||['bodySources','sectionSources'].some(key=>!Array.isArray(a[key])||!a[key].length||a[key].some(id=>!sourceIds.has(id)||!a.sourceIds.includes(id))))invalid('Each guide needs sourced body processing, treatment limits, eligibility and routine-use context.');}
+   validateClinicalGuidance(research,invalid);
    if(research.articles.some(a=>a.buyingGuide!=null)&&research.valuePolicy==null)invalid('Buying guides require an explicit editorial rating policy.');
    if(research.valuePolicy!=null){
     const p=research.valuePolicy,text=v=>typeof v==='string'&&v.trim().length>0,strings=v=>Array.isArray(v)&&v.length>0&&v.every(text),score=v=>Number.isInteger(v)&&v>=1&&v<=5;
