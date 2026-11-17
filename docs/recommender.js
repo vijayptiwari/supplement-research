@@ -20,6 +20,10 @@ export function recommend(snapshot,input){
  if(existing.has('zmc')&&(existing.has('magnesium')||existing.has('vitamin-d')))warnings.push('Your existing ZMC may overlap with separate magnesium or vitamin D. Check the exact labels before combining.');
  if(items.some(i=>i.category==='zmc')&&items.some(i=>['magnesium','vitamin-d'].includes(i.category)))warnings.push('Bone-health categories are alternatives to review, not instructions to take all three together. ZMC can already contain magnesium and vitamin D.');
  if((existing.has('vitamin-b')&&(existing.has('biotin')||existing.has('folic-acid')))||(items.some(i=>i.category==='vitamin-b')&&items.some(i=>['biotin','folic-acid'].includes(i.category))))warnings.push('Review the exact B-vitamin profile before combining products. A B-complex may already contain biotin or folic acid; an individual B12 product has a different profile. These review items are not instructions to take every category.');
+ const reviewed=new Set([...existing,...items.map(i=>i.category)]);
+ if(['protein','bcaa','eaa'].filter(id=>reviewed.has(id)).length>1)warnings.push('Complete dietary protein supplies all nine essential amino acids; BCAAs are three of those EAAs. Protein, BCAA and EAA review cards are not instructions to buy all three. Check your food and protein intake before paying for overlapping amino acids.');
+ if(reviewed.has('pre-workout'))warnings.push('Read the exact pre-workout formula before combining it with coffee, energy drinks or another pre-workout. Count caffeine from every source; undisclosed botanical caffeine prevents a reliable total. A caffeine-free claim does not establish that every other stimulant is absent.');
+ if(reviewed.has('pre-workout')&&['creatine','l-arginine','bcaa','eaa'].some(id=>reviewed.has(id)))warnings.push('A pre-workout may already contain creatine, arginine or amino acids. Check the exact label for duplicate ingredients and servings before adding separate products; the stack builder does not total daily ingredient exposure.');
  return {items,warnings,budget,restricted};
 }
 

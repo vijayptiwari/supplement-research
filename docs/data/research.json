@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "reviewed": "2026-10-31",
+  "reviewed": "2026-11-17",
   "scope": "Curated educational guides and selected references; not a systematic or exhaustive review. Biological mechanisms do not by themselves prove clinical benefit. Nutrient requirements, deficiency treatment and routine supplement use are different questions. Research does not endorse catalog brands. Individual and pediatric care require appropriate professional guidance; international findings may not generalize to every Indian product or population.",
   "articles": [
     {
@@ -441,6 +441,194 @@
         "folate-prevention",
         "b-family"
       ]
+    },
+    {
+      "id": "l-arginine-guide",
+      "category": "l-arginine",
+      "title": "L-arginine: a nitric-oxide pathway is not a performance guarantee",
+      "summary": "Arginine is an amino acid involved in normal metabolism. A plausible blood-flow mechanism does not establish a useful workout effect.",
+      "evidence": "NIH ODS describes exercise evidence as limited and conflicting. A positive 2020 meta-analysis has a 2025 methodological critique and author reply that limit confidence in its pooled claims. Improved strength, recovery or a bigger pump should not be assumed.",
+      "limitations": "Studies vary in participants, amounts and outcomes. Changes in nitric oxide or blood flow are not the same as improved training results. Arginine, AAKG and citrulline are distinct ingredients; findings cannot simply be transferred between them.",
+      "catalogReading": "Check whether the label declares L-arginine itself or an arginine compound such as AAKG. Full compound or proprietary-blend mass is not verified L-arginine mass. Review serving size, individual ingredient amounts and overlap with pre-workout products.",
+      "safety": "Gastrointestinal discomfort and lower blood pressure can occur. Review medicines and health conditions with a clinician, particularly blood-pressure treatment. Do not self-start after a heart attack: the VINTAGE MI trial raised safety concerns. Long-term high-intake safety is not well established.",
+      "sourceIds": [
+        "exercise",
+        "arginine-meta",
+        "arginine-methods",
+        "arginine-reply",
+        "arginine-mi"
+      ],
+      "reviewed": "2026-11-17",
+      "author": "Supplement Research editorial synthesis",
+      "bodySteps": [
+        "Diet and normal body synthesis supply arginine. After intestinal uptake it enters amino-acid pathways used by multiple tissues.",
+        "Enzymes can use arginine to produce nitric oxide; other pathways use it in protein and creatine synthesis.",
+        "These normal processes do not mean extra oral arginine reliably increases muscle blood flow or improves an exercise outcome."
+      ],
+      "bodySources": [
+        "exercise"
+      ],
+      "treatment": "A sports supplement is not a substitute for treatment of cardiovascular disease, erectile dysfunction or persistent fatigue. Condition-specific clinical nutrition and treatment require a separate assessment.",
+      "whoMayBenefit": "No routine athletic need is established by these sources. Someone considering a specific performance claim can first review training, diet, the actual formulation and the uncertainty with a qualified sports professional.",
+      "routineUse": "An arginine supplement is not a requirement for starting or maintaining training. Avoid treating a pump sensation, compound name or nitric-oxide claim as proof that continued use is beneficial.",
+      "sectionSources": [
+        "exercise",
+        "arginine-meta",
+        "arginine-methods",
+        "arginine-reply",
+        "arginine-mi"
+      ]
+    },
+    {
+      "id": "l-carnitine-guide",
+      "category": "l-carnitine",
+      "title": "L-carnitine: fat transport versus fat-loss marketing",
+      "summary": "Carnitine helps normal energy metabolism. Its role in moving fatty acids does not mean a drink or tablet will rapidly burn body fat.",
+      "evidence": "A 37-trial meta-analysis found a small average body-weight reduction, without significant overall changes in waist circumference or body-fat percentage. Studies do not show a guaranteed response, and exercise-performance findings vary.",
+      "limitations": "Populations, formulations and accompanying interventions differ. A small average weight change is not proof of rapid fat loss, and findings for L-carnitine cannot automatically be transferred to acetyl-L-carnitine or a blend.",
+      "catalogReading": "Distinguish declared L-carnitine from the full mass of L-carnitine L-tartrate, acetyl-L-carnitine or another compound. Compare the same basis and keep the amount of liquid or powder, label servings and added ingredients visible.",
+      "safety": "Possible effects include nausea, cramps, diarrhoea and a fishy body odour. Kidney disease, seizure disorders and medicines need individual review. A clinician should manage deficiency or drug-related treatment; retail products are not interchangeable with a prescribed plan.",
+      "sourceIds": [
+        "carnitine-overview",
+        "carnitine-weight",
+        "carnitine-physiology"
+      ],
+      "reviewed": "2026-11-17",
+      "author": "Supplement Research editorial synthesis",
+      "bodySteps": [
+        "The body makes carnitine from amino-acid precursors and also obtains it from food. Oral supplements add to this supply, but absorption does not guarantee extra delivery to muscle.",
+        "Carnitine helps shuttle long-chain fatty acids into mitochondria, where they can be used to make energy.",
+        "Most body carnitine is held in muscle and heart; the kidneys regulate circulating amounts. More labelled carnitine is not a direct measure of more body-fat loss."
+      ],
+      "bodySources": [
+        "carnitine-overview",
+        "carnitine-physiology"
+      ],
+      "treatment": "Clinicians use carnitine for certain established deficiency states. That is distinct from treating obesity, fatigue or a heart condition with a marketed fat-burner product.",
+      "whoMayBenefit": "People with diagnosed primary or secondary deficiency may need supervised replacement. For someone considering weight management, assess the broader nutrition and activity plan rather than assuming a fat-transport role identifies a deficiency.",
+      "routineUse": "Healthy people generally synthesize enough carnitine, including those eating vegetarian diets. A supplement is not an automatic requirement for fat loss or training; reassess the reason and measured outcome before continuing.",
+      "sectionSources": [
+        "carnitine-overview",
+        "carnitine-weight",
+        "carnitine-physiology"
+      ],
+      "searchAliases": [
+        "lclt",
+        "alcar",
+        "acetyl l carnitine"
+      ]
+    },
+    {
+      "id": "bcaa-guide",
+      "category": "bcaa",
+      "title": "BCAA: three amino acids within a larger protein requirement",
+      "summary": "Leucine, isoleucine and valine are three of the nine essential amino acids. They are already supplied by complete dietary protein.",
+      "evidence": "An acute trial in ten trained men found greater muscle-protein synthesis than placebo after exercise. A later evidence review reports a smaller synthesis response than with complete protein. This does not establish extra long-term muscle gain when adequate protein is already consumed.",
+      "limitations": "A short-term synthesis signal, less soreness and improved athletic performance are different outcomes. Results vary across studies and do not prove that a larger leucine ratio or more expensive blend is superior.",
+      "catalogReading": "Use the verified total of leucine, isoleucine and valine per label serving; total powder weight can include flavouring or other ingredients. A ratio such as 2:1:1 describes proportions, not grams or proven efficacy. BCAA are a subset of EAA and overlap with complete protein.",
+      "safety": "Do not substitute a BCAA drink for meals or prescribed nutrition. People with a metabolic disorder or prescribed amino-acid/protein restriction need individual advice. Review co-ingredients, allergens and stimulant content separately; short trials do not establish indefinite safety for every formulation.",
+      "sourceIds": [
+        "exercise",
+        "bcaa-trial",
+        "bcaa-review",
+        "eaa-position"
+      ],
+      "reviewed": "2026-11-17",
+      "author": "Supplement Research editorial synthesis",
+      "bodySteps": [
+        "Free-form BCAA are absorbed as amino acids and reach tissues, including skeletal muscle.",
+        "Leucine can activate signals involved in making muscle protein, and BCAA can also be metabolized as fuel.",
+        "Building new protein requires the other essential amino acids as well; a signal from leucine does not supply the missing building blocks."
+      ],
+      "bodySources": [
+        "bcaa-review",
+        "eaa-position"
+      ],
+      "treatment": "Retail BCAA are not a cure for muscle loss, fatigue or liver disease. Clinical nutrition protocols for particular illnesses use different evidence and monitoring.",
+      "whoMayBenefit": "Someone with a specific sports-nutrition question can review total dietary protein and all nine EAA first. The selected evidence does not establish a routine advantage from adding BCAA on top of adequate complete protein.",
+      "routineUse": "Essential amino acids are necessary in the diet, but a separate BCAA supplement is optional. Review overlap among food, protein powder, EAA and BCAA before assuming all belong in a stack.",
+      "sectionSources": [
+        "exercise",
+        "bcaa-trial",
+        "bcaa-review",
+        "eaa-position"
+      ]
+    },
+    {
+      "id": "eaa-guide",
+      "category": "eaa",
+      "title": "EAA: all nine essential amino acids, with diet still central",
+      "summary": "Essential amino acids must come from the diet. A verified EAA formulation contains more than the three amino acids in a BCAA product.",
+      "evidence": "Free-form EAA can stimulate muscle-protein synthesis. A small energy-deficit trial of EAA-enriched whey improved whole-body protein balance but not the measured mixed-muscle synthesis outcome versus comparators. These are different endpoints, and neither proves extra long-term strength gains for everyone already consuming adequate protein.",
+      "limitations": "Formulas, populations and outcomes differ. Findings in low-intake or clinically affected people cannot be assumed for a well-fed athlete. More leucine, a larger scoop or a higher combined amino-acid total does not by itself establish a better result.",
+      "catalogReading": "Check all nine: histidine, isoleucine, leucine, lysine, methionine, phenylalanine, threonine, tryptophan and valine. BCAA are three of these; glutamine, arginine and flavouring do not make up a missing EAA profile. Compare verified EAA amounts, proportions and label servings.",
+      "safety": "People with an inherited amino-acid disorder or prescribed protein restriction need specialist advice. Review other ingredients and allergens. Clinical formulations and adult sports products are not interchangeable; a larger amount is not automatically appropriate.",
+      "sourceIds": [
+        "eaa-position",
+        "bcaa-review",
+        "protein-review",
+        "digestion",
+        "eaa-deficit-trial"
+      ],
+      "reviewed": "2026-11-17",
+      "author": "Supplement Research editorial synthesis",
+      "bodySteps": [
+        "Food proteins are digested into peptides and amino acids; a free-form EAA product supplies amino acids without needing the same protein-breakdown step.",
+        "Absorbed EAA enter circulation and are available to tissues for protein turnover.",
+        "All nine essential amino acids are required for sustained protein synthesis. BCAA provide only three, while adequate complete dietary protein supplies the full set."
+      ],
+      "bodySources": [
+        "digestion",
+        "eaa-position",
+        "eaa-deficit-trial"
+      ],
+      "treatment": "An appropriate nutrition plan can address inadequate protein or amino-acid supply. An EAA tub alone is not a treatment for unexplained muscle loss or a disease causing poor nutrition.",
+      "whoMayBenefit": "Some people struggling to meet assessed protein needs, including selected older or clinical populations, may consider EAA within a supervised plan. First establish the dietary gap and whether food or complete protein can meet it.",
+      "routineUse": "Everyone needs dietary EAA, but everyone does not need an EAA powder. Check total food and protein intake, and avoid assuming separate protein, EAA and BCAA products each add an independent benefit.",
+      "sectionSources": [
+        "eaa-position",
+        "bcaa-review",
+        "protein-review",
+        "eaa-deficit-trial"
+      ]
+    },
+    {
+      "id": "pre-workout-guide",
+      "category": "pre-workout",
+      "title": "Pre-workout: read the formula before the promise",
+      "summary": "Pre-workout describes a use and product category, not one active ingredient. Caffeinated, stimulant-free and proprietary blends can be very different.",
+      "evidence": "Some tested blends improve selected exercise or mood outcomes; results for strength and power are mixed. Caffeine has its own performance evidence, particularly for endurance, but this does not validate every formula or show that a blend is better than its ingredients.",
+      "limitations": "Research is formulation-specific and much safety follow-up is short. Benefits and adverse effects depend on the amounts, training context and person. An undisclosed blend cannot be assumed to match a studied product.",
+      "catalogReading": "Read the exact serving and caffeine from all disclosed sources, plus individually labelled creatine, arginine and other actives. Total blend mass is not an active-strength score. Check overlap with separate supplements, coffee, energy drinks and another pre-workout; unknown caffeine stays unknown.",
+      "safety": "Stimulants can disturb sleep, worsen anxiety or cause palpitations. Medicines, cardiovascular conditions and caffeine sensitivity warrant review. These are not automatic options for children or pregnancy. Do not dry scoop: inhaling or swallowing dry powder can cause choking and breathing problems.",
+      "sourceIds": [
+        "preworkout-review",
+        "caffeine-position",
+        "preworkout-dryscoop",
+        "exercise",
+        "creatine-position"
+      ],
+      "reviewed": "2026-11-17",
+      "author": "Supplement Research editorial synthesis",
+      "bodySteps": [
+        "Each ingredient is absorbed and processed separately; there is no single pre-workout pathway in the body.",
+        "Caffeine, when present, acts mainly through adenosine signalling and can reduce perceived effort. Creatine supports phosphocreatine stores over repeated use rather than explaining every immediate sensation.",
+        "Other ingredients act through different pathways. Feeling stimulated or tingling does not establish that the formula improves a useful exercise outcome."
+      ],
+      "bodySources": [
+        "caffeine-position",
+        "creatine-position",
+        "preworkout-review"
+      ],
+      "treatment": "Pre-workout is not a treatment for persistent fatigue, low motivation or a medical cause of poor performance. Assess sleep, food, training load and ongoing symptoms rather than repeatedly increasing stimulants.",
+      "whoMayBenefit": "Some adults with a defined performance objective may consider an optional, transparently labelled ingredient after reviewing evidence and risks. The category itself does not identify who benefits or establish a need for a multi-ingredient product.",
+      "routineUse": "No universal pre-workout requirement exists. Review total stimulant exposure and duplicate creatine or arginine before combining products. These categories are options to assess, not instructions to take every item together.",
+      "sectionSources": [
+        "preworkout-review",
+        "caffeine-position",
+        "preworkout-dryscoop",
+        "exercise"
+      ]
     }
   ],
   "sources": [
@@ -449,10 +637,10 @@
       "title": "NIH ODS: Exercise and athletic performance",
       "url": "https://ods.od.nih.gov/factsheets/ExerciseAndAthleticPerformance-HealthProfessional/",
       "kind": "Expert overview",
-      "summary": "Reviews protein and creatine in exercise, including differences between studied ingredients and marketing claims.",
+      "summary": "Reviews evidence, label interpretation and safety for protein, creatine, arginine, BCAA, caffeine and other exercise-supplement ingredients.",
       "limitations": "A broad reference, not an independent test of products in this catalog.",
       "year": null,
-      "checked": "2026-10-29"
+      "checked": "2026-11-17"
     },
     {
       "id": "protein-review",
@@ -803,6 +991,146 @@
       "limitations": "Trials differ in population and protocol; these findings do not establish prevention by every formulation or benefit from starting after symptoms begin.",
       "year": 2013,
       "checked": "2026-10-31"
+    },
+    {
+      "id": "arginine-meta",
+      "title": "Viribay et al.: Arginine and exercise-performance meta-analysis",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32370176/",
+      "kind": "Systematic review / meta-analysis",
+      "summary": "A 2020 synthesis reported pooled performance improvements across selected arginine trials.",
+      "limitations": "Protocols and participants differed, aerobic results were heterogeneous, and a 2025 commentary identified calculation and analysis problems. Read the commentary and authors' reply alongside the original.",
+      "year": 2020,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "arginine-methods",
+      "title": "Trexler: Methodological critique of the arginine meta-analysis",
+      "url": "https://www.mdpi.com/2072-6643/17/14/2375",
+      "kind": "Methodological commentary",
+      "summary": "Identifies potential errors involving outliers, standard errors versus standard deviations, mixed effect-size methods and dependent outcomes in the 2020 analysis.",
+      "limitations": "A critique of one synthesis, not a new randomized trial or proof that every possible arginine use is ineffective.",
+      "year": 2025,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "arginine-reply",
+      "title": "Viribay et al.: Reply to the arginine meta-analysis critique",
+      "url": "https://www.mdpi.com/2072-6643/17/14/2376",
+      "kind": "Author reply",
+      "summary": "The authors acknowledge the importance of the identified data-handling problems and describe improved approaches in subsequent work.",
+      "limitations": "The reply does not supply a corrected pooled arginine-performance estimate that resolves the original result.",
+      "year": 2025,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "arginine-mi",
+      "title": "Schulman et al.: VINTAGE MI arginine trial after heart attack",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16391217/",
+      "kind": "Randomized trial",
+      "summary": "A trial of 153 patients following acute myocardial infarction found no improvement in the measured vascular or cardiac outcomes and raised a mortality safety concern.",
+      "limitations": "A specific post-heart-attack population; this does not quantify risk for healthy athletes, but it argues against unsupervised post-infarction use.",
+      "year": 2006,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "carnitine-overview",
+      "title": "NIH ODS: Carnitine, nutritional roles and supplement evidence",
+      "url": "https://ods.od.nih.gov/factsheets/Carnitine-HealthProfessional/",
+      "kind": "Expert overview",
+      "summary": "Explains endogenous synthesis, mitochondrial fatty-acid transport, deficiency states, mixed clinical findings and gastrointestinal, medication and other safety considerations.",
+      "limitations": "The physiological role is not proof of fat loss from a retail supplement. Clinical uses and healthy-adult sports marketing address different questions.",
+      "year": null,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "carnitine-weight",
+      "title": "L-carnitine and body composition: 37-trial meta-analysis",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32359762/",
+      "kind": "Systematic review / meta-analysis",
+      "summary": "The 2020 analysis found a small average reduction in body weight, with no significant change in waist circumference or body-fat percentage overall.",
+      "limitations": "Results vary across participants and protocols and do not demonstrate rapid fat burning, a guaranteed response or superiority of a branded form.",
+      "year": 2020,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "bcaa-trial",
+      "title": "Jackman et al.: BCAA and acute post-exercise muscle protein synthesis",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28638350/",
+      "kind": "Randomized trial",
+      "summary": "In ten resistance-trained young men, BCAA increased an acute muscle-protein-synthesis measure compared with a placebo after resistance exercise.",
+      "limitations": "An acute physiological endpoint with a placebo comparator; this does not establish long-term muscle gain, superiority to complete protein or benefit on top of an adequate diet.",
+      "year": 2017,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "bcaa-review",
+      "title": "Kaspy et al.: BCAA signalling and muscle-protein turnover",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37681443/",
+      "kind": "Evidence review",
+      "summary": "BCAA can stimulate signalling and transient protein synthesis, but the synthesis response is smaller than that observed with a complete protein supplying all indispensable amino acids.",
+      "limitations": "A narrative review of physiological studies; a signal or short-term synthesis change does not establish improved long-term performance. Published in 2024, online in 2023.",
+      "year": 2024,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "eaa-position",
+      "title": "Ferrando et al.: ISSN essential-amino-acid position stand",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37800468/",
+      "kind": "Position stand",
+      "summary": "Reviews how all nine essential amino acids support muscle-protein synthesis and potential uses in exercise, ageing and selected clinical or low-intake settings.",
+      "limitations": "A position statement rather than a brand comparison. Acute synthesis findings are not equivalent to long-term strength gains; read the disclosed commercial relationships and patents.",
+      "year": 2023,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "preworkout-review",
+      "title": "Harty et al.: Multi-ingredient pre-workout evidence and safety",
+      "url": "https://link.springer.com/article/10.1186/s12970-018-0247-6",
+      "kind": "Evidence review",
+      "summary": "Some tested blends improved selected endurance, mood or training outcomes, while findings for force and power were mixed. Undisclosed ingredient amounts make comparison difficult.",
+      "limitations": "Formulas differ substantially and most safety studies were shorter than eight weeks. Results for a tested blend do not validate every pre-workout or establish long-term safety.",
+      "year": 2018,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "caffeine-position",
+      "title": "Guest et al.: ISSN caffeine and exercise-performance position stand",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33388079/",
+      "kind": "Position stand",
+      "summary": "Caffeine can improve some exercise outcomes, especially endurance, but responses differ and adverse effects can include disturbed sleep and anxiety.",
+      "limitations": "Evidence for caffeine does not establish that every multi-ingredient product is effective or appropriate. Read the authors' disclosed commercial relationships.",
+      "year": 2021,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "preworkout-dryscoop",
+      "title": "American Academy of Pediatrics: Dry scooping and pre-workout risks",
+      "url": "https://www.healthychildren.org/English/tips-tools/ask-the-pediatrician/Pages/My-16-year-old-started-using-a-supplement-before-working-out-dry-scooping.aspx",
+      "kind": "Expert overview",
+      "summary": "Explains choking and inhalation risks from swallowing dry powder, caffeine concerns, and why pre-workout products are inappropriate shortcuts for young athletes.",
+      "limitations": "US pediatric guidance does not establish Indian regulatory status or the contents of a particular catalog product.",
+      "year": null,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "carnitine-physiology",
+      "title": "Linus Pauling Institute: Carnitine metabolism and forms",
+      "url": "https://lpi.oregonstate.edu/mic/dietary-factors/L-carnitine",
+      "kind": "Expert overview",
+      "summary": "Describes synthesis, intestinal absorption, kidney conservation and the mitochondrial carnitine shuttle, and distinguishes L-carnitine from its derivatives.",
+      "limitations": "Last scientific review shown is December 2019. Physiological and absorption differences do not establish a retail product's clinical superiority. Supplement and prescribed-treatment contexts differ.",
+      "year": 2019,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "eaa-deficit-trial",
+      "title": "Gwin et al.: EAA-enriched whey during an energy deficit",
+      "url": "https://link.springer.com/article/10.1186/s12970-020-00401-5",
+      "kind": "Randomized trial",
+      "summary": "Ten young adults completed a crossover study of short-term energy deficits. EAA-enriched whey improved acute whole-body protein balance relative to comparators, while measured mixed-muscle protein synthesis did not differ.",
+      "limitations": "A small, acute study in a specific underfeeding setting, using an EAA-plus-whey blend. It does not demonstrate extra long-term muscle gain from every EAA-only product.",
+      "year": 2021,
+      "checked": "2026-11-17"
     }
   ]
 }

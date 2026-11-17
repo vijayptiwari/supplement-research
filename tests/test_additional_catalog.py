@@ -67,6 +67,23 @@ class AdditionalCatalogTests(unittest.TestCase):
   self.assertEqual(error.exception.code, 2)
   self.assertFalse((self.data / 'melatonin.json').exists())
 
+ def test_powder_profile_pins_variant_weight_and_keeps_unknown_serving(self):
+  self.entries.append(dict(category='bcaa',brand='Example',base='https://example.org',handle='bcaa',product='BCAA',form='Powder',grams=250,servingGrams=None,bcaaMg=None,variantIds=['102']))
+  self.write('additional-sources.json',dict(labelChecked='2026-10-31',products=self.entries))
+  self.run_import('--categories','bcaa')
+  offer=json.loads((self.data/'bcaa.json').read_text())['offers'][0]
+  self.assertEqual(offer['grams'],250)
+  self.assertIsNone(offer['packCount'])
+  self.assertIsNone(offer['servingGrams'])
+  self.assertNotIn('variantIds',offer)
+
+ def test_powder_profiles_require_variant_selection(self):
+  self.entries.append(dict(category='bcaa',brand='Example',base='https://example.org',handle='bcaa',product='BCAA',form='Powder',grams=250))
+  self.write('additional-sources.json',dict(labelChecked='2026-10-31',products=self.entries))
+  with self.assertRaisesRegex(ValueError,'explicit variant'):
+   self.run_import('--categories','bcaa')
+  self.assertFalse((self.data/'bcaa.json').exists())
+
 
 if __name__ == '__main__':
  unittest.main()

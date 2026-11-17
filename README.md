@@ -2,7 +2,7 @@
 
 [Website](https://vijayptiwari.github.io/supplement-research/) · [GitHub project](https://github.com/vijayptiwari/supplement-research)
 
-Research across protein, creatine and count-based supplement categories from dated public product listings, labels and archived prices. The website is a static app powered by one validated dataset revision. Counts, filter choices, ranges, rankings, costs, evidence coverage, trend colours, dates, examples, metadata and downloads are derived from that revision. No quarterly UI edits are needed.
+Research across protein, creatine, amino acids, pre-workouts and counted supplement categories from dated public product listings, labels and archived prices. The website is a static app powered by one validated dataset revision. Counts, filter choices, ranges, rankings, costs, evidence coverage, trend colours, dates, examples, metadata and downloads are derived from that revision. No quarterly UI edits are needed.
 
 ## Quarterly update workflow
 
@@ -87,6 +87,16 @@ Amounts refer to the stated label serving. Fish oil comparisons use verified EPA
 
 Unknown serving sizes, conflicting labels and uncertain elemental amounts remain null. Historical slots for new categories remain unverified until exact-variant dated public evidence is found. No past prices are generated from current prices. Every offer exposes official price and label sources in its evidence dialog.
 
+
+## Amino acids and pre-workout products
+
+L-Arginine, L-Carnitine, BCAA, EAA and Pre-workout use the same label-serving model with `supportsPowder: true`. Counted products use `packCount` / `servingUnits`; powder products use verified net `grams` / `servingGrams`. Powder label servings per pack = net grams / serving grams. Pack price divided by those servings gives serving cost; labelled milligrams per serving supply the ingredient-cost denominator. Marketed serving counts and scoop weights are never inferred. Powder energy per 100 g is calculated only from known kcal per serving and serving mass.
+
+Free L-carnitine and the full mass of tartrate or acetyl compounds remain separate; compound costs apply within the stated chemical form. BCAA are a subset of EAA and are not added to the EAA total. Pre-workout costs compare label servings without a combined potency score. Total caffeine and caffeine anhydrous component amounts are separate: botanical caffeine that is not quantified leaves the total unknown. Caffeine status is a filter, not a claim that every stimulant is absent. Citrulline malate mass is not converted to free citrulline. All comparison quantities are accounting units, not dose advice.
+
+The importer requires exact `variantIds` or `variantTitles` for powder profiles so one variant cannot inherit another pack's weight. Each curated profile preserves flavour, form, label basis, label dates and sources. Refresh selected prices with `python scripts/build_additional_catalog.py --as-of YYYY-MM-DD --refresh --categories l-arginine l-carnitine bcaa eaa pre-workout`, then review changes, run checks and deploy. Unknowns and conflicting labels stay explicit; new historical quarters remain empty until dated public sources verify them.
+
+The stack builder's performance-claims review includes all five categories without automatically selecting products or quantities. It explains overlap among complete protein, BCAA and EAA, and possible duplicate creatine, arginine and caffeine exposure in pre-workouts. It does not calculate a daily stimulant total or prescribe a regimen.
 
 ## Articles and research
 

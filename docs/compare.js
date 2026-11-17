@@ -5,8 +5,8 @@ const lookup=(snapshot,pick)=>Object.hasOwn(snapshot.categories||{},pick.categor
 const unitNames={Tablet:['tablet','tablets'],Capsule:['capsule','capsules'],Softgel:['softgel','softgels'],Gummy:['gummy','gummies'],'Oral strip':['oral strip','oral strips']};
 const number=value=>typeof value==='number'&&Number.isFinite(value)?value.toLocaleString('en-IN',{maximumFractionDigits:2}):'Unknown';
 const quantity=(value,unit='')=>value==null?'Unknown':`${number(value)}${unit?' '+unit:''}`;
-function pack(offer){if(offer.isUnitOffer||offer.packCount!=null)return offer.packCount==null?'Unknown':`${number(offer.packCount)} ${unitNames[offer.form]?.[offer.packCount===1?0:1]||'units'}`;return offer.kg!=null?`${number(offer.kg)} kg`:quantity(offer.grams,'g');}
-function serving(offer){return offer.servingUnits==null?'Unknown':`${number(offer.servingUnits)} ${unitNames[offer.form]?.[offer.servingUnits===1?0:1]||'units'}`;}
+function pack(offer){if(offer.form==='Powder')return quantity(offer.grams,'g powder');if(offer.isUnitOffer||offer.packCount!=null)return offer.packCount==null?'Unknown':`${number(offer.packCount)} ${unitNames[offer.form]?.[offer.packCount===1?0:1]||'units'}`;return offer.kg!=null?`${number(offer.kg)} kg`:quantity(offer.grams,'g');}
+function serving(offer){if(offer.form==='Powder')return quantity(offer.servingGrams,'g powder');return offer.servingUnits==null?'Unknown':`${number(offer.servingUnits)} ${unitNames[offer.form]?.[offer.servingUnits===1?0:1]||'units'}`;}
 
 /** Immutable, same-category selection reducer. Only public IDs are retained for the tab session. */
 export function reduceComparison(snapshot,picks=[],action={type:'reconcile'}){
@@ -32,6 +32,8 @@ export function buildComparison(snapshot,picks){
  const row=(id,label,read)=>({id,label,values:offers.map(read)}),rows=[row('flavour','Flavour',r=>r.flavour||'Unknown'),row('type','Source / chemical form',r=>r.type||'Unknown'),row('subclass','Subclass / formulation',r=>r.subclass||'Unknown'),row('pack','Exact pack',pack),row('price','Catalog pack price',r=>money(r.price)),row('price-status','Price evidence',r=>r.priceAudit?.status||'unverified'),row('price-date','Price observed',r=>formatDate(r.priceAudit?.checked)),row('stock','Stock at observation',r=>r.stock||'Not verified'),row('research-date','Category research date',()=>formatDate(category.asOf))];
  if(category.measurement==='units'){
   rows.push(row('form','Dosage form',r=>r.form||'Unknown'),row('serving','Label serving',serving),row('servings','Label servings per pack',r=>quantity(r.packServings)),row('unit-cost','Cost per single unit',r=>money(r.unitCost)),row('serving-cost','Cost per label serving',r=>money(r.servingCost)));
+  if(category.supportsPowder)rows.push(row('powder-cost','Cost per g powder',r=>money(r.powderCost)),row('powder-energy','Energy per 100 g powder (calculated)',r=>quantity(r.energy,'kcal')));
+  for(const [key,label] of category.extraFacets||[])rows.push(row(key,label,r=>r[key]||'Not verified'));
   if(category.mainNutrient!=='multi')rows.push(row('reference-cost',`Cost per ${category.referenceQuantity} ${category.referenceUnit} ${category.compoundLabel}`,r=>money(r.referenceCost)));
   for(const field of category.nutrientFields||[])rows.push(row(field.key,`${field.label} (${field.unit==='%'?'% of standardized extract':field.unit+' per label serving'})`,r=>quantity(r[field.key],field.unit)));
   for(const field of nutrientCostFields(category))rows.push(row(nutrientCostKey(field),`Cost per ${field.costQuantity} ${field.unit} ${field.label}`,r=>money(r[nutrientCostKey(field)])));

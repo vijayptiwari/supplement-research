@@ -4246,3 +4246,6 @@ body.has-comparison {
   .banner-actions { margin:21px 0; }
   .banner-actions a { font-size:11px; padding:10px 12px; }
 }
+
+/* Performance categories share the established category illustration system. */
+.tone-l-arginine{background:#e8effc;color:#4264a4}.tone-l-carnitine{background:#fff0de;color:#a66b20}.tone-bcaa{background:#eeeaf8;color:#7e68a8}.tone-eaa{background:#e3f3ed;color:#297b65}.tone-pre-workout{background:#f8e9f0;color:#a15379}

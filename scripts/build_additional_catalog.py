@@ -1,8 +1,8 @@
 """Import curated label profiles and exact official pack prices.
 
 Inputs are data/additional-sources.json, not UI constants. Unknown label amounts
-stay null. Multi-bottle bundles and packs whose count cannot be established are
-excluded. --refresh fetches product prices again; label dates remain separate.
+stay null. Packs need a verified count or powder weight. --refresh fetches
+product prices again; label dates remain separate.
 """
 import argparse,datetime,html,json,pathlib,re,urllib.request
 from html.parser import HTMLParser
@@ -42,17 +42,23 @@ def main():
    variants=product['variants']
   for variant in variants:
    title=variant['title']
+   if entry.get('variantIds') and str(variant['id']) not in [str(value) for value in entry['variantIds']]:continue
    if entry.get('variantTitles') and title not in entry['variantTitles']:continue
    count_title=re.fullmatch(r'Pack of (\d+)',title,re.I) if entry.get('countFromPackTitle') else None
-   if not count_title and re.search(r'pack\s+of\s*[2-9]\b|\b[2-9]\s*boxes|\bx\s*[2-9]|\b[2-9]\s*x\b',title,re.I):continue
+   if not count_title and not entry.get('allowRetailMultipack') and re.search(r'pack\s+of\s*[2-9]\b|\b[2-9]\s*boxes|\bx\s*[2-9]|\b[2-9]\s*x\b',title,re.I):continue
+   powder=entry.get('form')=='Powder'
    quantity=entry.get('packCount');count=re.search(r'(\d+)\s*(?:tablets?|tabs?|capsules?|softgels?|gummies|oral strips?|\bN\b)',title,re.I)
    if count_title:quantity=int(count_title[1])
    elif count:quantity=int(count[1])
    elif title.isdigit() and entry.get('numericVariantIsCount',True):quantity=int(title)
-   if not quantity:excluded.append(dict(url=url,variant=variant['id'],reason='Pack count not verified.'));continue
-   row={k:v for k,v in entry.items() if k not in ['category','base','handle','variantTitles','cacheKey','kind','id','numericVariantIsCount']}
+   if powder:
+    quantity=None
+    if not isinstance(entry.get('grams'),(int,float)) or isinstance(entry['grams'],bool) or entry['grams']<=0:excluded.append(dict(url=url,variant=variant['id'],reason='Net powder grams not verified.'));continue
+    if not entry.get('variantIds') and not entry.get('variantTitles'):raise ValueError('Powder profile requires explicit variant selection so weight and flavour cannot leak across packs: '+url)
+   elif not quantity:excluded.append(dict(url=url,variant=variant['id'],reason='Pack count not verified.'));continue
+   row={k:v for k,v in entry.items() if k not in ['category','base','handle','variantTitles','variantIds','cacheKey','kind','id','numericVariantIsCount','allowRetailMultipack']}
    row.update(id=entry.get('id') or f"{entry['category']}-{variant['id']}",product=entry['product'],packCount=quantity,price=float(variant['price']),currency='INR',stock='In stock' if variant.get('available') is True else 'Sold out' if variant.get('available') is False else 'Listed; confirm stock',url=url if entry.get('kind')=='html' else url+'?variant='+str(variant['id']),nutritionUrl=entry.get('nutritionUrl',url),flavour=entry.get('flavour','Unflavoured'),packaging=entry.get('packaging','Single retail pack'),labelChecked=entry.get('labelChecked',manifest['labelChecked']))
-   categories[entry['category']].append(row);observations.append(dict(category=entry['category'],offerId=row['id'],date=args.as_of,price=row['price'],currency='INR',sourceUrl=row['url'],evidenceUrl=evidence,kind='official-live',matchBasis='Official primary product page and explicitly selected pack' if entry.get('kind')=='html' else 'Official Shopify exact variant ID; single-pack count verified',variantId=None if entry.get('kind')=='html' else str(variant['id'])))
+   categories[entry['category']].append(row);observations.append(dict(category=entry['category'],offerId=row['id'],date=args.as_of,price=row['price'],currency='INR',sourceUrl=row['url'],evidenceUrl=evidence,kind='official-live',matchBasis='Official primary product page and explicitly selected pack' if entry.get('kind')=='html' else 'Official Shopify exact variant ID; net powder grams verified' if powder else 'Official Shopify exact variant ID; retail-pack count verified',variantId=None if entry.get('kind')=='html' else str(variant['id'])))
  for category,offers in categories.items():
   if not offers:raise ValueError('No verified packs for '+category)
   (ROOT/'docs/data'/(category+'.json')).write_text(json.dumps(dict(checked=args.as_of,category=category,offers=offers),ensure_ascii=False,indent=2),encoding='utf-8');print(category,len(offers),'offers',len({r['brand'] for r in offers}),'brands')

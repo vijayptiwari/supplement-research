@@ -118,7 +118,7 @@ export function createSnapshot(bundle){
   const offers=input.offers.map(raw=>{
    const r=normalizeOffer(raw,definition,input.checked,byOffer.get(JSON.stringify([definition.id,String(raw.id)]))||[],config);
    if(ids.has(String(r.id))){r.quality.issues.push({severity:'error',field:'id',message:'Duplicate offer ID.'});r.quality.errors++;r.rankingEligible=false;}ids.add(String(r.id));
-   const variant=JSON.stringify([r.brand,r.product,r.flavour,r.isUnitOffer?r.packCount:r.grams,r.form||'',r.packaging||'']);
+   const variant=JSON.stringify([r.brand,r.product,r.flavour,r.form==='Powder'||!r.isUnitOffer?r.grams:r.packCount,r.form||'',r.packaging||'']);
    if(variants.has(variant)){r.quality.issues.push({severity:'error',field:'variant',message:'Duplicate exact pack variant.'});r.quality.errors++;r.rankingEligible=false;}variants.add(variant);
    for(const issue of r.quality.issues)(issue.severity==='error'?errors:warnings).push({category:definition.id,id:r.id,...issue});return r;
   });

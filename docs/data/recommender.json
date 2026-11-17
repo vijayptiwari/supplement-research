@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-10-31",
+  "reviewed": "2026-11-17",
   "goals": [
     {
       "id": "strength",
@@ -28,6 +28,10 @@
     {
       "id": "micronutrients",
       "label": "Review vitamin intake & deficiency concerns"
+    },
+    {
+      "id": "performance-claims",
+      "label": "Review workout & body-composition claims"
     }
   ],
   "presets": [
@@ -72,6 +76,13 @@
       "label": "Vitamin needs review",
       "goals": [
         "micronutrients"
+      ]
+    },
+    {
+      "id": "performance-review",
+      "label": "Workout supplement claims review",
+      "goals": [
+        "performance-claims"
       ]
     }
   ],
@@ -250,6 +261,77 @@
         "folate-overview",
         "folate-prevention",
         "b-family"
+      ]
+    },
+    {
+      "category": "l-arginine",
+      "goals": [
+        "performance-claims"
+      ],
+      "review": true,
+      "status": "Review the nitric-oxide claim",
+      "reason": "A nitric-oxide pathway does not guarantee better exercise performance. Evidence is uncertain and a positive synthesis has methodological concerns. Check overlap with a pre-workout and its individually declared arginine before considering an extra product.",
+      "sources": [
+        "exercise",
+        "arginine-meta",
+        "arginine-methods",
+        "arginine-reply"
+      ]
+    },
+    {
+      "category": "l-carnitine",
+      "goals": [
+        "performance-claims"
+      ],
+      "review": true,
+      "status": "Fat transport is not a fat-loss guarantee",
+      "reason": "Weight trials show a small average effect with variable results, not rapid or guaranteed fat burning. Healthy people generally make sufficient carnitine. Review the exact compound and the broader nutrition plan before considering a product.",
+      "sources": [
+        "carnitine-overview",
+        "carnitine-weight"
+      ]
+    },
+    {
+      "category": "bcaa",
+      "goals": [
+        "performance-claims"
+      ],
+      "review": true,
+      "status": "Review complete protein before isolated BCAA",
+      "reason": "BCAA provide only three of the nine essential amino acids. Acute signals do not establish extra long-term gains on top of adequate complete protein. Protein, EAA and BCAA overlap; these review items are not a three-product stack.",
+      "sources": [
+        "exercise",
+        "bcaa-trial",
+        "bcaa-review",
+        "eaa-position"
+      ]
+    },
+    {
+      "category": "eaa",
+      "goals": [
+        "performance-claims"
+      ],
+      "review": true,
+      "status": "Assess the full amino-acid and dietary need",
+      "reason": "All nine EAA support protein synthesis, but a separate EAA product is not automatically useful when food and complete protein already cover requirements. BCAA are included within EAA; assess protein, EAA and BCAA as overlapping sources.",
+      "sources": [
+        "eaa-position",
+        "bcaa-review",
+        "protein-review"
+      ]
+    },
+    {
+      "category": "pre-workout",
+      "goals": [
+        "performance-claims"
+      ],
+      "review": true,
+      "status": "Inspect the formula and total stimulant exposure",
+      "reason": "Formulas vary and ingredient evidence does not validate every blend. Review caffeine from coffee, energy drinks and supplements, plus duplicate creatine or arginine and any second pre-workout. Unknown ingredient amounts prevent a reliable total; no stimulant product or dose is added automatically.",
+      "sources": [
+        "preworkout-review",
+        "caffeine-position",
+        "exercise"
       ]
     }
   ]

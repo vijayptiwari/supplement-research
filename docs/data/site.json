@@ -526,6 +526,274 @@
       "page": "folic-acid.html",
       "measurement": "units",
       "productSearchLabel": "Folate"
+    },
+    {
+      "id": "l-arginine",
+      "label": "L-Arginine",
+      "file": "l-arginine.json",
+      "page": "l-arginine.html",
+      "measurement": "units",
+      "supportsPowder": true,
+      "mainNutrient": "arginineMg",
+      "referenceQuantity": 1000,
+      "referenceUnit": "mg",
+      "compoundLabel": "labelled L-arginine",
+      "nutrientFields": [
+        {
+          "key": "arginineMg",
+          "label": "L-arginine",
+          "unit": "mg",
+          "table": true
+        }
+      ],
+      "comparisonNote": "Free-form L-arginine and arginine compounds or blends are distinct. Costs use explicitly labelled L-arginine per verified serving; a nitric-oxide mechanism does not establish an exercise benefit.",
+      "searchAliases": [
+        "arginine",
+        "l arginine"
+      ]
+    },
+    {
+      "id": "l-carnitine",
+      "label": "L-Carnitine",
+      "file": "l-carnitine.json",
+      "page": "l-carnitine.html",
+      "measurement": "units",
+      "supportsPowder": true,
+      "mainNutrient": "carnitineMg",
+      "referenceQuantity": 1000,
+      "referenceUnit": "mg",
+      "compoundLabel": "labelled L-carnitine",
+      "nutrientFields": [
+        {
+          "key": "carnitineMg",
+          "label": "L-carnitine",
+          "unit": "mg",
+          "table": true
+        },
+        {
+          "key": "carnitineCompoundMg",
+          "label": "Carnitine compound / derivative",
+          "unit": "mg",
+          "table": true,
+          "costQuantity": 1000
+        }
+      ],
+      "comparisonNote": "Free L-carnitine, L-carnitine L-tartrate and acetyl-L-carnitine are separate profiles. Compound mass is not converted into free L-carnitine. The compound-cost comparison applies within the same stated chemical form; fat transport biology does not establish a fat-loss benefit.",
+      "searchAliases": [
+        "carnitine",
+        "l carnitine"
+      ]
+    },
+    {
+      "id": "bcaa",
+      "label": "BCAA",
+      "file": "bcaa.json",
+      "page": "bcaa.html",
+      "measurement": "units",
+      "supportsPowder": true,
+      "mainNutrient": "bcaaMg",
+      "referenceQuantity": 1000,
+      "referenceUnit": "mg",
+      "compoundLabel": "labelled BCAAs",
+      "nutrientFields": [
+        {
+          "key": "bcaaMg",
+          "label": "BCAA total",
+          "unit": "mg",
+          "table": true
+        },
+        {
+          "key": "leucineMg",
+          "label": "Leucine",
+          "unit": "mg",
+          "table": true,
+          "costQuantity": 1000
+        },
+        {
+          "key": "isoleucineMg",
+          "label": "Isoleucine",
+          "unit": "mg",
+          "table": true,
+          "costQuantity": 1000
+        },
+        {
+          "key": "valineMg",
+          "label": "Valine",
+          "unit": "mg",
+          "table": true,
+          "costQuantity": 1000
+        }
+      ],
+      "comparisonNote": "BCAA totals include leucine, isoleucine and valine only. Powder weight, flavouring and electrolytes are not BCAA mass. Ratios and total amounts remain separate; BCAAs are a subset of EAAs and are not a complete protein.",
+      "searchAliases": [
+        "branched chain amino acids",
+        "branched chain",
+        "bcaas"
+      ]
+    },
+    {
+      "id": "eaa",
+      "label": "EAA",
+      "file": "eaa.json",
+      "page": "eaa.html",
+      "measurement": "units",
+      "supportsPowder": true,
+      "mainNutrient": "eaaMg",
+      "referenceQuantity": 1000,
+      "referenceUnit": "mg",
+      "compoundLabel": "labelled EAAs",
+      "nutrientFields": [
+        {
+          "key": "eaaMg",
+          "label": "EAA total",
+          "unit": "mg",
+          "table": true
+        },
+        {
+          "key": "bcaaMg",
+          "label": "BCAA subset",
+          "unit": "mg",
+          "table": true,
+          "costQuantity": 1000
+        },
+        {
+          "key": "leucineMg",
+          "label": "Leucine",
+          "unit": "mg",
+          "table": true,
+          "costQuantity": 1000
+        },
+        {
+          "key": "isoleucineMg",
+          "label": "Isoleucine",
+          "unit": "mg",
+          "table": true,
+          "costQuantity": 1000
+        },
+        {
+          "key": "valineMg",
+          "label": "Valine",
+          "unit": "mg",
+          "table": true,
+          "costQuantity": 1000
+        }
+      ],
+      "comparisonNote": "EAA total uses an explicit label amount rather than net scoop mass. BCAAs overlap with the EAA profile and are not added again to the EAA total. A blend name alone does not establish that all nine essential amino acids or their individual amounts are disclosed.",
+      "searchAliases": [
+        "essential amino acids",
+        "eaas"
+      ]
+    },
+    {
+      "id": "pre-workout",
+      "label": "Pre-workout",
+      "file": "pre-workout.json",
+      "page": "pre-workout.html",
+      "measurement": "units",
+      "supportsPowder": true,
+      "mainNutrient": "multi",
+      "referenceQuantity": 1,
+      "referenceUnit": "label serving",
+      "compoundLabel": "labelled pre-workout profile",
+      "nutrientFields": [
+        {
+          "key": "caffeineMg",
+          "label": "Total caffeine (when established)",
+          "unit": "mg",
+          "table": true
+        },
+        {
+          "key": "caffeineAnhydrousMg",
+          "label": "Caffeine anhydrous (component)",
+          "unit": "mg",
+          "table": true
+        },
+        {
+          "key": "citrullineMg",
+          "label": "L-citrulline",
+          "unit": "mg",
+          "table": true
+        },
+        {
+          "key": "citrullineMalateMg",
+          "label": "Citrulline malate",
+          "unit": "mg",
+          "table": true
+        },
+        {
+          "key": "betaAlanineMg",
+          "label": "Beta-alanine",
+          "unit": "mg",
+          "table": true
+        },
+        {
+          "key": "creatineMg",
+          "label": "Declared creatine",
+          "unit": "mg",
+          "table": true
+        },
+        {
+          "key": "arginineMg",
+          "label": "L-arginine",
+          "unit": "mg",
+          "table": false
+        },
+        {
+          "key": "taurineMg",
+          "label": "Taurine",
+          "unit": "mg",
+          "table": false
+        },
+        {
+          "key": "bcaaMg",
+          "label": "BCAA total",
+          "unit": "mg",
+          "table": false
+        },
+        {
+          "key": "eaaMg",
+          "label": "EAA total",
+          "unit": "mg",
+          "table": false
+        },
+        {
+          "key": "caffeineComponentMg",
+          "label": "Declared caffeine component (total not established)",
+          "unit": "mg",
+          "table": false
+        },
+        {
+          "key": "arginineCompoundMg",
+          "label": "Arginine compound (not free arginine)",
+          "unit": "mg",
+          "table": false
+        },
+        {
+          "key": "carnitineCompoundMg",
+          "label": "Carnitine compound (not free carnitine)",
+          "unit": "mg",
+          "table": false
+        },
+        {
+          "key": "ashwagandhaMg",
+          "label": "Ashwagandha material",
+          "unit": "mg",
+          "table": false
+        }
+      ],
+      "comparisonNote": "Pre-workout is a multi-ingredient product class, not one active ingredient. Serving cost does not measure efficacy or completeness. Caffeine, citrulline, citrulline malate and other actives stay separate; proprietary blend weights are not allocated to individual ingredients. Check all stimulant sources, existing creatine/amino acids and exact formula notes.",
+      "searchAliases": [
+        "preworkout",
+        "pre workout",
+        "pre workouts",
+        "preworkouts"
+      ],
+      "extraFacets": [
+        [
+          "stimulantStatus",
+          "Caffeine status"
+        ]
+      ]
     }
   ],
   "quickPicks": [
