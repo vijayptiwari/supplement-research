@@ -4648,3 +4648,16 @@ body.has-comparison {
 .editorial-comparison-cards dt{font-size:11px;font-weight:650;color:var(--muted)}
 .editorial-comparison-cards dd{font-size:14px;line-height:1.75;margin:5px 0 0}
 @media(max-width:700px){.editorial-comparison-table{display:none}.editorial-comparison-cards{display:grid;gap:14px;margin-top:22px}}
+.editorial-library-heading .editorial-coverage-summary{font-size:12px;font-weight:650;color:var(--accent);margin:15px 0 0;line-height:1.8}
+.editorial-pagination{display:flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:18px;margin:28px 0 0}
+.editorial-pagination p{font-size:12px;color:var(--muted);margin:0}
+.editorial-pagination button{padding:12px 20px;border:1px solid var(--accent);background:var(--accent);color:var(--card);border-radius:6px;font-size:13px;font-weight:650;cursor:pointer}
+.editorial-card h2 a{display:block}
+.home-articles .question-grid{grid-template-columns:repeat(auto-fit,minmax(min(250px,100%),1fr))}
+@media(max-width:700px){
+ .articles-page .editorial-series{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+ .editorial-series-card{padding:15px}
+ .editorial-series-card strong{font-size:18px;line-height:1.4}
+ .editorial-series-card p{display:none}
+ .editorial-series-action{font-size:10px;margin-top:14px}
+}

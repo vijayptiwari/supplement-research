@@ -2,7 +2,7 @@ import {clinicalSearchText} from './intake.js';
 import {escapeHtml as esc,formatDate} from './model.js';
 import {buyingGuideSearchText} from './guidance.js';
 import {pathwaySearchText} from './pathways.js';
-import {editorialCategories} from './articles.js';
+import {editorialCategories} from './editorial-model.js';
 
 const positive=value=>typeof value==='number'&&Number.isFinite(value)&&value>0;
 const unique=values=>[...new Set(values.filter(value=>value!=null&&value!==''))];

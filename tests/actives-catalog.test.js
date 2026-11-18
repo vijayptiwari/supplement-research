@@ -41,7 +41,7 @@ test('new actives have exact sourced offers, complete guides, calculated compari
  for(const id of ['citrulline','beta-alanine','taurine','betaine','hmb']){
   const c=s.categories[id];assert.ok(c.offers.length);assert.equal(s.research.articles.filter(a=>a.category===id).length,1);
   for(const r of c.offers){assert.equal(r.priceAudit.status,'verified');assert.ok(r.trend.history.filter(h=>!h.isCurrent).every(h=>h.price==null&&!h.verified));assert.equal(r.trend.history.length,13);if(r.packServings==null)assert.equal(r.servingCost,null);else assert.equal(r.servingCost,r.price/r.packServings);}
-  const results=searchCatalog(s,{q:id.replaceAll('-',' '),category:id});assert.ok(results.products.length);assert.equal(results.guides.length,1);
+  const results=searchCatalog(s,{q:id.replaceAll('-',' '),category:id});assert.ok(results.products.length);assert.equal(results.guides.filter(g=>!g.editorial).length,1);
   const rows=buildComparison(s,[{category:id,id:c.offers[0].id}]).rows;assert.ok(rows.some(r=>r.id==='serving-cost'));assert.ok(rows.some(r=>r.id===c.mainNutrient));
  }
 });

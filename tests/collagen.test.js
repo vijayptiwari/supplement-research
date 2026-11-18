@@ -49,14 +49,14 @@ test('comparison summaries render cited table cells, mobile cards and resolved s
   assert.ok(!html.includes('Reference unavailable'));
   for(const row of a.comparison.rows){for(const column of a.comparison.columns)assert.ok(html.includes(row.values[column.key].replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;')));for(const id of row.sourceIds)assert.ok(html.includes('href="#editorial-'+a.id+'-ref-'+id+'"'));}
  }
- const a=structuredClone(s.research.editorial.articles.find(a=>a.comparison));a.comparison.rows[0].values.supplies='<img src=x onerror="bad()">';
+ const a=structuredClone(s.research.editorial.articles.find(a=>a.comparison));a.comparison.rows[0].values[a.comparison.columns[0].key]='<img src=x onerror="bad()">';
  assert.ok(editorialMarkup(a,s).includes('&lt;img src=x onerror=&quot;bad()&quot;&gt;'));assert.ok(!editorialMarkup(a,s).includes('<img src=x'));
 });
 
 test('malformed comparison revisions and invalid related-category membership cannot publish',async()=>{
  const s=await snapshot,baseArticle=s.research.editorial.articles.find(a=>a.comparison),mutations=[
   a=>a.comparison.columns[1].key=a.comparison.columns[0].key,
-  a=>delete a.comparison.rows[0].values.supplies,
+  a=>delete a.comparison.rows[0].values[a.comparison.columns[0].key],
   a=>a.comparison.rows[0].sourceIds=['unresolved-source'],
   a=>a.comparison.rows=[],a=>a.comparison.columns='invalid',
   a=>a.relatedCategories=[a.category],a=>a.relatedCategories=['unknown-category'],a=>a.relatedCategories=['eaa','eaa']

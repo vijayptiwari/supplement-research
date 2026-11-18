@@ -74,6 +74,6 @@ test('performance stack review stays optional and explains overlapping amino aci
 
 test('carnitine form searches match the actual chemical form rather than all category offers',async()=>{
  const s=createSnapshot(await loadBundle());
- for(const query of ['acetyl l carnitine','alcar']){const found=searchCatalog(s,{q:query,category:'l-carnitine'});assert.equal(found.guides.length,1);assert.ok(found.products.length);assert.ok(found.products.flatMap(p=>p.variants).every(r=>/acetyl/i.test(r.type)));}
+ for(const query of ['acetyl l carnitine','alcar']){const found=searchCatalog(s,{q:query,category:'l-carnitine'});assert.equal(found.guides.filter(g=>!g.editorial).length,1);assert.ok(found.products.length);assert.ok(found.products.flatMap(p=>p.variants).every(r=>/acetyl/i.test(r.type)));}
  const tartrate=searchCatalog(s,{q:'lclt',category:'l-carnitine'}).products.flatMap(p=>p.variants);assert.ok(tartrate.length);assert.ok(tartrate.every(r=>/tartrate/i.test(r.type)));
 });

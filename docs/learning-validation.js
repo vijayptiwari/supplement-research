@@ -1,3 +1,4 @@
+import {editorialNarrativeWords,editorialCoverage} from './editorial-model.js';
 // Publication rules for illustrated guides and the expandable editorial library.
 export function validateLearningContent(research,categories,invalid){
  const text=v=>typeof v==='string'&&!!v.trim(),date=v=>text(v)&&/^\d{4}-\d{2}-\d{2}$/.test(v)&&!Number.isNaN(Date.parse(v))&&new Date(v+'T00:00:00Z').toISOString().slice(0,10)===v;
@@ -23,5 +24,12 @@ export function validateLearningContent(research,categories,invalid){
   }
   if((a?.myths!=null||a?.series==='myth-busters')&&(!Array.isArray(a.myths)||(a.series==='myth-busters'&&a.myths.length!==10)||a.myths.some(m=>!sourced(m,['claim','verdict','explanation']))))invalid(`Myth article ${a.id} needs explained, individually cited claims and ten entries in the myth-busters series.`);
   if((a?.forms!=null||a?.series==='understanding-types')&&(!Array.isArray(a.forms)||(a.series==='understanding-types'&&!a.forms.length)||a.forms.some(f=>!sourced(f,['name','description','metabolism','evidence','value'])||!['ingredient','delivery'].includes(f.kind))))invalid(`Types article ${a.id} needs sourced ingredient and delivery comparisons.`);
+ }
+ if(e.coveragePolicy){const p=e.coveragePolicy;
+  if(!text(p.summary)||!date(p.reviewed)||!Number.isInteger(p.minimumPrimaryArticles)||p.minimumPrimaryArticles<1||!Number.isInteger(p.maximumPrimaryArticles)||p.maximumPrimaryArticles<p.minimumPrimaryArticles||!Number.isInteger(p.minimumNarrativeWords)||p.minimumNarrativeWords<1)invalid('Editorial coverage policy needs dated context, article counts and a meaningful reading minimum.');
+  else {
+   for(const c of editorialCoverage(e,Object.values(categories)))if(c.primary<p.minimumPrimaryArticles||c.primary>p.maximumPrimaryArticles)invalid(`Editorial coverage for ${c.id} needs ${p.minimumPrimaryArticles}–${p.maximumPrimaryArticles} dedicated articles; related reading does not replace them.`);
+   const titles=new Set();for(const a of e.articles){if(!a||!Array.isArray(a.sections))continue;const title=String(a.title).trim().toLowerCase();if(titles.has(title))invalid(`Editorial title is duplicated: ${a.id}.`);titles.add(title);if(editorialNarrativeWords(a)<p.minimumNarrativeWords)invalid(`Article ${a.id} is too brief for the editorial reading policy.`);}
+  }
  }
 }

@@ -11,7 +11,7 @@ test('new categories connect sourced exact packs, education, comparison and cost
  const s=await snapshot;assert.deepEqual(s.quality.errors,[]);
  for(const id of ['glutathione','melatonin','biotin','vitamin-c','vitamin-b','folic-acid']){
   const c=s.categories[id];assert.equal(c.measurement,'units');assert.ok(c.offers.length);
-  const result=searchCatalog(s,{q:id,category:id});assert.ok(result.products.length);assert.equal(result.guides.length,1);
+  const result=searchCatalog(s,{q:id,category:id});assert.ok(result.products.length);assert.equal(result.guides.filter(g=>!g.editorial).length,1);
   assert.ok(c.offers.some(r=>r.priceAudit.status==='verified'));
   for(const r of c.offers){
    assert.equal(r.trend.history.length,s.config.historyQuarters+1);
