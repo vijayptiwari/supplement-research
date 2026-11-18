@@ -5,6 +5,7 @@ import {renderMarketHome,marketGroup,categoryHero,categoryPrimer,categoryIcon,ca
 import {renderSearch} from './search.js';
 import {renderRecommender} from './recommender.js';
 import {renderResearch} from './research.js';
+import {renderArticles} from './articles.js';
 import {unitPack,unitFacets,unitMetrics,unitTable,unitGroups,unitHome,unitFormula,unitDetails} from './unit-catalog.js';
 import {watchData,dataStore} from './data-store.js';
 import {escapeHtml as esc,formatDate,rankedOffers,quickPick,stats,pageMetadata} from './model.js';
@@ -105,7 +106,7 @@ function onSnapshot(next){
  const previous=category&&categoryId?{...state(),sort:$('#sort').value,view}:null;snapshot=next;category=next.categories[categoryId];
  document.querySelectorAll('[data-site-name]').forEach(e=>e.textContent=next.config.name);
  const active=categoryId||new URLSearchParams(location.search).get('category');
- $('#navigation').innerHTML=`<a href="index.html" ${!categoryId&&!pageType?'aria-current="page"':''}>Home</a><a href="research.html" ${pageType==='research'?'aria-current="page"':''}>Learn about supplements</a><a href="search.html?kind=products" ${categoryId||pageType==='search'?'aria-current="page"':''}>Compare products</a><a href="recommender.html" ${pageType==='recommender'?'aria-current="page"':''}>Stack builder</a><a href="audit.html" ${pageType==='audit'?'aria-current="page"':''}>Sources &amp; data quality</a>`;
+ $('#navigation').innerHTML=`<a href="index.html" ${!categoryId&&!pageType?'aria-current="page"':''}>Home</a><a href="research.html" ${pageType==='research'?'aria-current="page"':''}>Learn about supplements</a><a href="articles.html" ${pageType==='articles'?'aria-current="page"':''}>Articles</a><a href="search.html?kind=products" ${categoryId||pageType==='search'?'aria-current="page"':''}>Compare products</a><a href="recommender.html" ${pageType==='recommender'?'aria-current="page"':''}>Stack builder</a><a href="audit.html" ${pageType==='audit'?'aria-current="page"':''}>Sources &amp; data quality</a>`;
  const categoryNav=$('#category-nav'),firstNavigation=!categoryNav.children.length;
  categoryNav.innerHTML=categoryGuideNavigation(next.config.categories,active);
  if(firstNavigation)requestAnimationFrame(()=>{const selectedLink=categoryNav.querySelector('[aria-current="page"]');if(selectedLink){const rail=categoryNav.getBoundingClientRect(),item=selectedLink.getBoundingClientRect();if(item.left<rail.left||item.right>rail.right)categoryNav.scrollLeft+=item.left-rail.left-(rail.width-item.width)/2;}});
@@ -116,10 +117,13 @@ function onSnapshot(next){
   formula(category.offers);buildFilters(previous||paramsState());renderCatalog();
  }else if(pageType==='recommender')renderRecommender(next);
  else if(pageType==='research')renderResearch(next);
+ else if(pageType==='articles')renderArticles(next);
  else if(pageType==='search')renderSearch(next);
  else if(pageType==='audit')renderAudit();
  else renderHome();
- const metadata=pageMetadata(next,pageType||categoryId);document.title=metadata.title;
+ const metadata=pageMetadata(next,pageType||categoryId),editorial=pageType==='articles'&&next.research.editorial?.articles.find(a=>a.id===new URLSearchParams(location.search).get('article'));
+ if(editorial){metadata.title=editorial.title+' · '+next.config.name;metadata.description=editorial.summary;metadata.structured={'@context':'https://schema.org','@type':'Article',headline:editorial.title,description:editorial.summary,dateModified:editorial.reviewed,author:{'@type':'Organization',name:editorial.author},url:next.config.baseUrl+'articles.html?article='+encodeURIComponent(editorial.id),citation:editorial.sourceIds.map(id=>next.research.sources.find(s=>s.id===id)?.url).filter(Boolean)};}
+ document.title=metadata.title;
  for(const [selector,value] of [['meta[name="description"]',metadata.description],['meta[property="og:description"]',metadata.description],['meta[property="og:title"]',metadata.title]]){const el=$(selector);if(el)el.content=value;}
  const structured=$('script[type="application/ld+json"]');if(structured)structured.textContent=JSON.stringify(metadata.structured);
  if(selected&&$('#evidence').open)renderOffer();updateComparison(next);

@@ -302,6 +302,46 @@
           }
         ],
         "reviewed": "2026-11-17"
+      },
+      "pathway": {
+        "title": "From dietary protein to tissue proteins",
+        "summary": "Protein is digested into smaller building blocks before tissues can use it. The powder itself does not travel intact to muscle.",
+        "tracks": [
+          {
+            "label": "Digestion, delivery and rebuilding",
+            "steps": [
+              {
+                "label": "Food proteins enter the stomach",
+                "detail": "Stomach acid and enzymes begin breaking down proteins from food or supplements.",
+                "compartment": "Stomach",
+                "icon": "digest"
+              },
+              {
+                "label": "Enzymes release smaller building blocks",
+                "detail": "Pancreatic and intestinal enzymes continue digestion into peptides and amino acids.",
+                "compartment": "Intestine",
+                "icon": "molecule"
+              },
+              {
+                "label": "Absorbed amino acids enter circulation",
+                "detail": "The intestinal lining absorbs the digested building blocks; blood distributes amino acids to tissues.",
+                "compartment": "Intestine / blood",
+                "icon": "blood"
+              },
+              {
+                "label": "Cells assemble their own proteins",
+                "detail": "Tissues use amino acids for ongoing protein turnover; resistance exercise stimulates muscle protein synthesis.",
+                "compartment": "Tissues / muscle",
+                "icon": "muscle"
+              }
+            ]
+          }
+        ],
+        "caveat": "This is normal protein metabolism. More powder does not guarantee more muscle when total intake and training already meet needs.",
+        "sourceIds": [
+          "digestion",
+          "exercise"
+        ]
       }
     },
     {
@@ -490,6 +530,63 @@
           }
         ],
         "reviewed": "2026-11-17"
+      },
+      "pathway": {
+        "title": "Creatine supplies a rechargeable phosphate buffer",
+        "summary": "Creatine reaches muscle through the blood. The creatine kinase system transfers phosphate between creatine and ATP as energy demand changes.",
+        "tracks": [
+          {
+            "label": "Delivery to the muscle pool",
+            "steps": [
+              {
+                "label": "Oral creatine reaches the intestine",
+                "detail": "Ingested creatine is absorbed rather than being digested like a whole dietary protein.",
+                "compartment": "Intestine",
+                "icon": "digest"
+              },
+              {
+                "label": "Circulation carries the absorbed creatine",
+                "detail": "Blood transports absorbed creatine to target tissues.",
+                "compartment": "Blood",
+                "icon": "blood"
+              },
+              {
+                "label": "Transporters bring creatine into muscle",
+                "detail": "Creatine transporters deliver creatine into cells, adding to the creatine and phosphocreatine pool.",
+                "compartment": "Muscle",
+                "icon": "muscle"
+              }
+            ]
+          },
+          {
+            "label": "The creatine kinase buffer",
+            "returnLabel": "ATP can recharge the creatine pool",
+            "steps": [
+              {
+                "label": "Creatine receives phosphate from ATP",
+                "detail": "Creatine kinase uses ATP to form phosphocreatine and ADP.",
+                "compartment": "Muscle cells",
+                "icon": "energy"
+              },
+              {
+                "label": "Phosphocreatine holds transferable phosphate",
+                "detail": "Phosphocreatine provides a rapidly available phosphate reserve within the cell.",
+                "compartment": "Muscle cells",
+                "icon": "molecule"
+              },
+              {
+                "label": "Phosphate transfer rapidly regenerates ATP",
+                "detail": "When demand rises, creatine kinase transfers phosphate to ADP, regenerating ATP and leaving creatine.",
+                "compartment": "Muscle cells",
+                "icon": "energy"
+              }
+            ]
+          }
+        ],
+        "caveat": "The buffer supports ATP availability during intense effort; it does not replace ongoing energy production or establish treatment benefits for cognitive disorders.",
+        "sourceIds": [
+          "creatine-position"
+        ]
       }
     },
     {
@@ -615,6 +712,39 @@
           }
         ],
         "reviewed": "2026-11-17"
+      },
+      "pathway": {
+        "title": "A plant mixture with an incomplete human pathway map",
+        "summary": "Ashwagandha contains multiple constituents. Human absorption, metabolites and contributions to reported effects are not mapped as one established pathway.",
+        "tracks": [
+          {
+            "label": "What is known and uncertain",
+            "steps": [
+              {
+                "label": "Preparations deliver different constituent mixtures",
+                "detail": "Root powders and root or leaf extracts contain differing withanolides and other plant compounds.",
+                "compartment": "Product",
+                "icon": "food"
+              },
+              {
+                "label": "Uptake and processing remain preparation dependent",
+                "detail": "A product's composition does not establish which constituents or metabolites reach a particular tissue in humans.",
+                "compartment": "Gut / liver",
+                "icon": "liver"
+              },
+              {
+                "label": "Multiple proposed actions remain under study",
+                "detail": "Preclinical mechanisms and small human trials do not establish a single causal route for every preparation or outcome.",
+                "compartment": "Tissues",
+                "icon": "signal"
+              }
+            ]
+          }
+        ],
+        "caveat": "This is an uncertainty map, not a proven cortisol-lowering or thyroid-treatment pathway. Withanolide percentage alone cannot predict efficacy or safety.",
+        "sourceIds": [
+          "ash-overview"
+        ]
       }
     },
     {
@@ -828,6 +958,45 @@
           }
         ],
         "reviewed": "2026-11-17"
+      },
+      "pathway": {
+        "title": "From oil digestion to EPA and DHA in tissues",
+        "summary": "EPA and DHA travel through normal fat digestion and lipoprotein transport before contributing to tissue lipids and signalling pathways.",
+        "tracks": [
+          {
+            "label": "Fat digestion and tissue delivery",
+            "steps": [
+              {
+                "label": "Digestion releases oil breakdown products",
+                "detail": "Intestinal digestion hydrolyses dietary oils into fatty acids and other absorbable lipid products.",
+                "compartment": "Intestine",
+                "icon": "digest"
+              },
+              {
+                "label": "Micelles deliver fats for absorption",
+                "detail": "Bile-containing micelles help lipid digestion products reach and enter intestinal cells.",
+                "compartment": "Intestine",
+                "icon": "molecule"
+              },
+              {
+                "label": "Chylomicrons enter lymph then blood",
+                "detail": "Intestinal cells package absorbed fats into chylomicrons, which reach the circulation through lymph.",
+                "compartment": "Lymph / blood",
+                "icon": "blood"
+              },
+              {
+                "label": "Tissues incorporate EPA and DHA",
+                "detail": "EPA and DHA enter tissue lipids; omega-3s contribute to membranes and the production of signalling molecules.",
+                "compartment": "Tissues",
+                "icon": "cell"
+              }
+            ]
+          }
+        ],
+        "caveat": "A membrane or signalling role does not prove that every fish-oil product prevents disease. EPA and DHA content matters more than total oil mass.",
+        "sourceIds": [
+          "omega-overview"
+        ]
       }
     },
     {
@@ -1091,6 +1260,45 @@
           }
         ],
         "reviewed": "2026-11-17"
+      },
+      "pathway": {
+        "title": "Vitamin D activation: intestine, liver and kidney",
+        "summary": "Food and supplements supply vitamin D; skin can also make it after UVB exposure. The main endocrine activation route then involves liver and kidney.",
+        "tracks": [
+          {
+            "label": "The main activation and signalling route",
+            "steps": [
+              {
+                "label": "Dietary vitamin D is absorbed",
+                "detail": "Vitamin D from food or supplements is absorbed in the intestine; the skin provides an additional source.",
+                "compartment": "Intestine / skin",
+                "icon": "digest"
+              },
+              {
+                "label": "Liver produces circulating 25(OH)D",
+                "detail": "Liver hydroxylation forms 25(OH)D, the principal circulating marker used to assess vitamin D status.",
+                "compartment": "Liver",
+                "icon": "liver"
+              },
+              {
+                "label": "Kidney forms the active hormone",
+                "detail": "A second hydroxylation, primarily in the kidney, produces 1,25(OH)₂D, also called calcitriol.",
+                "compartment": "Kidney",
+                "icon": "kidney"
+              },
+              {
+                "label": "Calcitriol regulates calcium and phosphate",
+                "detail": "Active vitamin D promotes intestinal calcium absorption and helps maintain mineral balance needed for bone.",
+                "compartment": "Intestine / bone",
+                "icon": "bone"
+              }
+            ]
+          }
+        ],
+        "caveat": "This simplified endocrine route does not show every tissue's vitamin D metabolism. Higher supplement doses do not necessarily improve outcomes and can cause harm.",
+        "sourceIds": [
+          "d-overview"
+        ]
       }
     },
     {
@@ -1406,6 +1614,39 @@
           }
         ],
         "reviewed": "2026-11-17"
+      },
+      "pathway": {
+        "title": "An absorbed mineral used by cellular enzymes",
+        "summary": "Magnesium supplies an essential ion for many reactions; it is not an energy source. Kidneys adjust urinary losses to help regulate its balance.",
+        "tracks": [
+          {
+            "label": "Absorption and cellular functions",
+            "steps": [
+              {
+                "label": "Compounds supply absorbable magnesium ions",
+                "detail": "Magnesium from foods and dissolved supplement compounds is absorbed by the intestine; the absorbed fraction varies.",
+                "compartment": "Intestine",
+                "icon": "digest"
+              },
+              {
+                "label": "Magnesium supports cellular enzyme systems",
+                "detail": "Magnesium acts as a cofactor in hundreds of enzyme systems, including those involved in glycolysis and protein synthesis.",
+                "compartment": "Cells",
+                "icon": "molecule"
+              },
+              {
+                "label": "Enzymes and ion transport support function",
+                "detail": "These roles contribute to energy metabolism, nerve signalling and muscle contraction.",
+                "compartment": "Cells / muscle",
+                "icon": "energy"
+              }
+            ]
+          }
+        ],
+        "caveat": "Normal biochemical roles do not establish extra performance or sleep benefits in everyone. Kidney impairment can reduce the ability to clear excess magnesium.",
+        "sourceIds": [
+          "mg-overview"
+        ]
       }
     },
     {
@@ -1929,6 +2170,87 @@
           }
         ],
         "reviewed": "2026-11-17"
+      },
+      "pathway": {
+        "title": "Three minerals follow separate routes",
+        "summary": "Zinc, magnesium and calcium are distinct ions with their own absorption and regulation. A combination tablet does not create a shared metabolic pathway.",
+        "tracks": [
+          {
+            "label": "Calcium: mineral balance and signalling",
+            "steps": [
+              {
+                "label": "Calcium is released and absorbed",
+                "detail": "Intestinal calcium absorption depends on the food or compound, dose and vitamin D status.",
+                "compartment": "Intestine",
+                "icon": "digest"
+              },
+              {
+                "label": "Circulating calcium is tightly regulated",
+                "detail": "The body controls a small circulating calcium pool while bone holds most calcium stores.",
+                "compartment": "Blood / bone",
+                "icon": "blood"
+              },
+              {
+                "label": "Calcium supports bone and signalling",
+                "detail": "Calcium provides bone structure and participates in muscle, nerve and other cellular signals.",
+                "compartment": "Bone / cells",
+                "icon": "bone"
+              }
+            ]
+          },
+          {
+            "label": "Magnesium: enzyme and ion functions",
+            "steps": [
+              {
+                "label": "Dissolved compounds supply magnesium ions",
+                "detail": "The intestine absorbs a proportion of dietary magnesium; compound and dose affect availability.",
+                "compartment": "Intestine",
+                "icon": "digest"
+              },
+              {
+                "label": "Cells use magnesium as a cofactor",
+                "detail": "Magnesium supports enzyme systems involved in energy metabolism and protein synthesis.",
+                "compartment": "Cells",
+                "icon": "molecule"
+              },
+              {
+                "label": "Enzymes and ion transport sustain function",
+                "detail": "Magnesium-dependent processes contribute to nerve signalling and muscle contraction.",
+                "compartment": "Cells / muscle",
+                "icon": "muscle"
+              }
+            ]
+          },
+          {
+            "label": "Zinc: enzyme and synthesis functions",
+            "steps": [
+              {
+                "label": "The intestine absorbs dietary zinc",
+                "detail": "The absorbed fraction varies with zinc intake and meal composition, including phytate content.",
+                "compartment": "Intestine",
+                "icon": "digest"
+              },
+              {
+                "label": "Zinc participates in cellular metabolism",
+                "detail": "Zinc is required for the catalytic activity of hundreds of enzymes.",
+                "compartment": "Cells",
+                "icon": "molecule"
+              },
+              {
+                "label": "Cellular processes use available zinc",
+                "detail": "Zinc contributes to protein and DNA synthesis, signalling and cell division.",
+                "compartment": "Cells",
+                "icon": "cell"
+              }
+            ]
+          }
+        ],
+        "caveat": "Parallel mineral roles do not demonstrate a special combined benefit. Compare each elemental amount and the person's need rather than the tablet's total mass.",
+        "sourceIds": [
+          "ca-overview",
+          "mg-overview",
+          "zn-overview"
+        ]
       }
     },
     {
@@ -1948,7 +2270,9 @@
         "gsh-skin-2026",
         "food-gsh-protein-healthcanada",
         "food-usda-sr28",
-        "supplement-quality-ods"
+        "supplement-quality-ods",
+        "gsh-reactome-peroxidase",
+        "gsh-reactome-reductase"
       ],
       "reviewed": "2026-11-18",
       "author": "Supplement Research editorial synthesis",
@@ -2137,6 +2461,90 @@
           }
         ],
         "reviewed": "2026-11-17"
+      },
+      "pathway": {
+        "title": "Oral glutathione, cellular synthesis and redox recycling",
+        "summary": "Swallowing glutathione is distinct from making it inside cells. Cells also continually recycle reduced glutathione after antioxidant reactions.",
+        "tracks": [
+          {
+            "label": "Oral delivery has additional uncertainties",
+            "steps": [
+              {
+                "label": "Oral glutathione enters the gut",
+                "detail": "A supplement supplies the tripeptide glutathione, made from glutamate, cysteine and glycine.",
+                "compartment": "Intestine",
+                "icon": "digest"
+              },
+              {
+                "label": "Gut enzymes process ingested glutathione",
+                "detail": "Intestinal enzymes can break down glutathione and recycle its components; intact delivery is not equivalent to label mass.",
+                "compartment": "Intestine",
+                "icon": "molecule"
+              },
+              {
+                "label": "Measured exposure depends on the preparation",
+                "detail": "Human studies report differing effects on glutathione stores; systemic delivery and clinical outcomes must be assessed separately.",
+                "compartment": "Blood / tissues",
+                "icon": "blood"
+              }
+            ]
+          },
+          {
+            "label": "Cells synthesise their own glutathione",
+            "steps": [
+              {
+                "label": "Glutamate and cysteine become available",
+                "detail": "Cells use amino-acid precursors; cysteine availability can limit glutathione synthesis.",
+                "compartment": "Cells",
+                "icon": "food"
+              },
+              {
+                "label": "Glutamate cysteine ligase joins two precursors",
+                "detail": "The first synthesis reaction forms γ-glutamylcysteine from glutamate and cysteine.",
+                "compartment": "Cell cytosol",
+                "icon": "molecule"
+              },
+              {
+                "label": "Glutathione synthetase adds the glycine",
+                "detail": "Adding glycine completes the glutathione tripeptide, GSH.",
+                "compartment": "Cell cytosol",
+                "icon": "cell"
+              }
+            ]
+          },
+          {
+            "label": "The glutathione redox cycle",
+            "returnLabel": "Reduced glutathione can be used again",
+            "steps": [
+              {
+                "label": "Reduced glutathione supplies reducing capacity",
+                "detail": "GSH participates in enzyme reactions that reduce peroxides.",
+                "compartment": "Cells",
+                "icon": "molecule"
+              },
+              {
+                "label": "Peroxidases form oxidised glutathione",
+                "detail": "Glutathione peroxidases use GSH to reduce peroxide, producing glutathione disulfide, GSSG.",
+                "compartment": "Cells",
+                "icon": "signal"
+              },
+              {
+                "label": "Reductase regenerates the reduced glutathione",
+                "detail": "Glutathione reductase uses NADPH to reduce GSSG back to GSH.",
+                "compartment": "Cell cytosol",
+                "icon": "energy"
+              }
+            ]
+          }
+        ],
+        "caveat": "An established cellular antioxidant cycle does not prove oral glutathione prevents disease, reverses ageing or produces a particular skin outcome.",
+        "sourceIds": [
+          "gsh-metabolism",
+          "gsh-stores",
+          "gsh-oxidative",
+          "gsh-reactome-peroxidase",
+          "gsh-reactome-reductase"
+        ]
       }
     },
     {
@@ -2337,6 +2745,47 @@
           }
         ],
         "reviewed": "2026-11-17"
+      },
+      "pathway": {
+        "title": "Oral melatonin adds to a timing signal",
+        "summary": "Natural melatonin signals biological night. An oral product must first be absorbed and pass through the liver before the remaining hormone reaches receptors.",
+        "tracks": [
+          {
+            "label": "Oral absorption, clearance and receptor signalling",
+            "steps": [
+              {
+                "label": "The oral formulation releases melatonin",
+                "detail": "Melatonin is absorbed after administration; release formulation affects the timing of exposure.",
+                "compartment": "Intestine",
+                "icon": "digest"
+              },
+              {
+                "label": "Liver processing reduces oral availability",
+                "detail": "Substantial first-pass hepatic metabolism means only part of an oral dose reaches systemic circulation unchanged.",
+                "compartment": "Liver",
+                "icon": "liver"
+              },
+              {
+                "label": "Remaining melatonin reaches the circulation",
+                "detail": "Circulating exposure depends on absorption, metabolism and the product's release characteristics.",
+                "compartment": "Blood",
+                "icon": "blood"
+              },
+              {
+                "label": "Melatonin receptors receive the timing signal",
+                "detail": "Melatonin acts at MT1 and MT2 receptors involved in biological timing and sleep-related responses.",
+                "compartment": "Brain / tissues",
+                "icon": "brain"
+              }
+            ]
+          }
+        ],
+        "caveat": "Receptor activity does not mean a higher dose gives better sleep. Timing, the sleep problem and other medicines change how the product should be assessed.",
+        "sourceIds": [
+          "melatonin-overview",
+          "melatonin-metabolism",
+          "melatonin-physiology"
+        ]
       }
     },
     {
@@ -2575,6 +3024,39 @@
           }
         ],
         "reviewed": "2026-11-17"
+      },
+      "pathway": {
+        "title": "Biotin becomes a cofactor for carboxylases",
+        "summary": "Biotin supports enzymes that handle carbon-containing substrates in fat, glucose and amino-acid metabolism. It is not a direct hair-growth signal.",
+        "tracks": [
+          {
+            "label": "Release, absorption and enzyme use",
+            "steps": [
+              {
+                "label": "Digestion releases protein bound biotin",
+                "detail": "Proteases release biotin-containing fragments from food proteins; free supplement biotin does not need this same release step.",
+                "compartment": "Intestine",
+                "icon": "digest"
+              },
+              {
+                "label": "Biotinidase frees biotin for absorption",
+                "detail": "Biotinidase processes bound fragments to free biotin, which is absorbed in the small intestine.",
+                "compartment": "Intestine",
+                "icon": "molecule"
+              },
+              {
+                "label": "Five carboxylases use biotin cofactors",
+                "detail": "Biotin-dependent carboxylases catalyse important steps in fatty-acid, glucose and amino-acid metabolism.",
+                "compartment": "Cells",
+                "icon": "cell"
+              }
+            ]
+          }
+        ],
+        "caveat": "A necessary enzyme cofactor does not imply that high-dose biotin improves hair or nails when intake is adequate. Supplements can interfere with laboratory tests.",
+        "sourceIds": [
+          "biotin-overview"
+        ]
       }
     },
     {
@@ -2856,6 +3338,39 @@
           }
         ],
         "reviewed": "2026-11-17"
+      },
+      "pathway": {
+        "title": "Controlled vitamin C delivery supports tissue chemistry",
+        "summary": "Intestinal uptake and kidney handling limit vitamin C exposure. Tissue ascorbate supports biosynthetic enzymes and antioxidant chemistry.",
+        "tracks": [
+          {
+            "label": "Absorption, tissue supply and cellular use",
+            "steps": [
+              {
+                "label": "The intestine absorbs dietary vitamin C",
+                "detail": "Vitamin C is absorbed from food and supplements; the fraction absorbed falls as oral doses rise.",
+                "compartment": "Intestine",
+                "icon": "digest"
+              },
+              {
+                "label": "Blood and tissues maintain controlled concentrations",
+                "detail": "The body regulates circulating and tissue vitamin C; absorbed vitamin not retained can leave through urine.",
+                "compartment": "Blood / kidney",
+                "icon": "kidney"
+              },
+              {
+                "label": "Ascorbate supports enzymes and redox reactions",
+                "detail": "Tissue vitamin C supports collagen biosynthesis and acts in antioxidant reactions.",
+                "compartment": "Cells / connective tissue",
+                "icon": "cell"
+              }
+            ]
+          }
+        ],
+        "caveat": "These physiological roles do not establish that megadoses prevent illness or improve performance. Oral dose is not the same as tissue exposure.",
+        "sourceIds": [
+          "c-overview"
+        ]
       }
     },
     {
@@ -3399,6 +3914,87 @@
           }
         ],
         "reviewed": "2026-11-17"
+      },
+      "pathway": {
+        "title": "The B family has several distinct coenzyme routes",
+        "summary": "These are three representative routes, not a single B-complex pathway. The eight B vitamins have different roles, absorption patterns and requirements.",
+        "tracks": [
+          {
+            "label": "B1: thiamin and metabolic enzymes",
+            "steps": [
+              {
+                "label": "The intestine absorbs free thiamin",
+                "detail": "Food thiamin is released from phosphorylated forms before absorption; supplements also supply absorbable thiamin.",
+                "compartment": "Intestine",
+                "icon": "digest"
+              },
+              {
+                "label": "Cells form the active diphosphate",
+                "detail": "Thiamin diphosphate, also called TDP or TPP, is the main metabolically active form.",
+                "compartment": "Cells",
+                "icon": "molecule"
+              },
+              {
+                "label": "TDP supports metabolic enzyme reactions",
+                "detail": "TDP is a cofactor for enzymes involved in glucose, amino-acid and lipid metabolism.",
+                "compartment": "Cells",
+                "icon": "energy"
+              }
+            ]
+          },
+          {
+            "label": "B3: niacin and redox coenzymes",
+            "steps": [
+              {
+                "label": "Niacin from intake becomes available",
+                "detail": "Dietary niacin forms supply a precursor for cellular coenzymes.",
+                "compartment": "Intestine / blood",
+                "icon": "blood"
+              },
+              {
+                "label": "Cells form NAD and NADP",
+                "detail": "Absorbed niacin is converted into NAD and its phosphorylated coenzyme form, NADP.",
+                "compartment": "Cells",
+                "icon": "molecule"
+              },
+              {
+                "label": "Coenzymes participate in metabolic reactions",
+                "detail": "Niacin-derived coenzymes support redox reactions in energy metabolism and biosynthesis.",
+                "compartment": "Cells",
+                "icon": "energy"
+              }
+            ]
+          },
+          {
+            "label": "B12: absorption and enzyme cofactors",
+            "steps": [
+              {
+                "label": "Digestion frees food bound B12",
+                "detail": "Digestive processing releases B12 from food proteins; B12 added to supplements starts in a free form.",
+                "compartment": "Stomach / intestine",
+                "icon": "digest"
+              },
+              {
+                "label": "Intrinsic factor enables the main uptake",
+                "detail": "B12 binds intrinsic factor and the complex is absorbed in the distal ileum.",
+                "compartment": "Intestine",
+                "icon": "molecule"
+              },
+              {
+                "label": "B12 serves two enzyme systems",
+                "detail": "B12 supports methionine synthase and methylmalonyl-CoA mutase, with roles in normal cellular metabolism.",
+                "compartment": "Cells",
+                "icon": "cell"
+              }
+            ]
+          }
+        ],
+        "caveat": "B vitamins help use nutrients; they are not calories or a guaranteed energy boost. This representative map does not replace assessing each vitamin separately.",
+        "sourceIds": [
+          "b1-overview",
+          "b3-overview",
+          "b12-overview"
+        ]
       }
     },
     {
@@ -3654,6 +4250,63 @@
           }
         ],
         "reviewed": "2026-11-17"
+      },
+      "pathway": {
+        "title": "Folate coenzymes carry one-carbon units",
+        "summary": "Food folate, folic acid and 5-MTHF enter processing differently. Folate coenzymes then serve related, parallel reactions in DNA and amino-acid metabolism.",
+        "tracks": [
+          {
+            "label": "Folate processing and DNA synthesis",
+            "steps": [
+              {
+                "label": "Processing supplies usable folate coenzyme forms",
+                "detail": "Food folates need digestion before absorption; folic acid requires reduction to enter the folate coenzyme pool.",
+                "compartment": "Intestine / cells",
+                "icon": "digest"
+              },
+              {
+                "label": "Folate derivatives carry one carbon units",
+                "detail": "Tetrahydrofolate derivatives transfer single-carbon groups between metabolic reactions.",
+                "compartment": "Cells",
+                "icon": "molecule"
+              },
+              {
+                "label": "Folate reactions supply DNA building blocks",
+                "detail": "Folate-dependent thymidylate formation provides a DNA building block needed for cell division.",
+                "compartment": "Cells",
+                "icon": "cell"
+              }
+            ]
+          },
+          {
+            "label": "The B12-dependent methionine connection",
+            "steps": [
+              {
+                "label": "Methylfolate supplies a transferable methyl group",
+                "detail": "5-MTHF participates in the reaction that converts homocysteine to methionine.",
+                "compartment": "Cells",
+                "icon": "molecule"
+              },
+              {
+                "label": "Methionine synthase also requires B12",
+                "detail": "B12-dependent methionine synthase links folate metabolism with homocysteine conversion.",
+                "compartment": "Cells",
+                "icon": "cell"
+              },
+              {
+                "label": "Methionine supports the methyl donor pool",
+                "detail": "Methionine is used to make S-adenosylmethionine, or SAM, an important methyl donor.",
+                "compartment": "Cells",
+                "icon": "signal"
+              }
+            ]
+          }
+        ],
+        "caveat": "Normal one-carbon metabolism does not prove that extra folate treats unrelated disease. Different folate forms, B12 status and the clinical context matter.",
+        "sourceIds": [
+          "folate-overview",
+          "b12-overview"
+        ]
       }
     },
     {
@@ -3874,6 +4527,39 @@
           }
         ],
         "reviewed": "2026-11-17"
+      },
+      "pathway": {
+        "title": "Arginine and nitric-oxide signalling",
+        "summary": "Arginine is an amino-acid building block and a substrate for nitric-oxide production. A normal pathway does not establish that taking extra arginine improves it.",
+        "tracks": [
+          {
+            "label": "One route from arginine",
+            "steps": [
+              {
+                "label": "Arginine enters the available pool",
+                "detail": "Food, body synthesis and absorbed supplements contribute arginine to the amino-acid supply used by tissues.",
+                "compartment": "Blood",
+                "icon": "blood"
+              },
+              {
+                "label": "Cells produce nitric oxide",
+                "detail": "Some arginine is used to make nitric oxide, a short-lived signalling molecule; other arginine enters different metabolic pathways.",
+                "compartment": "Cells",
+                "icon": "molecule"
+              },
+              {
+                "label": "Nitric oxide signals blood vessels",
+                "detail": "This signal participates in normal vessel relaxation and blood-flow regulation.",
+                "compartment": "Blood vessels",
+                "icon": "signal"
+              }
+            ]
+          }
+        ],
+        "caveat": "Extra oral arginine does not reliably increase nitric oxide, muscle blood flow or exercise performance. This diagram shows normal physiology, not a guaranteed supplement response.",
+        "sourceIds": [
+          "exercise"
+        ]
       }
     },
     {
@@ -4096,6 +4782,46 @@
           }
         ],
         "reviewed": "2026-11-17"
+      },
+      "pathway": {
+        "title": "The mitochondrial carnitine shuttle",
+        "summary": "Carnitine carries long-chain fatty-acid groups across the inner mitochondrial membrane. It is a transport system within energy metabolism.",
+        "tracks": [
+          {
+            "label": "Long-chain fatty-acid transport inside cells",
+            "steps": [
+              {
+                "label": "Fatty acids attach to CoA",
+                "detail": "Activated long-chain fatty acids are present as fatty acyl-CoA outside the inner mitochondrial membrane.",
+                "compartment": "Cells",
+                "icon": "molecule"
+              },
+              {
+                "label": "CPT1 transfers the acyl group",
+                "detail": "Carnitine receives the fatty-acid group, producing acylcarnitine for the shuttle.",
+                "compartment": "Mitochondrial membrane",
+                "icon": "cell"
+              },
+              {
+                "label": "Acylcarnitine crosses the inner membrane",
+                "detail": "A transporter moves acylcarnitine into the mitochondrial matrix while exchanging free carnitine.",
+                "compartment": "Mitochondrial membrane",
+                "icon": "signal"
+              },
+              {
+                "label": "CPT2 restores fatty acyl-CoA",
+                "detail": "The fatty-acid group returns to CoA for beta-oxidation; carnitine is released for reuse.",
+                "compartment": "Mitochondria",
+                "icon": "energy"
+              }
+            ]
+          }
+        ],
+        "caveat": "Absorbing supplemental carnitine does not guarantee more carnitine in muscle or faster fat oxidation. This transport role does not mean a product causes weight loss.",
+        "sourceIds": [
+          "carnitine-physiology",
+          "carnitine-overview"
+        ]
       }
     },
     {
@@ -4314,6 +5040,40 @@
           }
         ],
         "reviewed": "2026-11-17"
+      },
+      "pathway": {
+        "title": "A leucine signal still needs building blocks",
+        "summary": "BCAA provides leucine, isoleucine and valine. Leucine can help signal protein synthesis, but muscle needs the full essential-amino-acid supply to build protein.",
+        "tracks": [
+          {
+            "label": "Signalling and the substrate requirement",
+            "steps": [
+              {
+                "label": "Three essential amino acids arrive",
+                "detail": "Absorbed leucine, isoleucine and valine enter the available amino-acid pool.",
+                "compartment": "Blood",
+                "icon": "blood"
+              },
+              {
+                "label": "Leucine helps activate nutrient signalling",
+                "detail": "Leucine availability can activate mTORC1-related signalling involved in starting muscle-protein synthesis.",
+                "compartment": "Muscle",
+                "icon": "signal"
+              },
+              {
+                "label": "Protein assembly requires every EAA",
+                "detail": "The signal cannot supply the other six essential amino acids. Protein synthesis also depends on their availability.",
+                "compartment": "Muscle",
+                "icon": "molecule"
+              }
+            ]
+          }
+        ],
+        "caveat": "Acute signalling and a short-lived synthesis response do not establish greater long-term muscle growth. Complete protein or a complete EAA mixture supplies the broader substrate set.",
+        "sourceIds": [
+          "bcaa-review",
+          "eaa-position"
+        ]
       }
     },
     {
@@ -4535,6 +5295,46 @@
           }
         ],
         "reviewed": "2026-11-17"
+      },
+      "pathway": {
+        "title": "Essential amino acids supply the complete set",
+        "summary": "The body cannot make the nine essential amino acids in sufficient amounts. They provide both nutrient signals and indispensable material for new proteins.",
+        "tracks": [
+          {
+            "label": "From available amino acids to protein",
+            "steps": [
+              {
+                "label": "Nine essential amino acids become available",
+                "detail": "Digested dietary protein releases amino acids. A free-form EAA mixture supplies them without first breaking down an intact protein.",
+                "compartment": "Intestine",
+                "icon": "digest"
+              },
+              {
+                "label": "Amino acids reach working tissues",
+                "detail": "Absorbed amino acids circulate to tissues, including muscle, and contribute to their available amino-acid pools.",
+                "compartment": "Blood",
+                "icon": "blood"
+              },
+              {
+                "label": "Nutrient signals regulate protein synthesis",
+                "detail": "Essential amino acids, including leucine, influence signalling that regulates the start of protein production.",
+                "compartment": "Muscle",
+                "icon": "signal"
+              },
+              {
+                "label": "Cells assemble new protein chains",
+                "detail": "Protein synthesis requires all essential amino acids alongside other amino acids; adequate energy and training context also matter.",
+                "compartment": "Muscle",
+                "icon": "molecule"
+              }
+            ]
+          }
+        ],
+        "caveat": "A complete EAA mixture can support protein synthesis, but an acute laboratory response does not prove extra benefit when total dietary protein is already adequate.",
+        "sourceIds": [
+          "digestion",
+          "eaa-position"
+        ]
       }
     },
     {
@@ -4723,6 +5523,64 @@
           }
         ],
         "reviewed": "2026-11-17"
+      },
+      "pathway": {
+        "title": "A blend has separate ingredient pathways",
+        "summary": "These are conditional examples. Use a track only when the product actually contains that ingredient; the formula and disclosed dose determine which mechanisms are relevant.",
+        "tracks": [
+          {
+            "label": "If the formula contains caffeine",
+            "steps": [
+              {
+                "label": "Caffeine reaches the nervous system",
+                "detail": "After absorption, caffeine can enter the brain; the exposure depends on dose and individual metabolism.",
+                "compartment": "Brain",
+                "icon": "brain"
+              },
+              {
+                "label": "Caffeine blocks adenosine receptor signalling",
+                "detail": "Caffeine acts as an adenosine-receptor antagonist, reducing some of adenosine's inhibitory signalling.",
+                "compartment": "Brain",
+                "icon": "signal"
+              },
+              {
+                "label": "Alertness and perceived effort change",
+                "detail": "Central effects can influence alertness and effort perception; performance response and unwanted stimulation vary between people.",
+                "compartment": "Nervous system",
+                "icon": "brain"
+              }
+            ]
+          },
+          {
+            "label": "If the formula contains creatine",
+            "steps": [
+              {
+                "label": "Muscle stores receive available creatine",
+                "detail": "Repeated adequate intake can increase muscle creatine stores; this is not simply an immediate stimulant effect.",
+                "compartment": "Muscle",
+                "icon": "muscle"
+              },
+              {
+                "label": "Creatine kinase builds phosphocreatine reserves",
+                "detail": "Creatine can receive a phosphate from ATP, creating phosphocreatine as part of a reversible energy-transfer system.",
+                "compartment": "Muscle",
+                "icon": "molecule"
+              },
+              {
+                "label": "Phosphocreatine helps regenerate working ATP",
+                "detail": "When energy demand rises, phosphate transfer to ADP helps maintain ATP availability during brief, intense effort.",
+                "compartment": "Muscle",
+                "icon": "energy"
+              }
+            ]
+          }
+        ],
+        "caveat": "No single pathway describes every pre-workout. Undisclosed or inadequate ingredient amounts cannot be judged from the blend name, stimulation or tingling.",
+        "sourceIds": [
+          "preworkout-review",
+          "caffeine-position",
+          "creatine-position"
+        ]
       }
     },
     {
@@ -4888,6 +5746,46 @@
           }
         ],
         "reviewed": "2026-11-17"
+      },
+      "pathway": {
+        "title": "Citrulline supplies arginine through the kidneys",
+        "summary": "Citrulline can raise the supply of arginine, which is used in nitric-oxide signalling. Citrulline malate also contains malate; its total mass is not all L-citrulline.",
+        "tracks": [
+          {
+            "label": "The citrulline to arginine route",
+            "steps": [
+              {
+                "label": "Absorbed citrulline enters the circulation",
+                "detail": "Oral L-citrulline is absorbed and becomes available for tissue metabolism.",
+                "compartment": "Intestine",
+                "icon": "digest"
+              },
+              {
+                "label": "Kidneys convert citrulline into arginine",
+                "detail": "Renal metabolism converts circulating citrulline into arginine and releases arginine into the blood.",
+                "compartment": "Kidney",
+                "icon": "kidney"
+              },
+              {
+                "label": "Arginine supplies nitric-oxide production",
+                "detail": "Cells can use arginine as a substrate for nitric-oxide synthesis.",
+                "compartment": "Cells",
+                "icon": "molecule"
+              },
+              {
+                "label": "Nitric oxide participates in vascular signalling",
+                "detail": "Nitric oxide helps regulate blood-vessel relaxation. A change in this pathway is not itself a performance result.",
+                "compartment": "Blood vessels",
+                "icon": "signal"
+              }
+            ]
+          }
+        ],
+        "caveat": "Malate is a separate metabolic component; this diagram does not establish an added malate benefit. Higher blood arginine does not guarantee better strength, recovery or endurance.",
+        "sourceIds": [
+          "citrulline-critical",
+          "exercise"
+        ]
       }
     },
     {
@@ -5073,6 +5971,40 @@
           }
         ],
         "reviewed": "2026-11-17"
+      },
+      "pathway": {
+        "title": "Beta-alanine builds the muscle carnosine buffer",
+        "summary": "Beta-alanine combines with histidine to make carnosine. Repeated intake can raise muscle carnosine, which helps buffer hydrogen ions inside muscle cells.",
+        "tracks": [
+          {
+            "label": "Building a buffer over time",
+            "steps": [
+              {
+                "label": "Beta-alanine becomes available to muscle",
+                "detail": "Absorbed beta-alanine supplies a precursor that can limit the rate of muscle carnosine synthesis.",
+                "compartment": "Muscle",
+                "icon": "muscle"
+              },
+              {
+                "label": "Histidine and beta-alanine form carnosine",
+                "detail": "Carnosine synthetase joins the two amino acids; muscle carnosine rises with sustained, adequate beta-alanine exposure.",
+                "compartment": "Muscle",
+                "icon": "molecule"
+              },
+              {
+                "label": "Carnosine buffers intracellular hydrogen ions",
+                "detail": "This buffering contributes to pH regulation during intense exercise as hydrogen ions accumulate.",
+                "compartment": "Muscle",
+                "icon": "energy"
+              }
+            ]
+          }
+        ],
+        "caveat": "Tingling is a separate sensory side effect, not proof of carnosine loading or effectiveness. The pathway does not imply a benefit for every exercise duration.",
+        "sourceIds": [
+          "beta-alanine-position",
+          "beta-alanine-safety"
+        ]
       }
     },
     {
@@ -5090,7 +6022,8 @@
         "caffeine-position",
         "preworkout-review",
         "food-performance-bioactives",
-        "supplement-quality-ods"
+        "supplement-quality-ods",
+        "taurine-volume"
       ],
       "reviewed": "2026-11-18",
       "author": "Supplement Research editorial synthesis",
@@ -5237,6 +6170,64 @@
           }
         ],
         "reviewed": "2026-11-17"
+      },
+      "pathway": {
+        "title": "Taurine participates in cellular regulation",
+        "summary": "Taurine is involved in cell-volume regulation and is studied in calcium handling. These roles differ from caffeine's stimulant action.",
+        "tracks": [
+          {
+            "label": "Cellular taurine and osmotic balance",
+            "steps": [
+              {
+                "label": "Transporters regulate cellular taurine uptake",
+                "detail": "Cells regulate taurine entry through specific transport systems; tissue levels are controlled rather than simply matching a product's dose.",
+                "compartment": "Cells",
+                "icon": "cell"
+              },
+              {
+                "label": "Taurine contributes to the osmolyte pool",
+                "detail": "As an organic osmolyte, taurine is part of the solute balance involved in cellular water movement.",
+                "compartment": "Cells",
+                "icon": "molecule"
+              },
+              {
+                "label": "Volume changes alter taurine movement",
+                "detail": "Cell swelling can increase taurine release and reduce uptake, contributing to adjustment of cell volume.",
+                "compartment": "Cell membrane",
+                "icon": "signal"
+              }
+            ]
+          },
+          {
+            "label": "Proposed roles in muscle calcium handling",
+            "steps": [
+              {
+                "label": "Muscle cells contain taurine pools",
+                "detail": "Taurine is present in muscle; oral uptake does not establish that every proposed cellular effect increases in humans.",
+                "compartment": "Muscle",
+                "icon": "muscle"
+              },
+              {
+                "label": "Experiments examine calcium storage and release",
+                "detail": "Models suggest interactions with sarcoplasmic-reticulum calcium handling, which participates in muscle excitation and contraction.",
+                "compartment": "Muscle",
+                "icon": "cell"
+              },
+              {
+                "label": "Calcium participates in muscle contraction",
+                "detail": "Calcium release contributes to normal excitation-contraction coupling. Proposed taurine effects on this process are mainly preclinical.",
+                "compartment": "Muscle",
+                "icon": "signal"
+              }
+            ]
+          }
+        ],
+        "caveat": "Cell-volume mechanisms and animal calcium studies are not proof of better hydration, strength or recovery in people. Taurine is not interchangeable with caffeine.",
+        "sourceIds": [
+          "taurine-volume",
+          "taurine-exercise",
+          "caffeine-position"
+        ]
       }
     },
     {
@@ -5256,7 +6247,8 @@
         "betaine-medical",
         "food-performance-betaine",
         "food-usda-sr28",
-        "supplement-quality-ods"
+        "supplement-quality-ods",
+        "betaine-bhmt"
       ],
       "reviewed": "2026-11-18",
       "author": "Supplement Research editorial synthesis",
@@ -5435,6 +6427,65 @@
           }
         ],
         "reviewed": "2026-11-17"
+      },
+      "pathway": {
+        "title": "Betaine TMG and betaine HCl have different roles",
+        "summary": "Anhydrous betaine, also called TMG, can donate a methyl group in homocysteine metabolism. Betaine hydrochloride is a different formulation studied for temporary stomach acidification.",
+        "tracks": [
+          {
+            "label": "TMG in one-carbon metabolism",
+            "steps": [
+              {
+                "label": "Cells receive available anhydrous betaine",
+                "detail": "Food, body metabolism and absorbed TMG contribute to the betaine supply.",
+                "compartment": "Liver",
+                "icon": "liver"
+              },
+              {
+                "label": "Betaine donates a methyl group",
+                "detail": "Betaine-homocysteine methyltransferase, present in liver and kidney cells, transfers a methyl group from betaine to homocysteine.",
+                "compartment": "Liver and kidney",
+                "icon": "molecule"
+              },
+              {
+                "label": "Homocysteine is converted into methionine",
+                "detail": "This reaction produces methionine and dimethylglycine. Its normal biochemical role does not establish an exercise benefit from extra TMG.",
+                "compartment": "Liver and kidney",
+                "icon": "signal"
+              }
+            ]
+          },
+          {
+            "label": "HCl formulation: a separate gastric effect",
+            "steps": [
+              {
+                "label": "Betaine hydrochloride reaches the stomach",
+                "detail": "This acid-containing formulation should not be treated as equivalent to the anhydrous TMG used in exercise research.",
+                "compartment": "Stomach",
+                "icon": "digest"
+              },
+              {
+                "label": "The formulation increases gastric acidity",
+                "detail": "A small experiment gave betaine HCl after medication had suppressed stomach acid in healthy volunteers.",
+                "compartment": "Stomach",
+                "icon": "molecule"
+              },
+              {
+                "label": "Gastric pH falls temporarily",
+                "detail": "The trial measured a short-lived pH reduction, not lasting improvements in digestion, nutrient status or exercise performance.",
+                "compartment": "Stomach",
+                "icon": "signal"
+              }
+            ]
+          }
+        ],
+        "caveat": "Specialist betaine treatment for homocystinuria is a separate medical context. TMG workout claims and betaine HCl digestive claims require their own human outcome evidence.",
+        "sourceIds": [
+          "betaine-medical",
+          "betaine-bhmt",
+          "betaine-hcl-trial",
+          "exercise"
+        ]
       }
     },
     {
@@ -5653,6 +6704,64 @@
           }
         ],
         "reviewed": "2026-11-17"
+      },
+      "pathway": {
+        "title": "HMB is a small branch of leucine metabolism",
+        "summary": "The body makes some HMB from leucine. Supplemental HMB supplies this metabolite directly, while research examines its effects on muscle-protein turnover.",
+        "tracks": [
+          {
+            "label": "Natural formation from leucine",
+            "steps": [
+              {
+                "label": "Leucine enters amino-acid metabolism",
+                "detail": "Dietary leucine is used in protein metabolism and can also undergo transamination outside the liver.",
+                "compartment": "Cells",
+                "icon": "molecule"
+              },
+              {
+                "label": "Leucine becomes the intermediate KIC",
+                "detail": "Transamination produces alpha-ketoisocaproate, usually abbreviated KIC.",
+                "compartment": "Cells",
+                "icon": "cell"
+              },
+              {
+                "label": "A small branch forms HMB",
+                "detail": "Only a small fraction of leucine metabolism proceeds through KIC to HMB; most KIC follows other metabolic routes.",
+                "compartment": "Cells",
+                "icon": "molecule"
+              }
+            ]
+          },
+          {
+            "label": "Supplemental HMB bypasses leucine conversion",
+            "steps": [
+              {
+                "label": "HMB arrives in different formulations",
+                "detail": "Calcium HMB and free-acid HMB supply HMB directly rather than relying on conversion from dietary leucine.",
+                "compartment": "Intestine",
+                "icon": "digest"
+              },
+              {
+                "label": "Absorbed HMB becomes systemically available",
+                "detail": "The formulations have different absorption profiles; faster appearance alone does not prove better long-term muscle outcomes.",
+                "compartment": "Blood",
+                "icon": "blood"
+              },
+              {
+                "label": "Studies examine muscle protein turnover",
+                "detail": "Proposed pathways involve protein-synthesis signalling and protein breakdown. Their contribution to meaningful clinical or training outcomes remains context dependent.",
+                "compartment": "Muscle",
+                "icon": "signal"
+              }
+            ]
+          }
+        ],
+        "caveat": "Formation of HMB and short-term protein-turnover effects do not guarantee greater muscle mass or strength. Evidence differs by population, diet and training status.",
+        "sourceIds": [
+          "hmb-position",
+          "hmb-young-meta",
+          "hmb-older-meta"
+        ]
       }
     }
   ],
@@ -6536,6 +7645,386 @@
       "checked": "2026-11-18",
       "summary": "Explains labels, third-party quality testing and the distinction between composition checks and clinical safety or effectiveness.",
       "limitations": "US consumer guidance; this does not certify any Indian catalog product or establish batch-specific testing."
+    },
+    {
+      "id": "gsh-reactome-peroxidase",
+      "title": "Reactome: Human glutathione peroxidase reaction",
+      "url": "https://reactome.org/content/detail/R-HSA-3341277",
+      "kind": "Curated biochemical pathway",
+      "summary": "Curated human GPX2 reaction showing reduced glutathione consumption during peroxide reduction and formation of oxidised glutathione; includes underlying experimental references.",
+      "limitations": "A biochemical reaction annotation, not evidence that oral glutathione products improve clinical outcomes. The selected record describes GPX2; related glutathione peroxidases have distinct locations and substrates.",
+      "year": null,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "gsh-reactome-reductase",
+      "title": "Reactome: Human glutathione reductase and NADPH recycling",
+      "url": "https://www.reactome.org/content/detail/R-HSA-71682",
+      "kind": "Curated biochemical pathway",
+      "summary": "Curated human cytosolic reaction showing glutathione reductase using NADPH to convert oxidised glutathione into reduced glutathione; includes underlying experimental references.",
+      "limitations": "A cellular recycling reaction, not a measure of oral bioavailability, product quality or supplementation benefit.",
+      "year": null,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "taurine-volume",
+      "title": "Lambert: Taurine transport and cellular volume regulation",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14992263/",
+      "kind": "Mechanistic review",
+      "summary": "Describes taurine as an organic osmolyte and the regulation of cellular taurine uptake and release during osmotic volume changes.",
+      "limitations": "Mechanistic synthesis involving cell models; it does not establish that an oral taurine product improves hydration, exercise performance or health outcomes in humans.",
+      "year": 2004,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "betaine-bhmt",
+      "title": "Breksa and Garrow: Human betaine-homocysteine methyltransferase",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10529246/",
+      "kind": "Mechanistic study",
+      "summary": "Describes the human enzyme that transfers a methyl group from betaine to homocysteine, forming dimethylglycine and methionine, and its expression in liver and kidney.",
+      "limitations": "A biochemical study using recombinant human enzyme, not a supplementation trial. The mechanism does not establish a benefit from extra betaine or justify independent treatment of a medical condition.",
+      "year": 1999,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "protein-kidney-antonio-2016",
+      "title": "Antonio et al.: One-year higher-protein crossover study in trained men",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27807480/",
+      "kind": "Randomized crossover study",
+      "summary": "A small study alternating habitual and higher-protein dietary periods reported no adverse changes in measured kidney, liver or lipid markers in resistance-trained men.",
+      "limitations": "Fourteen men completed the study. Routine blood markers, a selected healthy population and a limited follow-up cannot establish lifetime safety, safety in kidney disease or safety at any possible intake.",
+      "year": 2016,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "protein-plant-diet-hevia-2021",
+      "title": "Hevia-Larrain et al.: Protein-matched vegan and omnivorous diets during training",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33599941/",
+      "kind": "Human controlled training study",
+      "summary": "Habitual vegans and omnivores completed supervised resistance training while protein intake was matched using soy or whey supplementation. Both groups improved with no detected between-group differences in measured muscle and strength outcomes.",
+      "limitations": "Thirty-eight untrained young men; participants were already vegan or omnivorous rather than randomly assigned to those diets. The result concerns adequate total intake and these diets, not every isolated serving or product.",
+      "year": 2021,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "protein-amino-acids-gorissen-2018",
+      "title": "Gorissen et al.: Amino-acid composition of commercial protein ingredients",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30167963/",
+      "kind": "Laboratory composition study",
+      "summary": "Measured amino-acid composition across plant and animal protein ingredients, finding important differences among sources and within the plant category.",
+      "limitations": "A composition analysis, not a digestibility or long-term training trial. Tryptophan was not measured. Tested ingredients cannot certify all finished products or every later batch.",
+      "year": 2018,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "protein-100g-trommelen-2023",
+      "title": "Trommelen et al.: Larger protein feeding and prolonged post-exercise response",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38118410/",
+      "kind": "Human tracer study",
+      "summary": "In young men studied after exercise, a 100-gram milk-protein feeding produced a larger and more prolonged anabolic response than 25 grams during a 12-hour observation period.",
+      "limitations": "An acute study with specific amounts, protein and participants; it does not establish an unlimited response, optimal meal distribution, long-term superiority or an individual serving recommendation. Read the disclosed dairy-industry relationships.",
+      "year": 2023,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "protein-timing-schoenfeld-2017",
+      "title": "Schoenfeld et al.: Protein immediately before versus after resistance training",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28070459/",
+      "kind": "Randomized training trial",
+      "summary": "Twenty-one trained men took an equal protein supplement before or after resistance training for ten weeks, with similar measured changes in strength, hypertrophy and body composition.",
+      "limitations": "Small trial with no unsupplemented comparison. It challenges a narrow timing rule but cannot prove timing never matters across meal patterns, ages or clinical circumstances. The paper has a published correction.",
+      "year": 2017,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "protein-egg-cooking-evenepoel-1998",
+      "title": "Evenepoel et al.: Human digestibility of cooked versus raw egg protein",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9772141/",
+      "kind": "Human isotope-tracer study",
+      "summary": "In a crossover experiment, cooked egg protein had substantially greater measured ileal digestibility than the same test meal in raw form.",
+      "limitations": "Five participants with ileostomies and specific test meals. The results do not describe every cooking method, commercial egg powder or other protein ingredient.",
+      "year": 1998,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "protein-milk-glycation-2025",
+      "title": "Van Lieshout et al.: Milk-protein glycation and lysine availability in humans",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39870248/",
+      "kind": "Randomized crossover tracer study",
+      "summary": "In healthy young men, experimentally high glycation of milk protein reduced the post-meal appearance of protein-derived lysine compared with a low-glycation preparation.",
+      "limitations": "An acute study of deliberately contrasting processing conditions, not proof that normal home cooking destroys protein or a test of every finished supplement. Several authors disclosed dairy-industry employment or research relationships.",
+      "year": 2025,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "protein-women-nabuco-2018",
+      "title": "Nabuco et al.: Whey and resistance training in older women",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29751507/",
+      "kind": "Randomized training trial",
+      "summary": "Older women assigned whey before or after resistance training had greater improvements in measured muscle mass, strength and walking performance than the placebo group during the training programme.",
+      "limitations": "A 12-week study in preconditioned older women, not a prediction of an individual's appearance or an indication that all women require protein supplements.",
+      "year": 2018,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "protein-whole-eggs-2017",
+      "title": "Van Vliet et al.: Whole eggs versus protein-matched egg whites after exercise",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28978542/",
+      "kind": "Human acute feeding trial",
+      "summary": "Whole eggs stimulated a greater acute post-exercise myofibrillar protein-synthesis response than equal-protein egg whites in young men, despite similar total leucine availability.",
+      "limitations": "The meals differed in fat and energy as well as food matrix. An acute comparison of two egg meals does not establish that all whole foods outperform shakes or predict long-term hypertrophy.",
+      "year": 2017,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "protein-whey-technical-usdec",
+      "title": "US Dairy Export Council: Whey and lactose ingredient reference manual",
+      "url": "https://www.usdec.org/assets/documents/Customer%20Site/C3-Using%20Dairy/C3.7-Resources%20and%20Insights/02-Product%20Resources/ReferenceManualForWheyAndLactose_English1.pdf",
+      "kind": "Industry ingredient technical reference",
+      "summary": "Defines whey ingredient categories and describes manufacturing and typical composition, including the generally lower lactose and higher protein concentration of isolate ingredients.",
+      "limitations": "A dairy-industry technical publication, not an independent clinical comparison or a test of Indian finished products. Ingredient specifications and typical values do not certify a flavoured product or justify assuming zero lactose.",
+      "year": null,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "protein-whey-hydrolysate-lockwood-2017",
+      "title": "Lockwood et al.: Hydrolysed whey and concentrate variants during resistance training",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27710436/",
+      "kind": "Human controlled training study",
+      "summary": "Compared extensively hydrolysed whey, two concentrate preparations and carbohydrate placebo during eight weeks of resistance training. Strength increases were similar between groups; selected body-composition results differed.",
+      "limitations": "College-aged men, specific preparations and an eight-week programme. This was not a head-to-head isolate versus concentrate trial and does not establish a universal processing hierarchy. The paper was published online in 2016 and in its journal issue in 2017; authors included commercial affiliations.",
+      "year": 2017,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "protein-digestion-boirie-1997",
+      "title": "Boirie et al.: Slow and fast milk proteins in human protein metabolism",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9405716/",
+      "kind": "Human isotope-tracer feeding study",
+      "summary": "Whey and casein produced different time courses of amino-acid availability and whole-body protein synthesis and breakdown after single meals in healthy adults.",
+      "limitations": "Acute whole-body protein handling, not a long-term training comparison or proof that every casein ingredient, mixed meal or night-time product behaves identically.",
+      "year": 1997,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "protein-pea-babault-2015",
+      "title": "Babault et al.: Pea, whey and placebo during upper-limb training",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25628520/",
+      "kind": "Randomized training trial",
+      "summary": "A 12-week study in young men compared a specific pea protein with whey and placebo. No difference was detected between the two protein groups; favourable pea-versus-placebo thickness findings were clearest in a weaker-participant subgroup.",
+      "limitations": "The overall between-group muscle-thickness test did not reach conventional statistical significance, strength changes did not differ between groups, and subgroup findings require care. The study involved a branded ingredient and manufacturer-affiliated authors.",
+      "year": 2015,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "protein-rice-joy-2013",
+      "title": "Joy et al.: Rice versus whey protein during eight weeks of training",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23782948/",
+      "kind": "Randomized training trial",
+      "summary": "Compared large, equal-protein rice and whey isolate servings during resistance training in young trained men, without detected between-group differences in measured body-composition or performance adaptations.",
+      "limitations": "Small sample, short follow-up and large test servings. Failure to detect a difference is not a formal equivalence result and cannot establish interchangeability at all serving sizes or for every rice ingredient.",
+      "year": 2013,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "protein-yeast-briskey-2024",
+      "title": "Briskey et al.: A specific yeast protein during resistance training",
+      "url": "https://pubs.sciepub.com/jfnr/12/5/9/",
+      "kind": "Randomized training trial",
+      "summary": "An eight-week trial compared an extracted Saccharomyces cerevisiae protein ingredient, whey and maltodextrin alongside resistance exercise, reporting selected lean-mass and performance changes and analyses in participants with lower protein intake.",
+      "limitations": "Manufacturer-funded, ingredient-specific study with multiple outcomes and subgroup analyses. It does not establish equivalence for all yeast products, distinguish every preparation's digestibility or validate nutritional yeast as the same intervention.",
+      "year": 2024,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "protein-yeast-bai-2026",
+      "title": "Bai et al.: Six-month whey and yeast supplementation study in older adults",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42016236/",
+      "kind": "Randomized controlled parallel study",
+      "summary": "A 2026 trial compared whey protein, yeast protein and a control group over six months in Chinese older adults, assessing muscle mass, strength, function and other measures.",
+      "limitations": "Specific preparations and an older-adult population; findings cannot establish category-wide equivalence or superiority for athletes, every yeast species or all commercial powders. Trial populations excluded several significant medical conditions.",
+      "year": 2026,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "protein-algae-myo-2023",
+      "title": "Van der Heijden et al.: Algal preparations and acute muscle protein synthesis",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37716611/",
+      "kind": "Randomized human tracer study",
+      "summary": "Protein-matched spirulina, chlorella and mycoprotein feedings increased myofibrillar protein synthesis over four hours in young adults, with no detected group difference despite differing amino-acid time courses.",
+      "limitations": "An acute study of specific preparations, with mycoprotein as comparator rather than whey. It does not establish long-term hypertrophy, equivalence of all algal products or adequate protein delivery from a small greens serving.",
+      "year": 2023,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "protein-algae-availability-2024",
+      "title": "Williamson et al.: Species and processing differences in algal amino-acid availability",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39610880/",
+      "kind": "Randomized crossover feeding study",
+      "summary": "Ten young adults consumed protein-matched milk, spirulina, whole-cell chlorella and split-cell chlorella drinks. Post-meal amino-acid availability differed substantially among preparations.",
+      "limitations": "Small acute study with carbohydrate-containing drinks, not long-term training or a universal digestibility ranking. The split-cell versus whole-cell difference was not conventionally significant, so processing superiority must not be asserted from this trial alone.",
+      "year": 2024,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "creatine-misconceptions",
+      "title": "Antonio et al.: Common creatine questions and misconceptions",
+      "url": "https://link.springer.com/article/10.1186/s12970-021-00412-w",
+      "kind": "Evidence review",
+      "summary": "Explains distinctions between creatine and anabolic steroids, creatine and creatinine, and evidence on common safety and efficacy claims.",
+      "limitations": "A narrative expert review rather than a new trial; several authors disclose supplement-industry relationships. Later topic-specific trials should also be considered.",
+      "year": 2021,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "creatine-water-rct",
+      "title": "Powers et al.: Creatine, total body water and fluid distribution",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC155510/",
+      "kind": "Randomized trial",
+      "summary": "In 32 resistance-trained men and women, the tested monohydrate protocol increased body mass and total body water without changing relative fluid distribution.",
+      "limitations": "A small, short-term study. Water-related mass changes do not quantify fat gain, permanent bloating or every individual's response.",
+      "year": 2003,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "creatine-hair-rct",
+      "title": "Creatine and hair loss: 12-week placebo-controlled trial",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12020143/",
+      "kind": "Randomized trial",
+      "summary": "The 2025 trial directly assessed androgens and hair measures in resistance-trained men. Among 38 completers, with hair data for 37, it found no supplement-related effect on measured hair outcomes or DHT.",
+      "limitations": "Small sample of men and 12-week exposure; it cannot exclude every long-term effect or individual susceptibility. Authors disclose relevant commercial advisory or research relationships.",
+      "year": 2025,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "creatine-kidney-rct",
+      "title": "Lugaresi et al.: Creatine and measured kidney filtration",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23680457/",
+      "kind": "Randomized trial",
+      "summary": "A 12-week placebo-controlled trial in resistance-trained adults eating a high-protein diet found no impairment of directly measured glomerular filtration with the tested creatine protocol.",
+      "limitations": "Small study of healthy participants. Its findings do not establish safety in kidney disease, unexplained abnormal renal tests, every medication context or unlimited dosing.",
+      "year": 2013,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "creatine-loading-rct",
+      "title": "Hultman et al.: Muscle creatine loading in men",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8828669/",
+      "kind": "Controlled physiological study",
+      "summary": "Muscle-biopsy measurements showed that a lower daily intake increased muscle creatine more gradually over 28 days, reaching a similar eventual increase to a rapid loading approach.",
+      "limitations": "Study in men with particular regimens and biochemical outcomes. It supports the distinction between loading speed and eventual storage, not an individualized dosing prescription.",
+      "year": 1996,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "creatine-timing-rct",
+      "title": "Creatine timing: Eight-week trial in collegiate athletes",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36465581/",
+      "kind": "Randomized trial",
+      "summary": "Compared pre-training creatine, post-training creatine and placebo over eight weeks in 34 resistance-trained male and female athletes; no clear pre-versus-post advantage was established.",
+      "limitations": "Small groups and short duration; an absence of a statistically detected difference is not proof of equivalence for every timing regimen or population.",
+      "year": 2022,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "creatine-cognition-rct",
+      "title": "Creatine and cognitive performance: Preregistered crossover trial",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37968687/",
+      "kind": "Randomized trial",
+      "summary": "A double-blind crossover trial with 123 participants found at most a small possible cognitive effect; key outcomes were not conventionally significant and exploratory tasks did not improve.",
+      "limitations": "Does not settle effects in every population, cognitive domain or condition such as sleep deprivation, and does not establish treatment of a cognitive disorder.",
+      "year": 2023,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "creatine-heat-rct",
+      "title": "Watson et al.: Creatine and exercise heat tolerance",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16619091/",
+      "kind": "Controlled crossover trial",
+      "summary": "Short-term monohydrate did not compromise hydration status or temperature regulation in trained men tested during exercise in heat after dehydration.",
+      "limitations": "Small, short-term study in trained men under a specified protocol; it does not remove the risks of dehydration or heat illness or define a universal fluid requirement.",
+      "year": 2006,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "creatine-forms-review",
+      "title": "Creatine compounds: Chemistry, bioavailability and evidence review",
+      "url": "https://www.mdpi.com/2072-6643/14/5/1035",
+      "kind": "Evidence review",
+      "summary": "Reviews creatine compounds, theoretical creatine fractions by molecular mass, bioavailability requirements, delivery formats and evidence needed for claims about novel forms.",
+      "limitations": "Narrative review with disclosed commercial relationships. Molecular fractions are theoretical composition values, not potency or absorption percentages, and the review does not verify a particular retail batch.",
+      "year": 2022,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "creatine-formulation-review",
+      "title": "Fast-dissolving creatine monohydrate: Formulation methods",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12845340/",
+      "kind": "Formulation review",
+      "summary": "Reviews physical and chemical formulation techniques, including particle-size reduction, and their effects on dissolution and material properties.",
+      "limitations": "Formulation and patent evidence is not equivalent to head-to-head human performance evidence. Processing claims cannot be generalized to every finished product carrying a micronized label.",
+      "year": 2026,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "creatine-hcl-rct",
+      "title": "Creatine HCl versus monohydrate: Eight-week training trial",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11629957/",
+      "kind": "Randomized trial",
+      "summary": "Compared HCl, monohydrate with or without loading, and placebo alongside eight weeks of training in 40 men. It did not establish a clear HCl advantage.",
+      "limitations": "Ten participants per group, male sample, no muscle-creatine measurements and indirect body-composition estimates. Not an equivalence trial or proof that every small HCl serving replaces a studied monohydrate regimen.",
+      "year": 2024,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "creatine-nitrate-rct",
+      "title": "Galvan et al.: Creatine nitrate safety and performance trials",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4815124/",
+      "kind": "Randomized trials",
+      "summary": "Acute and 28-day trials measured nitrate protocols, exercise outcomes and muscle creatine. Some bench-press findings favoured the higher nitrate protocol, while only monohydrate retained a significant muscle-creatine increase at day 28.",
+      "limitations": "Short duration, modest sample sizes, formulation-specific amounts and multiple outcomes. Does not establish nitrate's universal superiority, long-term safety or equivalence across delivered creatine amounts; commercial involvement is disclosed.",
+      "year": 2016,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "creatine-buffered-rct",
+      "title": "Jagim et al.: Buffered creatine versus monohydrate",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22971354/",
+      "kind": "Randomized trial",
+      "summary": "The tested buffered formulation did not produce greater muscle-creatine changes, body-composition changes or training adaptations than monohydrate over 28 days.",
+      "limitations": "One buffered preparation, modest sample and short study period. Findings do not certify all buffered products or prove all formulations are interchangeable; supplement-related funding and relationships should be read.",
+      "year": 2012,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "creatine-ethyl-ester-rct",
+      "title": "Spillane et al.: Creatine ethyl ester versus monohydrate",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19228401/",
+      "kind": "Randomized trial",
+      "summary": "Seven-week trial in 30 men found no ethyl-ester advantage for strength or body composition, lower muscle-creatine gains than monohydrate, and higher serum creatinine.",
+      "limitations": "Small study in previously untrained men with a specified ester preparation. A serum-creatinine increase is not, by itself, a diagnosis of kidney injury or a finding about every creatine product.",
+      "year": 2009,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "creatine-gummy-rct",
+      "title": "Pereira et al.: Creatine gummies in female beach-volleyball athletes",
+      "url": "https://www.mdpi.com/2411-5142/11/1/105",
+      "kind": "Randomized trial",
+      "summary": "A 10-week study in 32 female beach-volleyball athletes found improved jump and change-of-direction outcomes with one monohydrate gummy preparation compared with no supplementation.",
+      "limitations": "No placebo or powder comparator, small sport-specific sample, donated products and disclosed industry advisory relationships. It does not establish a gummy-format advantage, all-brand label accuracy or finished-product shelf stability.",
+      "year": 2026,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "creatine-solution-stability",
+      "title": "Ganguly et al.: Stability of dissolved effervescent creatine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12916907/",
+      "kind": "Laboratory formulation study",
+      "summary": "Measured concentration changes, degradation and crystallization during prolonged storage of a dissolved effervescent creatine preparation at specified temperatures.",
+      "limitations": "An aqueous preparation tested under particular laboratory conditions, not a gummy-matrix study. Its numerical degradation rates cannot be transferred to every drink, gummy, jelly or dry product.",
+      "year": 2003,
+      "checked": "2026-11-18"
     }
   ],
   "valuePolicy": {
@@ -6660,6 +8149,742 @@
     "qualityNote": "If a product claims independent testing, check the issuing organization and what the test actually covers. A declared concentration or a manufacturing logo alone does not establish independent testing of your batch. A quality-testing seal does not guarantee safety or effectiveness. Our catalog field checks do not verify every laboratory report; treat missing testing evidence as unverified.",
     "qualitySourceIds": [
       "supplement-quality-ods"
+    ]
+  },
+  "pathwayPolicy": {
+    "reviewed": "2026-11-18",
+    "summary": "Simplified educational schematics of selected routes, not complete biochemical maps. Arrows show processing or biological roles, not the size of a supplement benefit, a diagnosis or a treatment recommendation. Ingredient mixtures and uncertain human pathways are labelled explicitly."
+  },
+  "editorial": {
+    "reviewed": "2026-11-18",
+    "description": "Cited explainers that question supplement claims and compare ingredient types, processing and delivery formats. Start with protein and creatine, then apply the same evidence checks to your next purchase.",
+    "series": [
+      {
+        "id": "myth-busters",
+        "label": "Busting the Myths",
+        "description": "Ten common claims about one supplement, checked against the evidence with explanations, citations and study limits."
+      },
+      {
+        "id": "understanding-types",
+        "label": "Understanding Types",
+        "description": "Learn what changes between ingredient forms, how the body processes them, and which differences justify paying more."
+      }
+    ],
+    "articles": [
+      {
+        "id": "protein-myths",
+        "category": "protein",
+        "series": "myth-busters",
+        "title": "10 protein myths that make buying decisions harder",
+        "summary": "What human evidence actually says about kidneys, plant protein, absorption, timing, cooking and the need for a shake.",
+        "author": "Supplement Research editorial synthesis",
+        "reviewed": "2026-11-18",
+        "intro": "Protein marketing often turns a real physiological fact into an absolute rule: faster means better, a larger serving is wasted, or a more expensive ingredient must build more muscle. Those conclusions need evidence of their own. These ten claims separate digestion from muscle growth, ordinary nutrition from disease management, and a convenient food format from a necessary purchase. They concern dietary protein in adults; they are not a personal intake prescription.",
+        "sections": [
+          {
+            "id": "three-different-questions",
+            "title": "Absorbing protein, using amino acids and growing muscle are different questions",
+            "body": "Digestion releases peptides and amino acids; intestinal uptake makes those building blocks available to tissues. They can support proteins throughout the body, not just the muscle trained that day. A laboratory measurement of muscle protein synthesis describes a response over an observation period. Changes in strength or muscle size require longer training studies. Neither measurement, by itself, tells you which commercial tub offers the best value.",
+            "sourceIds": [
+              "digestion",
+              "protein-100g-trommelen-2023",
+              "protein-plant-diet-hevia-2021"
+            ]
+          },
+          {
+            "id": "read-study-boundaries",
+            "title": "Read the boundary around a result",
+            "body": "Look for who participated, what they ate, the amount and type of protein tested, the comparator and the study duration. A result in young trained men cannot settle every question for older adults, women or people with a medical condition. A small study finding no detectable difference is also not proof that all products are equivalent. We retain those boundaries rather than turning a single study into a universal buying rule.",
+            "sourceIds": [
+              "protein-kidney-antonio-2016",
+              "protein-women-nabuco-2018",
+              "protein-rice-joy-2013"
+            ]
+          },
+          {
+            "id": "myths-to-purchase-checks",
+            "title": "Turn the corrections into useful purchase checks",
+            "body": "First establish whether normal meals leave a protein gap. Then compare the declared protein source, protein grams per serving, allergens, tolerability and cost per gram of labelled protein. A printed percentage is a manufacturer declaration until suitable testing supports it. An independent quality check can help assess composition or contaminants; it does not prove that the product produces better muscle gains. The research cited here does not certify any catalog brand or batch.",
+            "sourceIds": [
+              "exercise",
+              "food-protein",
+              "food-allergens",
+              "supplement-quality-ods"
+            ]
+          }
+        ],
+        "myths": [
+          {
+            "claim": "Protein powder inevitably damages the kidneys.",
+            "verdict": "A blanket claim that confuses different health contexts.",
+            "explanation": "A small one-year crossover study in resistance-trained men found no deterioration in measured kidney-function markers during higher-protein periods. That is reassuring within its limits, not proof that unlimited intake is safe for everyone or over a lifetime. Chronic kidney disease is a different situation: protein amount and source may need adjustment, and dialysis can change requirements again. Someone with kidney disease should use their clinical nutrition plan rather than advice extrapolated from healthy gym participants.",
+            "sourceIds": [
+              "protein-kidney-antonio-2016",
+              "food-kidney-diet"
+            ]
+          },
+          {
+            "claim": "Plant protein cannot support muscle growth.",
+            "verdict": "False as a universal claim.",
+            "explanation": "A 12-week study compared habitual vegans using a plant diet plus soy isolate with omnivores using a mixed diet plus whey. With total protein matched, both groups improved muscle measures and strength without detected between-group differences. This supports the feasibility of an adequately planned plant approach. It does not show that every plant powder, serving or low-protein diet performs identically, and the participants were untrained young men.",
+            "sourceIds": [
+              "protein-plant-diet-hevia-2021"
+            ]
+          },
+          {
+            "claim": "An 'incomplete' plant protein contains no useful essential amino acids.",
+            "verdict": "The slogan misrepresents a quantitative issue.",
+            "explanation": "A limiting amino acid is present in a lower proportion relative to a reference requirement; it is not a declaration that the food supplies no useful protein. Analyses show substantial differences among plant isolates, including their leucine, lysine and methionine content. Adequate amounts and dietary variety matter. Complementary sources can improve an amino-acid pattern, but the word 'blend' does not reveal the proportions or prove the finished product's quality.",
+            "sourceIds": [
+              "protein-amino-acids-gorissen-2018",
+              "food-protein-vegetarian"
+            ]
+          },
+          {
+            "claim": "The body can absorb only 30 grams of protein at a time.",
+            "verdict": "False as a fixed absorption ceiling.",
+            "explanation": "Absorption is different from the muscle response measured during a short laboratory window. In a tracer study after exercise, 100 grams of milk protein produced a larger and more prolonged anabolic response than 25 grams over the study's observation period. This directly challenges a universal 30-gram cutoff. It does not establish unlimited benefit, show that one huge meal is optimal, or prescribe a serving size for every person. Digestion can continue for hours after eating.",
+            "sourceIds": [
+              "protein-100g-trommelen-2023",
+              "digestion"
+            ]
+          },
+          {
+            "claim": "Missing a shake within 30 minutes of training wastes the workout.",
+            "verdict": "An unnecessarily narrow rule.",
+            "explanation": "In a ten-week trial in trained men, taking the same protein supplement immediately before versus immediately after training produced similar measured adaptations. The wider diet and the timing of a preceding meal help determine the context. Timing can still be practical, particularly when someone has trained without a recent meal, but the evidence does not justify panic over a missed half-hour deadline. Consistently adequate intake deserves attention before a precise stopwatch ritual.",
+            "sourceIds": [
+              "protein-timing-schoenfeld-2017",
+              "exercise"
+            ]
+          },
+          {
+            "claim": "Whey isolate or hydrolysate is always better than concentrate.",
+            "verdict": "Processing differences do not create a universal winner.",
+            "explanation": "Isolate generally removes more non-protein material, which can be useful when lower lactose or a higher protein concentration is needed. Hydrolysis breaks protein into smaller peptides; it is a different processing step. Those features alone do not establish greater long-term muscle gains at a comparable protein intake. A whey-form training trial did not show a uniform strength advantage for hydrolysate. Compare the finished label and the reason for paying extra; lower lactose also does not make milk protein safe for a milk allergy.",
+            "sourceIds": [
+              "protein-whey-technical-usdec",
+              "protein-whey-hydrolysate-lockwood-2017",
+              "food-allergens"
+            ]
+          },
+          {
+            "claim": "Everyone who exercises needs a protein supplement.",
+            "verdict": "Protein is necessary; a supplement is optional.",
+            "explanation": "Food can supply the protein used for training adaptation. A powder is useful when it conveniently fills an assessed shortfall, suits appetite or makes meals easier to organise. Exercising does not, by itself, demonstrate that normal intake is inadequate. Buying a supplement while displacing nutritious meals or ignoring the training programme can solve the wrong problem. Assess the whole day's food before assuming that a daily scoop is compulsory.",
+            "sourceIds": [
+              "exercise",
+              "food-protein"
+            ]
+          },
+          {
+            "claim": "Cooking destroys protein and makes it useless.",
+            "verdict": "False; the preparation and extent of processing matter.",
+            "explanation": "Changing a protein's structure is not the same as erasing its nutritional value. In a small human study, cooked egg protein was substantially more digestible than raw egg protein. That does not mean every processing method improves every food: a separate milk-protein experiment found that extensive glycation reduced the availability of lysine. Ordinary cooking and deliberately severe processing are different questions. Neither 'raw is always better' nor 'heat never affects quality' is a sound rule.",
+            "sourceIds": [
+              "protein-egg-cooking-evenepoel-1998",
+              "protein-milk-glycation-2025"
+            ]
+          },
+          {
+            "claim": "Protein shakes automatically make women bulky.",
+            "verdict": "A shake does not determine a body shape.",
+            "explanation": "Women also need dietary protein, and muscle adaptations depend on sustained training and the wider diet. A trial in older women found that whey alongside resistance training improved muscle mass, strength and functional outcomes compared with placebo. That is evidence of a possible nutrition-and-training benefit in that population, not evidence of an uncontrollable body transformation. The same label checks apply across sexes; 'for women' branding does not establish a distinct protein requirement or a better product.",
+            "sourceIds": [
+              "protein-women-nabuco-2018",
+              "exercise"
+            ]
+          },
+          {
+            "claim": "A protein shake is inherently better than ordinary protein foods.",
+            "verdict": "Convenience and nutritional superiority are different claims.",
+            "explanation": "Eggs, dairy, pulses, soy foods, fish and meat can contribute protein within a varied diet. Foods also bring other nutrients and different meal characteristics. A human study comparing whole eggs with equal-protein egg whites found different acute muscle-protein-synthesis responses, showing that the food matrix can matter; it did not compare every food with every shake. A powder can be convenient and economical, but being sold as a supplement does not automatically make it a superior replacement for a meal.",
+            "sourceIds": [
+              "food-protein",
+              "food-protein-vegetarian",
+              "protein-whole-eggs-2017"
+            ]
+          }
+        ],
+        "sourceIds": [
+          "digestion",
+          "exercise",
+          "food-protein",
+          "food-protein-vegetarian",
+          "food-kidney-diet",
+          "food-allergens",
+          "supplement-quality-ods",
+          "protein-kidney-antonio-2016",
+          "protein-plant-diet-hevia-2021",
+          "protein-amino-acids-gorissen-2018",
+          "protein-100g-trommelen-2023",
+          "protein-timing-schoenfeld-2017",
+          "protein-whey-technical-usdec",
+          "protein-whey-hydrolysate-lockwood-2017",
+          "protein-egg-cooking-evenepoel-1998",
+          "protein-milk-glycation-2025",
+          "protein-women-nabuco-2018",
+          "protein-whole-eggs-2017",
+          "protein-rice-joy-2013"
+        ]
+      },
+      {
+        "id": "protein-types",
+        "category": "protein",
+        "series": "understanding-types",
+        "title": "Protein types explained: ingredients, processing and what is worth paying for",
+        "summary": "A practical guide to whey, casein, egg, plant, yeast and algal proteins, with powder and ready-to-drink formats kept separate from ingredient types.",
+        "author": "Supplement Research editorial synthesis",
+        "reviewed": "2026-11-18",
+        "intro": "A protein label can describe three different things: the organism supplying the protein, the processing used to prepare it, and the format you buy. Whey is a source; isolate and hydrolysate describe different processing characteristics; powder and ready-to-drink describe delivery. Keeping those layers separate makes comparison more useful. Start with dietary fit and the amount of usable protein the product can contribute, then assess the evidence, tolerability and price. There is no single best form for every buyer.",
+        "sections": [
+          {
+            "id": "source-processing-format",
+            "title": "Read the source, processing description and format separately",
+            "body": "Concentration removes some non-protein material; hydrolysis cuts some peptide bonds. A product can therefore be both an isolate and hydrolysed. Ingredient-grade specifications also do not establish the protein percentage of a flavoured finished product, which may contain other ingredients. Likewise, a ready-to-drink bottle can contain whey, casein, soy or a blend. Comparing a source with a format, or assuming every word describes a new biological category, makes the shelf look more complicated than it is.",
+            "sourceIds": [
+              "protein-whey-technical-usdec",
+              "protein-whey-hydrolysate-lockwood-2017",
+              "supplement-quality-ods"
+            ]
+          },
+          {
+            "id": "digestibility-eaa-and-outcomes",
+            "title": "Digestion speed and amino-acid quality answer different questions",
+            "body": "Amino-acid composition describes what a protein supplies. Digestibility and processing affect availability; digestion speed describes how the response unfolds over time. Essential amino acids, including leucine, matter, but a leucine figure alone cannot replace the rest of the amino-acid profile. Whey and casein can show different acute patterns, while adequately planned plant and mixed diets can both support training adaptations. Avoid turning a short-term blood peak or synthesis response into an automatic ranking of long-term muscle growth.",
+            "sourceIds": [
+              "protein-amino-acids-gorissen-2018",
+              "protein-digestion-boirie-1997",
+              "protein-plant-diet-hevia-2021"
+            ]
+          },
+          {
+            "id": "label-and-price-arithmetic",
+            "title": "Compare declared protein, not the size of the scoop",
+            "body": "Use the finished product's declared protein grams per serving. If only a percentage is available, declared protein per serving equals serving mass multiplied by that percentage divided by 100. Total declared pack protein equals net pack mass multiplied by the same fraction. Divide the pack price by that protein total to compare cost per gram of labelled protein. This is transparent price arithmetic, not a measurement of digestibility or independent confirmation of the label. Different flavour or pack variants can have different declarations.",
+            "sourceIds": [
+              "supplement-quality-ods"
+            ]
+          },
+          {
+            "id": "lactose-allergy-and-product-fit",
+            "title": "Lower lactose is useful for some people; milk allergy is different",
+            "body": "Isolate ingredients commonly contain less lactose than concentrate ingredients, but check the actual finished product rather than assuming zero lactose. Both remain milk-derived proteins. Milk allergy concerns milk proteins and cannot be resolved by choosing a lower-lactose whey. Egg and soy are also relevant allergens. If an ingredient repeatedly causes symptoms, changing the price tier is not a substitute for finding the cause. People with kidney disease or medically restricted protein intake need a plan suited to their condition.",
+            "sourceIds": [
+              "protein-whey-technical-usdec",
+              "food-allergens",
+              "food-kidney-diet"
+            ]
+          },
+          {
+            "id": "evidence-and-buying-order",
+            "title": "Use total diet and practical fit before a premium processing claim",
+            "body": "Establish the food gap first, then choose a source that fits diet, allergens, taste and budget. Compare its declared composition and supporting quality evidence before paying for a processing upgrade. The protein's place in the full day's intake usually deserves attention before an exact pre- versus post-workout ritual. For a novel source, ask which ingredient was actually studied, whether the outcome was an acute laboratory response or a training result, and whether the study population resembles the intended user.",
+            "sourceIds": [
+              "exercise",
+              "protein-timing-schoenfeld-2017",
+              "protein-yeast-bai-2026",
+              "protein-algae-myo-2023"
+            ]
+          }
+        ],
+        "forms": [
+          {
+            "name": "Whey protein concentrate",
+            "kind": "ingredient",
+            "description": "A milk-derived whey ingredient with some lactose, fat and other non-protein material remaining. Concentrates come in different grades; the ingredient name does not fix a flavoured product's protein percentage.",
+            "metabolism": "Digestive enzymes release peptides and amino acids. Whey can produce a relatively rapid amino-acid rise compared with intact casein under controlled meal conditions.",
+            "evidence": "Concentrates have been tested in resistance-training studies. Their lower concentration compared with isolate is not, by itself, evidence of inferior muscle gains at a comparable protein intake.",
+            "value": "Assess cost per gram of labelled protein and tolerance. A well-specified concentrate may be a sensible option when its lactose and other ingredients fit the buyer.",
+            "sourceIds": [
+              "protein-whey-technical-usdec",
+              "digestion",
+              "protein-digestion-boirie-1997",
+              "protein-whey-hydrolysate-lockwood-2017"
+            ]
+          },
+          {
+            "name": "Whey protein isolate",
+            "kind": "ingredient",
+            "description": "A more purified whey ingredient, generally containing less lactose and fat than concentrate. Ingredient-grade composition is not a guarantee for every finished formula.",
+            "metabolism": "It still undergoes protein digestion. Greater concentration changes the protein-to-powder ratio; it does not bypass digestion or make a scoop automatically more anabolic.",
+            "evidence": "The processing description alone does not establish a long-term advantage over an otherwise suitable product delivering comparable protein.",
+            "value": "Pay extra for a relevant feature such as a verified lower-lactose formulation or greater protein density. It remains unsuitable for a milk-protein allergy.",
+            "sourceIds": [
+              "protein-whey-technical-usdec",
+              "digestion",
+              "food-allergens"
+            ]
+          },
+          {
+            "name": "Hydrolysed whey protein",
+            "kind": "ingredient",
+            "description": "Whey processed to split some protein into smaller peptides. Hydrolysates can originate from different whey grades and vary in the extent of hydrolysis.",
+            "metabolism": "Some peptide-bond breakdown occurs before ingestion, but intestinal processing and amino-acid uptake are still required.",
+            "evidence": "An eight-week training study compared extensively hydrolysed whey with concentrate variants. Strength improvements were similar across groups, so it cannot support a blanket hydrolysate advantage; individual outcomes and study limits matter.",
+            "value": "Treat a premium as a claim needing a relevant justification. 'Hydrolysed' alone does not demonstrate better muscle growth, tolerability for everyone or safety with milk allergy.",
+            "sourceIds": [
+              "protein-whey-hydrolysate-lockwood-2017",
+              "digestion",
+              "food-allergens"
+            ]
+          },
+          {
+            "name": "Casein and caseinates",
+            "kind": "ingredient",
+            "description": "Milk-derived proteins distinct from whey. Micellar casein and caseinate ingredients are processed differently, so not every product has identical physical or digestive behaviour.",
+            "metabolism": "Intact casein produced a slower, more sustained amino-acid response than whey in a classic human tracer study. Mixed meals and processing can change the pattern.",
+            "evidence": "That acute study measured whole-body protein handling, not a universal advantage for bedtime use or long-term hypertrophy. 'Slower' and 'better' are different conclusions.",
+            "value": "Consider texture, convenience and protein cost within the whole diet. A slower label is not a reason that everyone needs a separate night-time product.",
+            "sourceIds": [
+              "protein-digestion-boirie-1997",
+              "food-allergens"
+            ]
+          },
+          {
+            "name": "Egg protein",
+            "kind": "ingredient",
+            "description": "Usually an egg-white-derived powder, although whole-egg ingredients also exist. It is animal-derived, but contains no dairy protein unless the formula adds it.",
+            "metabolism": "Egg proteins are digested into peptides and amino acids. A small human study found cooked egg protein substantially more digestible than raw egg protein.",
+            "evidence": "Whole eggs and equal-protein egg whites produced different acute muscle-protein-synthesis responses in one trial. That does not establish a universal ranking for commercial egg powders.",
+            "value": "A potential dairy-free ingredient choice when eggs fit the diet; check the formula and egg-allergy suitability. Compare with ordinary egg foods as well as powders.",
+            "sourceIds": [
+              "protein-egg-cooking-evenepoel-1998",
+              "protein-whole-eggs-2017",
+              "food-allergens",
+              "food-protein"
+            ]
+          },
+          {
+            "name": "Soy protein",
+            "kind": "ingredient",
+            "description": "A plant protein sold as concentrates, isolates and in foods. Its amino-acid pattern differs from whey and from other plant sources.",
+            "metabolism": "Digestion supplies amino acids, including essential amino acids. Availability depends on the preparation and the amount consumed, not simply the word 'plant'.",
+            "evidence": "A protein-matched training study using soy isolate within a vegan diet found no detected difference in muscle or strength adaptations versus a mixed diet using whey. This does not prove every soy and whey serving is equivalent.",
+            "value": "Can fit a plant-based diet when the ingredient and allergen profile are suitable. Compare actual protein content and evidence rather than assuming a plant premium is required.",
+            "sourceIds": [
+              "protein-amino-acids-gorissen-2018",
+              "protein-plant-diet-hevia-2021",
+              "food-allergens"
+            ]
+          },
+          {
+            "name": "Pea protein",
+            "kind": "ingredient",
+            "description": "A pulse-derived ingredient commonly sold as concentrate, isolate or part of a blend. Its amino-acid pattern should be assessed as a specific ingredient.",
+            "metabolism": "Pea protein undergoes digestion; amino-acid supply reflects composition and available protein. Some amino acids are relatively limiting compared with others.",
+            "evidence": "A 12-week upper-limb training trial found no detected difference between its pea and whey groups. The overall between-group muscle-thickness result was not clearly significant, and a favourable pea-versus-placebo finding involved a weaker-participant subgroup.",
+            "value": "Evaluate declared grams and the overall diet. Do not turn a subgroup finding or a 'plant blend' label into proof of superiority or exact equivalence.",
+            "sourceIds": [
+              "protein-amino-acids-gorissen-2018",
+              "protein-pea-babault-2015"
+            ]
+          },
+          {
+            "name": "Rice protein",
+            "kind": "ingredient",
+            "description": "A grain-derived protein ingredient, often used in plant blends. It has an amino-acid pattern different from pulse proteins such as pea.",
+            "metabolism": "Digestion supplies amino acids; protein quantity and the relative supply of essential amino acids matter together.",
+            "evidence": "An eight-week study in trained men compared large, equal-protein rice and whey servings and did not detect between-group differences in measured adaptations. This small trial cannot establish that all lower-dose products are interchangeable.",
+            "value": "Assess the finished product's protein and amino-acid information. A high-dose study is not evidence that any small rice-protein serving supplies the same useful contribution.",
+            "sourceIds": [
+              "protein-amino-acids-gorissen-2018",
+              "protein-rice-joy-2013"
+            ]
+          },
+          {
+            "name": "Multi-source protein blends",
+            "kind": "ingredient",
+            "description": "Mixtures may combine whey and casein, several plant sources, or animal and microbial proteins. The ingredients and their proportions determine what the blend actually is.",
+            "metabolism": "Each ingredient contributes its own digestible amino-acid supply; combining sources can change the overall pattern and digestion profile.",
+            "evidence": "Complementary amino-acid profiles provide a nutritional rationale, but a rationale does not demonstrate that an undisclosed blend outperforms a simpler protein. Evidence for one formulation does not validate all mixtures.",
+            "value": "Ask for source proportions and finished-product composition. A longer ingredient list is not an independent indicator of quality or value.",
+            "sourceIds": [
+              "protein-amino-acids-gorissen-2018",
+              "food-protein-vegetarian",
+              "supplement-quality-ods"
+            ]
+          },
+          {
+            "name": "Yeast-derived protein",
+            "kind": "ingredient",
+            "description": "Protein obtained from yeast biomass through fermentation and processing. Species and preparation matter; nutritional yeast flakes, extracted yeast protein and a yeast-whey blend are different products.",
+            "metabolism": "Its proteins still require digestive breakdown and amino-acid absorption. Fermentation does not mean that the ingredient bypasses digestion.",
+            "evidence": "Human trials now include a 2024 training study of a specific Saccharomyces cerevisiae ingredient and a 2026 trial in older adults. These do not establish category-wide equivalence to whey; the 2024 study was manufacturer-funded and included subgroup analyses.",
+            "value": "Require an identified ingredient, amino-acid information and relevant quality checks. Novelty or sustainability claims alone do not establish muscle outcomes or justify an undefined premium.",
+            "sourceIds": [
+              "protein-yeast-briskey-2024",
+              "protein-yeast-bai-2026",
+              "digestion",
+              "supplement-quality-ods"
+            ]
+          },
+          {
+            "name": "Spirulina, chlorella and algal protein ingredients",
+            "kind": "ingredient",
+            "description": "A broad group, not a single interchangeable protein. Spirulina is a cyanobacterium; chlorella is a microalga. Whole biomass, processed biomass and extracted protein need separate assessment.",
+            "metabolism": "Human work found different post-meal amino-acid availability across spirulina, whole-cell chlorella and split-cell chlorella preparations, showing why species and processing matter.",
+            "evidence": "One acute trial found similar muscle-protein-synthesis responses after protein-matched algal preparations and mycoprotein. It did not test long-term hypertrophy or show equivalence to every whey product. The comparator was mycoprotein, not whey.",
+            "value": "Check actual protein grams, species, preparation and contaminant testing. A small greens serving cannot be evaluated as a full protein serving simply because the biomass is protein-rich.",
+            "sourceIds": [
+              "protein-algae-myo-2023",
+              "protein-algae-availability-2024",
+              "supplement-quality-ods"
+            ]
+          },
+          {
+            "name": "Protein powder",
+            "kind": "delivery",
+            "description": "A dry delivery format for any suitable protein source or mixture; it is not a distinct protein type.",
+            "metabolism": "Mixing powder into a drink does not remove the need for digestion. The protein source and accompanying ingredients help determine the response.",
+            "evidence": "Evidence for a particular ingredient and intake cannot be transferred to every powder. The scoop's full mass is not its protein content.",
+            "value": "Compare declared pack protein and cost, measuring practicality and ingredient fit. Account for whatever is mixed into the drink when judging the full meal.",
+            "sourceIds": [
+              "digestion",
+              "supplement-quality-ods"
+            ]
+          },
+          {
+            "name": "Ready-to-drink protein beverage",
+            "kind": "delivery",
+            "description": "A prepared drink that may contain dairy, plant or blended proteins. Bottle volume describes the drink, not its protein dose.",
+            "metabolism": "It still undergoes digestion and absorption; being liquid does not establish superiority over powder or food.",
+            "evidence": "Judge the actual protein source and composition rather than treating 'ready-to-drink' as an independently proven muscle-building ingredient.",
+            "value": "A convenience choice. Compare cost per gram of labelled protein, the full bottle's calories and ingredients, storage requirements and the amount actually consumed.",
+            "sourceIds": [
+              "digestion",
+              "supplement-quality-ods"
+            ]
+          }
+        ],
+        "sourceIds": [
+          "digestion",
+          "exercise",
+          "food-protein",
+          "food-protein-vegetarian",
+          "food-kidney-diet",
+          "food-allergens",
+          "supplement-quality-ods",
+          "protein-whey-technical-usdec",
+          "protein-whey-hydrolysate-lockwood-2017",
+          "protein-digestion-boirie-1997",
+          "protein-amino-acids-gorissen-2018",
+          "protein-plant-diet-hevia-2021",
+          "protein-timing-schoenfeld-2017",
+          "protein-egg-cooking-evenepoel-1998",
+          "protein-whole-eggs-2017",
+          "protein-pea-babault-2015",
+          "protein-rice-joy-2013",
+          "protein-yeast-briskey-2024",
+          "protein-yeast-bai-2026",
+          "protein-algae-myo-2023",
+          "protein-algae-availability-2024"
+        ]
+      },
+      {
+        "id": "creatine-myths",
+        "category": "creatine",
+        "series": "myth-busters",
+        "title": "10 creatine myths, checked against human evidence",
+        "summary": "Separate established exercise benefits from exaggerated risks, premium-form promises and claims that the research has not settled.",
+        "author": "Supplement Research editorial synthesis",
+        "reviewed": "2026-11-18",
+        "intro": "Creatine attracts unusually confident claims in both directions: a harmless miracle for everyone, or a shortcut that inevitably causes damage. The evidence is more useful when each claim is checked separately. Most exercise research concerns creatine monohydrate; results from healthy participants do not automatically apply to a person with a medical condition or to every product sold under the creatine name.",
+        "sections": [
+          {
+            "id": "what-creatine-does",
+            "title": "Start with the energy system",
+            "body": "Creatine is made in the body and also occurs in foods such as meat and fish. Much of the body's supply is in skeletal muscle. Creatine kinase helps move phosphate between creatine and ATP, producing a phosphocreatine reserve that can help regenerate ATP when energy demand rises quickly. Increasing muscle stores can support repeated high-intensity efforts and training adaptations. This explains why a store-building supplement should not be judged by whether a scoop produces an immediate sensation.",
+            "sourceIds": [
+              "creatine-position"
+            ]
+          },
+          {
+            "id": "reading-the-verdicts",
+            "title": "A verdict is specific to the question",
+            "body": "A trial finding no detectable difference is not proof that every person responds identically or that a rare effect is impossible. Look at the population, duration, actual ingredient, comparison group and measured outcome. A change in a hormone or blood marker is not interchangeable with hair loss, kidney injury or improved performance. A useful product claim should connect its specific formulation to the outcome being advertised.",
+            "sourceIds": [
+              "creatine-hair-rct",
+              "creatine-kidney-rct",
+              "supplement-quality-ods"
+            ]
+          },
+          {
+            "id": "buy-after-understanding",
+            "title": "Use the evidence before choosing a product",
+            "body": "Check the ingredient identity, amount per full serving, number of servings and evidence for the stated purpose. Then examine independent quality documentation for the actual product or batch where available. A quality seal can address specified composition or contamination checks; it does not prove a supplement will improve your result. Compare prices using the same quantity basis, and keep an unverified label claim separate from a measured content result.",
+            "sourceIds": [
+              "supplement-quality-ods"
+            ]
+          }
+        ],
+        "myths": [
+          {
+            "claim": "Creatine is an anabolic steroid.",
+            "verdict": "False",
+            "explanation": "Creatine has a different chemical structure and mechanism from testosterone-like anabolic steroids. Its central exercise role concerns the creatine-phosphocreatine energy system, rather than acting as an androgen receptor drug. Both can appear in conversations about strength and muscle, but sharing a training outcome does not make them the same substance.",
+            "sourceIds": [
+              "creatine-misconceptions",
+              "creatine-position"
+            ]
+          },
+          {
+            "claim": "Any extra weight or fullness from creatine is body fat.",
+            "verdict": "Misleading",
+            "explanation": "Early body-mass changes can include water. A controlled study in resistance-trained men and women found increased total body water and body mass without a change in the relative fluid distribution. Water, fat and new muscle tissue are different measurements. A short-term scale increase alone cannot identify fat gain, and a lean-mass reading can also include water.",
+            "sourceIds": [
+              "creatine-water-rct"
+            ]
+          },
+          {
+            "claim": "Creatine has been proved to cause hair loss.",
+            "verdict": "Not established",
+            "explanation": "The often-cited concern began with a small hormone study that did not measure hair loss. A 2025 placebo-controlled trial directly assessed hair and androgens over 12 weeks: 38 men completed the study, with hair data for 37. It found no supplement-related change in DHT or measured hair outcomes. This is reassuring evidence, while a small, short trial cannot rule out every long-term or individual possibility.",
+            "sourceIds": [
+              "creatine-hair-rct"
+            ]
+          },
+          {
+            "claim": "Creatine inevitably damages the kidneys.",
+            "verdict": "Unsupported in studied healthy adults",
+            "explanation": "In a 12-week randomized trial of healthy resistance-trained adults eating a high-protein diet, creatine did not impair directly measured kidney filtration. Creatinine is also a breakdown product of creatine, so a creatinine-based result requires context rather than automatic interpretation as injury. Evidence in healthy adults does not establish safety for someone with kidney disease, unexplained abnormal tests or relevant medication use; those situations need clinical assessment.",
+            "sourceIds": [
+              "creatine-kidney-rct",
+              "creatine-misconceptions"
+            ]
+          },
+          {
+            "claim": "Creatine does nothing unless you use a loading phase.",
+            "verdict": "False",
+            "explanation": "Loading changes how quickly muscle stores rise, not whether they can rise. In a classic muscle-biopsy study, a lower daily intake over 28 days produced a similar eventual increase to a faster loading approach. The practical distinction is speed versus a more gradual approach, rather than an obligatory loading ritual. The study's regimens describe research protocols, not an individualized prescription.",
+            "sourceIds": [
+              "creatine-loading-rct"
+            ]
+          },
+          {
+            "claim": "Everyone must cycle off creatine to keep it working.",
+            "verdict": "No established requirement",
+            "explanation": "Research has used continuous supplementation, and there is no established compulsory on-off cycle needed to preserve its effect in healthy adults. After stopping, raised muscle stores gradually return toward baseline. Choosing to stop because of intolerance, a medical investigation or changed goals is a separate decision from a claim that every user must follow a fixed cycle.",
+            "sourceIds": [
+              "creatine-position"
+            ]
+          },
+          {
+            "claim": "Missing the post-workout window makes creatine ineffective.",
+            "verdict": "Overstated",
+            "explanation": "Creatine works substantially through tissue stores built over time. An eight-week trial comparing intake before training, after training and placebo did not establish a clear pre-versus-post advantage. That small trial does not settle every timing question, but it cannot support treating one narrow workout window as essential. Consistent intake and the full training context matter more than an advertised minute-by-minute rule.",
+            "sourceIds": [
+              "creatine-timing-rct",
+              "creatine-loading-rct"
+            ]
+          },
+          {
+            "claim": "Creatine has no relevance outside the gym, so brain research can be ignored.",
+            "verdict": "Too absolute; cognitive benefits remain uncertain",
+            "explanation": "Creatine is studied beyond exercise, including cognition. A preregistered trial with 123 participants suggested at most a small possible cognitive effect; key tests did not show clear conventional statistical evidence of benefit, and exploratory tasks were not improved. Interest in brain energy metabolism therefore warrants research, not a promise of sharper thinking for everyone. Studying a neurological condition also does not establish a treatment.",
+            "sourceIds": [
+              "creatine-cognition-rct",
+              "creatine-parkinson-trial"
+            ]
+          },
+          {
+            "claim": "Creatine automatically dehydrates you and makes exercising in heat unsafe.",
+            "verdict": "Not supported by controlled heat testing",
+            "explanation": "In a controlled crossover study, short-term creatine did not worsen hydration or temperature regulation in trained men exercising in heat after dehydration. This does not mean dehydration or heat illness becomes harmless, or that everyone needs the same fluid intake. Normal heat precautions and individualized hydration remain necessary; the study provides no basis for forcing excessive water solely because creatine is being used.",
+            "sourceIds": [
+              "creatine-heat-rct"
+            ]
+          },
+          {
+            "claim": "A newer or more soluble form must outperform monohydrate.",
+            "verdict": "Not demonstrated as a general rule",
+            "explanation": "Dissolving easily is a formulation property, not proof of greater muscle uptake or training benefit. Head-to-head trials found no advantage for a tested buffered formulation, while ethyl ester did not improve on monohydrate and was less effective at raising muscle creatine. This also means all forms cannot simply be assumed equivalent. Ask for evidence for the exact ingredient, delivered amount and claimed outcome.",
+            "sourceIds": [
+              "creatine-buffered-rct",
+              "creatine-ethyl-ester-rct"
+            ]
+          }
+        ],
+        "sourceIds": [
+          "creatine-position",
+          "creatine-misconceptions",
+          "creatine-water-rct",
+          "creatine-hair-rct",
+          "creatine-kidney-rct",
+          "creatine-loading-rct",
+          "creatine-timing-rct",
+          "creatine-cognition-rct",
+          "creatine-parkinson-trial",
+          "creatine-heat-rct",
+          "creatine-buffered-rct",
+          "creatine-ethyl-ester-rct",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "creatine-types",
+        "category": "creatine",
+        "series": "understanding-types",
+        "title": "Creatine types: the ingredient, the format and the evidence",
+        "summary": "Understand monohydrate, HCl, nitrate, buffered creatine and ethyl ester, then compare powder, capsules and gummies on what they actually deliver.",
+        "author": "Supplement Research editorial synthesis",
+        "reviewed": "2026-11-18",
+        "intro": "A tub can describe three different things at once: its chemical ingredient, how that ingredient was processed, and how it is delivered. Creatine monohydrate is an ingredient. Micronized describes particle processing. A powder, capsule or gummy is a delivery format. Keeping these separate makes it easier to evaluate evidence and price without confusing convenience or a premium name with greater biological effect.",
+        "sections": [
+          {
+            "id": "ingredient-and-format",
+            "title": "Ask three different label questions",
+            "body": "First identify the chemical ingredient and whether it is a single compound or a blend. Then identify the processing description, such as micronization. Finally identify the delivery format and the number of units needed for one full serving. A capsule containing monohydrate and a monohydrate powder can share the same ingredient while differing in convenience, added ingredients, serving size and cost. The package front rarely answers all of these questions.",
+            "sourceIds": [
+              "creatine-forms-review",
+              "supplement-quality-ods"
+            ]
+          },
+          {
+            "id": "base-versus-compound",
+            "title": "Compound weight is not creatine-base weight",
+            "body": "Pure monohydrate is approximately 87.9% creatine by molecular mass, HCl 78.2%, and nitrate 67.5%; the rest belongs to water or the associated chemical component. These are theoretical composition fractions, not absorption percentages or ratings of clinical potency. A label may already declare creatine-base content rather than compound mass, so do not apply the fraction twice. Identify the stated basis before converting a serving. A verified content assay is more informative than calculating from an ambiguous label.",
+            "sourceIds": [
+              "creatine-forms-review"
+            ]
+          },
+          {
+            "id": "micronization",
+            "title": "Micronized is a processing description",
+            "body": "Micronization reduces particle size and can affect dissolution, texture and powder handling. When the ingredient remains creatine monohydrate, it does not become a different creatine molecule. A processing result is not automatically a human performance result, and evidence for one preparation cannot certify every product carrying the same adjective. Record micronization as a processing flag, then evaluate the ingredient amount, quality and any formulation-specific clinical claim separately.",
+            "sourceIds": [
+              "creatine-formulation-review",
+              "supplement-quality-ods"
+            ]
+          },
+          {
+            "id": "stability-and-testing",
+            "title": "Match stability evidence to the finished formulation",
+            "body": "Creatine stability depends on its environment and storage. A laboratory study of a dissolved effervescent preparation found concentration changes during prolonged storage; that experiment is not a test of every drink or gummy. For a moist or ready-to-eat product, ask whether an appropriate analytical method verifies creatine content in the actual finished formulation and whether stability data support its expiry and storage instructions. An ingredient supplier's certificate does not by itself establish finished-product shelf life.",
+            "sourceIds": [
+              "creatine-solution-stability",
+              "supplement-quality-ods"
+            ]
+          },
+          {
+            "id": "comparing-value",
+            "title": "Compare the same delivered quantity",
+            "body": "Use the total purchase price, complete serving count and the declared or measured creatine amount on a consistent basis. Cost per gram of verified creatine base can help compare chemical forms; cost per full evidence-relevant serving helps compare finished products. Neither calculation proves two forms produce equivalent outcomes. Gummies and capsules may justify a convenience premium for someone who prefers them, but convenience should be priced separately from an unproven performance advantage. Keep blend amounts or unclear label bases marked as unknown rather than manufacturing precise numbers.",
+            "sourceIds": [
+              "creatine-forms-review",
+              "supplement-quality-ods"
+            ]
+          }
+        ],
+        "forms": [
+          {
+            "name": "Creatine monohydrate",
+            "kind": "ingredient",
+            "description": "Creatine crystallized with one water molecule per creatine molecule. It is the main reference ingredient in exercise research.",
+            "metabolism": "After ingestion, available creatine can enter tissues and join the creatine-phosphocreatine system. Its crystal water is not an impurity or a reason to dismiss it.",
+            "evidence": "An extensive exercise literature supports increased muscle stores and benefits for appropriate high-intensity training outcomes. Response still depends on the person and training context.",
+            "value": "Use a clearly labelled, quality-verified monohydrate as the reference when judging whether another ingredient's premium buys demonstrated benefit.",
+            "sourceIds": [
+              "creatine-position",
+              "creatine-loading-rct"
+            ]
+          },
+          {
+            "name": "Creatine hydrochloride (HCl)",
+            "kind": "ingredient",
+            "description": "A creatine salt associated with hydrochloride. Greater solubility is commonly promoted as a reason to use a smaller serving.",
+            "metabolism": "Solubility concerns dissolution; it does not establish how much reaches muscle or how much a lower serving can replace.",
+            "evidence": "An eight-week randomized study of 40 men found training-related improvements with HCl and monohydrate protocols. It did not establish a convincing HCl advantage and did not measure muscle creatine.",
+            "value": "Do not pay for a universal lower-dose or superior-uptake claim without an adequately designed comparison. Compare the actual label basis and delivered amount.",
+            "sourceIds": [
+              "creatine-hcl-rct"
+            ]
+          },
+          {
+            "name": "Creatine nitrate",
+            "kind": "ingredient",
+            "description": "A salt containing creatine and nitrate. Its total mass cannot be counted entirely as creatine.",
+            "metabolism": "It introduces both creatine and nitrate exposures; a response to the combination cannot automatically be attributed to more efficient creatine delivery.",
+            "evidence": "A 28-day trial found some bench-press effects with a tested nitrate protocol but no treatment effect on several sprint tests. Only monohydrate retained a clear muscle-creatine increase at day 28.",
+            "value": "Evaluate the creatine and nitrate amounts separately. A combination rationale is not evidence that nitrate universally replaces or outperforms monohydrate.",
+            "sourceIds": [
+              "creatine-nitrate-rct"
+            ]
+          },
+          {
+            "name": "Buffered creatine",
+            "kind": "ingredient",
+            "description": "Usually a creatine-containing preparation with buffering agents intended to alter pH. The exact formulation matters; this name does not identify one universal new molecule.",
+            "metabolism": "A proposed reduction in stomach degradation must translate into measured creatine availability and a meaningful outcome; the pH claim alone cannot establish that chain.",
+            "evidence": "A randomized 28-day study of one buffered preparation found no greater muscle-creatine, body-composition or training adaptation benefit than monohydrate, including at matched creatine-protocol amounts.",
+            "value": "The tested premium claim did not produce a demonstrated advantage. Results from one formulation should not be turned into a statement that every buffered blend is identical.",
+            "sourceIds": [
+              "creatine-buffered-rct"
+            ]
+          },
+          {
+            "name": "Creatine ethyl ester",
+            "kind": "ingredient",
+            "description": "A chemically modified creatine derivative, rather than ordinary monohydrate packaged differently.",
+            "metabolism": "Changing the molecule can change its behaviour. A chemical modification intended to improve uptake still needs human evidence that useful creatine reaches tissue.",
+            "evidence": "In a seven-week randomized study of 30 men, ethyl ester did not improve strength or body composition more than monohydrate and was less effective at increasing muscle creatine; serum creatinine rose more.",
+            "value": "The direct comparison offers no basis for a performance premium. Higher creatinine in this formulation study should not be casually labelled kidney injury.",
+            "sourceIds": [
+              "creatine-ethyl-ester-rct"
+            ]
+          },
+          {
+            "name": "Powder",
+            "kind": "delivery",
+            "description": "A way to deliver an ingredient, usually measured by a scoop or scale. Powder can contain monohydrate, another form or a multi-ingredient blend.",
+            "metabolism": "The declared ingredient supplies the creatine; being a powder does not create a separate metabolic pathway.",
+            "evidence": "The strong monohydrate research base supports the studied ingredient and regimens. It does not certify every powder's identity, purity or scoop accuracy.",
+            "value": "Check ingredient quantity per serving and usable servings per container. Compare like ingredients before attributing a price difference to effectiveness.",
+            "sourceIds": [
+              "creatine-position",
+              "supplement-quality-ods"
+            ]
+          },
+          {
+            "name": "Capsules or tablets",
+            "kind": "delivery",
+            "description": "Unit-based packaging that can make portions and travel convenient. The amount per capsule may be smaller than the full labelled serving.",
+            "metabolism": "The dosage form must release its ingredient; the ingredient's identity and delivered amount still determine the relevant creatine exposure.",
+            "evidence": "A capsule is not a novel creatine ingredient. Evidence for monohydrate cannot establish that a differently dosed or mixed capsule is superior to powder.",
+            "value": "Calculate the cost using all capsules or tablets needed for the complete serving, and inspect excipients, swallowing preference and quality documentation.",
+            "sourceIds": [
+              "creatine-forms-review",
+              "supplement-quality-ods"
+            ]
+          },
+          {
+            "name": "Gummies or jelly",
+            "kind": "delivery",
+            "description": "An edible formulation containing a specified creatine ingredient alongside a gel matrix and other ingredients. Count the entire serving, not one gummy unless the label says so.",
+            "metabolism": "A stable, correctly formulated product must deliver available creatine. Taste, texture and convenience do not establish content, shelf stability or superior uptake.",
+            "evidence": "A 2026 trial in 32 female beach-volleyball athletes reported improved jump and change-of-direction outcomes with one gummy product. It had no placebo or powder comparator and cannot establish a gummy-format advantage.",
+            "value": "Ask for finished-product content and shelf-life evidence for the exact formulation. Compare cost per full serving, added ingredients and storage requirements; this is not a verdict on untested brands.",
+            "sourceIds": [
+              "creatine-gummy-rct",
+              "creatine-solution-stability",
+              "supplement-quality-ods"
+            ]
+          }
+        ],
+        "sourceIds": [
+          "creatine-position",
+          "creatine-loading-rct",
+          "creatine-forms-review",
+          "creatine-formulation-review",
+          "creatine-hcl-rct",
+          "creatine-nitrate-rct",
+          "creatine-buffered-rct",
+          "creatine-ethyl-ester-rct",
+          "creatine-gummy-rct",
+          "creatine-solution-stability",
+          "supplement-quality-ods"
+        ]
+      }
     ]
   }
 }
