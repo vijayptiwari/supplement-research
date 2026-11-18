@@ -3,6 +3,14 @@ export function validateClinicalGuidance(research,invalid){
  const text=v=>typeof v==='string'&&v.trim().length>0,num=v=>typeof v==='number'&&Number.isFinite(v),date=v=>typeof v==='string'&&/^\d{4}-\d{2}-\d{2}$/.test(v)&&!Number.isNaN(Date.parse(v))&&new Date(v+'T00:00:00Z').toISOString().slice(0,10)===v,refs=new Set(research.sources.map(s=>s.id));
  const units=new Set(['g','mg','µg','IU','µg DFE','mg NE','ng']);
  const policy=research.intakePolicy,medical=research.medicalPolicy;
+ const education=research.educationPolicy;
+ if(research.articles.some(a=>a.buyingGuide?.practices)&&!education)invalid('Practical buying guidance requires an education policy.');
+ if(education){
+  if(!date(education.reviewed)||!text(education.summary)||!text(education.handoff)||!text(education.qualityTitle)||!text(education.qualityNote)||!Array.isArray(education.qualitySourceIds)||!education.qualitySourceIds.length||education.qualitySourceIds.some(id=>!refs.has(id)))invalid('Education-first guidance needs a dated learning, quality-evidence and product handoff policy.');
+  for(const a of research.articles){if(!a.buyingGuide)continue;const p=a.buyingGuide.practices,items=rows=>Array.isArray(rows)&&rows.length>=2&&rows.every(i=>i&&text(i.title)&&text(i.detail));
+   if(!p||!items(p.dos)||!items(p.donts)||!Array.isArray(p.sourceIds)||!p.sourceIds.length||p.sourceIds.some(id=>!refs.has(id)||!a.sourceIds?.includes(id)))invalid(`Guide ${a.category} needs sourced, actionable do and don't guidance.`);
+  }
+ }
  if(research.articles.some(a=>a.intakeGuide!=null)&&!policy)invalid('Intake guides require an explicit adult reference policy.');
  if(research.articles.some(a=>a.medicalGuide!=null)&&!medical)invalid('Medical guides require an explicit evidence policy.');
  if(!policy&&!medical)return;

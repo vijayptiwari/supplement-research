@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-11-17",
+  "reviewed": "2026-11-18",
   "goals": [
     {
       "id": "strength",
@@ -407,5 +407,153 @@
         "hmb-older-meta"
       ]
     }
-  ]
+  ],
+  "schemaVersion": 2,
+  "productPolicy": {
+    "summary": "These are the same checks used by the stack builder after its goal, health-context, existing-product and dietary-gap checks.",
+    "limitations": "A matching label and price do not establish independent batch testing, authenticity, efficacy or suitability for an individual. Review uncertainty and the original sources before buying.",
+    "orderNote": "Eligible packs are ordered by upfront pack price. Compare cost per labelled active amount and the full intended purchase before deciding; price order is not an efficacy or quality score.",
+    "common": [
+      {
+        "id": "matching-price",
+        "label": "A matching, dated price",
+        "detail": "The recorded price must have evidence for the exact product and pack. Check its observation date; a catalog observation is not a live checkout quote.",
+        "source": "offer",
+        "field": "priceAudit.status",
+        "op": "eq",
+        "value": "verified"
+      },
+      {
+        "id": "in-stock",
+        "label": "Recorded as in stock",
+        "detail": "Only offers recorded as in stock enter a purchase shortlist. Confirm availability and final price before buying.",
+        "source": "offer",
+        "field": "stock",
+        "op": "eq",
+        "value": "In stock"
+      },
+      {
+        "id": "valid-fields",
+        "label": "No unresolved catalog field errors",
+        "detail": "The dataset must pass its field validation. This checks recorded values; it does not establish independent purity testing, authenticity or clinical suitability.",
+        "source": "offer",
+        "field": "quality.errors",
+        "op": "eq",
+        "value": 0
+      },
+      {
+        "id": "upfront-budget",
+        "label": "Fits the pack budget you enter",
+        "detail": "When an upfront budget is entered, each candidate pack must fit it. The review also totals selected packs, so several individually affordable packs can still exceed the combined budget.",
+        "source": "offer",
+        "field": "price",
+        "op": "inputMaximum",
+        "value": "budget"
+      }
+    ],
+    "categories": {
+      "protein": [
+        {
+          "id": "protein-content",
+          "label": "Known cost of actual labelled protein",
+          "detail": "Protein content must be established so cost per gram of protein can be calculated. Powder weight and scoop size alone do not establish protein content.",
+          "source": "offer",
+          "field": "cost",
+          "op": "positive"
+        },
+        {
+          "id": "protein-allergy",
+          "label": "Milk allergy or uncertain traces need review",
+          "detail": "The builder pauses protein-pack suggestions when milk allergy or uncertain traces are flagged; a plant ingredient class alone is not allergen certification.",
+          "source": "input",
+          "field": "milkAllergy",
+          "op": "neq",
+          "value": "yes"
+        },
+        {
+          "id": "protein-vegan",
+          "label": "Plant protein when plant ingredients are requested",
+          "detail": "For a vegan ingredient preference, the listed protein type must be plant-based. This is an ingredient filter, not independent vegan certification.",
+          "source": "offer",
+          "field": "type",
+          "op": "startsWithCI",
+          "value": "plant",
+          "when": {
+            "source": "input",
+            "field": "diet",
+            "op": "eq",
+            "value": "vegan"
+          }
+        }
+      ],
+      "creatine": [
+        {
+          "id": "creatine-form",
+          "label": "Creatine monohydrate",
+          "detail": "The automatic shortlist uses monohydrate. Evidence and equal-gram prices must not be transferred automatically to HCl, nitrate or other compounds.",
+          "source": "offer",
+          "field": "type",
+          "op": "eq",
+          "value": "Monohydrate"
+        },
+        {
+          "id": "creatine-concentration",
+          "label": "{value}% labelled monohydrate",
+          "detail": "The shortlist uses the recorded {value}% concentration. This is a label claim, not a laboratory purity certificate.",
+          "source": "offer",
+          "field": "creatine",
+          "op": "eq",
+          "value": 100
+        },
+        {
+          "id": "creatine-unflavoured",
+          "label": "Unflavoured formula",
+          "detail": "The shortlist uses unflavoured offers so flavoured blend weight does not complicate this comparison.",
+          "source": "offer",
+          "field": "flavour",
+          "op": "containsAnyCI",
+          "value": [
+            "unflavoured",
+            "unflavored"
+          ]
+        }
+      ],
+      "fish-oil": [
+        {
+          "id": "omega-diet",
+          "label": "Compatible with the stated diet",
+          "detail": "Fish-oil purchase suggestions are shown only for the no-ingredient-preference option. Vegetarian or vegan preferences stay in educational review.",
+          "source": "input",
+          "field": "diet",
+          "op": "eq",
+          "value": "any"
+        },
+        {
+          "id": "omega-allergy",
+          "label": "Fish allergy or uncertainty needs review",
+          "detail": "Fish-oil purchase suggestions pause when a fish allergy or uncertainty is reported.",
+          "source": "input",
+          "field": "fishAllergy",
+          "op": "neq",
+          "value": "yes"
+        },
+        {
+          "id": "omega-content",
+          "label": "EPA+DHA content is known",
+          "detail": "Compare the declared EPA plus DHA, not the total fish-oil milligrams or ALA content.",
+          "source": "offer",
+          "field": "epaDhaMg",
+          "op": "positive"
+        },
+        {
+          "id": "omega-serving",
+          "label": "Units per label serving are known",
+          "detail": "A capsule count is not a serving count. Verified units per serving are needed to calculate pack servings and cost per EPA+DHA amount.",
+          "source": "offer",
+          "field": "servingUnits",
+          "op": "positive"
+        }
+      ]
+    }
+  }
 }

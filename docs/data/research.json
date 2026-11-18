@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "reviewed": "2026-11-17",
+  "reviewed": "2026-11-18",
   "scope": "Curated educational guides and selected references; not a systematic or exhaustive review. Biological mechanisms do not by themselves prove clinical benefit. Nutrient requirements, deficiency treatment and routine supplement use are different questions. Research does not endorse catalog brands. Individual and pediatric care require appropriate professional guidance; international findings may not generalize to every Indian product or population.",
   "articles": [
     {
@@ -21,9 +21,10 @@
         "food-kidney-diet",
         "food-allergens",
         "food-usda-sr28",
-        "protein-diabetes-ada"
+        "protein-diabetes-ada",
+        "supplement-quality-ods"
       ],
-      "reviewed": "2026-11-17",
+      "reviewed": "2026-11-18",
       "author": "Supplement Research editorial synthesis",
       "bodySteps": [
         "Stomach and intestinal enzymes break dietary protein into smaller peptides and amino acids.",
@@ -178,7 +179,33 @@
             "food-allergens"
           ]
         },
-        "reviewed": "2026-11-17"
+        "reviewed": "2026-11-18",
+        "practices": {
+          "dos": [
+            {
+              "title": "Count food first",
+              "detail": "Check whether your normal meals leave an assessed protein gap before paying for a powder."
+            },
+            {
+              "title": "Compare actual protein",
+              "detail": "Use labelled protein per serving and cost per gram of protein; check the source and allergens."
+            }
+          ],
+          "donts": [
+            {
+              "title": "Don't count powder as protein",
+              "detail": "A scoop's full weight includes ingredients beyond protein; compare the declared concentration and serving size."
+            },
+            {
+              "title": "Don't buy more automatically",
+              "detail": "Extra powder has low purchase priority when food already meets your needs or it displaces necessary meals."
+            }
+          ],
+          "sourceIds": [
+            "exercise",
+            "protein-review"
+          ]
+        }
       },
       "intakeGuide": {
         "kind": "daily-target",
@@ -292,9 +319,10 @@
         "food-protein-vegetarian",
         "food-performance-bioactives",
         "creatine-parkinson-trial",
-        "food-chicken-bioactives"
+        "food-chicken-bioactives",
+        "supplement-quality-ods"
       ],
-      "reviewed": "2026-11-17",
+      "reviewed": "2026-11-18",
       "author": "Supplement Research editorial synthesis",
       "bodySteps": [
         "Absorbed creatine enters circulation and is taken up by tissues, predominantly muscle.",
@@ -373,7 +401,33 @@
             "creatine-position"
           ]
         },
-        "reviewed": "2026-11-17"
+        "reviewed": "2026-11-18",
+        "practices": {
+          "dos": [
+            {
+              "title": "Match the training goal",
+              "detail": "Consider the repeated high-intensity or resistance-training context before adding an optional performance product."
+            },
+            {
+              "title": "Compare the same compound",
+              "detail": "Check that the label identifies creatine monohydrate and a clear amount before comparing pack costs."
+            }
+          ],
+          "donts": [
+            {
+              "title": "Don't equate different salts",
+              "detail": "Equal compound weights do not establish equal creatine content or interchangeable effects."
+            },
+            {
+              "title": "Don't pay for unsupported superiority",
+              "detail": "Micronized processing or a newer form alone does not establish better outcomes than monohydrate."
+            }
+          ],
+          "sourceIds": [
+            "exercise",
+            "creatine-position"
+          ]
+        }
       },
       "intakeGuide": {
         "kind": "optional-performance",
@@ -449,9 +503,10 @@
       "safety": "Liver injury has been reported, and thyroid effects and drug interactions are concerns. Avoid use in pregnancy; seek professional advice for relevant conditions or medicines.",
       "sourceIds": [
         "ash-overview",
-        "ash-trial"
+        "ash-trial",
+        "supplement-quality-ods"
       ],
-      "reviewed": "2026-11-17",
+      "reviewed": "2026-11-18",
       "author": "Supplement Research editorial synthesis",
       "bodySteps": [
         "A swallowed product supplies a mixture of plant constituents; powders and extracts can have different compositions.",
@@ -503,7 +558,33 @@
             "ash-trial"
           ]
         },
-        "reviewed": "2026-11-17"
+        "reviewed": "2026-11-18",
+        "practices": {
+          "dos": [
+            {
+              "title": "Identify the material",
+              "detail": "Separate root powder, standardized extract and blends; compare the preparation with the one actually studied."
+            },
+            {
+              "title": "Review safety and ongoing need",
+              "detail": "Check medicines and relevant conditions, and plan to reassess rather than assume indefinite use."
+            }
+          ],
+          "donts": [
+            {
+              "title": "Don't multiply incompatible label values",
+              "detail": "Calculate withanolides only from verified extract mass and its matching standardization, not total root or blend mass."
+            },
+            {
+              "title": "Don't treat broad claims as evidence",
+              "detail": "Universal stress, hormone or cure promises do not show that a particular extract is suitable for you."
+            }
+          ],
+          "sourceIds": [
+            "ash-overview",
+            "ash-trial"
+          ]
+        }
       },
       "intakeGuide": {
         "kind": "no-established-target",
@@ -549,9 +630,10 @@
         "omega-overview",
         "omega-vital",
         "food-omega3",
-        "food-allergens"
+        "food-allergens",
+        "supplement-quality-ods"
       ],
-      "reviewed": "2026-11-17",
+      "reviewed": "2026-11-18",
       "author": "Supplement Research editorial synthesis",
       "bodySteps": [
         "Digestion releases fatty acids from dietary oils.",
@@ -679,7 +761,33 @@
             "food-allergens"
           ]
         },
-        "reviewed": "2026-11-17"
+        "reviewed": "2026-11-18",
+        "practices": {
+          "dos": [
+            {
+              "title": "Find EPA and DHA",
+              "detail": "Use verified EPA+DHA per label serving and units per serving to compare meaningful active-content costs."
+            },
+            {
+              "title": "Check diet and overlap",
+              "detail": "Review fish intake, other omega-3 products and relevant medicines before adding another product."
+            }
+          ],
+          "donts": [
+            {
+              "title": "Don't compare total oil alone",
+              "detail": "A large fish-oil headline does not establish the EPA+DHA amount delivered by a serving."
+            },
+            {
+              "title": "Don't substitute for a prescription",
+              "detail": "Retail fish oil is not interchangeable with a condition-specific prescription omega-3 medicine."
+            }
+          ],
+          "sourceIds": [
+            "omega-overview",
+            "omega-vital"
+          ]
+        }
       },
       "intakeGuide": {
         "kind": "no-established-target",
@@ -734,9 +842,10 @@
       "sourceIds": [
         "d-overview",
         "d-vital",
-        "food-vitamin-d"
+        "food-vitamin-d",
+        "supplement-quality-ods"
       ],
-      "reviewed": "2026-11-17",
+      "reviewed": "2026-11-18",
       "author": "Supplement Research editorial synthesis",
       "bodySteps": [
         "The intestine absorbs vitamin D from food or supplements; skin can also produce it after UVB exposure.",
@@ -861,7 +970,33 @@
             "d-vital"
           ]
         },
-        "reviewed": "2026-11-17"
+        "reviewed": "2026-11-18",
+        "practices": {
+          "dos": [
+            {
+              "title": "Confirm the reason for use",
+              "detail": "An established need and appropriate care plan matter more than choosing the strongest pack."
+            },
+            {
+              "title": "Check strength and frequency",
+              "detail": "Read IU, micrograms and product directions, then review vitamin D already present in other products."
+            }
+          ],
+          "donts": [
+            {
+              "title": "Don't mistake a comparison for a dose",
+              "detail": "The catalog's common comparison amount is a price calculation, not your daily intake instruction."
+            },
+            {
+              "title": "Don't escalate for general wellness",
+              "detail": "Adequate status does not imply that progressively higher intake gives more benefit; excess can cause harm."
+            }
+          ],
+          "sourceIds": [
+            "d-overview",
+            "d-vital"
+          ]
+        }
       },
       "intakeGuide": {
         "kind": "daily-target",
@@ -968,9 +1103,10 @@
       "catalogReading": "Compare explicitly labelled elemental magnesium per serving. The site keeps compound mass separate and withholds active-content cost when elemental amounts or serving size are unclear.",
       "safety": "Supplemental magnesium can cause diarrhoea and interact with some medicines. Kidney impairment changes safety considerations; seek individual advice.",
       "sourceIds": [
-        "mg-overview"
+        "mg-overview",
+        "supplement-quality-ods"
       ],
-      "reviewed": "2026-11-17",
+      "reviewed": "2026-11-18",
       "author": "Supplement Research editorial synthesis",
       "bodySteps": [
         "A magnesium compound must release magnesium that can be absorbed from the intestine.",
@@ -1092,7 +1228,32 @@
             "mg-overview"
           ]
         },
-        "reviewed": "2026-11-17"
+        "reviewed": "2026-11-18",
+        "practices": {
+          "dos": [
+            {
+              "title": "Look for elemental magnesium",
+              "detail": "Compare its verified amount per serving, rather than the larger mass of a magnesium salt."
+            },
+            {
+              "title": "Review food and medicines",
+              "detail": "Check the reason for supplementation, existing intake, tolerability and relevant medicine or kidney-health concerns."
+            }
+          ],
+          "donts": [
+            {
+              "title": "Don't infer missing active content",
+              "detail": "An unclear elemental amount or serving size prevents a reliable active-content cost comparison."
+            },
+            {
+              "title": "Don't assume a universal sleep benefit",
+              "detail": "A salt name or an adequate mineral intake does not establish that adding magnesium will improve everyone's sleep."
+            }
+          ],
+          "sourceIds": [
+            "mg-overview"
+          ]
+        }
       },
       "intakeGuide": {
         "kind": "daily-target",
@@ -1259,9 +1420,10 @@
       "sourceIds": [
         "ca-overview",
         "mg-overview",
-        "zn-overview"
+        "zn-overview",
+        "supplement-quality-ods"
       ],
-      "reviewed": "2026-11-17",
+      "reviewed": "2026-11-18",
       "author": "Supplement Research editorial synthesis",
       "bodySteps": [
         "The tablet releases separate calcium, magnesium and zinc compounds in the digestive tract.",
@@ -1392,7 +1554,34 @@
             "zn-overview"
           ]
         },
-        "reviewed": "2026-11-17"
+        "reviewed": "2026-11-18",
+        "practices": {
+          "dos": [
+            {
+              "title": "Check each mineral separately",
+              "detail": "Read elemental calcium, magnesium and zinc on the same verified label-serving basis."
+            },
+            {
+              "title": "Review the complete combination",
+              "detail": "Check co-vitamins and existing products; a fixed combination should fit the actual plan without unnecessary overlap."
+            }
+          ],
+          "donts": [
+            {
+              "title": "Don't add mineral masses into potency",
+              "detail": "A combined milligram headline does not measure value, and salt weights are not elemental mineral amounts."
+            },
+            {
+              "title": "Don't buy a combination by default",
+              "detail": "When only one nutrient needs attention, a broad formula may add unnecessary ingredients rather than practical value."
+            }
+          ],
+          "sourceIds": [
+            "ca-overview",
+            "mg-overview",
+            "zn-overview"
+          ]
+        }
       },
       "intakeGuide": {
         "kind": "daily-target",
@@ -1758,9 +1947,10 @@
         "gsh-skin",
         "gsh-skin-2026",
         "food-gsh-protein-healthcanada",
-        "food-usda-sr28"
+        "food-usda-sr28",
+        "supplement-quality-ods"
       ],
-      "reviewed": "2026-11-17",
+      "reviewed": "2026-11-18",
       "author": "Supplement Research editorial synthesis",
       "bodySteps": [
         "Glutathione is a small peptide made from glutamate, cysteine and glycine. Digestion, uptake and processing influence what an oral formulation delivers; the label amount is not a measured amount reaching a tissue.",
@@ -1869,7 +2059,35 @@
             "gsh-skin-2026"
           ]
         },
-        "reviewed": "2026-11-17"
+        "reviewed": "2026-11-18",
+        "practices": {
+          "dos": [
+            {
+              "title": "Set a realistic purpose",
+              "detail": "Review the limited oral evidence and alternatives before spending on a specific cosmetic goal."
+            },
+            {
+              "title": "Check glutathione itself",
+              "detail": "Compare the declared glutathione amount, formulation and verified servings, keeping co-ingredients separate."
+            }
+          ],
+          "donts": [
+            {
+              "title": "Don't count precursors as glutathione",
+              "detail": "NAC, cysteine, vitamin C and the full blend weight are not the product's glutathione amount."
+            },
+            {
+              "title": "Don't buy a delivery claim as proof",
+              "detail": "Liposomal or reduced wording alone does not establish superior clinical results, general detox benefits or disease treatment."
+            }
+          ],
+          "sourceIds": [
+            "gsh-stores",
+            "gsh-oxidative",
+            "gsh-skin",
+            "gsh-skin-2026"
+          ]
+        }
       },
       "intakeGuide": {
         "kind": "no-established-target",
@@ -1937,9 +2155,10 @@
         "melatonin-children",
         "melatonin-metabolism",
         "melatonin-physiology",
-        "food-melatonin-cherries-burkhardt"
+        "food-melatonin-cherries-burkhardt",
+        "supplement-quality-ods"
       ],
-      "reviewed": "2026-11-17",
+      "reviewed": "2026-11-18",
       "author": "Supplement Research editorial synthesis",
       "bodySteps": [
         "Darkness normally promotes melatonin release from the brain's pineal gland, providing a biological night-time signal; evening light can suppress this signal.",
@@ -2044,7 +2263,34 @@
             "melatonin-children"
           ]
         },
-        "reviewed": "2026-11-17"
+        "reviewed": "2026-11-18",
+        "practices": {
+          "dos": [
+            {
+              "title": "Start with a defined sleep question",
+              "detail": "A circadian goal and appropriate timing plan matter more than buying a stronger sleep product."
+            },
+            {
+              "title": "Check the release and serving",
+              "detail": "Read melatonin per label serving, units per serving and other sedating ingredients; reassess benefit and ongoing need."
+            }
+          ],
+          "donts": [
+            {
+              "title": "Don't equate strength with better sleep",
+              "detail": "A lower cost per milligram is arithmetic, not evidence that a higher amount suits your situation."
+            },
+            {
+              "title": "Don't ignore drowsiness or persistent symptoms",
+              "detail": "Avoid driving when drowsy; persistent insomnia needs assessment rather than indefinite self-escalation."
+            }
+          ],
+          "sourceIds": [
+            "melatonin-overview",
+            "melatonin-circadian",
+            "melatonin-insomnia"
+          ]
+        }
       },
       "intakeGuide": {
         "kind": "no-established-target",
@@ -2106,9 +2352,10 @@
         "biotin-overview",
         "biotin-lab",
         "b-family",
-        "biotin-metabolic"
+        "biotin-metabolic",
+        "supplement-quality-ods"
       ],
-      "reviewed": "2026-11-17",
+      "reviewed": "2026-11-18",
       "author": "Supplement Research editorial synthesis",
       "bodySteps": [
         "Digestion releases food-bound biotin; the enzyme biotinidase helps make free biotin available for intestinal absorption.",
@@ -2233,7 +2480,34 @@
             "biotin-metabolic"
           ]
         },
-        "reviewed": "2026-11-17"
+        "reviewed": "2026-11-18",
+        "practices": {
+          "dos": [
+            {
+              "title": "Check the actual unit",
+              "detail": "Read biotin micrograms per verified serving and count biotin from hair products, multivitamins and other blends."
+            },
+            {
+              "title": "Tell the testing team",
+              "detail": "Disclose biotin-containing products before blood tests and follow the laboratory's assay-specific instructions."
+            }
+          ],
+          "donts": [
+            {
+              "title": "Don't buy strength as a hair score",
+              "detail": "More labelled biotin does not establish better hair growth when no deficiency has been identified."
+            },
+            {
+              "title": "Don't assume one stopping interval",
+              "detail": "Biotin can interfere with some assays; there is no universal stopping interval suitable for every test."
+            }
+          ],
+          "sourceIds": [
+            "biotin-overview",
+            "biotin-lab",
+            "biotin-metabolic"
+          ]
+        }
       },
       "intakeGuide": {
         "kind": "daily-target",
@@ -2317,9 +2591,10 @@
         "c-food",
         "c-cold-review",
         "food-india-nin-fruits",
-        "food-usda-sr28"
+        "food-usda-sr28",
+        "supplement-quality-ods"
       ],
-      "reviewed": "2026-11-17",
+      "reviewed": "2026-11-18",
       "author": "Supplement Research editorial synthesis",
       "bodySteps": [
         "Vitamin C is absorbed through the intestine; the fraction absorbed falls as oral intake becomes larger.",
@@ -2447,7 +2722,34 @@
             "c-cold-review"
           ]
         },
-        "reviewed": "2026-11-17"
+        "reviewed": "2026-11-18",
+        "practices": {
+          "dos": [
+            {
+              "title": "Review ordinary food intake",
+              "detail": "Consider whether food can address an assessed gap before adding a vitamin C product."
+            },
+            {
+              "title": "Compare declared vitamin C",
+              "detail": "Use the verified vitamin C amount per serving and read added zinc, sweeteners and other ingredients separately."
+            }
+          ],
+          "donts": [
+            {
+              "title": "Don't use extract or blend weight",
+              "detail": "The weight of a fruit extract, ascorbate salt or full formula is not automatically its vitamin C amount."
+            },
+            {
+              "title": "Don't pay for unproven superiority",
+              "detail": "Extra strength, effervescence and liposomal wording alone do not establish better outcomes or general infection prevention."
+            }
+          ],
+          "sourceIds": [
+            "c-overview",
+            "c-food",
+            "c-cold-review"
+          ]
+        }
       },
       "intakeGuide": {
         "kind": "daily-target",
@@ -2576,9 +2878,10 @@
         "b1-overview",
         "b2-overview",
         "b5-overview",
-        "biotin-overview"
+        "biotin-overview",
+        "supplement-quality-ods"
       ],
-      "reviewed": "2026-11-17",
+      "reviewed": "2026-11-18",
       "author": "Supplement Research editorial synthesis",
       "bodySteps": [
         "Different B vitamins enter distinct metabolic pathways; there is no single absorption or processing route for a B-complex blend.",
@@ -2688,7 +2991,35 @@
             "b3-overview"
           ]
         },
-        "reviewed": "2026-11-17"
+        "reviewed": "2026-11-18",
+        "practices": {
+          "dos": [
+            {
+              "title": "Identify the vitamin actually needed",
+              "detail": "A specific missing vitamin and appropriate formulation matter more than a broad energy or B-complex claim."
+            },
+            {
+              "title": "Read the full vitamin profile",
+              "detail": "Compare each amount and form on the same serving basis, including B6, niacin, biotin and folate in overlapping products."
+            }
+          ],
+          "donts": [
+            {
+              "title": "Don't create a combined potency total",
+              "detail": "Adding vitamin masses obscures different nutrients and units; milligrams, micrograms and folate DFE remain separate."
+            },
+            {
+              "title": "Don't assume water-soluble means harmless",
+              "detail": "Unnecessary high B6 or niacin exposure can add risk; nonspecific tiredness alone does not establish a vitamin deficiency."
+            }
+          ],
+          "sourceIds": [
+            "b-family",
+            "b12-overview",
+            "b6-overview",
+            "b3-overview"
+          ]
+        }
       },
       "intakeGuide": {
         "kind": "daily-target",
@@ -3083,9 +3414,10 @@
         "folate-overview",
         "folate-prevention",
         "b-family",
-        "b12-overview"
+        "b12-overview",
+        "supplement-quality-ods"
       ],
-      "reviewed": "2026-11-17",
+      "reviewed": "2026-11-18",
       "author": "Supplement Research editorial synthesis",
       "bodySteps": [
         "Food folates, folic acid and supplemental 5-MTHF enter the diet in different chemical forms; their label masses do not directly describe identical availability.",
@@ -3213,7 +3545,34 @@
             "b12-overview"
           ]
         },
-        "reviewed": "2026-11-17"
+        "reviewed": "2026-11-18",
+        "practices": {
+          "dos": [
+            {
+              "title": "Keep the folate forms distinct",
+              "detail": "Record explicit folic acid, methylfolate and declared DFE separately before comparing costs or products."
+            },
+            {
+              "title": "Review the wider care plan",
+              "detail": "Check prenatal and B-complex overlap; assessed deficiency or a prevention need requires the appropriate individual context."
+            }
+          ],
+          "donts": [
+            {
+              "title": "Don't relabel an active-form claim",
+              "detail": "Methylfolate mass is not folic acid, and a marketing claim does not establish identical prevention evidence."
+            },
+            {
+              "title": "Don't overlook possible B12 deficiency",
+              "detail": "Folic acid can correct anaemia while B12-related neurological injury remains; do not replace clinical assessment with a catalog choice."
+            }
+          ],
+          "sourceIds": [
+            "folate-overview",
+            "folate-prevention",
+            "b-family"
+          ]
+        }
       },
       "intakeGuide": {
         "kind": "daily-target",
@@ -3314,9 +3673,10 @@
         "arginine-mi",
         "food-performance-protein",
         "food-performance-amino-acids",
-        "food-usda-sr28"
+        "food-usda-sr28",
+        "supplement-quality-ods"
       ],
-      "reviewed": "2026-11-17",
+      "reviewed": "2026-11-18",
       "author": "Supplement Research editorial synthesis",
       "bodySteps": [
         "Diet and normal body synthesis supply arginine. After intestinal uptake it enters amino-acid pathways used by multiple tissues.",
@@ -3450,7 +3810,34 @@
             "arginine-mi"
           ]
         },
-        "reviewed": "2026-11-17"
+        "reviewed": "2026-11-18",
+        "practices": {
+          "dos": [
+            {
+              "title": "Find the declared L-arginine amount",
+              "detail": "Check whether the product labels free L-arginine or a compound such as AAKG on a verified serving basis."
+            },
+            {
+              "title": "Check the existing pre-workout",
+              "detail": "Review ingredient overlap and relevant medicines or conditions before paying for another arginine product."
+            }
+          ],
+          "donts": [
+            {
+              "title": "Don't count compound mass as free arginine",
+              "detail": "AAKG or proprietary-blend weight does not establish the same amount of L-arginine."
+            },
+            {
+              "title": "Don't chase a pump or self-treat",
+              "detail": "Sensation and nitric-oxide claims do not guarantee recovery; do not self-start after a heart attack."
+            }
+          ],
+          "sourceIds": [
+            "exercise",
+            "arginine-meta",
+            "arginine-mi"
+          ]
+        }
       },
       "intakeGuide": {
         "kind": "no-established-target",
@@ -3501,9 +3888,10 @@
       "sourceIds": [
         "carnitine-overview",
         "carnitine-weight",
-        "carnitine-physiology"
+        "carnitine-physiology",
+        "supplement-quality-ods"
       ],
-      "reviewed": "2026-11-17",
+      "reviewed": "2026-11-18",
       "author": "Supplement Research editorial synthesis",
       "bodySteps": [
         "The body makes carnitine from amino-acid precursors and also obtains it from food. Oral supplements add to this supply, but absorption does not guarantee extra delivery to muscle.",
@@ -3637,7 +4025,34 @@
             "carnitine-physiology"
           ]
         },
-        "reviewed": "2026-11-17"
+        "reviewed": "2026-11-18",
+        "practices": {
+          "dos": [
+            {
+              "title": "Identify the exact chemical form",
+              "detail": "Separate L-carnitine, L-carnitine L-tartrate and acetyl-L-carnitine, using the same declared basis for comparisons."
+            },
+            {
+              "title": "Keep the goal realistic",
+              "detail": "Consider any purchase within an established food and activity plan, with a clear purpose and time frame."
+            }
+          ],
+          "donts": [
+            {
+              "title": "Don't substitute full derivative weight",
+              "detail": "A tartrate or acetyl-compound headline is not automatically a verified free L-carnitine amount."
+            },
+            {
+              "title": "Don't buy a fat-loss shortcut",
+              "detail": "Meat avoidance does not prove deficiency, and a fitness product is not interchangeable with prescribed deficiency treatment."
+            }
+          ],
+          "sourceIds": [
+            "carnitine-overview",
+            "carnitine-weight",
+            "carnitine-physiology"
+          ]
+        }
       },
       "intakeGuide": {
         "kind": "no-established-target",
@@ -3699,9 +4114,10 @@
         "eaa-position",
         "food-performance-protein",
         "food-performance-amino-acids",
-        "food-usda-sr28"
+        "food-usda-sr28",
+        "supplement-quality-ods"
       ],
-      "reviewed": "2026-11-17",
+      "reviewed": "2026-11-18",
       "author": "Supplement Research editorial synthesis",
       "bodySteps": [
         "Free-form BCAA are absorbed as amino acids and reach tissues, including skeletal muscle.",
@@ -3835,7 +4251,35 @@
             "eaa-position"
           ]
         },
-        "reviewed": "2026-11-17"
+        "reviewed": "2026-11-18",
+        "practices": {
+          "dos": [
+            {
+              "title": "Check complete protein first",
+              "detail": "Review food, protein powders and EAA products before buying a drink that duplicates the same amino acids."
+            },
+            {
+              "title": "Find the actual BCAA amount",
+              "detail": "Read verified leucine, isoleucine and valine per label serving rather than the powder's total weight."
+            }
+          ],
+          "donts": [
+            {
+              "title": "Don't use a ratio as proof",
+              "detail": "A leucine ratio describes proportions, not the grams supplied or proven superiority for muscle gain."
+            },
+            {
+              "title": "Don't replace complete nutrition",
+              "detail": "BCAA are three essential amino acids, not a substitute for all nine EAA, complete protein, meals or prescribed nutrition."
+            }
+          ],
+          "sourceIds": [
+            "exercise",
+            "bcaa-trial",
+            "bcaa-review",
+            "eaa-position"
+          ]
+        }
       },
       "intakeGuide": {
         "kind": "no-established-target",
@@ -3889,9 +4333,10 @@
         "eaa-deficit-trial",
         "food-performance-protein",
         "food-performance-amino-acids",
-        "food-usda-sr28"
+        "food-usda-sr28",
+        "supplement-quality-ods"
       ],
-      "reviewed": "2026-11-17",
+      "reviewed": "2026-11-18",
       "author": "Supplement Research editorial synthesis",
       "bodySteps": [
         "Food proteins are digested into peptides and amino acids; a free-form EAA product supplies amino acids without needing the same protein-breakdown step.",
@@ -4027,7 +4472,35 @@
             "bcaa-review"
           ]
         },
-        "reviewed": "2026-11-17"
+        "reviewed": "2026-11-18",
+        "practices": {
+          "dos": [
+            {
+              "title": "Verify all nine essential amino acids",
+              "detail": "Check the actual profile, individual amounts and label serving before comparing an EAA product's cost."
+            },
+            {
+              "title": "Look for a practical advantage",
+              "detail": "An assessed intake constraint should explain why this format is useful beyond food or suitable complete protein."
+            }
+          ],
+          "donts": [
+            {
+              "title": "Don't confuse added extras with completeness",
+              "detail": "BCAA, glutamine, arginine and flavouring do not establish a complete all-nine-EAA profile."
+            },
+            {
+              "title": "Don't duplicate adequate protein blindly",
+              "detail": "EAA already include BCAA; buying both names does not establish an additional need or replace assessment of unexplained muscle loss."
+            }
+          ],
+          "sourceIds": [
+            "eaa-position",
+            "bcaa-review",
+            "protein-review",
+            "eaa-deficit-trial"
+          ]
+        }
       },
       "intakeGuide": {
         "kind": "no-established-target",
@@ -4080,9 +4553,10 @@
         "exercise",
         "creatine-position",
         "food-performance-watermelon",
-        "caffeine-fda"
+        "caffeine-fda",
+        "supplement-quality-ods"
       ],
-      "reviewed": "2026-11-17",
+      "reviewed": "2026-11-18",
       "author": "Supplement Research editorial synthesis",
       "bodySteps": [
         "Each ingredient is absorbed and processed separately; there is no single pre-workout pathway in the body.",
@@ -4171,7 +4645,39 @@
             "preworkout-dryscoop"
           ]
         },
-        "reviewed": "2026-11-17"
+        "reviewed": "2026-11-18",
+        "practices": {
+          "dos": [
+            {
+              "title": "Read the exact ingredient serving",
+              "detail": "Check individually declared actives and caffeine from all sources; unknown caffeine prevents a reliable complete total."
+            },
+            {
+              "title": "Audit the whole stack",
+              "detail": "Include coffee, energy drinks and separate actives when reviewing overlap and practical value beyond simpler options."
+            }
+          ],
+          "donts": [
+            {
+              "title": "Don't buy blend mass or sensation",
+              "detail": "More ingredients, a larger blend or a stronger feeling does not establish better efficacy or suitability."
+            },
+            {
+              "title": "Don't use stimulants to cover persistent fatigue",
+              "detail": "Review sleep, food and the cause of ongoing symptoms instead of repeatedly escalating stimulant products."
+            },
+            {
+              "title": "Don't dry scoop",
+              "detail": "Swallowing or inhaling dry powder can cause choking and breathing problems."
+            }
+          ],
+          "sourceIds": [
+            "preworkout-review",
+            "caffeine-position",
+            "preworkout-dryscoop",
+            "exercise"
+          ]
+        }
       },
       "intakeGuide": {
         "kind": "no-established-target",
@@ -4233,9 +4739,10 @@
         "citrulline-meta",
         "citrulline-forms-trial",
         "citrulline-critical",
-        "food-performance-watermelon"
+        "food-performance-watermelon",
+        "supplement-quality-ods"
       ],
-      "reviewed": "2026-11-17",
+      "reviewed": "2026-11-18",
       "author": "Supplement Research editorial synthesis",
       "bodySteps": [
         "After absorption, citrulline can be converted to arginine, particularly by the kidneys.",
@@ -4318,7 +4825,35 @@
             "citrulline-critical"
           ]
         },
-        "reviewed": "2026-11-17"
+        "reviewed": "2026-11-18",
+        "practices": {
+          "dos": [
+            {
+              "title": "Identify free or compound content",
+              "detail": "Keep explicitly declared L-citrulline separate from full citrulline-malate mass when comparing products."
+            },
+            {
+              "title": "Review the outcome and overlap",
+              "detail": "Choose a specific exercise outcome to assess and check any citrulline or arginine already in a pre-workout."
+            }
+          ],
+          "donts": [
+            {
+              "title": "Don't infer content from a nominal ratio",
+              "detail": "A citrulline-malate ratio alone does not verify free L-citrulline or make equal compound weights equivalent."
+            },
+            {
+              "title": "Don't treat a pump as a clinical result",
+              "detail": "A sensation or blood-flow claim does not establish treatment benefit or justify displacing higher-priority food and recovery needs."
+            }
+          ],
+          "sourceIds": [
+            "exercise",
+            "citrulline-meta",
+            "citrulline-forms-trial",
+            "citrulline-critical"
+          ]
+        }
       },
       "intakeGuide": {
         "kind": "no-established-target",
@@ -4370,9 +4905,10 @@
         "beta-alanine-meta",
         "beta-alanine-safety",
         "food-performance-bioactives",
-        "food-chicken-bioactives"
+        "food-chicken-bioactives",
+        "supplement-quality-ods"
       ],
-      "reviewed": "2026-11-17",
+      "reviewed": "2026-11-18",
       "author": "Supplement Research editorial synthesis",
       "bodySteps": [
         "Absorbed beta-alanine is available to muscle, where it combines with histidine to form carnosine.",
@@ -4455,7 +4991,35 @@
             "exercise"
           ]
         },
-        "reviewed": "2026-11-17"
+        "reviewed": "2026-11-18",
+        "practices": {
+          "dos": [
+            {
+              "title": "Match the actual exercise demand",
+              "detail": "Check whether your event fits the studied high-intensity context instead of assuming every sport benefits equally."
+            },
+            {
+              "title": "Count the declared ingredient",
+              "detail": "Use verified beta-alanine per serving, note release formulation and include amounts already in a pre-workout."
+            }
+          ],
+          "donts": [
+            {
+              "title": "Don't judge value by tingling",
+              "detail": "Tingling is a possible effect, not a measure of efficacy, muscle growth or appropriate intake."
+            },
+            {
+              "title": "Don't equate occasional use with chronic protocols",
+              "detail": "Using a product occasionally does not reproduce the repeated-use carnosine studies described in the evidence guide."
+            }
+          ],
+          "sourceIds": [
+            "exercise",
+            "beta-alanine-position",
+            "beta-alanine-meta",
+            "beta-alanine-safety"
+          ]
+        }
       },
       "intakeGuide": {
         "kind": "optional-performance",
@@ -4525,9 +5089,10 @@
         "taurine-meta",
         "caffeine-position",
         "preworkout-review",
-        "food-performance-bioactives"
+        "food-performance-bioactives",
+        "supplement-quality-ods"
       ],
-      "reviewed": "2026-11-17",
+      "reviewed": "2026-11-18",
       "author": "Supplement Research editorial synthesis",
       "bodySteps": [
         "Diet and body synthesis contribute taurine, and oral taurine is absorbed through the gastrointestinal tract.",
@@ -4609,7 +5174,35 @@
             "caffeine-position"
           ]
         },
-        "reviewed": "2026-11-17"
+        "reviewed": "2026-11-18",
+        "practices": {
+          "dos": [
+            {
+              "title": "Check taurine itself",
+              "detail": "Compare the explicitly labelled taurine amount per verified serving, keeping total drink or powder mass separate."
+            },
+            {
+              "title": "Separate the blend's ingredients",
+              "detail": "Review caffeine and other actives independently, including overlap with energy drinks and pre-workout products."
+            }
+          ],
+          "donts": [
+            {
+              "title": "Don't assign every drink effect to taurine",
+              "detail": "Stimulation from a mixed drink does not establish taurine's effect or remove the drink's other risks."
+            },
+            {
+              "title": "Don't buy guaranteed fitness or ageing claims",
+              "detail": "The evidence does not establish universal endurance, recovery, fat-loss or anti-ageing benefits."
+            }
+          ],
+          "sourceIds": [
+            "taurine-exercise",
+            "taurine-meta",
+            "caffeine-position",
+            "preworkout-review"
+          ]
+        }
       },
       "intakeGuide": {
         "kind": "no-established-target",
@@ -4662,9 +5255,10 @@
         "betaine-hcl-trial",
         "betaine-medical",
         "food-performance-betaine",
-        "food-usda-sr28"
+        "food-usda-sr28",
+        "supplement-quality-ods"
       ],
-      "reviewed": "2026-11-17",
+      "reviewed": "2026-11-18",
       "author": "Supplement Research editorial synthesis",
       "bodySteps": [
         "Betaine is obtained from food and normal metabolism, then absorbed and used in several pathways.",
@@ -4775,7 +5369,36 @@
             "betaine-medical"
           ]
         },
-        "reviewed": "2026-11-17"
+        "reviewed": "2026-11-18",
+        "practices": {
+          "dos": [
+            {
+              "title": "Identify TMG versus betaine HCl",
+              "detail": "Check the exact chemical form and verified serving before comparing a product with the relevant evidence."
+            },
+            {
+              "title": "Check existing formula overlap",
+              "detail": "Look for anhydrous betaine or TMG already present in your pre-workout before adding another product."
+            }
+          ],
+          "donts": [
+            {
+              "title": "Don't transfer claims between forms",
+              "detail": "TMG workout findings do not establish benefits for betaine HCl or equivalent active content from equal compound weights."
+            },
+            {
+              "title": "Don't self-diagnose low stomach acid",
+              "detail": "An HCl product claim does not establish the cause of digestive symptoms or justify changing acid-suppressing medicines."
+            }
+          ],
+          "sourceIds": [
+            "exercise",
+            "betaine-meta",
+            "betaine-endurance",
+            "betaine-hcl-trial",
+            "betaine-medical"
+          ]
+        }
       },
       "intakeGuide": {
         "kind": "no-established-target",
@@ -4830,9 +5453,10 @@
         "hmb-older-meta",
         "food-performance-protein",
         "food-performance-amino-acids",
-        "food-usda-sr28"
+        "food-usda-sr28",
+        "supplement-quality-ods"
       ],
-      "reviewed": "2026-11-17",
+      "reviewed": "2026-11-18",
       "author": "Supplement Research editorial synthesis",
       "bodySteps": [
         "Normal leucine metabolism produces a small amount of HMB; taking leucine or BCAA is not the same exposure as swallowing HMB.",
@@ -4966,7 +5590,35 @@
             "hmb-older-meta"
           ]
         },
-        "reviewed": "2026-11-17"
+        "reviewed": "2026-11-18",
+        "practices": {
+          "dos": [
+            {
+              "title": "Review the complete nutrition plan",
+              "detail": "A supervised muscle-loss-risk context requires assessment of the cause, food intake and rehabilitation, not an HMB tub alone."
+            },
+            {
+              "title": "Check the declared HMB basis",
+              "detail": "Distinguish HMB free acid, calcium HMB and clinical mixtures, keeping co-ingredients and compound mass visible."
+            }
+          ],
+          "donts": [
+            {
+              "title": "Don't equate precursors or chemical forms",
+              "detail": "Leucine, BCAA, calcium-HMB compound weight and a declared HMB payload are different measures."
+            },
+            {
+              "title": "Don't add it solely because of age",
+              "detail": "Age or normal training alone does not establish a need, nor does a product promise prevention of every cause of muscle loss."
+            }
+          ],
+          "sourceIds": [
+            "exercise",
+            "hmb-position",
+            "hmb-young-meta",
+            "hmb-older-meta"
+          ]
+        }
       },
       "intakeGuide": {
         "kind": "no-established-target",
@@ -5874,6 +6526,16 @@
       "kind": "Food composition study",
       "year": 2020,
       "checked": "2026-11-17"
+    },
+    {
+      "id": "supplement-quality-ods",
+      "title": "NIH ODS: supplement labels, quality testing and claims",
+      "url": "https://ods.od.nih.gov/factsheets/WYNTK-Consumer/",
+      "kind": "Official guidance",
+      "year": null,
+      "checked": "2026-11-18",
+      "summary": "Explains labels, third-party quality testing and the distinction between composition checks and clinical safety or effectiveness.",
+      "limitations": "US consumer guidance; this does not certify any Indian catalog product or establish batch-specific testing."
     }
   ],
   "valuePolicy": {
@@ -5989,5 +6651,15 @@
       "mixed": "Mixed or emerging evidence",
       "insufficient": "Not established as treatment"
     }
+  },
+  "educationPolicy": {
+    "reviewed": "2026-11-18",
+    "summary": "Start with how the ingredient works, decide whether it is relevant, understand responsible use, and learn the buying checks before exploring products.",
+    "handoff": "A product is useful only when it fits a real need, an appropriate formulation and your budget. You can finish this guide and decide that no purchase is needed.",
+    "qualityTitle": "Check the evidence behind a quality premium",
+    "qualityNote": "If a product claims independent testing, check the issuing organization and what the test actually covers. A declared concentration or a manufacturing logo alone does not establish independent testing of your batch. A quality-testing seal does not guarantee safety or effectiveness. Our catalog field checks do not verify every laboratory report; treat missing testing evidence as unverified.",
+    "qualitySourceIds": [
+      "supplement-quality-ods"
+    ]
   }
 }

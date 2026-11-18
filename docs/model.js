@@ -1,3 +1,4 @@
+import {validateProductPolicy} from './product-policy.js';
 import {validateClinicalGuidance} from './guidance-validation.js';
 // Pure calculations shared by browser pages, validation, exports and the site build.
 import {normalizeUnitInputs,nutrientUnits} from './units.js';
@@ -147,6 +148,7 @@ export function createSnapshot(bundle){
  }
  if(bundle.recommender){
   const p=bundle.recommender,bad=message=>errors.push({category:'recommender',id:'policy',field:'recommender',message});
+  validateProductPolicy(p,result,bad);
   if(!isoDate(p.reviewed)||!Array.isArray(p.rules)||!Array.isArray(p.goals)||!Array.isArray(p.presets))bad('Invalid recommender policy.');
   else {const goals=new Set(p.goals.map(g=>g.id)),sources=new Set(bundle.research?.sources.map(s=>s.id)||[]);for(const r of p.rules)if(!result[r.category]||!r.reason||!r.status||!r.goals?.length||r.goals.some(g=>!goals.has(g))||!r.sources?.length||r.sources.some(id=>!sources.has(id)))bad('Unresolved recommender category, goal or evidence.');for(const preset of p.presets)if(!preset.goals?.length||preset.goals.some(g=>!goals.has(g)))bad('Unresolved preset goal.');}
  }
@@ -176,8 +178,8 @@ export function pageMetadata(snapshot,categoryId){
   structured:{'@context':'https://schema.org','@type':'Dataset',name:`Data & Price History Audit · ${snapshot.config.name}`,description:`Audit of data coverage, dated price observations, and 12-quarter price tracking across Indian supplements. Dataset as of ${snapshot.asOf}.`,dateModified:snapshot.asOf,url:snapshot.config.baseUrl+'audit.html'}
  };
  const c=snapshot.categories[categoryId],s=c?.stats||snapshot.stats,page=c?.page||'index.html';
- const title=`${c?c.label+' catalog':snapshot.config.name} · ${s.offers.toLocaleString(snapshot.config.locale)} pack offers`;
- const description=`Compare ${s.offers.toLocaleString(snapshot.config.locale)} ${c?c.label.toLowerCase()+' ':''}pack offers across ${s.brands} brands. Dated sources, calculated compound costs and data quality coverage. Dataset as of ${c?.asOf||snapshot.asOf}.`;
+ const title=c?`${c.label} catalog · ${s.offers.toLocaleString(snapshot.config.locale)} pack offers`:`${snapshot.config.name} · Learn about ${snapshot.research?.articles?.length||Object.keys(snapshot.categories).length} supplements`;
+ const description=c?`Compare ${s.offers.toLocaleString(snapshot.config.locale)} ${c.label.toLowerCase()} pack offers across ${s.brands} brands. Dated sources, calculated compound costs and data quality coverage. Dataset as of ${c.asOf}.`:'Understand how supplements work, who may benefit, responsible use and value-for-money checks. Learn first, then compare sourced products for your requirements.';
  const structured={'@context':'https://schema.org','@type':'Dataset',name:title,description,dateModified:c?.asOf||snapshot.asOf,url:snapshot.config.baseUrl+(page==='index.html'?'':page),distribution:snapshot.config.categories.filter(k=>!c||k.id===c.id).map(k=>({'@type':'DataDownload',encodingFormat:'application/json',contentUrl:snapshot.config.baseUrl+'data/'+k.file}))};
  return {title,description,structured};
 }

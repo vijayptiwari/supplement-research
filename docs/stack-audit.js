@@ -1,6 +1,6 @@
 import {escapeHtml as esc} from './model.js';
 import {nutrientUnits} from './units.js';
-import {buyingAudience,buyingFoods,buyingValue} from './guidance.js';
+import {buyingAudience,buyingFoods,buyingValue,buyingPractices,buyingQuality,productSelectionMarkup} from './guidance.js';
 import {intakeMarkup,medicalMarkup,matchingReferences} from './intake.js';
 
 const finite=n=>typeof n==='number'&&Number.isFinite(n),positive=n=>finite(n)&&n>0;
@@ -10,7 +10,7 @@ export const stackPackLabel=r=>dailyQuantityUnit(r)==='g'?`${r.grams??'Unknown'}
 export function stackCategoryMarkup(snapshot,category,context,{restricted=false}={}){
  const a=snapshot.research?.articles.find(a=>a.category===category);if(!a)return '';
  const refs=new Map(snapshot.research.sources.map(s=>[s.id,s]));
- return `<div class="stack-category-knowledge"><details><summary>Who it suits &amp; purchase priority</summary>${buyingAudience(a.buyingGuide,refs)}${buyingValue(a.buyingGuide,snapshot.research.valuePolicy,refs)}</details><details><summary>Food alternatives &amp; quantities</summary>${buyingFoods(a.buyingGuide,refs)}</details><details><summary>Intake references for your context</summary>${intakeMarkup(a.intakeGuide,context,refs,{restricted})}</details><details><summary>Medical conditions &amp; strength of evidence</summary>${medicalMarkup(a.medicalGuide,snapshot.research.medicalPolicy,refs)}</details><details><summary>Safety, interactions &amp; ongoing use</summary><p>${esc(a.safety)}</p><p>${esc(a.routineUse)}</p></details></div>`;
+ return `<div class="stack-category-knowledge"><details><summary>Who it suits &amp; purchase priority</summary>${buyingAudience(a.buyingGuide,refs)}${buyingValue(a.buyingGuide,snapshot.research.valuePolicy,refs)}</details><details><summary>Food alternatives &amp; quantities</summary>${buyingFoods(a.buyingGuide,refs)}</details><details><summary>Intake references for your context</summary>${intakeMarkup(a.intakeGuide,context,refs,{restricted})}</details><details><summary>Medical conditions &amp; strength of evidence</summary>${medicalMarkup(a.medicalGuide,snapshot.research.medicalPolicy,refs)}</details><details><summary>Do’s, don’ts &amp; value-for-money checks</summary>${buyingPractices(a.buyingGuide,refs)}${productSelectionMarkup(snapshot.categories[category],snapshot.recommender?.productPolicy,snapshot.recommender?.rules.find(r=>r.category===category))}${buyingQuality(snapshot.research.educationPolicy,refs)}</details><details><summary>Safety, interactions &amp; ongoing use</summary><p>${esc(a.safety)}</p><p>${esc(a.routineUse)}</p></details></div>`;
 }
 
 /** A declared-product inventory, never an inferred dose or a complete dietary intake. */

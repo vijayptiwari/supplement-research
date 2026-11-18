@@ -1,7 +1,7 @@
 import {buyingOffer} from './guidance.js';
 import {facetMarkup,isFacetChecked} from './facets.js';
 import {updateComparison} from './compare.js';
-import {renderMarketHome,marketGroup,categoryHero,categoryPrimer,categoryIcon} from './marketplace.js';
+import {renderMarketHome,marketGroup,categoryHero,categoryPrimer,categoryIcon,categoryGuideNavigation} from './marketplace.js';
 import {renderSearch} from './search.js';
 import {renderRecommender} from './recommender.js';
 import {renderResearch} from './research.js';
@@ -107,7 +107,7 @@ function onSnapshot(next){
  const active=categoryId||new URLSearchParams(location.search).get('category');
  $('#navigation').innerHTML=`<a href="index.html" ${!categoryId&&!pageType?'aria-current="page"':''}>Home</a><a href="research.html" ${pageType==='research'?'aria-current="page"':''}>Learn about supplements</a><a href="search.html?kind=products" ${categoryId||pageType==='search'?'aria-current="page"':''}>Compare products</a><a href="recommender.html" ${pageType==='recommender'?'aria-current="page"':''}>Stack builder</a><a href="audit.html" ${pageType==='audit'?'aria-current="page"':''}>Sources &amp; data quality</a>`;
  const categoryNav=$('#category-nav'),firstNavigation=!categoryNav.children.length;
- categoryNav.innerHTML=next.config.categories.map(c=>`<a href="${esc(categoryId||pageType==='search'?c.page:'research.html?category='+c.id)}" ${active===c.id?'aria-current="page"':''}>${categoryIcon(c.id)}<span>${esc(c.label)}</span></a>`).join('');
+ categoryNav.innerHTML=categoryGuideNavigation(next.config.categories,active);
  if(firstNavigation)requestAnimationFrame(()=>{const selectedLink=categoryNav.querySelector('[aria-current="page"]');if(selectedLink){const rail=categoryNav.getBoundingClientRect(),item=selectedLink.getBoundingClientRect();if(item.left<rail.left||item.right>rail.right)categoryNav.scrollLeft+=item.left-rail.left-(rail.width-item.width)/2;}});
  const globalCategory=$('#global-search-category'),searchParams=new URLSearchParams(location.search),oldCategory=globalCategory.value||searchParams.get('category')||'';
  globalCategory.innerHTML=`<option value="">All supplements</option>${next.config.categories.map(c=>`<option value="${esc(c.id)}">${esc(c.label)}</option>`).join('')}`;globalCategory.value=next.categories[oldCategory]?oldCategory:'';
