@@ -406,6 +406,21 @@
         "hmb-young-meta",
         "hmb-older-meta"
       ]
+    },
+    {
+      "category": "collagen",
+      "goals": [
+        "skin-claims",
+        "performance-claims"
+      ],
+      "review": true,
+      "status": "Review the evidence and exact preparation",
+      "reason": "Collagen peptides, gelatin and native undenatured type II are different preparations. Evidence for skin or joint outcomes is formulation-specific and uncertain; symptom or laboratory changes do not prove cartilage regrowth or injury healing. Collagen is not an equivalent replacement for a complete dietary protein. This category currently provides education, with no audited product offers or automatic additions.",
+      "sources": [
+        "collagen-muscle-oikawa-2020",
+        "collagen-uc2-lugo-2016",
+        "collagen-skin-meta-2025"
+      ]
     }
   ],
   "schemaVersion": 2,

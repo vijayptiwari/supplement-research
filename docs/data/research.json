@@ -6763,6 +6763,342 @@
           "hmb-older-meta"
         ]
       }
+    },
+    {
+      "id": "collagen-guide",
+      "category": "collagen",
+      "title": "Collagen: peptides, joint claims and the difference from complete protein",
+      "summary": "Collagen is a structural protein. Oral peptides, gelatin and undenatured type II preparations are different interventions, and their evidence should be judged separately.",
+      "evidence": "Some collagen trials report improvements in selected skin measurements or joint symptoms, but the strength and interpretation of the evidence remain contested. A 2025 skin meta-analysis found that apparent benefits did not persist in independent or higher-quality subgroups; a July 2026 synthesis was more favourable for hydration and elasticity, while an October 2026 methodological reanalysis disputed the reliability of pooled anti-aging claims. A particular undenatured type II product improved knee-osteoarthritis symptom scores in a 180-day trial. Neither finding establishes cartilage regrowth or validates every collagen product.",
+      "limitations": "Species, processing, peptide mixture, ingredient quantity, population and outcome all matter. Skin hydration, pain questionnaires, muscle-protein synthesis and tissue-biopsy collagen content answer different questions. Many studies are small, short or commercially involved; a statistically detectable change may have uncertain practical importance. A 2026 training trial found a change in intramuscular type I collagen with one peptide preparation, which should not be presented as proof of healed tendons, reversed aging or superiority to complete protein.",
+      "catalogReading": "Identify hydrolysed collagen peptides, gelatin or an undenatured type II ingredient before comparing. Check source species, allergen information, actual ingredient quantity per complete serving and whether the declared amount describes the whole ingredient or a measured native-collagen fraction. Price per gram can compare appropriately specified peptide products, but cannot make a gram-scale hydrolysate equivalent to a milligram-scale native type II preparation. A blend's total weight or a type-number list does not establish its active content, tissue destination or effectiveness.",
+      "safety": "Check fish and other source-related allergies, animal-source dietary restrictions and all added ingredients. Hydrolysis or a marine label does not establish allergen suitability. People with a medical condition, medically restricted protein intake, regular medicines, pregnancy, breastfeeding or a child should have the product and its co-ingredients reviewed in their own context. Persistent joint pain, swelling, unexplained skin changes or poor wound healing needs assessment rather than an anti-aging or cartilage-repair purchase.",
+      "sourceIds": [
+        "digestion",
+        "exercise",
+        "food-protein",
+        "food-allergens",
+        "food-kidney-diet",
+        "c-overview",
+        "supplement-quality-ods",
+        "collagen-absorption-iwai-2005",
+        "collagen-protein-quality-2019",
+        "collagen-muscle-oikawa-2020",
+        "collagen-uc2-lugo-2016",
+        "collagen-gelatin-shaw-2017",
+        "collagen-gelatin-lis-2019",
+        "collagen-skin-meta-2025",
+        "collagen-skin-meta-2026",
+        "collagen-skin-methods-2026",
+        "collagen-food-broth-alcock-2019",
+        "collagen-forms-mechanisms-2023",
+        "collagen-oa-guideline-2026",
+        "collagen-training-jerger-2026"
+      ],
+      "reviewed": "2026-11-18",
+      "author": "Supplement Research editorial synthesis",
+      "bodySteps": [
+        "Gelatin and hydrolysed collagen undergo digestion. Human feeding studies detect amino acids and some small hydroxyproline-containing peptides in the blood; this does not show that intact dietary collagen travels to a chosen joint or wrinkle.",
+        "Tissues make their own collagen using amino acids and necessary cofactors, including vitamin C. Adequate overall nutrition and mechanical loading are part of tissue maintenance; a normal biochemical role does not establish benefit from an extra supplement.",
+        "Undenatured type II products retain structural features studied for a proposed gut-associated immune-tolerance mechanism. This hypothesis is different from supplying gram quantities of digested peptides, and its causal contribution to symptom changes in humans is not established by a clinical questionnaire result."
+      ],
+      "bodySources": [
+        "digestion",
+        "collagen-absorption-iwai-2005",
+        "c-overview",
+        "collagen-forms-mechanisms-2023",
+        "collagen-uc2-lugo-2016"
+      ],
+      "treatment": "Oral collagen is not an established cure for osteoarthritis, tendon tears, osteoporosis, inherited connective-tissue disorders or skin aging. A reduction in symptoms does not prove structural repair. Collagen-containing medical dressings, injected materials and surgical products are different interventions from a retail oral supplement. Joint care should retain the assessment, exercise and other treatments appropriate to the diagnosis.",
+      "whoMayBenefit": "An adult with a defined joint-symptom concern may discuss whether an optional trial of a specific studied formulation fits their wider management plan. A cosmetic buyer should understand the contested skin evidence, cost and realistic uncertainty. People seeking muscle maintenance or a dietary protein gap should prioritize sufficient essential amino acids from suitable foods or complete protein rather than treating collagen as an equivalent replacement.",
+      "routineUse": "There is no universal requirement to buy collagen. The body normally makes collagen; dietary protein and vitamin C support that process without requiring a collagen-branded product. If someone chooses an optional trial, define the intended outcome and review whether it actually changes over an appropriate period. Do not continue indefinitely solely because a package promises prevention of aging or future joint damage.",
+      "sectionSources": [
+        "food-protein",
+        "c-overview",
+        "collagen-muscle-oikawa-2020",
+        "collagen-skin-meta-2025",
+        "collagen-skin-meta-2026",
+        "collagen-skin-methods-2026",
+        "collagen-uc2-lugo-2016",
+        "collagen-oa-guideline-2026"
+      ],
+      "buyingGuide": {
+        "reviewed": "2026-11-18",
+        "whoCanConsider": [
+          "Adults with a defined joint-symptom concern who understand formulation-specific uncertainty and are assessing an optional adjunct within an appropriate care plan.",
+          "Adults considering a cosmetic purchase who can judge the contested skin findings, source species, quality evidence and cost without expecting a guaranteed anti-aging result."
+        ],
+        "whoShouldReview": [
+          "Persistent pain, swelling, loss of function, a suspected tendon injury, poor wound healing or an unexplained skin change needs assessment of its cause.",
+          "People with fish or other relevant food allergies, animal-source dietary restrictions, medically restricted protein intake, regular medicines, pregnancy, breastfeeding or a child should review the exact formula and alternatives.",
+          "Anyone replacing ordinary meals or complete protein with collagen should review whether the full diet still supplies adequate essential amino acids."
+        ],
+        "foodSummary": "Animal connective tissues and collagen-derived gelatin can contribute collagen-related proteins; bone-broth content depends strongly on the recipe and processing. Ordinary protein foods and vitamin C foods support the body's own synthesis. Vitamin C and precursor amino acids are not collagen mass and are not dose-equivalent substitutes for a studied collagen ingredient.",
+        "foods": [
+          {
+            "name": "Bone broth or long-cooked meat stock",
+            "relationship": "different-form",
+            "detail": "Contains variable collagen-derived proteins and amino acids. A food-analysis study found large differences between recipes and preparations, so a generic cup cannot be equated with a standardized supplement exposure.",
+            "quantityStatus": "not-quantified",
+            "quantityNote": "No universal collagen grams per cup or per 100 g is assigned. The cited study measured preparation-specific amino acids, not a transferable collagen amount for every broth.",
+            "amounts": []
+          },
+          {
+            "name": "Gelatin-containing foods",
+            "relationship": "different-form",
+            "detail": "Gelatin is processed, denatured collagen. The gelatin and other ingredients in a prepared dessert or dish depend on the recipe; a small gummy or spoonful is not assumed to match a gram-scale trial preparation.",
+            "quantityStatus": "not-quantified",
+            "quantityNote": "A verified recipe or finished-food label is needed to quantify gelatin material. Prepared-food weight and total protein cannot automatically be converted into intact collagen or a peptide-trial amount.",
+            "amounts": []
+          },
+          {
+            "name": "Fish skin and other edible animal connective tissue",
+            "relationship": "direct",
+            "detail": "These tissues contain collagen, but species, edible portion and cooking alter the food being measured. Source identity also matters for allergies and dietary restrictions.",
+            "quantityStatus": "not-quantified",
+            "quantityNote": "A directly verified, preparation-specific collagen mass is not available in this entry. No generic grams per 100 g is inferred from the food's total protein.",
+            "amounts": []
+          },
+          {
+            "name": "Red pepper, sweet, raw",
+            "relationship": "precursor",
+            "detail": "Vitamin C is a cofactor needed for collagen synthesis. This is a vitamin C amount, not collagen content or a requirement to take additional vitamin C with every collagen serving.",
+            "quantityStatus": "quantified",
+            "quantityNote": "Retains the NIH ODS food serving. Food composition varies; this amount is not a collagen-dose equivalent.",
+            "amounts": [
+              {
+                "nutrient": "Vitamin C (synthesis cofactor, not collagen)",
+                "min": 95,
+                "max": null,
+                "unit": "mg",
+                "per": {
+                  "amount": 1,
+                  "unit": "source-serving",
+                  "label": "½ cup raw sweet red pepper"
+                },
+                "sourceIds": [
+                  "c-overview"
+                ]
+              }
+            ]
+          }
+        ],
+        "foodSourceIds": [
+          "collagen-food-broth-alcock-2019",
+          "collagen-forms-mechanisms-2023",
+          "collagen-gelatin-shaw-2017",
+          "c-overview",
+          "food-protein"
+        ],
+        "value": {
+          "routineScore": 1,
+          "targetedScore": 3,
+          "targetedUse": "An optional, formulation-specific trial for a defined joint-symptom concern within a broader management plan, with an outcome and review point agreed in advance.",
+          "reason": "No universal need is established, and collagen is a poor replacement for complete protein when the goal is muscle maintenance. Some joint trials justify consideration of a specific ingredient, while skin evidence remains disputed and structural-repair claims exceed the findings.",
+          "worthWhen": [
+            "The intended outcome, exact ingredient and trial evidence are relevant to the person, and the optional cost fits the budget.",
+            "The product declares source species, full serving quantity and a clear formulation basis, with relevant finished-product quality documentation.",
+            "Benefit is reassessed alongside appropriate nutrition, exercise and care, rather than assumed from the ingredient's normal role in the body."
+          ],
+          "skipWhen": [
+            "There is no defined need, or the purchase relies on a guarantee of cartilage regrowth, anti-aging, stronger hair or healing every tendon injury.",
+            "It would displace adequate food or a more suitable complete protein for a muscle or dietary-protein goal.",
+            "An undisclosed blend, source species or native-collagen content prevents a meaningful comparison.",
+            "A marine, multi-type, low-molecular-weight or premium label is the only evidence offered for superior outcomes."
+          ],
+          "evidence": "mixed",
+          "scope": "Routine priority concerns adequately nourished healthy-adult fitness use. The targeted score is conditional on a defined joint-symptom context and a specific preparation; it is not a treatment recommendation, a cosmetic efficacy score or a rating of all collagen products.",
+          "sourceIds": [
+            "collagen-uc2-lugo-2016",
+            "collagen-oa-guideline-2026",
+            "collagen-muscle-oikawa-2020",
+            "collagen-skin-meta-2025",
+            "collagen-skin-meta-2026",
+            "collagen-skin-methods-2026",
+            "supplement-quality-ods"
+          ]
+        },
+        "practices": {
+          "dos": [
+            {
+              "title": "Name the ingredient before comparing",
+              "detail": "Separate hydrolysed peptides, gelatin and undenatured type II preparations. Record species, processing and the amount in the complete labelled serving."
+            },
+            {
+              "title": "Choose a measurable reason to try it",
+              "detail": "For an optional trial, specify the intended symptom or outcome and a review point. Keep nutrition, rehabilitation and diagnosis-specific care in view."
+            },
+            {
+              "title": "Compare content and testing on the same basis",
+              "detail": "Assess like formulations and full serving counts. Check what a batch or finished-product report measures, rather than treating a supplier certificate or protein percentage as proof of clinical value."
+            }
+          ],
+          "donts": [
+            {
+              "title": "Don't replace complete protein by default",
+              "detail": "Collagen's amino-acid profile differs substantially from whey, egg or suitable plant proteins; equal grams do not make them equivalent for a muscle-protein goal."
+            },
+            {
+              "title": "Don't confuse a surrogate with tissue repair",
+              "detail": "Blood peptides, synthesis markers, biopsy collagen content and pain scores are different outcomes. None automatically establishes healed tendons or regrown cartilage."
+            },
+            {
+              "title": "Don't buy a tissue destination from a type number",
+              "detail": "Type I, II or III on a label does not mean swallowed material travels intact to the corresponding tissue. Native type II and hydrolysed type II also require different evidence."
+            },
+            {
+              "title": "Don't count a collagen builder as collagen",
+              "detail": "Vitamin C, amino acids and plant extracts may be sold as collagen support, but their quantities are not measured collagen grams. Verify any unusual source or vegan claim from the ingredient identity."
+            }
+          ],
+          "sourceIds": [
+            "collagen-absorption-iwai-2005",
+            "collagen-forms-mechanisms-2023",
+            "collagen-protein-quality-2019",
+            "collagen-muscle-oikawa-2020",
+            "collagen-gelatin-shaw-2017",
+            "collagen-training-jerger-2026",
+            "c-overview",
+            "supplement-quality-ods"
+          ]
+        }
+      },
+      "intakeGuide": {
+        "kind": "no-established-target",
+        "summary": "There is no established dietary requirement or universal supplemental target for collagen. No automatic dose is assigned from age, exercise frequency, sport or training experience.",
+        "targets": [],
+        "limits": [],
+        "notes": [
+          "Meet overall dietary protein and vitamin C needs; needing these nutrients does not establish a need to buy collagen.",
+          "Hydrolysed peptide and gelatin studies use formulation-specific gram quantities, while native type II studies can use milligram quantities of an ingredient. These are different interventions, not stronger and weaker versions of one dose.",
+          "One 2026 trial used 15 g/day of a specific peptide preparation for 12 weeks alongside high-load resistance training in 29 men. Its tissue-biopsy outcome does not establish a daily requirement, a rehabilitation prescription or equivalent effects for every product.",
+          "No universal tolerable upper limit is assigned here. Absence of an established limit does not establish safety of arbitrary quantities, especially when a formula also adds vitamins or minerals."
+        ],
+        "sourceIds": [
+          "food-protein",
+          "c-overview",
+          "collagen-forms-mechanisms-2023",
+          "collagen-training-jerger-2026",
+          "collagen-uc2-lugo-2016",
+          "supplement-quality-ods"
+        ],
+        "reviewed": "2026-11-18"
+      },
+      "medicalGuide": {
+        "summary": "Collagen's presence in tissue is not evidence that an oral product treats its diseases. Findings are specific to the condition, formulation and measured outcome.",
+        "conditions": [
+          {
+            "condition": "Knee osteoarthritis symptoms",
+            "level": "mixed",
+            "findings": "A 180-day trial of one undenatured type II ingredient reported better pain and function questionnaire scores than placebo. This supports discussion of a specific optional adjunct, while the 2026 VA/DoD patient guidance finds insufficient evidence that dietary supplements treat osteoarthritis effectively.",
+            "limits": "The ingredient supplier sponsored the trial, and symptom improvement does not establish cartilage restoration or disease reversal. Retain diagnosis-specific management and do not generalize the result to all hydrolysates, species or doses.",
+            "sourceIds": [
+              "collagen-uc2-lugo-2016",
+              "collagen-oa-guideline-2026"
+            ]
+          },
+          {
+            "condition": "Skin hydration and visible aging concerns",
+            "level": "mixed",
+            "findings": "Some pooled analyses favour hydration or elasticity, but conclusions change with study selection, funding, quality assessment and analytical methods. Updated 2026 reviews reach conflicting interpretations.",
+            "limits": "Cosmetic measurement changes are not established prevention or treatment of a skin disease, and robust structural anti-aging effects remain uncertain. Findings do not guarantee an individual response or validate every formula.",
+            "sourceIds": [
+              "collagen-skin-meta-2025",
+              "collagen-skin-meta-2026",
+              "collagen-skin-methods-2026"
+            ]
+          },
+          {
+            "condition": "Tendon injury, rehabilitation and connective-tissue adaptation",
+            "level": "insufficient",
+            "findings": "Small gelatin studies examine amino acids and synthesis markers, and a 2026 training trial found greater intramuscular type I collagen content with one peptide preparation. These are useful research signals rather than direct proof of tendon-injury healing.",
+            "limits": "An early marker, a muscle biopsy and a clinical recovery outcome are different measures. A supplement cannot substitute for assessment, progressive loading or rehabilitation appropriate to the injury.",
+            "sourceIds": [
+              "collagen-gelatin-shaw-2017",
+              "collagen-gelatin-lis-2019",
+              "collagen-training-jerger-2026"
+            ]
+          },
+          {
+            "condition": "Muscle maintenance and sarcopenia-related protein needs",
+            "level": "insufficient",
+            "findings": "In a small trial in older women, whey produced a greater muscle-protein-synthesis response than collagen peptides. Collagen alone should not be assumed equivalent to a complete protein when addressing a protein gap.",
+            "limits": "The trial measured short-term synthesis, not long-term treatment of sarcopenia. Clinical nutrition must assess total diet, essential amino acids, exercise and the cause of muscle loss.",
+            "sourceIds": [
+              "collagen-muscle-oikawa-2020",
+              "collagen-protein-quality-2019",
+              "exercise"
+            ]
+          }
+        ],
+        "reviewed": "2026-11-18"
+      },
+      "pathway": {
+        "title": "Digested peptides and a separate native-collagen hypothesis",
+        "summary": "Hydrolysed collagen supplies digestible material and some circulating small peptides. Native type II preparations are studied for a different, proposed gut-immune mechanism.",
+        "tracks": [
+          {
+            "label": "Hydrolysed collagen and gelatin: digestion and use",
+            "steps": [
+              {
+                "label": "Digestion releases smaller protein fragments",
+                "detail": "Digestive enzymes break collagen-derived material into amino acids and smaller peptides; the swallowed ingredient is not delivered as intact skin or cartilage.",
+                "compartment": "Stomach / intestine",
+                "icon": "digest"
+              },
+              {
+                "label": "Amino acids and small peptides circulate",
+                "detail": "Human feeding studies detect amino acids and some hydroxyproline-containing peptides after gelatin-hydrolysate ingestion.",
+                "compartment": "Blood",
+                "icon": "blood"
+              },
+              {
+                "label": "Available building blocks enter tissue metabolism",
+                "detail": "Circulating material enters normal metabolic pools; detection in blood does not establish delivery to a chosen wrinkle, tendon or joint.",
+                "compartment": "Tissues",
+                "icon": "cell"
+              },
+              {
+                "label": "Cells build and remodel their matrix",
+                "detail": "Cells make their own collagen using amino acids and necessary cofactors; overall nutrition and tissue loading also influence adaptation.",
+                "compartment": "Connective tissues",
+                "icon": "molecule"
+              }
+            ]
+          },
+          {
+            "label": "Undenatured type II: a proposed route, not a proven human mechanism",
+            "steps": [
+              {
+                "label": "The ingredient retains native structural features",
+                "detail": "Undenatured preparations preserve features that are altered by extensive denaturation and hydrolysis.",
+                "compartment": "Ingredient",
+                "icon": "molecule"
+              },
+              {
+                "label": "Gut immune recognition is proposed",
+                "detail": "Researchers propose interaction with gut-associated immune tissue and oral tolerance, rather than gram-scale delivery of collagen building blocks.",
+                "compartment": "Gut immune tissue",
+                "icon": "signal"
+              },
+              {
+                "label": "Human causal links remain unresolved",
+                "detail": "Joint-symptom trials do not by themselves demonstrate the proposed immune pathway or structural cartilage repair in people.",
+                "compartment": "Clinical outcomes",
+                "icon": "bone"
+              }
+            ]
+          }
+        ],
+        "caveat": "The first track simplifies digestion and normal synthesis; the second is explicitly a mechanistic hypothesis. Neither shows intact oral collagen travelling to a selected tissue or guarantees a clinical benefit. Native type II and hydrolysed peptides are not interchangeable.",
+        "sourceIds": [
+          "digestion",
+          "collagen-absorption-iwai-2005",
+          "c-overview",
+          "collagen-forms-mechanisms-2023",
+          "collagen-uc2-lugo-2016"
+        ]
+      }
     }
   ],
   "sources": [
@@ -8025,6 +8361,256 @@
       "limitations": "An aqueous preparation tested under particular laboratory conditions, not a gummy-matrix study. Its numerical degradation rates cannot be transferred to every drink, gummy, jelly or dry product.",
       "year": 2003,
       "checked": "2026-11-18"
+    },
+    {
+      "id": "collagen-absorption-iwai-2005",
+      "title": "Iwai et al.: Collagen-derived peptides in human blood after gelatin hydrolysates",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16076145/",
+      "kind": "Human feeding and analytical study",
+      "summary": "Identified small hydroxyproline-containing peptides, especially proline-hydroxyproline, in circulation after adults ingested gelatin hydrolysates from specified animal sources.",
+      "limitations": "A study of digestion and circulating peptides, not proof of intact collagen delivery to joints or skin, tissue repair or a clinical supplement benefit.",
+      "year": 2005,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "collagen-protein-quality-2019",
+      "title": "Paul et al.: Collagen peptides and indispensable amino-acid balance",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566836/",
+      "kind": "Dietary composition modelling study",
+      "summary": "Describes collagen's incomplete indispensable amino-acid pattern, including lack of tryptophan, and models how it can fit within a specified mixed dietary pattern.",
+      "limitations": "Industry-associated modelling of a Western diet, not a muscle-growth trial or proof of an appropriate replacement fraction for every person's diet. The model does not make collagen alone equivalent to complete protein.",
+      "year": 2019,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "collagen-muscle-oikawa-2020",
+      "title": "Oikawa et al.: Whey versus collagen peptides and muscle protein synthesis in older women",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31919527/",
+      "kind": "Randomized human tracer trial",
+      "summary": "Twenty-two older women received whey or collagen peptides during a six-day protocol. Whey produced greater acute and integrated muscle-protein-synthesis responses with and without the exercise intervention.",
+      "limitations": "Small, short study in older women; synthesis measures do not establish a universal long-term muscle-size ranking or treatment of sarcopenia. A published corrigendum should be read with the original paper.",
+      "year": 2020,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "collagen-uc2-lugo-2016",
+      "title": "Lugo et al.: Undenatured type II collagen and knee osteoarthritis symptoms",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4731911/",
+      "kind": "Randomized controlled trial",
+      "summary": "A 180-day trial in 191 people with knee osteoarthritis compared a particular undenatured type II ingredient with placebo and glucosamine plus chondroitin, reporting favourable symptom-score changes with the tested ingredient.",
+      "limitations": "Sponsored by the ingredient supplier, with company-affiliated authors. Product-specific symptom results do not establish cartilage regrowth, a proven human immune mechanism or equivalence of other collagen preparations.",
+      "year": 2016,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "collagen-gelatin-shaw-2017",
+      "title": "Shaw et al.: Vitamin C-enriched gelatin before intermittent activity",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5183725/",
+      "kind": "Small randomized crossover mechanistic study",
+      "summary": "Eight healthy men consumed vitamin C-containing gelatin preparations before brief exercise. The study assessed circulating amino acids, a collagen-synthesis marker and effects of participant serum in a laboratory ligament model.",
+      "limitations": "Small mechanistic experiment with surrogate outcomes and an ex vivo model; it did not demonstrate healed human tendons, fewer injuries, a universal timing rule or an isolated effect of extra vitamin C.",
+      "year": 2017,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "collagen-gelatin-lis-2019",
+      "title": "Lis and Baar: Different vitamin C-enriched collagen derivatives before exercise",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30859848/",
+      "kind": "Randomized crossover mechanistic study",
+      "summary": "Ten recreationally active men consumed matched gelatin, hydrolysed collagen, a mixed gummy or placebo before brief activity. Amino acids rose, while variability prevented statistically significant treatment effects on the measured collagen-synthesis marker.",
+      "limitations": "Small acute experiment, not a trial of injury recovery or long-term tendon function. Trends and increased amino-acid availability do not establish a clinical benefit or superiority of one delivery format.",
+      "year": 2019,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "collagen-skin-meta-2025",
+      "title": "Myung and Park: Collagen supplements and skin aging, with funding and quality analyses",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40324552/",
+      "kind": "Systematic review and meta-analysis",
+      "summary": "Across 23 randomized trials, pooled skin outcomes favoured supplementation, but effects did not persist in independently funded or higher-quality study subgroups, leading the authors to question routine anti-aging recommendations.",
+      "limitations": "The search ended in June 2024, subgroup comparisons have limited power and are not randomized comparisons of funding. Later syntheses use different studies and methods; disagreement should remain visible.",
+      "year": 2025,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "collagen-skin-meta-2026",
+      "title": "Oral collagen peptides and skin rejuvenation: Updated meta-analysis of randomized trials",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13370842/",
+      "kind": "Systematic review and meta-analysis",
+      "summary": "A July 2026 synthesis of 35 randomized trials reported benefits for hydration, elasticity and barrier measures, with less certain effects on wrinkles and structural skin outcomes.",
+      "limitations": "Formulations, methods and study durations differ; the paper's treatment of bias and pooled outcomes should be considered alongside conflicting reviews. A pooled cosmetic outcome does not certify every product or establish prevention of skin disease.",
+      "year": 2026,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "collagen-skin-methods-2026",
+      "title": "Hydrolyzed collagen for skin aging: Methodological critique and reanalysis",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13618891/",
+      "kind": "Methodological reanalysis",
+      "summary": "An October 2026 methodological analysis questions data extraction, outcome compatibility and bias in collagen skin meta-analyses and argues that corrected evidence does not support validated anti-aging treatment claims.",
+      "limitations": "A critical reanalysis rather than a new randomized clinical trial. Its conclusion conflicts with favourable syntheses and depends on analytical choices and the available underlying studies.",
+      "year": 2026,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "collagen-food-broth-alcock-2019",
+      "title": "Alcock et al.: Variability of collagen-related amino acids in bone broth",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29893587/",
+      "kind": "Food composition study",
+      "summary": "Analysed commercial and laboratory bone broths, finding marked recipe-dependent variation in collagen-related amino acids and lower amounts in some standardized preparations than the reference supplement exposure.",
+      "limitations": "Preparation-specific amino-acid analysis, not universal collagen grams per cup, a clinical outcome trial or proof that every broth is nutritionally equivalent to a collagen supplement.",
+      "year": 2019,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "collagen-forms-mechanisms-2023",
+      "title": "Collagen supplementation for joint health: Composition and proposed mechanisms",
+      "url": "https://www.mdpi.com/2072-6643/15/6/1332",
+      "kind": "Ingredient and mechanistic review",
+      "summary": "Distinguishes native collagen, gelatin and hydrolysed preparations, including the proposed oral-tolerance rationale for native type II and digestion-related hypotheses for hydrolysates.",
+      "limitations": "A review involving supplement-industry affiliations, drawing partly on preclinical mechanisms. Proposed immune or peptide pathways are not established causal explanations of benefits in every human user or formulation.",
+      "year": 2023,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "collagen-oa-guideline-2026",
+      "title": "VA/DoD: 2026 hip and knee osteoarthritis patient guidance",
+      "url": "https://www.healthquality.va.gov/HEALTHQUALITY/guidelines/CD/OA/Osteoarthritis-CPG_2026-Patient-Summary_final_20260618.pdf",
+      "kind": "Clinical practice guideline patient summary",
+      "summary": "Explains osteoarthritis management using individualized activity, weight management where relevant, rehabilitation and symptom treatment; states that evidence is insufficient for dietary supplements as effective OA treatment.",
+      "limitations": "US VA/DoD guidance, not an Indian treatment protocol or a direct evaluation of every collagen ingredient. It supports maintaining established care and avoiding claims that oral supplements cure osteoarthritis.",
+      "year": 2026,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "collagen-training-jerger-2026",
+      "title": "Jerger et al.: Specific collagen peptides and intramuscular collagen during training",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42376607/",
+      "kind": "Randomized training and biopsy study",
+      "summary": "Twenty-nine men completed 12 weeks of high-load resistance training with a specific collagen-peptide preparation or placebo. The supplement group had a greater increase in intramuscular collagen type I content; type III and IV changes did not differ between groups.",
+      "limitations": "Small ingredient-specific study with a tissue-structure outcome rather than clinical tendon healing or equivalence to whey. Commercial support and a co-author's collagen-related patents and honoraria require consideration.",
+      "year": 2026,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "comparison-eaa-leucine-churchward-2012",
+      "title": "Churchward-Venne et al.: Low-dose whey with leucine or essential amino acids",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22451437/",
+      "kind": "Randomized human tracer study",
+      "summary": "Compared a small whey serving enriched with leucine or other essential amino acids against a larger complete-whey treatment, measuring muscle protein synthesis at rest and after exercise.",
+      "limitations": "Acute study in men using specified mixtures. It is not a long-term training trial or a demonstration that every leucine, BCAA or EAA product is interchangeable. Read the original funding and commercial disclosures.",
+      "year": 2012,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "comparison-collagen-dairy-alcock-2019",
+      "title": "Alcock et al.: Amino-acid exposure after dairy and collagen proteins",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31681789/",
+      "kind": "Human feeding study",
+      "summary": "Characterized the amino-acid content and post-meal blood responses to specified dairy and collagen proteins and a bone-broth serving in active men.",
+      "limitations": "Acute exposure and specific foods/preparations. It does not establish long-term clinical outcomes or a universal amount of collagen in homemade broth; portions and amino-acid profiles are not identical.",
+      "year": 2019,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "comparison-gelatin-marker-shaw-2017",
+      "title": "Shaw et al.: Vitamin-C-enriched gelatin and a collagen-formation marker",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27852613/",
+      "kind": "Randomized crossover mechanistic study",
+      "summary": "Eight men completed a gelatin-plus-vitamin-C and intermittent-exercise experiment. Blood amino acids and a type I collagen-formation marker were assessed; participant serum was also applied to engineered ligaments.",
+      "limitations": "Very small study. The blood marker is not direct tendon or cartilage synthesis, the engineered-ligament work was outside the body, and the trial did not establish fewer injuries or clinical tissue repair. Public and sports-institute support was disclosed.",
+      "year": 2017,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "comparison-collagen-muscle-aussieker-2023",
+      "title": "Aussieker et al.: Collagen, whey and early muscle connective-protein synthesis",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37202878/",
+      "kind": "Randomized human tracer trial",
+      "summary": "Forty-five recreational athletes received collagen, whey or placebo after resistance exercise. Neither protein added a detectable increase in muscle connective-protein synthesis during the five-hour recovery observation.",
+      "limitations": "Acute, specified formulations and muscle tissue, not a long-term tendon or joint-treatment trial. Whey exceeded placebo for myofibrillar synthesis, but the whey-versus-collagen contrast was not significant. Relevant laboratory industry relationships, including collagen manufacturers, were disclosed.",
+      "year": 2023,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "comparison-collagen-joint-clark-2008",
+      "title": "Clark et al.: Collagen hydrolysate and activity-related joint discomfort",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18416885/",
+      "kind": "Randomized placebo-controlled trial",
+      "summary": "A 24-week study of a specified collagen hydrolysate reported improvements in selected joint-discomfort measures among athletes.",
+      "limitations": "Of 147 recruited participants, 97 supplied statistically evaluable data; multiple outcomes and a post-hoc knee subgroup limit certainty. Findings concern symptoms, not cartilage regrowth, injury prevention or every collagen product. A branded commercial preparation was studied.",
+      "year": 2008,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "comparison-collagen-knee-null-2020",
+      "title": "Collagen hydrolysate and self-reported knee pain: Placebo-controlled trial",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31990581/",
+      "kind": "Randomized controlled trial",
+      "summary": "Compared collagen supplementation with placebo in people with self-reported knee pain and found no between-group improvement in the main pain measure.",
+      "limitations": "Specific preparation, selected population and outcome measures. A null trial does not disprove every collagen application; it illustrates why positive results elsewhere cannot be assumed universal. Consult the original for funding and disclosures.",
+      "year": 2020,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "comparison-collagen-typeii-lugo-2016",
+      "title": "Lugo et al.: Undenatured type II collagen and knee osteoarthritis symptoms",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26822714/",
+      "kind": "Randomized placebo-controlled trial",
+      "summary": "Studied a specific chicken-cartilage-derived undenatured type II preparation over 180 days in adults with knee osteoarthritis. The preparation improved symptom scores relative to placebo in the trial.",
+      "limitations": "A specified product and selected osteoarthritis population, with commercial funding and manufacturer-affiliated authors. Symptom outcomes do not establish cartilage regrowth, the proposed immune mechanism or equivalence with hydrolysed collagen powders.",
+      "year": 2016,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "collagen-editorial-sources",
+      "title": "Ohara et al.: Different collagen sources and circulating peptides",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17253720/",
+      "kind": "Human crossover absorption study",
+      "summary": "Compared fish-scale, fish-skin and porcine-skin type I gelatin hydrolysates in five healthy men; circulating peptide amounts and patterns differed.",
+      "limitations": "Five men, fasting conditions and biochemical outcomes. A higher peptide exposure for one preparation is not evidence of superior skin or joint outcomes. Authors had an industry laboratory affiliation.",
+      "year": 2007,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "collagen-editorial-skin-rct",
+      "title": "Proksch et al.: Specific peptides and skin physiology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23949208/",
+      "kind": "Randomized trial",
+      "summary": "A specific collagen hydrolysate improved measured skin elasticity versus placebo in a small eight-week study in women; not all measured skin outcomes improved significantly.",
+      "limitations": "Sixty-nine women aged 35–55, a specific ingredient and short follow-up. Results cannot certify all powders, predict every cosmetic outcome or settle the wider evidence-quality concerns.",
+      "year": 2014,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "collagen-editorial-native-ii",
+      "title": "Lugo et al.: Undenatured type II collagen and knee symptoms",
+      "url": "https://link.springer.com/article/10.1186/s12937-016-0130-8",
+      "kind": "Randomized trial",
+      "summary": "A 180-day study in adults with knee osteoarthritis compared a specific undenatured type II ingredient with placebo and glucosamine/chondroitin, reporting symptom-score improvements.",
+      "limitations": "Specific formulation and symptom outcomes, not proof of cartilage regeneration or a cure. Sponsor employees and a consultant coauthored the study. Gut immune tolerance is a proposed mechanism, not established by the clinical outcome alone.",
+      "year": 2016,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "collagen-editorial-muscle-connective",
+      "title": "Aussieker et al.: Collagen, whey and post-exercise connective protein synthesis",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10487367/",
+      "kind": "Randomized human tracer study",
+      "summary": "In 45 young recreational athletes, whey increased myofibrillar synthesis versus placebo; neither whey nor collagen significantly increased muscle connective-protein synthesis over five hours.",
+      "limitations": "Acute tissue-specific measurements after one exercise session. Does not settle long-term tendon adaptation, every formulation or clinical rehabilitation.",
+      "year": 2023,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "collagen-editorial-bone",
+      "title": "König et al.: Specific collagen peptides and postmenopausal bone density",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5793325/",
+      "kind": "Randomized trial",
+      "summary": "A twelve-month study in postmenopausal women with reduced bone density reported changes in bone mineral density and bone-turnover markers with specific collagen peptides.",
+      "limitations": "Selected population and ingredient; bone-density findings do not establish fracture prevention or replacement of osteoporosis care. The study was partly supported by GELITA.",
+      "year": 2018,
+      "checked": "2026-11-18"
     }
   ],
   "valuePolicy": {
@@ -8157,7 +8743,7 @@
   },
   "editorial": {
     "reviewed": "2026-11-18",
-    "description": "Cited explainers that question supplement claims and compare ingredient types, processing and delivery formats. Start with protein and creatine, then apply the same evidence checks to your next purchase.",
+    "description": "Cited explainers that question supplement claims, compare related supplements, and distinguish ingredient forms, processing and delivery formats. Learn the evidence and its limits before choosing a product.",
     "series": [
       {
         "id": "myth-busters",
@@ -8168,6 +8754,11 @@
         "id": "understanding-types",
         "label": "Understanding Types",
         "description": "Learn what changes between ingredient forms, how the body processes them, and which differences justify paying more."
+      },
+      {
+        "id": "comparisons",
+        "label": "Supplement Comparisons",
+        "description": "Understand overlapping ingredients, different purposes and study outcomes before paying for another product."
       }
     ],
     "articles": [
@@ -8883,6 +9474,715 @@
           "creatine-gummy-rct",
           "creatine-solution-stability",
           "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "eaa-bcaa-protein",
+        "category": "protein",
+        "relatedCategories": [
+          "eaa",
+          "bcaa"
+        ],
+        "series": "comparisons",
+        "title": "EAA vs BCAA vs protein: what overlaps, what differs, and what is worth buying",
+        "summary": "Understand why these are overlapping sources of amino acids, how to read the evidence, and when an extra amino-acid product may add little to an adequate diet.",
+        "author": "Supplement Research editorial synthesis",
+        "reviewed": "2026-11-18",
+        "intro": "A scoop of protein, an EAA drink and a BCAA drink are often sold as three separate steps in a muscle-building stack. They overlap much more than that picture suggests. The useful starting question is what the whole diet already supplies and what problem an additional product is meant to solve. Ingredient names, rapid absorption and a laboratory response each answer a different question from long-term progress. This comparison explains those distinctions without assigning every reader a supplement or a dose.",
+        "sections": [
+          {
+            "id": "three-names-one-hierarchy",
+            "title": "BCAAs are part of EAAs, and complete protein supplies both",
+            "body": "The nine essential amino acids are histidine, isoleucine, leucine, lysine, methionine, phenylalanine, threonine, tryptophan and valine. Essential means that the body must obtain them from the diet. BCAA refers to three members of that set: leucine, isoleucine and valine. An EAA product is intended to supply all nine; a BCAA product supplies only that subset unless its label adds others. A complete protein source provides the essential amino acids in a suitable pattern, alongside other amino acids. These are overlapping contributions, not three independent nutritional needs that automatically require three purchases.",
+            "sourceIds": [
+              "food-performance-amino-acids",
+              "food-performance-protein"
+            ]
+          },
+          {
+            "id": "digestion-and-muscle",
+            "title": "Protein is digested; free amino acids skip that initial breakdown",
+            "body": "Intact protein must first be broken into smaller peptides and amino acids. These building blocks are then absorbed and made available to tissues. Free amino-acid mixtures need less initial protein breakdown, but arriving sooner does not establish a better training outcome. Leucine helps regulate muscle-building signals, while the other essential amino acids also provide material for making new proteins. A strong signal cannot make a missing building block appear. In a human feeding experiment, adding leucine or other essential amino acids to a small whey serving changed the response, but the complete whey treatment sustained the post-exercise response differently.",
+            "sourceIds": [
+              "digestion",
+              "comparison-eaa-leucine-churchward-2012"
+            ]
+          },
+          {
+            "id": "what-bcaa-trial-shows",
+            "title": "BCAAs can change an acute response without proving extra long-term gains",
+            "body": "Calling BCAAs biologically inactive would be inaccurate. In a small crossover experiment in ten trained young men, a BCAA drink increased muscle protein synthesis over the next few hours compared with a placebo. The experiment did not include a same-day whey or complete-EAA treatment, and did not measure months of strength or muscle growth. It therefore cannot tell us that adding BCAAs to an already adequate diet beats food, complete protein or EAAs. A mechanistic effect is a starting point for further questions, not a finished comparison of products or a reason to ignore the missing essential amino acids.",
+            "sourceIds": [
+              "bcaa-trial"
+            ]
+          },
+          {
+            "id": "when-eaa-may-fit",
+            "title": "EAA formulations deserve a specific use case, not a universal upgrade claim",
+            "body": "A complete EAA mixture supplies a broader essential-amino-acid set than BCAAs alone. Some formulations have been investigated when food intake is constrained. In a short energy-deficit crossover study, EAA-enriched whey improved whole-body protein balance relative to the comparison treatments, while mixed-muscle protein synthesis did not differ. That was a particular EAA-plus-whey formulation in ten adults, not proof that every EAA drink outperforms a protein meal. Whole-body balance, muscle synthesis and long-term functional outcomes are distinct measurements. Clinical use also requires assessment of the underlying nutrition problem; a retail tub is not a treatment plan.",
+            "sourceIds": [
+              "eaa-deficit-trial"
+            ]
+          },
+          {
+            "id": "food-and-plant-options",
+            "title": "Ordinary food and well-planned plant diets can supply the same essentials",
+            "body": "Dairy, eggs, fish, meat, soy foods, pulses and other foods contribute dietary protein. Their amino-acid patterns and digestibility differ, so the amount and variety in the whole diet matter. In a training study with protein intake matched, young men eating a plant-based diet with soy supplementation improved measured muscle and strength outcomes without a detected difference from the mixed-diet whey group. This does not make every plant serving interchangeable. It does show why plant-based eating should not automatically trigger an additional EAA or BCAA purchase. Review the actual diet and ingredient rather than treating the plant label as a deficiency diagnosis.",
+            "sourceIds": [
+              "food-protein",
+              "food-protein-vegetarian",
+              "protein-plant-diet-hevia-2021",
+              "protein-amino-acids-gorissen-2018"
+            ]
+          },
+          {
+            "id": "fasting-and-timing",
+            "title": "Training fasted does not automatically make BCAAs compulsory",
+            "body": "The nutritional context includes the previous meal, the next meal, total intake and the reason for fasting. A fasted workout alone does not identify a unique need for three amino acids. An amino-acid drink also changes the nutritional exposure, so a physiological question about training is different from a personal or religious definition of fasting. A small trial comparing protein immediately before versus after resistance training found similar measured adaptations; it did not test every fasting arrangement. Plan a tolerable way to meet the day's nutrition needs rather than treating a marketed workout window as an emergency or assuming BCAAs replace recovery meals.",
+            "sourceIds": [
+              "protein-timing-schoenfeld-2017",
+              "food-performance-amino-acids"
+            ]
+          },
+          {
+            "id": "which-problem-to-solve",
+            "title": "Choose the nutritional problem before choosing the container",
+            "body": "When meals leave a protein shortfall, first consider an appropriate food or a clearly specified protein product. When ordinary food volume, appetite or a specialized nutrition plan limits intake, an amino-acid formulation may warrant a more focused review. When protein intake is already adequate and varied, an additional BCAA product needs evidence of a relevant extra benefit; a larger leucine ratio is not that evidence by itself. None of these choices replaces adequate energy intake or a progressive training programme. Not buying an overlapping product is a useful outcome when no clear gap or evidence-supported purpose has been identified.",
+            "sourceIds": [
+              "exercise",
+              "food-protein",
+              "comparison-eaa-leucine-churchward-2012"
+            ]
+          },
+          {
+            "id": "price-and-overlap",
+            "title": "Compare declared amounts without pretending they have equal effects",
+            "body": "For a protein powder, distinguish net powder mass from labelled protein grams. For an amino-acid blend, inspect the individual amino-acid amounts, the complete serving and the number of servings. Do not count the BCAAs inside an EAA total as a second independent quantity, or add the EAA content of a protein serving again as if it were extra protein. A cheaper gram of BCAA is not an equivalent substitute for a gram of complete protein or a complete EAA mixture. Price arithmetic helps compare like formulations; it cannot turn different amino-acid profiles into equal clinical or training value.",
+            "sourceIds": [
+              "food-performance-protein",
+              "supplement-quality-ods"
+            ]
+          },
+          {
+            "id": "safety-and-next-step",
+            "title": "A sensible shortlist starts with tolerance, restrictions and an actual need",
+            "body": "Check allergens, added stimulants and other ingredients as carefully as the amino-acid headline. A fruit-flavoured EAA or BCAA product is not automatically a simple ingredient, and a whey isolate is still milk-derived. Anyone with a medically restricted protein intake, kidney disease or another condition affecting nutrition needs an appropriate clinical plan; healthy exercise studies do not override it. Avoid using symptoms as proof of an amino-acid deficiency. Use the linked guides to review food intake and product evidence, then decide whether one product addresses a real requirement before stacking several overlapping ones.",
+            "sourceIds": [
+              "food-allergens",
+              "food-kidney-diet",
+              "supplement-quality-ods"
+            ]
+          }
+        ],
+        "sourceIds": [
+          "food-performance-amino-acids",
+          "food-performance-protein",
+          "digestion",
+          "comparison-eaa-leucine-churchward-2012",
+          "bcaa-trial",
+          "eaa-deficit-trial",
+          "food-protein",
+          "food-protein-vegetarian",
+          "protein-plant-diet-hevia-2021",
+          "protein-amino-acids-gorissen-2018",
+          "protein-timing-schoenfeld-2017",
+          "exercise",
+          "supplement-quality-ods",
+          "food-allergens",
+          "food-kidney-diet"
+        ],
+        "comparison": {
+          "title": "Three products, overlapping amino-acid contributions",
+          "columns": [
+            {
+              "key": "supplies",
+              "label": "What it supplies"
+            },
+            {
+              "key": "role",
+              "label": "Where it may fit"
+            },
+            {
+              "key": "limits",
+              "label": "Main limitation"
+            },
+            {
+              "key": "value",
+              "label": "Value check"
+            }
+          ],
+          "rows": [
+            {
+              "label": "Complete protein",
+              "values": {
+                "supplies": "All nine essential amino acids, including BCAAs, plus other amino acids.",
+                "role": "Review an assessed dietary protein gap; food can also supply it.",
+                "limits": "Source, amino-acid profile, preparation, tolerance and total intake affect its contribution.",
+                "value": "Compare labelled protein grams, allergens, quality evidence and cost within a suitable source."
+              },
+              "sourceIds": [
+                "food-performance-protein",
+                "food-performance-amino-acids",
+                "supplement-quality-ods"
+              ]
+            },
+            {
+              "label": "EAA mixture",
+              "values": {
+                "supplies": "Intended to supply all nine essential amino acids; inspect individual amounts.",
+                "role": "A specific nutrition context where a complete EAA formulation is relevant.",
+                "limits": "A rapid or acute response does not establish extra long-term gains over an adequate diet.",
+                "value": "Check the complete profile and serving; compare like formulations rather than raw powder weight."
+              },
+              "sourceIds": [
+                "food-performance-amino-acids",
+                "eaa-deficit-trial",
+                "supplement-quality-ods"
+              ]
+            },
+            {
+              "label": "BCAA mixture",
+              "values": {
+                "supplies": "Leucine, isoleucine and valine: three of the nine essential amino acids.",
+                "role": "An optional product requiring a clear reason beyond amino acids already supplied by meals.",
+                "limits": "It omits six essential amino acids; acute signalling does not prove added long-term benefit.",
+                "value": "A larger leucine ratio or cheaper gram is not equivalent to complete protein."
+              },
+              "sourceIds": [
+                "food-performance-amino-acids",
+                "bcaa-trial",
+                "comparison-eaa-leucine-churchward-2012"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "collagen-vs-protein",
+        "category": "collagen",
+        "relatedCategories": [
+          "protein",
+          "eaa"
+        ],
+        "series": "comparisons",
+        "title": "Collagen vs whey and plant protein: different profiles, different questions",
+        "summary": "Collagen is protein, but its amino-acid profile and research questions differ from complete dietary protein. Learn what that means for muscle, connective tissue and value.",
+        "author": "Supplement Research editorial synthesis",
+        "reviewed": "2026-11-18",
+        "intro": "Collagen is often positioned beside whey and plant protein as if the only choice were flavour or animal source. It is a protein, yet that does not make it a complete replacement for the protein used to meet a broader dietary need. Its distinctive amino-acid profile and the outcomes studied for collagen deserve separate attention. A product might be investigated for a joint symptom or a connective-tissue response without becoming the best way to fill a protein gap. Decide which question matters before comparing scoop sizes or prices.",
+        "sections": [
+          {
+            "id": "protein-with-a-different-profile",
+            "title": "Collagen contains useful amino acids, but is not complete protein on its own",
+            "body": "Collagen-derived products supply protein and can be digested. Their composition is rich in amino acids such as glycine and proline, while plain collagen lacks tryptophan and supplies relatively little leucine compared with whey. That is why the same number of labelled protein grams should not automatically be treated as the same essential-amino-acid contribution. Calling collagen zero protein would be wrong; treating it as a complete stand-alone source would also be misleading. A fortified mixture can have a different profile from plain collagen, so read the finished formula rather than assigning every collagen-containing product the same composition.",
+            "sourceIds": [
+              "collagen-muscle-oikawa-2020",
+              "comparison-collagen-dairy-alcock-2019",
+              "comparison-collagen-muscle-aussieker-2023"
+            ]
+          },
+          {
+            "id": "digestion-and-delivery",
+            "title": "Swallowed collagen does not travel intact to a chosen joint",
+            "body": "Dietary proteins undergo digestion before their components become available to tissues. Human studies have detected some small collagen-derived peptides in the blood after hydrolysate ingestion, alongside amino-acid exposure. Detecting those peptides is evidence about absorption; it does not show that the original collagen strand has been installed in a knee, wrinkle or tendon. The body regulates its own tissue turnover. Mechanistic and cell experiments can help generate hypotheses, but a claim that an oral product repairs a particular structure still needs relevant human outcomes. An illustrated pathway should make that uncertainty visible rather than drawing an effortless route from scoop to repair.",
+            "sourceIds": [
+              "digestion",
+              "collagen-absorption-iwai-2005"
+            ]
+          },
+          {
+            "id": "muscle-comparisons",
+            "title": "For a muscle-protein goal, examine direct comparisons",
+            "body": "A randomized study in older women compared whey and collagen peptides using equal protein amounts. Whey produced a greater muscle-protein-synthesis response in the studied conditions. This is useful evidence against assuming that the two sources are interchangeable for muscle nutrition. It was a small, short investigation with a specific population and laboratory outcomes, not a lifetime prediction or a ranking of all brands. The practical point is to preserve adequate essential-amino-acid supply when filling a protein gap, rather than replacing a suitable main protein source simply because collagen also has protein printed on its label.",
+            "sourceIds": [
+              "collagen-muscle-oikawa-2020",
+              "food-performance-amino-acids"
+            ]
+          },
+          {
+            "id": "plant-protein-context",
+            "title": "A plant source is not automatically the same comparison as collagen",
+            "body": "Plant proteins vary in amino-acid composition, preparation and digestibility. Soy, pea, rice and mixtures should be assessed individually and within a varied diet. A protein-matched training study using a vegan diet and soy isolate found no detected difference in measured adaptations from a mixed diet using whey. That finding does not establish equivalence for every serving, but it illustrates why a well-planned plant approach is a different nutritional proposition from relying on plain collagen. Choose a source that supplies the needed amino-acid contribution and fits diet and allergies; animal origin alone does not establish the answer.",
+            "sourceIds": [
+              "protein-plant-diet-hevia-2021",
+              "protein-amino-acids-gorissen-2018",
+              "food-protein-vegetarian"
+            ]
+          },
+          {
+            "id": "connective-tissue-evidence",
+            "title": "A blood marker and stronger tendons are different outcomes",
+            "body": "In a small gelatin-plus-vitamin-C experiment, a collagen-formation marker changed after a particular supplementation and exercise protocol. The work included blood samples and an engineered-ligament experiment; it did not establish fewer injuries or healed tendons in participants. In a separate acute study in recreational athletes, neither collagen nor whey added a detectable increase in muscle connective-protein synthesis during the early recovery window. These studies ask different questions. They support careful, outcome-specific interpretation rather than a blanket claim that collagen always repairs connective tissue, or the opposite claim that every possible longer-term application has been disproved.",
+            "sourceIds": [
+              "comparison-gelatin-marker-shaw-2017",
+              "comparison-collagen-muscle-aussieker-2023"
+            ]
+          },
+          {
+            "id": "joint-symptoms-and-limits",
+            "title": "Joint-symptom findings do not establish cartilage regrowth",
+            "body": "Some collagen-hydrolysate trials have reported improvements in selected joint-discomfort measures. A 24-week athlete study is one example, but only part of its recruited sample supplied evaluable data and several outcomes were tested. Another placebo-controlled study in people reporting knee pain did not find a between-group improvement in the primary pain measure. Different preparations, populations and study methods help explain why one positive result cannot certify an entire ingredient category. Reduced discomfort would still be a different finding from new cartilage, prevention of osteoarthritis or treatment of the cause of persistent pain.",
+            "sourceIds": [
+              "comparison-collagen-joint-clark-2008",
+              "comparison-collagen-knee-null-2020"
+            ]
+          },
+          {
+            "id": "forms-and-dose-basis",
+            "title": "Hydrolysed peptides, gelatin and native type II are not interchangeable labels",
+            "body": "Collagen peptides are hydrolysed preparations; gelatin is a differently processed collagen-derived material. Native or undenatured type II products are studied for a different proposed application and should not be compared with peptide powders merely by choosing the largest gram number. A type label, an animal source and a delivery format answer different questions. Preserve the actual ingredient identity, declared amount and study preparation when judging evidence. Evidence for one hydrolysate does not validate every gummy, capsule or blend carrying collagen in its name, and the size of a serving is not a clinical potency scale.",
+            "sourceIds": [
+              "collagen-absorption-iwai-2005",
+              "comparison-gelatin-marker-shaw-2017",
+              "supplement-quality-ods",
+              "comparison-collagen-typeii-lugo-2016"
+            ]
+          },
+          {
+            "id": "food-and-synthesis",
+            "title": "Food can support collagen synthesis without containing collagen itself",
+            "body": "Animal connective tissues and gelatin-containing foods supply collagen-derived material. A broth's recipe, concentration and preparation affect what a serving supplies, so the amount should not be inferred from its name. Ordinary protein foods contribute amino-acid building blocks, while vitamin C has an essential role in normal collagen synthesis. A plant food supplying vitamin C is not thereby a measured collagen source, and a vitamin-and-amino-acid collagen-builder blend is not automatically collagen. Food-based adequacy and a retail collagen product are separate options to assess, rather than interchangeable doses of a named supplement.",
+            "sourceIds": [
+              "comparison-collagen-dairy-alcock-2019",
+              "food-protein",
+              "c-overview"
+            ]
+          },
+          {
+            "id": "value-for-the-goal",
+            "title": "Compare cost within the purpose, not only protein grams",
+            "body": "If the purchase is intended to fill a dietary protein gap, assess complete protein contribution, tolerability and cost per gram of labelled protein. If considering a collagen intervention for a particular outcome, compare the exact preparation, evidence, full serving and expected purchase duration. A low price per gram does not prove that it matches a studied formulation or provides a worthwhile benefit. Conversely, a premium marine source or patented name needs relevant supporting evidence. Keep unverified composition separate from independently measured content, and do not let collagen displace a more important nutrition need simply because the packaging lists protein.",
+            "sourceIds": [
+              "supplement-quality-ods",
+              "comparison-collagen-dairy-alcock-2019",
+              "food-performance-protein"
+            ]
+          },
+          {
+            "id": "suitability-and-decision",
+            "title": "Source restrictions and persistent symptoms matter more than a marketing category",
+            "body": "Check the declared animal source and allergens, including fish for marine products, plus all ingredients in blends. Lower lactose and milk allergy are different issues when considering whey; an alternative protein must still fit the individual. Anyone with medically restricted protein intake or kidney disease needs individualized nutrition care. Persistent joint pain, swelling or loss of function calls for assessment rather than treating a supplement response as a diagnosis. A reasonable decision can be ordinary food, a suitable complete protein, a carefully reviewed adjunct or no additional product. Collagen should be considered for a stated purpose with a way to reassess value.",
+            "sourceIds": [
+              "food-allergens",
+              "food-kidney-diet",
+              "supplement-quality-ods"
+            ]
+          }
+        ],
+        "sourceIds": [
+          "collagen-muscle-oikawa-2020",
+          "comparison-collagen-dairy-alcock-2019",
+          "comparison-collagen-muscle-aussieker-2023",
+          "digestion",
+          "collagen-absorption-iwai-2005",
+          "food-performance-amino-acids",
+          "protein-plant-diet-hevia-2021",
+          "protein-amino-acids-gorissen-2018",
+          "food-protein-vegetarian",
+          "comparison-gelatin-marker-shaw-2017",
+          "comparison-collagen-joint-clark-2008",
+          "comparison-collagen-knee-null-2020",
+          "supplement-quality-ods",
+          "comparison-collagen-typeii-lugo-2016",
+          "food-protein",
+          "c-overview",
+          "food-performance-protein",
+          "food-allergens",
+          "food-kidney-diet"
+        ],
+        "comparison": {
+          "title": "Match the protein profile to the purpose",
+          "columns": [
+            {
+              "key": "supplies",
+              "label": "What it supplies"
+            },
+            {
+              "key": "role",
+              "label": "Where it may fit"
+            },
+            {
+              "key": "limits",
+              "label": "Main limitation"
+            },
+            {
+              "key": "value",
+              "label": "Value check"
+            }
+          ],
+          "rows": [
+            {
+              "label": "Whey protein",
+              "values": {
+                "supplies": "A complete milk protein with substantial essential-amino-acid and leucine content.",
+                "role": "A possible way to fill a protein gap when dairy fits the diet.",
+                "limits": "Milk allergy, tolerability and the full diet matter; no brand is certified by an ingredient study.",
+                "value": "Compare finished-product protein grams, allergens, composition evidence and cost."
+              },
+              "sourceIds": [
+                "collagen-muscle-oikawa-2020",
+                "food-allergens",
+                "supplement-quality-ods"
+              ]
+            },
+            {
+              "label": "Suitable plant protein or blend",
+              "values": {
+                "supplies": "Source-dependent amino-acid profiles; adequate amounts and dietary variety remain relevant.",
+                "role": "A plant-based protein gap when the source and full diet are suitable.",
+                "limits": "Every source, blend and serving is not automatically equivalent.",
+                "value": "Review source proportions, labelled protein, amino-acid information, allergens and price."
+              },
+              "sourceIds": [
+                "protein-amino-acids-gorissen-2018",
+                "protein-plant-diet-hevia-2021",
+                "food-protein-vegetarian"
+              ]
+            },
+            {
+              "label": "Collagen peptides",
+              "values": {
+                "supplies": "Glycine- and proline-rich protein; plain collagen lacks tryptophan and is relatively low in leucine.",
+                "role": "An optional outcome-specific adjunct after reviewing the exact preparation and evidence.",
+                "limits": "It is not a complete stand-alone protein or proof of tissue repair.",
+                "value": "Price the stated purpose, full serving, source and quality evidence; avoid an unsupported premium."
+              },
+              "sourceIds": [
+                "collagen-muscle-oikawa-2020",
+                "comparison-collagen-muscle-aussieker-2023",
+                "supplement-quality-ods"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "collagen-myths",
+        "category": "collagen",
+        "series": "myth-busters",
+        "title": "10 collagen myths: skin promises, joint claims and protein quality",
+        "summary": "Check what collagen studies measure, which claims go beyond them, and why form, source and an attractive before-and-after picture are different kinds of evidence.",
+        "author": "Supplement Research editorial synthesis",
+        "reviewed": "2026-11-18",
+        "intro": "Collagen is a real structural protein and a popular supplement category. Neither fact means that every collagen product repairs the tissue pictured on its packaging. Different preparations are studied for different purposes, and a useful explanation needs to separate normal biology, a laboratory marker, a reported symptom and a result that matters over time. These ten claims focus on oral products. Evidence for an injected treatment, a wound dressing or a cell-culture experiment cannot simply be transferred to a drink.",
+        "sections": [
+          {
+            "id": "keep-the-outcome",
+            "title": "A benefit claim is only as specific as its outcome",
+            "body": "Less reported pain is not proof of new cartilage. Greater bone density is not the same outcome as fewer fractures. One collagen trial in postmenopausal women measured bone density and turnover over a year; it did not establish that a retail supplement can replace osteoporosis care. Ask which endpoint improved and whether the population, ingredient and duration match the advertised claim.",
+            "sourceIds": [
+              "collagen-editorial-bone"
+            ]
+          },
+          {
+            "id": "evaluate-trial",
+            "title": "Separate a helpful signal from a buying guarantee",
+            "body": "A trial may justify further research without settling a whole product category. Check randomization, the comparison group, participant numbers, dropouts and whether outcomes were chosen in advance. For example, an athlete joint-discomfort trial evaluated a hydrolysate over months. It does not validate every joint powder, a different collagen preparation or a promise that healthy users will avoid injury.",
+            "sourceIds": [
+              "comparison-collagen-joint-clark-2008"
+            ]
+          },
+          {
+            "id": "buying-order",
+            "title": "Decide what you need before comparing the pack",
+            "body": "Identify the purpose, exact ingredient, source and full serving. Compare the price only after those match. Ask what any quality certificate actually tests: identity, declared content or selected contaminants are different from clinical effectiveness. A batch report cannot guarantee the result of a long-term health claim, and the research cited here does not endorse a catalog brand.",
+            "sourceIds": [
+              "supplement-quality-ods"
+            ]
+          }
+        ],
+        "myths": [
+          {
+            "claim": "A collagen drink travels intact to the skin or joint named on the label.",
+            "verdict": "The destination story is misleading.",
+            "explanation": "Food proteins undergo digestion. Human studies have detected selected small collagen-derived peptides in blood after hydrolysates, alongside normal amino-acid handling. That is different from demonstrating that an intact collagen fibre survives digestion and is delivered to a chosen wrinkle or knee. A type number or body-part illustration does not establish tissue homing. Clinical outcomes still need to be tested separately.",
+            "sourceIds": [
+              "digestion",
+              "collagen-absorption-iwai-2005"
+            ]
+          },
+          {
+            "claim": "Marine collagen is automatically more effective than every land-animal collagen.",
+            "verdict": "A source name is not a clinical ranking.",
+            "explanation": "A small crossover experiment found different circulating peptide patterns after fish-scale, fish-skin and porcine preparations. It measured exposure in five men, rather than skin improvement or joint function. Such differences can generate hypotheses, but they cannot support a universal marine superiority claim. Source can matter for dietary preference and allergy; effectiveness needs an appropriate comparison of the actual products.",
+            "sourceIds": [
+              "collagen-editorial-sources"
+            ]
+          },
+          {
+            "claim": "Hydrolysed peptides, gelatin and undenatured type II collagen are interchangeable.",
+            "verdict": "False: preparation and research purpose matter.",
+            "explanation": "Hydrolysates are broken-down preparations; gelatin and native type II products have different characteristics. A small trial comparing gelatin, hydrolysate and a gummy examined short-term amino-acid and procollagen markers. A separate native type II trial assessed knee symptoms over months. Neither study provides a gram-for-gram exchange rule between those ingredients or shows that a larger hydrolysate serving replicates the native preparation.",
+            "sourceIds": [
+              "collagen-gelatin-lis-2019",
+              "collagen-editorial-native-ii"
+            ]
+          },
+          {
+            "claim": "Collagen can replace whey, other complete proteins and ordinary protein foods for building muscle.",
+            "verdict": "Protein grams do not make sources interchangeable.",
+            "explanation": "Collagen supplies protein, but its essential-amino-acid pattern differs from a complete protein. In a short controlled study in older women, whey produced greater muscle-protein-synthesis responses than collagen peptides. This does not make collagen nutritionally worthless; it means a skin or connective-tissue rationale should not be confused with meeting the whole diet's protein needs. Normal meals and adequate varied protein remain central.",
+            "sourceIds": [
+              "collagen-muscle-oikawa-2020",
+              "food-protein"
+            ]
+          },
+          {
+            "claim": "Collagen is conclusively proved to reverse skin ageing for everyone.",
+            "verdict": "The wider evidence is less certain than that claim.",
+            "explanation": "A 2025 analysis reported improvements when skin trials were pooled. However, significant benefits were absent in its higher-quality and non-pharmaceutical-company-funded subgroups. Subgroup analyses also have limits, so this does not prove that no individual or formulation can benefit. It does mean that a universal anti-ageing guarantee is unjustified. Read study quality and funding rather than counting only favourable before-and-after results.",
+            "sourceIds": [
+              "collagen-skin-meta-2025"
+            ]
+          },
+          {
+            "claim": "Improved joint pain proves that collagen regrows cartilage or cures osteoarthritis.",
+            "verdict": "A symptom result does not establish structural repair.",
+            "explanation": "A trial of one undenatured type II ingredient reported improvements in knee osteoarthritis symptom scores. That outcome is relevant to how participants felt and functioned, but it is not evidence of regenerated cartilage or a cure. Joint pain also has different causes. A product should not displace assessment, an appropriate exercise or rehabilitation plan, or prescribed care merely because its label uses a cartilage-related ingredient.",
+            "sourceIds": [
+              "collagen-editorial-native-ii"
+            ]
+          },
+          {
+            "claim": "An increase in a collagen-synthesis marker proves an injury will heal faster.",
+            "verdict": "A laboratory signal is not a recovery outcome.",
+            "explanation": "A small gelatin-and-exercise experiment explored blood markers and an engineered-ligament model. It did not demonstrate fewer injuries or a faster return to sport. Another human tracer experiment found no additional early muscle connective-protein-synthesis effect from collagen after exercise. These experiments ask useful but narrower questions. An injured tendon or ligament needs outcome-specific rehabilitation evidence, not an automatic inference from a circulating marker.",
+            "sourceIds": [
+              "collagen-gelatin-shaw-2017",
+              "collagen-editorial-muscle-connective"
+            ]
+          },
+          {
+            "claim": "A plant-based collagen builder necessarily contains the same ingredient as collagen peptides.",
+            "verdict": "Read the ingredients; the marketing name is insufficient.",
+            "explanation": "A blend of vitamin C, plant extracts or amino acids is not automatically collagen. Vitamin C has a genuine role in the body's own collagen synthesis, which is different from supplying a declared collagen ingredient. Identify what is actually present, its amount and the evidence for that preparation. A vegan or builder claim alone cannot establish composition or make a collagen-peptide trial applicable to the blend.",
+            "sourceIds": [
+              "c-overview",
+              "supplement-quality-ods"
+            ]
+          },
+          {
+            "claim": "Collagen needs a vitamin C megadose to work.",
+            "verdict": "A necessary nutrient does not establish a megadose requirement.",
+            "explanation": "Vitamin C is required for normal collagen synthesis, and deficiency can impair connective tissue. That does not show that very large additional amounts improve collagen outcomes when intake is adequate. A study that combines vitamin C, gelatin and exercise also cannot isolate a universal vitamin C add-on rule. Review ordinary dietary adequacy first rather than treating the largest vitamin C figure as a collagen effectiveness score.",
+            "sourceIds": [
+              "c-overview",
+              "collagen-gelatin-shaw-2017"
+            ]
+          },
+          {
+            "claim": "Natural collagen is allergy-free and appropriate for everyone.",
+            "verdict": "Source and individual context still matter.",
+            "explanation": "Check the animal source, added ingredients and allergen information. Fish is a recognised food allergen, and a marine label should not be interpreted as an allergy exemption. Processing, flavouring and packaging claims cannot establish suitability for a particular person. Anyone considering a supplement for a medical condition, or alongside medicines, should discuss the actual formulation and purpose with the relevant treating professional.",
+            "sourceIds": [
+              "food-allergens",
+              "supplement-quality-ods"
+            ]
+          }
+        ],
+        "sourceIds": [
+          "collagen-editorial-bone",
+          "comparison-collagen-joint-clark-2008",
+          "supplement-quality-ods",
+          "digestion",
+          "collagen-absorption-iwai-2005",
+          "collagen-editorial-sources",
+          "collagen-gelatin-lis-2019",
+          "collagen-editorial-native-ii",
+          "collagen-muscle-oikawa-2020",
+          "food-protein",
+          "collagen-skin-meta-2025",
+          "collagen-gelatin-shaw-2017",
+          "collagen-editorial-muscle-connective",
+          "c-overview",
+          "food-allergens"
+        ]
+      },
+      {
+        "id": "collagen-types",
+        "category": "collagen",
+        "series": "understanding-types",
+        "title": "Collagen types explained: peptides, gelatin, native type II and source labels",
+        "summary": "Learn which differences concern processing, which describe an animal source, and which are delivery formats before comparing claims or prices.",
+        "author": "Supplement Research editorial synthesis",
+        "reviewed": "2026-11-18",
+        "intro": "A collagen label can combine several independent descriptions: marine, type I, hydrolysed, powder and skin support. They do not answer the same question. Start with the specified ingredient and processing, then read the source and serving, and finally the format. Clinical comparisons need to preserve those distinctions. This guide explains how to read the category; it does not assign a personal dose or assume that every product under one label has the same peptide profile.",
+        "sections": [
+          {
+            "id": "layered-labels",
+            "title": "Read processing, source and type as separate layers",
+            "body": "Hydrolysis describes breakdown into smaller fragments; fish or bovine describes a source. A numbered collagen family in native tissue is not a shipping address after ingestion. Human absorption work used identified hydrolysates and measured selected circulating fragments. Keep the product specification visible instead of assuming that a long combination of source and type words proves better tissue targeting.",
+            "sourceIds": [
+              "collagen-absorption-iwai-2005"
+            ]
+          },
+          {
+            "id": "potency",
+            "title": "Potency needs a stated outcome",
+            "body": "For skin, ask whether a particular preparation improved a relevant measure against placebo. An eight-week trial in women reported better elasticity with specific peptides, while some other skin measures did not improve significantly. That is more precise than declaring a percentage of universal anti-ageing potency. For joint or exercise questions, the comparison must use their own outcomes; a skin measurement cannot supply the answer.",
+            "sourceIds": [
+              "collagen-editorial-skin-rct"
+            ]
+          },
+          {
+            "id": "skin-evidence-limits",
+            "title": "Keep the quality of skin evidence visible",
+            "body": "Positive studies should be considered alongside evidence that tests how robust those results are. A 2025 skin-trial analysis found pooled improvements, but no significant benefits within its higher-quality or non-pharmaceutical-company-funded subgroups. Those analyses have their own limits and do not prove every effect is zero. They do lower confidence in treating a premium peptide, marine source or convenient format as a reliably effective anti-ageing intervention.",
+            "sourceIds": [
+              "collagen-skin-meta-2025"
+            ]
+          },
+          {
+            "id": "amounts",
+            "title": "Keep grams of hydrolysate separate from native ingredient amounts",
+            "body": "Hydrolysate and native type II research should not be compared by choosing the largest mass. The native ingredient is studied at a very different amount and with a proposed gut immune mechanism, rather than simply as bulk protein. Verify whether a label reports the full source material, collagen content or an active native fraction before interpreting its number. A disease claim still requires condition-specific assessment.",
+            "sourceIds": [
+              "collagen-editorial-native-ii"
+            ]
+          },
+          {
+            "id": "quality-and-price",
+            "title": "Compare a specified product before a discount",
+            "body": "Match the ingredient, full serving and intended use. Price per gram can compare the declared amount of comparable hydrolysates, but cannot make native type II, a vitamin blend and bulk peptides equivalent interventions. For unit products, calculate how many capsules or gummies make the whole serving. Quality documentation should identify its scope and the actual product; it is not proof of effectiveness.",
+            "sourceIds": [
+              "supplement-quality-ods"
+            ]
+          }
+        ],
+        "forms": [
+          {
+            "name": "Hydrolysed collagen peptides",
+            "kind": "ingredient",
+            "description": "Collagen processed into smaller peptide mixtures. Hydrolysates can differ in source and peptide distribution, even when the front labels look similar.",
+            "metabolism": "Digestive processing yields amino acids and smaller peptides; selected hydroxyproline-containing fragments have been measured in human blood.",
+            "evidence": "Skin and joint trials concern particular preparations. A circulating peptide does not establish a universal clinical effect.",
+            "value": "Check declared collagen grams, preparation identity and the relevant trial rather than treating peptide size alone as an outcome score.",
+            "sourceIds": [
+              "collagen-absorption-iwai-2005",
+              "collagen-editorial-skin-rct",
+              "comparison-collagen-joint-clark-2008"
+            ]
+          },
+          {
+            "name": "Gelatin",
+            "kind": "ingredient",
+            "description": "A collagen-derived material with different physical properties from many readily dissolving hydrolysates. Gelatin and hydrolysate names should not be treated as one finished formulation.",
+            "metabolism": "Digestion supplies amino acids and peptides; its use in a food does not bypass ordinary protein digestion.",
+            "evidence": "Exercise experiments have examined vitamin C-enriched gelatin using biochemical markers. These are not trials proving healed tendons or prevented injury.",
+            "value": "Assess preparation and cooking practicality. A functional-food ingredient can be useful without inheriting every collagen-peptide marketing claim.",
+            "sourceIds": [
+              "collagen-gelatin-shaw-2017",
+              "digestion"
+            ]
+          },
+          {
+            "name": "Native or undenatured type II collagen",
+            "kind": "ingredient",
+            "description": "A preparation intended to retain native type II characteristics, distinct from hydrolysed type II material. The specific ingredient and standardisation matter.",
+            "metabolism": "A gut-associated immune-tolerance route is proposed; this is different from viewing it solely as a large nutritional amino-acid supply. The symptom trial does not prove that causal mechanism.",
+            "evidence": "One six-month trial reported knee osteoarthritis symptom improvements. It did not show cartilage regrowth.",
+            "value": "Preserve the exact ingredient and label basis. Do not rank it against hydrolysate grams as if the interventions were identical.",
+            "sourceIds": [
+              "collagen-editorial-native-ii"
+            ]
+          },
+          {
+            "name": "Bovine or porcine source labels",
+            "kind": "ingredient",
+            "description": "These identify cattle or pig origin, not one universal peptide profile, serving strength or outcome. A source may be relevant to dietary and cultural preferences.",
+            "metabolism": "The final preparation still undergoes digestive handling. Native source and subsequent processing are separate characteristics.",
+            "evidence": "Human absorption and clinical findings apply to the specific materials tested; neither animal name alone establishes better skin or joint results.",
+            "value": "Require source disclosure and an identified preparation. Ethical or dietary fit is a valid choice criterion, separate from an efficacy premium.",
+            "sourceIds": [
+              "collagen-editorial-sources",
+              "collagen-editorial-skin-rct"
+            ]
+          },
+          {
+            "name": "Marine or fish-derived collagen",
+            "kind": "ingredient",
+            "description": "A source category that can include different fish tissues and processing methods. Marine is not itself a standardised clinical ingredient.",
+            "metabolism": "One small human experiment found source-dependent circulating peptide profiles after fish and porcine hydrolysates.",
+            "evidence": "That experiment did not measure skin or joint outcomes and cannot establish that every marine product is more effective.",
+            "value": "Compare the specified preparation, serving and quality evidence. Treat fish-allergy suitability as a separate question.",
+            "sourceIds": [
+              "collagen-editorial-sources",
+              "food-allergens"
+            ]
+          },
+          {
+            "name": "Multi-type or multi-source collagen blends",
+            "kind": "ingredient",
+            "description": "Mixtures may combine numbered collagen descriptions, animal sources or preparations. More names do not disclose the proportion or condition of each component.",
+            "metabolism": "Hydrolysed fractions and a truly native type II ingredient should not be assumed to share one mechanism merely because both occur in a blend.",
+            "evidence": "A result for a single defined ingredient does not validate an undisclosed mixture or prove that additional types improve the outcome.",
+            "value": "Look for component amounts and processing. Without them, a blend total cannot verify how much of a relevant preparation is supplied.",
+            "sourceIds": [
+              "collagen-editorial-native-ii",
+              "comparison-collagen-joint-clark-2008"
+            ]
+          },
+          {
+            "name": "Plant-based collagen builders",
+            "kind": "ingredient",
+            "description": "Products sold as builders may supply nutrients or amino acids intended to support normal synthesis. The label must establish whether any actual collagen ingredient is present.",
+            "metabolism": "A nutrient such as vitamin C can support the body making collagen; this is different from consuming collagen peptides.",
+            "evidence": "A biological precursor role does not transfer the clinical evidence of a tested collagen preparation to a new plant blend.",
+            "value": "Assess the stated nutrient need and ingredient amounts rather than pricing an undefined builder blend as equivalent collagen grams.",
+            "sourceIds": [
+              "c-overview",
+              "supplement-quality-ods"
+            ]
+          },
+          {
+            "name": "Powder",
+            "kind": "delivery",
+            "description": "A delivery format that can supply peptides, gelatin or a multi-ingredient mixture. Scoop mass includes everything in the formulation.",
+            "metabolism": "The underlying preparation determines the relevant digestive or proposed biological route; the word powder is not a new mechanism.",
+            "evidence": "Ingredient evidence must match the powder actually supplied; the format alone does not certify its content or outcomes.",
+            "value": "Compare full label servings and declared collagen amount, keeping flavours and added ingredients in view.",
+            "sourceIds": [
+              "comparison-collagen-joint-clark-2008",
+              "supplement-quality-ods"
+            ]
+          },
+          {
+            "name": "Capsules or tablets",
+            "kind": "delivery",
+            "description": "Counted units can be convenient, but one capsule need not equal a full serving or the amount used in a study.",
+            "metabolism": "A capsule supplies its specified ingredient. Packaging does not turn hydrolysed material into native type II or vice versa.",
+            "evidence": "Evidence follows the ingredient and delivered regimen; it does not establish a capsule-wide advantage.",
+            "value": "Read the full serving count and ingredient basis before estimating pack duration. A milligram native ingredient is not the same comparison as bulk peptide grams.",
+            "sourceIds": [
+              "collagen-editorial-native-ii",
+              "supplement-quality-ods"
+            ]
+          },
+          {
+            "name": "Gummies and ready-to-drink products",
+            "kind": "delivery",
+            "description": "Prepared formats add a matrix, flavouring and sometimes other active ingredients. Convenience and clinical superiority are separate claims.",
+            "metabolism": "A small human study found similar amino-acid increases after equivalent amounts of several collagen formulations.",
+            "evidence": "Its procollagen-marker results were variable and not statistically significant. It did not establish better long-term skin, joint or injury outcomes for a gummy.",
+            "value": "Use the complete serving, declared collagen amount and added ingredients when assessing convenience and cost.",
+            "sourceIds": [
+              "collagen-gelatin-lis-2019"
+            ]
+          }
+        ],
+        "sourceIds": [
+          "collagen-absorption-iwai-2005",
+          "collagen-editorial-skin-rct",
+          "collagen-editorial-native-ii",
+          "supplement-quality-ods",
+          "comparison-collagen-joint-clark-2008",
+          "collagen-gelatin-shaw-2017",
+          "digestion",
+          "collagen-editorial-sources",
+          "food-allergens",
+          "c-overview",
+          "collagen-gelatin-lis-2019",
+          "collagen-skin-meta-2025"
         ]
       }
     ]

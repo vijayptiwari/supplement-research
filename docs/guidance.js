@@ -44,6 +44,7 @@ export function buyingQuality(policy,refs){
  return `<aside class="buying-quality-note"><h4>${esc(policy.qualityTitle)}</h4><p>${esc(policy.qualityNote)}</p><p class="source-line">Sources: ${sourceLinks(policy.qualitySourceIds,refs)}</p></aside>`;
 }
 export function valueComparisonBasis(c){
+ if(c.educationOnly)return `<div class="value-calculation"><span class="section-kicker">CHECK THE FORM BEFORE THE PRICE</span><h4>Compare the intended ingredient and evidence</h4><p>${esc(c.comparisonNote||'Compare matching forms and complete label servings. Ingredient weight is not a clinical potency score.')}</p><small>This category currently publishes education. Product offers and price comparisons have not been audited.</small></div>`;
  const ingredient=c.compoundLabel||'ingredient',labelled=/^labelled\s/i.test(ingredient)?ingredient:'labelled '+ingredient;
  if(c.measurement!=='units')return `<div class="value-calculation"><span class="section-kicker">COMPARE THE ACTIVE AMOUNT</span><h4>Cost per gram of ${esc(labelled)}</h4><p>Total ${esc(labelled)} in pack = net grams × concentration (%) ÷ 100.</p><p>Cost per gram = pack price ÷ total ${esc(labelled)} grams.</p><small>Compare the same ingredient and chemical form. Keep pack size, upfront spend and flavour differences visible.</small></div>`;
  const multi=c.mainNutrient==='multi';

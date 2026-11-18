@@ -973,6 +973,26 @@
         "beta hydroxy beta methylbutyrate",
         "hydroxymethylbutyrate"
       ]
+    },
+    {
+      "id": "collagen",
+      "label": "Collagen",
+      "file": "collagen.json",
+      "page": "collagen.html",
+      "measurement": "education",
+      "educationOnly": true,
+      "compoundLabel": "collagen material",
+      "comparisonNote": "Hydrolysed collagen peptides, gelatin and native undenatured type II collagen are different preparations. Compare the same form, verified amount per complete serving and relevant human evidence. Milligrams of a native type II preparation are not gram-for-gram substitutes for collagen peptide protocols; marine or bovine source alone does not establish superior effectiveness.",
+      "searchAliases": [
+        "collagen peptides",
+        "hydrolyzed collagen",
+        "hydrolysed collagen",
+        "gelatin",
+        "gelatine",
+        "undenatured type ii",
+        "marine collagen",
+        "bovine collagen"
+      ]
     }
   ],
   "quickPicks": [

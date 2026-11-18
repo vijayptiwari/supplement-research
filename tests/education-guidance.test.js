@@ -17,7 +17,8 @@ test('every guide presents sourced practical actions and value checks before its
   const p=a.buyingGuide.practices,html=markup(s,a),handoff=html.indexOf(`id="${a.id}-products"`),catalog=`href="${s.categories[a.category].page}"`;
   assert.ok(p.dos.length>=2&&p.donts.length>=2,a.category);assert.ok(p.sourceIds.every(id=>a.sourceIds.includes(id)));
   for(const key of ['process','practices','safety','value','labels','sources'])assert.ok(html.indexOf(`id="${a.id}-${key}"`)<handoff,a.category+key);
-  assert.ok(!html.slice(0,handoff).includes(catalog),a.category+' premature comparison');assert.equal(html.split(catalog).length-1,1);
+  assert.ok(!html.slice(0,handoff).includes(catalog),a.category+' premature comparison');assert.equal(html.split(catalog).length-1,s.categories[a.category].educationOnly?0:1);
+  if(s.categories[a.category].educationOnly)assert.ok(html.includes('CONTINUE LEARNING'));
   for(const item of [...p.dos,...p.donts])assert.ok(html.includes(item.title.replaceAll('&','&amp;').replaceAll("'",'&#39;')));
   assert.ok(html.includes('Learning path'));assert.ok(html.includes('How to spot value for money'));
  }

@@ -47,10 +47,10 @@ function coverage(categories){
 function formula(offers){if(offers[0]?.isUnitOffer){$('#formula-example').innerHTML=unitFormula(snapshot.categories[offers[0].category],offers,{money,num});return;}const r=offers.find(r=>r.rankingEligible)||offers.find(r=>r.cost!=null);$('#formula-example').innerHTML=r?`<p class="calculation"><strong>Dataset example: ${esc(r.brand)} · ${esc(r.product)} · ${esc(r.flavour)} · ${size(r)}</strong><br>${money(r.price)} ÷ (${num(r.grams)} g × ${num(r[categoryOf(r).concentrationField],2)}% ÷ 100) = <strong>${money(r.cost)} / g ${esc(categoryOf(r).compoundLabel)}</strong>. A ${num(categoryOf(r).referenceGrams)} g comparison portion costs ${money(r.referenceCost)}.</p>`:'<p>No offer currently has the inputs required for a calculation.</p>';}
 function renderDownloads(){
  const el=$('#downloads');if(!el)return;const categories=Object.values(snapshot.categories);
- el.innerHTML=[...categories.map(c=>({file:c.file,label:`${c.label} JSON · ${num(c.stats.offers,0)} offers`})),{file:'price-history.csv',label:`${snapshot.config.historyQuarters}-quarter price history CSV`},{file:'price-audit.csv',label:'Latest-quarter change audit CSV'},{file:'price-observations.json',label:'Dated price observations'},{file:'quality-report.json',label:'Data quality report'}].map(a=>`<a class="research-card" download href="data/${esc(a.file)}"><strong>${esc(a.label)} ↓</strong><p class="muted">${num((snapshot.assets[a.file]?.bytes||0)/1024,1)} KB · dataset as of ${formatDate(snapshot.asOf)}</p></a>`).join('');
+ el.innerHTML=[...categories.map(c=>({file:c.file,label:c.educationOnly?`${c.label} education scope JSON`:`${c.label} JSON · ${num(c.stats.offers,0)} offers`})),{file:'price-history.csv',label:`${snapshot.config.historyQuarters}-quarter price history CSV`},{file:'price-audit.csv',label:'Latest-quarter change audit CSV'},{file:'price-observations.json',label:'Dated price observations'},{file:'quality-report.json',label:'Data quality report'}].map(a=>`<a class="research-card" download href="data/${esc(a.file)}"><strong>${esc(a.label)} ↓</strong><p class="muted">${num((snapshot.assets[a.file]?.bytes||0)/1024,1)} KB · dataset as of ${formatDate(snapshot.asOf)}</p></a>`).join('');
 }
 function renderAudit(){
- const categories=Object.values(snapshot.categories);renderStats(snapshot.stats);coverage(categories);formula(categories.flatMap(c=>c.offers));renderDownloads();
+ const categories=Object.values(snapshot.categories).filter(c=>!c.educationOnly);renderStats(snapshot.stats);coverage(categories);formula(categories.flatMap(c=>c.offers));renderDownloads();
 }
 function renderHome(){renderMarketHome(snapshot);}
 function renderRanking(id){
@@ -105,12 +105,12 @@ function renderOffer(){
 function onSnapshot(next){
  const previous=category&&categoryId?{...state(),sort:$('#sort').value,view}:null;snapshot=next;category=next.categories[categoryId];
  document.querySelectorAll('[data-site-name]').forEach(e=>e.textContent=next.config.name);
- const active=categoryId||new URLSearchParams(location.search).get('category');
+ const active=categoryId||new URLSearchParams(location.search).get('category')||document.body.dataset.defaultCategory||(pageType==='articles'?next.research.editorial?.articles.find(a=>a.id===new URLSearchParams(location.search).get('article'))?.category:'');
  $('#navigation').innerHTML=`<a href="index.html" ${!categoryId&&!pageType?'aria-current="page"':''}>Home</a><a href="research.html" ${pageType==='research'?'aria-current="page"':''}>Learn about supplements</a><a href="articles.html" ${pageType==='articles'?'aria-current="page"':''}>Articles</a><a href="search.html?kind=products" ${categoryId||pageType==='search'?'aria-current="page"':''}>Compare products</a><a href="recommender.html" ${pageType==='recommender'?'aria-current="page"':''}>Stack builder</a><a href="audit.html" ${pageType==='audit'?'aria-current="page"':''}>Sources &amp; data quality</a>`;
  const categoryNav=$('#category-nav'),firstNavigation=!categoryNav.children.length;
  categoryNav.innerHTML=categoryGuideNavigation(next.config.categories,active);
  if(firstNavigation)requestAnimationFrame(()=>{const selectedLink=categoryNav.querySelector('[aria-current="page"]');if(selectedLink){const rail=categoryNav.getBoundingClientRect(),item=selectedLink.getBoundingClientRect();if(item.left<rail.left||item.right>rail.right)categoryNav.scrollLeft+=item.left-rail.left-(rail.width-item.width)/2;}});
- const globalCategory=$('#global-search-category'),searchParams=new URLSearchParams(location.search),oldCategory=globalCategory.value||searchParams.get('category')||'';
+ const globalCategory=$('#global-search-category'),searchParams=new URLSearchParams(location.search),oldCategory=globalCategory.value||searchParams.get('category')||active||'';
  globalCategory.innerHTML=`<option value="">All supplements</option>${next.config.categories.map(c=>`<option value="${esc(c.id)}">${esc(c.label)}</option>`).join('')}`;globalCategory.value=next.categories[oldCategory]?oldCategory:'';
  if(!$('#global-search-input').dataset.ready){$('#global-search-input').value=searchParams.get('q')||'';$('#global-search-input').dataset.ready='true';}
  if(categoryId){if(!category)throw Error('Category missing from dataset.');$('.category-hero').innerHTML=categoryHero(next,category);$('#category-primer').innerHTML=categoryPrimer(next,category);$('#results-title').textContent=category.label+' products';
@@ -121,7 +121,7 @@ function onSnapshot(next){
  else if(pageType==='search')renderSearch(next);
  else if(pageType==='audit')renderAudit();
  else renderHome();
- const metadata=pageMetadata(next,pageType||categoryId),editorial=pageType==='articles'&&next.research.editorial?.articles.find(a=>a.id===new URLSearchParams(location.search).get('article'));
+ const metadata=pageMetadata(next,pageType==='research'&&document.body.dataset.defaultCategory?(new URLSearchParams(location.search).get('category')||document.body.dataset.defaultCategory):pageType||categoryId),editorial=pageType==='articles'&&next.research.editorial?.articles.find(a=>a.id===new URLSearchParams(location.search).get('article'));
  if(editorial){metadata.title=editorial.title+' · '+next.config.name;metadata.description=editorial.summary;metadata.structured={'@context':'https://schema.org','@type':'Article',headline:editorial.title,description:editorial.summary,dateModified:editorial.reviewed,author:{'@type':'Organization',name:editorial.author},url:next.config.baseUrl+'articles.html?article='+encodeURIComponent(editorial.id),citation:editorial.sourceIds.map(id=>next.research.sources.find(s=>s.id===id)?.url).filter(Boolean)};}
  document.title=metadata.title;
  for(const [selector,value] of [['meta[name="description"]',metadata.description],['meta[property="og:description"]',metadata.description],['meta[property="og:title"]',metadata.title]]){const el=$(selector);if(el)el.content=value;}

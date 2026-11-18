@@ -37,5 +37,5 @@ export function validateProductPolicy(recommender,categories,invalid){
  const checks=[...p.common];
  for(const [category,rows] of Object.entries(p.categories)){if(!categories[category]||!Array.isArray(rows)||!rows.length){invalid('Product checks need a valid category and at least one criterion.');continue;}checks.push(...rows);}
  if(checks.some(c=>!valid(c))||new Set(checks.map(c=>c?.id)).size!==checks.length)invalid('Product selection checks need unique IDs, safe fields, supported operators and clear public explanations.');
- for(const rule of Array.isArray(recommender.rules)?recommender.rules:[])if(!rule.review&&!p.categories[rule.category]?.length)invalid('An automatic shortlist category needs explicit shared selection checks.');
+ for(const rule of Array.isArray(recommender.rules)?recommender.rules:[]){if(categories[rule.category]?.educationOnly&&!rule.review)invalid('An education-only category must remain in educational review.');if(!rule.review&&!p.categories[rule.category]?.length)invalid('An automatic shortlist category needs explicit shared selection checks.');}
 }

@@ -2,6 +2,7 @@ import {clinicalSearchText} from './intake.js';
 import {escapeHtml as esc,formatDate} from './model.js';
 import {buyingGuideSearchText} from './guidance.js';
 import {pathwaySearchText} from './pathways.js';
+import {editorialCategories} from './articles.js';
 
 const positive=value=>typeof value==='number'&&Number.isFinite(value)&&value>0;
 const unique=values=>[...new Set(values.filter(value=>value!=null&&value!==''))];
@@ -26,11 +27,11 @@ export function searchCatalog(snapshot,{q='',category='',kind='all'}={}){
   const sourced=family.variants.filter(sourcePrice).sort(pricedFirst),available=sourced.filter(offer=>offer.stock==='In stock'),representative=available[0]||sourced[0]||null;
   return {...family,matchingCount:family.variants.length,totalCount:family.allVariants.length,verifiedCount:sourced.length,availableCount:available.length,minPrice:available[0]?.price??null,lowestSourcedPrice:sourced[0]?.price??null,priceStatus:available.length?'available':sourced.length?'sourced-unavailable':'unverified',representative,types:unique(family.variants.map(offer=>offer.type)),subclasses:unique(family.variants.map(offer=>offer.subclass)),flavours:unique(family.variants.map(offer=>offer.flavour)),packLabels:unique(family.variants.map(packLabel))};
  }).sort((a,b)=>a.categoryLabel.localeCompare(b.categoryLabel)||a.brand.localeCompare(b.brand)||a.product.localeCompare(b.product));
- const editorial=(snapshot.research?.editorial?.articles||[]).map(a=>({...a,editorial:true,href:'articles.html?article='+encodeURIComponent(a.id),evidence:[a.intro,...a.sections.flatMap(s=>[s.title,s.body]),...(a.myths||[]).flatMap(m=>[m.claim,m.verdict,m.explanation]),...(a.forms||[]).flatMap(f=>[f.name,f.description,f.metabolism,f.evidence,f.value])].join(' ')}));
- const allGuides=[...(snapshot.research?.articles||[]),...editorial].filter(guide=>snapshot.categories[guide.category]&&matches(guideText(guide,snapshot.categories[guide.category])+' '+normalizeSearch(pathwaySearchText(guide.pathway)),terms)).map(guide=>({...guide,href:guide.href||'research.html?category='+encodeURIComponent(guide.category),categoryLabel:snapshot.categories[guide.category].label,sourceRefs:(guide.sourceIds||[]).map(id=>sourceMap.get(id)).filter(Boolean)}));
- const facets=categories.map(c=>{const products=mode==='guides'?0:allProducts.filter(p=>p.category===c.id).length,guides=mode==='products'?0:allGuides.filter(g=>g.category===c.id).length;return {id:c.id,label:c.label,products,guides,total:products+guides};});
- const products=mode==='guides'?[]:allProducts.filter(p=>!category||p.category===category),guides=mode==='products'?[]:allGuides.filter(g=>!category||g.category===category);
- return {query,terms,category,kind:mode,products,guides,facets,totals:{products:products.length,guides:guides.length,variants:products.reduce((sum,p)=>sum+p.matchingCount,0),all:products.length+guides.length}};
+ const editorial=(snapshot.research?.editorial?.articles||[]).map(a=>({...a,editorial:true,href:'articles.html?article='+encodeURIComponent(a.id),evidence:[...editorialCategories(a).flatMap(id=>[snapshot.categories[id]?.label,...(snapshot.categories[id]?.searchAliases||[])]),a.intro,...a.sections.flatMap(s=>[s.title,s.body]),...(a.myths||[]).flatMap(m=>[m.claim,m.verdict,m.explanation]),...(a.forms||[]).flatMap(f=>[f.name,f.description,f.metabolism,f.evidence,f.value]),...(a.comparison?.rows||[]).flatMap(row=>[row.label,...Object.values(row.values)])].join(' ')}));
+ const allGuides=[...(snapshot.research?.articles||[]),...editorial].filter(guide=>snapshot.categories[guide.category]&&matches(guideText(guide,snapshot.categories[guide.category])+' '+normalizeSearch(pathwaySearchText(guide.pathway)),terms)).map(guide=>({...guide,href:guide.href||'research.html?category='+encodeURIComponent(guide.category),categoryLabel:editorialCategories(guide).map(id=>snapshot.categories[id]?.label||id).join(' · '),sourceRefs:(guide.sourceIds||[]).map(id=>sourceMap.get(id)).filter(Boolean)}));
+ const facets=categories.map(c=>{const products=mode==='guides'?0:allProducts.filter(p=>p.category===c.id).length,guides=mode==='products'?0:allGuides.filter(g=>editorialCategories(g).includes(c.id)).length;return {id:c.id,label:c.label,products,guides,total:products+guides};});
+ const products=mode==='guides'?[]:allProducts.filter(p=>!category||p.category===category),guides=mode==='products'?[]:allGuides.filter(g=>!category||editorialCategories(g).includes(category));
+ return {query,terms,category,kind:mode,products,guides,facets,allCategoryTotal:(mode==='guides'?0:allProducts.length)+(mode==='products'?0:allGuides.length),totals:{products:products.length,guides:guides.length,variants:products.reduce((sum,p)=>sum+p.matchingCount,0),all:products.length+guides.length}};
 }
 function packLabel(offer){
  if(offer.form==='Powder')return offer.grams==null?'Pack size unverified':`${offer.grams} g powder`;
@@ -57,7 +58,7 @@ export function renderSearch(snapshot){
  select.innerHTML=`<option value="">All supplements</option>${Object.values(snapshot.categories).map(c=>`<option value="${esc(c.id)}">${esc(c.label)}</option>`).join('')}`;select.value=snapshot.categories[selected]?selected:'';
  const update=()=>{
   const state={q:document.querySelector('#discover-query').value,category:select.value,kind:document.querySelector('#discover-kind').value},result=searchCatalog(snapshot,state),selectedCategory=select.value;
-  select.innerHTML=`<option value="">All supplements (${result.facets.reduce((sum,f)=>sum+f.total,0)})</option>${result.facets.map(f=>`<option value="${esc(f.id)}">${esc(f.label)} (${f.total})</option>`).join('')}`;select.value=selectedCategory;
+  select.innerHTML=`<option value="">All supplements (${result.allCategoryTotal})</option>${result.facets.map(f=>`<option value="${esc(f.id)}">${esc(f.label)} (${f.total})</option>`).join('')}`;select.value=selectedCategory;
   const globalQuery=document.querySelector('#global-search-input'),globalCategory=document.querySelector('#global-search-category');if(globalQuery)globalQuery.value=state.q;if(globalCategory)globalCategory.value=state.category;
   const params=new URLSearchParams();if(state.q.trim())params.set('q',state.q.trim());if(state.category)params.set('category',state.category);if(state.kind!=='all')params.set('kind',state.kind);history.replaceState(null,'',location.pathname+(params.size?'?'+params:''));
   document.querySelector('#discover-status').textContent=`${result.totals.products} product ${result.totals.products===1?'family':'families'} · ${result.totals.variants} matching packs · ${result.totals.guides} ${result.totals.guides===1?'guide':'guides'}${result.query?' for “'+result.query+'”':''}`;

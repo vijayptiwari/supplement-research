@@ -4632,3 +4632,19 @@ body.has-comparison {
  .editorial-sidebar{position:sticky;top:var(--editorial-sticky-top,122px);z-index:25;max-height:calc(100dvh - var(--editorial-sticky-top,122px) - 14px);overflow:auto;box-shadow:var(--shadow)}
  .editorial-section,.editorial-myth,.editorial-references>li,.editorial-next{scroll-margin-top:calc(var(--editorial-sticky-top,122px) + var(--editorial-navigation-height,50px) + 12px)}
 }
+/* Cited comparison overviews switch from a matrix to readable cards on phones. */
+.editorial-series{grid-template-columns:repeat(auto-fit,minmax(min(280px,100%),1fr))}
+.editorial-comparison-table{overflow-x:auto;border:1px solid var(--line);border-radius:9px;margin-top:24px}
+.editorial-comparison-table table{width:100%;min-width:690px;border-collapse:collapse;font-size:12px;line-height:1.75}
+.editorial-comparison-table th,.editorial-comparison-table td{padding:17px 15px;text-align:left;vertical-align:top;border-bottom:1px solid var(--line)}
+.editorial-comparison-table thead th{background:var(--accent-soft);color:var(--ink);font-size:11px}
+.editorial-comparison-table tbody th{min-width:100px;color:var(--ink);background:var(--surface)}
+.editorial-comparison-table tr:last-child>*{border-bottom:0}
+.editorial-comparison-table td:last-child{white-space:nowrap}
+.editorial-comparison-cards{display:none}
+.editorial-comparison-cards>article{padding:20px;border:1px solid var(--line);border-radius:9px;background:var(--surface)}
+.editorial-comparison-cards h3{font-size:19px;margin:0 0 18px}
+.editorial-comparison-cards dl{margin:0}.editorial-comparison-cards dl>div{padding:12px 0;border-top:1px solid var(--line)}
+.editorial-comparison-cards dt{font-size:11px;font-weight:650;color:var(--muted)}
+.editorial-comparison-cards dd{font-size:14px;line-height:1.75;margin:5px 0 0}
+@media(max-width:700px){.editorial-comparison-table{display:none}.editorial-comparison-cards{display:grid;gap:14px;margin-top:22px}}

@@ -113,6 +113,12 @@ export function createSnapshot(bundle){
   }
  }
  for(const definition of config.categories){
+  if(definition.measurement==='education'){
+   const input=categories[definition.id];
+   if(definition.educationOnly!==true||!definition.id?.match(/^[a-z][a-z0-9-]*$/)||!definition.label?.trim()||!definition.compoundLabel?.trim()||!input||!Array.isArray(input.offers)||input.offers.length||!isoDate(input.checked)||!input.scope?.trim()||observations.some(o=>o.category===definition.id))throw Error('Education-only categories need a dated scope and cannot contain product offers or price observations.');
+   result[definition.id]={...definition,asOf:input.checked,previousQuarter:previousQuarter(input.checked),historyWindow:completedQuarters(input.checked,historyQuarters),offers:[],stats:stats([]),scope:input.scope};continue;
+  }
+  if(definition.educationOnly)throw Error('Education-only categories must use education measurement.');
   if(!(definition.measurement==='units'||['protein','creatine'].includes(definition.concentrationField))||!definition.id?.match(/^[a-z][a-z0-9-]*$/)||!definition.label?.trim()||!definition.compoundLabel?.trim())throw Error('Category needs valid labels, ID and a measurement definition.');
   const input=categories[definition.id];if(!input||!Array.isArray(input.offers)||!isoDate(input.checked))throw Error(`Category ${definition.id} needs offers and an ISO checked date.`);
   if(definition.measurement==='units'?!positive(definition.referenceQuantity)||!definition.referenceUnit||!Array.isArray(definition.nutrientFields):!positive(definition.referenceGrams))throw Error(`Invalid reference quantity for ${definition.id}.`);
@@ -171,6 +177,8 @@ export function historyRows(snapshot){
  return Object.values(snapshot.categories).flatMap(c=>c.offers.flatMap(r=>r.trend.history.map(h=>({category:c.id,offerId:r.id,brand:r.brand,product:r.product,flavour:r.flavour,packGrams:r.grams,packCount:r.packCount??null,dosageForm:r.form??null,currency:snapshot.config.currency,quarter:h.quarter,quarterStart:h.start,quarterEnd:h.end,isCurrent:h.isCurrent,observationDate:h.date,price:h.price,verified:h.verified,changeVsPreviousQuarterPct:h.qoqPct,direction:h.qoqDirection??'unknown',source:h.source,status:h.status,auditNote:h.auditNote}))));
 }
 export function pageMetadata(snapshot,categoryId){
+ const educational=snapshot.categories[categoryId];
+ if(educational?.educationOnly)return {title:educational.label+' evidence guide · '+snapshot.config.name,description:snapshot.research?.articles.find(a=>a.category===categoryId)?.summary||educational.scope,structured:{'@context':'https://schema.org','@type':'Article',headline:educational.label+' evidence guide',url:snapshot.config.baseUrl+educational.page,dateModified:snapshot.research?.articles.find(a=>a.category===categoryId)?.reviewed}};
  if(categoryId==='articles')return {title:'Supplement myths & forms explained · '+snapshot.config.name,description:snapshot.research?.editorial?.description||'Cited articles examining supplement claims, ingredient forms, delivery formats and metabolism.',structured:{'@context':'https://schema.org','@type':'CollectionPage',name:'Supplement articles',url:snapshot.config.baseUrl+'articles.html',dateModified:snapshot.research?.editorial?.reviewed}};
  if(categoryId==='search')return {title:'Search supplements, products & research · '+snapshot.config.name,description:'Search education guides, product labels, variants and sourced prices across supplement categories.',structured:{'@context':'https://schema.org','@type':'SearchResultsPage',name:'Supplement search',url:snapshot.config.baseUrl+'search.html'}};
  if(categoryId==='recommender')return {title:'Supplement Stack Recommender · '+snapshot.config.name,description:'Build an evidence-informed supplement stack around goals, diet, existing supplements and pack budget.',structured:{'@context':'https://schema.org','@type':'WebApplication',name:'Supplement Stack Recommender',url:snapshot.config.baseUrl+'recommender.html',applicationCategory:'HealthApplication'}};

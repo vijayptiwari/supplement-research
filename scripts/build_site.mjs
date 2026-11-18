@@ -25,7 +25,7 @@ export async function buildSite(destination=path.join(root,'dist')){
  // Only the build owns dist. Remove obsolete content-addressed bundles from previous builds.
  for(const name of await fs.readdir(path.join(destination,'data')))if(/^snapshot\.[a-f0-9]+\.json$/.test(name))await fs.unlink(path.join(destination,'data',name));
  const write=async(file,value)=>fs.writeFile(path.join(destination,file),typeof value==='string'?value:JSON.stringify(value));
- for(const c of Object.values(snapshot.categories))await write('data/'+c.file,{checked:c.asOf,category:c.id,offers:c.offers});
+ for(const c of Object.values(snapshot.categories))await write('data/'+c.file,{checked:c.asOf,category:c.id,...(c.educationOnly?{scope:c.scope}:{}),offers:c.offers});
  const rows=auditRows(snapshot),summary={offers:rows.length,current_verified:snapshot.stats.verifiedPrices,quarter_comparable:snapshot.stats.verifiedTrends,up:rows.filter(r=>r.direction==='up').length,down:rows.filter(r=>r.direction==='down').length,stable:rows.filter(r=>r.direction==='stable').length,historical_quotes_excluded:bundle.observations.filter(o=>o.qualityStatus==='excluded').length};
  await write('data/price-audit.json',{checked:snapshot.asOf,historyWindowQuarters:snapshot.config.historyQuarters,summary:{...summary,historicalSlots:snapshot.stats.historicalSlots,verifiedHistoricalSlots:snapshot.stats.historicalVerified,completeHistoryOffers:snapshot.stats.fullHistoryOffers},comparisonScope:'Change counts describe current versus the latest completed quarter. All requested quarters are in price-history.json and price-history.csv.',rows});
  const columns=Object.keys(rows[0]||{}),cell=x=>'"'+(typeof x==='string'?x.replace(/^[=+@-]/,"'$&"):String(x??'')).replaceAll('"','""')+'"';

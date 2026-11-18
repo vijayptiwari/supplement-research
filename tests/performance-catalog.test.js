@@ -60,7 +60,7 @@ test('five performance categories connect sourced packs, guides, filters and pow
  const s=createSnapshot(await loadBundle());assert.deepEqual(s.quality.errors,[]);
  for(const id of ['l-arginine','l-carnitine','bcaa','eaa','pre-workout']){
   const c=s.categories[id];assert.ok(c.offers.length);assert.ok(c.supportsPowder);assert.equal(s.research.articles.filter(a=>a.category===id).length,1);
-  const found=searchCatalog(s,{q:id.replaceAll('-',' '),category:id});assert.ok(found.products.length);assert.equal(found.guides.length,1);
+  const found=searchCatalog(s,{q:id.replaceAll('-',' '),category:id});assert.ok(found.products.length);assert.equal(found.guides.filter(g=>!g.editorial&&g.category===id).length,1);
   for(const r of c.offers){assert.equal(r.priceAudit.status,'verified');assert.equal(r.trend.history.length,13);assert.ok(r.trend.history.filter(h=>!h.isCurrent).every(h=>!h.verified&&h.price==null));if(r.packServings==null)assert.equal(r.servingCost,null);else assert.equal(r.servingCost,r.price/r.packServings);}
   const powder=c.offers.find(r=>r.form==='Powder');if(powder){const rows=buildComparison(s,[{category:id,id:powder.id}]).rows;assert.match(rows.find(r=>r.id==='pack').values[0],/g powder/);assert.ok(rows.some(r=>r.id==='powder-cost'));}
  }
