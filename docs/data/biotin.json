@@ -1,5 +1,5 @@
 {
-  "checked": "2026-10-31",
+  "checked": "2026-11-19",
   "category": "biotin",
   "offers": [
     {
@@ -16,13 +16,19 @@
       "biotinMcg": null,
       "id": "biotin-43793181606073",
       "packCount": 60,
-      "price": 1317.0,
+      "price": 1363,
       "currency": "INR",
       "stock": "In stock",
       "url": "https://swisse.co.in/products/swisse-biotin-tablets?variant=43793181606073",
       "nutritionUrl": "https://swisse.co.in/products/swisse-biotin-tablets",
       "flavour": "Unflavoured",
-      "packaging": "Single retail pack"
+      "packaging": "Single retail pack",
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://swisse.co.in/products/swisse-biotin-tablets?variant=43793181606073",
+        "evidenceUrl": "https://swisse.co.in/products/swisse-biotin-tablets.json",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
     },
     {
       "brand": "Swisse",
@@ -38,13 +44,19 @@
       "biotinMcg": null,
       "id": "biotin-43793181638841",
       "packCount": 30,
-      "price": 849.0,
+      "price": 879,
       "currency": "INR",
       "stock": "In stock",
       "url": "https://swisse.co.in/products/swisse-biotin-tablets?variant=43793181638841",
       "nutritionUrl": "https://swisse.co.in/products/swisse-biotin-tablets",
       "flavour": "Unflavoured",
-      "packaging": "Single retail pack"
+      "packaging": "Single retail pack",
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://swisse.co.in/products/swisse-biotin-tablets?variant=43793181638841",
+        "evidenceUrl": "https://swisse.co.in/products/swisse-biotin-tablets.json",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
     },
     {
       "brand": "Naturaltein",
@@ -60,13 +72,19 @@
       "biotinMcg": 40,
       "id": "biotin-44499512000595",
       "packCount": 30,
-      "price": 699.0,
+      "price": 699,
       "currency": "INR",
       "stock": "In stock",
       "url": "https://naturaltein.in/products/sea-buckthorn-biotin-gummies?variant=44499512000595",
       "nutritionUrl": "https://naturaltein.in/products/sea-buckthorn-biotin-gummies",
       "flavour": "Flavour not verified",
-      "packaging": "Single retail pack"
+      "packaging": "Single retail pack",
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://naturaltein.in/products/sea-buckthorn-biotin-gummies?variant=44499512000595",
+        "evidenceUrl": "https://naturaltein.in/products/sea-buckthorn-biotin-gummies.json",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
     },
     {
       "brand": "Naturaltein",
@@ -82,13 +100,19 @@
       "biotinMcg": 40,
       "id": "biotin-44499512033363",
       "packCount": 60,
-      "price": 1299.0,
+      "price": 1299,
       "currency": "INR",
       "stock": "In stock",
       "url": "https://naturaltein.in/products/sea-buckthorn-biotin-gummies?variant=44499512033363",
       "nutritionUrl": "https://naturaltein.in/products/sea-buckthorn-biotin-gummies",
       "flavour": "Flavour not verified",
-      "packaging": "Single retail pack"
+      "packaging": "Single retail pack",
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://naturaltein.in/products/sea-buckthorn-biotin-gummies?variant=44499512033363",
+        "evidenceUrl": "https://naturaltein.in/products/sea-buckthorn-biotin-gummies.json",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
     },
     {
       "brand": "Pure Nutrition",
@@ -110,7 +134,13 @@
       "url": "https://purenutrition.in/products/pure-nutrition-biotin-10-000-mcg-pharma-grade-copy?variant=47963020755198",
       "nutritionUrl": "https://purenutrition.in/products/pure-nutrition-biotin-10-000-mcg-pharma-grade-copy",
       "flavour": "Unflavoured",
-      "packaging": "Single retail pack"
+      "packaging": "Single retail pack",
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://purenutrition.in/products/pure-nutrition-biotin-10-000-mcg-pharma-grade-copy?variant=47963020755198",
+        "evidenceUrl": "https://purenutrition.in/products/pure-nutrition-biotin-10-000-mcg-pharma-grade-copy.json",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
     },
     {
       "brand": "Health Veda Organics",
@@ -126,13 +156,101 @@
       "packCount": 60,
       "biotinMcg": null,
       "id": "biotin-42526144135390",
-      "price": 297.0,
+      "price": 297,
       "currency": "INR",
       "stock": "In stock",
       "url": "https://healthvedaorganics.com/products/biotin-tablets-for-healthy-hair-skin-nails-growth?variant=42526144135390",
       "nutritionUrl": "https://healthvedaorganics.com/products/biotin-tablets-for-healthy-hair-skin-nails-growth",
       "flavour": "Unflavoured",
-      "packaging": "Single retail pack"
+      "packaging": "Single retail pack",
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://healthvedaorganics.com/products/biotin-tablets-for-healthy-hair-skin-nails-growth?variant=42526144135390",
+        "evidenceUrl": "https://healthvedaorganics.com/products/biotin-tablets-for-healthy-hair-skin-nails-growth.json",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
+    },
+    {
+      "id": "biotin-47642100367530",
+      "brand": "Neuherbs",
+      "product": "Hair Biotin with Botanical Blend and Probiotic",
+      "form": "Capsule",
+      "type": "Sesbania-derived biotin",
+      "subclass": "Biotin + botanical/probiotic combination",
+      "flavour": "Unflavoured",
+      "source": "Sesbania grandiflora (brand declaration)",
+      "packCount": 60,
+      "servingUnits": 2,
+      "price": 549,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://neuherbs.com/products/hair-biotin-capsules?variant=47642100367530",
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/biotin_for_hair_growth_8.webp?v=1773739545",
+      "labelSources": [
+        "https://neuherbs.com/products/hair-biotin-capsules",
+        "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/biotin_for_hair_growth_8.webp?v=1773739545"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official bottle panel per two capsules: biotin40 micrograms from Sesbania extract, with lycopene, botanical extracts and Lactiplantibacillus plantarum.",
+      "notes": "Sesbania and botanical weights are not pure biotin. Additional ingredients mean this is not a single-ingredient biotin product. Hair-growth and DHT claims are not independently validated by catalog inclusion.",
+      "packaging": "Brand-listed retail pack (60 capsules)",
+      "biotinMcg": 40,
+      "energyPerServing": 4.72
+    },
+    {
+      "id": "biotin-47777629700266",
+      "brand": "Neuherbs",
+      "product": "Hair Biotin with Botanical Blend and Probiotic",
+      "form": "Capsule",
+      "type": "Sesbania-derived biotin",
+      "subclass": "Biotin + botanical/probiotic combination",
+      "flavour": "Unflavoured",
+      "source": "Sesbania grandiflora (brand declaration)",
+      "packCount": 120,
+      "servingUnits": 2,
+      "price": 1049,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://neuherbs.com/products/hair-biotin-capsules?variant=47777629700266",
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/biotin_for_hair_growth_8.webp?v=1773739545",
+      "labelSources": [
+        "https://neuherbs.com/products/hair-biotin-capsules",
+        "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/biotin_for_hair_growth_8.webp?v=1773739545"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official bottle panel per two capsules: biotin40 micrograms from Sesbania extract, with lycopene, botanical extracts and Lactiplantibacillus plantarum.",
+      "notes": "Sesbania and botanical weights are not pure biotin. Additional ingredients mean this is not a single-ingredient biotin product. Hair-growth and DHT claims are not independently validated by catalog inclusion.",
+      "packaging": "Brand-listed retail pack (120 capsules)",
+      "biotinMcg": 40,
+      "energyPerServing": 4.72
+    },
+    {
+      "id": "biotin-42588982607985",
+      "brand": "Carbamide Forte",
+      "product": "Biotin Tablets with Amla, Brahmi and Bamboo",
+      "form": "Tablet",
+      "type": "Sesbania-derived biotin",
+      "subclass": "Biotin + botanical combination",
+      "flavour": "Unflavoured",
+      "source": "Sesbania grandiflora (brand declaration)",
+      "packCount": 90,
+      "servingUnits": 1,
+      "price": 449,
+      "currency": "INR",
+      "stock": "Sold out",
+      "url": "https://carbamideforte.com/products/carbamide-forte-biotin-10-000mcg-with-keratin-bamboo-extract-piperine-for-enhanced-absorption-supplement-for-fast-hair-growth-treatment-90-veg-tablets?variant=42588982607985",
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B07RX6RF3N.PT01.jpg?v=1752571884",
+      "labelSources": [
+        "https://carbamideforte.com/products/carbamide-forte-biotin-10-000mcg-with-keratin-bamboo-extract-piperine-for-enhanced-absorption-supplement-for-fast-hair-growth-treatment-90-veg-tablets",
+        "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B07RX6RF3N.PT01.jpg?v=1752571884",
+        "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B07RX6RF3N.PT08.jpg?v=1752571884"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official facts and bottle label agree: one tablet provides40 micrograms natural biotin from10,000micrograms Sesbania grandiflora extract, not10,000micrograms pure biotin.",
+      "notes": "The product URL retains a10,000mcg headline referring to extract mass; actual biotin is40mcg. Amla50mg, Brahmi50mg, bamboo25mg and lycopene are separate ingredients.",
+      "packaging": "Brand-listed retail pack (90 tablets)",
+      "biotinMcg": 40,
+      "energyPerServing": 0.08
     }
   ]
 }

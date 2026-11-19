@@ -787,17 +787,42 @@
       "handle": "carbamide-forte-melatonin-3mg-with-tagara-75mg-sleeping-aid-pills-for-deep-sleep-non-habit-forming-sleep-supplement-90-veg-tablets-1",
       "product": "Melatonin 3 mg with Tagara",
       "form": "Tablet",
-      "type": "Melatonin + Tagara",
-      "subclass": "Multi-ingredient blend",
+      "type": "Melatonin",
+      "subclass": "Combination tablet; release profile not stated",
       "packCount": 90,
-      "servingUnits": null,
+      "servingUnits": 1,
       "source": "Not specified",
-      "basis": "Official exact product listing and declared count. Only explicitly verified serving quantities are used.",
-      "notes": "The headline strength is 3 mg with Tagara. Per-tablet composition and label serving basis are unverified; active-content cost is withheld.",
-      "labelChecked": "2026-10-31",
-      "melatoninMg": null,
+      "basis": "Official bottle facts per one tablet: melatonin 3 mg, Tagar 75 mg, vitamin B6 1.9 mg and energy 0.4 kcal. Exact single-bottle pack count is 90.",
+      "notes": "The current bottle facts are used for quantities; one promotional image for the 3 mg product incorrectly says 30 mg melatonin and 2.4 mg B6. No release or regimen claim is inferred.",
+      "labelChecked": "2026-11-19",
+      "melatoninMg": 3,
       "variantTitles": [
         "Pack of 1"
+      ],
+      "flavour": "Unflavoured",
+      "packaging": "Single retail pack",
+      "vitaminB6Mg": 1.9,
+      "energyPerServing": 0.4,
+      "declaredNutrients": [
+        "melatoninMg",
+        "vitaminB6Mg"
+      ],
+      "nutritionUrl": "https://www.carbamideforte.com/products/carbamide-forte-melatonin-3mg-with-tagara-75mg-sleeping-aid-pills-for-deep-sleep-non-habit-forming-sleep-supplement-90-veg-tablets-1",
+      "labelSources": [
+        "https://www.carbamideforte.com/products/carbamide-forte-melatonin-3mg-with-tagara-75mg-sleeping-aid-pills-for-deep-sleep-non-habit-forming-sleep-supplement-90-veg-tablets-1",
+        "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B07ZXW26WD.PT08.jpg?v=1752313771"
+      ],
+      "variantIds": [
+        "42691052011633"
+      ],
+      "numericVariantIsCount": false,
+      "additionalIngredients": [
+        {
+          "name": "Tagar rhizome extract",
+          "amount": 75,
+          "unit": "mg",
+          "basis": "per one-tablet label serving"
+        }
       ]
     },
     {
@@ -807,17 +832,42 @@
       "handle": "carbamide-forte-melatonin-5mg-with-tagara-125mg-sleeping-aid-pills-for-deep-sleep-non-habit-forming-sleep-supplement-60-veg-tablets",
       "product": "Melatonin 5 mg with Tagara",
       "form": "Tablet",
-      "type": "Melatonin + Tagara",
-      "subclass": "Multi-ingredient blend",
+      "type": "Melatonin",
+      "subclass": "Combination tablet; release profile not stated",
       "packCount": 60,
-      "servingUnits": null,
+      "servingUnits": 1,
       "source": "Not specified",
-      "basis": "Official exact product listing and declared count. Only explicitly verified serving quantities are used.",
-      "notes": "The headline strength is 5 mg with Tagara. Per-tablet composition and label serving basis are unverified; active-content cost is withheld.",
-      "labelChecked": "2026-10-31",
-      "melatoninMg": null,
+      "basis": "Official bottle facts per one tablet: melatonin 5 mg, Tagar 125 mg, vitamin B6 1.9 mg and energy 0.4 kcal. Exact single-bottle pack count is 60.",
+      "notes": "Tagar is a co-ingredient outside modeled nutrient arithmetic. Unit price does not establish dose or release suitability.",
+      "labelChecked": "2026-11-19",
+      "melatoninMg": 5,
       "variantTitles": [
         "Pack of 1"
+      ],
+      "flavour": "Unflavoured",
+      "packaging": "Single retail pack",
+      "vitaminB6Mg": 1.9,
+      "energyPerServing": 0.4,
+      "declaredNutrients": [
+        "melatoninMg",
+        "vitaminB6Mg"
+      ],
+      "nutritionUrl": "https://www.carbamideforte.com/products/carbamide-forte-melatonin-5mg-with-tagara-125mg-sleeping-aid-pills-for-deep-sleep-non-habit-forming-sleep-supplement-60-veg-tablets",
+      "labelSources": [
+        "https://www.carbamideforte.com/products/carbamide-forte-melatonin-5mg-with-tagara-125mg-sleeping-aid-pills-for-deep-sleep-non-habit-forming-sleep-supplement-60-veg-tablets",
+        "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B07ZVY28NV.PT08.jpg?v=1763465853"
+      ],
+      "variantIds": [
+        "42691038773361"
+      ],
+      "numericVariantIsCount": false,
+      "additionalIngredients": [
+        {
+          "name": "Tagar rhizome extract",
+          "amount": 125,
+          "unit": "mg",
+          "basis": "per one-tablet label serving"
+        }
       ]
     },
     {
@@ -827,19 +877,34 @@
       "handle": "carbamide-forte-sleeping-pills-melatonin-10mg-gummies-for-better-sleep-60-veg-gummies",
       "product": "Melatonin 10 mg Sleep Gummies",
       "form": "Gummy",
-      "type": "Melatonin + Tagara",
-      "subclass": "Gummy blend",
+      "type": "Melatonin",
+      "subclass": "Gummy; release profile not stated",
       "packCount": 60,
-      "servingUnits": null,
+      "servingUnits": 1,
       "source": "Not specified",
-      "basis": "Official exact product listing and declared count. Only explicitly verified serving quantities are used.",
-      "notes": "The product headline says 10 mg; the number of gummies per label serving is unverified. Do not assume 10 mg per gummy.",
-      "labelChecked": "2026-10-31",
-      "melatoninMg": null,
+      "basis": "Official bottle facts: one gummy (3 g) supplies 10 mg melatonin and 9.28 kcal. The bottle contains 60 raspberry-flavoured gummies.",
+      "notes": "Contains 1.65 g added sugar per gummy. The label warns about possible milk, wheat, soy and nut cross-contact. Strength and price are accounting inputs, not a recommended regimen.",
+      "labelChecked": "2026-11-19",
+      "melatoninMg": 10,
       "variantTitles": [
         "Pack of 1"
       ],
-      "flavour": "Orange"
+      "flavour": "Raspberry",
+      "packaging": "Single retail pack",
+      "nutritionUrl": "https://www.carbamideforte.com/products/carbamide-forte-sleeping-pills-melatonin-10mg-gummies-for-better-sleep-60-veg-gummies",
+      "labelSources": [
+        "https://www.carbamideforte.com/products/carbamide-forte-sleeping-pills-melatonin-10mg-gummies-for-better-sleep-60-veg-gummies",
+        "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B08LH8HV1V.PT08.jpg?v=1752321539"
+      ],
+      "declaredNutrients": [
+        "melatoninMg"
+      ],
+      "energyPerServing": 9.28,
+      "unitMassGrams": 3,
+      "variantIds": [
+        "42691055878257"
+      ],
+      "numericVariantIsCount": false
     },
     {
       "category": "melatonin",
@@ -2873,7 +2938,7 @@
       "source": "Not specified",
       "flavour": "Unflavoured",
       "packaging": "Single retail pouch",
-      "grams": 100.0,
+      "grams": 100,
       "servingGrams": 2.5,
       "betaAlanineMg": 2500,
       "energyPerServing": null,
@@ -2902,7 +2967,7 @@
       "source": "Not specified",
       "flavour": "Unflavoured",
       "packaging": "Single retail pack",
-      "grams": 250.0,
+      "grams": 250,
       "servingGrams": 2.5,
       "betaAlanineMg": 2500,
       "energyPerServing": null,
@@ -3179,6 +3244,2578 @@
         "https://healthyhey.com/products/hmb-calcium-hydroxyl-methyl-butyrate-120-capsules"
       ],
       "nutritionUrl": "https://healthyhey.com/products/hmb-calcium-hydroxyl-methyl-butyrate-120-capsules"
+    },
+    {
+      "brand": "Upakarma",
+      "product": "Ashwagandha root extract + root powder",
+      "form": "Capsule",
+      "flavour": "Unflavoured",
+      "packaging": "Single retail pack",
+      "source": "Not specified",
+      "labelChecked": "2026-11-19",
+      "notes": "Withanolide standardization is not verified. Manufacturer directions describe one capsule twice daily; the catalog records one capsule for label arithmetic, not a daily recommendation.",
+      "packCount": 90,
+      "servingUnits": 1,
+      "type": "Root extract + root powder",
+      "subclass": "Mixed root materials",
+      "ashwagandhaMg": 499,
+      "standardizedExtractMg": null,
+      "withanolidesPct": null,
+      "basis": "The current official description lists 450 mg root extract plus 49 mg root powder per capsule. One capsule is the accounting serving. The 500 mg headline is rounded and does not describe 500 mg of standardized extract.",
+      "nutritionUrl": "https://upakarma.com/products/ashwagandha-capsules",
+      "labelSources": [
+        "https://upakarma.com/products/ashwagandha-capsules",
+        "https://cdn.shopify.com/s/files/1/0722/1362/7066/files/ashwagandha_capsules_84b0e8c0-30bf-4ac6-9663-9d29bbc27a99.webp?v=1770109598",
+        "https://cdn.shopify.com/s/files/1/0722/1362/7066/files/04_23f549d5-8ab0-4729-bb2d-5bc8ba03a425.webp?v=1770103244"
+      ],
+      "category": "ashwagandha",
+      "base": "https://upakarma.com",
+      "handle": "ashwagandha-capsules",
+      "variantIds": [
+        "45186433810618"
+      ],
+      "numericVariantIsCount": false,
+      "id": "ashwagandha-45186433810618"
+    },
+    {
+      "brand": "Rasayanam",
+      "product": "Ashwagandha KSM-66 600 mg",
+      "form": "Capsule",
+      "flavour": "Unflavoured",
+      "packaging": "Single retail pack",
+      "source": "Not specified",
+      "labelChecked": "2026-11-19",
+      "notes": "Amounts and extract identity are manufacturer declarations. Price excludes conditional prepaid and coupon reductions.",
+      "packCount": 60,
+      "servingUnits": 1,
+      "type": "Root extract",
+      "subclass": "KSM-66",
+      "ashwagandhaMg": 600,
+      "standardizedExtractMg": 600,
+      "withanolidesPct": null,
+      "basis": "The current official listing identifies 60 capsules in Pack of 1 and 600 mg KSM-66 root extract in one capsule. A standardization percentage is not copied from another product or gallery.",
+      "nutritionUrl": "https://rasayanam.in/products/ashwagandha-ksm66",
+      "labelSources": [
+        "https://rasayanam.in/products/ashwagandha-ksm66",
+        "https://cdn.shopify.com/s/files/1/0669/9093/2145/files/Slide_1_278d23e7-b163-435a-9a49-42edf69fc143.webp?v=1777281881"
+      ],
+      "category": "ashwagandha",
+      "base": "https://rasayanam.in",
+      "handle": "ashwagandha-ksm66",
+      "variantIds": [
+        "44861153018033"
+      ],
+      "numericVariantIsCount": false,
+      "id": "ashwagandha-44861153018033"
+    },
+    {
+      "brand": "Nutrova",
+      "product": "Fish Oil84% EPA+DHA",
+      "form": "Softgel",
+      "flavour": "Unflavoured",
+      "packaging": "Single retail pack",
+      "source": "Wild anchovy; fish/gelatin declared",
+      "labelChecked": "2026-11-19",
+      "notes": "The120-count retail selection is explicitly listed; no invented doubled price. No triglyceride/ethyl-ester claim inferred.",
+      "packCount": 60,
+      "servingUnits": 1,
+      "type": "Fish oil (chemical ester form not stated)",
+      "subclass": "Enteric-coated concentrated fish oil",
+      "fishOilMg": 658,
+      "epaMg": 300,
+      "dhaMg": 250,
+      "epaDhaMg": 550,
+      "energyPerServing": 5.8,
+      "declaredNutrients": [
+        "fishOilMg",
+        "epaMg",
+        "dhaMg",
+        "epaDhaMg"
+      ],
+      "basis": "Official nutrition panel per1softgel:658mg fish oil,300mg EPA and250mg DHA.84% describes oil concentration; capsule shell mass is not used as active oil. Exact60/120capsule variants priced independently.",
+      "nutritionUrl": "https://nutrova.com/products/nutrova-fish-oil-84",
+      "labelSources": [
+        "https://nutrova.com/products/nutrova-fish-oil-84",
+        "https://cdn.shopify.com/s/files/1/0561/9253/2651/files/NFO84_Label_1.jpg?v=1771573437"
+      ],
+      "category": "fish-oil",
+      "base": "https://nutrova.com",
+      "handle": "nutrova-fish-oil-84",
+      "variantIds": [
+        "42633842557099"
+      ],
+      "numericVariantIsCount": false,
+      "id": "fish-oil-42633842557099"
+    },
+    {
+      "brand": "Nutrova",
+      "product": "Fish Oil84% EPA+DHA",
+      "form": "Softgel",
+      "flavour": "Unflavoured",
+      "packaging": "Single retail pack",
+      "source": "Wild anchovy; fish/gelatin declared",
+      "labelChecked": "2026-11-19",
+      "notes": "The120-count retail selection is explicitly listed; no invented doubled price. No triglyceride/ethyl-ester claim inferred.",
+      "packCount": 120,
+      "servingUnits": 1,
+      "type": "Fish oil (chemical ester form not stated)",
+      "subclass": "Enteric-coated concentrated fish oil",
+      "fishOilMg": 658,
+      "epaMg": 300,
+      "dhaMg": 250,
+      "epaDhaMg": 550,
+      "energyPerServing": 5.8,
+      "declaredNutrients": [
+        "fishOilMg",
+        "epaMg",
+        "dhaMg",
+        "epaDhaMg"
+      ],
+      "basis": "Official nutrition panel per1softgel:658mg fish oil,300mg EPA and250mg DHA.84% describes oil concentration; capsule shell mass is not used as active oil. Exact60/120capsule variants priced independently.",
+      "nutritionUrl": "https://nutrova.com/products/nutrova-fish-oil-84",
+      "labelSources": [
+        "https://nutrova.com/products/nutrova-fish-oil-84",
+        "https://cdn.shopify.com/s/files/1/0561/9253/2651/files/NFO84_Label_1.jpg?v=1771573437"
+      ],
+      "category": "fish-oil",
+      "base": "https://nutrova.com",
+      "handle": "nutrova-fish-oil-84",
+      "variantIds": [
+        "42639595045035"
+      ],
+      "numericVariantIsCount": false,
+      "id": "fish-oil-42639595045035"
+    },
+    {
+      "brand": "Swisse",
+      "product": "Glutathione+30 soft capsules",
+      "form": "Softgel",
+      "flavour": "Unflavoured",
+      "packaging": "Single retail pack",
+      "source": "Not specified",
+      "labelChecked": "2026-11-19",
+      "notes": "Contains soy oil and gelatin. Astaxanthin 6 mg is declared separately and is outside modeled nutrient totals. No skin-benefit or safety guarantee is inferred.",
+      "packCount": 30,
+      "servingUnits": 1,
+      "type": "L-glutathione (redox form not stated)",
+      "subclass": "Glutathione + co-antioxidants",
+      "glutathioneMg": 50,
+      "vitaminCMg": 20,
+      "vitaminB3Mg": 5,
+      "vitaminEMg": 5,
+      "energyPerServing": 5.81,
+      "declaredNutrients": [
+        "glutathioneMg",
+        "vitaminCMg",
+        "vitaminB3Mg",
+        "vitaminEMg"
+      ],
+      "basis": "The official bottle panel lists one capsule per serving: L-glutathione 50 mg, vitamin C 20 mg, vitamin E 5 mg and nicotinamide 5 mg. The actual pack has 30 soft capsules; its legacy URL says tablets.",
+      "nutritionUrl": "https://swisse.co.in/products/swisse-glutathione-30-tablets",
+      "labelSources": [
+        "https://swisse.co.in/products/swisse-glutathione-30-tablets",
+        "https://cdn.shopify.com/s/files/1/0556/6264/1337/files/Artboard_6_195cf2fe-22f1-4663-b310-b3592fc96b2d.jpg?v=1765975191",
+        "https://cdn.shopify.com/s/files/1/0556/6264/1337/files/Artboard_2_dac0bc69-c8f3-4350-bdff-de09d27f7e17.jpg?v=1787768498"
+      ],
+      "category": "glutathione",
+      "base": "https://swisse.co.in",
+      "handle": "swisse-glutathione-30-tablets",
+      "variantIds": [
+        "44825223626937"
+      ],
+      "numericVariantIsCount": false,
+      "id": "glutathione-44825223626937",
+      "additionalIngredients": [
+        {
+          "name": "Astaxanthin",
+          "amount": 6,
+          "unit": "mg",
+          "basis": "per one-capsule label serving"
+        }
+      ]
+    },
+    {
+      "brand": "Wellbeing Nutrition",
+      "product": "Skin Fuel Liposomal Glutathione effervescent",
+      "form": "Tablet",
+      "flavour": "Orange",
+      "packaging": "Pack of2tubes,15tablets each",
+      "source": "Not specified",
+      "labelChecked": "2026-11-19",
+      "notes": "Conflict in the active-versus-material basis: actual glutathione payload stays unknown. Neither 540 mg nor 600 mg is assumed for active-cost calculations. Plant ingredient amounts do not establish actual vitamin C content.",
+      "packCount": 30,
+      "servingUnits": 1,
+      "type": "Liposomal glutathione material",
+      "subclass": "Multi-ingredient effervescent",
+      "glutathioneMg": null,
+      "declaredNutrients": [
+        "glutathioneMg",
+        "vitaminCMg"
+      ],
+      "vitaminCMg": null,
+      "basis": "The official bottle panel lists one 4.3 g tablet per serving and 15 tablets per tube. The exact Pack of 2 contains 30 tablets. It names a 90% liposomal glutathione material at 600 mg, whereas marketing describes 600 mg glutathione.",
+      "nutritionUrl": "https://wellbeingnutrition.com/products/glutathione-skin-fuel-effervescent-tablets",
+      "labelSources": [
+        "https://wellbeingnutrition.com/products/glutathione-skin-fuel-effervescent-tablets",
+        "https://cdn.shopify.com/s/files/1/0240/2942/9840/files/SkinfuelPackof2.png?v=1774604124",
+        "https://cdn.shopify.com/s/files/1/0240/2942/9840/files/12_BOP.png?v=1774604124"
+      ],
+      "category": "glutathione",
+      "base": "https://wellbeingnutrition.com",
+      "handle": "glutathione-skin-fuel-effervescent-tablets",
+      "variantIds": [
+        "39591594164304"
+      ],
+      "numericVariantIsCount": false,
+      "allowRetailMultipack": true,
+      "id": "glutathione-39591594164304"
+    },
+    {
+      "brand": "Nutrova",
+      "product": "Poultry Collagen Peptides + Vitamin C",
+      "form": "Powder",
+      "flavour": "Unflavoured",
+      "packaging": "Single retail pack",
+      "source": "Poultry",
+      "labelChecked": "2026-11-19",
+      "notes": "The panel describes 30 servings while the current retail option says 300 g. The rounded serving claim is not used to infer a different net weight. Label amounts are approximate manufacturer declarations.",
+      "grams": 300,
+      "packCount": null,
+      "servingGrams": 10.2,
+      "type": "Hydrolysed collagen peptides",
+      "subclass": "Poultry peptides + vitamin C",
+      "collagenPeptidesMg": 10120,
+      "vitaminCMg": 80,
+      "energyPerServing": 41.1,
+      "declaredNutrients": [
+        "collagenPeptidesMg",
+        "vitaminCMg"
+      ],
+      "collagenTypes": "Not specified",
+      "basis": "The official panel lists two scoops (10.2 g), collagen peptides 10.12 g, vitamin C 80 mg and energy 41.1 kcal per serving. Calculated pack servings use the explicitly listed 300 g retail pack divided by 10.2 g.",
+      "nutritionUrl": "https://nutrova.com/products/nutrova-collagen-peptides",
+      "labelSources": [
+        "https://nutrova.com/products/nutrova-collagen-peptides",
+        "https://cdn.shopify.com/s/files/1/0561/9253/2651/files/Nutrova_NCP_nutritional-info_09092024.jpg?v=1727866489"
+      ],
+      "category": "collagen",
+      "base": "https://nutrova.com",
+      "handle": "nutrova-collagen-peptides",
+      "variantIds": [
+        "42667417108651"
+      ],
+      "numericVariantIsCount": false,
+      "id": "collagen-42667417108651"
+    },
+    {
+      "brand": "HealthyHey",
+      "product": "Multi Collagen Complex Types I II III V X",
+      "form": "Capsule",
+      "flavour": "Unflavoured",
+      "packaging": "Single retail pack",
+      "source": "Bovine,marine,chicken bone broth,eggshell membrane",
+      "labelChecked": "2026-11-19",
+      "notes": "Contains egg and fish. The 1,800 mg amount is mixed-complex mass, not verified pure peptide mass or native type II content. Individual type/source quantities are not disclosed. Black pepper extract 6 mg is recorded separately.",
+      "packCount": 120,
+      "servingUnits": 4,
+      "type": "Hydrolysed multi-collagen complex",
+      "subclass": "Multi-source complex + black pepper",
+      "collagenComplexMg": 1800,
+      "energyPerServing": 7.147,
+      "declaredNutrients": [
+        "collagenComplexMg"
+      ],
+      "collagenTypes": "I,II,III,V,X (label claims)",
+      "basis": "The official panel lists four capsules per serving, 120 capsules per jar and 1,800 mg hydrolysed multi-collagen complex. The complex includes bovine, marine, chicken bone broth and eggshell membrane materials.",
+      "nutritionUrl": "https://healthyhey.com/products/multi-collagen-complex-type-i-ii-iii-v-x-support-skin-nails-hair-joint-bone-health-120-capsules",
+      "labelSources": [
+        "https://healthyhey.com/products/multi-collagen-complex-type-i-ii-iii-v-x-support-skin-nails-hair-joint-bone-health-120-capsules",
+        "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-nutrition-capsule-multi-collagen-complex-type-i-ii-iii-v-x-support-skin-nails-hair-joint-bone-health-120-capsules-1225700363.png?v=1780890407",
+        "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-nutrition-capsule-multi-collagen-complex-type-i-ii-iii-v-x-support-skin-nails-hair-joint-bone-health-120-capsules-1225700362.png?v=1780890412"
+      ],
+      "category": "collagen",
+      "base": "https://healthyhey.com",
+      "handle": "multi-collagen-complex-type-i-ii-iii-v-x-support-skin-nails-hair-joint-bone-health-120-capsules",
+      "variantIds": [
+        "49980078063901"
+      ],
+      "numericVariantIsCount": false,
+      "id": "collagen-49980078063901",
+      "additionalIngredients": [
+        {
+          "name": "Black pepper extract (BioPerine)",
+          "amount": 6,
+          "unit": "mg",
+          "basis": "per four-capsule label serving"
+        }
+      ]
+    },
+    {
+      "brand": "HealthyHey",
+      "product": "Poultry Collagen + Vitamin C",
+      "form": "Powder",
+      "flavour": "Unflavoured",
+      "packaging": "Single retail pack",
+      "source": "Chicken",
+      "labelChecked": "2026-11-19",
+      "notes": "The label rounds collagen material to the full serving mass while also declaring vitamin C. Retain these as approximate manufacturer declarations rather than a purity assay.",
+      "grams": 200,
+      "packCount": null,
+      "servingGrams": 5,
+      "type": "Hydrolysed collagen peptides",
+      "subclass": "Poultry peptides + vitamin C",
+      "collagenPeptidesMg": 5000,
+      "vitaminCMg": 32.5,
+      "energyPerServing": 19.65,
+      "declaredNutrients": [
+        "collagenPeptidesMg",
+        "vitaminCMg"
+      ],
+      "collagenTypes": "Not specified",
+      "basis": "The official label lists a 200 g pack and one 5 g scoop: hydrolysed chicken collagen 5 g, vitamin C 32.5 mg and energy 19.65 kcal per serving. The separate protein declaration is 4.7 g.",
+      "nutritionUrl": "https://healthyhey.com/products/poultry-collagen-hydrolysed-chicken-collagen-with-vitamin-c-unflavoured-200g",
+      "labelSources": [
+        "https://healthyhey.com/products/poultry-collagen-hydrolysed-chicken-collagen-with-vitamin-c-unflavoured-200g",
+        "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-nutrition-powder-poultry-collagen-hydrolysed-chicken-collagen-with-vitamin-c-unflavoured-200g-1261371027.png?v=1791357576"
+      ],
+      "category": "collagen",
+      "base": "https://healthyhey.com",
+      "handle": "poultry-collagen-hydrolysed-chicken-collagen-with-vitamin-c-unflavoured-200g",
+      "variantIds": [
+        "49976011522333"
+      ],
+      "numericVariantIsCount": false,
+      "id": "collagen-49976011522333"
+    },
+    {
+      "brand": "Carbamide Forte",
+      "product": "Multi Collagen Complex Orange",
+      "form": "Powder",
+      "flavour": "Orange",
+      "packaging": "Single retail pack",
+      "source": "Fish,chicken bone broth,eggshell membrane; another peptide source unspecified",
+      "labelChecked": "2026-11-19",
+      "notes": "Individual source/type amounts are not disclosed and are not treated as native type II or single-source peptide equivalents. The aloe and chromium-picolinate basis is ambiguous on the graphic and excluded from modeled totals. Energy remains unknown.",
+      "grams": 200,
+      "packCount": null,
+      "servingGrams": 10,
+      "type": "Hydrolysed multi-collagen complex",
+      "subclass": "Multi-source complex + co-nutrients",
+      "collagenComplexMg": 8000,
+      "vitaminCMg": 32.5,
+      "vitaminEMg": 10,
+      "biotinMcg": 40,
+      "hyaluronicAcidMg": 5,
+      "declaredNutrients": [
+        "collagenComplexMg",
+        "vitaminCMg",
+        "vitaminEMg",
+        "biotinMcg",
+        "hyaluronicAcidMg"
+      ],
+      "collagenTypes": "I,II,III,V,X (label claims)",
+      "basis": "The official facts graphic lists two scoops (10 g): hydrolysed collagen complex 8 g, vitamin C 32.5 mg, vitamin E 10 mg, biotin 40 mcg and hyaluronic acid 5 mg. The orange single-pack front states 200 g.",
+      "nutritionUrl": "https://www.carbamideforte.com/products/multi-collagen-powder-with-5-types-of-collagen-peptides-type-i-ii-iii-v-x",
+      "labelSources": [
+        "https://www.carbamideforte.com/products/multi-collagen-powder-with-5-types-of-collagen-peptides-type-i-ii-iii-v-x",
+        "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B0DV917YFC.PT01_345cf68d-8d03-4f82-81e4-6e7f81787c66.jpg?v=1772186912",
+        "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B0DV917YFC.PT02_18e86e42-80cf-476f-8f84-187a33cfeae2.jpg?v=1772186912"
+      ],
+      "category": "collagen",
+      "base": "https://www.carbamideforte.com",
+      "handle": "multi-collagen-powder-with-5-types-of-collagen-peptides-type-i-ii-iii-v-x",
+      "variantIds": [
+        "43032045453425"
+      ],
+      "numericVariantIsCount": false,
+      "id": "collagen-43032045453425"
+    },
+    {
+      "brand": "HealthyHey",
+      "labelChecked": "2026-11-19",
+      "packaging": "Single retail pack",
+      "nutritionUrl": "https://healthyhey.com/products/healthyhey-nutrition-1-sleep-supplement-sleep-better-sleep-longer-reduces-anxiety-stress-non-habit-forming-30-vegan-capsules-formula-with-melatonin-lactium-l-theanine-non-gmo",
+      "labelSources": [
+        "https://healthyhey.com/products/healthyhey-nutrition-1-sleep-supplement-sleep-better-sleep-longer-reduces-anxiety-stress-non-habit-forming-30-vegan-capsules-formula-with-melatonin-lactium-l-theanine-non-gmo",
+        "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-nutrition-capsule-puresleep-supplement-for-better-sleep-reduces-anxiety-stress-30-veg-capsules-1177237451.png?v=1780892485"
+      ],
+      "declaredNutrients": [
+        "melatoninMg"
+      ],
+      "product": "PureSleep Melatonin + Lactium + L-Theanine",
+      "form": "Capsule",
+      "flavour": "Unflavoured",
+      "packCount": 30,
+      "servingUnits": 1,
+      "melatoninMg": 3,
+      "energyPerServing": 0,
+      "type": "Melatonin",
+      "subclass": "Melatonin + casein hydrolysate + theanine",
+      "source": "Contains milk-derived Lactium",
+      "basis": "The official panel lists one capsule per serving and 30 capsules: melatonin 3 mg, Lactium casein hydrolysate 100 mg and L-theanine 100 mg.",
+      "notes": "Contains milk despite vegan wording in the legacy URL and a vegetable capsule shell. Co-ingredient material is not assumed to be protein or counted as melatonin. This is a label record, not a regimen recommendation.",
+      "category": "melatonin",
+      "base": "https://healthyhey.com",
+      "handle": "healthyhey-nutrition-1-sleep-supplement-sleep-better-sleep-longer-reduces-anxiety-stress-non-habit-forming-30-vegan-capsules-formula-with-melatonin-lactium-l-theanine-non-gmo",
+      "variantIds": [
+        "44687355478301"
+      ],
+      "numericVariantIsCount": false,
+      "id": "melatonin-44687355478301",
+      "additionalIngredients": [
+        {
+          "name": "Lactium casein hydrolysate (milk-derived)",
+          "amount": 100,
+          "unit": "mg",
+          "basis": "per one-capsule label serving; not verified protein grams"
+        },
+        {
+          "name": "L-theanine",
+          "amount": 100,
+          "unit": "mg",
+          "basis": "per one-capsule label serving"
+        }
+      ]
+    },
+    {
+      "brand": "INLIFE",
+      "product": "Vitamin D3 5000 IU Cholecalciferol",
+      "form": "Softgel",
+      "type": "Cholecalciferol (D3)",
+      "subclass": "Oil-based softgel",
+      "flavour": "Unflavoured",
+      "source": "Not specified",
+      "packCount": 60,
+      "servingUnits": 1,
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/Supplement_facts_a617e0b7-2f2e-4552-9c2c-19c942b7e841.webp?v=1782812703",
+      "labelSources": [
+        "https://inlifehealthcare.com/products/vitamin-d3-5000-iu",
+        "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/Supplement_facts_a617e0b7-2f2e-4552-9c2c-19c942b7e841.webp?v=1782812703"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official composition panel: each softgel contains 5000 IU (125 micrograms) cholecalciferol in coconut oil. Net retail count is 60 softgels.",
+      "notes": "High-strength label amount is not a daily-intake recommendation; the label specifies use as directed by a physician.",
+      "packaging": "Brand-listed retail pack (60 softgels)",
+      "vitaminDIu": 5000,
+      "vitaminDMcg": 125,
+      "category": "vitamin-d",
+      "base": "https://inlifehealthcare.com",
+      "handle": "vitamin-d3-5000-iu",
+      "variantIds": [
+        47755208261797
+      ],
+      "allowRetailMultipack": true,
+      "id": "vitamin-d-47755208261797"
+    },
+    {
+      "brand": "Neuherbs",
+      "product": "Vitamin D3 + K2",
+      "form": "Tablet",
+      "type": "Lichen-derived cholecalciferol (D3)",
+      "subclass": "D3 + K2 MK-7",
+      "flavour": "Unflavoured",
+      "source": "Lichen",
+      "packCount": 120,
+      "servingUnits": 1,
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/vitamin_d3_and_k2_tablets_7.webp?v=1794994962",
+      "labelSources": [
+        "https://neuherbs.com/products/true-vitamin-d3-k2-tablets",
+        "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/vitamin_d3_and_k2_tablets_7.webp?v=1794994962"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official bottle panel: one tablet contains vitamin D3 600 IU and vitamin K2 MK-7 55 micrograms. 120 tablets per exact variant.",
+      "notes": "Lichen origin and MK-7 are manufacturer declarations, not verified absorption or efficacy superiority.",
+      "packaging": "Brand-listed retail pack (120 tablets)",
+      "vitaminDIu": 600,
+      "vitaminK2Mcg": 55,
+      "energyPerServing": 1.63,
+      "category": "vitamin-d",
+      "base": "https://neuherbs.com",
+      "handle": "true-vitamin-d3-k2-tablets",
+      "variantIds": [
+        47808374964394
+      ],
+      "allowRetailMultipack": true,
+      "id": "vitamin-d-47808374964394"
+    },
+    {
+      "brand": "Nutrova",
+      "product": "Magnesium + D3",
+      "form": "Tablet",
+      "type": "Magnesium bisglycinate + cholecalciferol",
+      "subclass": "Elemental magnesium with vegan D3",
+      "flavour": "Unflavoured",
+      "source": "Vegan D3 (brand declaration)",
+      "packCount": 60,
+      "servingUnits": 1,
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0561/9253/2651/files/Nutrova_NMD3_nutritional-info_10092024_a3222fc2-df4a-4ecc-83f9-f7b8b0c193e3.jpg?v=1776769051",
+      "labelSources": [
+        "https://nutrova.com/products/nutrova-magnesium-d3",
+        "https://cdn.shopify.com/s/files/1/0561/9253/2651/files/Nutrova_NMD3_nutritional-info_10092024_a3222fc2-df4a-4ecc-83f9-f7b8b0c193e3.jpg?v=1776769051"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official panel per one tablet: elemental magnesium 100 mg from 709 mg magnesium bisglycinate, with vitamin D3 600 IU. Each exact retail count is recorded independently.",
+      "notes": "The same combination is discoverable under magnesium and vitamin D. It is one formula, not two independent purchases. Mineral-compound mass is not used as elemental magnesium.",
+      "packaging": "Brand-listed retail pack (60 tablets)",
+      "magnesiumMg": 100,
+      "magnesiumCompoundMg": 709,
+      "vitaminDIu": 600,
+      "energyPerServing": 0.96,
+      "mineralBasis": "elemental",
+      "category": "vitamin-d",
+      "base": "https://nutrova.com",
+      "handle": "nutrova-magnesium-d3",
+      "variantIds": [
+        46481651368107
+      ],
+      "allowRetailMultipack": true,
+      "id": "vitamin-d-46481651368107"
+    },
+    {
+      "brand": "Nutrova",
+      "product": "Magnesium + D3",
+      "form": "Tablet",
+      "type": "Magnesium bisglycinate + cholecalciferol",
+      "subclass": "Elemental magnesium with vegan D3",
+      "flavour": "Unflavoured",
+      "source": "Vegan D3 (brand declaration)",
+      "packCount": 120,
+      "servingUnits": 1,
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0561/9253/2651/files/Nutrova_NMD3_nutritional-info_10092024_a3222fc2-df4a-4ecc-83f9-f7b8b0c193e3.jpg?v=1776769051",
+      "labelSources": [
+        "https://nutrova.com/products/nutrova-magnesium-d3",
+        "https://cdn.shopify.com/s/files/1/0561/9253/2651/files/Nutrova_NMD3_nutritional-info_10092024_a3222fc2-df4a-4ecc-83f9-f7b8b0c193e3.jpg?v=1776769051"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official panel per one tablet: elemental magnesium 100 mg from 709 mg magnesium bisglycinate, with vitamin D3 600 IU. Each exact retail count is recorded independently.",
+      "notes": "The same combination is discoverable under magnesium and vitamin D. It is one formula, not two independent purchases. Mineral-compound mass is not used as elemental magnesium.",
+      "packaging": "Brand-listed retail pack (120 tablets)",
+      "magnesiumMg": 100,
+      "magnesiumCompoundMg": 709,
+      "vitaminDIu": 600,
+      "energyPerServing": 0.96,
+      "mineralBasis": "elemental",
+      "category": "vitamin-d",
+      "base": "https://nutrova.com",
+      "handle": "nutrova-magnesium-d3",
+      "variantIds": [
+        46481651400875
+      ],
+      "allowRetailMultipack": true,
+      "id": "vitamin-d-46481651400875"
+    },
+    {
+      "brand": "Nutrova",
+      "product": "Magnesium + D3",
+      "form": "Tablet",
+      "type": "Magnesium bisglycinate + cholecalciferol",
+      "subclass": "Elemental magnesium with vegan D3",
+      "flavour": "Unflavoured",
+      "source": "Vegan D3 (brand declaration)",
+      "packCount": 180,
+      "servingUnits": 1,
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0561/9253/2651/files/Nutrova_NMD3_nutritional-info_10092024_a3222fc2-df4a-4ecc-83f9-f7b8b0c193e3.jpg?v=1776769051",
+      "labelSources": [
+        "https://nutrova.com/products/nutrova-magnesium-d3",
+        "https://cdn.shopify.com/s/files/1/0561/9253/2651/files/Nutrova_NMD3_nutritional-info_10092024_a3222fc2-df4a-4ecc-83f9-f7b8b0c193e3.jpg?v=1776769051"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official panel per one tablet: elemental magnesium 100 mg from 709 mg magnesium bisglycinate, with vitamin D3 600 IU. Each exact retail count is recorded independently.",
+      "notes": "The same combination is discoverable under magnesium and vitamin D. It is one formula, not two independent purchases. Mineral-compound mass is not used as elemental magnesium.",
+      "packaging": "Brand-listed retail pack (180 tablets)",
+      "magnesiumMg": 100,
+      "magnesiumCompoundMg": 709,
+      "vitaminDIu": 600,
+      "energyPerServing": 0.96,
+      "mineralBasis": "elemental",
+      "category": "vitamin-d",
+      "base": "https://nutrova.com",
+      "handle": "nutrova-magnesium-d3",
+      "variantIds": [
+        47592570618027
+      ],
+      "allowRetailMultipack": true,
+      "id": "vitamin-d-47592570618027"
+    },
+    {
+      "brand": "Nutrova",
+      "product": "Magnesium + D3",
+      "form": "Tablet",
+      "type": "Magnesium bisglycinate + cholecalciferol",
+      "subclass": "Elemental magnesium with vegan D3",
+      "flavour": "Unflavoured",
+      "source": "Vegan D3 (brand declaration)",
+      "packCount": 60,
+      "servingUnits": 1,
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0561/9253/2651/files/Nutrova_NMD3_nutritional-info_10092024_a3222fc2-df4a-4ecc-83f9-f7b8b0c193e3.jpg?v=1776769051",
+      "labelSources": [
+        "https://nutrova.com/products/nutrova-magnesium-d3",
+        "https://cdn.shopify.com/s/files/1/0561/9253/2651/files/Nutrova_NMD3_nutritional-info_10092024_a3222fc2-df4a-4ecc-83f9-f7b8b0c193e3.jpg?v=1776769051"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official panel per one tablet: elemental magnesium 100 mg from 709 mg magnesium bisglycinate, with vitamin D3 600 IU. Each exact retail count is recorded independently.",
+      "notes": "The same combination is discoverable under magnesium and vitamin D. It is one formula, not two independent purchases. Mineral-compound mass is not used as elemental magnesium.",
+      "packaging": "Brand-listed retail pack (60 tablets)",
+      "magnesiumMg": 100,
+      "magnesiumCompoundMg": 709,
+      "vitaminDIu": 600,
+      "energyPerServing": 0.96,
+      "mineralBasis": "elemental",
+      "category": "magnesium",
+      "base": "https://nutrova.com",
+      "handle": "nutrova-magnesium-d3",
+      "variantIds": [
+        46481651368107
+      ],
+      "allowRetailMultipack": true,
+      "id": "magnesium-46481651368107"
+    },
+    {
+      "brand": "Nutrova",
+      "product": "Magnesium + D3",
+      "form": "Tablet",
+      "type": "Magnesium bisglycinate + cholecalciferol",
+      "subclass": "Elemental magnesium with vegan D3",
+      "flavour": "Unflavoured",
+      "source": "Vegan D3 (brand declaration)",
+      "packCount": 120,
+      "servingUnits": 1,
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0561/9253/2651/files/Nutrova_NMD3_nutritional-info_10092024_a3222fc2-df4a-4ecc-83f9-f7b8b0c193e3.jpg?v=1776769051",
+      "labelSources": [
+        "https://nutrova.com/products/nutrova-magnesium-d3",
+        "https://cdn.shopify.com/s/files/1/0561/9253/2651/files/Nutrova_NMD3_nutritional-info_10092024_a3222fc2-df4a-4ecc-83f9-f7b8b0c193e3.jpg?v=1776769051"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official panel per one tablet: elemental magnesium 100 mg from 709 mg magnesium bisglycinate, with vitamin D3 600 IU. Each exact retail count is recorded independently.",
+      "notes": "The same combination is discoverable under magnesium and vitamin D. It is one formula, not two independent purchases. Mineral-compound mass is not used as elemental magnesium.",
+      "packaging": "Brand-listed retail pack (120 tablets)",
+      "magnesiumMg": 100,
+      "magnesiumCompoundMg": 709,
+      "vitaminDIu": 600,
+      "energyPerServing": 0.96,
+      "mineralBasis": "elemental",
+      "category": "magnesium",
+      "base": "https://nutrova.com",
+      "handle": "nutrova-magnesium-d3",
+      "variantIds": [
+        46481651400875
+      ],
+      "allowRetailMultipack": true,
+      "id": "magnesium-46481651400875"
+    },
+    {
+      "brand": "Nutrova",
+      "product": "Magnesium + D3",
+      "form": "Tablet",
+      "type": "Magnesium bisglycinate + cholecalciferol",
+      "subclass": "Elemental magnesium with vegan D3",
+      "flavour": "Unflavoured",
+      "source": "Vegan D3 (brand declaration)",
+      "packCount": 180,
+      "servingUnits": 1,
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0561/9253/2651/files/Nutrova_NMD3_nutritional-info_10092024_a3222fc2-df4a-4ecc-83f9-f7b8b0c193e3.jpg?v=1776769051",
+      "labelSources": [
+        "https://nutrova.com/products/nutrova-magnesium-d3",
+        "https://cdn.shopify.com/s/files/1/0561/9253/2651/files/Nutrova_NMD3_nutritional-info_10092024_a3222fc2-df4a-4ecc-83f9-f7b8b0c193e3.jpg?v=1776769051"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official panel per one tablet: elemental magnesium 100 mg from 709 mg magnesium bisglycinate, with vitamin D3 600 IU. Each exact retail count is recorded independently.",
+      "notes": "The same combination is discoverable under magnesium and vitamin D. It is one formula, not two independent purchases. Mineral-compound mass is not used as elemental magnesium.",
+      "packaging": "Brand-listed retail pack (180 tablets)",
+      "magnesiumMg": 100,
+      "magnesiumCompoundMg": 709,
+      "vitaminDIu": 600,
+      "energyPerServing": 0.96,
+      "mineralBasis": "elemental",
+      "category": "magnesium",
+      "base": "https://nutrova.com",
+      "handle": "nutrova-magnesium-d3",
+      "variantIds": [
+        47592570618027
+      ],
+      "allowRetailMultipack": true,
+      "id": "magnesium-47592570618027"
+    },
+    {
+      "brand": "INLIFE",
+      "product": "Chelated Magnesium Bisglycinate Forte",
+      "form": "Tablet",
+      "type": "Magnesium bisglycinate",
+      "subclass": "Chelated bisglycinate",
+      "flavour": "Unflavoured",
+      "source": "Not specified",
+      "packCount": 240,
+      "servingUnits": 2,
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/MAGNESIUMBISGLYCINATEFORTE120s_0006_supplement.webp?v=1793183925",
+      "labelSources": [
+        "https://inlifehealthcare.com/products/magnesium-glycinate-forte",
+        "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/MAGNESIUMBISGLYCINATEFORTE120s_0006_supplement.webp?v=1793183925"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Current official reformulated panel: two tablets provide 250 mg elemental magnesium from 2000 mg chelated magnesium bisglycinate.",
+      "notes": "The current formulation differs from older 440 mg marketing. Only the updated two-tablet label is used; pack120/240 counts come from the selected official variants.",
+      "packaging": "Brand-listed retail pack (240 tablets)",
+      "magnesiumMg": 250,
+      "magnesiumCompoundMg": 2000,
+      "mineralBasis": "elemental",
+      "category": "magnesium",
+      "base": "https://inlifehealthcare.com",
+      "handle": "magnesium-glycinate-forte",
+      "variantIds": [
+        51134618108069
+      ],
+      "allowRetailMultipack": true,
+      "id": "magnesium-51134618108069"
+    },
+    {
+      "brand": "INLIFE",
+      "product": "Chelated Magnesium Bisglycinate Forte",
+      "form": "Tablet",
+      "type": "Magnesium bisglycinate",
+      "subclass": "Chelated bisglycinate",
+      "flavour": "Unflavoured",
+      "source": "Not specified",
+      "packCount": 120,
+      "servingUnits": 2,
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/MAGNESIUMBISGLYCINATEFORTE120s_0006_supplement.webp?v=1793183925",
+      "labelSources": [
+        "https://inlifehealthcare.com/products/magnesium-glycinate-forte",
+        "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/MAGNESIUMBISGLYCINATEFORTE120s_0006_supplement.webp?v=1793183925"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Current official reformulated panel: two tablets provide 250 mg elemental magnesium from 2000 mg chelated magnesium bisglycinate.",
+      "notes": "The current formulation differs from older 440 mg marketing. Only the updated two-tablet label is used; pack120/240 counts come from the selected official variants.",
+      "packaging": "Brand-listed retail pack (120 tablets)",
+      "magnesiumMg": 250,
+      "magnesiumCompoundMg": 2000,
+      "mineralBasis": "elemental",
+      "category": "magnesium",
+      "base": "https://inlifehealthcare.com",
+      "handle": "magnesium-glycinate-forte",
+      "variantIds": [
+        45800298807461
+      ],
+      "allowRetailMultipack": true,
+      "id": "magnesium-45800298807461"
+    },
+    {
+      "brand": "Neuherbs",
+      "product": "Triple Magnesium Complex",
+      "form": "Tablet",
+      "type": "Bisglycinate, citrate and hydroxide (Aquamin)",
+      "subclass": "Three-form mineral blend with D3 and B6",
+      "flavour": "Unflavoured",
+      "source": "Not specified",
+      "packCount": 60,
+      "servingUnits": 2,
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/triple_magnesium_complex_9.webp?v=1773295391",
+      "labelSources": [
+        "https://neuherbs.com/products/triple-magnesium-complex-tablets",
+        "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/triple_magnesium_complex_9.webp?v=1773295391"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official bottle panel per two tablets: total elemental magnesium 440 mg (320 mg from bisglycinate, 20 mg from citrate and 100 mg from magnesium hydroxide/Aquamin), D3 600 IU, B6 1.9 mg.",
+      "notes": "Manufacturer liposomal, chelation and absorption claims are not used as potency multipliers. The individual source contributions are elemental amounts, not the compound weights.",
+      "packaging": "Brand-listed retail pack (60 tablets)",
+      "magnesiumMg": 440,
+      "vitaminDIu": 600,
+      "vitaminB6Mg": 1.9,
+      "energyPerServing": 7.18,
+      "mineralBasis": "elemental",
+      "category": "magnesium",
+      "base": "https://neuherbs.com",
+      "handle": "triple-magnesium-complex-tablets",
+      "variantIds": [
+        48103980892330
+      ],
+      "allowRetailMultipack": true,
+      "id": "magnesium-48103980892330"
+    },
+    {
+      "brand": "INLIFE",
+      "product": "Calcium, Zinc and Magnesium with D2, K2, Folate and B12",
+      "form": "Tablet",
+      "type": "Calcium citrate malate, magnesium hydroxide and zinc sulphate",
+      "subclass": "Mineral + vitamin combination",
+      "flavour": "Unflavoured",
+      "source": "Not specified",
+      "packCount": 240,
+      "servingUnits": 1,
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/webp_3.webp?v=1791356637",
+      "labelSources": [
+        "https://inlifehealthcare.com/products/calcium-tablets-supplement",
+        "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/webp_3.webp?v=1791356637"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official supplement facts per one tablet: calcium250 mg, magnesium100 mg, zinc10 mg, folic acid129.4 micrograms, K2 55 micrograms, D2 600 IU and B12 2.2 micrograms.",
+      "notes": "Vitamin D is ergocalciferol D2, not D3. The as-source mineral rows identify the elemental amounts; salt weights are not substituted. The120/240tablet retail variants are separate listed packs.",
+      "packaging": "Brand-listed retail pack (240 tablets)",
+      "calciumMg": 250,
+      "magnesiumMg": 100,
+      "zincMg": 10,
+      "folicAcidMcg": 129.4,
+      "vitaminDIu": 600,
+      "vitaminK2Mcg": 55,
+      "vitaminB12Mcg": 2.2,
+      "energyPerServing": 4.23,
+      "mineralBasis": "elemental",
+      "declaredNutrients": [
+        "calciumMg",
+        "magnesiumMg",
+        "zincMg",
+        "folicAcidMcg",
+        "vitaminDIu",
+        "vitaminK2Mcg",
+        "vitaminB12Mcg"
+      ],
+      "declaredActives": [
+        "calcium",
+        "magnesium",
+        "zinc"
+      ],
+      "category": "zmc",
+      "base": "https://inlifehealthcare.com",
+      "handle": "calcium-tablets-supplement",
+      "variantIds": [
+        48087633756325
+      ],
+      "allowRetailMultipack": true,
+      "id": "zmc-48087633756325"
+    },
+    {
+      "brand": "INLIFE",
+      "product": "Calcium, Zinc and Magnesium with D2, K2, Folate and B12",
+      "form": "Tablet",
+      "type": "Calcium citrate malate, magnesium hydroxide and zinc sulphate",
+      "subclass": "Mineral + vitamin combination",
+      "flavour": "Unflavoured",
+      "source": "Not specified",
+      "packCount": 120,
+      "servingUnits": 1,
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/webp_3.webp?v=1791356637",
+      "labelSources": [
+        "https://inlifehealthcare.com/products/calcium-tablets-supplement",
+        "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/webp_3.webp?v=1791356637"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official supplement facts per one tablet: calcium250 mg, magnesium100 mg, zinc10 mg, folic acid129.4 micrograms, K2 55 micrograms, D2 600 IU and B12 2.2 micrograms.",
+      "notes": "Vitamin D is ergocalciferol D2, not D3. The as-source mineral rows identify the elemental amounts; salt weights are not substituted. The120/240tablet retail variants are separate listed packs.",
+      "packaging": "Brand-listed retail pack (120 tablets)",
+      "calciumMg": 250,
+      "magnesiumMg": 100,
+      "zincMg": 10,
+      "folicAcidMcg": 129.4,
+      "vitaminDIu": 600,
+      "vitaminK2Mcg": 55,
+      "vitaminB12Mcg": 2.2,
+      "energyPerServing": 4.23,
+      "mineralBasis": "elemental",
+      "declaredNutrients": [
+        "calciumMg",
+        "magnesiumMg",
+        "zincMg",
+        "folicAcidMcg",
+        "vitaminDIu",
+        "vitaminK2Mcg",
+        "vitaminB12Mcg"
+      ],
+      "declaredActives": [
+        "calcium",
+        "magnesium",
+        "zinc"
+      ],
+      "category": "zmc",
+      "base": "https://inlifehealthcare.com",
+      "handle": "calcium-tablets-supplement",
+      "variantIds": [
+        45518579499173
+      ],
+      "allowRetailMultipack": true,
+      "id": "zmc-45518579499173"
+    },
+    {
+      "brand": "Carbamide Forte",
+      "product": "Calcium Magnesium Zinc with Vitamins",
+      "form": "Tablet",
+      "type": "Calcium citrate malate, magnesium oxide and zinc gluconate",
+      "subclass": "Combination; label conflict unresolved",
+      "flavour": "Unflavoured",
+      "source": "Not specified",
+      "packCount": 120,
+      "servingUnits": null,
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B0725Z92KZ.PT01.png?v=1785305742",
+      "labelSources": [
+        "https://carbamideforte.com/products/carbamide-forte-calcium-1200mg-with-magnesium-zinc-vitamin-d-k2-b12-calcium-for-women-men-120-veg-tablets",
+        "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B0725Z92KZ.PT01.png?v=1785305742",
+        "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/71YmuXY746L._SL1500.jpg?v=1764582813"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Net pack120 tablets and listed single-pack price are verified. No numeric label-serving or mineral payload is assigned while two current official label images disagree.",
+      "notes": "Official gallery conflict: facts graphic says2tablets with Ca500/Mg55/Zn13.2 mg andD3; bottle says1tablet with Ca250/Mg55/Zn17 mg andD2. Folic-acid units also conflict. No image is silently preferred; ingredient and serving costs stay unavailable.",
+      "packaging": "Brand-listed retail pack (120 tablets)",
+      "calciumMg": null,
+      "magnesiumMg": null,
+      "zincMg": null,
+      "vitaminDIu": null,
+      "vitaminK2Mcg": null,
+      "vitaminB12Mcg": null,
+      "folicAcidMcg": null,
+      "mineralBasis": "elemental",
+      "declaredNutrients": [
+        "calciumMg",
+        "magnesiumMg",
+        "zincMg",
+        "vitaminDIu",
+        "vitaminK2Mcg",
+        "vitaminB12Mcg",
+        "folicAcidMcg"
+      ],
+      "declaredActives": [
+        "calcium",
+        "magnesium",
+        "zinc"
+      ],
+      "category": "zmc",
+      "base": "https://carbamideforte.com",
+      "handle": "carbamide-forte-calcium-1200mg-with-magnesium-zinc-vitamin-d-k2-b12-calcium-for-women-men-120-veg-tablets",
+      "variantIds": [
+        42702700183665
+      ],
+      "allowRetailMultipack": true,
+      "id": "zmc-42702700183665"
+    },
+    {
+      "brand": "Neuherbs",
+      "product": "Hair Biotin with Botanical Blend and Probiotic",
+      "form": "Capsule",
+      "type": "Sesbania-derived biotin",
+      "subclass": "Biotin + botanical/probiotic combination",
+      "flavour": "Unflavoured",
+      "source": "Sesbania grandiflora (brand declaration)",
+      "packCount": 60,
+      "servingUnits": 2,
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/biotin_for_hair_growth_8.webp?v=1773739545",
+      "labelSources": [
+        "https://neuherbs.com/products/hair-biotin-capsules",
+        "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/biotin_for_hair_growth_8.webp?v=1773739545"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official bottle panel per two capsules: biotin40 micrograms from Sesbania extract, with lycopene, botanical extracts and Lactiplantibacillus plantarum.",
+      "notes": "Sesbania and botanical weights are not pure biotin. Additional ingredients mean this is not a single-ingredient biotin product. Hair-growth and DHT claims are not independently validated by catalog inclusion.",
+      "packaging": "Brand-listed retail pack (60 capsules)",
+      "biotinMcg": 40,
+      "energyPerServing": 4.72,
+      "category": "biotin",
+      "base": "https://neuherbs.com",
+      "handle": "hair-biotin-capsules",
+      "variantIds": [
+        47642100367530
+      ],
+      "allowRetailMultipack": true,
+      "id": "biotin-47642100367530"
+    },
+    {
+      "brand": "Neuherbs",
+      "product": "Hair Biotin with Botanical Blend and Probiotic",
+      "form": "Capsule",
+      "type": "Sesbania-derived biotin",
+      "subclass": "Biotin + botanical/probiotic combination",
+      "flavour": "Unflavoured",
+      "source": "Sesbania grandiflora (brand declaration)",
+      "packCount": 120,
+      "servingUnits": 2,
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/biotin_for_hair_growth_8.webp?v=1773739545",
+      "labelSources": [
+        "https://neuherbs.com/products/hair-biotin-capsules",
+        "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/biotin_for_hair_growth_8.webp?v=1773739545"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official bottle panel per two capsules: biotin40 micrograms from Sesbania extract, with lycopene, botanical extracts and Lactiplantibacillus plantarum.",
+      "notes": "Sesbania and botanical weights are not pure biotin. Additional ingredients mean this is not a single-ingredient biotin product. Hair-growth and DHT claims are not independently validated by catalog inclusion.",
+      "packaging": "Brand-listed retail pack (120 capsules)",
+      "biotinMcg": 40,
+      "energyPerServing": 4.72,
+      "category": "biotin",
+      "base": "https://neuherbs.com",
+      "handle": "hair-biotin-capsules",
+      "variantIds": [
+        47777629700266
+      ],
+      "allowRetailMultipack": true,
+      "id": "biotin-47777629700266"
+    },
+    {
+      "brand": "Carbamide Forte",
+      "product": "Biotin Tablets with Amla, Brahmi and Bamboo",
+      "form": "Tablet",
+      "type": "Sesbania-derived biotin",
+      "subclass": "Biotin + botanical combination",
+      "flavour": "Unflavoured",
+      "source": "Sesbania grandiflora (brand declaration)",
+      "packCount": 90,
+      "servingUnits": 1,
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B07RX6RF3N.PT01.jpg?v=1752571884",
+      "labelSources": [
+        "https://carbamideforte.com/products/carbamide-forte-biotin-10-000mcg-with-keratin-bamboo-extract-piperine-for-enhanced-absorption-supplement-for-fast-hair-growth-treatment-90-veg-tablets",
+        "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B07RX6RF3N.PT01.jpg?v=1752571884",
+        "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B07RX6RF3N.PT08.jpg?v=1752571884"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official facts and bottle label agree: one tablet provides40 micrograms natural biotin from10,000micrograms Sesbania grandiflora extract, not10,000micrograms pure biotin.",
+      "notes": "The product URL retains a10,000mcg headline referring to extract mass; actual biotin is40mcg. Amla50mg, Brahmi50mg, bamboo25mg and lycopene are separate ingredients.",
+      "packaging": "Brand-listed retail pack (90 tablets)",
+      "biotinMcg": 40,
+      "energyPerServing": 0.08,
+      "category": "biotin",
+      "base": "https://carbamideforte.com",
+      "handle": "carbamide-forte-biotin-10-000mcg-with-keratin-bamboo-extract-piperine-for-enhanced-absorption-supplement-for-fast-hair-growth-treatment-90-veg-tablets",
+      "variantIds": [
+        42588982607985
+      ],
+      "allowRetailMultipack": true,
+      "id": "biotin-42588982607985"
+    },
+    {
+      "brand": "Wellbeing Nutrition",
+      "product": "Organic Vitamin C + Zinc Effervescent",
+      "form": "Tablet",
+      "type": "Vitamin C with natural immunity blend",
+      "subclass": "Effervescent combination",
+      "flavour": "Zesty Orange",
+      "source": "Mixed botanical/added vitamin formulation",
+      "packCount": 32,
+      "servingUnits": 1,
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0240/2942/9840/files/image_10_1_be03de2a-e962-49e6-8167-3ed3ebe256ff.jpg?v=1768976189",
+      "labelSources": [
+        "https://wellbeingnutrition.com/products/organic-vitamin-c-and-zinc-tablets",
+        "https://cdn.shopify.com/s/files/1/0240/2942/9840/files/image_10_1_be03de2a-e962-49e6-8167-3ed3ebe256ff.jpg?v=1768976189"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official nutrition facts: one4.1g tablet contains80mg vitamin C,12mg elemental zinc and1000mg natural immunity blend;16tablets per tube. Exact listed packs of2/4/6 tubes contain32/64/96tablets.",
+      "notes": "The1000mg front claim is blend mass, not vitamin C. Prices are the explicit listed retail multipack variants, not a synthetic multiplication of one tube price.",
+      "packaging": "Brand-listed retail pack (32 tablets)",
+      "vitaminCMg": 80,
+      "zincMg": 12,
+      "energyPerServing": 13.9,
+      "mineralBasis": "elemental",
+      "category": "vitamin-c",
+      "base": "https://wellbeingnutrition.com",
+      "handle": "organic-vitamin-c-and-zinc-tablets",
+      "variantIds": [
+        39598792933456
+      ],
+      "allowRetailMultipack": true,
+      "id": "vitamin-c-39598792933456"
+    },
+    {
+      "brand": "Wellbeing Nutrition",
+      "product": "Organic Vitamin C + Zinc Effervescent",
+      "form": "Tablet",
+      "type": "Vitamin C with natural immunity blend",
+      "subclass": "Effervescent combination",
+      "flavour": "Zesty Orange",
+      "source": "Mixed botanical/added vitamin formulation",
+      "packCount": 64,
+      "servingUnits": 1,
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0240/2942/9840/files/image_10_1_be03de2a-e962-49e6-8167-3ed3ebe256ff.jpg?v=1768976189",
+      "labelSources": [
+        "https://wellbeingnutrition.com/products/organic-vitamin-c-and-zinc-tablets",
+        "https://cdn.shopify.com/s/files/1/0240/2942/9840/files/image_10_1_be03de2a-e962-49e6-8167-3ed3ebe256ff.jpg?v=1768976189"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official nutrition facts: one4.1g tablet contains80mg vitamin C,12mg elemental zinc and1000mg natural immunity blend;16tablets per tube. Exact listed packs of2/4/6 tubes contain32/64/96tablets.",
+      "notes": "The1000mg front claim is blend mass, not vitamin C. Prices are the explicit listed retail multipack variants, not a synthetic multiplication of one tube price.",
+      "packaging": "Brand-listed retail pack (64 tablets)",
+      "vitaminCMg": 80,
+      "zincMg": 12,
+      "energyPerServing": 13.9,
+      "mineralBasis": "elemental",
+      "category": "vitamin-c",
+      "base": "https://wellbeingnutrition.com",
+      "handle": "organic-vitamin-c-and-zinc-tablets",
+      "variantIds": [
+        39609581535312
+      ],
+      "allowRetailMultipack": true,
+      "id": "vitamin-c-39609581535312"
+    },
+    {
+      "brand": "Wellbeing Nutrition",
+      "product": "Organic Vitamin C + Zinc Effervescent",
+      "form": "Tablet",
+      "type": "Vitamin C with natural immunity blend",
+      "subclass": "Effervescent combination",
+      "flavour": "Zesty Orange",
+      "source": "Mixed botanical/added vitamin formulation",
+      "packCount": 96,
+      "servingUnits": 1,
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0240/2942/9840/files/image_10_1_be03de2a-e962-49e6-8167-3ed3ebe256ff.jpg?v=1768976189",
+      "labelSources": [
+        "https://wellbeingnutrition.com/products/organic-vitamin-c-and-zinc-tablets",
+        "https://cdn.shopify.com/s/files/1/0240/2942/9840/files/image_10_1_be03de2a-e962-49e6-8167-3ed3ebe256ff.jpg?v=1768976189"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official nutrition facts: one4.1g tablet contains80mg vitamin C,12mg elemental zinc and1000mg natural immunity blend;16tablets per tube. Exact listed packs of2/4/6 tubes contain32/64/96tablets.",
+      "notes": "The1000mg front claim is blend mass, not vitamin C. Prices are the explicit listed retail multipack variants, not a synthetic multiplication of one tube price.",
+      "packaging": "Brand-listed retail pack (96 tablets)",
+      "vitaminCMg": 80,
+      "zincMg": 12,
+      "energyPerServing": 13.9,
+      "mineralBasis": "elemental",
+      "category": "vitamin-c",
+      "base": "https://wellbeingnutrition.com",
+      "handle": "organic-vitamin-c-and-zinc-tablets",
+      "variantIds": [
+        39609581731920
+      ],
+      "allowRetailMultipack": true,
+      "id": "vitamin-c-39609581731920"
+    },
+    {
+      "brand": "INLIFE",
+      "product": "Chelated Iron + Folic Acid with Vitamin C and B12",
+      "form": "Tablet",
+      "type": "Folic acid with ferrous bisglycinate and vitamins",
+      "subclass": "Iron + vitamin/mineral combination",
+      "flavour": "Unflavoured",
+      "source": "Not specified",
+      "packCount": 120,
+      "servingUnits": 1,
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/Ironfolicacid_0007_Supplementfacts.webp?v=1793702998",
+      "labelSources": [
+        "https://inlifehealthcare.com/products/iron-folic-acid",
+        "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/Ironfolicacid_0007_Supplementfacts.webp?v=1793702998"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official label per one tablet: folic acid129.4 micrograms, vitamin C65mg, B12 2.2micrograms, zinc13.2mg and iron19mg, with vitamin E and selenium.",
+      "notes": "This includes19mg iron per tablet and is not a routine standalone vitamin C or folate substitute. Other ingredients include vitamin E10mg and selenium40micrograms; these and iron are disclosed in this note because the current active-field model does not total them. Retail120/240counts come from exact listed variants.",
+      "packaging": "Brand-listed retail pack (120 tablets)",
+      "folicAcidMcg": 129.4,
+      "vitaminCMg": 65,
+      "vitaminB12Mcg": 2.2,
+      "zincMg": 13.2,
+      "mineralBasis": "elemental",
+      "category": "folic-acid",
+      "base": "https://inlifehealthcare.com",
+      "handle": "iron-folic-acid",
+      "variantIds": [
+        44486340968613
+      ],
+      "allowRetailMultipack": true,
+      "id": "folic-acid-44486340968613"
+    },
+    {
+      "brand": "INLIFE",
+      "product": "Chelated Iron + Folic Acid with Vitamin C and B12",
+      "form": "Tablet",
+      "type": "Folic acid with ferrous bisglycinate and vitamins",
+      "subclass": "Iron + vitamin/mineral combination",
+      "flavour": "Unflavoured",
+      "source": "Not specified",
+      "packCount": 240,
+      "servingUnits": 1,
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/Ironfolicacid_0007_Supplementfacts.webp?v=1793702998",
+      "labelSources": [
+        "https://inlifehealthcare.com/products/iron-folic-acid",
+        "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/Ironfolicacid_0007_Supplementfacts.webp?v=1793702998"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official label per one tablet: folic acid129.4 micrograms, vitamin C65mg, B12 2.2micrograms, zinc13.2mg and iron19mg, with vitamin E and selenium.",
+      "notes": "This includes19mg iron per tablet and is not a routine standalone vitamin C or folate substitute. Other ingredients include vitamin E10mg and selenium40micrograms; these and iron are disclosed in this note because the current active-field model does not total them. Retail120/240counts come from exact listed variants.",
+      "packaging": "Brand-listed retail pack (240 tablets)",
+      "folicAcidMcg": 129.4,
+      "vitaminCMg": 65,
+      "vitaminB12Mcg": 2.2,
+      "zincMg": 13.2,
+      "mineralBasis": "elemental",
+      "category": "folic-acid",
+      "base": "https://inlifehealthcare.com",
+      "handle": "iron-folic-acid",
+      "variantIds": [
+        48219210416293
+      ],
+      "allowRetailMultipack": true,
+      "id": "folic-acid-48219210416293"
+    },
+    {
+      "brand": "INLIFE",
+      "product": "Chelated Iron + Folic Acid with Vitamin C and B12",
+      "form": "Tablet",
+      "type": "Folic acid with ferrous bisglycinate and vitamins",
+      "subclass": "Iron + vitamin/mineral combination",
+      "flavour": "Unflavoured",
+      "source": "Not specified",
+      "packCount": 120,
+      "servingUnits": 1,
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/Ironfolicacid_0007_Supplementfacts.webp?v=1793702998",
+      "labelSources": [
+        "https://inlifehealthcare.com/products/iron-folic-acid",
+        "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/Ironfolicacid_0007_Supplementfacts.webp?v=1793702998"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official label per one tablet: folic acid129.4 micrograms, vitamin C65mg, B12 2.2micrograms, zinc13.2mg and iron19mg, with vitamin E and selenium.",
+      "notes": "This includes19mg iron per tablet and is not a routine standalone vitamin C or folate substitute. Other ingredients include vitamin E10mg and selenium40micrograms; these and iron are disclosed in this note because the current active-field model does not total them. Retail120/240counts come from exact listed variants.",
+      "packaging": "Brand-listed retail pack (120 tablets)",
+      "folicAcidMcg": 129.4,
+      "vitaminCMg": 65,
+      "vitaminB12Mcg": 2.2,
+      "zincMg": 13.2,
+      "mineralBasis": "elemental",
+      "category": "vitamin-c",
+      "base": "https://inlifehealthcare.com",
+      "handle": "iron-folic-acid",
+      "variantIds": [
+        44486340968613
+      ],
+      "allowRetailMultipack": true,
+      "id": "vitamin-c-44486340968613"
+    },
+    {
+      "brand": "INLIFE",
+      "product": "Chelated Iron + Folic Acid with Vitamin C and B12",
+      "form": "Tablet",
+      "type": "Folic acid with ferrous bisglycinate and vitamins",
+      "subclass": "Iron + vitamin/mineral combination",
+      "flavour": "Unflavoured",
+      "source": "Not specified",
+      "packCount": 240,
+      "servingUnits": 1,
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/Ironfolicacid_0007_Supplementfacts.webp?v=1793702998",
+      "labelSources": [
+        "https://inlifehealthcare.com/products/iron-folic-acid",
+        "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/Ironfolicacid_0007_Supplementfacts.webp?v=1793702998"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official label per one tablet: folic acid129.4 micrograms, vitamin C65mg, B12 2.2micrograms, zinc13.2mg and iron19mg, with vitamin E and selenium.",
+      "notes": "This includes19mg iron per tablet and is not a routine standalone vitamin C or folate substitute. Other ingredients include vitamin E10mg and selenium40micrograms; these and iron are disclosed in this note because the current active-field model does not total them. Retail120/240counts come from exact listed variants.",
+      "packaging": "Brand-listed retail pack (240 tablets)",
+      "folicAcidMcg": 129.4,
+      "vitaminCMg": 65,
+      "vitaminB12Mcg": 2.2,
+      "zincMg": 13.2,
+      "mineralBasis": "elemental",
+      "category": "vitamin-c",
+      "base": "https://inlifehealthcare.com",
+      "handle": "iron-folic-acid",
+      "variantIds": [
+        48219210416293
+      ],
+      "allowRetailMultipack": true,
+      "id": "vitamin-c-48219210416293"
+    },
+    {
+      "brand": "INLIFE",
+      "product": "B-Complex with Choline, Inositol and Alpha Lipoic Acid",
+      "form": "Capsule",
+      "type": "Eight B vitamins; cyanocobalamin and folic acid",
+      "subclass": "B-complex with co-ingredients",
+      "flavour": "Unflavoured",
+      "source": "Not specified",
+      "packCount": 120,
+      "servingUnits": 1,
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/WEBP_11.webp?v=1791377754",
+      "labelSources": [
+        "https://inlifehealthcare.com/products/inlife-b-complex-supplement-vegetarian-capsules",
+        "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/WEBP_11.webp?v=1791377754"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official supplement panel per one capsule: B1 1.8mg,B2 2.5mg,B3 18mg,B5 5mg,B6 2.4mg,biotin40micrograms,B12 2.2micrograms,folic acid176.4micrograms.",
+      "notes": "Alpha lipoic acid20mg, inositol10mg and choline10mg are separate co-ingredients, not additional B-vitamin mass. No summed B-strength score is calculated.",
+      "packaging": "Brand-listed retail pack (120 capsules)",
+      "vitaminB1Mg": 1.8,
+      "vitaminB2Mg": 2.5,
+      "vitaminB3Mg": 18,
+      "vitaminB5Mg": 5,
+      "vitaminB6Mg": 2.4,
+      "biotinMcg": 40,
+      "vitaminB12Mcg": 2.2,
+      "folicAcidMcg": 176.4,
+      "declaredNutrients": [
+        "vitaminB1Mg",
+        "vitaminB2Mg",
+        "vitaminB3Mg",
+        "vitaminB5Mg",
+        "vitaminB6Mg",
+        "biotinMcg",
+        "vitaminB12Mcg",
+        "folicAcidMcg"
+      ],
+      "category": "vitamin-b",
+      "base": "https://inlifehealthcare.com",
+      "handle": "inlife-b-complex-supplement-vegetarian-capsules",
+      "variantIds": [
+        45897052618917
+      ],
+      "allowRetailMultipack": true,
+      "id": "vitamin-b-45897052618917"
+    },
+    {
+      "brand": "INLIFE",
+      "product": "B-Complex with Choline, Inositol and Alpha Lipoic Acid",
+      "form": "Capsule",
+      "type": "Eight B vitamins; cyanocobalamin and folic acid",
+      "subclass": "B-complex with co-ingredients",
+      "flavour": "Unflavoured",
+      "source": "Not specified",
+      "packCount": 60,
+      "servingUnits": 1,
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/WEBP_11.webp?v=1791377754",
+      "labelSources": [
+        "https://inlifehealthcare.com/products/inlife-b-complex-supplement-vegetarian-capsules",
+        "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/WEBP_11.webp?v=1791377754"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official supplement panel per one capsule: B1 1.8mg,B2 2.5mg,B3 18mg,B5 5mg,B6 2.4mg,biotin40micrograms,B12 2.2micrograms,folic acid176.4micrograms.",
+      "notes": "Alpha lipoic acid20mg, inositol10mg and choline10mg are separate co-ingredients, not additional B-vitamin mass. No summed B-strength score is calculated.",
+      "packaging": "Brand-listed retail pack (60 capsules)",
+      "vitaminB1Mg": 1.8,
+      "vitaminB2Mg": 2.5,
+      "vitaminB3Mg": 18,
+      "vitaminB5Mg": 5,
+      "vitaminB6Mg": 2.4,
+      "biotinMcg": 40,
+      "vitaminB12Mcg": 2.2,
+      "folicAcidMcg": 176.4,
+      "declaredNutrients": [
+        "vitaminB1Mg",
+        "vitaminB2Mg",
+        "vitaminB3Mg",
+        "vitaminB5Mg",
+        "vitaminB6Mg",
+        "biotinMcg",
+        "vitaminB12Mcg",
+        "folicAcidMcg"
+      ],
+      "category": "vitamin-b",
+      "base": "https://inlifehealthcare.com",
+      "handle": "inlife-b-complex-supplement-vegetarian-capsules",
+      "variantIds": [
+        45897052586149
+      ],
+      "allowRetailMultipack": true,
+      "id": "vitamin-b-45897052586149"
+    },
+    {
+      "brand": "Neuherbs",
+      "product": "True Vitamin B12 with Folic Acid, Inositol and Botanicals",
+      "form": "Tablet",
+      "type": "Cyanocobalamin + folic acid",
+      "subclass": "B12 + folic acid combination",
+      "flavour": "Unflavoured",
+      "source": "Plant-labelled formulation; source authentication not independently tested",
+      "packCount": 60,
+      "servingUnits": 1,
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/True_vitamin_B12_9.webp?v=1774249905",
+      "labelSources": [
+        "https://neuherbs.com/products/b12-vitamin-tablets-energy-circulation",
+        "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/True_vitamin_B12_9.webp?v=1774249905"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official bottle panel per one tablet: B12(cyanocobalamin)2.2micrograms and folic acid129.41micrograms, with inositol100mg,Punarnava100mg and spirulina extract50mg.",
+      "notes": "The front plant/spirulina marketing is not treated as analytical proof of B12 source or bioavailability. The numeric payload and cyanocobalamin form come from the supplement facts.",
+      "packaging": "Brand-listed retail pack (60 tablets)",
+      "vitaminB12Mcg": 2.2,
+      "folicAcidMcg": 129.41,
+      "energyPerServing": 0.88,
+      "declaredNutrients": [
+        "vitaminB12Mcg",
+        "folicAcidMcg"
+      ],
+      "category": "vitamin-b",
+      "base": "https://neuherbs.com",
+      "handle": "b12-vitamin-tablets-energy-circulation",
+      "variantIds": [
+        44928074416298
+      ],
+      "allowRetailMultipack": true,
+      "id": "vitamin-b-44928074416298"
+    },
+    {
+      "brand": "Neuherbs",
+      "product": "True Vitamin B12 with Folic Acid, Inositol and Botanicals",
+      "form": "Tablet",
+      "type": "Cyanocobalamin + folic acid",
+      "subclass": "B12 + folic acid combination",
+      "flavour": "Unflavoured",
+      "source": "Plant-labelled formulation; source authentication not independently tested",
+      "packCount": 120,
+      "servingUnits": 1,
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/True_vitamin_B12_9.webp?v=1774249905",
+      "labelSources": [
+        "https://neuherbs.com/products/b12-vitamin-tablets-energy-circulation",
+        "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/True_vitamin_B12_9.webp?v=1774249905"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official bottle panel per one tablet: B12(cyanocobalamin)2.2micrograms and folic acid129.41micrograms, with inositol100mg,Punarnava100mg and spirulina extract50mg.",
+      "notes": "The front plant/spirulina marketing is not treated as analytical proof of B12 source or bioavailability. The numeric payload and cyanocobalamin form come from the supplement facts.",
+      "packaging": "Brand-listed retail pack (120 tablets)",
+      "vitaminB12Mcg": 2.2,
+      "folicAcidMcg": 129.41,
+      "energyPerServing": 0.88,
+      "declaredNutrients": [
+        "vitaminB12Mcg",
+        "folicAcidMcg"
+      ],
+      "category": "vitamin-b",
+      "base": "https://neuherbs.com",
+      "handle": "b12-vitamin-tablets-energy-circulation",
+      "variantIds": [
+        46152288469162
+      ],
+      "allowRetailMultipack": true,
+      "id": "vitamin-b-46152288469162"
+    },
+    {
+      "brand": "Neuherbs",
+      "product": "True Vitamin B12 with Folic Acid, Inositol and Botanicals",
+      "form": "Tablet",
+      "type": "Cyanocobalamin + folic acid",
+      "subclass": "B12 + folic acid combination",
+      "flavour": "Unflavoured",
+      "source": "Plant-labelled formulation; source authentication not independently tested",
+      "packCount": 60,
+      "servingUnits": 1,
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/True_vitamin_B12_9.webp?v=1774249905",
+      "labelSources": [
+        "https://neuherbs.com/products/b12-vitamin-tablets-energy-circulation",
+        "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/True_vitamin_B12_9.webp?v=1774249905"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official bottle panel per one tablet: B12(cyanocobalamin)2.2micrograms and folic acid129.41micrograms, with inositol100mg,Punarnava100mg and spirulina extract50mg.",
+      "notes": "The front plant/spirulina marketing is not treated as analytical proof of B12 source or bioavailability. The numeric payload and cyanocobalamin form come from the supplement facts.",
+      "packaging": "Brand-listed retail pack (60 tablets)",
+      "vitaminB12Mcg": 2.2,
+      "folicAcidMcg": 129.41,
+      "energyPerServing": 0.88,
+      "declaredNutrients": [
+        "vitaminB12Mcg",
+        "folicAcidMcg"
+      ],
+      "category": "folic-acid",
+      "base": "https://neuherbs.com",
+      "handle": "b12-vitamin-tablets-energy-circulation",
+      "variantIds": [
+        44928074416298
+      ],
+      "allowRetailMultipack": true,
+      "id": "folic-acid-44928074416298"
+    },
+    {
+      "brand": "Neuherbs",
+      "product": "True Vitamin B12 with Folic Acid, Inositol and Botanicals",
+      "form": "Tablet",
+      "type": "Cyanocobalamin + folic acid",
+      "subclass": "B12 + folic acid combination",
+      "flavour": "Unflavoured",
+      "source": "Plant-labelled formulation; source authentication not independently tested",
+      "packCount": 120,
+      "servingUnits": 1,
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/True_vitamin_B12_9.webp?v=1774249905",
+      "labelSources": [
+        "https://neuherbs.com/products/b12-vitamin-tablets-energy-circulation",
+        "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/True_vitamin_B12_9.webp?v=1774249905"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official bottle panel per one tablet: B12(cyanocobalamin)2.2micrograms and folic acid129.41micrograms, with inositol100mg,Punarnava100mg and spirulina extract50mg.",
+      "notes": "The front plant/spirulina marketing is not treated as analytical proof of B12 source or bioavailability. The numeric payload and cyanocobalamin form come from the supplement facts.",
+      "packaging": "Brand-listed retail pack (120 tablets)",
+      "vitaminB12Mcg": 2.2,
+      "folicAcidMcg": 129.41,
+      "energyPerServing": 0.88,
+      "declaredNutrients": [
+        "vitaminB12Mcg",
+        "folicAcidMcg"
+      ],
+      "category": "folic-acid",
+      "base": "https://neuherbs.com",
+      "handle": "b12-vitamin-tablets-energy-circulation",
+      "variantIds": [
+        46152288469162
+      ],
+      "allowRetailMultipack": true,
+      "id": "folic-acid-46152288469162"
+    },
+    {
+      "brand": "INLIFE",
+      "product": "Vitamin B12 with Folic Acid, B Vitamins and ALA",
+      "form": "Tablet",
+      "type": "Cyanocobalamin + folic acid and B vitamins",
+      "subclass": "B-vitamin combination with ALA and calcium",
+      "flavour": "Unflavoured",
+      "source": "Not specified",
+      "packCount": 240,
+      "servingUnits": 1,
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/supplementfacts_975fd089-77b0-47b3-ae3b-95fe4f7be022.jpg?v=1793699747",
+      "labelSources": [
+        "https://inlifehealthcare.com/products/inlife-vitamin-b12-folic-acid-supplement-rda",
+        "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/supplementfacts_975fd089-77b0-47b3-ae3b-95fe4f7be022.jpg?v=1793699747"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official panel per one tablet: B1 1.4mg,B5 5mg,B6 1.9mg,folic acid129.4micrograms,B12 2.2micrograms,calcium30mg;ALA25mg andinositol10mg are separate co-ingredients.",
+      "notes": "This is the RDA-labelled formulation, not the separate INLIFE1500microgram B12 product. Ingredient quantities are recorded separately without a combined vitamin-potency score.",
+      "packaging": "Brand-listed retail pack (240 tablets)",
+      "vitaminB1Mg": 1.4,
+      "vitaminB5Mg": 5,
+      "vitaminB6Mg": 1.9,
+      "folicAcidMcg": 129.4,
+      "vitaminB12Mcg": 2.2,
+      "calciumMg": 30,
+      "energyPerServing": 0.182,
+      "mineralBasis": "elemental",
+      "declaredNutrients": [
+        "vitaminB1Mg",
+        "vitaminB5Mg",
+        "vitaminB6Mg",
+        "folicAcidMcg",
+        "vitaminB12Mcg"
+      ],
+      "category": "vitamin-b",
+      "base": "https://inlifehealthcare.com",
+      "handle": "inlife-vitamin-b12-folic-acid-supplement-rda",
+      "variantIds": [
+        44488839463077
+      ],
+      "allowRetailMultipack": true,
+      "id": "vitamin-b-44488839463077"
+    },
+    {
+      "brand": "INLIFE",
+      "product": "Vitamin B12 with Folic Acid, B Vitamins and ALA",
+      "form": "Tablet",
+      "type": "Cyanocobalamin + folic acid and B vitamins",
+      "subclass": "B-vitamin combination with ALA and calcium",
+      "flavour": "Unflavoured",
+      "source": "Not specified",
+      "packCount": 120,
+      "servingUnits": 1,
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/supplementfacts_975fd089-77b0-47b3-ae3b-95fe4f7be022.jpg?v=1793699747",
+      "labelSources": [
+        "https://inlifehealthcare.com/products/inlife-vitamin-b12-folic-acid-supplement-rda",
+        "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/supplementfacts_975fd089-77b0-47b3-ae3b-95fe4f7be022.jpg?v=1793699747"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official panel per one tablet: B1 1.4mg,B5 5mg,B6 1.9mg,folic acid129.4micrograms,B12 2.2micrograms,calcium30mg;ALA25mg andinositol10mg are separate co-ingredients.",
+      "notes": "This is the RDA-labelled formulation, not the separate INLIFE1500microgram B12 product. Ingredient quantities are recorded separately without a combined vitamin-potency score.",
+      "packaging": "Brand-listed retail pack (120 tablets)",
+      "vitaminB1Mg": 1.4,
+      "vitaminB5Mg": 5,
+      "vitaminB6Mg": 1.9,
+      "folicAcidMcg": 129.4,
+      "vitaminB12Mcg": 2.2,
+      "calciumMg": 30,
+      "energyPerServing": 0.182,
+      "mineralBasis": "elemental",
+      "declaredNutrients": [
+        "vitaminB1Mg",
+        "vitaminB5Mg",
+        "vitaminB6Mg",
+        "folicAcidMcg",
+        "vitaminB12Mcg"
+      ],
+      "category": "vitamin-b",
+      "base": "https://inlifehealthcare.com",
+      "handle": "inlife-vitamin-b12-folic-acid-supplement-rda",
+      "variantIds": [
+        44488839430309
+      ],
+      "allowRetailMultipack": true,
+      "id": "vitamin-b-44488839430309"
+    },
+    {
+      "brand": "INLIFE",
+      "product": "Vitamin B12 with Folic Acid, B Vitamins and ALA",
+      "form": "Tablet",
+      "type": "Cyanocobalamin + folic acid and B vitamins",
+      "subclass": "B-vitamin combination with ALA and calcium",
+      "flavour": "Unflavoured",
+      "source": "Not specified",
+      "packCount": 240,
+      "servingUnits": 1,
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/supplementfacts_975fd089-77b0-47b3-ae3b-95fe4f7be022.jpg?v=1793699747",
+      "labelSources": [
+        "https://inlifehealthcare.com/products/inlife-vitamin-b12-folic-acid-supplement-rda",
+        "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/supplementfacts_975fd089-77b0-47b3-ae3b-95fe4f7be022.jpg?v=1793699747"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official panel per one tablet: B1 1.4mg,B5 5mg,B6 1.9mg,folic acid129.4micrograms,B12 2.2micrograms,calcium30mg;ALA25mg andinositol10mg are separate co-ingredients.",
+      "notes": "This is the RDA-labelled formulation, not the separate INLIFE1500microgram B12 product. Ingredient quantities are recorded separately without a combined vitamin-potency score.",
+      "packaging": "Brand-listed retail pack (240 tablets)",
+      "vitaminB1Mg": 1.4,
+      "vitaminB5Mg": 5,
+      "vitaminB6Mg": 1.9,
+      "folicAcidMcg": 129.4,
+      "vitaminB12Mcg": 2.2,
+      "calciumMg": 30,
+      "energyPerServing": 0.182,
+      "mineralBasis": "elemental",
+      "declaredNutrients": [
+        "vitaminB1Mg",
+        "vitaminB5Mg",
+        "vitaminB6Mg",
+        "folicAcidMcg",
+        "vitaminB12Mcg"
+      ],
+      "category": "folic-acid",
+      "base": "https://inlifehealthcare.com",
+      "handle": "inlife-vitamin-b12-folic-acid-supplement-rda",
+      "variantIds": [
+        44488839463077
+      ],
+      "allowRetailMultipack": true,
+      "id": "folic-acid-44488839463077"
+    },
+    {
+      "brand": "INLIFE",
+      "product": "Vitamin B12 with Folic Acid, B Vitamins and ALA",
+      "form": "Tablet",
+      "type": "Cyanocobalamin + folic acid and B vitamins",
+      "subclass": "B-vitamin combination with ALA and calcium",
+      "flavour": "Unflavoured",
+      "source": "Not specified",
+      "packCount": 120,
+      "servingUnits": 1,
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/supplementfacts_975fd089-77b0-47b3-ae3b-95fe4f7be022.jpg?v=1793699747",
+      "labelSources": [
+        "https://inlifehealthcare.com/products/inlife-vitamin-b12-folic-acid-supplement-rda",
+        "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/supplementfacts_975fd089-77b0-47b3-ae3b-95fe4f7be022.jpg?v=1793699747"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official panel per one tablet: B1 1.4mg,B5 5mg,B6 1.9mg,folic acid129.4micrograms,B12 2.2micrograms,calcium30mg;ALA25mg andinositol10mg are separate co-ingredients.",
+      "notes": "This is the RDA-labelled formulation, not the separate INLIFE1500microgram B12 product. Ingredient quantities are recorded separately without a combined vitamin-potency score.",
+      "packaging": "Brand-listed retail pack (120 tablets)",
+      "vitaminB1Mg": 1.4,
+      "vitaminB5Mg": 5,
+      "vitaminB6Mg": 1.9,
+      "folicAcidMcg": 129.4,
+      "vitaminB12Mcg": 2.2,
+      "calciumMg": 30,
+      "energyPerServing": 0.182,
+      "mineralBasis": "elemental",
+      "declaredNutrients": [
+        "vitaminB1Mg",
+        "vitaminB5Mg",
+        "vitaminB6Mg",
+        "folicAcidMcg",
+        "vitaminB12Mcg"
+      ],
+      "category": "folic-acid",
+      "base": "https://inlifehealthcare.com",
+      "handle": "inlife-vitamin-b12-folic-acid-supplement-rda",
+      "variantIds": [
+        44488839430309
+      ],
+      "allowRetailMultipack": true,
+      "id": "folic-acid-44488839430309"
+    },
+    {
+      "category": "l-arginine",
+      "brand": "Pure Nutrition",
+      "base": "https://purenutrition.in",
+      "handle": "l-arginine-supplement-1500mg-60-capsules",
+      "source": "Not specified",
+      "packaging": "Single retail pack",
+      "labelChecked": "2026-11-19",
+      "variantIds": [
+        "48548921639166"
+      ],
+      "flavour": "Unflavoured",
+      "product": "L-Arginine HCl + Citrulline + Caffeine",
+      "form": "Capsule",
+      "type": "L-Arginine hydrochloride",
+      "subclass": "Arginine HCl with citrulline, beetroot and caffeine",
+      "packCount": 60,
+      "servingUnits": 2,
+      "arginineMg": null,
+      "arginineCompoundMg": 1000,
+      "citrullineMg": 100,
+      "caffeineMg": 70,
+      "energyPerServing": 0.2,
+      "declaredNutrients": [
+        "arginineMg",
+        "arginineCompoundMg",
+        "citrullineMg",
+        "caffeineMg"
+      ],
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0618/9629/4654/files/L-ARGININE_60_Caps_ROP.png?v=1794482044",
+      "basis": "Exact 60-capsule manufacturer panel: two capsules (1500 mg total capsule serving) contain L-arginine HCl 1000 mg, L-citrulline 100 mg, beetroot extract 80 mg and caffeine 70 mg. Energy 0.2 kcal per two capsules.",
+      "notes": "The 1500 mg retail title describes the full serving, not 1500 mg free arginine. Arginine HCl compound mass is recorded separately; free arginine is not inferred. Contains caffeine. Beetroot extract is not treated as quantified nitrate.",
+      "additionalIngredients": [
+        {
+          "name": "Beetroot extract",
+          "amount": 80,
+          "unit": "mg",
+          "basis": "per two-capsule label serving"
+        }
+      ],
+      "servingGrams": null,
+      "grams": null,
+      "labelSources": [
+        "https://cdn.shopify.com/s/files/1/0618/9629/4654/files/L-ARGININE_60_Caps_ROP.png?v=1794482044"
+      ],
+      "id": "l-arginine-48548921639166"
+    },
+    {
+      "category": "l-arginine",
+      "brand": "Carbamide Forte",
+      "base": "https://mycf.in",
+      "handle": "l-arginine-hcl-1000mg-supplement",
+      "source": "Not specified",
+      "packaging": "Single retail pack",
+      "labelChecked": "2026-11-19",
+      "variantIds": [
+        "43308550586481"
+      ],
+      "flavour": "Unflavoured",
+      "product": "L-Arginine HCl 1000 mg + Chromium Picolinate",
+      "form": "Capsule",
+      "type": "L-Arginine hydrochloride",
+      "subclass": "Arginine HCl with chromium picolinate",
+      "packCount": 10,
+      "servingUnits": 2,
+      "arginineMg": null,
+      "arginineCompoundMg": 1000,
+      "declaredNutrients": [
+        "arginineMg",
+        "arginineCompoundMg"
+      ],
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B0CN2RS1J4.PT01.jpg?v=1780643980",
+      "basis": "Official specific 10-capsule panel states two capsules per serving and L-arginine HCl 1000 mg per serving.",
+      "notes": "Also contains chromium picolinate 200 micrograms per serving; this is the declared compound, not an inferred elemental chromium quantity. Free arginine and energy are unverified. Marketing efficacy and testing statements are not independent certification.",
+      "additionalIngredients": [
+        {
+          "name": "Chromium picolinate compound",
+          "amount": 200,
+          "unit": "µg",
+          "basis": "per two-capsule label serving"
+        }
+      ],
+      "servingGrams": null,
+      "grams": null,
+      "energyPerServing": null,
+      "labelSources": [
+        "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B0CN2RS1J4.PT01.jpg?v=1780643980"
+      ],
+      "id": "l-arginine-43308550586481"
+    },
+    {
+      "category": "l-carnitine",
+      "brand": "Carbamide Forte",
+      "base": "https://mycf.in",
+      "handle": "l-carnitine-1000-mg-for-active-lifestyles-training-support",
+      "source": "Not specified",
+      "packaging": "Single retail pack",
+      "labelChecked": "2026-11-19",
+      "variantIds": [
+        "43297873887345"
+      ],
+      "flavour": "Unflavoured",
+      "product": "Carni-Von L-Carnitine L-Tartrate 1000 mg",
+      "form": "Capsule",
+      "type": "L-Carnitine L-tartrate",
+      "subclass": "L-carnitine tartrate with chromium picolinate",
+      "packCount": 10,
+      "servingUnits": 2,
+      "carnitineMg": null,
+      "carnitineCompoundMg": 1000,
+      "declaredNutrients": [
+        "carnitineMg",
+        "carnitineCompoundMg"
+      ],
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/2_c93cf7eb-da1f-4b02-bffe-c17dc9dd9244.jpg?v=1780386334",
+      "basis": "Official 10-capsule pack panel states five servings and two capsules per serving, containing L-carnitine L-tartrate 1000 mg.",
+      "notes": "Sold out at the observed quoted price. The title shortens the material to L-carnitine, while the panel declares tartrate compound. Free-carnitine equivalent and calories are withheld. Also declares chromium picolinate compound 200 micrograms, not elemental chromium.",
+      "additionalIngredients": [
+        {
+          "name": "Chromium picolinate compound",
+          "amount": 200,
+          "unit": "µg",
+          "basis": "per two-capsule label serving"
+        }
+      ],
+      "servingGrams": null,
+      "grams": null,
+      "energyPerServing": null,
+      "labelSources": [
+        "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/2_c93cf7eb-da1f-4b02-bffe-c17dc9dd9244.jpg?v=1780386334"
+      ],
+      "id": "l-carnitine-43297873887345"
+    },
+    {
+      "category": "l-carnitine",
+      "brand": "Carbamide Forte",
+      "base": "https://mycf.in",
+      "handle": "l-carnitine-powder-for-daily-training-performance-support",
+      "source": "Not specified",
+      "packaging": "Single retail pack",
+      "labelChecked": "2026-11-19",
+      "variantIds": [
+        "67625391816817"
+      ],
+      "flavour": "Blackcurrant",
+      "product": "L-Carnitine L-Tartrate Powder 2000 mg",
+      "form": "Powder",
+      "type": "L-Carnitine L-tartrate",
+      "subclass": "L-carnitine tartrate powder with chromium picolinate",
+      "grams": 150,
+      "servingGrams": 5,
+      "carnitineMg": null,
+      "carnitineCompoundMg": 2000,
+      "energyPerServing": 5.25,
+      "declaredNutrients": [
+        "carnitineMg",
+        "carnitineCompoundMg"
+      ],
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B0CBSH83YR.PT01.jpg?v=1791357450",
+      "basis": "Exact Blackcurrant 150 g bottle and manufacturer facts panel: one 5 g scoop provides L-carnitine L-tartrate 2000 mg, energy 5.25 kcal and chromium picolinate 200 micrograms.",
+      "notes": "Tartrate compound mass is not converted to free L-carnitine. Net 150 g and label 5 g serving are independently recorded; the marketed 30-serving count is not used as a substitute for net weight. Chromium picolinate compound mass is not elemental chromium.",
+      "additionalIngredients": [
+        {
+          "name": "Chromium picolinate compound",
+          "amount": 200,
+          "unit": "µg",
+          "basis": "per 5 g label serving"
+        }
+      ],
+      "packCount": null,
+      "servingUnits": null,
+      "labelSources": [
+        "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B0CBSH83YR.PT01.jpg?v=1791357450"
+      ],
+      "id": "l-carnitine-67625391816817"
+    },
+    {
+      "category": "bcaa",
+      "brand": "NAKPRO",
+      "base": "https://nakpro.com",
+      "handle": "nakpro-bcaa-6000-amino-acids",
+      "source": "Not specified",
+      "packaging": "Single retail pack",
+      "labelChecked": "2026-11-19",
+      "variantIds": [
+        "39632132472912"
+      ],
+      "flavour": "Blueberry",
+      "product": "BCAA 6000 with Creatine",
+      "form": "Powder",
+      "type": "BCAA 2:1:1 blend",
+      "subclass": "BCAA with creatine monohydrate",
+      "grams": 200,
+      "servingGrams": 10,
+      "bcaaMg": 6000,
+      "leucineMg": 3000,
+      "isoleucineMg": 1500,
+      "valineMg": 1500,
+      "creatineMg": 1500,
+      "energyPerServing": 6.04,
+      "declaredNutrients": [
+        "bcaaMg",
+        "leucineMg",
+        "isoleucineMg",
+        "valineMg",
+        "creatineMg"
+      ],
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0237/4497/0832/files/blueberry_-_02.png?v=1746927095",
+      "basis": "Official Blueberry pouch label states two heaping scoops (10 g), 6000 mg BCAA split as 3000 mg leucine, 1500 mg isoleucine and 1500 mg valine, plus 1500 mg creatine and 6.04 kcal. Exact chosen pack weight comes from the selected 200 g or 400 g variant.",
+      "notes": "Sold out at the observed price. The published Blueberry pouch profile is used across the same-flavour pouch sizes; no separate batch test is claimed. BCAA is the sum of three components, not an additional amino-acid quantity. Added creatine contributes to stack overlap.",
+      "packCount": null,
+      "servingUnits": null,
+      "labelSources": [
+        "https://cdn.shopify.com/s/files/1/0237/4497/0832/files/blueberry_-_02.png?v=1746927095"
+      ],
+      "id": "bcaa-39632132472912"
+    },
+    {
+      "category": "bcaa",
+      "brand": "NAKPRO",
+      "base": "https://nakpro.com",
+      "handle": "nakpro-bcaa-6000-amino-acids",
+      "source": "Not specified",
+      "packaging": "Single retail pack",
+      "labelChecked": "2026-11-19",
+      "variantIds": [
+        "39632132603984"
+      ],
+      "flavour": "Blueberry",
+      "product": "BCAA 6000 with Creatine",
+      "form": "Powder",
+      "type": "BCAA 2:1:1 blend",
+      "subclass": "BCAA with creatine monohydrate",
+      "grams": 400,
+      "servingGrams": 10,
+      "bcaaMg": 6000,
+      "leucineMg": 3000,
+      "isoleucineMg": 1500,
+      "valineMg": 1500,
+      "creatineMg": 1500,
+      "energyPerServing": 6.04,
+      "declaredNutrients": [
+        "bcaaMg",
+        "leucineMg",
+        "isoleucineMg",
+        "valineMg",
+        "creatineMg"
+      ],
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0237/4497/0832/files/blueberry_-_02.png?v=1746927095",
+      "basis": "Official Blueberry pouch label states two heaping scoops (10 g), 6000 mg BCAA split as 3000 mg leucine, 1500 mg isoleucine and 1500 mg valine, plus 1500 mg creatine and 6.04 kcal. Exact chosen pack weight comes from the selected 200 g or 400 g variant.",
+      "notes": "Sold out at the observed price. The published Blueberry pouch profile is used across the same-flavour pouch sizes; no separate batch test is claimed. BCAA is the sum of three components, not an additional amino-acid quantity. Added creatine contributes to stack overlap.",
+      "packCount": null,
+      "servingUnits": null,
+      "labelSources": [
+        "https://cdn.shopify.com/s/files/1/0237/4497/0832/files/blueberry_-_02.png?v=1746927095"
+      ],
+      "id": "bcaa-39632132603984"
+    },
+    {
+      "category": "eaa",
+      "brand": "Scitron",
+      "base": "https://scitron.com",
+      "handle": "nitro-series-eaa-9-essential-amino-acids-6-5g-eaa-4-8g-bcaa-0g-sugar",
+      "source": "Not specified",
+      "packaging": "Single retail pack",
+      "labelChecked": "2026-11-19",
+      "variantIds": [
+        "42939769749657"
+      ],
+      "flavour": "Blue Raspberry",
+      "product": "Nitro Series EAA",
+      "form": "Powder",
+      "type": "All nine EAA blend",
+      "subclass": "EAA with BCAA subset",
+      "grams": 300,
+      "servingGrams": 10,
+      "eaaMg": 6560,
+      "bcaaMg": 4800,
+      "leucineMg": 2400,
+      "isoleucineMg": 1200,
+      "valineMg": 1200,
+      "energyPerServing": 2.43,
+      "declaredNutrients": [
+        "eaaMg",
+        "bcaaMg",
+        "leucineMg",
+        "isoleucineMg",
+        "valineMg"
+      ],
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0591/3156/0089/files/bluerasberryR3.png?v=1712576907",
+      "basis": "The exact flavour pictured manufacturer panel states one 10 g scoop, EAA 6.56 g, leucine 2.4 g, isoleucine 1.2 g, valine 1.2 g, and 2.43 kcal. Net 300 g is the selected variant.",
+      "notes": "Sold out at the observed price. The 6.56 g panel value takes precedence over rounded 6.5 g headline wording. The 4.8 g BCAA amount is the three stated components within the EAA total, not an additional 4.8 g. Nine component amounts sum to the panel EAA total.",
+      "packCount": null,
+      "servingUnits": null,
+      "labelSources": [
+        "https://cdn.shopify.com/s/files/1/0591/3156/0089/files/bluerasberryR3.png?v=1712576907"
+      ],
+      "id": "eaa-42939769749657"
+    },
+    {
+      "category": "eaa",
+      "brand": "Scitron",
+      "base": "https://scitron.com",
+      "handle": "nitro-series-eaa-9-essential-amino-acids-6-5g-eaa-4-8g-bcaa-0g-sugar",
+      "source": "Not specified",
+      "packaging": "Single retail pack",
+      "labelChecked": "2026-11-19",
+      "variantIds": [
+        "42939769782425"
+      ],
+      "flavour": "Pineapple Strawberry",
+      "product": "Nitro Series EAA",
+      "form": "Powder",
+      "type": "All nine EAA blend",
+      "subclass": "EAA with BCAA subset",
+      "grams": 300,
+      "servingGrams": 10,
+      "eaaMg": 6560,
+      "bcaaMg": 4800,
+      "leucineMg": 2400,
+      "isoleucineMg": 1200,
+      "valineMg": 1200,
+      "energyPerServing": 2.43,
+      "declaredNutrients": [
+        "eaaMg",
+        "bcaaMg",
+        "leucineMg",
+        "isoleucineMg",
+        "valineMg"
+      ],
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0591/3156/0089/files/pineappleR3.png?v=1712577145",
+      "basis": "The exact flavour pictured manufacturer panel states one 10 g scoop, EAA 6.56 g, leucine 2.4 g, isoleucine 1.2 g, valine 1.2 g, and 2.43 kcal. Net 300 g is the selected variant.",
+      "notes": "Sold out at the observed price. The 6.56 g panel value takes precedence over rounded 6.5 g headline wording. The 4.8 g BCAA amount is the three stated components within the EAA total, not an additional 4.8 g. Nine component amounts sum to the panel EAA total.",
+      "packCount": null,
+      "servingUnits": null,
+      "labelSources": [
+        "https://cdn.shopify.com/s/files/1/0591/3156/0089/files/pineappleR3.png?v=1712577145"
+      ],
+      "id": "eaa-42939769782425"
+    },
+    {
+      "category": "pre-workout",
+      "brand": "NAKPRO",
+      "base": "https://nakpro.com",
+      "handle": "nakpro-pre-workout-supplement-powder",
+      "source": "Not specified",
+      "packaging": "Single retail pack",
+      "labelChecked": "2026-11-19",
+      "variantIds": [
+        "39948840861776"
+      ],
+      "flavour": "Blueberry",
+      "product": "Pre-Workout Energizing Blend",
+      "form": "Powder",
+      "type": "Caffeinated multi-ingredient",
+      "subclass": "Creatine + amino acids + caffeine",
+      "grams": 100,
+      "servingGrams": 5,
+      "caffeineMg": 100,
+      "caffeineAnhydrousMg": null,
+      "citrullineMg": 1200,
+      "betaAlanineMg": 1000,
+      "creatineMg": 1200,
+      "arginineMg": 200,
+      "energyPerServing": 2.64,
+      "stimulantStatus": "Contains caffeine",
+      "declaredNutrients": [
+        "caffeineMg",
+        "citrullineMg",
+        "betaAlanineMg",
+        "creatineMg",
+        "arginineMg"
+      ],
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0237/4497/0832/files/02_833bb133-2f8a-47c3-842e-2e30ec531e5c.png?v=1746927038",
+      "basis": "Official Blueberry pouch panel gives one heaping scoop (5 g), creatine monohydrate 1.2 g, L-citrulline 1.2 g, beta-alanine 1 g, L-arginine 0.2 g, acetyl cysteine 0.2 g, caffeine 0.1 g and energy 2.64 kcal. Exact chosen net 100 g or 250 g pack comes from variant selection.",
+      "notes": "The same-flavour published pouch profile is used across the selected pack weights. Caffeine is a declared 100 mg ingredient, with no unquantified botanical caffeine source listed. Caffeine anhydrous specifically is not stated. The label also includes N-acetyl-L-cysteine 200 mg, kept as a separate ingredient. Manufacturer exercise instructions are not personal intake advice.",
+      "additionalIngredients": [
+        {
+          "name": "N-acetyl-L-cysteine",
+          "amount": 200,
+          "unit": "mg",
+          "basis": "per 5 g label serving"
+        }
+      ],
+      "packCount": null,
+      "servingUnits": null,
+      "labelSources": [
+        "https://cdn.shopify.com/s/files/1/0237/4497/0832/files/02_833bb133-2f8a-47c3-842e-2e30ec531e5c.png?v=1746927038"
+      ],
+      "id": "pre-workout-39948840861776"
+    },
+    {
+      "category": "pre-workout",
+      "brand": "NAKPRO",
+      "base": "https://nakpro.com",
+      "handle": "nakpro-pre-workout-supplement-powder",
+      "source": "Not specified",
+      "packaging": "Single retail pack",
+      "labelChecked": "2026-11-19",
+      "variantIds": [
+        "39948840894544"
+      ],
+      "flavour": "Blueberry",
+      "product": "Pre-Workout Energizing Blend",
+      "form": "Powder",
+      "type": "Caffeinated multi-ingredient",
+      "subclass": "Creatine + amino acids + caffeine",
+      "grams": 250,
+      "servingGrams": 5,
+      "caffeineMg": 100,
+      "caffeineAnhydrousMg": null,
+      "citrullineMg": 1200,
+      "betaAlanineMg": 1000,
+      "creatineMg": 1200,
+      "arginineMg": 200,
+      "energyPerServing": 2.64,
+      "stimulantStatus": "Contains caffeine",
+      "declaredNutrients": [
+        "caffeineMg",
+        "citrullineMg",
+        "betaAlanineMg",
+        "creatineMg",
+        "arginineMg"
+      ],
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0237/4497/0832/files/02_833bb133-2f8a-47c3-842e-2e30ec531e5c.png?v=1746927038",
+      "basis": "Official Blueberry pouch panel gives one heaping scoop (5 g), creatine monohydrate 1.2 g, L-citrulline 1.2 g, beta-alanine 1 g, L-arginine 0.2 g, acetyl cysteine 0.2 g, caffeine 0.1 g and energy 2.64 kcal. Exact chosen net 100 g or 250 g pack comes from variant selection.",
+      "notes": "The same-flavour published pouch profile is used across the selected pack weights. Caffeine is a declared 100 mg ingredient, with no unquantified botanical caffeine source listed. Caffeine anhydrous specifically is not stated. The label also includes N-acetyl-L-cysteine 200 mg, kept as a separate ingredient. Manufacturer exercise instructions are not personal intake advice.",
+      "additionalIngredients": [
+        {
+          "name": "N-acetyl-L-cysteine",
+          "amount": 200,
+          "unit": "mg",
+          "basis": "per 5 g label serving"
+        }
+      ],
+      "packCount": null,
+      "servingUnits": null,
+      "labelSources": [
+        "https://cdn.shopify.com/s/files/1/0237/4497/0832/files/02_833bb133-2f8a-47c3-842e-2e30ec531e5c.png?v=1746927038"
+      ],
+      "id": "pre-workout-39948840894544"
+    },
+    {
+      "category": "citrulline",
+      "brand": "NAKPRO",
+      "base": "https://nakpro.com",
+      "handle": "nakpro-l-citrulline-powder",
+      "source": "Not specified",
+      "packaging": "Single retail pack",
+      "labelChecked": "2026-11-19",
+      "variantIds": [
+        "41877870837840"
+      ],
+      "flavour": "Unflavoured",
+      "product": "L-Citrulline Powder",
+      "form": "Powder",
+      "type": "L-Citrulline",
+      "subclass": "Single ingredient powder",
+      "grams": 100,
+      "servingGrams": 2,
+      "citrullineMg": 2000,
+      "citrullineMalateMg": null,
+      "energyPerServing": 0,
+      "declaredNutrients": [
+        "citrullineMg"
+      ],
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0237/4497/0832/files/02_unflavoured_4b7d71b4-7e62-4e84-b8b8-5946a4ad80f3.jpg?v=1777117839",
+      "basis": "Exact Unflavoured 100 g pouch panel states one heaping scoop (2 g), zero labelled energy and 2 g of the named ingredient per serving.",
+      "notes": "Free L-citrulline and citrulline DL-malate compound are separate forms. No malate-to-free-citrulline conversion is applied; the ratio does not establish an equivalent clinical quantity.",
+      "packCount": null,
+      "servingUnits": null,
+      "labelSources": [
+        "https://cdn.shopify.com/s/files/1/0237/4497/0832/files/02_unflavoured_4b7d71b4-7e62-4e84-b8b8-5946a4ad80f3.jpg?v=1777117839"
+      ],
+      "id": "citrulline-41877870837840"
+    },
+    {
+      "category": "citrulline",
+      "brand": "NAKPRO",
+      "base": "https://nakpro.com",
+      "handle": "nakpro-citrulline-malate-powder",
+      "source": "Not specified",
+      "packaging": "Single retail pack",
+      "labelChecked": "2026-11-19",
+      "variantIds": [
+        "41877873721424"
+      ],
+      "flavour": "Unflavoured",
+      "product": "L-Citrulline DL-malate 2:1 Powder",
+      "form": "Powder",
+      "type": "L-Citrulline DL-malate 2:1",
+      "subclass": "Single ingredient powder",
+      "grams": 100,
+      "servingGrams": 2,
+      "citrullineMalateMg": 2000,
+      "citrullineMg": null,
+      "energyPerServing": 0,
+      "declaredNutrients": [
+        "citrullineMalateMg"
+      ],
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0237/4497/0832/files/02_unflavoured_1be4131c-6e2f-458b-b48a-4fc97ecf99e0.jpg?v=1777353020",
+      "basis": "Exact Unflavoured 100 g pouch panel states one heaping scoop (2 g), zero labelled energy and 2 g of the named ingredient per serving. Malate ingredient declaration explicitly gives a 2:1 ratio.",
+      "notes": "Free L-citrulline and citrulline DL-malate compound are separate forms. No malate-to-free-citrulline conversion is applied; the ratio does not establish an equivalent clinical quantity.",
+      "packCount": null,
+      "servingUnits": null,
+      "labelSources": [
+        "https://cdn.shopify.com/s/files/1/0237/4497/0832/files/02_unflavoured_1be4131c-6e2f-458b-b48a-4fc97ecf99e0.jpg?v=1777353020"
+      ],
+      "id": "citrulline-41877873721424"
+    },
+    {
+      "category": "beta-alanine",
+      "brand": "BigMuscles Nutrition",
+      "base": "https://www.bigmusclesnutrition.com",
+      "handle": "beta-alanine-peptide",
+      "source": "Not specified",
+      "packaging": "Single retail pack",
+      "labelChecked": "2026-11-19",
+      "variantIds": [
+        "44106715398243"
+      ],
+      "flavour": "Blueberry",
+      "product": "Beta-Alanine Peptide+",
+      "form": "Powder",
+      "type": "Beta-alanine blend",
+      "subclass": "Beta-alanine with amino acids, mineral compounds and vitamins",
+      "grams": 150,
+      "servingGrams": 5,
+      "betaAlanineMg": 2500,
+      "vitaminDIu": 600,
+      "vitaminCMg": 80,
+      "vitaminB3Mg": 10,
+      "vitaminB6Mg": 2,
+      "calciumMg": 83,
+      "mineralBasis": "elemental",
+      "magnesiumMg": null,
+      "energyPerServing": 7,
+      "declaredNutrients": [
+        "betaAlanineMg",
+        "vitaminDIu",
+        "vitaminCMg",
+        "vitaminB3Mg",
+        "vitaminB6Mg",
+        "calciumMg",
+        "magnesiumMg"
+      ],
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0291/3743/6771/files/Blueberry_2.png?v=1775824275",
+      "basis": "Specific flavour manufacturer panel: one 5 g scoop gives beta-alanine 2500 mg, vitamin D3 600 IU, vitamin C 80 mg, B3 10 mg, B6 2 mg, labelled calcium (as carbonate) 83 mg and 7 kcal. Exact net pack is 150 g.",
+      "notes": "This is a blend, not pure beta-alanine. The same panel separately lists magnesium citrate 500 mg and trimagnesium phosphate 500 mg; elemental magnesium is not stated and is not inferred or replaced by their combined mass. Also lists L-tyrosine 450 mg and L-theanine 150 mg per serving. Peptide+ wording does not identify a quantified peptide ingredient or establish superior potency.",
+      "additionalIngredients": [
+        {
+          "name": "Magnesium citrate compound",
+          "amount": 500,
+          "unit": "mg",
+          "basis": "per 5 g label serving"
+        },
+        {
+          "name": "Trimagnesium phosphate compound",
+          "amount": 500,
+          "unit": "mg",
+          "basis": "per 5 g label serving"
+        },
+        {
+          "name": "L-Tyrosine",
+          "amount": 450,
+          "unit": "mg",
+          "basis": "per 5 g label serving"
+        },
+        {
+          "name": "L-Theanine",
+          "amount": 150,
+          "unit": "mg",
+          "basis": "per 5 g label serving"
+        }
+      ],
+      "packCount": null,
+      "servingUnits": null,
+      "labelSources": [
+        "https://cdn.shopify.com/s/files/1/0291/3743/6771/files/Blueberry_2.png?v=1775824275"
+      ],
+      "id": "beta-alanine-44106715398243"
+    },
+    {
+      "category": "beta-alanine",
+      "brand": "BigMuscles Nutrition",
+      "base": "https://www.bigmusclesnutrition.com",
+      "handle": "beta-alanine-peptide",
+      "source": "Not specified",
+      "packaging": "Single retail pack",
+      "labelChecked": "2026-11-19",
+      "variantIds": [
+        "44106715365475"
+      ],
+      "flavour": "Orange Crush",
+      "product": "Beta-Alanine Peptide+",
+      "form": "Powder",
+      "type": "Beta-alanine blend",
+      "subclass": "Beta-alanine with amino acids, mineral compounds and vitamins",
+      "grams": 150,
+      "servingGrams": 5,
+      "betaAlanineMg": 2500,
+      "vitaminDIu": 600,
+      "vitaminCMg": 80,
+      "vitaminB3Mg": 10,
+      "vitaminB6Mg": 2,
+      "calciumMg": 83,
+      "mineralBasis": "elemental",
+      "magnesiumMg": null,
+      "energyPerServing": 7,
+      "declaredNutrients": [
+        "betaAlanineMg",
+        "vitaminDIu",
+        "vitaminCMg",
+        "vitaminB3Mg",
+        "vitaminB6Mg",
+        "calciumMg",
+        "magnesiumMg"
+      ],
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0291/3743/6771/files/Orange_Crush_2_b0c52a65-87f5-43ff-9bc4-4e6a8492f64c.png?v=1776156785",
+      "basis": "Specific flavour manufacturer panel: one 5 g scoop gives beta-alanine 2500 mg, vitamin D3 600 IU, vitamin C 80 mg, B3 10 mg, B6 2 mg, labelled calcium (as carbonate) 83 mg and 7 kcal. Exact net pack is 150 g.",
+      "notes": "This is a blend, not pure beta-alanine. The same panel separately lists magnesium citrate 500 mg and trimagnesium phosphate 500 mg; elemental magnesium is not stated and is not inferred or replaced by their combined mass. Also lists L-tyrosine 450 mg and L-theanine 150 mg per serving. Peptide+ wording does not identify a quantified peptide ingredient or establish superior potency.",
+      "additionalIngredients": [
+        {
+          "name": "Magnesium citrate compound",
+          "amount": 500,
+          "unit": "mg",
+          "basis": "per 5 g label serving"
+        },
+        {
+          "name": "Trimagnesium phosphate compound",
+          "amount": 500,
+          "unit": "mg",
+          "basis": "per 5 g label serving"
+        },
+        {
+          "name": "L-Tyrosine",
+          "amount": 450,
+          "unit": "mg",
+          "basis": "per 5 g label serving"
+        },
+        {
+          "name": "L-Theanine",
+          "amount": 150,
+          "unit": "mg",
+          "basis": "per 5 g label serving"
+        }
+      ],
+      "packCount": null,
+      "servingUnits": null,
+      "labelSources": [
+        "https://cdn.shopify.com/s/files/1/0291/3743/6771/files/Orange_Crush_2_b0c52a65-87f5-43ff-9bc4-4e6a8492f64c.png?v=1776156785"
+      ],
+      "id": "beta-alanine-44106715365475"
+    },
+    {
+      "category": "taurine",
+      "brand": "NutriJa",
+      "base": "https://nutrija.com",
+      "kind": "magento-configurable",
+      "productUrl": "https://nutrija.com/taurine",
+      "variantId": "47",
+      "variantIds": [
+        "47"
+      ],
+      "variantOptions": {
+        "140": "8"
+      },
+      "cacheKey": "nutrija-taurine",
+      "product": "Taurine",
+      "form": "Powder",
+      "source": "Not specified",
+      "packaging": "Single retail pack",
+      "packCount": null,
+      "servingUnits": null,
+      "grams": 100,
+      "flavour": "Unflavoured",
+      "labelChecked": "2026-11-19",
+      "nutritionUrl": "https://nutrija.com/taurine",
+      "labelSources": [
+        "https://nutrija.com/taurine"
+      ],
+      "energyPerServing": null,
+      "servingGrams": 2,
+      "type": "L-Taurine",
+      "subclass": "Single ingredient powder",
+      "taurineMg": 2000,
+      "basis": "Official supplement-facts table states 1 scoop and 2000 mg free-form L-taurine; directions specify approximately 2 g. The net pack comes from the exact size option.",
+      "notes": "Single-ingredient amount follows the manufacturer facts table; batch assay and energy were not independently established. Approximate marketed serving counts do not replace net powder mass. Official exact child finalPrice is published inclusive of tax in INR, but child-level availability is absent from public configurable data; stock must be confirmed.",
+      "declaredNutrients": [
+        "taurineMg"
+      ],
+      "variantUrl": "https://nutrija.com/taurine?super_attribute%5B140%5D=8",
+      "id": "taurine-nutrija-47"
+    },
+    {
+      "category": "taurine",
+      "brand": "NutriJa",
+      "base": "https://nutrija.com",
+      "kind": "magento-configurable",
+      "productUrl": "https://nutrija.com/taurine",
+      "variantId": "1090",
+      "variantIds": [
+        "1090"
+      ],
+      "variantOptions": {
+        "140": "12"
+      },
+      "cacheKey": "nutrija-taurine",
+      "product": "Taurine",
+      "form": "Powder",
+      "source": "Not specified",
+      "packaging": "Single retail pack",
+      "packCount": null,
+      "servingUnits": null,
+      "grams": 250,
+      "flavour": "Unflavoured",
+      "labelChecked": "2026-11-19",
+      "nutritionUrl": "https://nutrija.com/taurine",
+      "labelSources": [
+        "https://nutrija.com/taurine"
+      ],
+      "energyPerServing": null,
+      "servingGrams": 2,
+      "type": "L-Taurine",
+      "subclass": "Single ingredient powder",
+      "taurineMg": 2000,
+      "basis": "Official supplement-facts table states 1 scoop and 2000 mg free-form L-taurine; directions specify approximately 2 g. The net pack comes from the exact size option.",
+      "notes": "Single-ingredient amount follows the manufacturer facts table; batch assay and energy were not independently established. Approximate marketed serving counts do not replace net powder mass. Official exact child finalPrice is published inclusive of tax in INR, but child-level availability is absent from public configurable data; stock must be confirmed.",
+      "declaredNutrients": [
+        "taurineMg"
+      ],
+      "variantUrl": "https://nutrija.com/taurine?super_attribute%5B140%5D=12",
+      "id": "taurine-nutrija-1090"
+    },
+    {
+      "category": "betaine",
+      "brand": "NutriJa",
+      "base": "https://nutrija.com",
+      "kind": "magento-configurable",
+      "productUrl": "https://nutrija.com/trimethylglycine-tmg",
+      "variantId": "136",
+      "variantIds": [
+        "136"
+      ],
+      "variantOptions": {
+        "140": "8"
+      },
+      "cacheKey": "nutrija-betaine",
+      "product": "Trimethylglycine (TMG)",
+      "form": "Powder",
+      "source": "Not specified",
+      "packaging": "Single retail pack",
+      "packCount": null,
+      "servingUnits": null,
+      "grams": 100,
+      "flavour": "Unflavoured",
+      "labelChecked": "2026-11-19",
+      "nutritionUrl": "https://nutrija.com/trimethylglycine-tmg",
+      "labelSources": [
+        "https://nutrija.com/trimethylglycine-tmg"
+      ],
+      "energyPerServing": null,
+      "servingGrams": 1,
+      "type": "Betaine anhydrous (TMG)",
+      "subclass": "Single ingredient trimethylglycine powder",
+      "betaineMg": 1000,
+      "betaineHclMg": null,
+      "basis": "Official supplement-facts table states 1/2 teaspoon (1000 mg), with 1000 mg trimethylglycine (betaine anhydrous) per serving. Net weight comes from the selected size option.",
+      "notes": "TMG/betaine anhydrous is not betaine HCl. An old linked certificate or protein nitrogen assay is not used as proof of current TMG potency. Energy is unverified. Official exact child finalPrice is published inclusive of tax in INR, but child-level availability is absent from public configurable data; stock must be confirmed.",
+      "declaredNutrients": [
+        "betaineMg"
+      ],
+      "variantUrl": "https://nutrija.com/trimethylglycine-tmg?super_attribute%5B140%5D=8",
+      "id": "betaine-nutrija-136"
+    },
+    {
+      "category": "betaine",
+      "brand": "NutriJa",
+      "base": "https://nutrija.com",
+      "kind": "magento-configurable",
+      "productUrl": "https://nutrija.com/trimethylglycine-tmg",
+      "variantId": "1786",
+      "variantIds": [
+        "1786"
+      ],
+      "variantOptions": {
+        "140": "12"
+      },
+      "cacheKey": "nutrija-betaine",
+      "product": "Trimethylglycine (TMG)",
+      "form": "Powder",
+      "source": "Not specified",
+      "packaging": "Single retail pack",
+      "packCount": null,
+      "servingUnits": null,
+      "grams": 250,
+      "flavour": "Unflavoured",
+      "labelChecked": "2026-11-19",
+      "nutritionUrl": "https://nutrija.com/trimethylglycine-tmg",
+      "labelSources": [
+        "https://nutrija.com/trimethylglycine-tmg"
+      ],
+      "energyPerServing": null,
+      "servingGrams": 1,
+      "type": "Betaine anhydrous (TMG)",
+      "subclass": "Single ingredient trimethylglycine powder",
+      "betaineMg": 1000,
+      "betaineHclMg": null,
+      "basis": "Official supplement-facts table states 1/2 teaspoon (1000 mg), with 1000 mg trimethylglycine (betaine anhydrous) per serving. Net weight comes from the selected size option.",
+      "notes": "TMG/betaine anhydrous is not betaine HCl. An old linked certificate or protein nitrogen assay is not used as proof of current TMG potency. Energy is unverified. Official exact child finalPrice is published inclusive of tax in INR, but child-level availability is absent from public configurable data; stock must be confirmed.",
+      "declaredNutrients": [
+        "betaineMg"
+      ],
+      "variantUrl": "https://nutrija.com/trimethylglycine-tmg?super_attribute%5B140%5D=12",
+      "id": "betaine-nutrija-1786"
+    },
+    {
+      "category": "hmb",
+      "brand": "NutriJa",
+      "base": "https://nutrija.com",
+      "kind": "magento-configurable",
+      "productUrl": "https://nutrija.com/hmb",
+      "variantId": "1158",
+      "variantIds": [
+        "1158"
+      ],
+      "variantOptions": {
+        "140": "8",
+        "181": "76"
+      },
+      "cacheKey": "nutrija-hmb",
+      "product": "HMB Calcium Monohydrate Powder",
+      "form": "Powder",
+      "source": "Not specified",
+      "packaging": "Single retail pack",
+      "packCount": null,
+      "servingUnits": null,
+      "grams": 100,
+      "flavour": "Unflavoured",
+      "labelChecked": "2026-11-19",
+      "nutritionUrl": "https://nutrija.com/hmb",
+      "labelSources": [
+        "https://nutrija.com/hmb"
+      ],
+      "energyPerServing": null,
+      "servingGrams": 3,
+      "type": "Calcium HMB monohydrate",
+      "subclass": "Calcium HMB with explicitly declared HMB payload",
+      "calciumHmbMg": 3000,
+      "hmbMg": 2475,
+      "calciumMg": 465,
+      "mineralBasis": "elemental",
+      "hmbFreeAcidMg": null,
+      "basis": "Official unflavoured supplement-facts table states one 3000 mg scoop: calcium beta-hydroxy beta-methylbutyrate monohydrate (CaHMB) 3000 mg, of which HMB 2475 mg and labelled calcium 465 mg. Net size and Unflavored choice are matched to one exact child ID.",
+      "notes": "HMB payload 2475 mg is explicitly declared by the manufacturer, not a molecular conversion calculated by this catalog. The 3000 mg calcium HMB compound and 2475 mg HMB payload overlap and must not be added together. No free-acid HMB equivalent or calories are inferred. Official exact child finalPrice is published inclusive of tax in INR, but child-level availability is absent from public configurable data; stock must be confirmed.",
+      "declaredNutrients": [
+        "calciumHmbMg",
+        "hmbMg",
+        "calciumMg"
+      ],
+      "variantUrl": "https://nutrija.com/hmb?super_attribute%5B140%5D=8&super_attribute%5B181%5D=76",
+      "id": "hmb-nutrija-1158"
+    },
+    {
+      "category": "hmb",
+      "brand": "NutriJa",
+      "base": "https://nutrija.com",
+      "kind": "magento-configurable",
+      "productUrl": "https://nutrija.com/hmb",
+      "variantId": "1363",
+      "variantIds": [
+        "1363"
+      ],
+      "variantOptions": {
+        "140": "11",
+        "181": "76"
+      },
+      "cacheKey": "nutrija-hmb",
+      "product": "HMB Calcium Monohydrate Powder",
+      "form": "Powder",
+      "source": "Not specified",
+      "packaging": "Single retail pack",
+      "packCount": null,
+      "servingUnits": null,
+      "grams": 200,
+      "flavour": "Unflavoured",
+      "labelChecked": "2026-11-19",
+      "nutritionUrl": "https://nutrija.com/hmb",
+      "labelSources": [
+        "https://nutrija.com/hmb"
+      ],
+      "energyPerServing": null,
+      "servingGrams": 3,
+      "type": "Calcium HMB monohydrate",
+      "subclass": "Calcium HMB with explicitly declared HMB payload",
+      "calciumHmbMg": 3000,
+      "hmbMg": 2475,
+      "calciumMg": 465,
+      "mineralBasis": "elemental",
+      "hmbFreeAcidMg": null,
+      "basis": "Official unflavoured supplement-facts table states one 3000 mg scoop: calcium beta-hydroxy beta-methylbutyrate monohydrate (CaHMB) 3000 mg, of which HMB 2475 mg and labelled calcium 465 mg. Net size and Unflavored choice are matched to one exact child ID.",
+      "notes": "HMB payload 2475 mg is explicitly declared by the manufacturer, not a molecular conversion calculated by this catalog. The 3000 mg calcium HMB compound and 2475 mg HMB payload overlap and must not be added together. No free-acid HMB equivalent or calories are inferred. Official exact child finalPrice is published inclusive of tax in INR, but child-level availability is absent from public configurable data; stock must be confirmed.",
+      "declaredNutrients": [
+        "calciumHmbMg",
+        "hmbMg",
+        "calciumMg"
+      ],
+      "variantUrl": "https://nutrija.com/hmb?super_attribute%5B140%5D=11&super_attribute%5B181%5D=76",
+      "id": "hmb-nutrija-1363"
     }
   ]
 }

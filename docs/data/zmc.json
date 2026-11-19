@@ -1,5 +1,5 @@
 {
-  "checked": "2026-10-29",
+  "checked": "2026-11-19",
   "category": "zmc",
   "offers": [
     {
@@ -28,7 +28,7 @@
         "https://cdn.shopify.com/s/files/1/0618/9629/4654/files/ROP_6_0d82bf49-d046-4450-b38b-46d76df2c0ce.jpg?v=1788331285"
       ],
       "id": "zmc-48626203197694",
-      "price": 435.0,
+      "price": 435,
       "currency": "INR",
       "stock": "In stock",
       "url": "https://purenutrition.in/products/calcium-magnesium-zinc-vitamin-d3-k2-tablets-60-tabs?variant=48626203197694",
@@ -42,7 +42,13 @@
         "zincMg",
         "vitaminDMcg",
         "vitaminK2Mcg"
-      ]
+      ],
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://purenutrition.in/products/calcium-magnesium-zinc-vitamin-d3-k2-tablets-60-tabs?variant=48626203197694",
+        "evidenceUrl": "https://purenutrition.in/products/calcium-magnesium-zinc-vitamin-d3-k2-tablets-60-tabs.json",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
     },
     {
       "brand": "NVEDA",
@@ -72,7 +78,7 @@
         "https://cdn.shopify.com/s/files/1/0708/2527/9767/files/calcim_back.jpg?v=1754980275"
       ],
       "id": "zmc-51709055729943",
-      "price": 325.0,
+      "price": 350,
       "currency": "INR",
       "stock": "In stock",
       "url": "https://nveda.in/products/nveda-calcium-complex-single-pack?variant=51709055729943",
@@ -87,7 +93,13 @@
         "vitaminDMcg",
         "vitaminB12Mcg",
         "vitaminK2Mcg"
-      ]
+      ],
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://nveda.in/products/nveda-calcium-complex-single-pack?variant=51709055729943",
+        "evidenceUrl": "https://nveda.in/products/nveda-calcium-complex-single-pack.json",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
     },
     {
       "brand": "Health Veda Organics",
@@ -106,7 +118,7 @@
         "zinc"
       ],
       "id": "zmc-42526511202526",
-      "price": 270.0,
+      "price": 270,
       "currency": "INR",
       "stock": "In stock",
       "url": "https://healthvedaorganics.com/products/calcium-magnesium-zinc-tablets-with-vitamin-d3-b12-for-healthy-strong-bones-60-veg-tablets?variant=42526511202526",
@@ -120,7 +132,13 @@
         "zincMg",
         "vitaminDMcg",
         "vitaminB12Mcg"
-      ]
+      ],
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://healthvedaorganics.com/products/calcium-magnesium-zinc-tablets-with-vitamin-d3-b12-for-healthy-strong-bones-60-veg-tablets?variant=42526511202526",
+        "evidenceUrl": "https://healthvedaorganics.com/products/calcium-magnesium-zinc-tablets-with-vitamin-d3-b12-for-healthy-strong-bones-60-veg-tablets.json",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
     },
     {
       "brand": "iMuscles",
@@ -139,7 +157,7 @@
         "zinc"
       ],
       "id": "zmc-48459253350721",
-      "price": 649.0,
+      "price": 649,
       "currency": "INR",
       "stock": "In stock",
       "url": "https://imuscles.in/products/calcium-tablets-for-strong-healthy-bones?variant=48459253350721",
@@ -152,7 +170,13 @@
         "magnesiumMg",
         "zincMg",
         "vitaminDMcg"
-      ]
+      ],
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://imuscles.in/products/calcium-tablets-for-strong-healthy-bones?variant=48459253350721",
+        "evidenceUrl": "https://imuscles.in/products/calcium-tablets-for-strong-healthy-bones.json",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
     },
     {
       "brand": "HK Vitals",
@@ -171,7 +195,7 @@
         "zinc"
       ],
       "id": "hkv-zmc-60",
-      "price": 319.0,
+      "price": 319,
       "currency": "INR",
       "stock": "Listed; confirm stock",
       "url": "https://www.hkvitals.com/products/calcium-magnesium-zinc",
@@ -184,6 +208,156 @@
         "magnesiumMg",
         "zincMg",
         "vitaminDMcg"
+      ],
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://www.hkvitals.com/products/calcium-magnesium-zinc",
+        "evidenceUrl": "https://www.hkvitals.com/products/calcium-magnesium-zinc",
+        "matchBasis": "Official primary product section; exact 60-unit pack and unconditional listed price below Key Features, excluding recommended products, combos and payment rewards."
+      }
+    },
+    {
+      "id": "zmc-48087633756325",
+      "brand": "INLIFE",
+      "product": "Calcium, Zinc and Magnesium with D2, K2, Folate and B12",
+      "form": "Tablet",
+      "type": "Calcium citrate malate, magnesium hydroxide and zinc sulphate",
+      "subclass": "Mineral + vitamin combination",
+      "flavour": "Unflavoured",
+      "source": "Not specified",
+      "packCount": 240,
+      "servingUnits": 1,
+      "price": 1233,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://inlifehealthcare.com/products/calcium-tablets-supplement?variant=48087633756325",
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/webp_3.webp?v=1791356637",
+      "labelSources": [
+        "https://inlifehealthcare.com/products/calcium-tablets-supplement",
+        "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/webp_3.webp?v=1791356637"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official supplement facts per one tablet: calcium250 mg, magnesium100 mg, zinc10 mg, folic acid129.4 micrograms, K2 55 micrograms, D2 600 IU and B12 2.2 micrograms.",
+      "notes": "Vitamin D is ergocalciferol D2, not D3. The as-source mineral rows identify the elemental amounts; salt weights are not substituted. The120/240tablet retail variants are separate listed packs.",
+      "packaging": "Brand-listed retail pack (240 tablets)",
+      "calciumMg": 250,
+      "magnesiumMg": 100,
+      "zincMg": 10,
+      "folicAcidMcg": 129.4,
+      "vitaminDIu": 600,
+      "vitaminK2Mcg": 55,
+      "vitaminB12Mcg": 2.2,
+      "energyPerServing": 4.23,
+      "mineralBasis": "elemental",
+      "declaredNutrients": [
+        "calciumMg",
+        "magnesiumMg",
+        "zincMg",
+        "folicAcidMcg",
+        "vitaminDIu",
+        "vitaminK2Mcg",
+        "vitaminB12Mcg"
+      ],
+      "declaredActives": [
+        "calcium",
+        "magnesium",
+        "zinc"
+      ]
+    },
+    {
+      "id": "zmc-45518579499173",
+      "brand": "INLIFE",
+      "product": "Calcium, Zinc and Magnesium with D2, K2, Folate and B12",
+      "form": "Tablet",
+      "type": "Calcium citrate malate, magnesium hydroxide and zinc sulphate",
+      "subclass": "Mineral + vitamin combination",
+      "flavour": "Unflavoured",
+      "source": "Not specified",
+      "packCount": 120,
+      "servingUnits": 1,
+      "price": 649,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://inlifehealthcare.com/products/calcium-tablets-supplement?variant=45518579499173",
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/webp_3.webp?v=1791356637",
+      "labelSources": [
+        "https://inlifehealthcare.com/products/calcium-tablets-supplement",
+        "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/webp_3.webp?v=1791356637"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official supplement facts per one tablet: calcium250 mg, magnesium100 mg, zinc10 mg, folic acid129.4 micrograms, K2 55 micrograms, D2 600 IU and B12 2.2 micrograms.",
+      "notes": "Vitamin D is ergocalciferol D2, not D3. The as-source mineral rows identify the elemental amounts; salt weights are not substituted. The120/240tablet retail variants are separate listed packs.",
+      "packaging": "Brand-listed retail pack (120 tablets)",
+      "calciumMg": 250,
+      "magnesiumMg": 100,
+      "zincMg": 10,
+      "folicAcidMcg": 129.4,
+      "vitaminDIu": 600,
+      "vitaminK2Mcg": 55,
+      "vitaminB12Mcg": 2.2,
+      "energyPerServing": 4.23,
+      "mineralBasis": "elemental",
+      "declaredNutrients": [
+        "calciumMg",
+        "magnesiumMg",
+        "zincMg",
+        "folicAcidMcg",
+        "vitaminDIu",
+        "vitaminK2Mcg",
+        "vitaminB12Mcg"
+      ],
+      "declaredActives": [
+        "calcium",
+        "magnesium",
+        "zinc"
+      ]
+    },
+    {
+      "id": "zmc-42702700183665",
+      "brand": "Carbamide Forte",
+      "product": "Calcium Magnesium Zinc with Vitamins",
+      "form": "Tablet",
+      "type": "Calcium citrate malate, magnesium oxide and zinc gluconate",
+      "subclass": "Combination; label conflict unresolved",
+      "flavour": "Unflavoured",
+      "source": "Not specified",
+      "packCount": 120,
+      "servingUnits": null,
+      "price": 549,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://carbamideforte.com/products/carbamide-forte-calcium-1200mg-with-magnesium-zinc-vitamin-d-k2-b12-calcium-for-women-men-120-veg-tablets?variant=42702700183665",
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B0725Z92KZ.PT01.png?v=1785305742",
+      "labelSources": [
+        "https://carbamideforte.com/products/carbamide-forte-calcium-1200mg-with-magnesium-zinc-vitamin-d-k2-b12-calcium-for-women-men-120-veg-tablets",
+        "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B0725Z92KZ.PT01.png?v=1785305742",
+        "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/71YmuXY746L._SL1500.jpg?v=1764582813"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Net pack120 tablets and listed single-pack price are verified. No numeric label-serving or mineral payload is assigned while two current official label images disagree.",
+      "notes": "Official gallery conflict: facts graphic says2tablets with Ca500/Mg55/Zn13.2 mg andD3; bottle says1tablet with Ca250/Mg55/Zn17 mg andD2. Folic-acid units also conflict. No image is silently preferred; ingredient and serving costs stay unavailable.",
+      "packaging": "Brand-listed retail pack (120 tablets)",
+      "calciumMg": null,
+      "magnesiumMg": null,
+      "zincMg": null,
+      "vitaminDIu": null,
+      "vitaminK2Mcg": null,
+      "vitaminB12Mcg": null,
+      "folicAcidMcg": null,
+      "mineralBasis": "elemental",
+      "declaredNutrients": [
+        "calciumMg",
+        "magnesiumMg",
+        "zincMg",
+        "vitaminDIu",
+        "vitaminK2Mcg",
+        "vitaminB12Mcg",
+        "folicAcidMcg"
+      ],
+      "declaredActives": [
+        "calcium",
+        "magnesium",
+        "zinc"
       ]
     }
   ]

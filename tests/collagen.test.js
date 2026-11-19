@@ -75,14 +75,14 @@ test('education-only categories publish dated scope and zero offers without manu
 
 test('the collagen guide exposes sourced food quantities, adult intake limits, medical context and distinct pathways',async()=>{
  const s=await snapshot,c=s.categories.collagen,a=s.research.articles.find(a=>a.category==='collagen'),refs=new Set(s.research.sources.map(r=>r.id));
- assert.deepEqual(s.quality.errors,[]);assert.ok(c.educationOnly);assert.equal(c.offers.length,0);assert.equal(c.stats.offers,0);
+ assert.deepEqual(s.quality.errors,[]);assert.equal(c.measurement,'units');assert.ok(c.offers.length>0);assert.equal(c.stats.offers,c.offers.length);
  assert.ok(a.buyingGuide.practices.dos.length&&a.buyingGuide.practices.donts.length);assert.ok(a.medicalGuide.conditions.length);
  assert.ok(a.pathway.tracks.length>=2);assert.ok(a.pathway.sourceIds.every(id=>refs.has(id)&&a.sourceIds.includes(id)));
  for(const food of a.buyingGuide.foods){assert.ok(food.quantityNote);if(food.quantityStatus==='quantified')for(const amount of food.amounts){assert.ok(amount.per.label);assert.ok(amount.sourceIds.every(id=>refs.has(id)));}else assert.deepEqual(food.amounts,[]);}
  assert.ok(!a.intakeGuide.targets.some(t=>t.referenceType==='RDA'));
  assert.deepEqual(matchingReferences(a.intakeGuide.targets,{age:31,profile:'strength-power',sessions:2}),matchingReferences(a.intakeGuide.targets,{age:31,profile:'strength-power',sessions:5}));
  assert.ok(searchCatalog(s,{category:'collagen',kind:'guides',q:'collagen'}).guides.some(x=>x.id==='collagen-guide'));
- assert.equal(searchCatalog(s,{category:'collagen',kind:'products'}).totals.products,0);
+ assert.ok(searchCatalog(s,{category:'collagen',kind:'products'}).totals.products>0);
 });
 
 test('collagen remains a review item even when held and never replaces complete-protein guidance',async()=>{
@@ -98,18 +98,18 @@ test('stack notes reuse collagen information and comparison links across the aff
  assert.ok(html.includes('article-collagen-vs-protein.html'));assert.ok(!html.includes('data-offer='));
 });
 
-test('collagen education readers have learning handoffs without empty or fictitious catalog calls to action',async()=>{
+test('collagen guides retain education first and hand off to audited exact products at the end',async()=>{
  const s=await snapshot,html=guide(s,'collagen');assertInternalLinks(html);
- assert.ok(html.includes('CONTINUE LEARNING'));assert.ok(html.includes(s.categories.collagen.scope));
- assert.ok(!html.includes('Explore Collagen products'));assert.ok(!html.includes('0 exact pack offers'));assert.ok(!html.includes('href="collagen.html"'));
- for(const a of s.research.editorial.articles.filter(a=>a.category==='collagen')){const reader=editorialMarkup(a,s);assertInternalLinks(reader);assert.ok(!reader.includes('Explore Collagen products'));assert.ok(!reader.includes('href="collagen.html"'));assert.ok(reader.includes('guide-collagen.html'));}
+ assert.ok(html.includes('Explore Collagen products'));assert.ok(html.indexOf('href="collagen.html"')>html.indexOf('id="collagen-guide-sources"'));
+ assert.ok(!html.includes('0 exact pack offers'));
+ for(const a of s.research.editorial.articles.filter(a=>a.category==='collagen')){const reader=editorialMarkup(a,s);assertInternalLinks(reader);assert.ok(reader.includes('href="collagen.html"'));assert.ok(reader.includes('guide-collagen.html'));}
 });
 
-test('build publishes the collagen education landing, dated scope and article discovery without a catalog identity',async()=>{
+test('build publishes both the collagen learning guide and the sourced product catalog',async()=>{
  const destination=await fs.mkdtemp(path.join(os.tmpdir(),'collagen-learning-'));
- try{const {snapshot:s,assetVersion}=await buildSite(destination),html=await fs.readFile(path.join(destination,'collagen.html'),'utf8'),data=JSON.parse(await fs.readFile(path.join(destination,'data/collagen.json'),'utf8')),metadata=pageMetadata(s,'collagen');
-  assert.ok(html.includes('data-page="research"')&&html.includes('data-default-category="collagen"'));assert.ok(html.includes('id="research-library"'));assert.ok(html.includes(`site.js?v=${assetVersion}`));assert.ok(html.includes('Collagen: benefits, evidence &amp; buying guide'));assert.ok(!html.includes('Collagen catalog ·'));
-  assert.equal(metadata.structured['@type'],'Article');assert.equal(data.scope,s.categories.collagen.scope);assert.deepEqual(data.offers,[]);
-  const sitemap=await fs.readFile(path.join(destination,'sitemap.xml'),'utf8');assert.ok(sitemap.includes('collagen.html'));assert.ok(sitemap.includes('article-eaa-bcaa-protein.html'));assert.ok(sitemap.includes('article-collagen-vs-protein.html'));
+ try{const {snapshot:s,assetVersion}=await buildSite(destination),html=await fs.readFile(path.join(destination,'collagen.html'),'utf8'),guide=await fs.readFile(path.join(destination,'guide-collagen.html'),'utf8'),data=JSON.parse(await fs.readFile(path.join(destination,'data/collagen.json'),'utf8'));
+  assert.ok(html.includes('data-category="collagen"'));assert.ok(html.includes('id="results-body"'));assert.ok(html.includes(`site.js?v=${assetVersion}`));assert.ok(html.includes('Published Collagen pack data'));
+  assert.ok(guide.includes('data-page="research"')&&guide.includes('data-default-category="collagen"'));assert.ok(data.offers.length>0);assert.equal(data.offers.length,s.categories.collagen.offers.length);
+  const sitemap=await fs.readFile(path.join(destination,'sitemap.xml'),'utf8');for(const page of ['collagen.html','guide-collagen.html','article-collagen-vs-protein.html'])assert.ok(sitemap.includes('/'+page+'<'));
  }finally{await fs.rm(destination,{recursive:true,force:true});}
 });

@@ -1,5 +1,5 @@
 {
-  "checked": "2026-11-17",
+  "checked": "2026-11-19",
   "category": "betaine",
   "offers": [
     {
@@ -36,10 +36,16 @@
       ],
       "nutritionUrl": "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-nutrition-capsules-tmg-trimethylglycine-with-vitamin-b12-60-vegetable-capsules-1177239885.png?v=1780890656",
       "id": "betaine-49569691238685",
-      "price": 809.0,
+      "price": 809,
       "currency": "INR",
-      "stock": "Sold out",
-      "url": "https://healthyhey.com/products/tmg-trimethylglycine-with-vitamin-b12-600mg-serving-60-vegetable-capsules?variant=49569691238685"
+      "stock": "Listed; confirm stock",
+      "url": "https://healthyhey.com/products/tmg-trimethylglycine-with-vitamin-b12-600mg-serving-60-vegetable-capsules?variant=49569691238685",
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://healthyhey.com/products/tmg-trimethylglycine-with-vitamin-b12-600mg-serving-60-vegetable-capsules?variant=49569691238685",
+        "evidenceUrl": "https://healthyhey.com/products/tmg-trimethylglycine-with-vitamin-b12-600mg-serving-60-vegetable-capsules.json",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
     },
     {
       "brand": "HealthyHey",
@@ -75,10 +81,80 @@
       ],
       "nutritionUrl": "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-nutrition-capsule-betaine-trimethylglycine-support-healthy-homocysteine-levels-tmg-600mg-120-veg-capsules-1260251496.png?v=1791304961",
       "id": "betaine-44641005633821",
-      "price": 809.0,
+      "price": 809,
       "currency": "INR",
-      "stock": "In stock",
-      "url": "https://healthyhey.com/products/betaine-tmg-600mg-120-veg-capsules?variant=44641005633821"
+      "stock": "Listed; confirm stock",
+      "url": "https://healthyhey.com/products/betaine-tmg-600mg-120-veg-capsules?variant=44641005633821",
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://healthyhey.com/products/betaine-tmg-600mg-120-veg-capsules?variant=44641005633821",
+        "evidenceUrl": "https://healthyhey.com/products/betaine-tmg-600mg-120-veg-capsules.json",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
+    },
+    {
+      "brand": "NutriJa",
+      "product": "Trimethylglycine (TMG)",
+      "form": "Powder",
+      "source": "Not specified",
+      "packaging": "Single retail pack",
+      "packCount": null,
+      "servingUnits": null,
+      "grams": 100,
+      "flavour": "Unflavoured",
+      "labelChecked": "2026-11-19",
+      "nutritionUrl": "https://nutrija.com/trimethylglycine-tmg",
+      "labelSources": [
+        "https://nutrija.com/trimethylglycine-tmg"
+      ],
+      "energyPerServing": null,
+      "servingGrams": 1,
+      "type": "Betaine anhydrous (TMG)",
+      "subclass": "Single ingredient trimethylglycine powder",
+      "betaineMg": 1000,
+      "betaineHclMg": null,
+      "basis": "Official supplement-facts table states 1/2 teaspoon (1000 mg), with 1000 mg trimethylglycine (betaine anhydrous) per serving. Net weight comes from the selected size option.",
+      "notes": "TMG/betaine anhydrous is not betaine HCl. An old linked certificate or protein nitrogen assay is not used as proof of current TMG potency. Energy is unverified. Official exact child finalPrice is published inclusive of tax in INR, but child-level availability is absent from public configurable data; stock must be confirmed.",
+      "declaredNutrients": [
+        "betaineMg"
+      ],
+      "id": "betaine-nutrija-136",
+      "price": 450.01,
+      "currency": "INR",
+      "stock": "Listed; confirm stock",
+      "url": "https://nutrija.com/trimethylglycine-tmg?super_attribute%5B140%5D=8"
+    },
+    {
+      "brand": "NutriJa",
+      "product": "Trimethylglycine (TMG)",
+      "form": "Powder",
+      "source": "Not specified",
+      "packaging": "Single retail pack",
+      "packCount": null,
+      "servingUnits": null,
+      "grams": 250,
+      "flavour": "Unflavoured",
+      "labelChecked": "2026-11-19",
+      "nutritionUrl": "https://nutrija.com/trimethylglycine-tmg",
+      "labelSources": [
+        "https://nutrija.com/trimethylglycine-tmg"
+      ],
+      "energyPerServing": null,
+      "servingGrams": 1,
+      "type": "Betaine anhydrous (TMG)",
+      "subclass": "Single ingredient trimethylglycine powder",
+      "betaineMg": 1000,
+      "betaineHclMg": null,
+      "basis": "Official supplement-facts table states 1/2 teaspoon (1000 mg), with 1000 mg trimethylglycine (betaine anhydrous) per serving. Net weight comes from the selected size option.",
+      "notes": "TMG/betaine anhydrous is not betaine HCl. An old linked certificate or protein nitrogen assay is not used as proof of current TMG potency. Energy is unverified. Official exact child finalPrice is published inclusive of tax in INR, but child-level availability is absent from public configurable data; stock must be confirmed.",
+      "declaredNutrients": [
+        "betaineMg"
+      ],
+      "id": "betaine-nutrija-1786",
+      "price": 1013.04,
+      "currency": "INR",
+      "stock": "Listed; confirm stock",
+      "url": "https://nutrija.com/trimethylglycine-tmg?super_attribute%5B140%5D=12"
     }
   ]
 }

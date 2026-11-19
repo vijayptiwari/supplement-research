@@ -35,6 +35,7 @@ export function auditStack(snapshot,selections,context={}){
   const priceKnown=r.priceAudit?.status==='verified'&&positive(r.price),dailyCost=positive(capacity)&&priceKnown?q*r.price/capacity:null;
   packs.push({name,quantity:q,unit,dailyCost,days:q>0&&positive(capacity)?capacity/q:null});
   if(q===0)continue;
+  if(r.additionalIngredients?.length)gaps.push(name+': additional declared ingredients are recorded but are outside modeled nutrient totals: '+r.additionalIngredients.map(i=>i.name).join(', ')+'.');
   if(!r.isUnitOffer){
    if(c.id==='protein'&&positive(r.protein))add('protein','Protein','g',q*r.protein/100,name);
    else if(c.id==='creatine'&&positive(r.creatine)){
@@ -51,7 +52,7 @@ export function auditStack(snapshot,selections,context={}){
   for(const [key,f] of fields){
    if(['vitaminDIu','vitaminDMcg','caffeineAnhydrousMg','caffeineComponentMg'].includes(key)||nutrientUnits[key]==='%')continue;
    // Salt/derivative and mixed botanical material masses are product-specific.
-   const productSpecific=/CompoundMg$/.test(key)||['ashwagandhaMg','standardizedExtractMg'].includes(key);
+   const productSpecific=/CompoundMg$/.test(key)||['ashwagandhaMg','standardizedExtractMg','collagenComplexMg','nativeTypeIIMg'].includes(key);
    if(finite(r[key]))add(productSpecific?key+':'+r.id:key,f.label,nutrientUnits[key]||f.unit,r[key]*multiplier,name);
   }
   if(c.id==='pre-workout'){

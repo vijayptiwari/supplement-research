@@ -1,5 +1,5 @@
 {
-  "checked": "2026-10-31",
+  "checked": "2026-11-19",
   "category": "folic-acid",
   "offers": [
     {
@@ -33,12 +33,18 @@
         "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-nutrition-capsule-folic-acid-support-cognitive-cardiovascular-health-120-veg-capsules-1177237641.png?v=1780892078"
       ],
       "id": "folic-acid-44724751859997",
-      "price": 549.0,
+      "price": 549,
       "currency": "INR",
       "stock": "In stock",
       "url": "https://healthyhey.com/products/folic-acid-120-veg-capsules?variant=44724751859997",
       "nutritionUrl": "https://healthyhey.com/products/folic-acid-120-veg-capsules",
-      "packaging": "Single retail pack"
+      "packaging": "Single retail pack",
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://healthyhey.com/products/folic-acid-120-veg-capsules?variant=44724751859997",
+        "evidenceUrl": "https://healthyhey.com/products/folic-acid-120-veg-capsules.json",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
     },
     {
       "brand": "Health Veda Organics",
@@ -68,12 +74,18 @@
       "folateMcgDfe": null,
       "methylfolateMcg": null,
       "id": "folic-acid-43800178163934",
-      "price": 319.0,
+      "price": 319,
       "currency": "INR",
       "stock": "In stock",
       "url": "https://healthvedaorganics.com/products/health-veda-organics-iron-folic-acid-supplement-with-zinc-vitamin-c-vitamin-b12-60-veg-capsules?variant=43800178163934",
       "nutritionUrl": "https://healthvedaorganics.com/products/health-veda-organics-iron-folic-acid-supplement-with-zinc-vitamin-c-vitamin-b12-60-veg-capsules",
-      "packaging": "Single retail pack"
+      "packaging": "Single retail pack",
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://healthvedaorganics.com/products/health-veda-organics-iron-folic-acid-supplement-with-zinc-vitamin-c-vitamin-b12-60-veg-capsules?variant=43800178163934",
+        "evidenceUrl": "https://healthvedaorganics.com/products/health-veda-organics-iron-folic-acid-supplement-with-zinc-vitamin-c-vitamin-b12-60-veg-capsules.json",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
     },
     {
       "brand": "Pure Nutrition",
@@ -103,12 +115,18 @@
       "folateMcgDfe": null,
       "methylfolateMcg": null,
       "id": "folic-acid-48784909664510",
-      "price": 699.0,
+      "price": 699,
       "currency": "INR",
       "stock": "In stock",
       "url": "https://purenutrition.in/products/iron-vitamin-c-tablets-120-with-zinc-vitamin-b12-folic-acid-beetroot-ginger?variant=48784909664510",
       "nutritionUrl": "https://purenutrition.in/products/iron-vitamin-c-tablets-120-with-zinc-vitamin-b12-folic-acid-beetroot-ginger",
-      "packaging": "Single retail pack"
+      "packaging": "Single retail pack",
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://purenutrition.in/products/iron-vitamin-c-tablets-120-with-zinc-vitamin-b12-folic-acid-beetroot-ginger?variant=48784909664510",
+        "evidenceUrl": "https://purenutrition.in/products/iron-vitamin-c-tablets-120-with-zinc-vitamin-b12-folic-acid-beetroot-ginger.json",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
     },
     {
       "brand": "Naturaltein",
@@ -142,12 +160,222 @@
         "https://cdn.shopify.com/s/files/1/0634/8868/8211/files/60.webp?v=1770733780"
       ],
       "id": "folic-acid-42576152559699",
-      "price": 549.0,
+      "price": 549,
       "currency": "INR",
       "stock": "In stock",
       "url": "https://naturaltein.in/products/vitamin-b12-folate?variant=42576152559699",
       "nutritionUrl": "https://naturaltein.in/products/vitamin-b12-folate",
-      "packaging": "Single retail pack"
+      "packaging": "Single retail pack",
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://naturaltein.in/products/vitamin-b12-folate?variant=42576152559699",
+        "evidenceUrl": "https://naturaltein.in/products/vitamin-b12-folate.json",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
+    },
+    {
+      "id": "folic-acid-44486340968613",
+      "brand": "INLIFE",
+      "product": "Chelated Iron + Folic Acid with Vitamin C and B12",
+      "form": "Tablet",
+      "type": "Folic acid with ferrous bisglycinate and vitamins",
+      "subclass": "Iron + vitamin/mineral combination",
+      "flavour": "Unflavoured",
+      "source": "Not specified",
+      "packCount": 120,
+      "servingUnits": 1,
+      "price": 758,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://inlifehealthcare.com/products/iron-folic-acid?variant=44486340968613",
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/Ironfolicacid_0007_Supplementfacts.webp?v=1793702998",
+      "labelSources": [
+        "https://inlifehealthcare.com/products/iron-folic-acid",
+        "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/Ironfolicacid_0007_Supplementfacts.webp?v=1793702998"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official label per one tablet: folic acid129.4 micrograms, vitamin C65mg, B12 2.2micrograms, zinc13.2mg and iron19mg, with vitamin E and selenium.",
+      "notes": "This includes19mg iron per tablet and is not a routine standalone vitamin C or folate substitute. Other ingredients include vitamin E10mg and selenium40micrograms; these and iron are disclosed in this note because the current active-field model does not total them. Retail120/240counts come from exact listed variants.",
+      "packaging": "Brand-listed retail pack (120 tablets)",
+      "folicAcidMcg": 129.4,
+      "vitaminCMg": 65,
+      "vitaminB12Mcg": 2.2,
+      "zincMg": 13.2,
+      "mineralBasis": "elemental"
+    },
+    {
+      "id": "folic-acid-48219210416293",
+      "brand": "INLIFE",
+      "product": "Chelated Iron + Folic Acid with Vitamin C and B12",
+      "form": "Tablet",
+      "type": "Folic acid with ferrous bisglycinate and vitamins",
+      "subclass": "Iron + vitamin/mineral combination",
+      "flavour": "Unflavoured",
+      "source": "Not specified",
+      "packCount": 240,
+      "servingUnits": 1,
+      "price": 1436,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://inlifehealthcare.com/products/iron-folic-acid?variant=48219210416293",
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/Ironfolicacid_0007_Supplementfacts.webp?v=1793702998",
+      "labelSources": [
+        "https://inlifehealthcare.com/products/iron-folic-acid",
+        "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/Ironfolicacid_0007_Supplementfacts.webp?v=1793702998"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official label per one tablet: folic acid129.4 micrograms, vitamin C65mg, B12 2.2micrograms, zinc13.2mg and iron19mg, with vitamin E and selenium.",
+      "notes": "This includes19mg iron per tablet and is not a routine standalone vitamin C or folate substitute. Other ingredients include vitamin E10mg and selenium40micrograms; these and iron are disclosed in this note because the current active-field model does not total them. Retail120/240counts come from exact listed variants.",
+      "packaging": "Brand-listed retail pack (240 tablets)",
+      "folicAcidMcg": 129.4,
+      "vitaminCMg": 65,
+      "vitaminB12Mcg": 2.2,
+      "zincMg": 13.2,
+      "mineralBasis": "elemental"
+    },
+    {
+      "id": "folic-acid-44928074416298",
+      "brand": "Neuherbs",
+      "product": "True Vitamin B12 with Folic Acid, Inositol and Botanicals",
+      "form": "Tablet",
+      "type": "Cyanocobalamin + folic acid",
+      "subclass": "B12 + folic acid combination",
+      "flavour": "Unflavoured",
+      "source": "Plant-labelled formulation; source authentication not independently tested",
+      "packCount": 60,
+      "servingUnits": 1,
+      "price": 349,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://neuherbs.com/products/b12-vitamin-tablets-energy-circulation?variant=44928074416298",
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/True_vitamin_B12_9.webp?v=1774249905",
+      "labelSources": [
+        "https://neuherbs.com/products/b12-vitamin-tablets-energy-circulation",
+        "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/True_vitamin_B12_9.webp?v=1774249905"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official bottle panel per one tablet: B12(cyanocobalamin)2.2micrograms and folic acid129.41micrograms, with inositol100mg,Punarnava100mg and spirulina extract50mg.",
+      "notes": "The front plant/spirulina marketing is not treated as analytical proof of B12 source or bioavailability. The numeric payload and cyanocobalamin form come from the supplement facts.",
+      "packaging": "Brand-listed retail pack (60 tablets)",
+      "vitaminB12Mcg": 2.2,
+      "folicAcidMcg": 129.41,
+      "energyPerServing": 0.88,
+      "declaredNutrients": [
+        "vitaminB12Mcg",
+        "folicAcidMcg"
+      ]
+    },
+    {
+      "id": "folic-acid-46152288469162",
+      "brand": "Neuherbs",
+      "product": "True Vitamin B12 with Folic Acid, Inositol and Botanicals",
+      "form": "Tablet",
+      "type": "Cyanocobalamin + folic acid",
+      "subclass": "B12 + folic acid combination",
+      "flavour": "Unflavoured",
+      "source": "Plant-labelled formulation; source authentication not independently tested",
+      "packCount": 120,
+      "servingUnits": 1,
+      "price": 669,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://neuherbs.com/products/b12-vitamin-tablets-energy-circulation?variant=46152288469162",
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/True_vitamin_B12_9.webp?v=1774249905",
+      "labelSources": [
+        "https://neuherbs.com/products/b12-vitamin-tablets-energy-circulation",
+        "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/True_vitamin_B12_9.webp?v=1774249905"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official bottle panel per one tablet: B12(cyanocobalamin)2.2micrograms and folic acid129.41micrograms, with inositol100mg,Punarnava100mg and spirulina extract50mg.",
+      "notes": "The front plant/spirulina marketing is not treated as analytical proof of B12 source or bioavailability. The numeric payload and cyanocobalamin form come from the supplement facts.",
+      "packaging": "Brand-listed retail pack (120 tablets)",
+      "vitaminB12Mcg": 2.2,
+      "folicAcidMcg": 129.41,
+      "energyPerServing": 0.88,
+      "declaredNutrients": [
+        "vitaminB12Mcg",
+        "folicAcidMcg"
+      ]
+    },
+    {
+      "id": "folic-acid-44488839463077",
+      "brand": "INLIFE",
+      "product": "Vitamin B12 with Folic Acid, B Vitamins and ALA",
+      "form": "Tablet",
+      "type": "Cyanocobalamin + folic acid and B vitamins",
+      "subclass": "B-vitamin combination with ALA and calcium",
+      "flavour": "Unflavoured",
+      "source": "Not specified",
+      "packCount": 240,
+      "servingUnits": 1,
+      "price": 1043,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://inlifehealthcare.com/products/inlife-vitamin-b12-folic-acid-supplement-rda?variant=44488839463077",
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/supplementfacts_975fd089-77b0-47b3-ae3b-95fe4f7be022.jpg?v=1793699747",
+      "labelSources": [
+        "https://inlifehealthcare.com/products/inlife-vitamin-b12-folic-acid-supplement-rda",
+        "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/supplementfacts_975fd089-77b0-47b3-ae3b-95fe4f7be022.jpg?v=1793699747"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official panel per one tablet: B1 1.4mg,B5 5mg,B6 1.9mg,folic acid129.4micrograms,B12 2.2micrograms,calcium30mg;ALA25mg andinositol10mg are separate co-ingredients.",
+      "notes": "This is the RDA-labelled formulation, not the separate INLIFE1500microgram B12 product. Ingredient quantities are recorded separately without a combined vitamin-potency score.",
+      "packaging": "Brand-listed retail pack (240 tablets)",
+      "vitaminB1Mg": 1.4,
+      "vitaminB5Mg": 5,
+      "vitaminB6Mg": 1.9,
+      "folicAcidMcg": 129.4,
+      "vitaminB12Mcg": 2.2,
+      "calciumMg": 30,
+      "energyPerServing": 0.182,
+      "mineralBasis": "elemental",
+      "declaredNutrients": [
+        "vitaminB1Mg",
+        "vitaminB5Mg",
+        "vitaminB6Mg",
+        "folicAcidMcg",
+        "vitaminB12Mcg"
+      ]
+    },
+    {
+      "id": "folic-acid-44488839430309",
+      "brand": "INLIFE",
+      "product": "Vitamin B12 with Folic Acid, B Vitamins and ALA",
+      "form": "Tablet",
+      "type": "Cyanocobalamin + folic acid and B vitamins",
+      "subclass": "B-vitamin combination with ALA and calcium",
+      "flavour": "Unflavoured",
+      "source": "Not specified",
+      "packCount": 120,
+      "servingUnits": 1,
+      "price": 549,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://inlifehealthcare.com/products/inlife-vitamin-b12-folic-acid-supplement-rda?variant=44488839430309",
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/supplementfacts_975fd089-77b0-47b3-ae3b-95fe4f7be022.jpg?v=1793699747",
+      "labelSources": [
+        "https://inlifehealthcare.com/products/inlife-vitamin-b12-folic-acid-supplement-rda",
+        "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/supplementfacts_975fd089-77b0-47b3-ae3b-95fe4f7be022.jpg?v=1793699747"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official panel per one tablet: B1 1.4mg,B5 5mg,B6 1.9mg,folic acid129.4micrograms,B12 2.2micrograms,calcium30mg;ALA25mg andinositol10mg are separate co-ingredients.",
+      "notes": "This is the RDA-labelled formulation, not the separate INLIFE1500microgram B12 product. Ingredient quantities are recorded separately without a combined vitamin-potency score.",
+      "packaging": "Brand-listed retail pack (120 tablets)",
+      "vitaminB1Mg": 1.4,
+      "vitaminB5Mg": 5,
+      "vitaminB6Mg": 1.9,
+      "folicAcidMcg": 129.4,
+      "vitaminB12Mcg": 2.2,
+      "calciumMg": 30,
+      "energyPerServing": 0.182,
+      "mineralBasis": "elemental",
+      "declaredNutrients": [
+        "vitaminB1Mg",
+        "vitaminB5Mg",
+        "vitaminB6Mg",
+        "folicAcidMcg",
+        "vitaminB12Mcg"
+      ]
     }
   ]
 }

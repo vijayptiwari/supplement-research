@@ -1,5 +1,5 @@
 {
-  "checked": "2026-11-17",
+  "checked": "2026-11-19",
   "category": "bcaa",
   "offers": [
     {
@@ -28,10 +28,16 @@
         "https://cdn.shopify.com/s/files/1/0005/5335/3267/files/AS-IT-IS_ONE_BCAA_RPD_BACK_3_1.jpg?v=1789626860"
       ],
       "id": "bcaa-7380282900531",
-      "price": 610.0,
+      "price": 610,
       "currency": "INR",
-      "stock": "In stock",
-      "url": "https://asitisnutrition.com/products/as-it-is-nutrition-buy-bcaa-branched-chain-amino-acids?variant=7380282900531"
+      "stock": "Listed; confirm stock",
+      "url": "https://asitisnutrition.com/products/as-it-is-nutrition-buy-bcaa-branched-chain-amino-acids?variant=7380282900531",
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-buy-bcaa-branched-chain-amino-acids?variant=7380282900531",
+        "evidenceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-buy-bcaa-branched-chain-amino-acids.json",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
     },
     {
       "brand": "AS-IT-IS Nutrition",
@@ -54,11 +60,17 @@
       "isoleucineMg": null,
       "valineMg": null,
       "id": "bcaa-31363335454771",
-      "price": 367.0,
+      "price": 367,
       "currency": "INR",
-      "stock": "In stock",
+      "stock": "Listed; confirm stock",
       "url": "https://asitisnutrition.com/products/bcaa-capsules?variant=31363335454771",
-      "nutritionUrl": "https://asitisnutrition.com/products/bcaa-capsules"
+      "nutritionUrl": "https://asitisnutrition.com/products/bcaa-capsules",
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://asitisnutrition.com/products/bcaa-capsules?variant=31363335454771",
+        "evidenceUrl": "https://asitisnutrition.com/products/bcaa-capsules.json",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
     },
     {
       "brand": "Muscle Nectar",
@@ -82,11 +94,17 @@
       "valineMg": 1250,
       "energyPerServing": 0,
       "id": "bcaa-37845800911041",
-      "price": 599.0,
+      "price": 599,
       "currency": "INR",
-      "stock": "In stock",
+      "stock": "Listed; confirm stock",
       "url": "https://musclenectar.com/products/muscle-nectar-bcaa-2-1-1?variant=37845800911041",
-      "nutritionUrl": "https://musclenectar.com/products/muscle-nectar-bcaa-2-1-1"
+      "nutritionUrl": "https://musclenectar.com/products/muscle-nectar-bcaa-2-1-1",
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://musclenectar.com/products/muscle-nectar-bcaa-2-1-1?variant=37845800911041",
+        "evidenceUrl": "https://musclenectar.com/products/muscle-nectar-bcaa-2-1-1.json",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
     },
     {
       "brand": "Naturaltein",
@@ -117,10 +135,16 @@
         "https://cdn.shopify.com/s/files/1/0634/8868/8211/files/16-3_d973a1f9-448e-4ead-96ec-914bbb084bca.webp?v=1751449106"
       ],
       "id": "bcaa-42577621090387",
-      "price": 1068.0,
+      "price": 1068,
       "currency": "INR",
-      "stock": "In stock",
-      "url": "https://naturaltein.in/products/clean-bcaa-supplement-orange-flavour?variant=42577621090387"
+      "stock": "Listed; confirm stock",
+      "url": "https://naturaltein.in/products/clean-bcaa-supplement-orange-flavour?variant=42577621090387",
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://naturaltein.in/products/clean-bcaa-supplement-orange-flavour?variant=42577621090387",
+        "evidenceUrl": "https://naturaltein.in/products/clean-bcaa-supplement-orange-flavour.json",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
     },
     {
       "brand": "Pure Nutrition",
@@ -144,11 +168,17 @@
       "valineMg": 1500,
       "taurineMg": 500,
       "id": "bcaa-48627624706302",
-      "price": 909.0,
+      "price": 909,
       "currency": "INR",
-      "stock": "In stock",
+      "stock": "Listed; confirm stock",
       "url": "https://purenutrition.in/products/peak-performance-all-in-one-bcaa-powder-2-1-1-bcaa-electrolytes-taurine-micronutrients-watermelon-flavour-250-g?variant=48627624706302",
-      "nutritionUrl": "https://purenutrition.in/products/peak-performance-all-in-one-bcaa-powder-2-1-1-bcaa-electrolytes-taurine-micronutrients-watermelon-flavour-250-g"
+      "nutritionUrl": "https://purenutrition.in/products/peak-performance-all-in-one-bcaa-powder-2-1-1-bcaa-electrolytes-taurine-micronutrients-watermelon-flavour-250-g",
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://purenutrition.in/products/peak-performance-all-in-one-bcaa-powder-2-1-1-bcaa-electrolytes-taurine-micronutrients-watermelon-flavour-250-g?variant=48627624706302",
+        "evidenceUrl": "https://purenutrition.in/products/peak-performance-all-in-one-bcaa-powder-2-1-1-bcaa-electrolytes-taurine-micronutrients-watermelon-flavour-250-g.json",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
     },
     {
       "brand": "Carbamide Forte",
@@ -171,11 +201,95 @@
       "isoleucineMg": null,
       "valineMg": null,
       "id": "bcaa-40044568871025",
-      "price": 590.0,
+      "price": 590,
       "currency": "INR",
-      "stock": "In stock",
+      "stock": "Listed; confirm stock",
       "url": "https://mycf.in/products/carbamide-forte-bcaa-powder-bcaa-with-2-1-1-ratio-for-muscle-growth-muscle-recovery-for-gym-goers-210g?variant=40044568871025",
-      "nutritionUrl": "https://mycf.in/products/carbamide-forte-bcaa-powder-bcaa-with-2-1-1-ratio-for-muscle-growth-muscle-recovery-for-gym-goers-210g"
+      "nutritionUrl": "https://mycf.in/products/carbamide-forte-bcaa-powder-bcaa-with-2-1-1-ratio-for-muscle-growth-muscle-recovery-for-gym-goers-210g",
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://mycf.in/products/carbamide-forte-bcaa-powder-bcaa-with-2-1-1-ratio-for-muscle-growth-muscle-recovery-for-gym-goers-210g?variant=40044568871025",
+        "evidenceUrl": "https://mycf.in/products/carbamide-forte-bcaa-powder-bcaa-with-2-1-1-ratio-for-muscle-growth-muscle-recovery-for-gym-goers-210g.json",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
+    },
+    {
+      "brand": "NAKPRO",
+      "source": "Not specified",
+      "packaging": "Single retail pack",
+      "labelChecked": "2026-11-19",
+      "flavour": "Blueberry",
+      "product": "BCAA 6000 with Creatine",
+      "form": "Powder",
+      "type": "BCAA 2:1:1 blend",
+      "subclass": "BCAA with creatine monohydrate",
+      "grams": 200,
+      "servingGrams": 10,
+      "bcaaMg": 6000,
+      "leucineMg": 3000,
+      "isoleucineMg": 1500,
+      "valineMg": 1500,
+      "creatineMg": 1500,
+      "energyPerServing": 6.04,
+      "declaredNutrients": [
+        "bcaaMg",
+        "leucineMg",
+        "isoleucineMg",
+        "valineMg",
+        "creatineMg"
+      ],
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0237/4497/0832/files/blueberry_-_02.png?v=1746927095",
+      "basis": "Official Blueberry pouch label states two heaping scoops (10 g), 6000 mg BCAA split as 3000 mg leucine, 1500 mg isoleucine and 1500 mg valine, plus 1500 mg creatine and 6.04 kcal. Exact chosen pack weight comes from the selected 200 g or 400 g variant.",
+      "notes": "Sold out at the observed price. The published Blueberry pouch profile is used across the same-flavour pouch sizes; no separate batch test is claimed. BCAA is the sum of three components, not an additional amino-acid quantity. Added creatine contributes to stack overlap.",
+      "packCount": null,
+      "servingUnits": null,
+      "labelSources": [
+        "https://cdn.shopify.com/s/files/1/0237/4497/0832/files/blueberry_-_02.png?v=1746927095"
+      ],
+      "id": "bcaa-39632132472912",
+      "price": 449,
+      "currency": "INR",
+      "stock": "Sold out",
+      "url": "https://nakpro.com/products/nakpro-bcaa-6000-amino-acids?variant=39632132472912"
+    },
+    {
+      "brand": "NAKPRO",
+      "source": "Not specified",
+      "packaging": "Single retail pack",
+      "labelChecked": "2026-11-19",
+      "flavour": "Blueberry",
+      "product": "BCAA 6000 with Creatine",
+      "form": "Powder",
+      "type": "BCAA 2:1:1 blend",
+      "subclass": "BCAA with creatine monohydrate",
+      "grams": 400,
+      "servingGrams": 10,
+      "bcaaMg": 6000,
+      "leucineMg": 3000,
+      "isoleucineMg": 1500,
+      "valineMg": 1500,
+      "creatineMg": 1500,
+      "energyPerServing": 6.04,
+      "declaredNutrients": [
+        "bcaaMg",
+        "leucineMg",
+        "isoleucineMg",
+        "valineMg",
+        "creatineMg"
+      ],
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0237/4497/0832/files/blueberry_-_02.png?v=1746927095",
+      "basis": "Official Blueberry pouch label states two heaping scoops (10 g), 6000 mg BCAA split as 3000 mg leucine, 1500 mg isoleucine and 1500 mg valine, plus 1500 mg creatine and 6.04 kcal. Exact chosen pack weight comes from the selected 200 g or 400 g variant.",
+      "notes": "Sold out at the observed price. The published Blueberry pouch profile is used across the same-flavour pouch sizes; no separate batch test is claimed. BCAA is the sum of three components, not an additional amino-acid quantity. Added creatine contributes to stack overlap.",
+      "packCount": null,
+      "servingUnits": null,
+      "labelSources": [
+        "https://cdn.shopify.com/s/files/1/0237/4497/0832/files/blueberry_-_02.png?v=1746927095"
+      ],
+      "id": "bcaa-39632132603984",
+      "price": 808,
+      "currency": "INR",
+      "stock": "Sold out",
+      "url": "https://nakpro.com/products/nakpro-bcaa-6000-amino-acids?variant=39632132603984"
     }
   ]
 }

@@ -10,7 +10,7 @@ export async function loadBundle(){
  const config=await read('site.json'),categories={};
  for(const c of config.categories)categories[c.id]=await read(c.file);
  const ledger=await read(config.observationsFile);
- return {config,categories,research:await read('research.json'),recommender:await read('recommender.json'),brands:await read(config.brandsFile),observations:ledger.observations};
+ return {config,categories,catalogResearch:config.catalogResearchFile?await read(config.catalogResearchFile):null,research:await read('research.json'),recommender:await read('recommender.json'),brands:await read(config.brandsFile),observations:ledger.observations};
 }
 export async function buildSite(destination=path.join(root,'dist')){
  const bundle=await loadBundle(),snapshot=createSnapshot(bundle);

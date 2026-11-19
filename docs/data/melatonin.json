@@ -1,5 +1,5 @@
 {
-  "checked": "2026-10-31",
+  "checked": "2026-11-19",
   "category": "melatonin",
   "offers": [
     {
@@ -16,13 +16,19 @@
       "labelChecked": "2026-10-31",
       "melatoninMg": 2,
       "id": "melatonin-44687643935005",
-      "price": 462.0,
+      "price": 499,
       "currency": "INR",
       "stock": "In stock",
       "url": "https://healthyhey.com/products/healthyhey-nutrition-melatonin-10mg-pack-of-120-vegetable-capsules-promotes-sleep-and-relaxation-10mg?variant=44687643935005",
       "nutritionUrl": "https://healthyhey.com/products/healthyhey-nutrition-melatonin-10mg-pack-of-120-vegetable-capsules-promotes-sleep-and-relaxation-10mg",
       "flavour": "Unflavoured",
-      "packaging": "Single retail pack"
+      "packaging": "Single retail pack",
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://healthyhey.com/products/healthyhey-nutrition-melatonin-10mg-pack-of-120-vegetable-capsules-promotes-sleep-and-relaxation-10mg?variant=44687643935005",
+        "evidenceUrl": "https://healthyhey.com/products/healthyhey-nutrition-melatonin-10mg-pack-of-120-vegetable-capsules-promotes-sleep-and-relaxation-10mg.json",
+        "matchBasis": "Official public Shopify product; exact variant ID 44687643935005 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+      }
     },
     {
       "brand": "HealthyHey",
@@ -38,13 +44,19 @@
       "labelChecked": "2026-10-31",
       "melatoninMg": 3,
       "id": "melatonin-44687643967773",
-      "price": 436.0,
+      "price": 499,
       "currency": "INR",
       "stock": "In stock",
       "url": "https://healthyhey.com/products/healthyhey-nutrition-melatonin-10mg-pack-of-120-vegetable-capsules-promotes-sleep-and-relaxation-10mg?variant=44687643967773",
       "nutritionUrl": "https://healthyhey.com/products/healthyhey-nutrition-melatonin-10mg-pack-of-120-vegetable-capsules-promotes-sleep-and-relaxation-10mg",
       "flavour": "Unflavoured",
-      "packaging": "Single retail pack"
+      "packaging": "Single retail pack",
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://healthyhey.com/products/healthyhey-nutrition-melatonin-10mg-pack-of-120-vegetable-capsules-promotes-sleep-and-relaxation-10mg?variant=44687643967773",
+        "evidenceUrl": "https://healthyhey.com/products/healthyhey-nutrition-melatonin-10mg-pack-of-120-vegetable-capsules-promotes-sleep-and-relaxation-10mg.json",
+        "matchBasis": "Official public Shopify product; exact variant ID 44687643967773 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+      }
     },
     {
       "brand": "HealthyHey",
@@ -60,13 +72,19 @@
       "labelChecked": "2026-10-31",
       "melatoninMg": 5,
       "id": "melatonin-44687644000541",
-      "price": 549.0,
+      "price": 549,
       "currency": "INR",
       "stock": "In stock",
       "url": "https://healthyhey.com/products/healthyhey-nutrition-melatonin-10mg-pack-of-120-vegetable-capsules-promotes-sleep-and-relaxation-10mg?variant=44687644000541",
       "nutritionUrl": "https://healthyhey.com/products/healthyhey-nutrition-melatonin-10mg-pack-of-120-vegetable-capsules-promotes-sleep-and-relaxation-10mg",
       "flavour": "Unflavoured",
-      "packaging": "Single retail pack"
+      "packaging": "Single retail pack",
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://healthyhey.com/products/healthyhey-nutrition-melatonin-10mg-pack-of-120-vegetable-capsules-promotes-sleep-and-relaxation-10mg?variant=44687644000541",
+        "evidenceUrl": "https://healthyhey.com/products/healthyhey-nutrition-melatonin-10mg-pack-of-120-vegetable-capsules-promotes-sleep-and-relaxation-10mg.json",
+        "matchBasis": "Official public Shopify product; exact variant ID 44687644000541 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+      }
     },
     {
       "brand": "HealthyHey",
@@ -82,79 +100,148 @@
       "labelChecked": "2026-10-31",
       "melatoninMg": 10,
       "id": "melatonin-44687644033309",
-      "price": 599.0,
+      "price": 599,
       "currency": "INR",
       "stock": "In stock",
       "url": "https://healthyhey.com/products/healthyhey-nutrition-melatonin-10mg-pack-of-120-vegetable-capsules-promotes-sleep-and-relaxation-10mg?variant=44687644033309",
       "nutritionUrl": "https://healthyhey.com/products/healthyhey-nutrition-melatonin-10mg-pack-of-120-vegetable-capsules-promotes-sleep-and-relaxation-10mg",
       "flavour": "Unflavoured",
-      "packaging": "Single retail pack"
+      "packaging": "Single retail pack",
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://healthyhey.com/products/healthyhey-nutrition-melatonin-10mg-pack-of-120-vegetable-capsules-promotes-sleep-and-relaxation-10mg?variant=44687644033309",
+        "evidenceUrl": "https://healthyhey.com/products/healthyhey-nutrition-melatonin-10mg-pack-of-120-vegetable-capsules-promotes-sleep-and-relaxation-10mg.json",
+        "matchBasis": "Official public Shopify product; exact variant ID 44687644033309 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+      }
     },
     {
       "brand": "Carbamide Forte",
       "product": "Melatonin 3 mg with Tagara",
       "form": "Tablet",
-      "type": "Melatonin + Tagara",
-      "subclass": "Multi-ingredient blend",
+      "type": "Melatonin",
+      "subclass": "Combination tablet; release profile not stated",
       "packCount": 90,
-      "servingUnits": null,
+      "servingUnits": 1,
       "source": "Not specified",
-      "basis": "Official exact product listing and declared count. Only explicitly verified serving quantities are used.",
-      "notes": "The headline strength is 3 mg with Tagara. Per-tablet composition and label serving basis are unverified; active-content cost is withheld.",
-      "labelChecked": "2026-10-31",
-      "melatoninMg": null,
+      "basis": "Official bottle facts per one tablet: melatonin 3 mg, Tagar 75 mg, vitamin B6 1.9 mg and energy 0.4 kcal. Exact single-bottle pack count is 90.",
+      "notes": "The current bottle facts are used for quantities; one promotional image for the 3 mg product incorrectly says 30 mg melatonin and 2.4 mg B6. No release or regimen claim is inferred.",
+      "labelChecked": "2026-11-19",
+      "melatoninMg": 3,
       "id": "melatonin-42691052011633",
-      "price": 349.0,
+      "price": 349,
       "currency": "INR",
       "stock": "In stock",
       "url": "https://mycf.in/products/carbamide-forte-melatonin-3mg-with-tagara-75mg-sleeping-aid-pills-for-deep-sleep-non-habit-forming-sleep-supplement-90-veg-tablets-1?variant=42691052011633",
-      "nutritionUrl": "https://mycf.in/products/carbamide-forte-melatonin-3mg-with-tagara-75mg-sleeping-aid-pills-for-deep-sleep-non-habit-forming-sleep-supplement-90-veg-tablets-1",
+      "nutritionUrl": "https://www.carbamideforte.com/products/carbamide-forte-melatonin-3mg-with-tagara-75mg-sleeping-aid-pills-for-deep-sleep-non-habit-forming-sleep-supplement-90-veg-tablets-1",
       "flavour": "Unflavoured",
-      "packaging": "Single retail pack"
+      "packaging": "Single retail pack",
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://mycf.in/products/carbamide-forte-melatonin-3mg-with-tagara-75mg-sleeping-aid-pills-for-deep-sleep-non-habit-forming-sleep-supplement-90-veg-tablets-1?variant=42691052011633",
+        "evidenceUrl": "https://www.carbamideforte.com/products/carbamide-forte-melatonin-3mg-with-tagara-75mg-sleeping-aid-pills-for-deep-sleep-non-habit-forming-sleep-supplement-90-veg-tablets-1.json",
+        "matchBasis": "Existing exactvariant ID with newly inspected bottle facts; label/date corrected without creating duplicate aliases."
+      },
+      "vitaminB6Mg": 1.9,
+      "energyPerServing": 0.4,
+      "declaredNutrients": [
+        "melatoninMg",
+        "vitaminB6Mg"
+      ],
+      "labelSources": [
+        "https://www.carbamideforte.com/products/carbamide-forte-melatonin-3mg-with-tagara-75mg-sleeping-aid-pills-for-deep-sleep-non-habit-forming-sleep-supplement-90-veg-tablets-1",
+        "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B07ZXW26WD.PT08.jpg?v=1752313771"
+      ],
+      "additionalIngredients": [
+        {
+          "name": "Tagar rhizome extract",
+          "amount": 75,
+          "unit": "mg",
+          "basis": "per one-tablet label serving"
+        }
+      ]
     },
     {
       "brand": "Carbamide Forte",
       "product": "Melatonin 5 mg with Tagara",
       "form": "Tablet",
-      "type": "Melatonin + Tagara",
-      "subclass": "Multi-ingredient blend",
+      "type": "Melatonin",
+      "subclass": "Combination tablet; release profile not stated",
       "packCount": 60,
-      "servingUnits": null,
+      "servingUnits": 1,
       "source": "Not specified",
-      "basis": "Official exact product listing and declared count. Only explicitly verified serving quantities are used.",
-      "notes": "The headline strength is 5 mg with Tagara. Per-tablet composition and label serving basis are unverified; active-content cost is withheld.",
-      "labelChecked": "2026-10-31",
-      "melatoninMg": null,
+      "basis": "Official bottle facts per one tablet: melatonin 5 mg, Tagar 125 mg, vitamin B6 1.9 mg and energy 0.4 kcal. Exact single-bottle pack count is 60.",
+      "notes": "Tagar is a co-ingredient outside modeled nutrient arithmetic. Unit price does not establish dose or release suitability.",
+      "labelChecked": "2026-11-19",
+      "melatoninMg": 5,
       "id": "melatonin-42691038773361",
-      "price": 399.0,
+      "price": 399,
       "currency": "INR",
       "stock": "In stock",
       "url": "https://mycf.in/products/carbamide-forte-melatonin-5mg-with-tagara-125mg-sleeping-aid-pills-for-deep-sleep-non-habit-forming-sleep-supplement-60-veg-tablets?variant=42691038773361",
-      "nutritionUrl": "https://mycf.in/products/carbamide-forte-melatonin-5mg-with-tagara-125mg-sleeping-aid-pills-for-deep-sleep-non-habit-forming-sleep-supplement-60-veg-tablets",
+      "nutritionUrl": "https://www.carbamideforte.com/products/carbamide-forte-melatonin-5mg-with-tagara-125mg-sleeping-aid-pills-for-deep-sleep-non-habit-forming-sleep-supplement-60-veg-tablets",
       "flavour": "Unflavoured",
-      "packaging": "Single retail pack"
+      "packaging": "Single retail pack",
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://mycf.in/products/carbamide-forte-melatonin-5mg-with-tagara-125mg-sleeping-aid-pills-for-deep-sleep-non-habit-forming-sleep-supplement-60-veg-tablets?variant=42691038773361",
+        "evidenceUrl": "https://www.carbamideforte.com/products/carbamide-forte-melatonin-5mg-with-tagara-125mg-sleeping-aid-pills-for-deep-sleep-non-habit-forming-sleep-supplement-60-veg-tablets.json",
+        "matchBasis": "Existing exactvariant ID with newly inspected bottle facts; label/date corrected without creating duplicate aliases."
+      },
+      "vitaminB6Mg": 1.9,
+      "energyPerServing": 0.4,
+      "declaredNutrients": [
+        "melatoninMg",
+        "vitaminB6Mg"
+      ],
+      "labelSources": [
+        "https://www.carbamideforte.com/products/carbamide-forte-melatonin-5mg-with-tagara-125mg-sleeping-aid-pills-for-deep-sleep-non-habit-forming-sleep-supplement-60-veg-tablets",
+        "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B07ZVY28NV.PT08.jpg?v=1763465853"
+      ],
+      "additionalIngredients": [
+        {
+          "name": "Tagar rhizome extract",
+          "amount": 125,
+          "unit": "mg",
+          "basis": "per one-tablet label serving"
+        }
+      ]
     },
     {
       "brand": "Carbamide Forte",
       "product": "Melatonin 10 mg Sleep Gummies",
       "form": "Gummy",
-      "type": "Melatonin + Tagara",
-      "subclass": "Gummy blend",
+      "type": "Melatonin",
+      "subclass": "Gummy; release profile not stated",
       "packCount": 60,
-      "servingUnits": null,
+      "servingUnits": 1,
       "source": "Not specified",
-      "basis": "Official exact product listing and declared count. Only explicitly verified serving quantities are used.",
-      "notes": "The product headline says 10 mg; the number of gummies per label serving is unverified. Do not assume 10 mg per gummy.",
-      "labelChecked": "2026-10-31",
-      "melatoninMg": null,
-      "flavour": "Orange",
+      "basis": "Official bottle facts: one gummy (3 g) supplies 10 mg melatonin and 9.28 kcal. The bottle contains 60 raspberry-flavoured gummies.",
+      "notes": "Contains 1.65 g added sugar per gummy. The label warns about possible milk, wheat, soy and nut cross-contact. Strength and price are accounting inputs, not a recommended regimen.",
+      "labelChecked": "2026-11-19",
+      "melatoninMg": 10,
+      "flavour": "Raspberry",
       "id": "melatonin-42691055878257",
-      "price": 569.0,
+      "price": 569,
       "currency": "INR",
       "stock": "In stock",
       "url": "https://mycf.in/products/carbamide-forte-sleeping-pills-melatonin-10mg-gummies-for-better-sleep-60-veg-gummies?variant=42691055878257",
-      "nutritionUrl": "https://mycf.in/products/carbamide-forte-sleeping-pills-melatonin-10mg-gummies-for-better-sleep-60-veg-gummies",
-      "packaging": "Single retail pack"
+      "nutritionUrl": "https://www.carbamideforte.com/products/carbamide-forte-sleeping-pills-melatonin-10mg-gummies-for-better-sleep-60-veg-gummies",
+      "packaging": "Single retail pack",
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://mycf.in/products/carbamide-forte-sleeping-pills-melatonin-10mg-gummies-for-better-sleep-60-veg-gummies?variant=42691055878257",
+        "evidenceUrl": "https://www.carbamideforte.com/products/carbamide-forte-sleeping-pills-melatonin-10mg-gummies-for-better-sleep-60-veg-gummies.json",
+        "matchBasis": "Existing exactvariant and freshly inspected bottlelabel; preserve ID and productURL."
+      },
+      "labelSources": [
+        "https://www.carbamideforte.com/products/carbamide-forte-sleeping-pills-melatonin-10mg-gummies-for-better-sleep-60-veg-gummies",
+        "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B08LH8HV1V.PT08.jpg?v=1752321539"
+      ],
+      "declaredNutrients": [
+        "melatoninMg"
+      ],
+      "energyPerServing": 9.28,
+      "unitMassGrams": 3
     },
     {
       "brand": "GNC",
@@ -170,13 +257,19 @@
       "labelChecked": "2026-10-31",
       "melatoninMg": null,
       "id": "melatonin-52521447555303",
-      "price": 449.0,
+      "price": 599,
       "currency": "INR",
       "stock": "In stock",
       "url": "https://www.guardian.in/products/gnc-melatonin-10mg-60-tablets?variant=52521447555303",
       "nutritionUrl": "https://www.guardian.in/products/gnc-melatonin-10mg-60-tablets",
       "flavour": "Unflavoured",
-      "packaging": "Single retail pack"
+      "packaging": "Single retail pack",
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://www.guardian.in/products/gnc-melatonin-10mg-60-tablets?variant=52521447555303",
+        "evidenceUrl": "https://www.guardian.in/products/gnc-melatonin-10mg-60-tablets.json",
+        "matchBasis": "Official public Shopify product; exact variant ID 52521447555303 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+      }
     },
     {
       "brand": "NVEDA",
@@ -192,13 +285,19 @@
       "labelChecked": "2026-10-31",
       "melatoninMg": 3,
       "id": "melatonin-44355032318231",
-      "price": 330.0,
+      "price": 330,
       "currency": "INR",
-      "stock": "In stock",
+      "stock": "Listed; confirm stock",
       "url": "https://nveda.in/products/sleep-control?variant=44355032318231",
       "nutritionUrl": "https://nveda.in/products/sleep-control",
       "flavour": "Unflavoured",
-      "packaging": "Single retail pack"
+      "packaging": "Single retail pack",
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://nveda.in/products/sleep-control?variant=44355032318231",
+        "evidenceUrl": "https://nveda.in/products/sleep-control.json",
+        "matchBasis": "Official public Shopify product; exact variant ID 44355032318231 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+      }
     },
     {
       "brand": "Pure Nutrition",
@@ -214,13 +313,19 @@
       "labelChecked": "2026-10-31",
       "melatoninMg": 5,
       "id": "melatonin-48545853800702",
-      "price": 593.0,
+      "price": 593,
       "currency": "INR",
-      "stock": "Listed; confirm stock",
+      "stock": "In stock",
       "url": "https://purenutrition.in/products/pure-nutrition-melatonin-with-tagar-chamomile-l-theanine-120-veg-tablets-copy?variant=48545853800702",
       "nutritionUrl": "https://purenutrition.in/products/pure-nutrition-melatonin-with-tagar-chamomile-l-theanine-120-veg-tablets-copy",
       "flavour": "Unflavoured",
-      "packaging": "Single retail pack"
+      "packaging": "Single retail pack",
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://purenutrition.in/products/pure-nutrition-melatonin-with-tagar-chamomile-l-theanine-120-veg-tablets-copy?variant=48545853800702",
+        "evidenceUrl": "https://purenutrition.in/products/pure-nutrition-melatonin-with-tagar-chamomile-l-theanine-120-veg-tablets-copy.json",
+        "matchBasis": "Official public Shopify product; exact variant ID 48545853800702 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+      }
     },
     {
       "brand": "Wellbeing Nutrition",
@@ -237,12 +342,18 @@
       "melatoninMg": null,
       "flavour": "Chamomile Lavender",
       "id": "melatonin-40549340282960",
-      "price": 649.0,
+      "price": 649,
       "currency": "INR",
       "stock": "In stock",
       "url": "https://wellbeingnutrition.com/products/restful-sleep-5mg?variant=40549340282960",
       "nutritionUrl": "https://wellbeingnutrition.com/products/restful-sleep-5mg",
-      "packaging": "Single retail pack"
+      "packaging": "Single retail pack",
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://wellbeingnutrition.com/products/restful-sleep-5mg?variant=40549340282960",
+        "evidenceUrl": "https://wellbeingnutrition.com/products/restful-sleep-5mg.json",
+        "matchBasis": "Official public Shopify product; exact variant ID 40549340282960 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+      }
     },
     {
       "brand": "Wellbeing Nutrition",
@@ -259,12 +370,62 @@
       "melatoninMg": 10,
       "flavour": "Lemon Honey",
       "id": "melatonin-40904058634320",
-      "price": 649.0,
+      "price": 649,
       "currency": "INR",
       "stock": "In stock",
       "url": "https://wellbeingnutrition.com/products/restful-sleep-10mg-melts?variant=40904058634320",
       "nutritionUrl": "https://wellbeingnutrition.com/products/restful-sleep-10mg-melts",
-      "packaging": "Single retail pack"
+      "packaging": "Single retail pack",
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://wellbeingnutrition.com/products/restful-sleep-10mg-melts?variant=40904058634320",
+        "evidenceUrl": "https://wellbeingnutrition.com/products/restful-sleep-10mg-melts.json",
+        "matchBasis": "Official public Shopify product; exact variant ID 40904058634320 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+      }
+    },
+    {
+      "id": "melatonin-44687355478301",
+      "brand": "HealthyHey",
+      "labelChecked": "2026-11-19",
+      "currency": "INR",
+      "price": 899,
+      "stock": "Sold out",
+      "packaging": "Single retail pack",
+      "url": "https://healthyhey.com/products/healthyhey-nutrition-1-sleep-supplement-sleep-better-sleep-longer-reduces-anxiety-stress-non-habit-forming-30-vegan-capsules-formula-with-melatonin-lactium-l-theanine-non-gmo?variant=44687355478301",
+      "nutritionUrl": "https://healthyhey.com/products/healthyhey-nutrition-1-sleep-supplement-sleep-better-sleep-longer-reduces-anxiety-stress-non-habit-forming-30-vegan-capsules-formula-with-melatonin-lactium-l-theanine-non-gmo",
+      "labelSources": [
+        "https://healthyhey.com/products/healthyhey-nutrition-1-sleep-supplement-sleep-better-sleep-longer-reduces-anxiety-stress-non-habit-forming-30-vegan-capsules-formula-with-melatonin-lactium-l-theanine-non-gmo",
+        "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-nutrition-capsule-puresleep-supplement-for-better-sleep-reduces-anxiety-stress-30-veg-capsules-1177237451.png?v=1780892485"
+      ],
+      "declaredNutrients": [
+        "melatoninMg"
+      ],
+      "product": "PureSleep Melatonin + Lactium + L-Theanine",
+      "form": "Capsule",
+      "flavour": "Unflavoured",
+      "packCount": 30,
+      "servingUnits": 1,
+      "melatoninMg": 3,
+      "energyPerServing": 0,
+      "type": "Melatonin",
+      "subclass": "Melatonin + casein hydrolysate + theanine",
+      "source": "Contains milk-derived Lactium",
+      "basis": "The official panel lists one capsule per serving and 30 capsules: melatonin 3 mg, Lactium casein hydrolysate 100 mg and L-theanine 100 mg.",
+      "notes": "Contains milk despite vegan wording in the legacy URL and a vegetable capsule shell. Co-ingredient material is not assumed to be protein or counted as melatonin. This is a label record, not a regimen recommendation.",
+      "additionalIngredients": [
+        {
+          "name": "Lactium casein hydrolysate (milk-derived)",
+          "amount": 100,
+          "unit": "mg",
+          "basis": "per one-capsule label serving; not verified protein grams"
+        },
+        {
+          "name": "L-theanine",
+          "amount": 100,
+          "unit": "mg",
+          "basis": "per one-capsule label serving"
+        }
+      ]
     }
   ]
 }

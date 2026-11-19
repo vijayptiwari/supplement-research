@@ -1,5 +1,5 @@
 {
-  "checked": "2026-10-31",
+  "checked": "2026-11-19",
   "category": "vitamin-b",
   "offers": [
     {
@@ -36,12 +36,18 @@
       "folateMcgDfe": null,
       "methylfolateMcg": null,
       "id": "vitamin-b-44683783602461",
-      "price": 1389.0,
+      "price": 1389,
       "currency": "INR",
-      "stock": "Listed; confirm stock",
+      "stock": "In stock",
       "url": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-b-complex-60-vegetable-capsules?variant=44683783602461",
       "nutritionUrl": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-b-complex-60-vegetable-capsules",
-      "packaging": "Single retail pack"
+      "packaging": "Single retail pack",
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-b-complex-60-vegetable-capsules?variant=44683783602461",
+        "evidenceUrl": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-b-complex-60-vegetable-capsules.json",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
     },
     {
       "brand": "HealthyHey",
@@ -77,12 +83,18 @@
       "folateMcgDfe": null,
       "methylfolateMcg": null,
       "id": "vitamin-b-44683783635229",
-      "price": 1969.0,
+      "price": 1969,
       "currency": "INR",
-      "stock": "Listed; confirm stock",
+      "stock": "In stock",
       "url": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-b-complex-60-vegetable-capsules?variant=44683783635229",
       "nutritionUrl": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-b-complex-60-vegetable-capsules",
-      "packaging": "Single retail pack"
+      "packaging": "Single retail pack",
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-b-complex-60-vegetable-capsules?variant=44683783635229",
+        "evidenceUrl": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-b-complex-60-vegetable-capsules.json",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
     },
     {
       "brand": "HealthyHey",
@@ -111,12 +123,18 @@
       "folateMcgDfe": null,
       "methylfolateMcg": null,
       "id": "vitamin-b-44683850088733",
-      "price": 559.0,
+      "price": 599,
       "currency": "INR",
       "stock": "In stock",
       "url": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-b2-riboflavin-120-veg-capsules?variant=44683850088733",
       "nutritionUrl": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-b2-riboflavin-120-veg-capsules",
-      "packaging": "Single retail pack"
+      "packaging": "Single retail pack",
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-b2-riboflavin-120-veg-capsules?variant=44683850088733",
+        "evidenceUrl": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-b2-riboflavin-120-veg-capsules.json",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
     },
     {
       "brand": "HealthyHey",
@@ -145,12 +163,18 @@
       "folateMcgDfe": null,
       "methylfolateMcg": null,
       "id": "vitamin-b-44683676385565",
-      "price": 483.0,
+      "price": 549,
       "currency": "INR",
-      "stock": "Listed; confirm stock",
+      "stock": "In stock",
       "url": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-b1-thiamine-120-veg-capsules?variant=44683676385565",
       "nutritionUrl": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-b1-thiamine-120-veg-capsules",
-      "packaging": "Single retail pack"
+      "packaging": "Single retail pack",
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-b1-thiamine-120-veg-capsules?variant=44683676385565",
+        "evidenceUrl": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-b1-thiamine-120-veg-capsules.json",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
     },
     {
       "brand": "Carbamide Forte",
@@ -186,12 +210,18 @@
       "folateMcgDfe": null,
       "methylfolateMcg": null,
       "id": "vitamin-b-44320956809329",
-      "price": 349.0,
+      "price": 349,
       "currency": "INR",
       "stock": "In stock",
       "url": "https://mycf.in/products/novoplex-bio?variant=44320956809329",
       "nutritionUrl": "https://mycf.in/products/novoplex-bio",
-      "packaging": "Single retail pack"
+      "packaging": "Single retail pack",
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://mycf.in/products/novoplex-bio?variant=44320956809329",
+        "evidenceUrl": "https://mycf.in/products/novoplex-bio.json",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
     },
     {
       "brand": "Carbamide Forte",
@@ -230,12 +260,18 @@
         "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/VITAMIN_B_COMPLEX.cdr.jpg_1.jpg?v=1789731538"
       ],
       "id": "vitamin-b-42690407596145",
-      "price": 499.0,
+      "price": 499,
       "currency": "INR",
       "stock": "In stock",
       "url": "https://mycf.in/products/carbamide-forte-vitamin-b-complex-tablets-100-rda-for-b-vitamins-with-b1-b2-b3-b5-b6-b9-vitamin-b12-vitamin-b-complex-supplements-for-women-men-120-vegetarian-tablets?variant=42690407596145",
       "nutritionUrl": "https://mycf.in/products/carbamide-forte-vitamin-b-complex-tablets-100-rda-for-b-vitamins-with-b1-b2-b3-b5-b6-b9-vitamin-b12-vitamin-b-complex-supplements-for-women-men-120-vegetarian-tablets",
-      "packaging": "Single retail pack"
+      "packaging": "Single retail pack",
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://mycf.in/products/carbamide-forte-vitamin-b-complex-tablets-100-rda-for-b-vitamins-with-b1-b2-b3-b5-b6-b9-vitamin-b12-vitamin-b-complex-supplements-for-women-men-120-vegetarian-tablets?variant=42690407596145",
+        "evidenceUrl": "https://mycf.in/products/carbamide-forte-vitamin-b-complex-tablets-100-rda-for-b-vitamins-with-b1-b2-b3-b5-b6-b9-vitamin-b12-vitamin-b-complex-supplements-for-women-men-120-vegetarian-tablets.json",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
     },
     {
       "brand": "Naturaltein",
@@ -269,12 +305,18 @@
         "https://cdn.shopify.com/s/files/1/0634/8868/8211/files/60.webp?v=1770733780"
       ],
       "id": "vitamin-b-42576152559699",
-      "price": 549.0,
+      "price": 549,
       "currency": "INR",
       "stock": "In stock",
       "url": "https://naturaltein.in/products/vitamin-b12-folate?variant=42576152559699",
       "nutritionUrl": "https://naturaltein.in/products/vitamin-b12-folate",
-      "packaging": "Single retail pack"
+      "packaging": "Single retail pack",
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://naturaltein.in/products/vitamin-b12-folate?variant=42576152559699",
+        "evidenceUrl": "https://naturaltein.in/products/vitamin-b12-folate.json",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
     },
     {
       "brand": "Health Veda Organics",
@@ -310,12 +352,18 @@
       "folateMcgDfe": null,
       "methylfolateMcg": null,
       "id": "vitamin-b-42527061934302",
-      "price": 498.0,
+      "price": 498,
       "currency": "INR",
       "stock": "In stock",
       "url": "https://healthvedaorganics.com/products/plant-based-b-complex-capsules-with-all-b-vitamins-support-cognitive-health-60-veg-capsules?variant=42527061934302",
       "nutritionUrl": "https://healthvedaorganics.com/products/plant-based-b-complex-capsules-with-all-b-vitamins-support-cognitive-health-60-veg-capsules",
-      "packaging": "Single retail pack"
+      "packaging": "Single retail pack",
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://healthvedaorganics.com/products/plant-based-b-complex-capsules-with-all-b-vitamins-support-cognitive-health-60-veg-capsules?variant=42527061934302",
+        "evidenceUrl": "https://healthvedaorganics.com/products/plant-based-b-complex-capsules-with-all-b-vitamins-support-cognitive-health-60-veg-capsules.json",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
     },
     {
       "brand": "Pure Nutrition",
@@ -360,7 +408,13 @@
       "stock": "In stock",
       "url": "https://purenutrition.in/products/pure-nutrition-b-complex-100-rda-of-b-vitamins-energy-immunity-support-120-veg-tablets?variant=47806799970558",
       "nutritionUrl": "https://purenutrition.in/products/pure-nutrition-b-complex-100-rda-of-b-vitamins-energy-immunity-support-120-veg-tablets",
-      "packaging": "Single retail pack"
+      "packaging": "Single retail pack",
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://purenutrition.in/products/pure-nutrition-b-complex-100-rda-of-b-vitamins-energy-immunity-support-120-veg-tablets?variant=47806799970558",
+        "evidenceUrl": "https://purenutrition.in/products/pure-nutrition-b-complex-100-rda-of-b-vitamins-energy-immunity-support-120-veg-tablets.json",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
     },
     {
       "brand": "Pure Nutrition",
@@ -389,12 +443,18 @@
       "folateMcgDfe": null,
       "methylfolateMcg": null,
       "id": "vitamin-b-48752119382270",
-      "price": 449.0,
+      "price": 449,
       "currency": "INR",
-      "stock": "Listed; confirm stock",
+      "stock": "In stock",
       "url": "https://purenutrition.in/products/vitamin-b12-500mcg-120-tabs?variant=48752119382270",
       "nutritionUrl": "https://purenutrition.in/products/vitamin-b12-500mcg-120-tabs",
-      "packaging": "Single retail pack"
+      "packaging": "Single retail pack",
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://purenutrition.in/products/vitamin-b12-500mcg-120-tabs?variant=48752119382270",
+        "evidenceUrl": "https://purenutrition.in/products/vitamin-b12-500mcg-120-tabs.json",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
     },
     {
       "brand": "Wellbeing Nutrition",
@@ -430,12 +490,18 @@
       "folateMcgDfe": null,
       "methylfolateMcg": null,
       "id": "vitamin-b-41424862445648",
-      "price": 764.0,
+      "price": 899,
       "currency": "INR",
       "stock": "In stock",
       "url": "https://wellbeingnutrition.com/products/b-complex-capsules?variant=41424862445648",
       "nutritionUrl": "https://wellbeingnutrition.com/products/b-complex-capsules",
-      "packaging": "Single retail pack"
+      "packaging": "Single retail pack",
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://wellbeingnutrition.com/products/b-complex-capsules?variant=41424862445648",
+        "evidenceUrl": "https://wellbeingnutrition.com/products/b-complex-capsules.json",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
     },
     {
       "brand": "Wellbeing Nutrition",
@@ -465,12 +531,248 @@
       "folateMcgDfe": null,
       "methylfolateMcg": null,
       "id": "vitamin-b-39520460570704",
-      "price": 649.0,
+      "price": 649,
       "currency": "INR",
-      "stock": "Listed; confirm stock",
+      "stock": "In stock",
       "url": "https://wellbeingnutrition.com/products/melts-vitamin-b12-1500mcg-folate-brahmi-curcumin-oral-strips?variant=39520460570704",
       "nutritionUrl": "https://wellbeingnutrition.com/products/melts-vitamin-b12-1500mcg-folate-brahmi-curcumin-oral-strips",
-      "packaging": "Single retail pack"
+      "packaging": "Single retail pack",
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://wellbeingnutrition.com/products/melts-vitamin-b12-1500mcg-folate-brahmi-curcumin-oral-strips?variant=39520460570704",
+        "evidenceUrl": "https://wellbeingnutrition.com/products/melts-vitamin-b12-1500mcg-folate-brahmi-curcumin-oral-strips.json",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
+    },
+    {
+      "id": "vitamin-b-45897052618917",
+      "brand": "INLIFE",
+      "product": "B-Complex with Choline, Inositol and Alpha Lipoic Acid",
+      "form": "Capsule",
+      "type": "Eight B vitamins; cyanocobalamin and folic acid",
+      "subclass": "B-complex with co-ingredients",
+      "flavour": "Unflavoured",
+      "source": "Not specified",
+      "packCount": 120,
+      "servingUnits": 1,
+      "price": 758,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://inlifehealthcare.com/products/inlife-b-complex-supplement-vegetarian-capsules?variant=45897052618917",
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/WEBP_11.webp?v=1791377754",
+      "labelSources": [
+        "https://inlifehealthcare.com/products/inlife-b-complex-supplement-vegetarian-capsules",
+        "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/WEBP_11.webp?v=1791377754"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official supplement panel per one capsule: B1 1.8mg,B2 2.5mg,B3 18mg,B5 5mg,B6 2.4mg,biotin40micrograms,B12 2.2micrograms,folic acid176.4micrograms.",
+      "notes": "Alpha lipoic acid20mg, inositol10mg and choline10mg are separate co-ingredients, not additional B-vitamin mass. No summed B-strength score is calculated.",
+      "packaging": "Brand-listed retail pack (120 capsules)",
+      "vitaminB1Mg": 1.8,
+      "vitaminB2Mg": 2.5,
+      "vitaminB3Mg": 18,
+      "vitaminB5Mg": 5,
+      "vitaminB6Mg": 2.4,
+      "biotinMcg": 40,
+      "vitaminB12Mcg": 2.2,
+      "folicAcidMcg": 176.4,
+      "declaredNutrients": [
+        "vitaminB1Mg",
+        "vitaminB2Mg",
+        "vitaminB3Mg",
+        "vitaminB5Mg",
+        "vitaminB6Mg",
+        "biotinMcg",
+        "vitaminB12Mcg",
+        "folicAcidMcg"
+      ]
+    },
+    {
+      "id": "vitamin-b-45897052586149",
+      "brand": "INLIFE",
+      "product": "B-Complex with Choline, Inositol and Alpha Lipoic Acid",
+      "form": "Capsule",
+      "type": "Eight B vitamins; cyanocobalamin and folic acid",
+      "subclass": "B-complex with co-ingredients",
+      "flavour": "Unflavoured",
+      "source": "Not specified",
+      "packCount": 60,
+      "servingUnits": 1,
+      "price": 399,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://inlifehealthcare.com/products/inlife-b-complex-supplement-vegetarian-capsules?variant=45897052586149",
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/WEBP_11.webp?v=1791377754",
+      "labelSources": [
+        "https://inlifehealthcare.com/products/inlife-b-complex-supplement-vegetarian-capsules",
+        "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/WEBP_11.webp?v=1791377754"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official supplement panel per one capsule: B1 1.8mg,B2 2.5mg,B3 18mg,B5 5mg,B6 2.4mg,biotin40micrograms,B12 2.2micrograms,folic acid176.4micrograms.",
+      "notes": "Alpha lipoic acid20mg, inositol10mg and choline10mg are separate co-ingredients, not additional B-vitamin mass. No summed B-strength score is calculated.",
+      "packaging": "Brand-listed retail pack (60 capsules)",
+      "vitaminB1Mg": 1.8,
+      "vitaminB2Mg": 2.5,
+      "vitaminB3Mg": 18,
+      "vitaminB5Mg": 5,
+      "vitaminB6Mg": 2.4,
+      "biotinMcg": 40,
+      "vitaminB12Mcg": 2.2,
+      "folicAcidMcg": 176.4,
+      "declaredNutrients": [
+        "vitaminB1Mg",
+        "vitaminB2Mg",
+        "vitaminB3Mg",
+        "vitaminB5Mg",
+        "vitaminB6Mg",
+        "biotinMcg",
+        "vitaminB12Mcg",
+        "folicAcidMcg"
+      ]
+    },
+    {
+      "id": "vitamin-b-44928074416298",
+      "brand": "Neuherbs",
+      "product": "True Vitamin B12 with Folic Acid, Inositol and Botanicals",
+      "form": "Tablet",
+      "type": "Cyanocobalamin + folic acid",
+      "subclass": "B12 + folic acid combination",
+      "flavour": "Unflavoured",
+      "source": "Plant-labelled formulation; source authentication not independently tested",
+      "packCount": 60,
+      "servingUnits": 1,
+      "price": 349,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://neuherbs.com/products/b12-vitamin-tablets-energy-circulation?variant=44928074416298",
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/True_vitamin_B12_9.webp?v=1774249905",
+      "labelSources": [
+        "https://neuherbs.com/products/b12-vitamin-tablets-energy-circulation",
+        "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/True_vitamin_B12_9.webp?v=1774249905"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official bottle panel per one tablet: B12(cyanocobalamin)2.2micrograms and folic acid129.41micrograms, with inositol100mg,Punarnava100mg and spirulina extract50mg.",
+      "notes": "The front plant/spirulina marketing is not treated as analytical proof of B12 source or bioavailability. The numeric payload and cyanocobalamin form come from the supplement facts.",
+      "packaging": "Brand-listed retail pack (60 tablets)",
+      "vitaminB12Mcg": 2.2,
+      "folicAcidMcg": 129.41,
+      "energyPerServing": 0.88,
+      "declaredNutrients": [
+        "vitaminB12Mcg",
+        "folicAcidMcg"
+      ]
+    },
+    {
+      "id": "vitamin-b-46152288469162",
+      "brand": "Neuherbs",
+      "product": "True Vitamin B12 with Folic Acid, Inositol and Botanicals",
+      "form": "Tablet",
+      "type": "Cyanocobalamin + folic acid",
+      "subclass": "B12 + folic acid combination",
+      "flavour": "Unflavoured",
+      "source": "Plant-labelled formulation; source authentication not independently tested",
+      "packCount": 120,
+      "servingUnits": 1,
+      "price": 669,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://neuherbs.com/products/b12-vitamin-tablets-energy-circulation?variant=46152288469162",
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/True_vitamin_B12_9.webp?v=1774249905",
+      "labelSources": [
+        "https://neuherbs.com/products/b12-vitamin-tablets-energy-circulation",
+        "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/True_vitamin_B12_9.webp?v=1774249905"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official bottle panel per one tablet: B12(cyanocobalamin)2.2micrograms and folic acid129.41micrograms, with inositol100mg,Punarnava100mg and spirulina extract50mg.",
+      "notes": "The front plant/spirulina marketing is not treated as analytical proof of B12 source or bioavailability. The numeric payload and cyanocobalamin form come from the supplement facts.",
+      "packaging": "Brand-listed retail pack (120 tablets)",
+      "vitaminB12Mcg": 2.2,
+      "folicAcidMcg": 129.41,
+      "energyPerServing": 0.88,
+      "declaredNutrients": [
+        "vitaminB12Mcg",
+        "folicAcidMcg"
+      ]
+    },
+    {
+      "id": "vitamin-b-44488839463077",
+      "brand": "INLIFE",
+      "product": "Vitamin B12 with Folic Acid, B Vitamins and ALA",
+      "form": "Tablet",
+      "type": "Cyanocobalamin + folic acid and B vitamins",
+      "subclass": "B-vitamin combination with ALA and calcium",
+      "flavour": "Unflavoured",
+      "source": "Not specified",
+      "packCount": 240,
+      "servingUnits": 1,
+      "price": 1043,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://inlifehealthcare.com/products/inlife-vitamin-b12-folic-acid-supplement-rda?variant=44488839463077",
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/supplementfacts_975fd089-77b0-47b3-ae3b-95fe4f7be022.jpg?v=1793699747",
+      "labelSources": [
+        "https://inlifehealthcare.com/products/inlife-vitamin-b12-folic-acid-supplement-rda",
+        "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/supplementfacts_975fd089-77b0-47b3-ae3b-95fe4f7be022.jpg?v=1793699747"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official panel per one tablet: B1 1.4mg,B5 5mg,B6 1.9mg,folic acid129.4micrograms,B12 2.2micrograms,calcium30mg;ALA25mg andinositol10mg are separate co-ingredients.",
+      "notes": "This is the RDA-labelled formulation, not the separate INLIFE1500microgram B12 product. Ingredient quantities are recorded separately without a combined vitamin-potency score.",
+      "packaging": "Brand-listed retail pack (240 tablets)",
+      "vitaminB1Mg": 1.4,
+      "vitaminB5Mg": 5,
+      "vitaminB6Mg": 1.9,
+      "folicAcidMcg": 129.4,
+      "vitaminB12Mcg": 2.2,
+      "calciumMg": 30,
+      "energyPerServing": 0.182,
+      "mineralBasis": "elemental",
+      "declaredNutrients": [
+        "vitaminB1Mg",
+        "vitaminB5Mg",
+        "vitaminB6Mg",
+        "folicAcidMcg",
+        "vitaminB12Mcg"
+      ]
+    },
+    {
+      "id": "vitamin-b-44488839430309",
+      "brand": "INLIFE",
+      "product": "Vitamin B12 with Folic Acid, B Vitamins and ALA",
+      "form": "Tablet",
+      "type": "Cyanocobalamin + folic acid and B vitamins",
+      "subclass": "B-vitamin combination with ALA and calcium",
+      "flavour": "Unflavoured",
+      "source": "Not specified",
+      "packCount": 120,
+      "servingUnits": 1,
+      "price": 549,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://inlifehealthcare.com/products/inlife-vitamin-b12-folic-acid-supplement-rda?variant=44488839430309",
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/supplementfacts_975fd089-77b0-47b3-ae3b-95fe4f7be022.jpg?v=1793699747",
+      "labelSources": [
+        "https://inlifehealthcare.com/products/inlife-vitamin-b12-folic-acid-supplement-rda",
+        "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/supplementfacts_975fd089-77b0-47b3-ae3b-95fe4f7be022.jpg?v=1793699747"
+      ],
+      "labelChecked": "2026-11-19",
+      "basis": "Official panel per one tablet: B1 1.4mg,B5 5mg,B6 1.9mg,folic acid129.4micrograms,B12 2.2micrograms,calcium30mg;ALA25mg andinositol10mg are separate co-ingredients.",
+      "notes": "This is the RDA-labelled formulation, not the separate INLIFE1500microgram B12 product. Ingredient quantities are recorded separately without a combined vitamin-potency score.",
+      "packaging": "Brand-listed retail pack (120 tablets)",
+      "vitaminB1Mg": 1.4,
+      "vitaminB5Mg": 5,
+      "vitaminB6Mg": 1.9,
+      "folicAcidMcg": 129.4,
+      "vitaminB12Mcg": 2.2,
+      "calciumMg": 30,
+      "energyPerServing": 0.182,
+      "mineralBasis": "elemental",
+      "declaredNutrients": [
+        "vitaminB1Mg",
+        "vitaminB5Mg",
+        "vitaminB6Mg",
+        "folicAcidMcg",
+        "vitaminB12Mcg"
+      ]
     }
   ]
 }

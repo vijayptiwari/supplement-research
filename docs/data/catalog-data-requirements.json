@@ -1,0 +1,830 @@
+{
+  "checked": "2026-11-19",
+  "scope": "Publication requirements for exact Indian retail product records; unknown fields remain null and block only calculations needing those inputs.",
+  "sharedRequired": [
+    "stable offer ID",
+    "brand/company and official source",
+    "exact product and variant/SKU",
+    "actual retail net mass or unit count (not shipping weight)",
+    "unconditional listed INR price with dated exact match",
+    "stock with known/unknown distinction",
+    "chemical/source form and subclassification",
+    "label serving basis or explicit unknown",
+    "labelChecked separate from price-checked date",
+    "nutrition/ingredient source links",
+    "conflicts and additional unmodeled ingredients"
+  ],
+  "excludedPriceTypes": [
+    "calculated prices for unavailable pack sizes",
+    "subscription-only or first-order coupon prices",
+    "unspecified from/aggregate family prices",
+    "zero-price gifts",
+    "historical estimates or forward-filled missing quarters"
+  ],
+  "categories": [
+    {
+      "category": "protein",
+      "label": "Protein",
+      "measurement": "powder-concentration",
+      "nutrientFields": [],
+      "comparisonNote": "Costs derive from verified net grams and labelled concentration.",
+      "checks": "Verify the exact flavour,1/2/4kg net retail pack, protein grams/serving and gram serving weight before deriving percent. Never multiply a1kg price to invent a2/4kg offer."
+    },
+    {
+      "category": "creatine",
+      "label": "Creatine",
+      "measurement": "powder-concentration",
+      "nutrientFields": [],
+      "comparisonNote": "Costs derive from verified net grams and labelled concentration.",
+      "checks": "Record the labelled compound, form, grade and ingredient concentration for the exact flavour. Flavoured material is not assumed100%creatine. Derivative masses are not equivalent free-creatine amounts."
+    },
+    {
+      "category": "ashwagandha",
+      "label": "Ashwagandha",
+      "measurement": "units",
+      "nutrientFields": [
+        {
+          "key": "ashwagandhaMg",
+          "label": "Ashwagandha material",
+          "unit": "mg",
+          "table": true
+        },
+        {
+          "key": "withanolidesPct",
+          "label": "Extract standardization",
+          "unit": "%",
+          "table": true
+        },
+        {
+          "key": "standardizedExtractMg",
+          "label": "Standardized extract component",
+          "unit": "mg",
+          "table": false
+        },
+        {
+          "key": "withanolidesMg",
+          "label": "Withanolides (calculated)",
+          "unit": "mg",
+          "table": false
+        }
+      ],
+      "comparisonNote": "Root powder, extracts and blends are distinct profiles. Compare material costs within the same formulation; a standardized extract mass is required to calculate withanolides.",
+      "checks": "Separate root powder, root extract and standardized extract component mass. Withanolides need a verified extract basis; a dry-root equivalent is not extract mass."
+    },
+    {
+      "category": "fish-oil",
+      "label": "Fish Oil",
+      "measurement": "units",
+      "nutrientFields": [
+        {
+          "key": "epaDhaMg",
+          "label": "EPA + DHA",
+          "unit": "mg",
+          "table": true
+        },
+        {
+          "key": "epaMg",
+          "label": "EPA",
+          "unit": "mg",
+          "table": true
+        },
+        {
+          "key": "dhaMg",
+          "label": "DHA",
+          "unit": "mg",
+          "table": true
+        },
+        {
+          "key": "fishOilMg",
+          "label": "Total fish oil",
+          "unit": "mg",
+          "table": false
+        }
+      ],
+      "comparisonNote": "EPA+DHA and total fish-oil mass are recorded separately. Compare the chemical form and actual label serving alongside cost.",
+      "checks": "Separate EPA,DHA and oil mass. Never infer EPA/DHA split or ester form. Algal omega3 is not classified as fish oil."
+    },
+    {
+      "category": "vitamin-d",
+      "label": "Vitamin D",
+      "measurement": "units",
+      "nutrientFields": [
+        {
+          "key": "vitaminDIu",
+          "label": "Vitamin D",
+          "unit": "IU",
+          "table": true
+        },
+        {
+          "key": "vitaminDMcg",
+          "label": "Vitamin D",
+          "unit": "µg",
+          "table": true
+        },
+        {
+          "key": "vitaminK2Mcg",
+          "label": "Vitamin K2",
+          "unit": "µg",
+          "table": true
+        }
+      ],
+      "comparisonNote": "Vitamin D amounts use IU with micrograms shown alongside (1 µg = 40 IU). Strength comparisons do not specify intake frequency.",
+      "checks": "Use IU/µg consistency (1µg=40IU); strength does not specify intake frequency."
+    },
+    {
+      "category": "magnesium",
+      "label": "Magnesium",
+      "measurement": "units",
+      "nutrientFields": [
+        {
+          "key": "magnesiumMg",
+          "label": "Elemental magnesium",
+          "unit": "mg",
+          "table": true
+        },
+        {
+          "key": "magnesiumCompoundMg",
+          "label": "Magnesium compound (not elemental)",
+          "unit": "mg",
+          "table": false
+        }
+      ],
+      "comparisonNote": "Cost comparisons use explicitly labelled elemental magnesium. Glycinate, citrate and other compound masses are stored separately and are not substituted for elemental content.",
+      "checks": "Elemental magnesium must be explicit; chelate/compound mass stays separate."
+    },
+    {
+      "category": "zmc",
+      "label": "ZMC",
+      "measurement": "units",
+      "nutrientFields": [
+        {
+          "key": "calciumMg",
+          "label": "Elemental calcium",
+          "unit": "mg",
+          "table": true
+        },
+        {
+          "key": "magnesiumMg",
+          "label": "Elemental magnesium",
+          "unit": "mg",
+          "table": true
+        },
+        {
+          "key": "zincMg",
+          "label": "Elemental zinc",
+          "unit": "mg",
+          "table": true
+        },
+        {
+          "key": "vitaminDIu",
+          "label": "Vitamin D",
+          "unit": "IU",
+          "table": false
+        },
+        {
+          "key": "vitaminK2Mcg",
+          "label": "Vitamin K2",
+          "unit": "µg",
+          "table": false
+        },
+        {
+          "key": "calciumCompoundMg",
+          "label": "Calcium compound (not elemental)",
+          "unit": "mg",
+          "table": false
+        },
+        {
+          "key": "magnesiumCompoundMg",
+          "label": "Magnesium compound (not elemental)",
+          "unit": "mg",
+          "table": false
+        },
+        {
+          "key": "zincCompoundMg",
+          "label": "Zinc compound (not elemental)",
+          "unit": "mg",
+          "table": false
+        }
+      ],
+      "comparisonNote": "ZMC means zinc + magnesium + calcium. Compare cost per label serving and each declared elemental mineral separately; the three mineral masses are not added into a single strength score.",
+      "checks": "All zinc,magnesium andcalcium must be declared. ZMA is not ZMC. Conflicting serving panels leave nutrient/serving inputs unknown."
+    },
+    {
+      "category": "glutathione",
+      "label": "Glutathione",
+      "measurement": "units",
+      "nutrientFields": [
+        {
+          "key": "glutathioneMg",
+          "label": "Glutathione",
+          "unit": "mg",
+          "table": true
+        }
+      ],
+      "comparisonNote": "Compare oral glutathione amounts only when the exact label serving is verified. Reduced, liposomal and combination formulations are recorded separately; ingredient cost does not establish absorption or clinical benefit. Total blend mass and precursors are not counted as glutathione.",
+      "checks": "Precursor,liposomal complex mass and actual glutathione payload differ. Resolve purity/standardization basis before active-cost calculation."
+    },
+    {
+      "category": "melatonin",
+      "label": "Melatonin",
+      "measurement": "units",
+      "nutrientFields": [
+        {
+          "key": "melatoninMg",
+          "label": "Melatonin",
+          "unit": "mg",
+          "table": true
+        }
+      ],
+      "comparisonNote": "The 1 mg quantity is a cost comparison unit, not an intake recommendation. Check exact strength, release formulation and other ingredients. Higher strength or lower ingredient cost does not establish better sleep or suitability.",
+      "checks": "Keep full label serving and release formulation. Gummies and blend coingredients need their own label facts; a capsule shell is not vegan certification."
+    },
+    {
+      "category": "biotin",
+      "label": "Biotin",
+      "measurement": "units",
+      "nutrientFields": [
+        {
+          "key": "biotinMcg",
+          "label": "Biotin (B7)",
+          "unit": "µg",
+          "table": true
+        }
+      ],
+      "comparisonNote": "Biotin is recorded in micrograms, not milligrams. Compare only verified label amounts and servings; a higher strength does not establish a hair or nail benefit. Check other ingredients and tell your laboratory about biotin use.",
+      "checks": "Record actual biotin in micrograms. Botanical extract mass is not biotin payload."
+    },
+    {
+      "category": "vitamin-c",
+      "label": "Vitamin C",
+      "measurement": "units",
+      "nutrientFields": [
+        {
+          "key": "vitaminCMg",
+          "label": "Vitamin C",
+          "unit": "mg",
+          "table": true
+        }
+      ],
+      "comparisonNote": "Vitamin C amount is distinct from the mass of amla, citrus, mineral ascorbate or a multi-ingredient blend. Costs use the declared vitamin C per verified label serving; chemical forms and other ingredients remain separate profiles.",
+      "checks": "Actual declared vitaminC amount is distinct from amla/acerola blend mass."
+    },
+    {
+      "category": "vitamin-b",
+      "label": "Vitamin B",
+      "measurement": "units",
+      "nutrientFields": [
+        {
+          "key": "vitaminB1Mg",
+          "label": "B1 (thiamin)",
+          "unit": "mg",
+          "table": true,
+          "costQuantity": 1,
+          "searchAliases": [
+            "b1",
+            "thiamin",
+            "thiamine"
+          ]
+        },
+        {
+          "key": "vitaminB2Mg",
+          "label": "B2 (riboflavin)",
+          "unit": "mg",
+          "table": true,
+          "costQuantity": 1,
+          "searchAliases": [
+            "b2",
+            "riboflavin"
+          ]
+        },
+        {
+          "key": "vitaminB3Mg",
+          "label": "B3 (declared niacin)",
+          "unit": "mg",
+          "table": true,
+          "costQuantity": 1,
+          "searchAliases": [
+            "b3",
+            "niacin",
+            "nicotinamide",
+            "niacinamide"
+          ]
+        },
+        {
+          "key": "vitaminB5Mg",
+          "label": "B5 (pantothenic acid)",
+          "unit": "mg",
+          "table": true,
+          "costQuantity": 1,
+          "searchAliases": [
+            "b5",
+            "pantothenic"
+          ]
+        },
+        {
+          "key": "vitaminB6Mg",
+          "label": "B6",
+          "unit": "mg",
+          "table": true,
+          "costQuantity": 1,
+          "searchAliases": [
+            "b6",
+            "pyridoxine"
+          ]
+        },
+        {
+          "key": "biotinMcg",
+          "label": "B7 (biotin)",
+          "unit": "µg",
+          "table": true,
+          "costQuantity": 100,
+          "searchAliases": [
+            "b7",
+            "biotin"
+          ]
+        },
+        {
+          "key": "folicAcidMcg",
+          "label": "B9 (folic acid)",
+          "unit": "µg",
+          "table": true,
+          "costQuantity": 100,
+          "searchAliases": [
+            "b9",
+            "folic acid"
+          ]
+        },
+        {
+          "key": "folateMcgDfe",
+          "label": "Folate (dietary equivalents)",
+          "unit": "µg DFE",
+          "table": true,
+          "costQuantity": 100,
+          "searchAliases": [
+            "folate",
+            "dfe"
+          ]
+        },
+        {
+          "key": "methylfolateMcg",
+          "label": "B9 (methylfolate)",
+          "unit": "µg",
+          "table": true,
+          "costQuantity": 100,
+          "searchAliases": [
+            "methylfolate",
+            "5 mthf",
+            "5mthf",
+            "l methylfolate"
+          ]
+        },
+        {
+          "key": "vitaminB12Mcg",
+          "label": "B12",
+          "unit": "µg",
+          "table": true,
+          "costQuantity": 1,
+          "searchAliases": [
+            "b12",
+            "vitaminb12",
+            "cobalamin"
+          ]
+        }
+      ],
+      "comparisonNote": "B-complex and individual B vitamins are different profiles. Compare cost per label serving and each vitamin separately, in its own units. Vitamin masses are never added into a B-strength score; a one-vitamin product is not a complete B-complex. Folic acid, methylfolate and dietary folate equivalents remain separate.",
+      "checks": "Keep per-vitamin units and declared nutrient profile. No combined B-vitamin strength score."
+    },
+    {
+      "category": "folic-acid",
+      "label": "Folic Acid & Folate",
+      "measurement": "units",
+      "nutrientFields": [
+        {
+          "key": "folicAcidMcg",
+          "label": "Folic acid",
+          "unit": "µg",
+          "table": true,
+          "searchAliases": [
+            "b9",
+            "folic acid"
+          ]
+        },
+        {
+          "key": "methylfolateMcg",
+          "label": "Methylfolate",
+          "unit": "µg",
+          "table": true,
+          "costQuantity": 100,
+          "searchAliases": [
+            "methylfolate",
+            "5 mthf",
+            "5mthf",
+            "l methylfolate"
+          ]
+        },
+        {
+          "key": "folateMcgDfe",
+          "label": "Folate (dietary equivalents)",
+          "unit": "µg DFE",
+          "table": true,
+          "costQuantity": 100,
+          "searchAliases": [
+            "folate",
+            "dfe"
+          ]
+        }
+      ],
+      "comparisonNote": "Folic acid mass, methylfolate mass and dietary folate equivalents (DFE) are recorded separately. No serving, chemical-form or DFE conversion is assumed. The primary reference cost uses only explicitly labelled folic acid; methylfolate and DFE costs, when verified, are separate calculations. Combination products can also contain iron or other ingredients.",
+      "checks": "Do not substitute folic acid,methylfolate and dietary folate equivalents or infer interconversion."
+    },
+    {
+      "category": "l-arginine",
+      "label": "L-Arginine",
+      "measurement": "units",
+      "nutrientFields": [
+        {
+          "key": "arginineMg",
+          "label": "L-arginine",
+          "unit": "mg",
+          "table": true
+        }
+      ],
+      "comparisonNote": "Free-form L-arginine and arginine compounds or blends are distinct. Costs use explicitly labelled L-arginine per verified serving; a nitric-oxide mechanism does not establish an exercise benefit.",
+      "checks": "Keep free L-arginine separate from AAKG compound material."
+    },
+    {
+      "category": "l-carnitine",
+      "label": "L-Carnitine",
+      "measurement": "units",
+      "nutrientFields": [
+        {
+          "key": "carnitineMg",
+          "label": "L-carnitine",
+          "unit": "mg",
+          "table": true
+        },
+        {
+          "key": "carnitineCompoundMg",
+          "label": "Carnitine compound / derivative",
+          "unit": "mg",
+          "table": true,
+          "costQuantity": 1000
+        }
+      ],
+      "comparisonNote": "Free L-carnitine, L-carnitine L-tartrate and acetyl-L-carnitine are separate profiles. Compound mass is not converted into free L-carnitine. The compound-cost comparison applies within the same stated chemical form; fat transport biology does not establish a fat-loss benefit.",
+      "checks": "Do not equate tartrate/acetyl compound mass with free L-carnitine; liquid products need a separate supported measurement model."
+    },
+    {
+      "category": "bcaa",
+      "label": "BCAA",
+      "measurement": "units",
+      "nutrientFields": [
+        {
+          "key": "bcaaMg",
+          "label": "BCAA total",
+          "unit": "mg",
+          "table": true
+        },
+        {
+          "key": "leucineMg",
+          "label": "Leucine",
+          "unit": "mg",
+          "table": true,
+          "costQuantity": 1000
+        },
+        {
+          "key": "isoleucineMg",
+          "label": "Isoleucine",
+          "unit": "mg",
+          "table": true,
+          "costQuantity": 1000
+        },
+        {
+          "key": "valineMg",
+          "label": "Valine",
+          "unit": "mg",
+          "table": true,
+          "costQuantity": 1000
+        }
+      ],
+      "comparisonNote": "BCAA totals include leucine, isoleucine and valine only. Powder weight, flavouring and electrolytes are not BCAA mass. Ratios and total amounts remain separate; BCAAs are a subset of EAAs and are not a complete protein.",
+      "checks": "Leucine,isoleucine,valine and total BCAA share one serving; verify subset sums."
+    },
+    {
+      "category": "eaa",
+      "label": "EAA",
+      "measurement": "units",
+      "nutrientFields": [
+        {
+          "key": "eaaMg",
+          "label": "EAA total",
+          "unit": "mg",
+          "table": true
+        },
+        {
+          "key": "bcaaMg",
+          "label": "BCAA subset",
+          "unit": "mg",
+          "table": true,
+          "costQuantity": 1000
+        },
+        {
+          "key": "leucineMg",
+          "label": "Leucine",
+          "unit": "mg",
+          "table": true,
+          "costQuantity": 1000
+        },
+        {
+          "key": "isoleucineMg",
+          "label": "Isoleucine",
+          "unit": "mg",
+          "table": true,
+          "costQuantity": 1000
+        },
+        {
+          "key": "valineMg",
+          "label": "Valine",
+          "unit": "mg",
+          "table": true,
+          "costQuantity": 1000
+        }
+      ],
+      "comparisonNote": "EAA total uses an explicit label amount rather than net scoop mass. BCAAs overlap with the EAA profile and are not added again to the EAA total. A blend name alone does not establish that all nine essential amino acids or their individual amounts are disclosed.",
+      "checks": "BCAA are a subset of EAA. Do not add overlapping totals."
+    },
+    {
+      "category": "pre-workout",
+      "label": "Pre-workout",
+      "measurement": "units",
+      "nutrientFields": [
+        {
+          "key": "caffeineMg",
+          "label": "Total caffeine (when established)",
+          "unit": "mg",
+          "table": true
+        },
+        {
+          "key": "caffeineAnhydrousMg",
+          "label": "Caffeine anhydrous (component)",
+          "unit": "mg",
+          "table": true
+        },
+        {
+          "key": "citrullineMg",
+          "label": "L-citrulline",
+          "unit": "mg",
+          "table": true
+        },
+        {
+          "key": "citrullineMalateMg",
+          "label": "Citrulline malate",
+          "unit": "mg",
+          "table": true
+        },
+        {
+          "key": "betaAlanineMg",
+          "label": "Beta-alanine",
+          "unit": "mg",
+          "table": true
+        },
+        {
+          "key": "creatineMg",
+          "label": "Declared creatine",
+          "unit": "mg",
+          "table": true
+        },
+        {
+          "key": "arginineMg",
+          "label": "L-arginine",
+          "unit": "mg",
+          "table": false
+        },
+        {
+          "key": "taurineMg",
+          "label": "Taurine",
+          "unit": "mg",
+          "table": false
+        },
+        {
+          "key": "bcaaMg",
+          "label": "BCAA total",
+          "unit": "mg",
+          "table": false
+        },
+        {
+          "key": "eaaMg",
+          "label": "EAA total",
+          "unit": "mg",
+          "table": false
+        },
+        {
+          "key": "caffeineComponentMg",
+          "label": "Declared caffeine component (total not established)",
+          "unit": "mg",
+          "table": false
+        },
+        {
+          "key": "arginineCompoundMg",
+          "label": "Arginine compound (not free arginine)",
+          "unit": "mg",
+          "table": false
+        },
+        {
+          "key": "carnitineCompoundMg",
+          "label": "Carnitine compound (not free carnitine)",
+          "unit": "mg",
+          "table": false
+        },
+        {
+          "key": "ashwagandhaMg",
+          "label": "Ashwagandha material",
+          "unit": "mg",
+          "table": false
+        }
+      ],
+      "comparisonNote": "Pre-workout is a multi-ingredient product class, not one active ingredient. Serving cost does not measure efficacy or completeness. Caffeine, citrulline, citrulline malate and other actives stay separate; proprietary blend weights are not allocated to individual ingredients. Check all stimulant sources, existing creatine/amino acids and exact formula notes.",
+      "checks": "No combined potency score. Unknown total caffeine stays unknown when only caffeine components or botanicals are disclosed."
+    },
+    {
+      "category": "citrulline",
+      "label": "Citrulline",
+      "measurement": "units",
+      "nutrientFields": [
+        {
+          "key": "citrullineMg",
+          "label": "Free L-citrulline",
+          "unit": "mg",
+          "table": true
+        },
+        {
+          "key": "citrullineMalateMg",
+          "label": "Citrulline malate compound",
+          "unit": "mg",
+          "table": true,
+          "costQuantity": 1000,
+          "costTable": true
+        }
+      ],
+      "comparisonNote": "Free L-citrulline and citrulline malate are distinct label profiles. Malate compound mass and a declared ratio are not converted to free L-citrulline. Compare the same form and verified label serving; a nitric-oxide mechanism or ingredient cost does not establish exercise benefit.",
+      "checks": "Free citrulline and citrulline-malate material/ratio remain separate; do not presume a free payload from molecular ratios."
+    },
+    {
+      "category": "beta-alanine",
+      "label": "Beta-Alanine",
+      "measurement": "units",
+      "nutrientFields": [
+        {
+          "key": "betaAlanineMg",
+          "label": "Beta-alanine",
+          "unit": "mg",
+          "table": true
+        }
+      ],
+      "comparisonNote": "Beta-alanine amounts use the exact stated label serving. Powder serving mass and a pre-workout blend total are not assumed to be beta-alanine. Check overlap with pre-workouts; tingling is not a measure of efficacy.",
+      "checks": "Serving scoop mass and actual beta-alanine payload must match the exactflavour."
+    },
+    {
+      "category": "taurine",
+      "label": "Taurine",
+      "measurement": "units",
+      "nutrientFields": [
+        {
+          "key": "taurineMg",
+          "label": "Taurine",
+          "unit": "mg",
+          "table": true
+        }
+      ],
+      "comparisonNote": "Taurine amounts refer to the stated label serving. Taurine and caffeine are separate ingredients; the presence of taurine does not establish a stimulant effect or describe every ingredient in an energy drink or pre-workout.",
+      "checks": "Use actual taurine mass on the supported powder/capsule serving; no energy-drink equivalence."
+    },
+    {
+      "category": "betaine",
+      "label": "Betaine",
+      "measurement": "units",
+      "nutrientFields": [
+        {
+          "key": "betaineMg",
+          "label": "Betaine anhydrous / TMG",
+          "unit": "mg",
+          "table": true
+        },
+        {
+          "key": "betaineHclMg",
+          "label": "Betaine hydrochloride compound",
+          "unit": "mg",
+          "table": true,
+          "costQuantity": 1000,
+          "costTable": true
+        },
+        {
+          "key": "vitaminB12Mcg",
+          "label": "Vitamin B12 co-ingredient",
+          "unit": "µg",
+          "table": false
+        }
+      ],
+      "comparisonNote": "Betaine anhydrous (trimethylglycine / TMG) and betaine hydrochloride (HCl) are distinct forms with different research and marketed uses. HCl compound mass is not converted to anhydrous betaine or treated as a sports-performance equivalent. Compare matching forms; added digestive ingredients remain separate.",
+      "checks": "Separate betaine anhydrous/TMG and betaineHCl compound masses."
+    },
+    {
+      "category": "hmb",
+      "label": "HMB",
+      "measurement": "units",
+      "nutrientFields": [
+        {
+          "key": "hmbMg",
+          "label": "Declared HMB payload",
+          "unit": "mg",
+          "table": true
+        },
+        {
+          "key": "calciumHmbMg",
+          "label": "Calcium HMB compound",
+          "unit": "mg",
+          "table": true,
+          "costQuantity": 1000,
+          "costTable": true
+        },
+        {
+          "key": "hmbFreeAcidMg",
+          "label": "HMB free-acid form",
+          "unit": "mg",
+          "table": true,
+          "costQuantity": 1000,
+          "costTable": true
+        },
+        {
+          "key": "citrullineMalateMg",
+          "label": "Citrulline malate co-ingredient",
+          "unit": "mg",
+          "table": false
+        },
+        {
+          "key": "vitaminDMcg",
+          "label": "Vitamin D co-ingredient",
+          "unit": "µg",
+          "table": false
+        }
+      ],
+      "comparisonNote": "HMB payload, calcium HMB compound and free-acid HMB are recorded separately. No salt-to-active conversion, absorption multiplier or equivalence between forms is inferred. Label amounts do not establish muscle gain or the treatment of muscle loss; compare study populations and formulations in the guide.",
+      "checks": "Separate HMB payload,calcium-HMB complex and free-acid material."
+    },
+    {
+      "category": "collagen",
+      "label": "Collagen",
+      "measurement": "units",
+      "nutrientFields": [
+        {
+          "key": "collagenPeptidesMg",
+          "label": "Hydrolysed collagen peptides",
+          "unit": "mg",
+          "table": true,
+          "costQuantity": 1000,
+          "costTable": true
+        },
+        {
+          "key": "collagenComplexMg",
+          "label": "Hydrolysed multi-source complex",
+          "unit": "mg",
+          "table": true,
+          "costQuantity": 1000,
+          "costTable": true
+        },
+        {
+          "key": "nativeTypeIIMg",
+          "label": "Native type II ingredient",
+          "unit": "mg",
+          "table": false
+        },
+        {
+          "key": "vitaminCMg",
+          "label": "Vitamin C",
+          "unit": "mg",
+          "table": true
+        },
+        {
+          "key": "vitaminEMg",
+          "label": "Vitamin E",
+          "unit": "mg",
+          "table": false
+        },
+        {
+          "key": "biotinMcg",
+          "label": "Biotin",
+          "unit": "µg",
+          "table": false
+        },
+        {
+          "key": "hyaluronicAcidMg",
+          "label": "Hyaluronic acid",
+          "unit": "mg",
+          "table": false
+        }
+      ],
+      "comparisonNote": "Compare label-serving cost and like ingredient materials separately. Hydrolysed peptide mass, mixed collagen-complex mass and native type II ingredient mass are not equivalent potency measures. Type labels do not establish tissue targeting, independent purity or clinical benefit.",
+      "checks": "Peptide mass,mixed hydrolysed complex and native typeII ingredients stay separate. Mixedcomplex individualtype/source weights stay unknown. No plant builder, topical mask, total protein or precursor mass is counted as collagen."
+    }
+  ]
+}

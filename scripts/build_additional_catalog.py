@@ -5,7 +5,9 @@ stay null. Packs need a verified count or powder weight. --refresh fetches
 product prices again; label dates remain separate.
 """
 import argparse,datetime,html,json,math,pathlib,re,urllib.request
+from decimal import Decimal,InvalidOperation
 from html.parser import HTMLParser
+from urllib.parse import parse_qs,urlsplit
 ROOT=pathlib.Path(__file__).resolve().parents[1]
 class VisibleText(HTMLParser):
  def __init__(self):super().__init__();self.skip=False;self.parts=[]
@@ -64,6 +66,53 @@ def jsonld_variant(raw,entry):
  if len(unique)!=1:raise ValueError('Exact JSON-LD variant missing or conflicting: '+entry['variantUrl'])
  return next(iter(unique.values()))
 
+def source_kind(entry):
+ """Unrecognized providers must not fall through to Shopify/default pricing."""
+ kind=entry.get('kind','shopify')
+ if kind not in ['shopify','jsonld','html','magento-configurable']:raise ValueError('Unsupported product source kind: '+str(kind))
+ return kind
+
+def magento_configurable_variant(raw,entry):
+ """Match every published attribute to one child and use only its final price."""
+ marker='new Product.Config('
+ if raw.count(marker)!=1:raise ValueError('One unambiguous public configurable product document is required.')
+ try:config,_=json.JSONDecoder().raw_decode(raw.split(marker,1)[1])
+ except (TypeError,ValueError):raise ValueError('Public configurable product data is not valid JSON.')
+ if not isinstance(config,dict) or not re.fullmatch(r'\s*₹\s*#\{price\}\s*',config.get('template','')):raise ValueError('Exact configurable price template must establish INR.')
+ tax=config.get('taxConfig',{})
+ if not isinstance(tax,dict) or tax.get('includeTax') is not True or tax.get('showIncludeTax') is not True or tax.get('showBothPrices'):raise ValueError('An unambiguous tax-inclusive price basis is required.')
+ wanted=entry.get('variantOptions',{});attributes=config.get('attributes',{})
+ if not isinstance(wanted,dict) or not wanted or not isinstance(attributes,dict) or set(wanted)!=set(attributes):raise ValueError('Every configurable attribute must be selected exactly.')
+ parent=urlsplit(entry.get('productUrl',''));selected_url=urlsplit(entry.get('variantUrl',''));query=parse_qs(selected_url.query)
+ if parent.scheme!='https' or (selected_url.scheme,selected_url.netloc,selected_url.path)!=(parent.scheme,parent.netloc,parent.path):raise ValueError('Exact variant URL must use the official parent product URL.')
+ selectors={k for k in query if k.startswith('super_attribute[')}
+ if selectors!={'super_attribute['+k+']' for k in wanted} or any(query.get('super_attribute['+k+']')!=[str(v)] for k,v in wanted.items()):raise ValueError('Exact variant URL must retain all selected attribute options.')
+ selected=None;labels=[];size_label=None
+ for attr_id,option_id in wanted.items():
+  attribute=attributes[attr_id]
+  if not isinstance(attribute,dict) or not isinstance(attribute.get('options'),list):raise ValueError('Configurable attribute options are missing.')
+  matches=[option for option in attribute['options'] if isinstance(option,dict) and str(option.get('id'))==str(option_id)]
+  if len(matches)!=1:raise ValueError('Selected attribute option is absent or ambiguous.')
+  option=matches[0]
+  if not isinstance(option.get('label'),str) or not isinstance(option.get('products'),list):raise ValueError('Selected option lacks a label or child products.')
+  labels.append(option['label']);children=set(map(str,option['products']));selected=children if selected is None else selected&children
+  if attribute.get('code')=='size':size_label=option['label']
+ child_id=str(entry.get('variantId',''))
+ if selected!={child_id}:raise ValueError('Selected attributes do not identify exactly the intended child product.')
+ if entry.get('form')=='Powder':
+  match=re.fullmatch(r'\s*(\d+(?:\.\d+)?)\s*(kg|g|gm|grams?)\s*',size_label or '',re.I);grams=entry.get('grams')
+  if not match or not isinstance(grams,(int,float)) or isinstance(grams,bool) or not math.isfinite(grams) or grams<=0:raise ValueError('Selected powder size needs an explicit verified net weight.')
+  selected_grams=float(match[1])*(1000 if match[2].lower()=='kg' else 1)
+  if abs(selected_grams-grams)>.001:raise ValueError('Selected powder size differs from the curated net weight.')
+ children=config.get('childProducts',{});child=children.get(child_id) if isinstance(children,dict) else None
+ if not isinstance(child,dict):raise ValueError('Exact child price is absent.')
+ try:price=Decimal(str(child.get('finalPrice','NaN')))
+ except (InvalidOperation,TypeError,ValueError):raise ValueError('Exact child final price is invalid.')
+ if not price.is_finite() or price<=0 or not math.isfinite(float(price)):raise ValueError('Exact child final price must be positive and finite.')
+ # The public child-price configuration does not expose variant stock. A family
+ # Add to cart button or availability value cannot establish child availability.
+ return dict(id=child_id,title=' / '.join(labels),price=float(price),available=None,currency='INR',taxInclusive=True)
+
 def main():
  parser=argparse.ArgumentParser(description=__doc__);parser.add_argument('--as-of',required=True);parser.add_argument('--refresh',action='store_true');parser.add_argument('--categories',nargs='+',help='Refresh only these category IDs; the default is every category in the source manifest.');args=parser.parse_args();datetime.date.fromisoformat(args.as_of)
  manifest=json.loads((ROOT/'docs/data/additional-sources.json').read_text(encoding='utf-8'));cache=ROOT/'outputs'/('supplements_'+args.as_of.replace('-',''));cache.mkdir(exist_ok=True,parents=True)
@@ -72,8 +121,12 @@ def main():
  categories={c:[] for c in selected};observations=[];excluded=[]
  for entry in manifest['products']:
   if entry['category'] not in categories:continue
+  kind=source_kind(entry)
   brand=entry['brand'];base=entry['base'];handle=entry.get('handle');url=entry.get('productUrl') or base+'/products/'+handle
-  if entry.get('kind')=='jsonld':
+  if kind=='magento-configurable':
+   raw_path=cache/(entry['cacheKey']+'.html');raw=get(url) if args.refresh or not raw_path.exists() else raw_path.read_text(encoding='utf-8');raw_path.write_text(raw,encoding='utf-8')
+   variants=[magento_configurable_variant(raw,entry)];evidence=url
+  elif kind=='jsonld':
    raw_path=cache/(entry['cacheKey']+'.html');raw=get(url) if args.refresh or not raw_path.exists() else raw_path.read_text(encoding='utf-8');raw_path.write_text(raw,encoding='utf-8')
    variants=[jsonld_variant(raw,entry)];evidence=entry['variantUrl']
   elif entry.get('kind')=='html':
@@ -104,12 +157,12 @@ def main():
    if powder:
     quantity=None
     if not isinstance(entry.get('grams'),(int,float)) or isinstance(entry['grams'],bool) or entry['grams']<=0:excluded.append(dict(url=url,variant=variant['id'],reason='Net powder grams not verified.'));continue
-    if entry.get('kind')!='jsonld' and not entry.get('variantIds') and not entry.get('variantTitles'):raise ValueError('Powder profile requires explicit variant selection so weight and flavour cannot leak across packs: '+url)
+    if kind not in ['jsonld','magento-configurable'] and not entry.get('variantIds') and not entry.get('variantTitles'):raise ValueError('Powder profile requires explicit variant selection so weight and flavour cannot leak across packs: '+url)
    elif not quantity:excluded.append(dict(url=url,variant=variant['id'],reason='Pack count not verified.'));continue
-   row={k:v for k,v in entry.items() if k not in ['category','base','handle','variantTitles','variantIds','cacheKey','kind','id','numericVariantIsCount','allowRetailMultipack','productUrl','variantUrl','variantSku','variantId']}
+   row={k:v for k,v in entry.items() if k not in ['category','base','handle','variantTitles','variantIds','cacheKey','kind','id','numericVariantIsCount','allowRetailMultipack','productUrl','variantUrl','variantSku','variantId','variantOptions']}
    row.update(id=entry.get('id') or f"{entry['category']}-{variant['id']}",product=entry['product'],packCount=quantity,price=float(variant['price']),currency='INR',stock='In stock' if variant.get('available') is True else 'Sold out' if variant.get('available') is False else 'Listed; confirm stock',url=url if entry.get('kind')=='html' else url+'?variant='+str(variant['id']),nutritionUrl=entry.get('nutritionUrl',url),flavour=entry.get('flavour','Unflavoured'),packaging=entry.get('packaging','Single retail pack'),labelChecked=entry.get('labelChecked',manifest['labelChecked']))
-   if entry.get('kind')=='jsonld':row['url']=entry['variantUrl']
-   categories[entry['category']].append(row);observations.append(dict(category=entry['category'],offerId=row['id'],date=args.as_of,price=row['price'],currency='INR',sourceUrl=row['url'],evidenceUrl=evidence,kind='official-live',matchBasis='Official exact ProductGroup variant SKU and URL; pack weight checked' if entry.get('kind')=='jsonld' else 'Official primary product page and explicitly selected pack' if entry.get('kind')=='html' else 'Official Shopify exact variant ID; net powder grams verified' if powder else 'Official Shopify exact variant ID; retail-pack count verified',variantId=None if entry.get('kind')=='html' else str(variant['id'])))
+   if kind in ['jsonld','magento-configurable']:row['url']=entry['variantUrl']
+   categories[entry['category']].append(row);observations.append(dict(category=entry['category'],offerId=row['id'],date=args.as_of,price=row['price'],currency='INR',sourceUrl=row['url'],evidenceUrl=evidence,kind='official-live',matchBasis='Official Magento exact child ID and all attribute options; INR tax-inclusive child finalPrice and net pack weight checked; child stock unverified' if kind=='magento-configurable' else 'Official exact ProductGroup variant SKU and URL; pack weight checked' if kind=='jsonld' else 'Official primary product page and explicitly selected pack' if kind=='html' else 'Official Shopify exact variant ID; net powder grams verified' if powder else 'Official Shopify exact variant ID; retail-pack count verified',variantId=None if kind=='html' else str(variant['id'])))
  for category,offers in categories.items():
   if not offers:raise ValueError('No verified packs for '+category)
   (ROOT/'docs/data'/(category+'.json')).write_text(json.dumps(dict(checked=args.as_of,category=category,offers=offers),ensure_ascii=False,indent=2),encoding='utf-8');print(category,len(offers),'offers',len({r['brand'] for r in offers}),'brands')

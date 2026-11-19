@@ -1,6 +1,154 @@
 {
-  "checked": "2026-11-18",
+  "checked": "2026-11-19",
   "category": "collagen",
-  "scope": "Education and evidence review only. No collagen product offers, retail prices or price history have been audited for publication.",
-  "offers": []
+  "offers": [
+    {
+      "id": "collagen-42667417108651",
+      "brand": "Nutrova",
+      "product": "Poultry Collagen Peptides + Vitamin C",
+      "form": "Powder",
+      "flavour": "Unflavoured",
+      "packaging": "Single retail pack",
+      "source": "Poultry",
+      "labelChecked": "2026-11-19",
+      "notes": "The panel describes 30 servings while the current retail option says 300 g. The rounded serving claim is not used to infer a different net weight. Label amounts are approximate manufacturer declarations.",
+      "grams": 300,
+      "packCount": null,
+      "servingGrams": 10.2,
+      "type": "Hydrolysed collagen peptides",
+      "subclass": "Poultry peptides + vitamin C",
+      "collagenPeptidesMg": 10120,
+      "vitaminCMg": 80,
+      "energyPerServing": 41.1,
+      "declaredNutrients": [
+        "collagenPeptidesMg",
+        "vitaminCMg"
+      ],
+      "collagenTypes": "Not specified",
+      "basis": "The official panel lists two scoops (10.2 g), collagen peptides 10.12 g, vitamin C 80 mg and energy 41.1 kcal per serving. Calculated pack servings use the explicitly listed 300 g retail pack divided by 10.2 g.",
+      "price": 3120,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://nutrova.com/products/nutrova-collagen-peptides?variant=42667417108651",
+      "nutritionUrl": "https://nutrova.com/products/nutrova-collagen-peptides",
+      "labelSources": [
+        "https://nutrova.com/products/nutrova-collagen-peptides",
+        "https://cdn.shopify.com/s/files/1/0561/9253/2651/files/Nutrova_NCP_nutritional-info_09092024.jpg?v=1727866489"
+      ]
+    },
+    {
+      "id": "collagen-49980078063901",
+      "brand": "HealthyHey",
+      "product": "Multi Collagen Complex Types I II III V X",
+      "form": "Capsule",
+      "flavour": "Unflavoured",
+      "packaging": "Single retail pack",
+      "source": "Bovine,marine,chicken bone broth,eggshell membrane",
+      "labelChecked": "2026-11-19",
+      "notes": "Contains egg and fish. The 1,800 mg amount is mixed-complex mass, not verified pure peptide mass or native type II content. Individual type/source quantities are not disclosed. Black pepper extract 6 mg is recorded separately.",
+      "packCount": 120,
+      "servingUnits": 4,
+      "type": "Hydrolysed multi-collagen complex",
+      "subclass": "Multi-source complex + black pepper",
+      "collagenComplexMg": 1800,
+      "energyPerServing": 7.147,
+      "declaredNutrients": [
+        "collagenComplexMg"
+      ],
+      "collagenTypes": "I,II,III,V,X (label claims)",
+      "basis": "The official panel lists four capsules per serving, 120 capsules per jar and 1,800 mg hydrolysed multi-collagen complex. The complex includes bovine, marine, chicken bone broth and eggshell membrane materials.",
+      "price": 939,
+      "currency": "INR",
+      "stock": "Sold out",
+      "url": "https://healthyhey.com/products/multi-collagen-complex-type-i-ii-iii-v-x-support-skin-nails-hair-joint-bone-health-120-capsules?variant=49980078063901",
+      "nutritionUrl": "https://healthyhey.com/products/multi-collagen-complex-type-i-ii-iii-v-x-support-skin-nails-hair-joint-bone-health-120-capsules",
+      "labelSources": [
+        "https://healthyhey.com/products/multi-collagen-complex-type-i-ii-iii-v-x-support-skin-nails-hair-joint-bone-health-120-capsules",
+        "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-nutrition-capsule-multi-collagen-complex-type-i-ii-iii-v-x-support-skin-nails-hair-joint-bone-health-120-capsules-1225700363.png?v=1780890407",
+        "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-nutrition-capsule-multi-collagen-complex-type-i-ii-iii-v-x-support-skin-nails-hair-joint-bone-health-120-capsules-1225700362.png?v=1780890412"
+      ],
+      "additionalIngredients": [
+        {
+          "name": "Black pepper extract (BioPerine)",
+          "amount": 6,
+          "unit": "mg",
+          "basis": "per four-capsule label serving"
+        }
+      ]
+    },
+    {
+      "id": "collagen-49976011522333",
+      "brand": "HealthyHey",
+      "product": "Poultry Collagen + Vitamin C",
+      "form": "Powder",
+      "flavour": "Unflavoured",
+      "packaging": "Single retail pack",
+      "source": "Chicken",
+      "labelChecked": "2026-11-19",
+      "notes": "The label rounds collagen material to the full serving mass while also declaring vitamin C. Retain these as approximate manufacturer declarations rather than a purity assay.",
+      "grams": 200,
+      "packCount": null,
+      "servingGrams": 5,
+      "type": "Hydrolysed collagen peptides",
+      "subclass": "Poultry peptides + vitamin C",
+      "collagenPeptidesMg": 5000,
+      "vitaminCMg": 32.5,
+      "energyPerServing": 19.65,
+      "declaredNutrients": [
+        "collagenPeptidesMg",
+        "vitaminCMg"
+      ],
+      "collagenTypes": "Not specified",
+      "basis": "The official label lists a 200 g pack and one 5 g scoop: hydrolysed chicken collagen 5 g, vitamin C 32.5 mg and energy 19.65 kcal per serving. The separate protein declaration is 4.7 g.",
+      "price": 1879,
+      "currency": "INR",
+      "stock": "Sold out",
+      "url": "https://healthyhey.com/products/poultry-collagen-hydrolysed-chicken-collagen-with-vitamin-c-unflavoured-200g?variant=49976011522333",
+      "nutritionUrl": "https://healthyhey.com/products/poultry-collagen-hydrolysed-chicken-collagen-with-vitamin-c-unflavoured-200g",
+      "labelSources": [
+        "https://healthyhey.com/products/poultry-collagen-hydrolysed-chicken-collagen-with-vitamin-c-unflavoured-200g",
+        "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-nutrition-powder-poultry-collagen-hydrolysed-chicken-collagen-with-vitamin-c-unflavoured-200g-1261371027.png?v=1791357576"
+      ]
+    },
+    {
+      "id": "collagen-43032045453425",
+      "brand": "Carbamide Forte",
+      "product": "Multi Collagen Complex Orange",
+      "form": "Powder",
+      "flavour": "Orange",
+      "packaging": "Single retail pack",
+      "source": "Fish,chicken bone broth,eggshell membrane; another peptide source unspecified",
+      "labelChecked": "2026-11-19",
+      "notes": "Individual source/type amounts are not disclosed and are not treated as native type II or single-source peptide equivalents. The aloe and chromium-picolinate basis is ambiguous on the graphic and excluded from modeled totals. Energy remains unknown.",
+      "grams": 200,
+      "packCount": null,
+      "servingGrams": 10,
+      "type": "Hydrolysed multi-collagen complex",
+      "subclass": "Multi-source complex + co-nutrients",
+      "collagenComplexMg": 8000,
+      "vitaminCMg": 32.5,
+      "vitaminEMg": 10,
+      "biotinMcg": 40,
+      "hyaluronicAcidMg": 5,
+      "declaredNutrients": [
+        "collagenComplexMg",
+        "vitaminCMg",
+        "vitaminEMg",
+        "biotinMcg",
+        "hyaluronicAcidMg"
+      ],
+      "collagenTypes": "I,II,III,V,X (label claims)",
+      "basis": "The official facts graphic lists two scoops (10 g): hydrolysed collagen complex 8 g, vitamin C 32.5 mg, vitamin E 10 mg, biotin 40 mcg and hyaluronic acid 5 mg. The orange single-pack front states 200 g.",
+      "price": 799,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://www.carbamideforte.com/products/multi-collagen-powder-with-5-types-of-collagen-peptides-type-i-ii-iii-v-x?variant=43032045453425",
+      "nutritionUrl": "https://www.carbamideforte.com/products/multi-collagen-powder-with-5-types-of-collagen-peptides-type-i-ii-iii-v-x",
+      "labelSources": [
+        "https://www.carbamideforte.com/products/multi-collagen-powder-with-5-types-of-collagen-peptides-type-i-ii-iii-v-x",
+        "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B0DV917YFC.PT01_345cf68d-8d03-4f82-81e4-6e7f81787c66.jpg?v=1772186912",
+        "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B0DV917YFC.PT02_18e86e42-80cf-476f-8f84-187a33cfeae2.jpg?v=1772186912"
+      ]
+    }
+  ]
 }

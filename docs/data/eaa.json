@@ -1,5 +1,5 @@
 {
-  "checked": "2026-11-17",
+  "checked": "2026-11-19",
   "category": "eaa",
   "offers": [
     {
@@ -31,10 +31,16 @@
         "https://cdn.shopify.com/s/files/1/0618/9629/4654/files/EAALOP.jpg?v=1775472419"
       ],
       "id": "eaa-48548924948734",
-      "price": 899.0,
+      "price": 899,
       "currency": "INR",
-      "stock": "In stock",
-      "url": "https://purenutrition.in/products/pure-nutrition-eaa-powder-with-all-9-essential-amino-acids-unflavoured?variant=48548924948734"
+      "stock": "Listed; confirm stock",
+      "url": "https://purenutrition.in/products/pure-nutrition-eaa-powder-with-all-9-essential-amino-acids-unflavoured?variant=48548924948734",
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://purenutrition.in/products/pure-nutrition-eaa-powder-with-all-9-essential-amino-acids-unflavoured?variant=48548924948734",
+        "evidenceUrl": "https://purenutrition.in/products/pure-nutrition-eaa-powder-with-all-9-essential-amino-acids-unflavoured.json",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
     },
     {
       "brand": "Carbamide Forte",
@@ -58,11 +64,17 @@
       "isoleucineMg": null,
       "valineMg": null,
       "id": "eaa-42996193198193",
-      "price": 999.0,
+      "price": 999,
       "currency": "INR",
-      "stock": "Sold out",
+      "stock": "Listed; confirm stock",
       "url": "https://mycf.in/products/carbamide-forte-eaa-9000mg-supplement-with-bcaa-5000mg-eaa-supplement-for-men-women-with-hydration-blend-vitamins-cola-flavour-50-servings-300g?variant=42996193198193",
-      "nutritionUrl": "https://mycf.in/products/carbamide-forte-eaa-9000mg-supplement-with-bcaa-5000mg-eaa-supplement-for-men-women-with-hydration-blend-vitamins-cola-flavour-50-servings-300g"
+      "nutritionUrl": "https://mycf.in/products/carbamide-forte-eaa-9000mg-supplement-with-bcaa-5000mg-eaa-supplement-for-men-women-with-hydration-blend-vitamins-cola-flavour-50-servings-300g",
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://mycf.in/products/carbamide-forte-eaa-9000mg-supplement-with-bcaa-5000mg-eaa-supplement-for-men-women-with-hydration-blend-vitamins-cola-flavour-50-servings-300g?variant=42996193198193",
+        "evidenceUrl": "https://mycf.in/products/carbamide-forte-eaa-9000mg-supplement-with-bcaa-5000mg-eaa-supplement-for-men-women-with-hydration-blend-vitamins-cola-flavour-50-servings-300g.json",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
     },
     {
       "brand": "Carbamide Forte",
@@ -86,11 +98,17 @@
       "isoleucineMg": null,
       "valineMg": null,
       "id": "eaa-42996200472689",
-      "price": 999.0,
+      "price": 999,
       "currency": "INR",
-      "stock": "In stock",
+      "stock": "Listed; confirm stock",
       "url": "https://mycf.in/products/carbamide-forte-eaa-9000mg-supplement-with-bcaa-5000mg-eaa-supplement-for-men-women-with-hydration-blend-vitamins-peach-ice-tea-flavour-50-servings-300g-powder?variant=42996200472689",
-      "nutritionUrl": "https://mycf.in/products/carbamide-forte-eaa-9000mg-supplement-with-bcaa-5000mg-eaa-supplement-for-men-women-with-hydration-blend-vitamins-peach-ice-tea-flavour-50-servings-300g-powder"
+      "nutritionUrl": "https://mycf.in/products/carbamide-forte-eaa-9000mg-supplement-with-bcaa-5000mg-eaa-supplement-for-men-women-with-hydration-blend-vitamins-peach-ice-tea-flavour-50-servings-300g-powder",
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://mycf.in/products/carbamide-forte-eaa-9000mg-supplement-with-bcaa-5000mg-eaa-supplement-for-men-women-with-hydration-blend-vitamins-peach-ice-tea-flavour-50-servings-300g-powder?variant=42996200472689",
+        "evidenceUrl": "https://mycf.in/products/carbamide-forte-eaa-9000mg-supplement-with-bcaa-5000mg-eaa-supplement-for-men-women-with-hydration-blend-vitamins-peach-ice-tea-flavour-50-servings-300g-powder.json",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
     },
     {
       "brand": "Carbamide Forte",
@@ -114,11 +132,95 @@
       "isoleucineMg": null,
       "valineMg": null,
       "id": "eaa-42996200079473",
-      "price": 999.0,
+      "price": 999,
       "currency": "INR",
-      "stock": "In stock",
+      "stock": "Listed; confirm stock",
       "url": "https://mycf.in/products/carbamide-forte-eaa-9000mg-supplement-with-bcaa-5000mg-eaa-supplement-for-men-women-with-hydration-blend-vitamins-lemon-zest-flavour-25-servings-300g?variant=42996200079473",
-      "nutritionUrl": "https://mycf.in/products/carbamide-forte-eaa-9000mg-supplement-with-bcaa-5000mg-eaa-supplement-for-men-women-with-hydration-blend-vitamins-lemon-zest-flavour-25-servings-300g"
+      "nutritionUrl": "https://mycf.in/products/carbamide-forte-eaa-9000mg-supplement-with-bcaa-5000mg-eaa-supplement-for-men-women-with-hydration-blend-vitamins-lemon-zest-flavour-25-servings-300g",
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://mycf.in/products/carbamide-forte-eaa-9000mg-supplement-with-bcaa-5000mg-eaa-supplement-for-men-women-with-hydration-blend-vitamins-lemon-zest-flavour-25-servings-300g?variant=42996200079473",
+        "evidenceUrl": "https://mycf.in/products/carbamide-forte-eaa-9000mg-supplement-with-bcaa-5000mg-eaa-supplement-for-men-women-with-hydration-blend-vitamins-lemon-zest-flavour-25-servings-300g.json",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
+    },
+    {
+      "brand": "Scitron",
+      "source": "Not specified",
+      "packaging": "Single retail pack",
+      "labelChecked": "2026-11-19",
+      "flavour": "Blue Raspberry",
+      "product": "Nitro Series EAA",
+      "form": "Powder",
+      "type": "All nine EAA blend",
+      "subclass": "EAA with BCAA subset",
+      "grams": 300,
+      "servingGrams": 10,
+      "eaaMg": 6560,
+      "bcaaMg": 4800,
+      "leucineMg": 2400,
+      "isoleucineMg": 1200,
+      "valineMg": 1200,
+      "energyPerServing": 2.43,
+      "declaredNutrients": [
+        "eaaMg",
+        "bcaaMg",
+        "leucineMg",
+        "isoleucineMg",
+        "valineMg"
+      ],
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0591/3156/0089/files/bluerasberryR3.png?v=1712576907",
+      "basis": "The exact flavour pictured manufacturer panel states one 10 g scoop, EAA 6.56 g, leucine 2.4 g, isoleucine 1.2 g, valine 1.2 g, and 2.43 kcal. Net 300 g is the selected variant.",
+      "notes": "Sold out at the observed price. The 6.56 g panel value takes precedence over rounded 6.5 g headline wording. The 4.8 g BCAA amount is the three stated components within the EAA total, not an additional 4.8 g. Nine component amounts sum to the panel EAA total.",
+      "packCount": null,
+      "servingUnits": null,
+      "labelSources": [
+        "https://cdn.shopify.com/s/files/1/0591/3156/0089/files/bluerasberryR3.png?v=1712576907"
+      ],
+      "id": "eaa-42939769749657",
+      "price": 999,
+      "currency": "INR",
+      "stock": "Sold out",
+      "url": "https://scitron.com/products/nitro-series-eaa-9-essential-amino-acids-6-5g-eaa-4-8g-bcaa-0g-sugar?variant=42939769749657"
+    },
+    {
+      "brand": "Scitron",
+      "source": "Not specified",
+      "packaging": "Single retail pack",
+      "labelChecked": "2026-11-19",
+      "flavour": "Pineapple Strawberry",
+      "product": "Nitro Series EAA",
+      "form": "Powder",
+      "type": "All nine EAA blend",
+      "subclass": "EAA with BCAA subset",
+      "grams": 300,
+      "servingGrams": 10,
+      "eaaMg": 6560,
+      "bcaaMg": 4800,
+      "leucineMg": 2400,
+      "isoleucineMg": 1200,
+      "valineMg": 1200,
+      "energyPerServing": 2.43,
+      "declaredNutrients": [
+        "eaaMg",
+        "bcaaMg",
+        "leucineMg",
+        "isoleucineMg",
+        "valineMg"
+      ],
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0591/3156/0089/files/pineappleR3.png?v=1712577145",
+      "basis": "The exact flavour pictured manufacturer panel states one 10 g scoop, EAA 6.56 g, leucine 2.4 g, isoleucine 1.2 g, valine 1.2 g, and 2.43 kcal. Net 300 g is the selected variant.",
+      "notes": "Sold out at the observed price. The 6.56 g panel value takes precedence over rounded 6.5 g headline wording. The 4.8 g BCAA amount is the three stated components within the EAA total, not an additional 4.8 g. Nine component amounts sum to the panel EAA total.",
+      "packCount": null,
+      "servingUnits": null,
+      "labelSources": [
+        "https://cdn.shopify.com/s/files/1/0591/3156/0089/files/pineappleR3.png?v=1712577145"
+      ],
+      "id": "eaa-42939769782425",
+      "price": 999,
+      "currency": "INR",
+      "stock": "Sold out",
+      "url": "https://scitron.com/products/nitro-series-eaa-9-essential-amino-acids-6-5g-eaa-4-8g-bcaa-0g-sugar?variant=42939769782425"
     }
   ]
 }

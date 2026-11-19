@@ -1,5 +1,5 @@
 {
-  "checked": "2026-11-17",
+  "checked": "2026-11-19",
   "category": "pre-workout",
   "offers": [
     {
@@ -43,12 +43,18 @@
         "https://cdn.shopify.com/s/files/1/0005/5335/3267/files/ATOM_BLAST_250G_GUAVA_CHILLI_NUTRITION_FACTS.jpg?v=1769670970"
       ],
       "id": "pre-workout-41878241837107",
-      "price": 1086.0,
+      "price": 1086,
       "currency": "INR",
-      "stock": "In stock",
+      "stock": "Listed; confirm stock",
       "url": "https://asitisnutrition.com/products/atom-blast-guava-chilli?variant=41878241837107",
       "caffeineComponentMg": 200,
-      "carnitineCompoundMg": 500
+      "carnitineCompoundMg": 500,
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-blast-guava-chilli?variant=41878241837107",
+        "evidenceUrl": "https://asitisnutrition.com/products/atom-blast-guava-chilli.json",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
     },
     {
       "brand": "Muscle Nectar",
@@ -84,13 +90,19 @@
         "ashwagandhaMg"
       ],
       "id": "pre-workout-47728114172130",
-      "price": 599.0,
+      "price": 599,
       "currency": "INR",
-      "stock": "In stock",
+      "stock": "Listed; confirm stock",
       "url": "https://musclenectar.com/products/muscle-nectar-pre-workout?variant=47728114172130",
       "nutritionUrl": "https://musclenectar.com/products/muscle-nectar-pre-workout",
       "flavour": "Lemon",
-      "ashwagandhaMg": 250
+      "ashwagandhaMg": 250,
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://musclenectar.com/products/muscle-nectar-pre-workout?variant=47728114172130",
+        "evidenceUrl": "https://musclenectar.com/products/muscle-nectar-pre-workout.json",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
     },
     {
       "brand": "Muscle Nectar",
@@ -126,13 +138,19 @@
         "ashwagandhaMg"
       ],
       "id": "pre-workout-67798832414946",
-      "price": 599.0,
+      "price": 599,
       "currency": "INR",
-      "stock": "In stock",
+      "stock": "Listed; confirm stock",
       "url": "https://musclenectar.com/products/muscle-nectar-pre-workout?variant=67798832414946",
       "nutritionUrl": "https://musclenectar.com/products/muscle-nectar-pre-workout",
       "flavour": "Green Apple",
-      "ashwagandhaMg": 250
+      "ashwagandhaMg": 250,
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://musclenectar.com/products/muscle-nectar-pre-workout?variant=67798832414946",
+        "evidenceUrl": "https://musclenectar.com/products/muscle-nectar-pre-workout.json",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
     },
     {
       "brand": "Carbamide Forte",
@@ -176,11 +194,115 @@
         "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B0BMWZCHDD.PT08.jpg?v=1788179477"
       ],
       "id": "pre-workout-42703493562481",
-      "price": 599.0,
+      "price": 599,
+      "currency": "INR",
+      "stock": "Listed; confirm stock",
+      "url": "https://mycf.in/products/carbamide-forte-pre-workout-powder-for-men-women-with-taurine-creatine-monohydrate-pre-workout-supplements-for-energy-focus-strength-cola-flavour-200g?variant=42703493562481",
+      "arginineCompoundMg": 500,
+      "lastPriceReview": {
+        "checked": "2026-11-19",
+        "sourceUrl": "https://mycf.in/products/carbamide-forte-pre-workout-powder-for-men-women-with-taurine-creatine-monohydrate-pre-workout-supplements-for-energy-focus-strength-cola-flavour-200g?variant=42703493562481",
+        "evidenceUrl": "https://mycf.in/products/carbamide-forte-pre-workout-powder-for-men-women-with-taurine-creatine-monohydrate-pre-workout-supplements-for-energy-focus-strength-cola-flavour-200g.json",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
+    },
+    {
+      "brand": "NAKPRO",
+      "source": "Not specified",
+      "packaging": "Single retail pack",
+      "labelChecked": "2026-11-19",
+      "flavour": "Blueberry",
+      "product": "Pre-Workout Energizing Blend",
+      "form": "Powder",
+      "type": "Caffeinated multi-ingredient",
+      "subclass": "Creatine + amino acids + caffeine",
+      "grams": 100,
+      "servingGrams": 5,
+      "caffeineMg": 100,
+      "caffeineAnhydrousMg": null,
+      "citrullineMg": 1200,
+      "betaAlanineMg": 1000,
+      "creatineMg": 1200,
+      "arginineMg": 200,
+      "energyPerServing": 2.64,
+      "stimulantStatus": "Contains caffeine",
+      "declaredNutrients": [
+        "caffeineMg",
+        "citrullineMg",
+        "betaAlanineMg",
+        "creatineMg",
+        "arginineMg"
+      ],
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0237/4497/0832/files/02_833bb133-2f8a-47c3-842e-2e30ec531e5c.png?v=1746927038",
+      "basis": "Official Blueberry pouch panel gives one heaping scoop (5 g), creatine monohydrate 1.2 g, L-citrulline 1.2 g, beta-alanine 1 g, L-arginine 0.2 g, acetyl cysteine 0.2 g, caffeine 0.1 g and energy 2.64 kcal. Exact chosen net 100 g or 250 g pack comes from variant selection.",
+      "notes": "The same-flavour published pouch profile is used across the selected pack weights. Caffeine is a declared 100 mg ingredient, with no unquantified botanical caffeine source listed. Caffeine anhydrous specifically is not stated. The label also includes N-acetyl-L-cysteine 200 mg, kept as a separate ingredient. Manufacturer exercise instructions are not personal intake advice.",
+      "additionalIngredients": [
+        {
+          "name": "N-acetyl-L-cysteine",
+          "amount": 200,
+          "unit": "mg",
+          "basis": "per 5 g label serving"
+        }
+      ],
+      "packCount": null,
+      "servingUnits": null,
+      "labelSources": [
+        "https://cdn.shopify.com/s/files/1/0237/4497/0832/files/02_833bb133-2f8a-47c3-842e-2e30ec531e5c.png?v=1746927038"
+      ],
+      "id": "pre-workout-39948840861776",
+      "price": 332,
       "currency": "INR",
       "stock": "In stock",
-      "url": "https://mycf.in/products/carbamide-forte-pre-workout-powder-for-men-women-with-taurine-creatine-monohydrate-pre-workout-supplements-for-energy-focus-strength-cola-flavour-200g?variant=42703493562481",
-      "arginineCompoundMg": 500
+      "url": "https://nakpro.com/products/nakpro-pre-workout-supplement-powder?variant=39948840861776"
+    },
+    {
+      "brand": "NAKPRO",
+      "source": "Not specified",
+      "packaging": "Single retail pack",
+      "labelChecked": "2026-11-19",
+      "flavour": "Blueberry",
+      "product": "Pre-Workout Energizing Blend",
+      "form": "Powder",
+      "type": "Caffeinated multi-ingredient",
+      "subclass": "Creatine + amino acids + caffeine",
+      "grams": 250,
+      "servingGrams": 5,
+      "caffeineMg": 100,
+      "caffeineAnhydrousMg": null,
+      "citrullineMg": 1200,
+      "betaAlanineMg": 1000,
+      "creatineMg": 1200,
+      "arginineMg": 200,
+      "energyPerServing": 2.64,
+      "stimulantStatus": "Contains caffeine",
+      "declaredNutrients": [
+        "caffeineMg",
+        "citrullineMg",
+        "betaAlanineMg",
+        "creatineMg",
+        "arginineMg"
+      ],
+      "nutritionUrl": "https://cdn.shopify.com/s/files/1/0237/4497/0832/files/02_833bb133-2f8a-47c3-842e-2e30ec531e5c.png?v=1746927038",
+      "basis": "Official Blueberry pouch panel gives one heaping scoop (5 g), creatine monohydrate 1.2 g, L-citrulline 1.2 g, beta-alanine 1 g, L-arginine 0.2 g, acetyl cysteine 0.2 g, caffeine 0.1 g and energy 2.64 kcal. Exact chosen net 100 g or 250 g pack comes from variant selection.",
+      "notes": "The same-flavour published pouch profile is used across the selected pack weights. Caffeine is a declared 100 mg ingredient, with no unquantified botanical caffeine source listed. Caffeine anhydrous specifically is not stated. The label also includes N-acetyl-L-cysteine 200 mg, kept as a separate ingredient. Manufacturer exercise instructions are not personal intake advice.",
+      "additionalIngredients": [
+        {
+          "name": "N-acetyl-L-cysteine",
+          "amount": 200,
+          "unit": "mg",
+          "basis": "per 5 g label serving"
+        }
+      ],
+      "packCount": null,
+      "servingUnits": null,
+      "labelSources": [
+        "https://cdn.shopify.com/s/files/1/0237/4497/0832/files/02_833bb133-2f8a-47c3-842e-2e30ec531e5c.png?v=1746927038"
+      ],
+      "id": "pre-workout-39948840894544",
+      "price": 760,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://nakpro.com/products/nakpro-pre-workout-supplement-powder?variant=39948840894544"
     }
   ]
 }

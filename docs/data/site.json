@@ -979,19 +979,73 @@
       "label": "Collagen",
       "file": "collagen.json",
       "page": "collagen.html",
-      "measurement": "education",
-      "educationOnly": true,
-      "compoundLabel": "collagen material",
-      "comparisonNote": "Hydrolysed collagen peptides, gelatin and native undenatured type II collagen are different preparations. Compare the same form, verified amount per complete serving and relevant human evidence. Milligrams of a native type II preparation are not gram-for-gram substitutes for collagen peptide protocols; marine or bovine source alone does not establish superior effectiveness.",
+      "measurement": "units",
+      "compoundLabel": "labelled collagen formulation",
+      "comparisonNote": "Compare label-serving cost and like ingredient materials separately. Hydrolysed peptide mass, mixed collagen-complex mass and native type II ingredient mass are not equivalent potency measures. Type labels do not establish tissue targeting, independent purity or clinical benefit.",
       "searchAliases": [
         "collagen peptides",
-        "hydrolyzed collagen",
         "hydrolysed collagen",
-        "gelatin",
-        "gelatine",
-        "undenatured type ii",
+        "hydrolyzed collagen",
         "marine collagen",
-        "bovine collagen"
+        "poultry collagen"
+      ],
+      "supportsPowder": true,
+      "mainNutrient": "multi",
+      "referenceQuantity": 1,
+      "referenceUnit": "label serving",
+      "nutrientFields": [
+        {
+          "key": "collagenPeptidesMg",
+          "label": "Hydrolysed collagen peptides",
+          "unit": "mg",
+          "table": true,
+          "costQuantity": 1000,
+          "costTable": true
+        },
+        {
+          "key": "collagenComplexMg",
+          "label": "Hydrolysed multi-source complex",
+          "unit": "mg",
+          "table": true,
+          "costQuantity": 1000,
+          "costTable": true
+        },
+        {
+          "key": "nativeTypeIIMg",
+          "label": "Native type II ingredient",
+          "unit": "mg",
+          "table": false
+        },
+        {
+          "key": "vitaminCMg",
+          "label": "Vitamin C",
+          "unit": "mg",
+          "table": true
+        },
+        {
+          "key": "vitaminEMg",
+          "label": "Vitamin E",
+          "unit": "mg",
+          "table": false
+        },
+        {
+          "key": "biotinMcg",
+          "label": "Biotin",
+          "unit": "µg",
+          "table": false
+        },
+        {
+          "key": "hyaluronicAcidMg",
+          "label": "Hyaluronic acid",
+          "unit": "mg",
+          "table": false
+        }
+      ],
+      "extraFacets": [
+        [
+          "collagenTypes",
+          "Declared collagen type(s)"
+        ]
       ]
     }
   ],
@@ -1036,5 +1090,6 @@
       "label": "Archived creatine workbook",
       "dataAsOf": "2026-10-25"
     }
-  ]
+  ],
+  "catalogResearchFile": "catalog-research-summary.json"
 }

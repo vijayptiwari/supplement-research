@@ -43,8 +43,9 @@ function computeTrend(r,category,asOf,observations,maxAgeDays,historyCount){
 export function scoreProtein(r){return positive(r.cost)?100/r.cost:0;}
 export function scoreCreatine(r){return positive(r.cost)?100/r.cost:0;}
 export function normalizeOffer(raw,definition,asOf,observations,config){
+ const additional=raw.additionalIngredients,extraIssues=additional!=null&&(!Array.isArray(additional)||additional.some(i=>!i||typeof i.name!=='string'||!i.name.trim()||typeof i.unit!=='string'||!i.unit.trim()||i.amount!=null&&(!finite(i.amount)||i.amount<0)||i.basis!=null&&typeof i.basis!=='string'))?[{severity:'error',field:'additionalIngredients',message:'Other ingredient entries need a name, unit and non-negative numeric amount, or null for unknown.'}]:[];
  if(definition.measurement==='units'){
-  const {offer:r,issues}=normalizeUnitInputs(raw,definition);
+  const {offer:r,issues}=normalizeUnitInputs(raw,definition);issues.push(...extraIssues);
   for(const key of ['brand','product','type','subclass','flavour'])if(typeof raw[key]!=='string'||!raw[key].trim())issues.push({severity:'error',field:key,message:'A non-empty label is required.'});
   if(raw.id==null||!String(raw.id).trim())issues.push({severity:'error',field:'id',message:'Stable offer ID is required.'});
   if(!https(raw.url)||raw.nutritionUrl&&!https(raw.nutritionUrl))issues.push({severity:'error',field:'url',message:'HTTPS product and label source URLs are required.'});
@@ -53,7 +54,7 @@ export function normalizeOffer(raw,definition,asOf,observations,config){
   if(r.priceAudit.status!=='verified')issues.push({severity:'warning',field:'priceEvidence',message:'Current pack price needs matching dated evidence.'});
   r.quality={issues,errors:issues.filter(i=>i.severity==='error').length,warnings:issues.filter(i=>i.severity==='warning').length};return r;
  }
- const category=definition.id,issues=[],r={...raw};
+ const category=definition.id,issues=[...extraIssues],r={...raw};
  const grams=category==='creatine'?raw.grams:positive(raw.kg)?raw.kg*1000:null;
  r.grams=positive(grams)?grams:null;r.kg=r.grams==null?null:r.grams/1000;
  r.price=positive(raw.price)?raw.price:null;
@@ -160,7 +161,8 @@ export function createSnapshot(bundle){
   if(!isoDate(p.reviewed)||!Array.isArray(p.rules)||!Array.isArray(p.goals)||!Array.isArray(p.presets))bad('Invalid recommender policy.');
   else {const goals=new Set(p.goals.map(g=>g.id)),sources=new Set(bundle.research?.sources.map(s=>s.id)||[]);for(const r of p.rules)if(!result[r.category]||!r.reason||!r.status||!r.goals?.length||r.goals.some(g=>!goals.has(g))||!r.sources?.length||r.sources.some(id=>!sources.has(id)))bad('Unresolved recommender category, goal or evidence.');for(const preset of p.presets)if(!preset.goals?.length||preset.goals.some(g=>!goals.has(g)))bad('Unresolved preset goal.');}
  }
- return {recommender:bundle.recommender,research:bundle.research,config:{...config,historyQuarters},brands:brands||{},categories:result,observations,asOf:dates.at(-1),stats:stats(all),quality:{errors,warnings},assets:bundle.assets||{}};
+ if(bundle.catalogResearch){const a=bundle.catalogResearch,counts=Object.values(a.summary||{});if(!isoDate(a.checked)||!a.scope?.trim()||!Array.isArray(a.coverage)||a.coverage.length!==config.categories.length||new Set(a.coverage.map(c=>c.category)).size!==a.coverage.length||a.coverage.some(c=>!result[c.category]||Object.entries(c).some(([k,v])=>!['category','label'].includes(k)&&(!Number.isInteger(v)||v<0)))||!counts.length||counts.some(n=>!Number.isInteger(n)||n<0)||![a.reportFile,a.requirementsFile].every(v=>/^[a-z0-9-]+\.json$/.test(v)))errors.push({category:'audit',id:'product-research',field:'catalogResearch',message:'Product research summary needs complete dated category coverage, non-negative counts and local JSON downloads.'});}
+ return {catalogResearch:bundle.catalogResearch,recommender:bundle.recommender,research:bundle.research,config:{...config,historyQuarters},brands:brands||{},categories:result,observations,asOf:dates.at(-1),stats:stats(all),quality:{errors,warnings},assets:bundle.assets||{}};
 }
 export function rankedOffers(category,limit=10,predicate=()=>true){
  const best=new Map();for(const r of category.offers.filter(r=>r.rankingEligible&&predicate(r))){const key=JSON.stringify([r.brand,r.product]);if(!best.has(key)||r.score>best.get(key).score)best.set(key,r);}
