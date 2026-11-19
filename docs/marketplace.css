@@ -4661,3 +4661,17 @@ body.has-comparison {
  .editorial-series-card p{display:none}
  .editorial-series-action{font-size:10px;margin-top:14px}
 }
+.evidence-note-grid{display:grid;gap:18px;margin-top:24px}
+.evidence-note{border:1px solid var(--line);border-left:3px solid var(--accent);border-radius:9px;padding:24px;background:var(--surface)}
+.evidence-note h3{font-size:19px;line-height:1.5;margin:0 0 18px}.evidence-note dl{margin:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px 24px}
+.evidence-note dt{font-size:11px;font-weight:700;color:var(--muted)}.evidence-note dd{font-size:13px;line-height:1.85;margin:6px 0 0}
+.evidence-note .editorial-citations{font-size:11px;line-height:1.8;margin:18px 0 0}
+@media(max-width:700px){.evidence-note{padding:20px 17px}.evidence-note dl{grid-template-columns:1fr}.evidence-note h3{font-size:18px}}
+.directory-topics{display:flex;gap:8px;flex-wrap:wrap;margin:22px 0 36px}.directory-topics a{padding:7px 11px;border:1px solid var(--line);border-radius:5px;font-size:12px;background:var(--card)}.directory-topics span{color:var(--muted);margin-left:5px}
+.directory-section{scroll-margin-top:150px;padding:30px 0;border-top:1px solid var(--line)}.directory-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}.directory-card{padding:24px;border:1px solid var(--line);border-radius:9px;background:var(--card)}.directory-card h3{font-size:20px;line-height:1.5;margin:12px 0}.directory-card h3 a{color:var(--ink);display:block}.directory-card p{font-size:14px;line-height:1.85}.directory-card small{font-size:11px;color:var(--muted)}.directory-link{display:inline-block;margin-top:12px;font-size:13px;font-weight:650}.policy-reader{max-width:1000px;margin:0 auto}.policy-reader .editorial-section p{font-size:15px;line-height:1.9}
+@media(max-width:700px){.directory-grid{grid-template-columns:1fr}.directory-card{padding:21px}.directory-section{scroll-margin-top:125px}}
+
+/* Collagen uses the same shared tone class in home and guide illustrations. */
+.tone-collagen{background:#f9eae7;color:#a45b54}
+
+#research-library{scroll-margin-top:calc(var(--guide-header-offset,140px) + 14px)}

@@ -2,7 +2,8 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';
 import {createHash} from 'node:crypto';
-import {createSnapshot,auditRows,historyRows,escapeHtml,pageMetadata} from '../docs/model.js';
+import {createSnapshot,auditRows,historyRows} from '../docs/model.js';
+import {publishReadableSite} from './publish_readable_site.mjs';
 const root=fileURLToPath(new URL('../',import.meta.url));
 const read=async file=>JSON.parse(await fs.readFile(path.join(root,'docs/data',file),'utf8'));
 export async function loadBundle(){
@@ -34,23 +35,13 @@ export async function buildSite(destination=path.join(root,'dist')){
  await write('data/price-history.json',{asOf:snapshot.asOf,completedQuarters:snapshot.config.historyQuarters,summary:{historicalSlots:snapshot.stats.historicalSlots,verifiedSnapshots:snapshot.stats.historicalVerified,completeHistoryOffers:snapshot.stats.fullHistoryOffers},rows:history});
  await write('data/price-history.csv','\uFEFF'+[historyColumns,...history.map(r=>historyColumns.map(k=>r[k]))].map(row=>row.map(cell).join(',')).join('\r\n'));
  await write('data/quality-report.json',{checked:snapshot.asOf,stats:snapshot.stats,...snapshot.quality});
- const pages=[{page:'',date:snapshot.asOf},{page:'audit.html',date:snapshot.asOf},{page:'research.html',date:bundle.research.reviewed},{page:'articles.html',date:bundle.research.editorial?.reviewed||bundle.research.reviewed},...(bundle.research.editorial?.articles||[]).map(a=>({page:'articles.html?article='+encodeURIComponent(a.id),date:a.reviewed})),{page:'recommender.html',date:bundle.recommender.reviewed},{page:'search.html',date:snapshot.asOf},...Object.values(snapshot.categories).map(c=>({page:c.page,date:c.asOf}))];
- await write('sitemap.xml','<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+pages.map(p=>`<url><loc>${escapeHtml(snapshot.config.baseUrl+p.page)}</loc><lastmod>${p.date}</lastmod></url>`).join('')+'</urlset>\n');
- await write('robots.txt',`User-agent: *\nAllow: /\nSitemap: ${snapshot.config.baseUrl}sitemap.xml\n`);
  bundle.assets={};
  for(const file of [...bundle.config.categories.map(c=>c.file),'price-audit.csv','price-history.csv','price-observations.json','quality-report.json'])bundle.assets[file]={bytes:(await fs.stat(path.join(destination,'data',file))).size};
  const bytes=JSON.stringify(bundle),hash=createHash('sha256').update(bytes).digest('hex'),file=`snapshot.${hash}.json`;
  await write('data/'+file,bytes);
  // Publish one small pointer last: clients never combine different dataset revisions.
  await write('data/version.json',{schemaVersion:1,version:hash,file,asOf:snapshot.asOf});
- for(const page of ['index.html','audit.html','research.html','articles.html','recommender.html','search.html',...snapshot.config.categories.map(c=>c.page)]){
-  const c=Object.values(snapshot.categories).find(c=>c.page===page),{title,description,structured}=pageMetadata(snapshot,page==='audit.html'?'audit':page==='research.html'?'research':page==='articles.html'?'articles':page==='recommender.html'?'recommender':page==='search.html'?'search':c?.id);
-  let html=await fs.readFile(path.join(destination,page),'utf8');
-  html=html.replace(/<title>.*?<\/title>/s,`<title>${escapeHtml(title)}</title>`).replace(/<meta name="description" content="[^"]*">/,`<meta name="description" content="${escapeHtml(description)}">`);
-  html=html.replace('<!-- DATA_METADATA -->',`<meta property="og:title" content="${escapeHtml(title)}"><meta property="og:description" content="${escapeHtml(description)}"><script type="application/ld+json">${JSON.stringify(structured).replaceAll('<','\\u003c')}</script>`);
-  html=html.replace(/((?:src|href)=["'])([^"'?]+\.(?:js|css))(?:\?[^"']*)?(["'])/g,(match,prefix,file,suffix)=>assetNames.includes(file)?`${prefix}${file}?v=${assetVersion}${suffix}`:match);
-  await fs.writeFile(path.join(destination,page),html);
- }
+ await publishReadableSite({source:path.join(root,'docs'),destination,snapshot,assetVersion});
  console.log(`Built ${snapshot.stats.offers} offers; ${snapshot.stats.verifiedPrices} verified prices; ${snapshot.quality.warnings.length} field warnings. Revision ${hash.slice(0,12)}.`);
  return {snapshot,hash,assetVersion,destination};
 }

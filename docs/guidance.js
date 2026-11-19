@@ -1,3 +1,4 @@
+import {guideHref} from './routes.js';
 import {escapeHtml as esc,formatDate} from './model.js';
 import {productChecksFor,productCheckText} from './product-policy.js';
 
@@ -58,5 +59,5 @@ export function productSelectionMarkup(c,policy,rule=null){
 export function buyingOffer(snapshot,c){
  const g=buyingGuideFor(snapshot,c.id),policy=snapshot.research?.valuePolicy;if(!g||!policy)return '';
  const foods=g.foods.slice(0,3).map(f=>f.name).join(' · ');
- return `<details class="offer-buying-guide"><summary>Who it suits, food sources &amp; supplement value</summary><p class="guidance-overline">CATEGORY BUYING GUIDE · ${esc(c.label)}</p>${buyingPriority(g,policy,{compact:true})}<p><strong>Who can consider it:</strong> ${esc(g.whoCanConsider[0])}</p><p><strong>Food context:</strong> ${esc(g.foodSummary)}</p>${foods?`<p class="food-examples">${esc(foods)}</p>`:''}<a href="research.html?category=${esc(c.id)}">Start with the basics, food sources &amp; buying checks →</a></details>`;
+ return `<details class="offer-buying-guide"><summary>Who it suits, food sources &amp; supplement value</summary><p class="guidance-overline">CATEGORY BUYING GUIDE · ${esc(c.label)}</p>${buyingPriority(g,policy,{compact:true})}<p><strong>Who can consider it:</strong> ${esc(g.whoCanConsider[0])}</p><p><strong>Food context:</strong> ${esc(g.foodSummary)}</p>${foods?`<p class="food-examples">${esc(foods)}</p>`:''}<a href="${esc(guideHref(c.id))}">Start with the basics, food sources &amp; buying checks →</a></details>`;
 }

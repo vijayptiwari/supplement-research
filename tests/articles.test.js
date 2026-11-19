@@ -47,7 +47,7 @@ test('article readers render ten myth checks or both form classifications before
   assert.ok(html.indexOf('class="editorial-references"')<handoff);
   assert.ok(!html.slice(0,handoff).includes(`href="${s.categories[a.category].page}"`));
   assert.equal((html.match(new RegExp(`href="${s.categories[a.category].page}"`,'g'))||[]).length,1);
-  assert.ok(html.includes(`href="research.html?category=${a.category}"`));
+  assert.ok(html.includes(`href="guide-${a.category}.html"`));
   assert.ok(html.includes(`datetime="${a.reviewed}"`));
   if(a.myths)assert.equal((html.match(/class="editorial-myth"/g)||[]).length,10);
   if(a.forms){assert.ok(html.includes('INGREDIENT / FORMULATION'));assert.ok(html.includes('DELIVERY FORMAT'));for(const form of a.forms)assert.ok(html.includes(form.metabolism));}
@@ -116,7 +116,7 @@ test('published series cover the launch topics with resolved citations and are i
  const forms=e.articles.find(a=>a.id==='protein-types').forms.map(f=>f.name).join(' ');
  for(const term of ['Casein','Egg','Yeast','algal'])assert.ok(forms.includes(term));
  const result=searchCatalog(snapshot,{q:'creatine gummies',kind:'guides'});
- assert.ok(result.guides.some(g=>g.id==='creatine-types'&&g.href==='articles.html?article=creatine-types'));
+ assert.ok(result.guides.some(g=>g.id==='creatine-types'&&g.href==='article-creatine-types.html'));
  assert.equal(searchCatalog(snapshot,{q:'creatine gummies',kind:'products'}).guides.length,0);
  const target=e.articles.find(a=>a.myths?.length),before=editorialMarkup(target,snapshot),copy=structuredClone(snapshot),changed=copy.research.editorial.articles.find(a=>a.id===target.id);
  changed.myths[0].explanation='A new reviewed explanation from an updated snapshot.';

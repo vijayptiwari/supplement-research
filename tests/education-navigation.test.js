@@ -8,10 +8,10 @@ const snapshot={config:{locale:'en-IN',currency:'INR',categories,quickPicks:[{id
 
 test('the supplement rail always links to basics and retains the selected category',()=>{
  const html=categoryGuideNavigation(categories,'protein');
- for(const c of categories){assert.ok(html.includes(`href="research.html?category=${c.id}"`));assert.ok(!html.includes(`href="${c.page}"`));}
+ for(const c of categories){assert.ok(html.includes(`href="guide-${c.id}.html"`));assert.ok(!html.includes(`href="${c.page}"`));}
  assert.equal((html.match(/aria-current="page"/g)||[]).length,1);
- assert.ok(html.includes('href="research.html?category=protein" aria-current="page"'));
- assert.equal(categoryGuideHref('new category'),'research.html?category=new%20category');
+ assert.ok(html.includes('href="guide-protein.html" aria-current="page"'));
+ assert.equal(categoryGuideHref('new category'),'guide-new%20category.html');
 });
 
 test('home supplement choices open learning guides rather than exact-product merchandising',()=>{
@@ -27,8 +27,8 @@ test('explicit catalog routes remain usable and their learning links begin at th
  const r={id:'exact',brand:'Brand',product:'Product',flavour:'Plain',grams:1000,protein:80,scoop:30,price:899,referenceCost:24,stock:'In stock',priceAudit:{status:'verified',checked:'2026-11-17'}};
  const html=marketGroup(c,{brand:r.brand,product:r.product,count:1,variations:[r]},snapshot,()=>'<table></table>');
  assert.ok(html.includes('data-offer="exact"'));assert.ok(html.includes('data-add-compare'));
- assert.ok(html.includes('href="research.html?category=protein"'));assert.ok(!html.includes('research.html?category=protein#'));
- const primer=categoryPrimer(snapshot,c);assert.ok(primer.includes('How it works'));assert.ok(primer.includes('Read the full guide'));assert.ok(!primer.includes('research.html?category=protein#'));
+ assert.ok(html.includes('href="guide-protein.html"'));assert.ok(!html.includes('guide-protein.html#'));
+ const primer=categoryPrimer(snapshot,c);assert.ok(primer.includes('How it works'));assert.ok(primer.includes('Read the full guide'));assert.ok(!primer.includes('guide-protein.html#'));
 });
 
 test('catalog and search pages use the same guide rail as the home page',async()=>{

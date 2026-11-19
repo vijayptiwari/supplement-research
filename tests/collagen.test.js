@@ -25,7 +25,7 @@ test('comparison discovery includes primary and related categories without mutat
  for(const category of ['protein','eaa','bcaa']){
   assert.ok(selectEditorial(e,{series:'comparisons',category,q:'EAA BCAA protein'}).some(x=>x.id===a.id));
   assert.ok(searchCatalog(s,{kind:'guides',category,q:'EAA BCAA protein'}).guides.some(x=>x.id===a.id));
-  assert.ok(guide(s,category).includes('articles.html?article='+a.id));
+  assert.ok(guide(s,category).includes('article-'+a.id+'.html'));
  }
  assert.deepEqual(a,original);assert.ok(!selectEditorial(e,{category:'melatonin',q:'EAA BCAA protein'}).some(x=>x.id===a.id));
 });
@@ -93,23 +93,23 @@ test('collagen remains a review item even when held and never replaces complete-
 
 test('stack notes reuse collagen information and comparison links across the affected categories',async()=>{
  const s=await snapshot;
- for(const category of ['protein','eaa','bcaa'])assert.ok(stackCategoryMarkup(s,category,referenceDefaults()).includes('articles.html?article=eaa-bcaa-protein'));
+ for(const category of ['protein','eaa','bcaa'])assert.ok(stackCategoryMarkup(s,category,referenceDefaults()).includes('article-eaa-bcaa-protein.html'));
  const html=stackCategoryMarkup(s,'collagen',referenceDefaults());for(const phrase of ['Who it suits','Food alternatives','Intake references','Medical conditions','Do’s, don’ts','Safety, interactions','Comparisons and related articles'])assert.ok(html.includes(phrase));
- assert.ok(html.includes('articles.html?article=collagen-vs-protein'));assert.ok(!html.includes('data-offer='));
+ assert.ok(html.includes('article-collagen-vs-protein.html'));assert.ok(!html.includes('data-offer='));
 });
 
 test('collagen education readers have learning handoffs without empty or fictitious catalog calls to action',async()=>{
  const s=await snapshot,html=guide(s,'collagen');assertInternalLinks(html);
  assert.ok(html.includes('CONTINUE LEARNING'));assert.ok(html.includes(s.categories.collagen.scope));
  assert.ok(!html.includes('Explore Collagen products'));assert.ok(!html.includes('0 exact pack offers'));assert.ok(!html.includes('href="collagen.html"'));
- for(const a of s.research.editorial.articles.filter(a=>a.category==='collagen')){const reader=editorialMarkup(a,s);assertInternalLinks(reader);assert.ok(!reader.includes('Explore Collagen products'));assert.ok(!reader.includes('href="collagen.html"'));assert.ok(reader.includes('research.html?category=collagen'));}
+ for(const a of s.research.editorial.articles.filter(a=>a.category==='collagen')){const reader=editorialMarkup(a,s);assertInternalLinks(reader);assert.ok(!reader.includes('Explore Collagen products'));assert.ok(!reader.includes('href="collagen.html"'));assert.ok(reader.includes('guide-collagen.html'));}
 });
 
 test('build publishes the collagen education landing, dated scope and article discovery without a catalog identity',async()=>{
  const destination=await fs.mkdtemp(path.join(os.tmpdir(),'collagen-learning-'));
  try{const {snapshot:s,assetVersion}=await buildSite(destination),html=await fs.readFile(path.join(destination,'collagen.html'),'utf8'),data=JSON.parse(await fs.readFile(path.join(destination,'data/collagen.json'),'utf8')),metadata=pageMetadata(s,'collagen');
-  assert.ok(html.includes('data-page="research"')&&html.includes('data-default-category="collagen"'));assert.ok(html.includes('id="research-library"'));assert.ok(html.includes(`site.js?v=${assetVersion}`));assert.ok(html.includes('Collagen evidence guide'));assert.ok(!html.includes('Collagen catalog ·'));
+  assert.ok(html.includes('data-page="research"')&&html.includes('data-default-category="collagen"'));assert.ok(html.includes('id="research-library"'));assert.ok(html.includes(`site.js?v=${assetVersion}`));assert.ok(html.includes('Collagen: benefits, evidence &amp; buying guide'));assert.ok(!html.includes('Collagen catalog ·'));
   assert.equal(metadata.structured['@type'],'Article');assert.equal(data.scope,s.categories.collagen.scope);assert.deepEqual(data.offers,[]);
-  const sitemap=await fs.readFile(path.join(destination,'sitemap.xml'),'utf8');assert.ok(sitemap.includes('collagen.html'));assert.ok(sitemap.includes('articles.html?article=eaa-bcaa-protein'));assert.ok(sitemap.includes('articles.html?article=collagen-vs-protein'));
+  const sitemap=await fs.readFile(path.join(destination,'sitemap.xml'),'utf8');assert.ok(sitemap.includes('collagen.html'));assert.ok(sitemap.includes('article-eaa-bcaa-protein.html'));assert.ok(sitemap.includes('article-collagen-vs-protein.html'));
  }finally{await fs.rm(destination,{recursive:true,force:true});}
 });

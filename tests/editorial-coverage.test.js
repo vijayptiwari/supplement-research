@@ -8,10 +8,10 @@ import {validateLearningContent} from '../docs/learning-validation.js';
 
 const bundle=loadBundle(),snapshot=bundle.then(createSnapshot);
 
-test('every supplement has two or three substantive dedicated articles, independent of related reading',async()=>{
+test('every supplement has three or four substantive dedicated articles, independent of related reading',async()=>{
  const s=await snapshot,e=s.research.editorial,p=e.coveragePolicy;
  assert.deepEqual(s.quality.errors,[]);assert.ok(p);
- assert.equal(p.minimumPrimaryArticles,2);assert.equal(p.maximumPrimaryArticles,3);
+ assert.equal(p.minimumPrimaryArticles,3);assert.equal(p.maximumPrimaryArticles,4);
  for(const c of editorialCoverage(e,s.config.categories)){
   assert.ok(c.primary>=p.minimumPrimaryArticles&&c.primary<=p.maximumPrimaryArticles,c.id);
   const primary=e.articles.filter(a=>a.category===c.id);
@@ -51,4 +51,18 @@ test('narrative word counts omit source identifiers and compare primary and rela
  assert.equal(editorialNarrativeWords(a),7);
  const e={articles:[a,{category:'two',intro:'Another article.'}]};
  assert.deepEqual(editorialCoverage(e,[{id:'one',label:'One'},{id:'two',label:'Two'}]),[{id:'one',label:'One',primary:1,related:0,total:1},{id:'two',label:'Two',primary:1,related:1,total:2}]);
+});
+
+test('the new series gives each supplement a distinct multi-source synthesis with complete evidence context',async()=>{
+ const s=await snapshot,articles=s.research.editorial.articles.filter(a=>a.series==='evidence-in-context'),sources=new Set(s.research.sources.map(x=>x.id));
+ assert.equal(articles.length,s.config.categories.length);
+ for(const c of s.config.categories){const matches=articles.filter(a=>a.category===c.id);assert.equal(matches.length,1,c.id);const a=matches[0];assert.ok(a.sourceIds.length>=3,a.id);assert.ok(a.evidenceNotes.length>=2,a.id);assert.ok(editorialNarrativeWords(a)>=900,a.id);for(const note of a.evidenceNotes){for(const key of ['finding','design','population','outcome','limits'])assert.ok(note[key].trim().length>10,a.id+' '+key);for(const id of note.sourceIds)assert.ok(a.sourceIds.includes(id)&&sources.has(id),id);}}
+ const paragraphs=articles.flatMap(a=>a.sections.map(s=>s.body.trim().toLowerCase()));assert.equal(new Set(paragraphs).size,paragraphs.length,'Do not pad categories with repeated narrative sections.');
+});
+
+test('incomplete evidence notes cannot replace a published research revision',async()=>{
+ const s=await snapshot,original=(await bundle).research;
+ for(const change of [a=>delete a.evidenceNotes,a=>a.evidenceNotes=[],a=>delete a.evidenceNotes[0].design,a=>a.evidenceNotes[0].population='',a=>a.evidenceNotes[0].sourceIds=['missing-source'],a=>a.sourceIds=a.sourceIds.slice(0,2)]){
+  const research=structuredClone(original),a=research.editorial.articles.find(a=>a.series==='evidence-in-context'),errors=[];change(a);validateLearningContent(research,s.categories,error=>errors.push(error));assert.ok(errors.length);
+ }
 });
