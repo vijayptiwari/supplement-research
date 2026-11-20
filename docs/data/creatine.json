@@ -1,5 +1,5 @@
 {
-  "checked": "2026-11-19",
+  "checked": "2026-11-20",
   "category": "creatine",
   "costBasis": "Labelled creatine compound mass; not free-creatine equivalent or equal efficacy across chemical forms.",
   "offers": [
@@ -2410,7 +2410,20 @@
         "sourceUrl": "https://www.fuelone.in/sv/fuel-one-creatine-monohydrate/SP-123937?navKey=VRNT-236369",
         "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-creatine-monohydrate/SP-123937",
         "matchBasis": "Official selected product schema flavour and net pack match"
-      }
+      },
+      "retailerQuotes": [
+        {
+          "retailer": "HealthKart",
+          "seller": "Bright Nutricare Private Limited",
+          "price": 499,
+          "currency": "INR",
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.healthkart.com/sv/fuel-one-creatine-monohydrate/SP-83333?navKey=VRNT-156081",
+          "variantId": "156081",
+          "matchBasis": "HealthKart selected product numeric id 156081, SP-83333, brand, flavour, retail packaging and explicit net gram/kg weight reviewed against current label evidence; unconditional offer_pr excludes loyalty or coupons. Same manufacturer product/flavour/net pack as https://www.fuelone.in/sv/fuel-one-creatine-monohydrate/SP-123937?navKey=VRNT-236369; marketplace has a separate seller SKU. This quote does not replace the primary brand price or establish an archive history.",
+          "stock": "In stock"
+        }
+      ]
     },
     {
       "id": "cr-73",
@@ -3730,7 +3743,20 @@
         "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-creatine-monohydrate/SP-33852?navKey=VRNT-63864",
         "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-creatine-monohydrate/SP-33852",
         "matchBasis": "Official selected product schema flavour and net pack match"
-      }
+      },
+      "retailerQuotes": [
+        {
+          "retailer": "HealthKart",
+          "seller": "Bright Nutricare Private Limited",
+          "price": 549,
+          "currency": "INR",
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.healthkart.com/sv/muscleblaze-creatine-monohydrate-creamp/SP-8688?navKey=VRNT-51779",
+          "variantId": "51779",
+          "matchBasis": "HealthKart selected product numeric id 51779, SP-8688, brand, flavour, retail packaging and explicit net gram/kg weight reviewed against current label evidence; unconditional offer_pr excludes loyalty or coupons. Same manufacturer product/flavour/net pack as https://www.muscleblaze.com/sv/muscleblaze-creatine-monohydrate/SP-33852?navKey=VRNT-63864; marketplace has a separate seller SKU. This quote does not replace the primary brand price or establish an archive history.",
+          "stock": "In stock"
+        }
+      ]
     },
     {
       "id": "cr-113",
@@ -3763,7 +3789,20 @@
         "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-creatine-monohydrate-creamp/SP-33852?navKey=VRNT-74477",
         "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-creatine-monohydrate-creamp/SP-33852?navKey=VRNT-74477",
         "matchBasis": "Official selected product schema SKU matches exact navigation key"
-      }
+      },
+      "retailerQuotes": [
+        {
+          "retailer": "HealthKart",
+          "seller": "Bright Nutricare Private Limited",
+          "price": 999,
+          "currency": "INR",
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.healthkart.com/sv/muscleblaze-creatine-monohydrate-creamp/SP-8688?navKey=VRNT-73655",
+          "variantId": "73655",
+          "matchBasis": "HealthKart selected product numeric id 73655, SP-8688, brand, flavour, retail packaging and explicit net gram/kg weight reviewed against current label evidence; unconditional offer_pr excludes loyalty or coupons. Same manufacturer product/flavour/net pack as https://www.muscleblaze.com/sv/muscleblaze-creatine-monohydrate-creamp/SP-33852?navKey=VRNT-74477; marketplace has a separate seller SKU. This quote does not replace the primary brand price or establish an archive history.",
+          "stock": "In stock"
+        }
+      ]
     },
     {
       "id": "cr-114",
@@ -3796,7 +3835,20 @@
         "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-creatine-monohydrate-creamp/SP-33852?navKey=VRNT-139937",
         "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-creatine-monohydrate-creamp/SP-33852?navKey=VRNT-139937",
         "matchBasis": "Official selected product schema SKU matches exact navigation key"
-      }
+      },
+      "retailerQuotes": [
+        {
+          "retailer": "HealthKart",
+          "seller": "Bright Nutricare Private Limited",
+          "price": 1299,
+          "currency": "INR",
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.healthkart.com/sv/muscleblaze-creatine-monohydrate-creamp/SP-8688?navKey=VRNT-137851",
+          "variantId": "137851",
+          "matchBasis": "HealthKart selected product numeric id 137851, SP-8688, brand, flavour, retail packaging and explicit net gram/kg weight reviewed against current label evidence; unconditional offer_pr excludes loyalty or coupons. Same manufacturer product/flavour/net pack as https://www.muscleblaze.com/sv/muscleblaze-creatine-monohydrate-creamp/SP-33852?navKey=VRNT-139937; marketplace has a separate seller SKU. This quote does not replace the primary brand price or establish an archive history.",
+          "stock": "In stock"
+        }
+      ]
     },
     {
       "id": "cr-115",
@@ -6721,6 +6773,156 @@
         "https://cdn.shopify.com/s/files/1/0814/9064/1114/files/Creatinenutifacts33S_1_50122799-6b88-470d-9e1d-787fa91fafb3.png?v=1776502175"
       ],
       "kg": 0.1
+    },
+    {
+      "product": "Platinum Creatine Monohydrate",
+      "form": "Powder",
+      "type": "Monohydrate",
+      "subclass": "Micronized",
+      "grade": "Not specified",
+      "formulation": "Creatine + fructo-oligosaccharide",
+      "grams": 100,
+      "kg": 0.1,
+      "creatine": 96.77,
+      "scoop": 3.1,
+      "serving": 3.1,
+      "creatineServing": 3,
+      "energy": 6,
+      "nutritionUrl": "https://img6.hkrtcdn.com/44531/prd_4453075-MuscleTech-Platinum-Creatine-Unflavoured-0.22-lb_o.jpg",
+      "labelSources": [
+        "https://www.healthkart.com/sv/muscletech-platinum-creatine/SP-34261?navKey=VRNT-253341",
+        "https://img10.hkrtcdn.com/44531/prd_4453069-MuscleTech-Platinum-Creatine-Unflavoured-0.22-lb_o.jpg",
+        "https://img6.hkrtcdn.com/44531/prd_4453075-MuscleTech-Platinum-Creatine-Unflavoured-0.22-lb_o.jpg",
+        "https://img4.hkrtcdn.com/44531/prd_4453073-MuscleTech-Platinum-Creatine-Unflavoured-0.22-lb_o.jpg"
+      ],
+      "netWeightEvidenceUrl": "https://img10.hkrtcdn.com/44531/prd_4453069-MuscleTech-Platinum-Creatine-Unflavoured-0.22-lb_o.jpg",
+      "netWeightEvidenceGrams": 100,
+      "netWeightEvidenceChecked": "2026-11-20",
+      "additionalIngredients": [
+        {
+          "name": "Fructo-oligosaccharide",
+          "amount": null,
+          "unit": "g",
+          "basis": "Ingredient named on bottle; its individual mass is not disclosed"
+        }
+      ],
+      "basis": "Selected 100 g bottle front establishes actual net grams; rounded HealthKart pound display is not converted. The selected panel states one 3.1 g scoop, 3 g micronized creatine monohydrate and 96.77 g compound per 100 g.",
+      "energyBasis": "Selected panel explicitly declares 6.0 kcal per 100 g and rounded 0.19 kcal per 3.1 g scoop.",
+      "notes": "India-market label includes fructo-oligosaccharide; unflavoured does not mean single ingredient or 100% creatine. Micronized is a label claim, not an independent particle-size test. Approximate label serving counts are not used to infer pack weight. US-market 5 g serving labels are not substituted for this formulation.",
+      "id": "creatine-hk-253341",
+      "brand": "MuscleTech",
+      "price": 399,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://www.healthkart.com/sv/muscletech-platinum-creatine/SP-34261?navKey=VRNT-253341",
+      "sourceType": "retailer",
+      "retailer": "HealthKart",
+      "seller": "Shri Balaji Overseas",
+      "sourceVariantId": "253341",
+      "sourceProductId": "34261",
+      "labelChecked": "2026-11-20",
+      "packaging": "Single retail pack",
+      "flavour": "Unflavoured"
+    },
+    {
+      "product": "Platinum Creatine Monohydrate",
+      "form": "Powder",
+      "type": "Monohydrate",
+      "subclass": "Micronized",
+      "grade": "Not specified",
+      "formulation": "Creatine + fructo-oligosaccharide",
+      "grams": 250,
+      "kg": 0.25,
+      "creatine": 96.77,
+      "scoop": 3.1,
+      "serving": 3.1,
+      "creatineServing": 3,
+      "energy": 6,
+      "nutritionUrl": "https://img2.hkrtcdn.com/43953/prd_4395271-MuscleTech-Platinum-Creatine-Unflavoured-0.55-lb_o.jpg",
+      "labelSources": [
+        "https://www.healthkart.com/sv/muscletech-platinum-creatine/SP-34261?navKey=VRNT-206164",
+        "https://img6.hkrtcdn.com/43953/prd_4395265-MuscleTech-Platinum-Creatine-Unflavoured-0.55-lb_o.jpg",
+        "https://img2.hkrtcdn.com/43953/prd_4395271-MuscleTech-Platinum-Creatine-Unflavoured-0.55-lb_o.jpg",
+        "https://img10.hkrtcdn.com/43953/prd_4395269-MuscleTech-Platinum-Creatine-Unflavoured-0.55-lb_o.jpg"
+      ],
+      "netWeightEvidenceUrl": "https://img6.hkrtcdn.com/43953/prd_4395265-MuscleTech-Platinum-Creatine-Unflavoured-0.55-lb_o.jpg",
+      "netWeightEvidenceGrams": 250,
+      "netWeightEvidenceChecked": "2026-11-20",
+      "additionalIngredients": [
+        {
+          "name": "Fructo-oligosaccharide",
+          "amount": null,
+          "unit": "g",
+          "basis": "Ingredient named on bottle; its individual mass is not disclosed"
+        }
+      ],
+      "basis": "Selected 250 g bottle front establishes actual net grams; rounded HealthKart pound display is not converted. The selected panel states one 3.1 g scoop, 3 g micronized creatine monohydrate and 96.77 g compound per 100 g.",
+      "energyBasis": "Selected panel explicitly declares 6.0 kcal per 100 g and rounded 0.19 kcal per 3.1 g scoop.",
+      "notes": "India-market label includes fructo-oligosaccharide; unflavoured does not mean single ingredient or 100% creatine. Micronized is a label claim, not an independent particle-size test. Approximate label serving counts are not used to infer pack weight. US-market 5 g serving labels are not substituted for this formulation.",
+      "id": "creatine-hk-206164",
+      "brand": "MuscleTech",
+      "price": 849,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://www.healthkart.com/sv/muscletech-platinum-creatine/SP-34261?navKey=VRNT-206164",
+      "sourceType": "retailer",
+      "retailer": "HealthKart",
+      "seller": "Shri Balaji Overseas",
+      "sourceVariantId": "206164",
+      "sourceProductId": "34261",
+      "labelChecked": "2026-11-20",
+      "packaging": "Single retail pack",
+      "flavour": "Unflavoured"
+    },
+    {
+      "product": "Platinum Creatine Monohydrate",
+      "form": "Powder",
+      "type": "Monohydrate",
+      "subclass": "Micronized",
+      "grade": "Not specified",
+      "formulation": "Creatine + fructo-oligosaccharide",
+      "grams": 400,
+      "kg": 0.4,
+      "creatine": 96.77,
+      "scoop": 3.1,
+      "serving": 3.1,
+      "creatineServing": 3,
+      "energy": 6,
+      "nutritionUrl": "https://img8.hkrtcdn.com/45276/prd_4527537-MuscleTech-Platinum-Creatine-Unflavoured-0.88-lb_o.jpg",
+      "labelSources": [
+        "https://www.healthkart.com/sv/muscletech-platinum-creatine/SP-34261?navKey=VRNT-64484",
+        "https://img4.hkrtcdn.com/45276/prd_4527533-MuscleTech-Platinum-Creatine-Unflavoured-0.88-lb_o.jpg",
+        "https://img8.hkrtcdn.com/45276/prd_4527537-MuscleTech-Platinum-Creatine-Unflavoured-0.88-lb_o.jpg",
+        "https://img2.hkrtcdn.com/45276/prd_4527531-MuscleTech-Platinum-Creatine-Unflavoured-0.88-lb_o.jpg"
+      ],
+      "netWeightEvidenceUrl": "https://img4.hkrtcdn.com/45276/prd_4527533-MuscleTech-Platinum-Creatine-Unflavoured-0.88-lb_o.jpg",
+      "netWeightEvidenceGrams": 400,
+      "netWeightEvidenceChecked": "2026-11-20",
+      "additionalIngredients": [
+        {
+          "name": "Fructo-oligosaccharide",
+          "amount": null,
+          "unit": "g",
+          "basis": "Ingredient named on bottle; its individual mass is not disclosed"
+        }
+      ],
+      "basis": "Selected 400 g bottle front establishes actual net grams; rounded HealthKart pound display is not converted. The selected panel states one 3.1 g scoop, 3 g micronized creatine monohydrate and 96.77 g compound per 100 g.",
+      "energyBasis": "Selected panel explicitly declares 6.0 kcal per 100 g and rounded 0.19 kcal per 3.1 g scoop.",
+      "notes": "India-market label includes fructo-oligosaccharide; unflavoured does not mean single ingredient or 100% creatine. Micronized is a label claim, not an independent particle-size test. Approximate label serving counts are not used to infer pack weight. US-market 5 g serving labels are not substituted for this formulation.",
+      "id": "creatine-hk-64484",
+      "brand": "MuscleTech",
+      "price": 1349,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://www.healthkart.com/sv/muscletech-platinum-creatine/SP-34261?navKey=VRNT-64484",
+      "sourceType": "retailer",
+      "retailer": "HealthKart",
+      "seller": "Shri Balaji Overseas",
+      "sourceVariantId": "64484",
+      "sourceProductId": "34261",
+      "labelChecked": "2026-11-20",
+      "packaging": "Single retail pack",
+      "flavour": "Unflavoured"
     }
   ],
   "trendAudit": {

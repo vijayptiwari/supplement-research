@@ -1,5 +1,5 @@
 {
-  "checked": "2026-11-19",
+  "checked": "2026-11-20",
   "category": "vitamin-d",
   "offers": [
     {
@@ -148,25 +148,34 @@
       "subclass": "Single vitamin",
       "servingUnits": 1,
       "source": "Not specified",
-      "basis": "Official product page and its stated composition/serving information; primary selected pack only.",
-      "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities.",
+      "basis": "Official nutrition panel: one capsule (0.40 g), 600 IU Vitamin D3 and 0.98 kcal per capsule.",
+      "notes": "The nutrition panel specifies a capsule; a separate lifestyle image calls it a tablet. Capsule form follows the actual product and nutrition panel. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
       "packCount": 60,
       "vitaminDIu": 600,
       "id": "hkv-d3-60",
       "price": 389,
       "currency": "INR",
-      "stock": "Listed; confirm stock",
-      "url": "https://www.hkvitals.com/products/vitamin-d3",
-      "nutritionUrl": "https://www.hkvitals.com/products/vitamin-d3",
+      "stock": "In stock",
+      "url": "https://www.hkvitals.com/sv/hk-vitals-vitamin-d3/SP-100530?navKey=VRNT-187072",
+      "nutritionUrl": "https://img2.hkrtcdn.com/35036/prd_3503581-HK-Vitals-Vitamin-D3-by-HealthKart-60-capsules_o.jpg",
       "flavour": "Unflavoured",
-      "packaging": "Single retail pack",
-      "labelChecked": "2026-10-29",
+      "packaging": "Single retail pack (60 units)",
+      "labelChecked": "2026-11-19",
       "lastPriceReview": {
         "checked": "2026-11-19",
-        "sourceUrl": "https://www.hkvitals.com/products/vitamin-d3",
-        "evidenceUrl": "https://www.hkvitals.com/products/vitamin-d3",
-        "matchBasis": "Official primary product section; exact 60-unit pack and unconditional listed price below Key Features, excluding recommended products, combos and payment rewards."
-      }
+        "sourceUrl": "https://www.hkvitals.com/sv/hk-vitals-vitamin-d3/SP-100530?navKey=VRNT-187072",
+        "evidenceUrl": "https://www.hkvitals.com/sv/hk-vitals-vitamin-d3/SP-100530?navKey=VRNT-187072",
+        "matchBasis": "Official HK Vitals SSR reviewData selected numeric variant 187072; explicit pack '60 capsules', unconditional offer_pr INR and isPublish=true/oos=false. Excludes loyalty and coupon rewards."
+      },
+      "vitaminDMcg": 15,
+      "energyPerServing": 0.98,
+      "labelSources": [
+        "https://www.hkvitals.com/sv/hk-vitals-vitamin-d3/SP-100530?navKey=VRNT-187072",
+        "https://img2.hkrtcdn.com/35036/prd_3503581-HK-Vitals-Vitamin-D3-by-HealthKart-60-capsules_o.jpg"
+      ],
+      "sourceType": "manufacturer",
+      "sourceVariantId": "187072",
+      "sourceProductId": "100530"
     },
     {
       "id": "vitamin-d-47755208261797",
@@ -312,6 +321,180 @@
       "vitaminDIu": 600,
       "energyPerServing": 0.96,
       "mineralBasis": "elemental"
+    },
+    {
+      "form": "Capsule",
+      "source": "Not specified",
+      "servingUnits": 1,
+      "product": "Vitamin D3",
+      "type": "D3 (cholecalciferol)",
+      "subclass": "Single vitamin",
+      "vitaminDIu": 600,
+      "vitaminDMcg": 15,
+      "energyPerServing": 0.98,
+      "basis": "Official nutrition panel: one capsule (0.40 g), 600 IU Vitamin D3 and 0.98 kcal per capsule.",
+      "notes": "The nutrition panel specifies a capsule; a separate lifestyle image calls it a tablet. Capsule form follows the actual product and nutrition panel. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+      "brand": "HK Vitals",
+      "id": "vitamin-d-hkv-187074",
+      "packCount": 90,
+      "flavour": "Unflavoured",
+      "price": 579,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://www.hkvitals.com/sv/hk-vitals-vitamin-d3/SP-100530?navKey=VRNT-187074",
+      "nutritionUrl": "https://img2.hkrtcdn.com/35036/prd_3503581-HK-Vitals-Vitamin-D3-by-HealthKart-60-capsules_o.jpg",
+      "labelSources": [
+        "https://www.hkvitals.com/sv/hk-vitals-vitamin-d3/SP-100530?navKey=VRNT-187074",
+        "https://img2.hkrtcdn.com/35036/prd_3503581-HK-Vitals-Vitamin-D3-by-HealthKart-60-capsules_o.jpg"
+      ],
+      "labelChecked": "2026-11-19",
+      "sourceType": "manufacturer",
+      "packaging": "Single retail pack (90 units)",
+      "sourceVariantId": "187074",
+      "sourceProductId": "100530"
+    },
+    {
+      "form": "Tablet",
+      "source": "Not specified",
+      "servingUnits": 1,
+      "product": "Calcium + Vitamin D3",
+      "type": "D3 + calcium / magnesium / zinc (salt forms not specified)",
+      "subclass": "Vitamin D and mineral combination with Cissus",
+      "calciumMg": 150,
+      "magnesiumMg": 111,
+      "zincMg": 13.2,
+      "vitaminDMcg": 15,
+      "mineralBasis": "elemental",
+      "declaredActives": [
+        "calcium",
+        "magnesium",
+        "zinc"
+      ],
+      "additionalIngredients": [
+        {
+          "name": "Cissus quadrangularis whole-plant extract (Hadjod)",
+          "amount": 50,
+          "unit": "mg",
+          "basis": "per label serving"
+        }
+      ],
+      "basis": "Official panel per one tablet (1.03 g): Vitamin D3 15 mcg, calcium 150 mg, magnesium 111 mg and zinc 13.2 mg.",
+      "notes": "This distinct formulation is not the Calcium + Magnesium + Zinc SKU: its mineral ratios and D3 amount differ. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+      "brand": "HK Vitals",
+      "id": "vitamin-d-hkv-188310",
+      "packCount": 60,
+      "flavour": "Unflavoured",
+      "price": 239,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://www.hkvitals.com/sv/hk-vitals-calcium-plus-vitamin-d3/SP-101006?navKey=VRNT-188310",
+      "nutritionUrl": "https://img8.hkrtcdn.com/42833/prd_4283297-HK-Vitals-Calcium-Vitamin-D3-60-tablets-Unflavoured_o.jpg",
+      "labelSources": [
+        "https://www.hkvitals.com/products/calcium-vitamin-d3",
+        "https://img8.hkrtcdn.com/42833/prd_4283297-HK-Vitals-Calcium-Vitamin-D3-60-tablets-Unflavoured_o.jpg"
+      ],
+      "labelChecked": "2026-11-19",
+      "sourceType": "manufacturer",
+      "packaging": "Single retail pack (60 units)",
+      "sourceVariantId": "188310",
+      "sourceProductId": "101006",
+      "lastPriceReview": {
+        "checked": "2026-11-20",
+        "sourceUrl": "https://www.hkvitals.com/sv/hk-vitals-calcium-plus-vitamin-d3/SP-101006?navKey=VRNT-188310",
+        "evidenceUrl": "https://www.hkvitals.com/sv/hk-vitals-calcium-plus-vitamin-d3/SP-101006?navKey=VRNT-188310",
+        "matchBasis": "Fresh official HK Vitals exact legacy selected URL returned published SP-101006 / VRNT-188310 with matching brand, complete quantity/flavour attributes and unconditional INR offer_pr; profile/offer now retain explicit navKey rather than a mutable family default."
+      }
+    },
+    {
+      "form": "Gummy",
+      "source": "Not specified",
+      "servingUnits": 1,
+      "product": "Multivitamin Gummies",
+      "type": "Vitamin / mineral combination with lichen D3",
+      "subclass": "Gummy multivitamin with K2",
+      "vitaminB3Mg": 11,
+      "vitaminB5Mg": 5,
+      "vitaminB6Mg": 1.9,
+      "biotinMcg": 40,
+      "folicAcidMcg": null,
+      "vitaminB12Mcg": 2.2,
+      "vitaminCMg": 65,
+      "vitaminDMcg": 15,
+      "vitaminK2Mcg": 55,
+      "vitaminEMg": 10,
+      "zincMg": 13.2,
+      "mineralBasis": "elemental",
+      "energyPerServing": 7.83,
+      "additionalIngredients": [
+        {
+          "name": "Vitamin B9 (chemical form and DFE basis unverified)",
+          "amount": 129.41,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Vitamin A",
+          "amount": 840,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Iron",
+          "amount": 10,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Manganese",
+          "amount": 4,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Selenium",
+          "amount": 40,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Lycopene",
+          "amount": 10,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Grape seed extract",
+          "amount": 10,
+          "unit": "mg",
+          "basis": "per label serving"
+        }
+      ],
+      "basis": "Official panel per one gummy (3.5 g): B3 11 mg, B5 5 mg, B6 1.9 mg, B12 2.2 mcg, biotin 40 mcg, C 65 mg, lichen D3 15 mcg and K2 55 mcg; energy 7.83 kcal.",
+      "notes": "The panel names Vitamin B9 129.41 mcg without chemical form or DFE basis. It is not assigned to folic-acid or methylfolate cost calculations. Vitamin D3 is explicitly identified as cholecalciferol from lichen. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+      "brand": "HK Vitals",
+      "id": "vitamin-d-hkv-211458",
+      "packCount": 60,
+      "flavour": "Orange",
+      "price": 639,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://www.hkvitals.com/sv/hk-vitals-multivitamin-gummies/SP-112692?navKey=VRNT-211458",
+      "nutritionUrl": "https://img2.hkrtcdn.com/41488/prd_4148761-HK-Vitals-Multivitamin-Gummies-60-gummies-Orange_o.jpg",
+      "labelSources": [
+        "https://www.hkvitals.com/products/multivitamin-gummies",
+        "https://img2.hkrtcdn.com/41488/prd_4148761-HK-Vitals-Multivitamin-Gummies-60-gummies-Orange_o.jpg"
+      ],
+      "labelChecked": "2026-11-19",
+      "sourceType": "manufacturer",
+      "packaging": "Single retail pack (60 units)",
+      "sourceVariantId": "211458",
+      "sourceProductId": "112692",
+      "lastPriceReview": {
+        "checked": "2026-11-20",
+        "sourceUrl": "https://www.hkvitals.com/sv/hk-vitals-multivitamin-gummies/SP-112692?navKey=VRNT-211458",
+        "evidenceUrl": "https://www.hkvitals.com/sv/hk-vitals-multivitamin-gummies/SP-112692?navKey=VRNT-211458",
+        "matchBasis": "Fresh official HK Vitals exact legacy selected URL returned published SP-112692 / VRNT-211458 with matching brand, complete quantity/flavour attributes and unconditional INR offer_pr; profile/offer now retain explicit navKey rather than a mutable family default."
+      }
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "checked": "2026-11-19",
+  "checked": "2026-11-20",
   "category": "zmc",
   "offers": [
     {
@@ -182,12 +182,12 @@
       "brand": "HK Vitals",
       "product": "Calcium + Magnesium + Zinc",
       "form": "Tablet",
-      "type": "Calcium / magnesium / zinc (forms not verified)",
-      "subclass": "With D3",
+      "type": "Calcium / magnesium / zinc (salt forms not specified)",
+      "subclass": "Mineral combination with D3 and Cissus extract",
       "servingUnits": 1,
       "source": "Not specified",
-      "basis": "Official product page and its stated composition/serving information; primary selected pack only.",
-      "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities.",
+      "basis": "Official panel per one tablet (1.9 g) declares the nutrient minerals calcium 300 mg, magnesium 94.35 mg and zinc 5.3 mg, Vitamin D3 7.5 mcg and Cissus extract 50 mg.",
+      "notes": "Amounts are the panel nutrient rows, not inferred salt masses or calculations from %RDA. Specific mineral salt forms were not verified. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
       "packCount": 60,
       "declaredActives": [
         "calcium",
@@ -197,12 +197,12 @@
       "id": "hkv-zmc-60",
       "price": 319,
       "currency": "INR",
-      "stock": "Listed; confirm stock",
-      "url": "https://www.hkvitals.com/products/calcium-magnesium-zinc",
-      "nutritionUrl": "https://www.hkvitals.com/products/calcium-magnesium-zinc",
+      "stock": "In stock",
+      "url": "https://www.hkvitals.com/sv/hk-vitals-calcium-plus-magnesium-plus-zinc/SP-100998?navKey=VRNT-188292",
+      "nutritionUrl": "https://img8.hkrtcdn.com/35431/prd_3543067-HK-Vitals-Calcium-with-Mag-Zinc-Vit-D3-by-HealthKart-60-tablets-Unflavoured_o.jpg",
       "flavour": "Unflavoured",
-      "packaging": "Single retail pack",
-      "labelChecked": "2026-10-29",
+      "packaging": "Single retail pack (60 units)",
+      "labelChecked": "2026-11-19",
       "declaredNutrients": [
         "calciumMg",
         "magnesiumMg",
@@ -211,10 +211,30 @@
       ],
       "lastPriceReview": {
         "checked": "2026-11-19",
-        "sourceUrl": "https://www.hkvitals.com/products/calcium-magnesium-zinc",
-        "evidenceUrl": "https://www.hkvitals.com/products/calcium-magnesium-zinc",
-        "matchBasis": "Official primary product section; exact 60-unit pack and unconditional listed price below Key Features, excluding recommended products, combos and payment rewards."
-      }
+        "sourceUrl": "https://www.hkvitals.com/sv/hk-vitals-calcium-plus-magnesium-plus-zinc/SP-100998?navKey=VRNT-188292",
+        "evidenceUrl": "https://www.hkvitals.com/sv/hk-vitals-calcium-plus-magnesium-plus-zinc/SP-100998?navKey=VRNT-188292",
+        "matchBasis": "Official HK Vitals SSR reviewData selected numeric variant 188292; explicit pack '60 tablet(s)', unconditional offer_pr INR and isPublish=true/oos=false. Excludes loyalty and coupon rewards."
+      },
+      "calciumMg": 300,
+      "magnesiumMg": 94.35,
+      "zincMg": 5.3,
+      "vitaminDMcg": 7.5,
+      "mineralBasis": "elemental",
+      "additionalIngredients": [
+        {
+          "name": "Cissus quadrangularis whole-plant extract (3% ketosteroid)",
+          "amount": 50,
+          "unit": "mg",
+          "basis": "per label serving"
+        }
+      ],
+      "labelSources": [
+        "https://www.hkvitals.com/sv/hk-vitals-calcium-plus-magnesium-plus-zinc/SP-100998?navKey=VRNT-188292",
+        "https://img8.hkrtcdn.com/35431/prd_3543067-HK-Vitals-Calcium-with-Mag-Zinc-Vit-D3-by-HealthKart-60-tablets-Unflavoured_o.jpg"
+      ],
+      "sourceType": "manufacturer",
+      "sourceVariantId": "188292",
+      "sourceProductId": "100998"
     },
     {
       "id": "zmc-48087633756325",
@@ -359,6 +379,116 @@
         "magnesium",
         "zinc"
       ]
+    },
+    {
+      "form": "Tablet",
+      "source": "Not specified",
+      "servingUnits": 1,
+      "product": "Calcium + Magnesium + Zinc",
+      "type": "Calcium / magnesium / zinc (salt forms not specified)",
+      "subclass": "Mineral combination with D3 and Cissus extract",
+      "calciumMg": 300,
+      "magnesiumMg": 94.35,
+      "zincMg": 5.3,
+      "vitaminDMcg": 7.5,
+      "mineralBasis": "elemental",
+      "declaredActives": [
+        "calcium",
+        "magnesium",
+        "zinc"
+      ],
+      "additionalIngredients": [
+        {
+          "name": "Cissus quadrangularis whole-plant extract (3% ketosteroid)",
+          "amount": 50,
+          "unit": "mg",
+          "basis": "per label serving"
+        }
+      ],
+      "basis": "Official panel per one tablet (1.9 g) declares the nutrient minerals calcium 300 mg, magnesium 94.35 mg and zinc 5.3 mg, Vitamin D3 7.5 mcg and Cissus extract 50 mg.",
+      "notes": "Amounts are the panel nutrient rows, not inferred salt masses or calculations from %RDA. Specific mineral salt forms were not verified. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+      "brand": "HK Vitals",
+      "id": "zmc-hkv-188294",
+      "packCount": 90,
+      "flavour": "Unflavoured",
+      "price": 449,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://www.hkvitals.com/sv/hk-vitals-calcium-plus-magnesium-plus-zinc/SP-100998?navKey=VRNT-188294",
+      "nutritionUrl": "https://img8.hkrtcdn.com/35431/prd_3543067-HK-Vitals-Calcium-with-Mag-Zinc-Vit-D3-by-HealthKart-60-tablets-Unflavoured_o.jpg",
+      "labelSources": [
+        "https://www.hkvitals.com/sv/hk-vitals-calcium-plus-magnesium-plus-zinc/SP-100998?navKey=VRNT-188294",
+        "https://img8.hkrtcdn.com/35431/prd_3543067-HK-Vitals-Calcium-with-Mag-Zinc-Vit-D3-by-HealthKart-60-tablets-Unflavoured_o.jpg"
+      ],
+      "labelChecked": "2026-11-19",
+      "sourceType": "manufacturer",
+      "packaging": "Single retail pack (90 units)",
+      "sourceVariantId": "188294",
+      "sourceProductId": "100998",
+      "declaredNutrients": [
+        "calciumMg",
+        "magnesiumMg",
+        "zincMg",
+        "vitaminDMcg"
+      ]
+    },
+    {
+      "form": "Tablet",
+      "source": "Not specified",
+      "servingUnits": 1,
+      "product": "Calcium + Vitamin D3",
+      "type": "D3 + calcium / magnesium / zinc (salt forms not specified)",
+      "subclass": "Vitamin D and mineral combination with Cissus",
+      "calciumMg": 150,
+      "magnesiumMg": 111,
+      "zincMg": 13.2,
+      "vitaminDMcg": 15,
+      "mineralBasis": "elemental",
+      "declaredActives": [
+        "calcium",
+        "magnesium",
+        "zinc"
+      ],
+      "additionalIngredients": [
+        {
+          "name": "Cissus quadrangularis whole-plant extract (Hadjod)",
+          "amount": 50,
+          "unit": "mg",
+          "basis": "per label serving"
+        }
+      ],
+      "basis": "Official panel per one tablet (1.03 g): Vitamin D3 15 mcg, calcium 150 mg, magnesium 111 mg and zinc 13.2 mg.",
+      "notes": "This distinct formulation is not the Calcium + Magnesium + Zinc SKU: its mineral ratios and D3 amount differ. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+      "brand": "HK Vitals",
+      "id": "zmc-hkv-188310",
+      "packCount": 60,
+      "flavour": "Unflavoured",
+      "price": 239,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://www.hkvitals.com/sv/hk-vitals-calcium-plus-vitamin-d3/SP-101006?navKey=VRNT-188310",
+      "nutritionUrl": "https://img8.hkrtcdn.com/42833/prd_4283297-HK-Vitals-Calcium-Vitamin-D3-60-tablets-Unflavoured_o.jpg",
+      "labelSources": [
+        "https://www.hkvitals.com/products/calcium-vitamin-d3",
+        "https://img8.hkrtcdn.com/42833/prd_4283297-HK-Vitals-Calcium-Vitamin-D3-60-tablets-Unflavoured_o.jpg"
+      ],
+      "labelChecked": "2026-11-19",
+      "sourceType": "manufacturer",
+      "packaging": "Single retail pack (60 units)",
+      "sourceVariantId": "188310",
+      "sourceProductId": "101006",
+      "declaredNutrients": [
+        "calciumMg",
+        "magnesiumMg",
+        "zincMg",
+        "vitaminDMcg"
+      ],
+      "lastPriceReview": {
+        "checked": "2026-11-20",
+        "sourceUrl": "https://www.hkvitals.com/sv/hk-vitals-calcium-plus-vitamin-d3/SP-101006?navKey=VRNT-188310",
+        "evidenceUrl": "https://www.hkvitals.com/sv/hk-vitals-calcium-plus-vitamin-d3/SP-101006?navKey=VRNT-188310",
+        "matchBasis": "Fresh official HK Vitals exact legacy selected URL returned published SP-101006 / VRNT-188310 with matching brand, complete quantity/flavour attributes and unconditional INR offer_pr; profile/offer now retain explicit navKey rather than a mutable family default."
+      }
     }
   ]
 }

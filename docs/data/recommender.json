@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-11-18",
+  "reviewed": "2026-11-20",
   "goals": [
     {
       "id": "strength",
@@ -464,6 +464,15 @@
         "field": "price",
         "op": "inputMaximum",
         "value": "budget"
+      },
+      {
+        "id": "product-manual-review",
+        "label": "Formula does not require a separate product review",
+        "detail": "Products flagged for additional herbs, other actives or unquantified stimulant exposure stay available in the catalog but are excluded from automatic stack suggestions. Review the product-specific reason in pack details.",
+        "source": "offer",
+        "field": "requiresProductReview",
+        "op": "neq",
+        "value": true
       }
     ],
     "categories": {

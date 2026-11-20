@@ -1,5 +1,5 @@
 {
-  "checked": "2026-11-19",
+  "checked": "2026-11-20",
   "category": "beta-alanine",
   "offers": [
     {
@@ -301,6 +301,41 @@
       "currency": "INR",
       "stock": "In stock",
       "url": "https://www.bigmusclesnutrition.com/products/beta-alanine-peptide?variant=44106715365475"
+    },
+    {
+      "id": "beta-alanine-hk-91211",
+      "brand": "MuscleBlaze",
+      "product": "Beta Alanine (CarnoSyn)",
+      "form": "Powder",
+      "type": "Beta-alanine",
+      "subclass": "CarnoSyn beta-alanine",
+      "flavour": "Unflavoured",
+      "packaging": "Single retail pack",
+      "price": 699,
+      "currency": "INR",
+      "stock": "Sold out",
+      "url": "https://www.muscleblaze.com/sv/muscleblaze-beta-alanine/SP-50043?navKey=VRNT-91211",
+      "nutritionUrl": "https://img2.hkrtcdn.com/12184/prd_1218371-MuscleBlaze-Beta-Alanine-0.22-lb-Unflavoured_o.jpg",
+      "labelSources": [
+        "https://www.muscleblaze.com/sv/muscleblaze-beta-alanine/SP-50043?navKey=VRNT-91211",
+        "https://img2.hkrtcdn.com/12184/prd_1218371-MuscleBlaze-Beta-Alanine-0.22-lb-Unflavoured_o.jpg",
+        "https://img10.hkrtcdn.com/10732/prd_1073179-MuscleBlaze-Beta-Alanine-0.22-lb-Unflavoured_o.jpg"
+      ],
+      "labelChecked": "2026-11-19",
+      "sourceType": "manufacturer",
+      "sourceVariantId": "91211",
+      "sourceProductId": "50043",
+      "source": "Not specified",
+      "notes": "This selected official variant is sold out. No independent verification of the branded ingredient or doping-testing marketing is implied.",
+      "basis": "Exact official brand selected variant. The linked current product gallery nutrition panel was individually reviewed; amounts are per stated label serving. Product claims are manufacturer declarations, not independent assay results.",
+      "energyPerServing": null,
+      "betaAlanineMg": 2250,
+      "grams": 100,
+      "packCount": null,
+      "servingGrams": 2.25,
+      "declaredNutrients": [
+        "betaAlanineMg"
+      ]
     }
   ]
 }

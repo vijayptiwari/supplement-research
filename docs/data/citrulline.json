@@ -1,5 +1,5 @@
 {
-  "checked": "2026-11-19",
+  "checked": "2026-11-20",
   "category": "citrulline",
   "offers": [
     {
@@ -298,6 +298,44 @@
       "currency": "INR",
       "stock": "Sold out",
       "url": "https://nakpro.com/products/nakpro-citrulline-malate-powder?variant=41877873721424"
+    },
+    {
+      "id": "citrulline-hk-74765",
+      "brand": "MuscleBlaze",
+      "product": "Citrulline Malate",
+      "form": "Powder",
+      "type": "L-citrulline DL-malate",
+      "subclass": "Citrulline malate compound",
+      "flavour": "Unflavored",
+      "packaging": "Single retail pack",
+      "price": 509,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://www.muscleblaze.com/sv/muscleblaze-citrulline-malate/SP-40976?navKey=VRNT-74765",
+      "nutritionUrl": "https://img4.hkrtcdn.com/12147/prd_1214693-MuscleBlaze-Citrulline-Malate-0.22-lb-Unflavored_o.jpg",
+      "labelSources": [
+        "https://www.muscleblaze.com/sv/muscleblaze-citrulline-malate/SP-40976?navKey=VRNT-74765",
+        "https://img4.hkrtcdn.com/12147/prd_1214693-MuscleBlaze-Citrulline-Malate-0.22-lb-Unflavored_o.jpg",
+        "https://img2.hkrtcdn.com/10732/prd_1073171-MuscleBlaze-Citrulline-Malate-0.22-lb-Unflavored_o.jpg"
+      ],
+      "labelChecked": "2026-11-19",
+      "sourceType": "manufacturer",
+      "sourceVariantId": "74765",
+      "sourceProductId": "40976",
+      "source": "Not specified",
+      "notes": "The panel declares 2,000 mg citrulline DL-malate per 2 g scoop. It does not establish a chemically verified free-citrulline payload; no ratio-to-free conversion is made.",
+      "basis": "Exact official brand selected variant. The linked current product gallery nutrition panel was individually reviewed; amounts are per stated label serving. Product claims are manufacturer declarations, not independent assay results.",
+      "energyPerServing": null,
+      "citrullineMalateMg": 2000,
+      "citrullineMg": null,
+      "grams": 100,
+      "packCount": null,
+      "servingGrams": 2,
+      "declaredNutrients": [
+        "citrullineMalateMg",
+        "citrullineMg"
+      ],
+      "citrullineMalateRatio": "Not specified"
     }
   ]
 }

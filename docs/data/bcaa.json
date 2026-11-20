@@ -1,5 +1,5 @@
 {
-  "checked": "2026-11-19",
+  "checked": "2026-11-20",
   "category": "bcaa",
   "offers": [
     {
@@ -290,6 +290,262 @@
       "currency": "INR",
       "stock": "Sold out",
       "url": "https://nakpro.com/products/nakpro-bcaa-6000-amino-acids?variant=39632132603984"
+    },
+    {
+      "id": "bcaa-hk-78301",
+      "brand": "MuscleBlaze",
+      "product": "BCAA Pro (7 g BCAA)",
+      "form": "Powder",
+      "type": "BCAA 2:1:1",
+      "subclass": "BCAA + glutamine + citrulline malate",
+      "flavour": "Watermelon",
+      "packaging": "Single retail pack",
+      "price": 2099,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://www.muscleblaze.com/sv/muscleblaze-bcaa-pro-essential-amino-acids/SP-43236?navKey=VRNT-78301",
+      "nutritionUrl": "https://img6.hkrtcdn.com/30269/prd_3026865-MuscleBlaze-BCAA-Pro-Essential-Amino-Acids-0.99-lb-30-Servings-Watermelon_o.jpg",
+      "labelSources": [
+        "https://www.muscleblaze.com/sv/muscleblaze-bcaa-pro-essential-amino-acids/SP-43236?navKey=VRNT-78301",
+        "https://img6.hkrtcdn.com/30269/prd_3026865-MuscleBlaze-BCAA-Pro-Essential-Amino-Acids-0.99-lb-30-Servings-Watermelon_o.jpg",
+        "https://img8.hkrtcdn.com/30269/prd_3026857-MuscleBlaze-BCAA-Pro-Essential-Amino-Acids-0.99-lb-30-Servings-Watermelon_o.jpg"
+      ],
+      "labelChecked": "2026-11-19",
+      "sourceType": "manufacturer",
+      "sourceVariantId": "78301",
+      "sourceProductId": "43236",
+      "source": "Not specified",
+      "notes": "This 450 g legacy formulation has a 15 g serving. It is kept separate from the 240 g BCAA PRO + ELECTROLYTES formulation (8 g serving/5 g BCAA).",
+      "basis": "Exact official brand selected variant. The linked current product gallery nutrition panel was individually reviewed; amounts are per stated label serving. Product claims are manufacturer declarations, not independent assay results.",
+      "energyPerServing": 6.8,
+      "bcaaMg": 7000,
+      "leucineMg": 3500,
+      "isoleucineMg": 1750,
+      "valineMg": 1750,
+      "grams": 450,
+      "packCount": null,
+      "servingGrams": 15,
+      "additionalIngredients": [
+        {
+          "name": "L-glutamine",
+          "amount": 2500,
+          "unit": "mg",
+          "basis": "per stated label serving"
+        },
+        {
+          "name": "L-citrulline DL-malate",
+          "amount": 1000,
+          "unit": "mg",
+          "basis": "per stated label serving"
+        },
+        {
+          "name": "Electrolyte compound blend",
+          "amount": 1168,
+          "unit": "mg",
+          "basis": "per stated label serving"
+        },
+        {
+          "name": "Sodium",
+          "amount": 232,
+          "unit": "mg",
+          "basis": "per stated label serving"
+        },
+        {
+          "name": "Potassium",
+          "amount": 182,
+          "unit": "mg",
+          "basis": "per stated label serving"
+        }
+      ],
+      "declaredNutrients": [
+        "bcaaMg",
+        "leucineMg",
+        "isoleucineMg",
+        "valineMg"
+      ]
+    },
+    {
+      "id": "bcaa-hk-223726",
+      "brand": "MuscleBlaze",
+      "product": "BCAA PRO + ELECTROLYTES",
+      "form": "Powder",
+      "type": "BCAA 2:1:1",
+      "subclass": "BCAA + electrolytes",
+      "flavour": "Tropical Fest",
+      "packaging": "Single retail pack",
+      "price": 949,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://www.muscleblaze.com/sv/muscleblaze-bcaa-pro-essential-amino-acids/SP-43236?navKey=VRNT-223726",
+      "nutritionUrl": "https://img2.hkrtcdn.com/34792/prd_3479191-MuscleBlaze-BCAA-Pro-Essential-Amino-Acids-0.53-lb-30-Servings-Tropical-Fest_o.jpg",
+      "labelSources": [
+        "https://www.muscleblaze.com/sv/muscleblaze-bcaa-pro-essential-amino-acids/SP-43236?navKey=VRNT-223726",
+        "https://img2.hkrtcdn.com/34792/prd_3479191-MuscleBlaze-BCAA-Pro-Essential-Amino-Acids-0.53-lb-30-Servings-Tropical-Fest_o.jpg",
+        "https://img4.hkrtcdn.com/34792/prd_3479193-MuscleBlaze-BCAA-Pro-Essential-Amino-Acids-0.53-lb-30-Servings-Tropical-Fest_o.jpg"
+      ],
+      "labelChecked": "2026-11-19",
+      "sourceType": "manufacturer",
+      "sourceVariantId": "223726",
+      "sourceProductId": "43236",
+      "source": "Not specified",
+      "notes": "The family title on the website retains BCAA Pro Essential Amino Acids; the selected current panel identifies BCAA PRO + ELECTROLYTES, 240 g, 8 g serving. This is not a complete nine-EAA product.",
+      "basis": "Exact official brand selected variant. The linked current product gallery nutrition panel was individually reviewed; amounts are per stated label serving. Product claims are manufacturer declarations, not independent assay results.",
+      "energyPerServing": 2.85,
+      "bcaaMg": 5000,
+      "leucineMg": 2500,
+      "isoleucineMg": 1250,
+      "valineMg": 1250,
+      "grams": 240,
+      "packCount": null,
+      "servingGrams": 8,
+      "additionalIngredients": [
+        {
+          "name": "Electrolyte compound blend",
+          "amount": 500,
+          "unit": "mg",
+          "basis": "per stated label serving"
+        },
+        {
+          "name": "Sodium",
+          "amount": 115,
+          "unit": "mg",
+          "basis": "per stated label serving"
+        },
+        {
+          "name": "Potassium",
+          "amount": 86,
+          "unit": "mg",
+          "basis": "per stated label serving"
+        }
+      ],
+      "declaredNutrients": [
+        "bcaaMg",
+        "leucineMg",
+        "isoleucineMg",
+        "valineMg"
+      ]
+    },
+    {
+      "id": "bcaa-hk-106283",
+      "brand": "MuscleBlaze",
+      "product": "BCAA Gold 8:1:1",
+      "form": "Powder",
+      "type": "BCAA 8:1:1",
+      "subclass": "BCAA + glutamine + electrolytes",
+      "flavour": "Green Apple",
+      "packaging": "Single retail pack",
+      "price": 2239,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://www.muscleblaze.com/sv/muscleblaze-bcaa-gold-8:1:1-amino-acids-supplements/SP-59969?navKey=VRNT-106283",
+      "nutritionUrl": "https://img4.hkrtcdn.com/42379/prd_4237873-MuscleBlaze-BCAA-Gold-811-Amino-Acids-Supplements-0.99-lb-30-Servings-Green-Apple_o.jpg",
+      "labelSources": [
+        "https://www.muscleblaze.com/sv/muscleblaze-bcaa-gold-8:1:1-amino-acids-supplements/SP-59969?navKey=VRNT-106283",
+        "https://img4.hkrtcdn.com/42379/prd_4237873-MuscleBlaze-BCAA-Gold-811-Amino-Acids-Supplements-0.99-lb-30-Servings-Green-Apple_o.jpg",
+        "https://img6.hkrtcdn.com/42379/prd_4237865-MuscleBlaze-BCAA-Gold-811-Amino-Acids-Supplements-0.99-lb-30-Servings-Green-Apple_o.jpg"
+      ],
+      "labelChecked": "2026-11-19",
+      "sourceType": "manufacturer",
+      "sourceVariantId": "106283",
+      "sourceProductId": "59969",
+      "source": "Not specified",
+      "notes": "Use the actual current panel: one 7.5 g scoop has 3.5 g BCAA and the pack has 60 servings. Older promotional claims or images suggesting a double serving are not substituted.",
+      "basis": "Exact official brand selected variant. The linked current product gallery nutrition panel was individually reviewed; amounts are per stated label serving. Product claims are manufacturer declarations, not independent assay results.",
+      "energyPerServing": 2.56,
+      "bcaaMg": 3500,
+      "leucineMg": 2800,
+      "isoleucineMg": 350,
+      "valineMg": 350,
+      "grams": 450,
+      "packCount": null,
+      "servingGrams": 7.5,
+      "additionalIngredients": [
+        {
+          "name": "L-glutamine",
+          "amount": 1250,
+          "unit": "mg",
+          "basis": "per stated label serving"
+        },
+        {
+          "name": "L-citrulline DL-malate",
+          "amount": 500,
+          "unit": "mg",
+          "basis": "per stated label serving"
+        },
+        {
+          "name": "Electrolyte compound blend",
+          "amount": 638,
+          "unit": "mg",
+          "basis": "per stated label serving"
+        },
+        {
+          "name": "Sodium",
+          "amount": 134,
+          "unit": "mg",
+          "basis": "per stated label serving"
+        },
+        {
+          "name": "Potassium",
+          "amount": 74,
+          "unit": "mg",
+          "basis": "per stated label serving"
+        }
+      ],
+      "declaredNutrients": [
+        "bcaaMg",
+        "leucineMg",
+        "isoleucineMg",
+        "valineMg"
+      ]
+    },
+    {
+      "id": "bcaa-hk-275533",
+      "brand": "MuscleBlaze",
+      "product": "BCAA PRO + ELECTROLYTES Assorted Sachets",
+      "form": "Powder",
+      "type": "BCAA 2:1:1",
+      "subclass": "Six assorted 8 g sachets",
+      "flavour": "Tropical fest, Litchi & Watermelon kool Aid",
+      "packaging": "Single retail pack",
+      "price": 299,
+      "currency": "INR",
+      "stock": "Sold out",
+      "url": "https://www.muscleblaze.com/sv/muscleblaze-bcaa-pro-plus-electrolytes/SP-137725?navKey=VRNT-275533",
+      "nutritionUrl": "https://img6.hkrtcdn.com/41588/prd_4158725-MuscleBlaze-BCAA-PRO-ELECTROLYTES-48-g-6-Servings-Tropical-fest-Litchi-Watermelon-kool-Aid_o.jpg",
+      "labelSources": [
+        "https://www.muscleblaze.com/sv/muscleblaze-bcaa-pro-plus-electrolytes/SP-137725?navKey=VRNT-275533",
+        "https://img6.hkrtcdn.com/41588/prd_4158725-MuscleBlaze-BCAA-PRO-ELECTROLYTES-48-g-6-Servings-Tropical-fest-Litchi-Watermelon-kool-Aid_o.jpg",
+        "https://img4.hkrtcdn.com/41588/prd_4158713-MuscleBlaze-BCAA-PRO-ELECTROLYTES-48-g-6-Servings-Tropical-fest-Litchi-Watermelon-kool-Aid_o.jpg"
+      ],
+      "labelChecked": "2026-11-19",
+      "sourceType": "manufacturer",
+      "sourceVariantId": "275533",
+      "sourceProductId": "137725",
+      "source": "Not specified",
+      "notes": "One retail box is six sachets: two each Litchi, Tropical Fest and Watermelon Kool Aid. The three flavour panels consistently declare 5 g BCAA per sachet but calories vary; energy is deliberately unknown instead of assigning one flavour to the entire mixed pack. Selected offer is sold out.",
+      "basis": "Exact official brand selected variant. The linked current product gallery nutrition panel was individually reviewed; amounts are per stated label serving. Product claims are manufacturer declarations, not independent assay results.",
+      "energyPerServing": null,
+      "bcaaMg": 5000,
+      "leucineMg": 2500,
+      "isoleucineMg": 1250,
+      "valineMg": 1250,
+      "grams": 48,
+      "packCount": null,
+      "servingGrams": 8,
+      "additionalIngredients": [
+        {
+          "name": "Electrolyte compound blend",
+          "amount": 500,
+          "unit": "mg",
+          "basis": "per stated label serving"
+        }
+      ],
+      "declaredNutrients": [
+        "bcaaMg",
+        "leucineMg",
+        "isoleucineMg",
+        "valineMg"
+      ]
     }
   ]
 }

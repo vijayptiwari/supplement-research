@@ -1,5 +1,5 @@
 {
-  "checked": "2026-11-19",
+  "checked": "2026-11-20",
   "scope": "Publication requirements for exact Indian retail product records; unknown fields remain null and block only calculations needing those inputs.",
   "sharedRequired": [
     "stable offer ID",
@@ -118,18 +118,18 @@
         {
           "key": "vitaminDMcg",
           "label": "Vitamin D",
-          "unit": "µg",
+          "unit": "Âµg",
           "table": true
         },
         {
           "key": "vitaminK2Mcg",
           "label": "Vitamin K2",
-          "unit": "µg",
+          "unit": "Âµg",
           "table": true
         }
       ],
-      "comparisonNote": "Vitamin D amounts use IU with micrograms shown alongside (1 µg = 40 IU). Strength comparisons do not specify intake frequency.",
-      "checks": "Use IU/µg consistency (1µg=40IU); strength does not specify intake frequency."
+      "comparisonNote": "Vitamin D amounts use IU with micrograms shown alongside (1 Âµg = 40 IU). Strength comparisons do not specify intake frequency.",
+      "checks": "Use IU/Âµg consistency (1Âµg=40IU); strength does not specify intake frequency."
     },
     {
       "category": "magnesium",
@@ -184,7 +184,7 @@
         {
           "key": "vitaminK2Mcg",
           "label": "Vitamin K2",
-          "unit": "µg",
+          "unit": "Âµg",
           "table": false
         },
         {
@@ -247,7 +247,7 @@
         {
           "key": "biotinMcg",
           "label": "Biotin (B7)",
-          "unit": "µg",
+          "unit": "Âµg",
           "table": true
         }
       ],
@@ -335,7 +335,7 @@
         {
           "key": "biotinMcg",
           "label": "B7 (biotin)",
-          "unit": "µg",
+          "unit": "Âµg",
           "table": true,
           "costQuantity": 100,
           "searchAliases": [
@@ -346,7 +346,7 @@
         {
           "key": "folicAcidMcg",
           "label": "B9 (folic acid)",
-          "unit": "µg",
+          "unit": "Âµg",
           "table": true,
           "costQuantity": 100,
           "searchAliases": [
@@ -357,7 +357,7 @@
         {
           "key": "folateMcgDfe",
           "label": "Folate (dietary equivalents)",
-          "unit": "µg DFE",
+          "unit": "Âµg DFE",
           "table": true,
           "costQuantity": 100,
           "searchAliases": [
@@ -368,7 +368,7 @@
         {
           "key": "methylfolateMcg",
           "label": "B9 (methylfolate)",
-          "unit": "µg",
+          "unit": "Âµg",
           "table": true,
           "costQuantity": 100,
           "searchAliases": [
@@ -381,7 +381,7 @@
         {
           "key": "vitaminB12Mcg",
           "label": "B12",
-          "unit": "µg",
+          "unit": "Âµg",
           "table": true,
           "costQuantity": 1,
           "searchAliases": [
@@ -402,7 +402,7 @@
         {
           "key": "folicAcidMcg",
           "label": "Folic acid",
-          "unit": "µg",
+          "unit": "Âµg",
           "table": true,
           "searchAliases": [
             "b9",
@@ -412,7 +412,7 @@
         {
           "key": "methylfolateMcg",
           "label": "Methylfolate",
-          "unit": "µg",
+          "unit": "Âµg",
           "table": true,
           "costQuantity": 100,
           "searchAliases": [
@@ -425,7 +425,7 @@
         {
           "key": "folateMcgDfe",
           "label": "Folate (dietary equivalents)",
-          "unit": "µg DFE",
+          "unit": "Âµg DFE",
           "table": true,
           "costQuantity": 100,
           "searchAliases": [
@@ -721,7 +721,7 @@
         {
           "key": "vitaminB12Mcg",
           "label": "Vitamin B12 co-ingredient",
-          "unit": "µg",
+          "unit": "Âµg",
           "table": false
         }
       ],
@@ -764,7 +764,7 @@
         {
           "key": "vitaminDMcg",
           "label": "Vitamin D co-ingredient",
-          "unit": "µg",
+          "unit": "Âµg",
           "table": false
         }
       ],
@@ -813,7 +813,7 @@
         {
           "key": "biotinMcg",
           "label": "Biotin",
-          "unit": "µg",
+          "unit": "Âµg",
           "table": false
         },
         {
@@ -826,5 +826,14 @@
       "comparisonNote": "Compare label-serving cost and like ingredient materials separately. Hydrolysed peptide mass, mixed collagen-complex mass and native type II ingredient mass are not equivalent potency measures. Type labels do not establish tissue targeting, independent purity or clinical benefit.",
       "checks": "Peptide mass,mixed hydrolysed complex and native typeII ingredients stay separate. Mixedcomplex individualtype/source weights stay unknown. No plant builder, topical mask, total protein or precursor mass is counted as collagen."
     }
+  ],
+  "marketplaceRules": [
+    "Keep brand/manufacturer identity separate from retailer and named seller.",
+    "Match the exact selected product ID, variant, flavour, formulation, pack size and packaging before enriching an existing record.",
+    "Record separately dated retailer quotes on the existing exact pack; do not duplicate the pack or replace manufacturer prices and history.",
+    "A new retailer-sourced primary pack must name its retailer, seller when disclosed, exact variant URL and label evidence.",
+    "Use the actual composition panel over a contradictory marketing image; retain the conflict in notes and unknown quantities as null.",
+    "A rounded pounds option needs separately reviewed explicit net gram label evidence; never round a pounds conversion to invent a 1/2/4 kg protein pack.",
+    "New current listings do not establish historical prices, launch dates, authenticity, clinical efficacy or independent assay results."
   ]
 }

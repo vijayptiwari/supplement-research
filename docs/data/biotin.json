@@ -1,5 +1,5 @@
 {
-  "checked": "2026-11-19",
+  "checked": "2026-11-20",
   "category": "biotin",
   "offers": [
     {
@@ -251,6 +251,380 @@
       "packaging": "Brand-listed retail pack (90 tablets)",
       "biotinMcg": 40,
       "energyPerServing": 0.08
+    },
+    {
+      "form": "Tablet",
+      "source": "Not specified",
+      "servingUnits": 2,
+      "product": "Biotin Tablets",
+      "type": "Sunflower seed extract + Jatamansi root extract",
+      "subclass": "Ayurvedic botanical combination; biotin payload unquantified",
+      "biotinMcg": null,
+      "additionalIngredients": [
+        {
+          "name": "Sunflower (Helianthus annuus) seed extract",
+          "amount": 170,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Jatamansi (Nardostachys jatamansi) root extract",
+          "amount": 10,
+          "unit": "mg",
+          "basis": "per label serving"
+        }
+      ],
+      "basis": "Official composition states each tablet contains sunflower seed extract 85 mg and Jatamansi root extract 5 mg. Official directions use two tablets; recorded botanical amounts are doubled to that serving.",
+      "notes": "The current Ayurvedic formula does not quantify biotin in micrograms. Seed-extract mass is not biotin mass; active-content cost must remain unknown. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+      "brand": "HK Vitals",
+      "id": "biotin-hkv-185730",
+      "packCount": 60,
+      "flavour": "Unflavoured",
+      "price": 389,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://www.hkvitals.com/sv/hk-vitals-biotin/SP-99762?navKey=VRNT-185730",
+      "nutritionUrl": "https://img8.hkrtcdn.com/35045/prd_3504437-HK-Vitals-Biotin-by-HealthKart-60-tablets-Unflavoured_o.jpg",
+      "labelSources": [
+        "https://www.hkvitals.com/sv/hk-vitals-biotin/SP-99762?navKey=VRNT-185730",
+        "https://img8.hkrtcdn.com/35045/prd_3504437-HK-Vitals-Biotin-by-HealthKart-60-tablets-Unflavoured_o.jpg"
+      ],
+      "labelChecked": "2026-11-19",
+      "sourceType": "manufacturer",
+      "packaging": "Single retail pack (60 units)",
+      "sourceVariantId": "185730",
+      "sourceProductId": "99762"
+    },
+    {
+      "form": "Tablet",
+      "source": "Not specified",
+      "servingUnits": 2,
+      "product": "Biotin Tablets",
+      "type": "Sunflower seed extract + Jatamansi root extract",
+      "subclass": "Ayurvedic botanical combination; biotin payload unquantified",
+      "biotinMcg": null,
+      "additionalIngredients": [
+        {
+          "name": "Sunflower (Helianthus annuus) seed extract",
+          "amount": 170,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Jatamansi (Nardostachys jatamansi) root extract",
+          "amount": 10,
+          "unit": "mg",
+          "basis": "per label serving"
+        }
+      ],
+      "basis": "Official composition states each tablet contains sunflower seed extract 85 mg and Jatamansi root extract 5 mg. Official directions use two tablets; recorded botanical amounts are doubled to that serving.",
+      "notes": "The current Ayurvedic formula does not quantify biotin in micrograms. Seed-extract mass is not biotin mass; active-content cost must remain unknown. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+      "brand": "HK Vitals",
+      "id": "biotin-hkv-185732",
+      "packCount": 90,
+      "flavour": "Unflavoured",
+      "price": 539,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://www.hkvitals.com/sv/hk-vitals-biotin/SP-99762?navKey=VRNT-185732",
+      "nutritionUrl": "https://img8.hkrtcdn.com/35045/prd_3504437-HK-Vitals-Biotin-by-HealthKart-60-tablets-Unflavoured_o.jpg",
+      "labelSources": [
+        "https://www.hkvitals.com/sv/hk-vitals-biotin/SP-99762?navKey=VRNT-185732",
+        "https://img8.hkrtcdn.com/35045/prd_3504437-HK-Vitals-Biotin-by-HealthKart-60-tablets-Unflavoured_o.jpg"
+      ],
+      "labelChecked": "2026-11-19",
+      "sourceType": "manufacturer",
+      "packaging": "Single retail pack (90 units)",
+      "sourceVariantId": "185732",
+      "sourceProductId": "99762"
+    },
+    {
+      "form": "Gummy",
+      "source": "Sesbania grandiflora leaf extract (biotin)",
+      "servingUnits": 1,
+      "product": "Hair Strength Gummies",
+      "type": "Sesbania-derived biotin + vitamins and zinc",
+      "subclass": "Hair multivitamin combination",
+      "biotinMcg": 40,
+      "folicAcidMcg": 129.41,
+      "vitaminB12Mcg": 1,
+      "vitaminB6Mg": 0.25,
+      "vitaminCMg": 11.25,
+      "vitaminEMg": 10,
+      "zincMg": 1,
+      "mineralBasis": "elemental",
+      "energyPerServing": 6.56,
+      "additionalIngredients": [
+        {
+          "name": "Vitamin A",
+          "amount": 300,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Iodine",
+          "amount": 21,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Myo-inositol",
+          "amount": 2.5,
+          "unit": "mg",
+          "basis": "per label serving"
+        }
+      ],
+      "basis": "Official panel per one gummy (3.5 g): biotin 40 mcg from Sesbania extract, folic acid 129.41 mcg, B12 1 mcg, B6 0.25 mg, C 11.25 mg, E 10 mg and zinc 1 mg; energy 6.56 kcal.",
+      "notes": "Biotin amount is explicitly declared as 40 mcg; the separate 10,000 mcg extract amount is not treated as biotin. Contains 1 g total sugars per gummy despite 0 g added sugars. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+      "brand": "HK Vitals",
+      "id": "biotin-hkv-185044",
+      "packCount": 60,
+      "flavour": "Strawberry",
+      "price": 869,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://www.hkvitals.com/sv/hk-vitals-hair-strength-gummies/SP-99450?navKey=VRNT-185044",
+      "nutritionUrl": "https://img10.hkrtcdn.com/47219/prd_4721879-HK-Vitals-Hair-Strength-Gummies-60-gummies-Strawberry_o.jpg",
+      "labelSources": [
+        "https://www.hkvitals.com/products/biotin-gummies",
+        "https://img10.hkrtcdn.com/47219/prd_4721879-HK-Vitals-Hair-Strength-Gummies-60-gummies-Strawberry_o.jpg"
+      ],
+      "labelChecked": "2026-11-19",
+      "sourceType": "manufacturer",
+      "packaging": "Single retail pack (60 units)",
+      "sourceVariantId": "185044",
+      "sourceProductId": "99450",
+      "lastPriceReview": {
+        "checked": "2026-11-20",
+        "sourceUrl": "https://www.hkvitals.com/sv/hk-vitals-hair-strength-gummies/SP-99450?navKey=VRNT-185044",
+        "evidenceUrl": "https://www.hkvitals.com/sv/hk-vitals-hair-strength-gummies/SP-99450?navKey=VRNT-185044",
+        "matchBasis": "Fresh official HK Vitals exact legacy selected URL returned published SP-99450 / VRNT-185044 with matching brand, complete quantity/flavour attributes and unconditional INR offer_pr; profile/offer now retain explicit navKey rather than a mutable family default."
+      }
+    },
+    {
+      "form": "Tablet",
+      "source": "Sunflower seed extract (biotin)",
+      "servingUnits": 2,
+      "product": "Hair Vitamins for Men",
+      "type": "Sunflower-derived biotin + vitamins / minerals / botanicals",
+      "subclass": "Hair multivitamin with botanical, amino-acid and probiotic blends",
+      "biotinMcg": 40,
+      "vitaminB6Mg": 1.9,
+      "vitaminCMg": 65,
+      "vitaminDMcg": 15,
+      "vitaminEMg": 10,
+      "zincMg": 13.2,
+      "mineralBasis": "elemental",
+      "additionalIngredients": [
+        {
+          "name": "Iron",
+          "amount": 19,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Selenium",
+          "amount": 40,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "BioWin vitamin and mineral blend (overlaps separately listed nutrients)",
+          "amount": 120,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "KeraCollagen amino-acid blend (not collagen peptides)",
+          "amount": 553,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Tricho-Active botanical and probiotic complex",
+          "amount": 775,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Probiotics within Tricho-Active complex",
+          "amount": 1,
+          "unit": "billion CFU",
+          "basis": "per label serving"
+        }
+      ],
+      "basis": "Official panel per two tablets (2.51 g): biotin 40 mcg, B6 1.9 mg, C 65 mg, Vitamin D 15 mcg, E 10 mg and zinc 13.2 mg.",
+      "notes": "The label does not identify Vitamin D as D2 or D3. KeraCollagen is named an amino-acid blend; its mass is not entered as collagen peptide mass. Proprietary blend quantities overlap the listed nutrient totals and must not be added again. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+      "brand": "HK Vitals",
+      "id": "biotin-hkv-219924",
+      "packCount": 60,
+      "flavour": "Unflavoured",
+      "price": 639,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://www.hkvitals.com/sv/hk-vitals-hair-vitamins-for-men/SP-116648?navKey=VRNT-219924",
+      "nutritionUrl": "https://img4.hkrtcdn.com/37792/prd_3779103-HK-Vitals-Hair-Multivitamin-60-capsules-Unflavoured_o.jpg",
+      "labelSources": [
+        "https://www.hkvitals.com/sv/hk-vitals-hair-vitamins-for-men/SP-116648?navKey=VRNT-219924",
+        "https://img4.hkrtcdn.com/37792/prd_3779103-HK-Vitals-Hair-Multivitamin-60-capsules-Unflavoured_o.jpg"
+      ],
+      "labelChecked": "2026-11-19",
+      "sourceType": "manufacturer",
+      "packaging": "Single retail pack (60 units)",
+      "sourceVariantId": "219924",
+      "sourceProductId": "116648"
+    },
+    {
+      "form": "Tablet",
+      "source": "Sunflower seed extract (biotin)",
+      "servingUnits": 2,
+      "product": "Hair Vitamins for Men",
+      "type": "Sunflower-derived biotin + vitamins / minerals / botanicals",
+      "subclass": "Hair multivitamin with botanical, amino-acid and probiotic blends",
+      "biotinMcg": 40,
+      "vitaminB6Mg": 1.9,
+      "vitaminCMg": 65,
+      "vitaminDMcg": 15,
+      "vitaminEMg": 10,
+      "zincMg": 13.2,
+      "mineralBasis": "elemental",
+      "additionalIngredients": [
+        {
+          "name": "Iron",
+          "amount": 19,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Selenium",
+          "amount": 40,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "BioWin vitamin and mineral blend (overlaps separately listed nutrients)",
+          "amount": 120,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "KeraCollagen amino-acid blend (not collagen peptides)",
+          "amount": 553,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Tricho-Active botanical and probiotic complex",
+          "amount": 775,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Probiotics within Tricho-Active complex",
+          "amount": 1,
+          "unit": "billion CFU",
+          "basis": "per label serving"
+        }
+      ],
+      "basis": "Official panel per two tablets (2.51 g): biotin 40 mcg, B6 1.9 mg, C 65 mg, Vitamin D 15 mcg, E 10 mg and zinc 13.2 mg.",
+      "notes": "The label does not identify Vitamin D as D2 or D3. KeraCollagen is named an amino-acid blend; its mass is not entered as collagen peptide mass. Proprietary blend quantities overlap the listed nutrient totals and must not be added again. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+      "brand": "HK Vitals",
+      "id": "biotin-hkv-236755",
+      "packCount": 30,
+      "flavour": "Unflavoured",
+      "price": 399,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://www.hkvitals.com/sv/hk-vitals-hair-vitamins-for-men/SP-116648?navKey=VRNT-236755",
+      "nutritionUrl": "https://img4.hkrtcdn.com/37792/prd_3779103-HK-Vitals-Hair-Multivitamin-60-capsules-Unflavoured_o.jpg",
+      "labelSources": [
+        "https://www.hkvitals.com/sv/hk-vitals-hair-vitamins-for-men/SP-116648?navKey=VRNT-236755",
+        "https://img4.hkrtcdn.com/37792/prd_3779103-HK-Vitals-Hair-Multivitamin-60-capsules-Unflavoured_o.jpg"
+      ],
+      "labelChecked": "2026-11-19",
+      "sourceType": "manufacturer",
+      "packaging": "Single retail pack (30 units)",
+      "sourceVariantId": "236755",
+      "sourceProductId": "116648"
+    },
+    {
+      "form": "Tablet",
+      "source": "Sunflower seed extract (biotin)",
+      "servingUnits": 2,
+      "product": "Hair Vitamins for Women",
+      "type": "Sunflower-derived biotin + vitamins / minerals / botanicals",
+      "subclass": "Hair multivitamin with botanical, amino-acid and probiotic blends",
+      "biotinMcg": 40,
+      "vitaminB6Mg": 1.9,
+      "vitaminCMg": 65,
+      "vitaminDMcg": 15,
+      "vitaminEMg": 10,
+      "zincMg": 13.2,
+      "mineralBasis": "elemental",
+      "additionalIngredients": [
+        {
+          "name": "Iron",
+          "amount": 19,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Selenium",
+          "amount": 40,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "BioWin vitamin and mineral blend (overlaps separately listed nutrients)",
+          "amount": 120,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "KeraCollagen amino-acid blend (not collagen peptides)",
+          "amount": 553,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Tricho-Active botanical and probiotic complex",
+          "amount": 775,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Balance F botanical blend",
+          "amount": 656,
+          "unit": "mg",
+          "basis": "per label serving"
+        }
+      ],
+      "basis": "Official panel per two tablets (3.18 g): biotin 40 mcg, B6 1.9 mg, C 65 mg, Vitamin D 15 mcg, E 10 mg and zinc 13.2 mg.",
+      "notes": "The label does not identify Vitamin D as D2 or D3. Individual botanical and probiotic amounts within the proprietary blends remain unknown; KeraCollagen is not declared collagen peptides. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+      "brand": "HK Vitals",
+      "id": "biotin-hkv-252927",
+      "packCount": 60,
+      "flavour": "Unflavoured",
+      "price": 639,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://www.hkvitals.com/sv/hk-vitals-hair-vitamins-for-women/SP-130265?navKey=VRNT-252927",
+      "nutritionUrl": "https://img4.hkrtcdn.com/36094/prd_3609313-HK-Vitals-Hair-Vitamins-for-Women-60-tablets-Unflavoured_o.jpg",
+      "labelSources": [
+        "https://www.hkvitals.com/products/hair-vitamins-women",
+        "https://img4.hkrtcdn.com/36094/prd_3609313-HK-Vitals-Hair-Vitamins-for-Women-60-tablets-Unflavoured_o.jpg"
+      ],
+      "labelChecked": "2026-11-19",
+      "sourceType": "manufacturer",
+      "packaging": "Single retail pack (60 units)",
+      "sourceVariantId": "252927",
+      "sourceProductId": "130265",
+      "lastPriceReview": {
+        "checked": "2026-11-20",
+        "sourceUrl": "https://www.hkvitals.com/sv/hk-vitals-hair-vitamins-for-women/SP-130265?navKey=VRNT-252927",
+        "evidenceUrl": "https://www.hkvitals.com/sv/hk-vitals-hair-vitamins-for-women/SP-130265?navKey=VRNT-252927",
+        "matchBasis": "Fresh official HK Vitals exact legacy selected URL returned published SP-130265 / VRNT-252927 with matching brand, complete quantity/flavour attributes and unconditional INR offer_pr; profile/offer now retain explicit navKey rather than a mutable family default."
+      }
     }
   ]
 }

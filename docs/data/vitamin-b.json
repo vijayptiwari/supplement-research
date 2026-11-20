@@ -1,5 +1,5 @@
 {
-  "checked": "2026-11-19",
+  "checked": "2026-11-20",
   "category": "vitamin-b",
   "offers": [
     {
@@ -773,6 +773,1418 @@
         "folicAcidMcg",
         "vitaminB12Mcg"
       ]
+    },
+    {
+      "form": "Gummy",
+      "source": "Sesbania grandiflora leaf extract (biotin)",
+      "servingUnits": 1,
+      "product": "Hair Strength Gummies",
+      "type": "Sesbania-derived biotin + vitamins and zinc",
+      "subclass": "Hair multivitamin combination",
+      "biotinMcg": 40,
+      "folicAcidMcg": 129.41,
+      "vitaminB12Mcg": 1,
+      "vitaminB6Mg": 0.25,
+      "vitaminCMg": 11.25,
+      "vitaminEMg": 10,
+      "zincMg": 1,
+      "mineralBasis": "elemental",
+      "energyPerServing": 6.56,
+      "additionalIngredients": [
+        {
+          "name": "Vitamin A",
+          "amount": 300,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Iodine",
+          "amount": 21,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Myo-inositol",
+          "amount": 2.5,
+          "unit": "mg",
+          "basis": "per label serving"
+        }
+      ],
+      "basis": "Official panel per one gummy (3.5 g): biotin 40 mcg from Sesbania extract, folic acid 129.41 mcg, B12 1 mcg, B6 0.25 mg, C 11.25 mg, E 10 mg and zinc 1 mg; energy 6.56 kcal.",
+      "notes": "Biotin amount is explicitly declared as 40 mcg; the separate 10,000 mcg extract amount is not treated as biotin. Contains 1 g total sugars per gummy despite 0 g added sugars. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+      "brand": "HK Vitals",
+      "id": "vitamin-b-hkv-185044",
+      "packCount": 60,
+      "flavour": "Strawberry",
+      "price": 869,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://www.hkvitals.com/sv/hk-vitals-hair-strength-gummies/SP-99450?navKey=VRNT-185044",
+      "nutritionUrl": "https://img10.hkrtcdn.com/47219/prd_4721879-HK-Vitals-Hair-Strength-Gummies-60-gummies-Strawberry_o.jpg",
+      "labelSources": [
+        "https://www.hkvitals.com/products/biotin-gummies",
+        "https://img10.hkrtcdn.com/47219/prd_4721879-HK-Vitals-Hair-Strength-Gummies-60-gummies-Strawberry_o.jpg"
+      ],
+      "labelChecked": "2026-11-19",
+      "sourceType": "manufacturer",
+      "packaging": "Single retail pack (60 units)",
+      "sourceVariantId": "185044",
+      "sourceProductId": "99450",
+      "declaredNutrients": [
+        "vitaminB6Mg",
+        "biotinMcg",
+        "folicAcidMcg",
+        "vitaminB12Mcg"
+      ],
+      "lastPriceReview": {
+        "checked": "2026-11-20",
+        "sourceUrl": "https://www.hkvitals.com/sv/hk-vitals-hair-strength-gummies/SP-99450?navKey=VRNT-185044",
+        "evidenceUrl": "https://www.hkvitals.com/sv/hk-vitals-hair-strength-gummies/SP-99450?navKey=VRNT-185044",
+        "matchBasis": "Fresh official HK Vitals exact legacy selected URL returned published SP-99450 / VRNT-185044 with matching brand, complete quantity/flavour attributes and unconditional INR offer_pr; profile/offer now retain explicit navKey rather than a mutable family default."
+      }
+    },
+    {
+      "form": "Tablet",
+      "source": "Not specified",
+      "servingUnits": 1,
+      "product": "Multivitamin with Zinc & Vitamin C",
+      "type": "B-vitamin / Vitamin C / mineral combination",
+      "subclass": "Multivitamin with taurine and ginseng",
+      "vitaminB1Mg": 1.17,
+      "vitaminB2Mg": 1.9,
+      "vitaminB3Mg": 8.25,
+      "vitaminB5Mg": 0.4,
+      "vitaminB6Mg": 1.43,
+      "biotinMcg": 40,
+      "vitaminB12Mcg": 2.2,
+      "vitaminCMg": 65,
+      "vitaminDMcg": 7.5,
+      "vitaminEMg": 8,
+      "folicAcidMcg": 110,
+      "magnesiumMg": 7.03,
+      "zincMg": 5.49,
+      "taurineMg": 500,
+      "mineralBasis": "elemental",
+      "additionalIngredients": [
+        {
+          "name": "Vitamin A",
+          "amount": 840,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Iron",
+          "amount": 12.79,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Manganese",
+          "amount": 1.4,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Copper",
+          "amount": 0.59,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Iodine",
+          "amount": 93.34,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Chromium",
+          "amount": 33,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Selenium",
+          "amount": 10,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Soya protein hydrolysate",
+          "amount": 186.5,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Panax ginseng root extract (10% ginsenoside)",
+          "amount": 120,
+          "unit": "mg",
+          "basis": "per label serving"
+        }
+      ],
+      "basis": "Official panel per one tablet (1.40 g): each B vitamin is recorded separately; Vitamin C 65 mg, folic acid 110 mcg, biotin 40 mcg and Vitamin D2 7.5 mcg.",
+      "notes": "This is a multivitamin combination, not a standalone C or B-complex product. The structured page trait says zinc 17 mg, but the detailed current panel says zinc 5.49 mg; the panel is used and this conflict is retained. Contains Vitamin D2, not D3. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+      "brand": "HK Vitals",
+      "id": "vitamin-b-hkv-185014",
+      "packCount": 60,
+      "flavour": "Unflavoured",
+      "price": 399,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://www.hkvitals.com/sv/hk-vitals-multivitamin-with-zinc-n-vitamin-c/SP-99430?navKey=VRNT-185014",
+      "nutritionUrl": "https://img2.hkrtcdn.com/40250/prd_4024901-HK-Vitals-Multivitamin-with-Zinc-Vitamin-C-60-tablets-Unflavoured_o.jpg",
+      "labelSources": [
+        "https://www.hkvitals.com/sv/hk-vitals-multivitamin-with-zinc-n-vitamin-c/SP-99430?navKey=VRNT-185014",
+        "https://img2.hkrtcdn.com/40250/prd_4024901-HK-Vitals-Multivitamin-with-Zinc-Vitamin-C-60-tablets-Unflavoured_o.jpg"
+      ],
+      "labelChecked": "2026-11-19",
+      "sourceType": "manufacturer",
+      "packaging": "Single retail pack (60 units)",
+      "sourceVariantId": "185014",
+      "sourceProductId": "99430",
+      "declaredNutrients": [
+        "vitaminB1Mg",
+        "vitaminB2Mg",
+        "vitaminB3Mg",
+        "vitaminB5Mg",
+        "vitaminB6Mg",
+        "biotinMcg",
+        "folicAcidMcg",
+        "vitaminB12Mcg"
+      ]
+    },
+    {
+      "form": "Tablet",
+      "source": "Not specified",
+      "servingUnits": 1,
+      "product": "Multivitamin with Zinc & Vitamin C",
+      "type": "B-vitamin / Vitamin C / mineral combination",
+      "subclass": "Multivitamin with taurine and ginseng",
+      "vitaminB1Mg": 1.17,
+      "vitaminB2Mg": 1.9,
+      "vitaminB3Mg": 8.25,
+      "vitaminB5Mg": 0.4,
+      "vitaminB6Mg": 1.43,
+      "biotinMcg": 40,
+      "vitaminB12Mcg": 2.2,
+      "vitaminCMg": 65,
+      "vitaminDMcg": 7.5,
+      "vitaminEMg": 8,
+      "folicAcidMcg": 110,
+      "magnesiumMg": 7.03,
+      "zincMg": 5.49,
+      "taurineMg": 500,
+      "mineralBasis": "elemental",
+      "additionalIngredients": [
+        {
+          "name": "Vitamin A",
+          "amount": 840,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Iron",
+          "amount": 12.79,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Manganese",
+          "amount": 1.4,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Copper",
+          "amount": 0.59,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Iodine",
+          "amount": 93.34,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Chromium",
+          "amount": 33,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Selenium",
+          "amount": 10,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Soya protein hydrolysate",
+          "amount": 186.5,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Panax ginseng root extract (10% ginsenoside)",
+          "amount": 120,
+          "unit": "mg",
+          "basis": "per label serving"
+        }
+      ],
+      "basis": "Official panel per one tablet (1.40 g): each B vitamin is recorded separately; Vitamin C 65 mg, folic acid 110 mcg, biotin 40 mcg and Vitamin D2 7.5 mcg.",
+      "notes": "This is a multivitamin combination, not a standalone C or B-complex product. The structured page trait says zinc 17 mg, but the detailed current panel says zinc 5.49 mg; the panel is used and this conflict is retained. Contains Vitamin D2, not D3. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+      "brand": "HK Vitals",
+      "id": "vitamin-b-hkv-250147",
+      "packCount": 30,
+      "flavour": "Unflavoured",
+      "price": 289,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://www.hkvitals.com/sv/hk-vitals-multivitamin-with-zinc-n-vitamin-c/SP-99430?navKey=VRNT-250147",
+      "nutritionUrl": "https://img2.hkrtcdn.com/40250/prd_4024901-HK-Vitals-Multivitamin-with-Zinc-Vitamin-C-60-tablets-Unflavoured_o.jpg",
+      "labelSources": [
+        "https://www.hkvitals.com/sv/hk-vitals-multivitamin-with-zinc-n-vitamin-c/SP-99430?navKey=VRNT-250147",
+        "https://img2.hkrtcdn.com/40250/prd_4024901-HK-Vitals-Multivitamin-with-Zinc-Vitamin-C-60-tablets-Unflavoured_o.jpg"
+      ],
+      "labelChecked": "2026-11-19",
+      "sourceType": "manufacturer",
+      "packaging": "Single retail pack (30 units)",
+      "sourceVariantId": "250147",
+      "sourceProductId": "99430",
+      "declaredNutrients": [
+        "vitaminB1Mg",
+        "vitaminB2Mg",
+        "vitaminB3Mg",
+        "vitaminB5Mg",
+        "vitaminB6Mg",
+        "biotinMcg",
+        "folicAcidMcg",
+        "vitaminB12Mcg"
+      ]
+    },
+    {
+      "form": "Tablet",
+      "source": "Not specified",
+      "servingUnits": 1,
+      "product": "Multivitamin with Zinc & Vitamin C",
+      "type": "B-vitamin / Vitamin C / mineral combination",
+      "subclass": "Multivitamin with taurine and ginseng",
+      "vitaminB1Mg": 1.17,
+      "vitaminB2Mg": 1.9,
+      "vitaminB3Mg": 8.25,
+      "vitaminB5Mg": 0.4,
+      "vitaminB6Mg": 1.43,
+      "biotinMcg": 40,
+      "vitaminB12Mcg": 2.2,
+      "vitaminCMg": 65,
+      "vitaminDMcg": 7.5,
+      "vitaminEMg": 8,
+      "folicAcidMcg": 110,
+      "magnesiumMg": 7.03,
+      "zincMg": 5.49,
+      "taurineMg": 500,
+      "mineralBasis": "elemental",
+      "additionalIngredients": [
+        {
+          "name": "Vitamin A",
+          "amount": 840,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Iron",
+          "amount": 12.79,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Manganese",
+          "amount": 1.4,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Copper",
+          "amount": 0.59,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Iodine",
+          "amount": 93.34,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Chromium",
+          "amount": 33,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Selenium",
+          "amount": 10,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Soya protein hydrolysate",
+          "amount": 186.5,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Panax ginseng root extract (10% ginsenoside)",
+          "amount": 120,
+          "unit": "mg",
+          "basis": "per label serving"
+        }
+      ],
+      "basis": "Official panel per one tablet (1.40 g): each B vitamin is recorded separately; Vitamin C 65 mg, folic acid 110 mcg, biotin 40 mcg and Vitamin D2 7.5 mcg.",
+      "notes": "This is a multivitamin combination, not a standalone C or B-complex product. The structured page trait says zinc 17 mg, but the detailed current panel says zinc 5.49 mg; the panel is used and this conflict is retained. Contains Vitamin D2, not D3. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+      "brand": "HK Vitals",
+      "id": "vitamin-b-hkv-185534",
+      "packCount": 90,
+      "flavour": "Unflavoured",
+      "price": 539,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://www.hkvitals.com/sv/hk-vitals-multivitamin-with-zinc-n-vitamin-c/SP-99430?navKey=VRNT-185534",
+      "nutritionUrl": "https://img2.hkrtcdn.com/40250/prd_4024901-HK-Vitals-Multivitamin-with-Zinc-Vitamin-C-60-tablets-Unflavoured_o.jpg",
+      "labelSources": [
+        "https://www.hkvitals.com/sv/hk-vitals-multivitamin-with-zinc-n-vitamin-c/SP-99430?navKey=VRNT-185534",
+        "https://img2.hkrtcdn.com/40250/prd_4024901-HK-Vitals-Multivitamin-with-Zinc-Vitamin-C-60-tablets-Unflavoured_o.jpg"
+      ],
+      "labelChecked": "2026-11-19",
+      "sourceType": "manufacturer",
+      "packaging": "Single retail pack (90 units)",
+      "sourceVariantId": "185534",
+      "sourceProductId": "99430",
+      "declaredNutrients": [
+        "vitaminB1Mg",
+        "vitaminB2Mg",
+        "vitaminB3Mg",
+        "vitaminB5Mg",
+        "vitaminB6Mg",
+        "biotinMcg",
+        "folicAcidMcg",
+        "vitaminB12Mcg"
+      ]
+    },
+    {
+      "form": "Tablet",
+      "source": "Not specified",
+      "servingUnits": 1,
+      "product": "Bi-Layer Multivitamin+ Men",
+      "type": "Activated B-vitamin forms + ascorbic acid + D3/K2",
+      "subclass": "Bilayer multivitamin with methylfolate and botanicals",
+      "vitaminB1Mg": 1.8,
+      "vitaminB2Mg": 2.5,
+      "vitaminB3Mg": 18,
+      "vitaminB5Mg": 5,
+      "vitaminB6Mg": 2.4,
+      "methylfolateMcg": 176,
+      "biotinMcg": 40,
+      "vitaminB12Mcg": 2,
+      "vitaminCMg": 80,
+      "vitaminDMcg": 15,
+      "vitaminK2Mcg": 55,
+      "vitaminEMg": 10,
+      "zincMg": 17,
+      "mineralBasis": "elemental",
+      "energyPerServing": 3.77,
+      "additionalIngredients": [
+        {
+          "name": "Iron",
+          "amount": 19,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Vitamin A",
+          "amount": 1000,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Myo-inositol",
+          "amount": 100,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Green tea extract",
+          "amount": 50,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Panax ginseng root extract",
+          "amount": 27,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Phytase",
+          "amount": 19,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Black pepper extract",
+          "amount": 5,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Manganese",
+          "amount": 4,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Copper",
+          "amount": 1.7,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Iodine",
+          "amount": 140,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Chromium",
+          "amount": 50,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Molybdenum",
+          "amount": 45,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Selenium",
+          "amount": 40,
+          "unit": "mcg",
+          "basis": "per label serving"
+        }
+      ],
+      "basis": "Official current bilayer panel per one tablet (1.215 g): B1 1.8 mg, B2 2.5 mg, B3 18 mg, B5 5 mg, B6 2.4 mg, 5-MTHF 176 mcg, biotin 40 mcg, B12 2 mcg, C 80 mg, D3 15 mcg, K2 55 mcg; energy 3.77 kcal.",
+      "notes": "B9 is labelled (6S)-5-methyltetrahydrofolic acid and remains methylfolate, not folic acid or DFE. Label specifies B2 riboflavin-5-phosphate, B6 pyridoxal-5-phosphate and B12 cyanocobalamin. No superior-absorption or timed-release efficacy claim is inferred. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+      "brand": "HK Vitals",
+      "id": "vitamin-b-hkv-235125",
+      "packCount": 30,
+      "flavour": "Unflavoured",
+      "price": 399,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://www.hkvitals.com/sv/hk-vitals-bi-layer-multivitaminplus-men/SP-123461?navKey=VRNT-235125",
+      "nutritionUrl": "https://img6.hkrtcdn.com/46564/prd_4656335-HK-Vitals-BiLayer-Multivitamin-Men-30-tablets-Unflavoured_o.jpg",
+      "labelSources": [
+        "https://www.hkvitals.com/sv/hk-vitals-bi-layer-multivitaminplus-men/SP-123461?navKey=VRNT-235125",
+        "https://img6.hkrtcdn.com/46564/prd_4656335-HK-Vitals-BiLayer-Multivitamin-Men-30-tablets-Unflavoured_o.jpg"
+      ],
+      "labelChecked": "2026-11-19",
+      "sourceType": "manufacturer",
+      "packaging": "Single retail pack (30 units)",
+      "sourceVariantId": "235125",
+      "sourceProductId": "123461",
+      "declaredNutrients": [
+        "vitaminB1Mg",
+        "vitaminB2Mg",
+        "vitaminB3Mg",
+        "vitaminB5Mg",
+        "vitaminB6Mg",
+        "biotinMcg",
+        "methylfolateMcg",
+        "vitaminB12Mcg"
+      ]
+    },
+    {
+      "form": "Tablet",
+      "source": "Not specified",
+      "servingUnits": 1,
+      "product": "Bi-Layer Multivitamin+ Men",
+      "type": "Activated B-vitamin forms + ascorbic acid + D3/K2",
+      "subclass": "Bilayer multivitamin with methylfolate and botanicals",
+      "vitaminB1Mg": 1.8,
+      "vitaminB2Mg": 2.5,
+      "vitaminB3Mg": 18,
+      "vitaminB5Mg": 5,
+      "vitaminB6Mg": 2.4,
+      "methylfolateMcg": 176,
+      "biotinMcg": 40,
+      "vitaminB12Mcg": 2,
+      "vitaminCMg": 80,
+      "vitaminDMcg": 15,
+      "vitaminK2Mcg": 55,
+      "vitaminEMg": 10,
+      "zincMg": 17,
+      "mineralBasis": "elemental",
+      "energyPerServing": 3.77,
+      "additionalIngredients": [
+        {
+          "name": "Iron",
+          "amount": 19,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Vitamin A",
+          "amount": 1000,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Myo-inositol",
+          "amount": 100,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Green tea extract",
+          "amount": 50,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Panax ginseng root extract",
+          "amount": 27,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Phytase",
+          "amount": 19,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Black pepper extract",
+          "amount": 5,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Manganese",
+          "amount": 4,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Copper",
+          "amount": 1.7,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Iodine",
+          "amount": 140,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Chromium",
+          "amount": 50,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Molybdenum",
+          "amount": 45,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Selenium",
+          "amount": 40,
+          "unit": "mcg",
+          "basis": "per label serving"
+        }
+      ],
+      "basis": "Official current bilayer panel per one tablet (1.215 g): B1 1.8 mg, B2 2.5 mg, B3 18 mg, B5 5 mg, B6 2.4 mg, 5-MTHF 176 mcg, biotin 40 mcg, B12 2 mcg, C 80 mg, D3 15 mcg, K2 55 mcg; energy 3.77 kcal.",
+      "notes": "B9 is labelled (6S)-5-methyltetrahydrofolic acid and remains methylfolate, not folic acid or DFE. Label specifies B2 riboflavin-5-phosphate, B6 pyridoxal-5-phosphate and B12 cyanocobalamin. No superior-absorption or timed-release efficacy claim is inferred. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+      "brand": "HK Vitals",
+      "id": "vitamin-b-hkv-235127",
+      "packCount": 50,
+      "flavour": "Unflavoured",
+      "price": 649,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://www.hkvitals.com/sv/hk-vitals-bi-layer-multivitaminplus-men/SP-123461?navKey=VRNT-235127",
+      "nutritionUrl": "https://img6.hkrtcdn.com/46564/prd_4656335-HK-Vitals-BiLayer-Multivitamin-Men-30-tablets-Unflavoured_o.jpg",
+      "labelSources": [
+        "https://www.hkvitals.com/sv/hk-vitals-bi-layer-multivitaminplus-men/SP-123461?navKey=VRNT-235127",
+        "https://img6.hkrtcdn.com/46564/prd_4656335-HK-Vitals-BiLayer-Multivitamin-Men-30-tablets-Unflavoured_o.jpg"
+      ],
+      "labelChecked": "2026-11-19",
+      "sourceType": "manufacturer",
+      "packaging": "Single retail pack (50 units)",
+      "sourceVariantId": "235127",
+      "sourceProductId": "123461",
+      "declaredNutrients": [
+        "vitaminB1Mg",
+        "vitaminB2Mg",
+        "vitaminB3Mg",
+        "vitaminB5Mg",
+        "vitaminB6Mg",
+        "biotinMcg",
+        "methylfolateMcg",
+        "vitaminB12Mcg"
+      ]
+    },
+    {
+      "form": "Tablet",
+      "source": "Not specified",
+      "servingUnits": 1,
+      "product": "Bi-Layer Multivitamin+ Women",
+      "type": "Activated B-vitamin forms + ascorbic acid + D3/K2",
+      "subclass": "Bilayer multivitamin with methylfolate and botanicals",
+      "vitaminB1Mg": 1.4,
+      "vitaminB2Mg": 1.9,
+      "vitaminB3Mg": 11,
+      "vitaminB5Mg": 5,
+      "vitaminB6Mg": 1.9,
+      "methylfolateMcg": 129,
+      "biotinMcg": 40,
+      "vitaminB12Mcg": 2,
+      "vitaminCMg": 65,
+      "vitaminDMcg": 15,
+      "vitaminK2Mcg": 55,
+      "vitaminEMg": 10,
+      "zincMg": 13.2,
+      "ashwagandhaMg": 375,
+      "mineralBasis": "elemental",
+      "energyPerServing": 4.49,
+      "additionalIngredients": [
+        {
+          "name": "Iron",
+          "amount": 29,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Vitamin A",
+          "amount": 840,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Myo-inositol",
+          "amount": 100,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Panax ginseng root extract",
+          "amount": 27,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Phytase",
+          "amount": 19,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Co-enzyme Q10",
+          "amount": 10,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Manganese",
+          "amount": 1.6,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Copper",
+          "amount": 0.68,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Iodine",
+          "amount": 56,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Chromium",
+          "amount": 50,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Molybdenum",
+          "amount": 45,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Selenium",
+          "amount": 40,
+          "unit": "mcg",
+          "basis": "per label serving"
+        }
+      ],
+      "basis": "Official current bilayer panel per one tablet (1.366 g): B1 1.4 mg, B2 1.9 mg, B3 11 mg, B5 5 mg, B6 1.9 mg, 5-MTHF 129 mcg, biotin 40 mcg, B12 2 mcg, C 65 mg, D3 15 mcg, K2 55 mcg; energy 4.49 kcal.",
+      "notes": "B9 is labelled (6S)-5-methyltetrahydrofolic acid; no folic-acid or DFE conversion is made. Gallery alt text sometimes says 60 tablets, but selected live variants and the current panel specify 30 or 50 tablets; selected exact pack counts govern pricing. Includes ashwagandha root extract 375 mg with unverified standardization. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+      "brand": "HK Vitals",
+      "id": "vitamin-b-hkv-233583",
+      "packCount": 30,
+      "flavour": "Unflavoured",
+      "price": 399,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://www.hkvitals.com/sv/hk-vitals-bi-layer-multivitaminplus-women/SP-122587?navKey=VRNT-233583",
+      "nutritionUrl": "https://img6.hkrtcdn.com/47240/prd_4723935-HK-Vitals-Multivitamin-Women-60-tablets-Unflavoured_o.jpg",
+      "labelSources": [
+        "https://www.hkvitals.com/sv/hk-vitals-bi-layer-multivitaminplus-women/SP-122587?navKey=VRNT-233583",
+        "https://img6.hkrtcdn.com/47240/prd_4723935-HK-Vitals-Multivitamin-Women-60-tablets-Unflavoured_o.jpg"
+      ],
+      "labelChecked": "2026-11-19",
+      "sourceType": "manufacturer",
+      "packaging": "Single retail pack (30 units)",
+      "sourceVariantId": "233583",
+      "sourceProductId": "122587",
+      "declaredNutrients": [
+        "vitaminB1Mg",
+        "vitaminB2Mg",
+        "vitaminB3Mg",
+        "vitaminB5Mg",
+        "vitaminB6Mg",
+        "biotinMcg",
+        "methylfolateMcg",
+        "vitaminB12Mcg"
+      ]
+    },
+    {
+      "form": "Tablet",
+      "source": "Not specified",
+      "servingUnits": 1,
+      "product": "Bi-Layer Multivitamin+ Women",
+      "type": "Activated B-vitamin forms + ascorbic acid + D3/K2",
+      "subclass": "Bilayer multivitamin with methylfolate and botanicals",
+      "vitaminB1Mg": 1.4,
+      "vitaminB2Mg": 1.9,
+      "vitaminB3Mg": 11,
+      "vitaminB5Mg": 5,
+      "vitaminB6Mg": 1.9,
+      "methylfolateMcg": 129,
+      "biotinMcg": 40,
+      "vitaminB12Mcg": 2,
+      "vitaminCMg": 65,
+      "vitaminDMcg": 15,
+      "vitaminK2Mcg": 55,
+      "vitaminEMg": 10,
+      "zincMg": 13.2,
+      "ashwagandhaMg": 375,
+      "mineralBasis": "elemental",
+      "energyPerServing": 4.49,
+      "additionalIngredients": [
+        {
+          "name": "Iron",
+          "amount": 29,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Vitamin A",
+          "amount": 840,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Myo-inositol",
+          "amount": 100,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Panax ginseng root extract",
+          "amount": 27,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Phytase",
+          "amount": 19,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Co-enzyme Q10",
+          "amount": 10,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Manganese",
+          "amount": 1.6,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Copper",
+          "amount": 0.68,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Iodine",
+          "amount": 56,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Chromium",
+          "amount": 50,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Molybdenum",
+          "amount": 45,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Selenium",
+          "amount": 40,
+          "unit": "mcg",
+          "basis": "per label serving"
+        }
+      ],
+      "basis": "Official current bilayer panel per one tablet (1.366 g): B1 1.4 mg, B2 1.9 mg, B3 11 mg, B5 5 mg, B6 1.9 mg, 5-MTHF 129 mcg, biotin 40 mcg, B12 2 mcg, C 65 mg, D3 15 mcg, K2 55 mcg; energy 4.49 kcal.",
+      "notes": "B9 is labelled (6S)-5-methyltetrahydrofolic acid; no folic-acid or DFE conversion is made. Gallery alt text sometimes says 60 tablets, but selected live variants and the current panel specify 30 or 50 tablets; selected exact pack counts govern pricing. Includes ashwagandha root extract 375 mg with unverified standardization. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+      "brand": "HK Vitals",
+      "id": "vitamin-b-hkv-233453",
+      "packCount": 50,
+      "flavour": "Unflavoured",
+      "price": 649,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://www.hkvitals.com/sv/hk-vitals-bi-layer-multivitaminplus-women/SP-122587?navKey=VRNT-233453",
+      "nutritionUrl": "https://img6.hkrtcdn.com/47240/prd_4723935-HK-Vitals-Multivitamin-Women-60-tablets-Unflavoured_o.jpg",
+      "labelSources": [
+        "https://www.hkvitals.com/sv/hk-vitals-bi-layer-multivitaminplus-women/SP-122587?navKey=VRNT-233453",
+        "https://img6.hkrtcdn.com/47240/prd_4723935-HK-Vitals-Multivitamin-Women-60-tablets-Unflavoured_o.jpg"
+      ],
+      "labelChecked": "2026-11-19",
+      "sourceType": "manufacturer",
+      "packaging": "Single retail pack (50 units)",
+      "sourceVariantId": "233453",
+      "sourceProductId": "122587",
+      "declaredNutrients": [
+        "vitaminB1Mg",
+        "vitaminB2Mg",
+        "vitaminB3Mg",
+        "vitaminB5Mg",
+        "vitaminB6Mg",
+        "biotinMcg",
+        "methylfolateMcg",
+        "vitaminB12Mcg"
+      ]
+    },
+    {
+      "form": "Tablet",
+      "source": "Not specified",
+      "servingUnits": 1,
+      "product": "Multivitamin Women with Soya-Isoflavone, Lycopene & Ginseng",
+      "type": "B-vitamin / Vitamin C / mineral combination",
+      "subclass": "Multivitamin with soy isoflavones and ginseng",
+      "vitaminB1Mg": 1.4,
+      "vitaminB2Mg": 1.9,
+      "vitaminB3Mg": 11,
+      "vitaminB6Mg": 1.9,
+      "biotinMcg": 40,
+      "vitaminB12Mcg": 2.2,
+      "vitaminCMg": 65,
+      "vitaminDMcg": 15,
+      "vitaminEMg": 10,
+      "folicAcidMcg": 129.41,
+      "calciumMg": 100,
+      "magnesiumMg": 44,
+      "zincMg": 13.2,
+      "mineralBasis": "elemental",
+      "additionalIngredients": [
+        {
+          "name": "Vitamin A",
+          "amount": 840,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Iron",
+          "amount": 29,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Manganese",
+          "amount": 1.6,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Copper",
+          "amount": 0.68,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Iodine",
+          "amount": 56,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Selenium",
+          "amount": 40,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Soya-isoflavone",
+          "amount": 50,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Panax ginseng root extract (10% ginsenoside)",
+          "amount": 42.5,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Lycopene",
+          "amount": 0.3,
+          "unit": "mg",
+          "basis": "per label serving"
+        }
+      ],
+      "basis": "Official panel per one tablet (1.15 g): B1 1.4 mg, B2 1.9 mg, B3 11 mg, B6 1.9 mg, biotin 40 mcg, B12 2.2 mcg, C 65 mg, D2 15 mcg and folic acid 129.41 mcg; mineral nutrient amounts are recorded separately.",
+      "notes": "This is the conventional Multivitamin Women formula, distinct from Bi-Layer Multivitamin+ Women. Contains Vitamin D2; B5 is not declared on the panel and is not assumed zero. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+      "brand": "HK Vitals",
+      "id": "vitamin-b-hkv-185644",
+      "packCount": 60,
+      "flavour": "Unflavoured",
+      "price": 419,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://www.hkvitals.com/sv/hk-vitals-multivitamin-women-with-soya-isoflavone-lycopene-n-ginseng/SP-99742?navKey=VRNT-185644",
+      "nutritionUrl": "https://img10.hkrtcdn.com/47219/prd_4721839-HK-Vitals-Multivitamin-Women-with-SoyaIsoflavone-Lycopene-Ginseng-60-tablets-Unflavoured_o.jpg",
+      "labelSources": [
+        "https://www.hkvitals.com/sv/hk-vitals-multivitamin-women-with-soya-isoflavone-lycopene-n-ginseng/SP-99742?navKey=VRNT-185644",
+        "https://img10.hkrtcdn.com/47219/prd_4721839-HK-Vitals-Multivitamin-Women-with-SoyaIsoflavone-Lycopene-Ginseng-60-tablets-Unflavoured_o.jpg"
+      ],
+      "labelChecked": "2026-11-19",
+      "sourceType": "manufacturer",
+      "packaging": "Single retail pack (60 units)",
+      "sourceVariantId": "185644",
+      "sourceProductId": "99742",
+      "declaredNutrients": [
+        "vitaminB1Mg",
+        "vitaminB2Mg",
+        "vitaminB3Mg",
+        "vitaminB6Mg",
+        "biotinMcg",
+        "folicAcidMcg",
+        "vitaminB12Mcg"
+      ]
+    },
+    {
+      "form": "Tablet",
+      "source": "Not specified",
+      "servingUnits": 1,
+      "product": "Multivitamin Women with Soya-Isoflavone, Lycopene & Ginseng",
+      "type": "B-vitamin / Vitamin C / mineral combination",
+      "subclass": "Multivitamin with soy isoflavones and ginseng",
+      "vitaminB1Mg": 1.4,
+      "vitaminB2Mg": 1.9,
+      "vitaminB3Mg": 11,
+      "vitaminB6Mg": 1.9,
+      "biotinMcg": 40,
+      "vitaminB12Mcg": 2.2,
+      "vitaminCMg": 65,
+      "vitaminDMcg": 15,
+      "vitaminEMg": 10,
+      "folicAcidMcg": 129.41,
+      "calciumMg": 100,
+      "magnesiumMg": 44,
+      "zincMg": 13.2,
+      "mineralBasis": "elemental",
+      "additionalIngredients": [
+        {
+          "name": "Vitamin A",
+          "amount": 840,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Iron",
+          "amount": 29,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Manganese",
+          "amount": 1.6,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Copper",
+          "amount": 0.68,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Iodine",
+          "amount": 56,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Selenium",
+          "amount": 40,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Soya-isoflavone",
+          "amount": 50,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Panax ginseng root extract (10% ginsenoside)",
+          "amount": 42.5,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Lycopene",
+          "amount": 0.3,
+          "unit": "mg",
+          "basis": "per label serving"
+        }
+      ],
+      "basis": "Official panel per one tablet (1.15 g): B1 1.4 mg, B2 1.9 mg, B3 11 mg, B6 1.9 mg, biotin 40 mcg, B12 2.2 mcg, C 65 mg, D2 15 mcg and folic acid 129.41 mcg; mineral nutrient amounts are recorded separately.",
+      "notes": "This is the conventional Multivitamin Women formula, distinct from Bi-Layer Multivitamin+ Women. Contains Vitamin D2; B5 is not declared on the panel and is not assumed zero. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+      "brand": "HK Vitals",
+      "id": "vitamin-b-hkv-185646",
+      "packCount": 90,
+      "flavour": "Unflavoured",
+      "price": 539,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://www.hkvitals.com/sv/hk-vitals-multivitamin-women-with-soya-isoflavone-lycopene-n-ginseng/SP-99742?navKey=VRNT-185646",
+      "nutritionUrl": "https://img10.hkrtcdn.com/47219/prd_4721839-HK-Vitals-Multivitamin-Women-with-SoyaIsoflavone-Lycopene-Ginseng-60-tablets-Unflavoured_o.jpg",
+      "labelSources": [
+        "https://www.hkvitals.com/sv/hk-vitals-multivitamin-women-with-soya-isoflavone-lycopene-n-ginseng/SP-99742?navKey=VRNT-185646",
+        "https://img10.hkrtcdn.com/47219/prd_4721839-HK-Vitals-Multivitamin-Women-with-SoyaIsoflavone-Lycopene-Ginseng-60-tablets-Unflavoured_o.jpg"
+      ],
+      "labelChecked": "2026-11-19",
+      "sourceType": "manufacturer",
+      "packaging": "Single retail pack (90 units)",
+      "sourceVariantId": "185646",
+      "sourceProductId": "99742",
+      "declaredNutrients": [
+        "vitaminB1Mg",
+        "vitaminB2Mg",
+        "vitaminB3Mg",
+        "vitaminB6Mg",
+        "biotinMcg",
+        "folicAcidMcg",
+        "vitaminB12Mcg"
+      ]
+    },
+    {
+      "form": "Tablet",
+      "source": "Not specified",
+      "servingUnits": 1,
+      "product": "Multivitamin Plus Probiotics",
+      "type": "B-vitamin / Vitamin C / mineral combination",
+      "subclass": "Multivitamin with probiotics, prebiotic and botanicals",
+      "vitaminB1Mg": 1.4,
+      "vitaminB2Mg": 1.9,
+      "vitaminB3Mg": 11,
+      "vitaminB5Mg": 5,
+      "vitaminB6Mg": 1.9,
+      "biotinMcg": 40,
+      "folicAcidMcg": null,
+      "vitaminB12Mcg": 2.2,
+      "vitaminCMg": 65,
+      "vitaminDMcg": 15,
+      "vitaminEMg": 9.09,
+      "calciumMg": 166.7,
+      "magnesiumMg": 114.26,
+      "zincMg": 13.2,
+      "mineralBasis": "elemental",
+      "additionalIngredients": [
+        {
+          "name": "Vitamin B9 (chemical form and DFE basis unverified)",
+          "amount": 129.41,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Vitamin A",
+          "amount": 840,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Vitamin K1",
+          "amount": 55,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Iron",
+          "amount": 14.5,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Manganese",
+          "amount": 4,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Copper",
+          "amount": 1.7,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Iodine",
+          "amount": 140,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Chromium",
+          "amount": 50,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Molybdenum",
+          "amount": 45,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Selenium",
+          "amount": 40,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Boron",
+          "amount": 75,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Panax ginseng root extract",
+          "amount": 40,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Ginkgo biloba leaf extract",
+          "amount": 20,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Grape seed extract",
+          "amount": 20,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Hadjod extract",
+          "amount": 25,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Lactobacillus rhamnosus",
+          "amount": 0.25,
+          "unit": "billion CFU",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Fructo-oligosaccharides",
+          "amount": 50,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Alfalfa extract",
+          "amount": 25,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Lutein",
+          "amount": 1,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Lycopene 10%",
+          "amount": 0.5,
+          "unit": "mcg",
+          "basis": "per label serving"
+        }
+      ],
+      "basis": "Official panel per one tablet (1.35 g): B vitamins are recorded separately, C 65 mg, D2 15 mcg, calcium 166.7 mg, magnesium 114.26 mg and zinc 13.2 mg. Probiotics are 0.25 billion CFU per tablet.",
+      "notes": "The panel names Vitamin B9 129.41 mcg without specifying folic acid, methylfolate or DFE; it is preserved as a separate unclassified label entry and folicAcidMcg remains unknown. Lutein and lycopene units are transcribed as the panel prints them (mcg), without silently changing them to mg. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+      "brand": "HK Vitals",
+      "id": "vitamin-b-hkv-185648",
+      "packCount": 60,
+      "flavour": "Unflavoured",
+      "price": 399,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://www.hkvitals.com/sv/hk-vitals-multivitamin-plus-probiotics/SP-99744?navKey=VRNT-185648",
+      "nutritionUrl": "https://img6.hkrtcdn.com/35427/prd_3542635-HK-Vitals-Multivitamin-with-Probiotics-by-HealthKart-60-tablets-Unflavoured_o.jpg",
+      "labelSources": [
+        "https://www.hkvitals.com/products/multivitamin-probiotics",
+        "https://img6.hkrtcdn.com/35427/prd_3542635-HK-Vitals-Multivitamin-with-Probiotics-by-HealthKart-60-tablets-Unflavoured_o.jpg"
+      ],
+      "labelChecked": "2026-11-19",
+      "sourceType": "manufacturer",
+      "packaging": "Single retail pack (60 units)",
+      "sourceVariantId": "185648",
+      "sourceProductId": "99744",
+      "declaredNutrients": [
+        "vitaminB1Mg",
+        "vitaminB2Mg",
+        "vitaminB3Mg",
+        "vitaminB5Mg",
+        "vitaminB6Mg",
+        "biotinMcg",
+        "folicAcidMcg",
+        "vitaminB12Mcg"
+      ],
+      "lastPriceReview": {
+        "checked": "2026-11-20",
+        "sourceUrl": "https://www.hkvitals.com/sv/hk-vitals-multivitamin-plus-probiotics/SP-99744?navKey=VRNT-185648",
+        "evidenceUrl": "https://www.hkvitals.com/sv/hk-vitals-multivitamin-plus-probiotics/SP-99744?navKey=VRNT-185648",
+        "matchBasis": "Fresh official HK Vitals exact legacy selected URL returned published SP-99744 / VRNT-185648 with matching brand, complete quantity/flavour attributes and unconditional INR offer_pr; profile/offer now retain explicit navKey rather than a mutable family default."
+      }
+    },
+    {
+      "form": "Gummy",
+      "source": "Not specified",
+      "servingUnits": 1,
+      "product": "Multivitamin Gummies",
+      "type": "Vitamin / mineral combination with lichen D3",
+      "subclass": "Gummy multivitamin with K2",
+      "vitaminB3Mg": 11,
+      "vitaminB5Mg": 5,
+      "vitaminB6Mg": 1.9,
+      "biotinMcg": 40,
+      "folicAcidMcg": null,
+      "vitaminB12Mcg": 2.2,
+      "vitaminCMg": 65,
+      "vitaminDMcg": 15,
+      "vitaminK2Mcg": 55,
+      "vitaminEMg": 10,
+      "zincMg": 13.2,
+      "mineralBasis": "elemental",
+      "energyPerServing": 7.83,
+      "additionalIngredients": [
+        {
+          "name": "Vitamin B9 (chemical form and DFE basis unverified)",
+          "amount": 129.41,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Vitamin A",
+          "amount": 840,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Iron",
+          "amount": 10,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Manganese",
+          "amount": 4,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Selenium",
+          "amount": 40,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Lycopene",
+          "amount": 10,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Grape seed extract",
+          "amount": 10,
+          "unit": "mg",
+          "basis": "per label serving"
+        }
+      ],
+      "basis": "Official panel per one gummy (3.5 g): B3 11 mg, B5 5 mg, B6 1.9 mg, B12 2.2 mcg, biotin 40 mcg, C 65 mg, lichen D3 15 mcg and K2 55 mcg; energy 7.83 kcal.",
+      "notes": "The panel names Vitamin B9 129.41 mcg without chemical form or DFE basis. It is not assigned to folic-acid or methylfolate cost calculations. Vitamin D3 is explicitly identified as cholecalciferol from lichen. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+      "brand": "HK Vitals",
+      "id": "vitamin-b-hkv-211458",
+      "packCount": 60,
+      "flavour": "Orange",
+      "price": 639,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://www.hkvitals.com/sv/hk-vitals-multivitamin-gummies/SP-112692?navKey=VRNT-211458",
+      "nutritionUrl": "https://img2.hkrtcdn.com/41488/prd_4148761-HK-Vitals-Multivitamin-Gummies-60-gummies-Orange_o.jpg",
+      "labelSources": [
+        "https://www.hkvitals.com/products/multivitamin-gummies",
+        "https://img2.hkrtcdn.com/41488/prd_4148761-HK-Vitals-Multivitamin-Gummies-60-gummies-Orange_o.jpg"
+      ],
+      "labelChecked": "2026-11-19",
+      "sourceType": "manufacturer",
+      "packaging": "Single retail pack (60 units)",
+      "sourceVariantId": "211458",
+      "sourceProductId": "112692",
+      "declaredNutrients": [
+        "vitaminB3Mg",
+        "vitaminB5Mg",
+        "vitaminB6Mg",
+        "biotinMcg",
+        "folicAcidMcg",
+        "vitaminB12Mcg"
+      ],
+      "lastPriceReview": {
+        "checked": "2026-11-20",
+        "sourceUrl": "https://www.hkvitals.com/sv/hk-vitals-multivitamin-gummies/SP-112692?navKey=VRNT-211458",
+        "evidenceUrl": "https://www.hkvitals.com/sv/hk-vitals-multivitamin-gummies/SP-112692?navKey=VRNT-211458",
+        "matchBasis": "Fresh official HK Vitals exact legacy selected URL returned published SP-112692 / VRNT-211458 with matching brand, complete quantity/flavour attributes and unconditional INR offer_pr; profile/offer now retain explicit navKey rather than a mutable family default."
+      }
     }
   ]
 }

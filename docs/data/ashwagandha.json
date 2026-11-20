@@ -1,5 +1,5 @@
 {
-  "checked": "2026-11-19",
+  "checked": "2026-11-20",
   "category": "ashwagandha",
   "offers": [
     {
@@ -296,25 +296,42 @@
       "subclass": "Herbal blend",
       "servingUnits": 1,
       "source": "Not specified",
-      "basis": "Official product page and its stated composition/serving information; primary selected pack only.",
-      "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities.",
+      "basis": "The official composition panel lists each 1120 mg coated tablet: Withania somnifera root extract 500 mg and Ocimum sanctum leaf extract 250 mg. Tablet mass is not treated as ashwagandha extract mass.",
+      "notes": "Exact published pack and unconditional listed price verified from the selected official variant. Label declarations are approximate manufacturer values; no independent potency or efficacy test is inferred. Withanolide standardization is not declared; no standardized-extract dose or withanolide cost is calculated.",
       "packCount": 60,
       "ashwagandhaMg": 500,
       "id": "hkv-ashwagandha-60",
       "price": 389,
       "currency": "INR",
-      "stock": "Listed; confirm stock",
-      "url": "https://www.hkvitals.com/products/ashwagandha",
-      "nutritionUrl": "https://www.hkvitals.com/products/ashwagandha",
+      "stock": "In stock",
+      "url": "https://www.hkvitals.com/sv/hk-vitals-ashwagandha-plus/SP-101070?navKey=VRNT-188376",
+      "nutritionUrl": "https://img6.hkrtcdn.com/39747/prd_3974625-HK-Vitals-Ashwagandha-60-tablets_o.jpg",
       "flavour": "Unflavoured",
       "packaging": "Single retail pack",
-      "labelChecked": "2026-10-29",
+      "labelChecked": "2026-11-20",
       "lastPriceReview": {
-        "sourceUrl": "https://www.hkvitals.com/products/ashwagandha",
-        "evidenceUrl": "https://www.hkvitals.com/products/ashwagandha",
-        "checked": "2026-11-19",
-        "matchBasis": "Official HTML primary offer: Ashwagandha Plus,60tablets,unconditional INR389 incltaxes. Missing .json endpoint does not imply missing product. Earlier label values/date retained."
-      }
+        "checked": "2026-11-20",
+        "sourceUrl": "https://www.hkvitals.com/sv/hk-vitals-ashwagandha-plus/SP-101070?navKey=VRNT-188376",
+        "evidenceUrl": "https://www.hkvitals.com/sv/hk-vitals-ashwagandha-plus/SP-101070?navKey=VRNT-188376",
+        "matchBasis": "Official HK Vitals selected published SSR product 101070, exact variant 188376 and all displayed attributes; unconditional offer_pr in INR, count/net weight and oos checked; selected gallery composition reviewed."
+      },
+      "labelSources": [
+        "https://www.hkvitals.com/sv/hk-vitals-ashwagandha-plus/SP-101070?navKey=VRNT-188376",
+        "https://img6.hkrtcdn.com/39747/prd_3974625-HK-Vitals-Ashwagandha-60-tablets_o.jpg"
+      ],
+      "sourceType": "manufacturer",
+      "sourceVariantId": "188376",
+      "sourceProductId": "101070",
+      "withanolidesPct": null,
+      "standardizedExtractMg": null,
+      "additionalIngredients": [
+        {
+          "name": "Tulsi (Ocimum sanctum) leaves extract",
+          "amount": 250,
+          "unit": "mg",
+          "basis": "per label serving"
+        }
+      ]
     },
     {
       "id": "ashwagandha-45186433810618",

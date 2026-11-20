@@ -42,8 +42,20 @@ function computeTrend(r,category,asOf,observations,maxAgeDays,historyCount){
 }
 export function scoreProtein(r){return positive(r.cost)?100/r.cost:0;}
 export function scoreCreatine(r){return positive(r.cost)?100/r.cost:0;}
+export function retailerQuoteIssues(quotes,asOf){
+ if(quotes==null)return [];
+ const text=s=>typeof s==='string'&&Boolean(s.trim()),variant=v=>text(v)||Number.isInteger(v)&&v>0;
+ if(!Array.isArray(quotes)||quotes.some(q=>!q||!text(q.retailer)||!positive(q.price)||q.currency!=='INR'||!isoDate(q.checked)||q.checked>asOf||!https(q.sourceUrl)||!variant(q.variantId)||!text(q.matchBasis)||q.seller!=null&&!text(q.seller)||q.stock!=null&&!['In stock','Out of stock','Unknown','Unavailable','Sold out','Listed; confirm stock'].includes(q.stock)))return [{severity:'error',field:'retailerQuotes',message:'Retailer quotes need a retailer, positive INR price, non-future check date, HTTPS exact-variant source, variant ID and match evidence.'}];
+ for(const q of quotes)if(q.retailer.trim().toLowerCase()==='healthkart'){const url=new URL(q.sourceUrl);if(!['healthkart.com','www.healthkart.com'].includes(url.hostname)||!/^\d+$/.test(String(q.variantId))||JSON.stringify(url.searchParams.getAll('navKey'))!==JSON.stringify(['VRNT-'+q.variantId]))return [{severity:'error',field:'retailerQuotes',message:'HealthKart quotes must link to healthkart.com with exactly one navKey matching the numeric variant ID.'}];}
+ const key=q=>JSON.stringify([q.retailer,q.sourceUrl,q.checked]);
+ if(new Set(quotes.map(key)).size!==quotes.length)return [{severity:'error',field:'retailerQuotes',message:'Only one retailer price may be recorded for an exact URL and check date.'}];
+ return [];
+}
 export function normalizeOffer(raw,definition,asOf,observations,config){
  const additional=raw.additionalIngredients,extraIssues=additional!=null&&(!Array.isArray(additional)||additional.some(i=>!i||typeof i.name!=='string'||!i.name.trim()||typeof i.unit!=='string'||!i.unit.trim()||i.amount!=null&&(!finite(i.amount)||i.amount<0)||i.basis!=null&&typeof i.basis!=='string'))?[{severity:'error',field:'additionalIngredients',message:'Other ingredient entries need a name, unit and non-negative numeric amount, or null for unknown.'}]:[];
+ extraIssues.push(...retailerQuoteIssues(raw.retailerQuotes,asOf));
+ if(raw.requiresProductReview!==undefined&&typeof raw.requiresProductReview!=='boolean'||raw.productReviewReason!==undefined&&(typeof raw.productReviewReason!=='string'||!raw.productReviewReason.trim())||raw.requiresProductReview===true&&!(typeof raw.productReviewReason==='string'&&raw.productReviewReason.trim()))extraIssues.push({severity:'error',field:'requiresProductReview',message:'Product review status must be a boolean; flagged products need a non-empty productReviewReason.'});
+ if(raw.sourceType==='retailer'&&(typeof raw.retailer!=='string'||!raw.retailer.trim()))extraIssues.push({severity:'error',field:'retailer',message:'A retailer-sourced primary offer must name the retailer.'});
  if(definition.measurement==='units'){
   const {offer:r,issues}=normalizeUnitInputs(raw,definition);issues.push(...extraIssues);
   for(const key of ['brand','product','type','subclass','flavour'])if(typeof raw[key]!=='string'||!raw[key].trim())issues.push({severity:'error',field:key,message:'A non-empty label is required.'});
@@ -161,7 +173,7 @@ export function createSnapshot(bundle){
   if(!isoDate(p.reviewed)||!Array.isArray(p.rules)||!Array.isArray(p.goals)||!Array.isArray(p.presets))bad('Invalid recommender policy.');
   else {const goals=new Set(p.goals.map(g=>g.id)),sources=new Set(bundle.research?.sources.map(s=>s.id)||[]);for(const r of p.rules)if(!result[r.category]||!r.reason||!r.status||!r.goals?.length||r.goals.some(g=>!goals.has(g))||!r.sources?.length||r.sources.some(id=>!sources.has(id)))bad('Unresolved recommender category, goal or evidence.');for(const preset of p.presets)if(!preset.goals?.length||preset.goals.some(g=>!goals.has(g)))bad('Unresolved preset goal.');}
  }
- if(bundle.catalogResearch){const a=bundle.catalogResearch,counts=Object.values(a.summary||{});if(!isoDate(a.checked)||!a.scope?.trim()||!Array.isArray(a.coverage)||a.coverage.length!==config.categories.length||new Set(a.coverage.map(c=>c.category)).size!==a.coverage.length||a.coverage.some(c=>!result[c.category]||Object.entries(c).some(([k,v])=>!['category','label'].includes(k)&&(!Number.isInteger(v)||v<0)))||!counts.length||counts.some(n=>!Number.isInteger(n)||n<0)||![a.reportFile,a.requirementsFile].every(v=>/^[a-z0-9-]+\.json$/.test(v)))errors.push({category:'audit',id:'product-research',field:'catalogResearch',message:'Product research summary needs complete dated category coverage, non-negative counts and local JSON downloads.'});}
+ if(bundle.catalogResearch){const a=bundle.catalogResearch,counts=Object.values(a.summary||{});if(!isoDate(a.checked)||a.reviewStart!=null&&(!isoDate(a.reviewStart)||a.reviewStart>a.checked)||!a.scope?.trim()||!Array.isArray(a.coverage)||a.coverage.length!==config.categories.length||new Set(a.coverage.map(c=>c.category)).size!==a.coverage.length||a.coverage.some(c=>!result[c.category]||Object.entries(c).some(([k,v])=>!['category','label'].includes(k)&&(!Number.isInteger(v)||v<0)))||!counts.length||counts.some(n=>!Number.isInteger(n)||n<0)||![a.reportFile,a.requirementsFile].every(v=>/^[a-z0-9-]+\.json$/.test(v)))errors.push({category:'audit',id:'product-research',field:'catalogResearch',message:'Product research summary needs complete dated category coverage, non-negative counts and local JSON downloads.'});}
  return {catalogResearch:bundle.catalogResearch,recommender:bundle.recommender,research:bundle.research,config:{...config,historyQuarters},brands:brands||{},categories:result,observations,asOf:dates.at(-1),stats:stats(all),quality:{errors,warnings},assets:bundle.assets||{}};
 }
 export function rankedOffers(category,limit=10,predicate=()=>true){

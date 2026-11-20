@@ -259,6 +259,18 @@
           "label": "Glutathione",
           "unit": "mg",
           "table": true
+        },
+        {
+          "key": "vitaminCMg",
+          "label": "Vitamin C",
+          "unit": "mg",
+          "table": false
+        },
+        {
+          "key": "vitaminEMg",
+          "label": "Vitamin E",
+          "unit": "mg",
+          "table": false
         }
       ],
       "comparisonNote": "Compare oral glutathione amounts only when the exact label serving is verified. Reduced, liposomal and combination formulations are recorded separately; ingredient cost does not establish absorption or clinical benefit. Total blend mass and precursors are not counted as glutathione.",
@@ -1037,6 +1049,18 @@
         {
           "key": "hyaluronicAcidMg",
           "label": "Hyaluronic acid",
+          "unit": "mg",
+          "table": false
+        },
+        {
+          "key": "glutathioneMg",
+          "label": "Glutathione",
+          "unit": "mg",
+          "table": false
+        },
+        {
+          "key": "zincMg",
+          "label": "Zinc (elemental)",
           "unit": "mg",
           "table": false
         }

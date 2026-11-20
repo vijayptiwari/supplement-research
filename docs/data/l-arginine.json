@@ -1,5 +1,5 @@
 {
-  "checked": "2026-11-19",
+  "checked": "2026-11-20",
   "category": "l-arginine",
   "offers": [
     {
@@ -375,6 +375,39 @@
       "currency": "INR",
       "stock": "In stock",
       "url": "https://mycf.in/products/l-arginine-hcl-1000mg-supplement?variant=43308550586481"
+    },
+    {
+      "id": "l-arginine-hk-81513",
+      "brand": "MuscleBlaze",
+      "product": "L-Arginine",
+      "form": "Capsule",
+      "type": "L-arginine",
+      "subclass": "Single amino acid",
+      "flavour": "Unflavoured",
+      "packaging": "Single retail pack",
+      "price": 675,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://www.muscleblaze.com/sv/muscleblaze-l-arginine/SP-44857?navKey=VRNT-81513",
+      "nutritionUrl": "https://img6.hkrtcdn.com/12184/prd_1218385-MuscleBlaze-LArginine-90-capsules_o.jpg",
+      "labelSources": [
+        "https://www.muscleblaze.com/sv/muscleblaze-l-arginine/SP-44857?navKey=VRNT-81513",
+        "https://img6.hkrtcdn.com/12184/prd_1218385-MuscleBlaze-LArginine-90-capsules_o.jpg"
+      ],
+      "labelChecked": "2026-11-19",
+      "sourceType": "manufacturer",
+      "sourceVariantId": "81513",
+      "sourceProductId": "44857",
+      "source": "Not specified",
+      "notes": "Nutrition panel states 500 mg per capsule while usage is two capsules; the modeled two-capsule serving therefore contains 1,000 mg. Energy 0.8 kcal is two times the 0.4 kcal per-capsule label value.",
+      "basis": "Exact official brand selected variant. The linked current product gallery nutrition panel was individually reviewed; amounts are per stated label serving. Product claims are manufacturer declarations, not independent assay results.",
+      "energyPerServing": 0.8,
+      "arginineMg": 1000,
+      "packCount": 90,
+      "servingUnits": 2,
+      "declaredNutrients": [
+        "arginineMg"
+      ]
     }
   ]
 }

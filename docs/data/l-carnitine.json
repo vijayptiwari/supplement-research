@@ -1,5 +1,5 @@
 {
-  "checked": "2026-11-19",
+  "checked": "2026-11-20",
   "category": "l-carnitine",
   "offers": [
     {
@@ -336,6 +336,162 @@
       "currency": "INR",
       "stock": "In stock",
       "url": "https://mycf.in/products/l-carnitine-powder-for-daily-training-performance-support?variant=67625391816817"
+    },
+    {
+      "id": "l-carnitine-hk-75974",
+      "brand": "MuscleBlaze",
+      "product": "L-Carnitine L-Tartrate",
+      "form": "Capsule",
+      "type": "L-carnitine L-tartrate",
+      "subclass": "Single carnitine compound",
+      "flavour": "Unflavoured",
+      "packaging": "Single retail pack",
+      "price": 809,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://www.muscleblaze.com/sv/muscleblaze-l-carnitine-l-tartrate/SP-41648?navKey=VRNT-75974",
+      "nutritionUrl": "https://img4.hkrtcdn.com/40756/prd_4075503-MuscleBlaze-LCarnitine-LTartrate-60-capsules-Unflavoured_o.jpg",
+      "labelSources": [
+        "https://www.muscleblaze.com/sv/muscleblaze-l-carnitine-l-tartrate/SP-41648?navKey=VRNT-75974",
+        "https://img4.hkrtcdn.com/40756/prd_4075503-MuscleBlaze-LCarnitine-LTartrate-60-capsules-Unflavoured_o.jpg"
+      ],
+      "labelChecked": "2026-11-19",
+      "sourceType": "manufacturer",
+      "sourceVariantId": "75974",
+      "sourceProductId": "41648",
+      "source": "Not specified",
+      "notes": "500 mg is L-carnitine tartrate compound mass per capsule. The free L-carnitine payload is not separately declared and remains unknown.",
+      "basis": "Exact official brand selected variant. The linked current product gallery nutrition panel was individually reviewed; amounts are per stated label serving. Product claims are manufacturer declarations, not independent assay results.",
+      "energyPerServing": null,
+      "carnitineCompoundMg": 500,
+      "carnitineMg": null,
+      "packCount": 60,
+      "servingUnits": 1,
+      "declaredNutrients": [
+        "carnitineCompoundMg",
+        "carnitineMg"
+      ]
+    },
+    {
+      "id": "l-carnitine-hk-80296",
+      "brand": "MuscleBlaze",
+      "product": "L-Carnitine L-Tartrate",
+      "form": "Capsule",
+      "type": "L-carnitine L-tartrate",
+      "subclass": "Single carnitine compound",
+      "flavour": "Unflavoured",
+      "packaging": "Single retail pack",
+      "price": 1189,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://www.muscleblaze.com/sv/muscleblaze-l-carnitine-l-tartrate/SP-41648?navKey=VRNT-80296",
+      "nutritionUrl": "https://img2.hkrtcdn.com/33992/prd_3399181-MuscleBlaze-LCarnitine-LTartrate-120-capsules-Unflavoured_o.jpg",
+      "labelSources": [
+        "https://www.muscleblaze.com/sv/muscleblaze-l-carnitine-l-tartrate/SP-41648?navKey=VRNT-80296",
+        "https://img2.hkrtcdn.com/33992/prd_3399181-MuscleBlaze-LCarnitine-LTartrate-120-capsules-Unflavoured_o.jpg"
+      ],
+      "labelChecked": "2026-11-19",
+      "sourceType": "manufacturer",
+      "sourceVariantId": "80296",
+      "sourceProductId": "41648",
+      "source": "Not specified",
+      "notes": "500 mg is L-carnitine tartrate compound mass per capsule. The free L-carnitine payload is not separately declared and remains unknown.",
+      "basis": "Exact official brand selected variant. The linked current product gallery nutrition panel was individually reviewed; amounts are per stated label serving. Product claims are manufacturer declarations, not independent assay results.",
+      "energyPerServing": null,
+      "carnitineCompoundMg": 500,
+      "carnitineMg": null,
+      "packCount": 120,
+      "servingUnits": 1,
+      "declaredNutrients": [
+        "carnitineCompoundMg",
+        "carnitineMg"
+      ]
+    },
+    {
+      "id": "l-carnitine-hk-291669",
+      "brand": "MuscleBlaze",
+      "product": "L-Carnitine 2000 mg Effervescent",
+      "form": "Tablet",
+      "type": "L-carnitine L-tartrate",
+      "subclass": "Effervescent carnitine compound",
+      "flavour": "Tangy Orange",
+      "packaging": "Single retail pack",
+      "price": 419,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://www.muscleblaze.com/sv/muscleblaze-l-carnitine-2000mg-effervescent/SP-143461?navKey=VRNT-291669",
+      "nutritionUrl": "https://img10.hkrtcdn.com/46072/prd_4607119-MuscleBlaze-LCarnitine-2000mg-Effervescent-20-tablets-Tangy-Orange_o.jpg",
+      "labelSources": [
+        "https://www.muscleblaze.com/sv/muscleblaze-l-carnitine-2000mg-effervescent/SP-143461?navKey=VRNT-291669",
+        "https://img10.hkrtcdn.com/46072/prd_4607119-MuscleBlaze-LCarnitine-2000mg-Effervescent-20-tablets-Tangy-Orange_o.jpg"
+      ],
+      "labelChecked": "2026-11-19",
+      "sourceType": "manufacturer",
+      "sourceVariantId": "291669",
+      "sourceProductId": "143461",
+      "source": "Not specified",
+      "notes": "The label specifies L-carnitine L-tartrate, not 2,000 mg free L-carnitine. Ingredient list includes Garcinia cambogia but does not quantify it; it remains an unmodeled exposure.",
+      "basis": "Exact official brand selected variant. The linked current product gallery nutrition panel was individually reviewed; amounts are per stated label serving. Product claims are manufacturer declarations, not independent assay results.",
+      "energyPerServing": 13.31,
+      "carnitineCompoundMg": 2000,
+      "carnitineMg": null,
+      "packCount": 20,
+      "servingUnits": 1,
+      "additionalIngredients": [
+        {
+          "name": "Garcinia cambogia extract",
+          "amount": null,
+          "unit": "mg",
+          "basis": "per stated label serving"
+        }
+      ],
+      "declaredNutrients": [
+        "carnitineCompoundMg",
+        "carnitineMg"
+      ]
+    },
+    {
+      "id": "l-carnitine-hk-291673",
+      "brand": "MuscleBlaze",
+      "product": "L-Carnitine PRO 3300 mg Effervescent",
+      "form": "Tablet",
+      "type": "L-carnitine L-tartrate",
+      "subclass": "Effervescent compound + garcinia",
+      "flavour": "Tangy Orange",
+      "packaging": "Single retail pack",
+      "price": 559,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://www.muscleblaze.com/sv/muscleblaze-l-carnitine-pro-3300mg-triple-strength-formula-effervescent/SP-143463?navKey=VRNT-291673",
+      "nutritionUrl": "https://img4.hkrtcdn.com/46071/prd_4607083-MuscleBlaze-LCarnitine-PRO-3300mg-Triple-Strength-Formula-Effervescent-10-tablets-Tangy-Orange_o.jpg",
+      "labelSources": [
+        "https://www.muscleblaze.com/sv/muscleblaze-l-carnitine-pro-3300mg-triple-strength-formula-effervescent/SP-143463?navKey=VRNT-291673",
+        "https://img4.hkrtcdn.com/46071/prd_4607083-MuscleBlaze-LCarnitine-PRO-3300mg-Triple-Strength-Formula-Effervescent-10-tablets-Tangy-Orange_o.jpg"
+      ],
+      "labelChecked": "2026-11-19",
+      "sourceType": "manufacturer",
+      "sourceVariantId": "291673",
+      "sourceProductId": "143463",
+      "source": "Not specified",
+      "notes": "3,300 mg is tartrate compound mass, not established free carnitine. Garcinia 350 mg is a separate co-ingredient; this is a combination product.",
+      "basis": "Exact official brand selected variant. The linked current product gallery nutrition panel was individually reviewed; amounts are per stated label serving. Product claims are manufacturer declarations, not independent assay results.",
+      "energyPerServing": 19.65,
+      "carnitineCompoundMg": 3300,
+      "carnitineMg": null,
+      "packCount": 10,
+      "servingUnits": 1,
+      "additionalIngredients": [
+        {
+          "name": "Garcinia cambogia fruit extract",
+          "amount": 350,
+          "unit": "mg",
+          "basis": "per stated label serving"
+        }
+      ],
+      "declaredNutrients": [
+        "carnitineCompoundMg",
+        "carnitineMg"
+      ]
     }
   ]
 }
