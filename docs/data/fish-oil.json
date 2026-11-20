@@ -257,13 +257,15 @@
       "labelSources": [
         "https://www.guardian.in/products/gnc-fish-body-oil-1000-mg?variant=44336472654055",
         "https://www.healthkart.com/sv/gnc-fish-oil-1000-mg/SP-25681?navKey=VRNT-200092",
-        "https://img8.hkrtcdn.com/38606/prd_3860567-GNC-Fish-Oil-1000-mg-60-softgels_o.jpg"
+        "https://img8.hkrtcdn.com/38606/prd_3860567-GNC-Fish-Oil-1000-mg-60-softgels_o.jpg",
+        "https://nutrabay.com/product/gnc-fish-body-oil-softgel-1000mg/?pId=1695028&vId=8363178",
+        "https://cdn2.nutrabay.com/uploads/variant/images/variant-30344-image_7-GNC_Fish_Oil_1000mg__60_Softgels.jpg"
       ],
       "lastLabelReview": {
         "checked": "2026-11-20",
-        "sourceUrl": "https://www.healthkart.com/sv/gnc-fish-oil-1000-mg/SP-25681?navKey=VRNT-200092",
-        "evidenceUrl": "https://www.healthkart.com/sv/gnc-fish-oil-1000-mg/SP-25681?navKey=VRNT-200092",
-        "matchBasis": "HealthKart public SSR exact published product SP-25681 and selected VRNT-200092; source brand and all selected attributes match; ordinary offer_pr, not Premium/Select/coupon pricing. Label gallery reviewed independently. HealthKart vendor code 90200172 equals manufacturer Shopify SKU; label-only refinement, primary manufacturer price not changed."
+        "sourceUrl": "https://www.guardian.in/products/gnc-fish-body-oil-1000-mg?variant=44336472654055",
+        "evidenceUrl": "https://nutrabay.com/product/gnc-fish-body-oil-softgel-1000mg/?pId=1695028&vId=8363178",
+        "matchBasis": "Exact GNC Fish Oil 1000 mg, 60 softgels, selected Nutrabay product/variant/SKU and current gallery EPA180/DHA120 panel matched to the existing manufacturer pack. Promotional omega-3 mass is not treated as EPA+DHA."
       },
       "retailerQuotes": [
         {
@@ -277,6 +279,17 @@
           "variantId": "200092",
           "stock": "In stock",
           "matchBasis": "Exact brand, 1000 mg fish-body-oil formula and 60 softgels; HK vendor code 90200172 equals the manufacturer selected variant SKU; ordinary offer_pr, not Premium/Select/coupon pricing."
+        },
+        {
+          "retailer": "Nutrabay",
+          "price": 379,
+          "currency": "INR",
+          "checked": "2026-11-20",
+          "sourceUrl": "https://nutrabay.com/product/gnc-fish-body-oil-softgel-1000mg/?pId=1695028&vId=8363178",
+          "variantId": "8363178",
+          "productId": "1695028",
+          "stock": "In stock",
+          "matchBasis": "Exact GNC Fish Oil 1000 mg, 60 softgels, selected Nutrabay product/variant/SKU and current gallery EPA180/DHA120 panel matched to the existing manufacturer pack. Promotional omega-3 mass is not treated as EPA+DHA."
         }
       ]
     },
@@ -722,6 +735,82 @@
       "labelChecked": "2026-11-20",
       "packaging": "Single retail pack",
       "flavour": "Unflavoured"
+    },
+    {
+      "id": "fish-oil-nb-6255885",
+      "brand": "Nutrabay",
+      "product": "Nutrabay Fish Oil Omega 3 (Triple Strength) - 1250mg",
+      "flavour": "Unflavoured",
+      "packaging": "Bottle",
+      "source": "Not specified",
+      "price": 999,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://nutrabay.com/product/nutrabay-pro-fish-oil-triple-strength-1000mg/?pId=8472748&vId=6255885",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1027-01.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-pro-fish-oil-triple-strength-1000mg/?pId=8472748&vId=6255885",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1027-01.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "sourceVariantId": "6255885",
+      "sourceProductId": "8472748",
+      "sourceSku": "NB-NUT-1027-01",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "The label lists 900 mg total omega-3, but EPA 460 + DHA 380 = 840 mg. Active comparison uses EPA+DHA, not total omega-3 or 1250 mg fish oil. Contains fish and gelatin.",
+      "form": "Softgel",
+      "servingUnits": 1,
+      "type": "Fish oil; lipid ester form not specified",
+      "subclass": "Concentrated EPA+DHA",
+      "fishOilMg": 1250,
+      "epaMg": 460,
+      "dhaMg": 380,
+      "energyPerServing": 16.11,
+      "declaredNutrients": [
+        "epaMg",
+        "dhaMg",
+        "fishOilMg"
+      ],
+      "packCount": 60
+    },
+    {
+      "id": "fish-oil-nb-5733502",
+      "brand": "Nutrabay",
+      "product": "Nutrabay Fish Oil Omega 3 - 1000mg",
+      "flavour": "Unflavoured",
+      "packaging": "Bottle",
+      "source": "Not specified",
+      "price": 449,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://nutrabay.com/product/nutrabay-wellness-fish-oil-1000mg/?pId=5856792&vId=5733502",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1031-01.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-wellness-fish-oil-1000mg/?pId=5856792&vId=5733502",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1031-01.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "sourceVariantId": "5733502",
+      "sourceProductId": "5856792",
+      "sourceSku": "NB-NUT-1031-01",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "The label lists 320 mg total omega-3; EPA 180 + DHA 120 = 300 mg. The remaining fatty acids are not reassigned to EPA/DHA. Contains fish and gelatin.",
+      "form": "Softgel",
+      "servingUnits": 1,
+      "type": "Fish oil; lipid ester form not specified",
+      "subclass": "Standard EPA+DHA",
+      "fishOilMg": 1000,
+      "epaMg": 180,
+      "dhaMg": 120,
+      "energyPerServing": 13.03,
+      "declaredNutrients": [
+        "epaMg",
+        "dhaMg",
+        "fishOilMg"
+      ],
+      "packCount": 60
     }
   ]
 }

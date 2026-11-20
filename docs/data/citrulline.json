@@ -336,6 +336,80 @@
         "citrullineMg"
       ],
       "citrullineMalateRatio": "Not specified"
+    },
+    {
+      "id": "citrulline-nb-9059870",
+      "brand": "Nutrabay",
+      "product": "Nutrabay Pure Citrulline Malate",
+      "flavour": "Unflavoured",
+      "packaging": "Pouch",
+      "source": "Not specified",
+      "price": 699,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://nutrabay.com/product/nutrabay-citrulline-malate/?pId=3132942&vId=9059870",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1006-01-1791882360.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-citrulline-malate/?pId=3132942&vId=9059870",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1006-01-1791882360.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "sourceVariantId": "9059870",
+      "sourceProductId": "3132942",
+      "sourceSku": "NB-NUT-1006-01",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Panel identifies 2:1 L-citrulline DL-malate. Compound mass stays separate; no free-citrulline payload is inferred from the ratio.",
+      "form": "Powder",
+      "servingGrams": 2.5,
+      "type": "Citrulline malate",
+      "subclass": "DL-malate mixture",
+      "citrullineMalateMg": 2500,
+      "citrullineMg": null,
+      "malateRatio": "2:1 (label claim)",
+      "energyPerServing": 0,
+      "declaredNutrients": [
+        "citrullineMalateMg"
+      ],
+      "grams": 250,
+      "packCount": null
+    },
+    {
+      "id": "citrulline-nb-5272259",
+      "brand": "Nutrabay",
+      "product": "Nutrabay Pure Citrulline Malate",
+      "flavour": "Unflavoured",
+      "packaging": "Pouch",
+      "source": "Not specified",
+      "price": 399,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://nutrabay.com/product/nutrabay-citrulline-malate?pId=3132942&vId=5272259",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1006-02-1791882496.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-citrulline-malate?pId=3132942&vId=5272259",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1006-02-1791882496.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "sourceVariantId": "5272259",
+      "sourceProductId": "3132942",
+      "sourceSku": "NB-NUT-1006-02",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Panel identifies 2:1 L-citrulline DL-malate. Compound mass stays separate; no free-citrulline payload is inferred from the ratio.",
+      "form": "Powder",
+      "servingGrams": 2.5,
+      "type": "Citrulline malate",
+      "subclass": "DL-malate mixture",
+      "citrullineMalateMg": 2500,
+      "citrullineMg": null,
+      "malateRatio": "2:1 (label claim)",
+      "energyPerServing": 0,
+      "declaredNutrients": [
+        "citrullineMalateMg"
+      ],
+      "grams": 100,
+      "packCount": null
     }
   ]
 }

@@ -2185,6 +2185,246 @@
         "evidenceUrl": "https://www.hkvitals.com/sv/hk-vitals-multivitamin-gummies/SP-112692?navKey=VRNT-211458",
         "matchBasis": "Fresh official HK Vitals exact legacy selected URL returned published SP-112692 / VRNT-211458 with matching brand, complete quantity/flavour attributes and unconditional INR offer_pr; profile/offer now retain explicit navKey rather than a mutable family default."
       }
+    },
+    {
+      "id": "vitamin-b-nb-2635201",
+      "brand": "Nutrabay",
+      "product": "Nutrabay Multivitamin for Women",
+      "flavour": "Unflavoured",
+      "packaging": "Bottle",
+      "source": "Not specified",
+      "price": 249,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://nutrabay.com/product/nutrabay-pro-active-multivitamin-for-women/?pId=5454226&vId=2635201",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1063-02-1795157170.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-pro-active-multivitamin-for-women/?pId=5454226&vId=2635201",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1063-02-1795157170.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "sourceVariantId": "2635201",
+      "sourceProductId": "5454226",
+      "sourceSku": "NB-NUT-1063-02",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Ingredients identify folic acid (n-pteroylglutamic acid) and plant-source vitamin D2 (ergocalciferol). Folate is not converted to DFE; vitamin D is not relabelled D3. Other unmodeled micronutrients, including iron, need overlap review.",
+      "form": "Tablet",
+      "servingUnits": 1,
+      "type": "Multivitamin/mineral blend",
+      "subclass": "Women formulation",
+      "vitaminB1Mg": 1.7,
+      "vitaminB2Mg": 2.4,
+      "vitaminB3Mg": 14,
+      "vitaminB5Mg": 5,
+      "vitaminB6Mg": 1.9,
+      "vitaminB12Mcg": 2.2,
+      "vitaminCMg": 65,
+      "biotinMcg": 40,
+      "folicAcidMcg": 220,
+      "vitaminDIu": 600,
+      "vitaminDMcg": 15,
+      "vitaminEMg": 10,
+      "calciumMg": 40,
+      "magnesiumMg": 30,
+      "zincMg": 13.2,
+      "mineralBasis": "elemental",
+      "energyPerServing": 0,
+      "additionalIngredients": [
+        {
+          "name": "Vitamin A (retinol)",
+          "amount": 840,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Iron",
+          "amount": 29,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Vitamin K1",
+          "amount": 55,
+          "unit": "mcg",
+          "basis": "per label serving"
+        }
+      ],
+      "declaredNutrients": [
+        "vitaminB1Mg",
+        "vitaminB2Mg",
+        "vitaminB3Mg",
+        "vitaminB5Mg",
+        "vitaminB6Mg",
+        "biotinMcg",
+        "folicAcidMcg",
+        "vitaminB12Mcg"
+      ],
+      "packCount": 30
+    },
+    {
+      "id": "vitamin-b-nb-4725286",
+      "brand": "Nutrabay",
+      "product": "Nutrabay Multivitamin for Men",
+      "flavour": "Unflavoured",
+      "packaging": "Bottle",
+      "source": "Not specified",
+      "price": 379,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://nutrabay.com/product/nutrabay-pro-multivitamin-for-men/?pId=9397469&vId=4725286",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1026-03-1795156599.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-pro-multivitamin-for-men/?pId=9397469&vId=4725286",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1026-03-1795156599.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "sourceVariantId": "4725286",
+      "sourceProductId": "9397469",
+      "sourceSku": "NB-NUT-1026-03",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Ingredients identify folic acid (n-pteroylglutamic acid) and plant-source vitamin D2 (ergocalciferol). Folate is not converted to DFE; vitamin D is not relabelled D3. Other unmodeled micronutrients, including iron, need overlap review.",
+      "form": "Tablet",
+      "servingUnits": 1,
+      "type": "Multivitamin/mineral blend",
+      "subclass": "Men formulation",
+      "vitaminB1Mg": 1.8,
+      "vitaminB2Mg": 2.5,
+      "vitaminB3Mg": 18,
+      "vitaminB5Mg": 5,
+      "vitaminB6Mg": 2.4,
+      "vitaminB12Mcg": 2.2,
+      "vitaminCMg": 80,
+      "biotinMcg": 40,
+      "folicAcidMcg": 300,
+      "vitaminDIu": 600,
+      "vitaminDMcg": 15,
+      "vitaminEMg": 10,
+      "calciumMg": 40,
+      "magnesiumMg": 38,
+      "zincMg": 17,
+      "mineralBasis": "elemental",
+      "energyPerServing": 0.57,
+      "additionalIngredients": [
+        {
+          "name": "Vitamin A (retinol)",
+          "amount": 1000,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Beta-carotene",
+          "amount": 1000,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Iron",
+          "amount": 19,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Choline",
+          "amount": 50,
+          "unit": "mg",
+          "basis": "per label serving"
+        }
+      ],
+      "declaredNutrients": [
+        "vitaminB1Mg",
+        "vitaminB2Mg",
+        "vitaminB3Mg",
+        "vitaminB5Mg",
+        "vitaminB6Mg",
+        "biotinMcg",
+        "folicAcidMcg",
+        "vitaminB12Mcg"
+      ],
+      "packCount": 60
+    },
+    {
+      "id": "vitamin-b-nb-2588760",
+      "brand": "Nutrabay",
+      "product": "Nutrabay Multivitamin for Men",
+      "flavour": "Unflavoured",
+      "packaging": "Bottle",
+      "source": "Not specified",
+      "price": 699,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://nutrabay.com/product/nutrabay-pro-multivitamin-for-men/?pId=9397469&vId=2588760",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1026-04-1795156700.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-pro-multivitamin-for-men/?pId=9397469&vId=2588760",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1026-04-1795156700.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "sourceVariantId": "2588760",
+      "sourceProductId": "9397469",
+      "sourceSku": "NB-NUT-1026-04",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Ingredients identify folic acid (n-pteroylglutamic acid) and plant-source vitamin D2 (ergocalciferol). Folate is not converted to DFE; vitamin D is not relabelled D3. Other unmodeled micronutrients, including iron, need overlap review.",
+      "form": "Tablet",
+      "servingUnits": 1,
+      "type": "Multivitamin/mineral blend",
+      "subclass": "Men formulation",
+      "vitaminB1Mg": 1.8,
+      "vitaminB2Mg": 2.5,
+      "vitaminB3Mg": 18,
+      "vitaminB5Mg": 5,
+      "vitaminB6Mg": 2.4,
+      "vitaminB12Mcg": 2.2,
+      "vitaminCMg": 80,
+      "biotinMcg": 40,
+      "folicAcidMcg": 300,
+      "vitaminDIu": 600,
+      "vitaminDMcg": 15,
+      "vitaminEMg": 10,
+      "calciumMg": 40,
+      "magnesiumMg": 38,
+      "zincMg": 17,
+      "mineralBasis": "elemental",
+      "energyPerServing": 0.57,
+      "additionalIngredients": [
+        {
+          "name": "Vitamin A (retinol)",
+          "amount": 1000,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Beta-carotene",
+          "amount": 1000,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Iron",
+          "amount": 19,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Choline",
+          "amount": 50,
+          "unit": "mg",
+          "basis": "per label serving"
+        }
+      ],
+      "declaredNutrients": [
+        "vitaminB1Mg",
+        "vitaminB2Mg",
+        "vitaminB3Mg",
+        "vitaminB5Mg",
+        "vitaminB6Mg",
+        "biotinMcg",
+        "folicAcidMcg",
+        "vitaminB12Mcg"
+      ],
+      "packCount": 120
     }
   ]
 }

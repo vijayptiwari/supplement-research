@@ -492,6 +492,41 @@
         "carnitineCompoundMg",
         "carnitineMg"
       ]
+    },
+    {
+      "id": "l-carnitine-nb-6398653",
+      "brand": "Nutrabay",
+      "product": "Nutrabay L-Carnitine 1000mg",
+      "flavour": "Unflavoured",
+      "packaging": "Bottle",
+      "source": "Not specified",
+      "price": 449,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://nutrabay.com/product/nutrabay-pro-l-carnitine-1000mg/?pId=2356588&vId=6398653",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1025-02-1784115978.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-pro-l-carnitine-1000mg/?pId=2356588&vId=6398653",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1025-02-1784115978.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "sourceVariantId": "6398653",
+      "sourceProductId": "2356588",
+      "sourceSku": "NB-NUT-1025-02",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Panel declares L-carnitine L-tartrate 1000 mg per two tablets, not 1000 mg verified free L-carnitine. Free-active cost remains unknown.",
+      "form": "Tablet",
+      "servingUnits": 2,
+      "type": "L-carnitine L-tartrate",
+      "subclass": "Tartrate salt",
+      "carnitineMg": null,
+      "carnitineCompoundMg": 1000,
+      "energyPerServing": 2.49,
+      "declaredNutrients": [
+        "carnitineCompoundMg"
+      ],
+      "packCount": 60
     }
   ]
 }

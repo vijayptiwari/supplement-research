@@ -183,5 +183,29 @@
     "name": "MuscleTech",
     "domain": "muscletech.in",
     "storeUrl": "https://www.muscletech.in"
+  },
+  "Nutrabay": {
+    "name": "Nutrabay",
+    "domain": "nutrabay.com",
+    "storeUrl": "https://nutrabay.com/brand/nutrabay",
+    "sourceRole": "Retailer brand directory"
+  },
+  "GreenOpia": {
+    "name": "GreenOpia",
+    "domain": "nutrabay.com",
+    "storeUrl": "https://nutrabay.com/brand/greenopia",
+    "sourceRole": "Retailer brand directory"
+  },
+  "Miduty": {
+    "name": "Miduty",
+    "domain": "nutrabay.com",
+    "storeUrl": "https://nutrabay.com/brand/miduty",
+    "sourceRole": "Retailer brand directory"
+  },
+  "OSOAA": {
+    "name": "OSOAA",
+    "domain": "nutrabay.com",
+    "storeUrl": "https://nutrabay.com/brand/osoaa",
+    "sourceRole": "Retailer brand directory"
   }
 }

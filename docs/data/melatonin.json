@@ -488,6 +488,62 @@
           "basis": "per label serving"
         }
       ]
+    },
+    {
+      "id": "melatonin-nb-4154868",
+      "brand": "GreenOpia",
+      "product": "GreenOpia Melatonin + Tagar",
+      "flavour": "Unflavoured",
+      "packaging": "Bottle",
+      "source": "Not specified",
+      "price": 674,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://nutrabay.com/product/greenopia-melatonin-tagar/?pId=4574143&vId=4154868",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_2-NB-GOP-1009-01-1760533166.jpg",
+      "labelSources": [
+        "https://nutrabay.com/product/greenopia-melatonin-tagar/?pId=4574143&vId=4154868",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_2-NB-GOP-1009-01-1760533166.jpg"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "retailer",
+      "sourceVariantId": "4154868",
+      "sourceProductId": "4574143",
+      "sourceSku": "NB-GOP-1009-01",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Contains melatonin plus other sedating ingredients. Label quantity is not an intake recommendation; the full formulation needs individual review.",
+      "retailer": "Nutrabay",
+      "form": "Tablet",
+      "servingUnits": 1,
+      "type": "Melatonin + botanical/amino-acid blend",
+      "subclass": "10 mg + Tagar/theanine/chamomile",
+      "melatoninMg": 10,
+      "vitaminB6Mg": 1.9,
+      "energyPerServing": 0.8,
+      "additionalIngredients": [
+        {
+          "name": "Tagar (Valeriana wallichii rhizome)",
+          "amount": 250,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "L-Theanine",
+          "amount": 50,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Chamomile extract",
+          "amount": 50,
+          "unit": "mg",
+          "basis": "per label serving"
+        }
+      ],
+      "declaredNutrients": [
+        "melatoninMg"
+      ],
+      "packCount": 60
     }
   ]
 }

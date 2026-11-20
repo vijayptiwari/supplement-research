@@ -610,6 +610,81 @@
       "packaging": "Single retail pack (60 units)",
       "sourceVariantId": "286029",
       "sourceProductId": "129393"
+    },
+    {
+      "id": "magnesium-nb-2456663",
+      "brand": "Nutrabay",
+      "product": "Nutrabay Zinc + Magnesium + B6 (ZMA)",
+      "flavour": "Unflavoured",
+      "packaging": "Bottle",
+      "source": "Not specified",
+      "price": 349,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://nutrabay.com/product/nutrabay-pro-zma-500mg/?pId=3889255&vId=2456663",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1033-02-1770722877.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-pro-zma-500mg/?pId=3889255&vId=2456663",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1033-02-1770722877.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "sourceVariantId": "2456663",
+      "sourceProductId": "3889255",
+      "sourceSku": "NB-NUT-1033-02",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Two tablets supply elemental magnesium 440 mg, zinc 17 mg and B6 2.4 mg. This is ZMA, not ZMC: calcium is not a declared active.",
+      "form": "Tablet",
+      "servingUnits": 2,
+      "type": "Magnesium oxide + zinc oxide",
+      "subclass": "ZMA: magnesium/zinc/B6 blend",
+      "magnesiumMg": 440,
+      "zincMg": 17,
+      "vitaminB6Mg": 2.4,
+      "mineralBasis": "elemental",
+      "energyPerServing": 0.57,
+      "declaredNutrients": [
+        "magnesiumMg"
+      ],
+      "packCount": 60
+    },
+    {
+      "id": "magnesium-nb-7575427",
+      "brand": "OSOAA",
+      "product": "OSOAA Chelated Magnesium Glycinate 2000mg Tablets",
+      "flavour": "Unflavoured",
+      "packaging": "Bottle",
+      "source": "Not specified",
+      "price": 359,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://nutrabay.com/product/osoaa-chelated-magnesium-glycinate-2000mg-tablets-high-absorption-magnesium-supplement/?pId=9516100&vId=7575427",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-OSA-1007-01-1789215832.jpg",
+      "labelSources": [
+        "https://nutrabay.com/product/osoaa-chelated-magnesium-glycinate-2000mg-tablets-high-absorption-magnesium-supplement/?pId=9516100&vId=7575427",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-OSA-1007-01-1789215832.jpg"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "retailer",
+      "sourceVariantId": "7575427",
+      "sourceProductId": "9516100",
+      "sourceSku": "NB-OSA-1007-01",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Panel declares 2000 mg magnesium bisglycinate (22%) equivalent to 440 mg elemental magnesium per two tablets. Use the elemental amount, not 2000 mg, for magnesium totals.",
+      "retailer": "Nutrabay",
+      "form": "Tablet",
+      "servingUnits": 2,
+      "type": "Magnesium bisglycinate",
+      "subclass": "22% elemental magnesium declaration",
+      "magnesiumCompoundMg": 2000,
+      "magnesiumMg": 440,
+      "mineralBasis": "elemental",
+      "energyPerServing": 0.8,
+      "declaredNutrients": [
+        "magnesiumMg",
+        "magnesiumCompoundMg"
+      ],
+      "packCount": 60
     }
   ]
 }

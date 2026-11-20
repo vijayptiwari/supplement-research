@@ -389,6 +389,44 @@
         "https://rasayanam.in/products/ashwagandha-ksm66",
         "https://cdn.shopify.com/s/files/1/0669/9093/2145/files/Slide_1_278d23e7-b163-435a-9a49-42edf69fc143.webp?v=1777281881"
       ]
+    },
+    {
+      "id": "ashwagandha-nb-9923251",
+      "brand": "Nutrabay",
+      "product": "Nutrabay Ashwagandha Extract (Withania Somnifera) 1000mg",
+      "flavour": "Unflavoured",
+      "packaging": "Bottle",
+      "source": "Not specified",
+      "price": 299,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://nutrabay.com/product/nutrabay-wellness-ashwagandha-extract-withania-somnifera-1000mg/?pId=4623336&vId=9923251",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1035-02-1769691882.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-wellness-ashwagandha-extract-withania-somnifera-1000mg/?pId=4623336&vId=9923251",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1035-02-1769691882.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "sourceVariantId": "9923251",
+      "sourceProductId": "4623336",
+      "sourceSku": "NB-NUT-1035-02",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts.",
+      "form": "Tablet",
+      "servingUnits": 2,
+      "type": "Standardized root extract",
+      "subclass": "2.5% withanolides",
+      "ashwagandhaMg": 1000,
+      "standardizedExtractMg": 1000,
+      "withanolidesPct": 2.5,
+      "energyPerServing": 2.8,
+      "declaredNutrients": [
+        "ashwagandhaMg",
+        "withanolidesPct",
+        "standardizedExtractMg"
+      ],
+      "packCount": 60
     }
   ]
 }

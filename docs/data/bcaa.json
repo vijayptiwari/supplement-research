@@ -546,6 +546,47 @@
         "isoleucineMg",
         "valineMg"
       ]
+    },
+    {
+      "id": "bcaa-nb-1847127",
+      "brand": "Nutrabay",
+      "product": "Nutrabay Pure BCAA 2:1:1",
+      "flavour": "Unflavoured",
+      "packaging": "Jar",
+      "source": "Not specified",
+      "price": 849,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://nutrabay.com/product/nutrabay-bcaa-2-1-1/?pId=9935247&vId=1847127",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1004-01-1782906943.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-bcaa-2-1-1/?pId=9935247&vId=1847127",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1004-01-1782906943.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "sourceVariantId": "1847127",
+      "sourceProductId": "9935247",
+      "sourceSku": "NB-NUT-1004-01",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts.",
+      "form": "Powder",
+      "servingGrams": 5,
+      "type": "Branched-chain amino acids",
+      "subclass": "2:1:1 leucine/isoleucine/valine",
+      "bcaaMg": 5000,
+      "leucineMg": 2500,
+      "isoleucineMg": 1250,
+      "valineMg": 1250,
+      "energyPerServing": 0,
+      "declaredNutrients": [
+        "bcaaMg",
+        "leucineMg",
+        "isoleucineMg",
+        "valineMg"
+      ],
+      "grams": 250,
+      "packCount": null
     }
   ]
 }

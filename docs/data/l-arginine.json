@@ -408,6 +408,110 @@
       "declaredNutrients": [
         "arginineMg"
       ]
+    },
+    {
+      "id": "l-arginine-nb-2873071",
+      "brand": "Nutrabay",
+      "product": "Nutrabay L-Arginine - 1000mg",
+      "flavour": "Unflavoured",
+      "packaging": "Bottle",
+      "source": "Not specified",
+      "price": 329,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://nutrabay.com/product/nutrabay-pro-l-arginine-capsules-1000mg/?pId=4683112&vId=2873071",
+      "nutritionUrl": "https://cdn.nutrabay.com/wp-content/uploads/2023/03/NB-NUT-1058-01-04.jpg",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-pro-l-arginine-capsules-1000mg/?pId=4683112&vId=2873071",
+        "https://cdn.nutrabay.com/wp-content/uploads/2023/03/NB-NUT-1058-01-04.jpg"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "sourceVariantId": "2873071",
+      "sourceProductId": "4683112",
+      "sourceSku": "NB-NUT-1058-01",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts.",
+      "form": "Capsule",
+      "servingUnits": 2,
+      "type": "L-arginine",
+      "subclass": "Single amino acid",
+      "arginineMg": 1000,
+      "energyPerServing": 2.4,
+      "declaredNutrients": [
+        "arginineMg"
+      ],
+      "packCount": 60
+    },
+    {
+      "id": "l-arginine-nb-1125812",
+      "brand": "Nutrabay",
+      "product": "Nutrabay Pure L-Arginine",
+      "flavour": "Unflavoured",
+      "packaging": "Pouch",
+      "source": "Not specified",
+      "price": 599,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://nutrabay.com/product/nutrabay-l-arginine/?pId=4800664&vId=1125812",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1007-01-1781025929.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-l-arginine/?pId=4800664&vId=1125812",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1007-01-1781025929.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "sourceVariantId": "1125812",
+      "sourceProductId": "4800664",
+      "sourceSku": "NB-NUT-1007-01",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts.",
+      "form": "Powder",
+      "servingGrams": 2.5,
+      "type": "L-arginine",
+      "subclass": "Single amino acid",
+      "arginineMg": 2500,
+      "energyPerServing": 0,
+      "declaredNutrients": [
+        "arginineMg"
+      ],
+      "grams": 250,
+      "packCount": null
+    },
+    {
+      "id": "l-arginine-nb-3455071",
+      "brand": "Nutrabay",
+      "product": "Nutrabay Pure L-Arginine",
+      "flavour": "Unflavoured",
+      "packaging": "Jar",
+      "source": "Not specified",
+      "price": 379,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://nutrabay.com/product/nutrabay-l-arginine/?pId=4800664&vId=3455071",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1007-02-1781025999.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-l-arginine/?pId=4800664&vId=3455071",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1007-02-1781025999.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "sourceVariantId": "3455071",
+      "sourceProductId": "4800664",
+      "sourceSku": "NB-NUT-1007-02",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts.",
+      "form": "Powder",
+      "servingGrams": 2.5,
+      "type": "L-arginine",
+      "subclass": "Single amino acid",
+      "arginineMg": 2500,
+      "energyPerServing": 0,
+      "declaredNutrients": [
+        "arginineMg"
+      ],
+      "grams": 100,
+      "packCount": null
     }
   ]
 }

@@ -726,6 +726,47 @@
         }
       ],
       "energyPerServing": null
+    },
+    {
+      "id": "glutathione-nb-2239568",
+      "brand": "Miduty",
+      "product": "Miduty Liposomal Glutathione",
+      "flavour": "Unflavoured",
+      "packaging": "Bottle",
+      "source": "Not specified",
+      "price": 1493,
+      "currency": "INR",
+      "stock": "In stock",
+      "url": "https://nutrabay.com/product/miduty-liposomal-glutathione/?pId=7498636&vId=2239568",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-MDY-1001-01-1787827948.jpg",
+      "labelSources": [
+        "https://nutrabay.com/product/miduty-liposomal-glutathione/?pId=7498636&vId=2239568",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-MDY-1001-01-1787827948.jpg"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "retailer",
+      "sourceVariantId": "2239568",
+      "sourceProductId": "7498636",
+      "sourceSku": "NB-MDY-1001-01",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "The panel lists 600 mg of a 40% liposomal ingredient, not an explicit 600 mg pure glutathione dose. Pure-active payload stays unknown pending an unambiguous manufacturer declaration; carrier ingredient mass is recorded separately.",
+      "retailer": "Nutrabay",
+      "form": "Capsule",
+      "servingUnits": 1,
+      "type": "Liposomal glutathione ingredient",
+      "subclass": "Lipoglo 40% formulation",
+      "glutathioneMg": null,
+      "energyPerServing": 2.24,
+      "additionalIngredients": [
+        {
+          "name": "Liposomal glutathione 40% (Lipoglo ingredient)",
+          "amount": 600,
+          "unit": "mg",
+          "basis": "per label serving"
+        }
+      ],
+      "declaredNutrients": [],
+      "packCount": 30
     }
   ]
 }

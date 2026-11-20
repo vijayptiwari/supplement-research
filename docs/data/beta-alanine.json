@@ -101,66 +101,84 @@
     {
       "id": "beta-alanine-nutrabay-6440277",
       "brand": "Nutrabay",
-      "product": "Pure Beta-Alanine",
+      "product": "Nutrabay Pure Beta-Alanine",
       "form": "Powder",
       "type": "Beta-alanine",
       "subclass": "Single amino acid",
       "source": "Not specified",
-      "flavour": "Unflavoured",
-      "packaging": "Single retail pouch",
+      "flavour": "Unflavoured-pouch",
+      "packaging": "Pouch",
       "grams": 100,
-      "servingGrams": 2.5,
-      "betaAlanineMg": 2500,
-      "energyPerServing": null,
-      "basis": "Directly fetched official ProductGroup.hasVariant identifies exact SKU, selected variant URL, sale price, stock and net pack weight. Official FAQ states 2.5 g pure beta-alanine per 2.5 g serving.",
-      "notes": "The 100 g pouch is explicitly sold out and retains its listed price. No price is inferred from MRP or from the in-stock 250 g pack.",
-      "labelChecked": "2026-11-17",
+      "servingGrams": 5,
+      "betaAlanineMg": 5000,
+      "energyPerServing": 0,
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Current selected gallery panel uses a 5 g scoop, unlike older family FAQ text mentioning 2.5 g. The reviewed current label supplies the serving basis.",
+      "labelChecked": "2026-11-20",
       "labelSources": [
-        "https://nutrabay.com/product/nutrabay-beta-alanine/"
+        "https://nutrabay.com/product/nutrabay-beta-alanine/?pId=8486513&vId=6440277",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_5-NB-NUT-1005-02-1768894241.png"
       ],
       "price": 249,
       "currency": "INR",
       "stock": "Sold out",
       "url": "https://nutrabay.com/product/nutrabay-beta-alanine/?pId=8486513&vId=6440277",
-      "nutritionUrl": "https://nutrabay.com/product/nutrabay-beta-alanine/",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_5-NB-NUT-1005-02-1768894241.png",
       "lastPriceReview": {
-        "checked": "2026-11-19",
+        "checked": "2026-11-20",
         "sourceUrl": "https://nutrabay.com/product/nutrabay-beta-alanine/?pId=8486513&vId=6440277",
-        "evidenceUrl": "https://nutrabay.com/product/nutrabay-beta-alanine/",
-        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
-      }
+        "evidenceUrl": "https://nutrabay.com/product/nutrabay-beta-alanine/?pId=8486513&vId=6440277",
+        "matchBasis": "Exact selected Nutrabay 100 g pouch variant and SKU; current 5 g beta-alanine panel and explicit out-of-stock state, no parent default substitution."
+      },
+      "sourceType": "manufacturer",
+      "sourceVariantId": "6440277",
+      "sourceProductId": "8486513",
+      "sourceSku": "NB-NUT-1005-02",
+      "declaredNutrients": [
+        "betaAlanineMg"
+      ],
+      "packCount": null
     },
     {
       "id": "beta-alanine-nutrabay-1480899",
       "brand": "Nutrabay",
-      "product": "Pure Beta-Alanine",
+      "product": "Nutrabay Pure Beta-Alanine",
       "form": "Powder",
       "type": "Beta-alanine",
       "subclass": "Single amino acid",
       "source": "Not specified",
       "flavour": "Unflavoured",
-      "packaging": "Single retail pack",
+      "packaging": "Pouch",
       "grams": 250,
-      "servingGrams": 2.5,
-      "betaAlanineMg": 2500,
-      "energyPerServing": null,
-      "basis": "Directly fetched official ProductGroup.hasVariant identifies exact SKU, selected variant URL, sale price, stock and net pack weight. Official FAQ states 2.5 g pure beta-alanine per 2.5 g serving.",
-      "notes": "The 100 g pouch is explicitly sold out and retains its listed price. No price is inferred from MRP or from the in-stock 250 g pack.",
-      "labelChecked": "2026-11-17",
+      "servingGrams": 5,
+      "betaAlanineMg": 5000,
+      "energyPerServing": 0,
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Current selected gallery panel uses a 5 g scoop, unlike older family FAQ text mentioning 2.5 g. The reviewed current label supplies the serving basis.",
+      "labelChecked": "2026-11-20",
       "labelSources": [
-        "https://nutrabay.com/product/nutrabay-beta-alanine/"
+        "https://nutrabay.com/product/nutrabay-beta-alanine/?pId=8486513&vId=1480899",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1005-01-1784268695.png"
       ],
       "price": 599,
       "currency": "INR",
       "stock": "In stock",
       "url": "https://nutrabay.com/product/nutrabay-beta-alanine/?pId=8486513&vId=1480899",
-      "nutritionUrl": "https://nutrabay.com/product/nutrabay-beta-alanine/",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1005-01-1784268695.png",
       "lastPriceReview": {
-        "checked": "2026-11-19",
+        "checked": "2026-11-20",
         "sourceUrl": "https://nutrabay.com/product/nutrabay-beta-alanine/?pId=8486513&vId=1480899",
-        "evidenceUrl": "https://nutrabay.com/product/nutrabay-beta-alanine/",
-        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
-      }
+        "evidenceUrl": "https://nutrabay.com/product/nutrabay-beta-alanine/?pId=8486513&vId=1480899",
+        "matchBasis": "Exact Nutrabay selected ID/SKU and current panel; preserves stable catalog ID while refreshing price and label."
+      },
+      "sourceType": "manufacturer",
+      "sourceVariantId": "1480899",
+      "sourceProductId": "8486513",
+      "sourceSku": "NB-NUT-1005-01",
+      "declaredNutrients": [
+        "betaAlanineMg"
+      ],
+      "packCount": null
     },
     {
       "brand": "BigMuscles Nutrition",

@@ -69,7 +69,7 @@ def jsonld_variant(raw,entry):
 def source_kind(entry):
  """Unrecognized providers must not fall through to Shopify/default pricing."""
  kind=entry.get('kind','shopify')
- if kind not in ['shopify','jsonld','html','magento-configurable','hk-product']:raise ValueError('Unsupported product source kind: '+str(kind))
+ if kind not in ['shopify','jsonld','html','magento-configurable','hk-product','nutrabay-product']:raise ValueError('Unsupported product source kind: '+str(kind))
  return kind
 
 class NextDataScript(HTMLParser):
@@ -84,6 +84,79 @@ class NextDataScript(HTMLParser):
    try:self.documents.append(json.loads(''.join(self.parts)))
    except json.JSONDecodeError:raise ValueError('Public HK product data is not valid JSON.')
    self.capture=False
+
+def nutrabay_product_variant(raw,entry):
+ """Use only the exact selected Nutrabay product, never parent/range prices."""
+ pid=str(entry.get('productId',''));vid=str(entry.get('variantId',''));sku=entry.get('variantSku')
+ if not re.fullmatch(r'[1-9]\d*',pid) or not re.fullmatch(r'[1-9]\d*',vid) or not isinstance(sku,str) or not sku.strip():raise ValueError('Nutrabay needs explicit product, variant and SKU identities.')
+ urls=[urlsplit(entry.get(key,'')) for key in ['productUrl','variantUrl']]
+ for url in urls:
+  query=parse_qs(url.query)
+  if url.scheme!='https' or url.hostname not in ['nutrabay.com','www.nutrabay.com'] or url.username or url.password or not url.path.startswith('/product/') or query.get('pId')!=[pid] or query.get('vId')!=[vid]:raise ValueError('Nutrabay exact HTTPS product URL must retain one matching pId and vId.')
+ reader=NextDataScript();reader.feed(raw)
+ if len(reader.documents)!=1:raise ValueError('One unambiguous Nutrabay product document is required.')
+ try:
+  page=reader.documents[0]['props']['pageProps'];state=page['initialState']['parentProduct'];selected_response=state['getVariantDetails']['data'];parent_response=state['getParentDetails']['data'];selected=selected_response['data'];parent_data=parent_response['data'];parent=parent_data['parent_details']
+ except (KeyError,TypeError):raise ValueError('Nutrabay selected variant data is missing.')
+ if not isinstance(selected,dict) or not isinstance(parent,dict) or selected_response.get('status')!=1 or parent_response.get('status')!=1 or selected.get('status')!=4 or selected.get('freebie') is True:raise ValueError('Nutrabay selected product is not a published retail record.')
+ if str(page.get('pId',''))!=pid or str(parent.get('parent_product_id',''))!=pid or str(selected.get('parent_product_id',''))!=pid or str(selected.get('variant_product_id',''))!=vid or selected.get('sku')!=sku:raise ValueError('Returned Nutrabay product, variant or SKU differs from the selected pack.')
+ norm=lambda value:' '.join(str(value).split()).casefold()
+ brand=entry.get('sourceBrand',entry.get('brand'))
+ if not isinstance(brand,str) or not brand.strip() or any(norm(node.get('brand_name',''))!=norm(brand) for node in [selected,parent]):raise ValueError('Nutrabay source brand does not match the curated brand.')
+ slug=selected.get('parent_slug')
+ if not isinstance(slug,str) or not slug or parent.get('slug')!=slug or any(url.path.rstrip('/')!='/product/'+slug for url in urls):raise ValueError('Nutrabay URL slug does not match the selected parent product.')
+ children=parent_data.get('variants',[]);matches=[child for child in children if isinstance(child,dict) and str(child.get('variant_id',''))==vid] if isinstance(children,list) else []
+ if len(matches)!=1 or matches[0].get('sku')!=sku:raise ValueError('Nutrabay selected SKU is absent or ambiguous in the parent variant list.')
+ wanted=entry.get('variantAttributes');attributes=selected.get('selected_swatch_values')
+ if not isinstance(wanted,dict) or not wanted or not isinstance(attributes,dict) or set(wanted)!=set(attributes) or any(not isinstance(value,str) or not value.strip() or norm(value)!=norm(attributes[key]) for key,value in wanted.items()):raise ValueError('Every Nutrabay selected attribute must match the curated pack.')
+ for url in urls:
+  for key,values in parse_qs(url.query).items():
+   if key.startswith('pa_') and (key not in attributes or len(values)!=1 or norm(values[0])!=norm(attributes[key])):raise ValueError('Nutrabay URL attributes disagree with the selected variant.')
+ specifications=selected.get('specifications',[])
+ if not isinstance(specifications,list):raise ValueError('Nutrabay pack specifications are malformed.')
+ def masses(value):
+  match=re.fullmatch(r'\s*(\d+(?:\.\d+)?)\s*(kg|g|gm|grams?)(?:\s*\([^)]*\))?\s*',str(value),re.I)
+  return float(match[1])*(1000 if match[2].lower()=='kg' else 1) if match else None
+ if entry.get('form')=='Powder':
+  grams=entry.get('grams');spec_proof=[masses(s.get('value')) for s in specifications if isinstance(s,dict) and norm(s.get('label'))=='weight'];attribute_proof=[masses(value) for key,value in attributes.items() if key in ['pa_weight','pa_pack-size']];proof=[value for value in spec_proof+attribute_proof if value is not None]
+  valid_grams=isinstance(grams,(int,float)) and not isinstance(grams,bool) and math.isfinite(grams) and grams>0
+  # Some selected detail tables round kg to two decimals (174 g -> 0.17 kg).
+  # Only a reviewed actual gram label plus the exact gram selector may resolve
+  # that specific discrepancy; no pound conversion or shipping weight is used.
+  if valid_grams and entry.get('specWeightIsRounded') is True:
+   label_url=urlsplit(entry.get('netWeightEvidenceUrl',''));label_date=entry.get('netWeightEvidenceChecked','')
+   try:date_valid=bool(re.fullmatch(r'\d{4}-\d{2}-\d{2}',label_date)) and datetime.date.fromisoformat(label_date) is not None
+   except (TypeError,ValueError):date_valid=False
+   if label_url.scheme!='https' or not label_url.hostname or not date_valid or entry.get('netWeightEvidenceGrams')!=grams or not any(value is not None and abs(value-grams)<.001 for value in attribute_proof):raise ValueError('Rounded Nutrabay kg specification needs an exact selector and dated actual gram-label evidence.')
+   proof=[value for value in attribute_proof if value is not None]+[value for value in spec_proof if value is not None and abs(value-round(grams/1000,2)*1000)>.001]
+  if not valid_grams or not proof or any(not math.isfinite(value) or abs(value-grams)>.001 for value in proof):raise ValueError('Nutrabay exact net powder grams must match explicit selected pack weight, never rounded pounds.')
+ else:
+  count=entry.get('packCount');counts=[]
+  source_forms=[norm(s.get('value')) for s in specifications if isinstance(s,dict) and norm(s.get('label'))=='form']
+  allowed_forms={'Tablet':['tablet','tablets'],'Capsule':['capsule','capsules'],'Softgel':['softgel','softgels','capsule','capsules'],'Gummy':['gummy','gummies'],'Oral strip':['oral strip','oral strips','strip','strips']}.get(entry.get('form'),[])
+  if source_forms and any(form not in allowed_forms for form in source_forms):raise ValueError('Nutrabay selected dosage form differs from the curated form.')
+  for key,value in attributes.items():
+   if key not in ['pa_pack-size','pa_quantity','pa_count']:continue
+   match=re.fullmatch(r'\s*(\d+)\s*(caps?|capsules?|softgels?|tabs?|tablets?|gummies|strips?)\s*',value,re.I)
+   if match:counts.append(int(match[1]))
+   elif re.fullmatch(r'\d+',value.strip()) and source_forms:counts.append(int(value))
+  if not isinstance(count,int) or isinstance(count,bool) or count<=0 or not counts or any(value!=count for value in counts):raise ValueError('Nutrabay exact retail unit count is not established.')
+ currencies=[]
+ def walk(node):
+  if isinstance(node,list):
+   for value in node:yield from walk(value)
+  elif isinstance(node,dict):
+   if 'priceCurrency' in node:yield node['priceCurrency']
+   for value in node.values():
+    if isinstance(value,(list,dict)):yield from walk(value)
+ ld=JsonLdScripts();ld.feed(raw);currencies=list(walk(ld.documents))
+ if any(currency!='INR' for currency in currencies) or not ('INR' in currencies or '₹' in raw or '&#8377;' in raw or '\\u20b9' in raw.lower()) or selected.get('currency') not in [None,'INR']:raise ValueError('Nutrabay selected price needs explicit INR evidence.')
+ value=selected.get('sale_price')
+ try:price=Decimal(str(value))
+ except (InvalidOperation,TypeError,ValueError):raise ValueError('Nutrabay selected ordinary sale price is invalid.')
+ if isinstance(value,bool) or not price.is_finite() or price<=0 or not math.isfinite(float(price)):raise ValueError('Nutrabay selected ordinary sale price must be positive and finite.')
+ stock=selected.get('stock_status');available=stock if isinstance(stock,bool) else None
+ return dict(id=vid,title=selected.get('name') or sku,price=float(price),available=available,currency='INR')
 
 def hk_product_variant(raw,entry):
  """Match the exact published HK-platform SKU, full attributes and net pack.
@@ -256,9 +329,9 @@ def main():
   if entry['category'] not in categories:continue
   kind=source_kind(entry)
   brand=entry['brand'];base=entry['base'];handle=entry.get('handle');url=entry.get('productUrl') or base+'/products/'+handle
-  if kind=='hk-product':
+  if kind in ['hk-product','nutrabay-product']:
    raw_path=cache/(entry['cacheKey']+'.html');raw=get(url) if args.refresh or not raw_path.exists() else raw_path.read_text(encoding='utf-8');raw_path.write_text(raw,encoding='utf-8')
-   variants=[hk_product_variant(raw,entry)];evidence=url
+   variants=[(hk_product_variant if kind=='hk-product' else nutrabay_product_variant)(raw,entry)];evidence=url
   elif kind=='magento-configurable':
    raw_path=cache/(entry['cacheKey']+'.html');raw=get(url) if args.refresh or not raw_path.exists() else raw_path.read_text(encoding='utf-8');raw_path.write_text(raw,encoding='utf-8')
    variants=[magento_configurable_variant(raw,entry)];evidence=url
@@ -293,12 +366,12 @@ def main():
    if powder:
     quantity=None
     if not isinstance(entry.get('grams'),(int,float)) or isinstance(entry['grams'],bool) or entry['grams']<=0:excluded.append(dict(url=url,variant=variant['id'],reason='Net powder grams not verified.'));continue
-    if kind not in ['jsonld','magento-configurable','hk-product'] and not entry.get('variantIds') and not entry.get('variantTitles'):raise ValueError('Powder profile requires explicit variant selection so weight and flavour cannot leak across packs: '+url)
+    if kind not in ['jsonld','magento-configurable','hk-product','nutrabay-product'] and not entry.get('variantIds') and not entry.get('variantTitles'):raise ValueError('Powder profile requires explicit variant selection so weight and flavour cannot leak across packs: '+url)
    elif not quantity:excluded.append(dict(url=url,variant=variant['id'],reason='Pack count not verified.'));continue
    row={k:v for k,v in entry.items() if k not in ['category','base','handle','variantTitles','variantIds','cacheKey','kind','id','numericVariantIsCount','allowRetailMultipack','productUrl','variantUrl','variantSku','variantId','variantOptions','productId','sourceBrand','variantAttributes']}
    row.update(id=entry.get('id') or f"{entry['category']}-{variant['id']}",product=entry['product'],packCount=quantity,price=float(variant['price']),currency='INR',stock='In stock' if variant.get('available') is True else 'Sold out' if variant.get('available') is False else 'Listed; confirm stock',url=url if entry.get('kind')=='html' else url+'?variant='+str(variant['id']),nutritionUrl=entry.get('nutritionUrl',url),flavour=entry.get('flavour','Unflavoured'),packaging=entry.get('packaging','Single retail pack'),labelChecked=entry.get('labelChecked',manifest['labelChecked']))
-   if kind in ['jsonld','magento-configurable','hk-product']:row['url']=entry['variantUrl']
-   categories[entry['category']].append(row);observations.append(dict(category=entry['category'],offerId=row['id'],date=args.as_of,price=row['price'],currency='INR',sourceUrl=row['url'],evidenceUrl=evidence,kind='official-live',matchBasis='Public HK-platform exact published product/variant ID, source brand and all selected attributes; unconditional INR offer price and exact retail pack checked'+('; gram weight from separately reviewed selected-pack label, not rounded pounds' if entry.get('netWeightEvidenceUrl') else '') if kind=='hk-product' else 'Official Magento exact child ID and all attribute options; INR tax-inclusive child finalPrice and net pack weight checked; child stock unverified' if kind=='magento-configurable' else 'Official exact ProductGroup variant SKU and URL; pack weight checked' if kind=='jsonld' else 'Official primary product page and explicitly selected pack' if kind=='html' else 'Official Shopify exact variant ID; net powder grams verified' if powder else 'Official Shopify exact variant ID; retail-pack count verified',variantId=None if kind=='html' else str(variant['id'])))
+   if kind in ['jsonld','magento-configurable','hk-product','nutrabay-product']:row['url']=entry['variantUrl']
+   categories[entry['category']].append(row);observations.append(dict(category=entry['category'],offerId=row['id'],date=args.as_of,price=row['price'],currency='INR',sourceUrl=row['url'],evidenceUrl=evidence,kind='official-live',matchBasis='Nutrabay exact selected product/variant ID, SKU, brand and all attributes; ordinary INR sale price, stock and net retail pack verified' if kind=='nutrabay-product' else 'Public HK-platform exact published product/variant ID, source brand and all selected attributes; unconditional INR offer price and exact retail pack checked'+('; gram weight from separately reviewed selected-pack label, not rounded pounds' if entry.get('netWeightEvidenceUrl') else '') if kind=='hk-product' else 'Official Magento exact child ID and all attribute options; INR tax-inclusive child finalPrice and net pack weight checked; child stock unverified' if kind=='magento-configurable' else 'Official exact ProductGroup variant SKU and URL; pack weight checked' if kind=='jsonld' else 'Official primary product page and explicitly selected pack' if kind=='html' else 'Official Shopify exact variant ID; net powder grams verified' if powder else 'Official Shopify exact variant ID; retail-pack count verified',variantId=None if kind=='html' else str(variant['id'])))
  save_refreshed_categories(ROOT,categories,args.as_of)
  ledger_path=ROOT/'docs/data/price-observations.json';ledger=json.loads(ledger_path.read_text(encoding='utf-8'));merged={observation_key(r):r for r in ledger['observations']}
  merged.update({observation_key(r):r for r in observations});ledger.update(checked=max(ledger.get('checked',''),args.as_of),observations=list(merged.values()));ledger_path.write_text(json.dumps(ledger,ensure_ascii=False),encoding='utf-8')

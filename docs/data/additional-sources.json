@@ -3062,62 +3062,88 @@
       "energyPerServing": null
     },
     {
-      "category": "beta-alanine",
-      "kind": "jsonld",
-      "base": "https://nutrabay.com",
-      "productUrl": "https://nutrabay.com/product/nutrabay-beta-alanine/",
-      "variantUrl": "https://nutrabay.com/product/nutrabay-beta-alanine/?pId=8486513&vId=6440277",
-      "variantSku": "NB-NUT-1005-02",
-      "variantId": "6440277",
-      "cacheKey": "nutrabay-beta",
       "id": "beta-alanine-nutrabay-6440277",
       "brand": "Nutrabay",
-      "product": "Pure Beta-Alanine",
+      "product": "Nutrabay Pure Beta-Alanine",
       "form": "Powder",
       "type": "Beta-alanine",
       "subclass": "Single amino acid",
       "source": "Not specified",
-      "flavour": "Unflavoured",
-      "packaging": "Single retail pouch",
+      "flavour": "Unflavoured-pouch",
+      "packaging": "Pouch",
       "grams": 100,
-      "servingGrams": 2.5,
-      "betaAlanineMg": 2500,
-      "energyPerServing": null,
-      "basis": "Directly fetched official ProductGroup.hasVariant identifies exact SKU, selected variant URL, sale price, stock and net pack weight. Official FAQ states 2.5 g pure beta-alanine per 2.5 g serving.",
-      "notes": "The 100 g pouch is explicitly sold out and retains its listed price. No price is inferred from MRP or from the in-stock 250 g pack.",
-      "labelChecked": "2026-11-17",
+      "servingGrams": 5,
+      "betaAlanineMg": 5000,
+      "energyPerServing": 0,
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Current selected gallery panel uses a 5 g scoop, unlike older family FAQ text mentioning 2.5 g. The reviewed current label supplies the serving basis.",
+      "labelChecked": "2026-11-20",
       "labelSources": [
-        "https://nutrabay.com/product/nutrabay-beta-alanine/"
-      ]
+        "https://nutrabay.com/product/nutrabay-beta-alanine/?pId=8486513&vId=6440277",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_5-NB-NUT-1005-02-1768894241.png"
+      ],
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_5-NB-NUT-1005-02-1768894241.png",
+      "sourceType": "manufacturer",
+      "declaredNutrients": [
+        "betaAlanineMg"
+      ],
+      "packCount": null,
+      "category": "beta-alanine",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-beta-alanine/?pId=8486513&vId=6440277",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-beta-alanine/?pId=8486513&vId=6440277",
+      "productId": "8486513",
+      "variantId": "6440277",
+      "variantSku": "NB-NUT-1005-02",
+      "variantAttributes": {
+        "pa_flavour": "Unflavoured-pouch",
+        "pa_weight": "100 g (0.22 lb)"
+      },
+      "cacheKey": "nutrabay-6440277",
+      "allowRetailMultipack": true
     },
     {
-      "category": "beta-alanine",
-      "kind": "jsonld",
-      "base": "https://nutrabay.com",
-      "productUrl": "https://nutrabay.com/product/nutrabay-beta-alanine/",
-      "variantUrl": "https://nutrabay.com/product/nutrabay-beta-alanine/?pId=8486513&vId=1480899",
-      "variantSku": "NB-NUT-1005-01",
-      "variantId": "1480899",
-      "cacheKey": "nutrabay-beta",
       "id": "beta-alanine-nutrabay-1480899",
       "brand": "Nutrabay",
-      "product": "Pure Beta-Alanine",
+      "product": "Nutrabay Pure Beta-Alanine",
+      "flavour": "Unflavoured",
+      "packaging": "Pouch",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1005-01-1784268695.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-beta-alanine/?pId=8486513&vId=1480899",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1005-01-1784268695.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Current selected gallery panel uses a 5 g scoop, unlike older family FAQ text mentioning 2.5 g. The reviewed current label supplies the serving basis.",
       "form": "Powder",
+      "servingGrams": 5,
       "type": "Beta-alanine",
       "subclass": "Single amino acid",
-      "source": "Not specified",
-      "flavour": "Unflavoured",
-      "packaging": "Single retail pack",
+      "betaAlanineMg": 5000,
+      "energyPerServing": 0,
+      "declaredNutrients": [
+        "betaAlanineMg"
+      ],
       "grams": 250,
-      "servingGrams": 2.5,
-      "betaAlanineMg": 2500,
-      "energyPerServing": null,
-      "basis": "Directly fetched official ProductGroup.hasVariant identifies exact SKU, selected variant URL, sale price, stock and net pack weight. Official FAQ states 2.5 g pure beta-alanine per 2.5 g serving.",
-      "notes": "The 100 g pouch is explicitly sold out and retains its listed price. No price is inferred from MRP or from the in-stock 250 g pack.",
-      "labelChecked": "2026-11-17",
-      "labelSources": [
-        "https://nutrabay.com/product/nutrabay-beta-alanine/"
-      ]
+      "packCount": null,
+      "category": "beta-alanine",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-beta-alanine/?pId=8486513&vId=1480899",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-beta-alanine/?pId=8486513&vId=1480899",
+      "variantId": "1480899",
+      "productId": "8486513",
+      "variantSku": "NB-NUT-1005-01",
+      "variantAttributes": {
+        "pa_flavour": "Unflavoured",
+        "pa_weight": "250 g (0.55 lb)"
+      },
+      "cacheKey": "nutrabay-1480899",
+      "allowRetailMultipack": true
     },
     {
       "category": "taurine",
@@ -15131,6 +15157,3942 @@
       "variantIds": [
         "67676816670873"
       ]
+    },
+    {
+      "id": "protein-nb-6919061",
+      "brand": "Nutrabay",
+      "product": "BioAbsorb Whey Protein",
+      "flavour": "Milk Chocolate",
+      "packaging": "Jar",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1096-06-1790321417.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-bioabsorb-whey-protein?pId=8042444&vId=6919061",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1096-06-1790321417.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results. Per 100 g: protein 72.75 g; energy 381.03 kcal; gram serving 36 g.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Probiotic CFU are label claims, not a verified live count at consumption. Advertising about enhanced absorption has not been adopted as comparative efficacy evidence. Label allergen declaration: contains milk and may contain soy.",
+      "form": "Powder",
+      "kg": 1,
+      "protein": 72.75,
+      "scoop": 36,
+      "serving": 36,
+      "energy": 381.03,
+      "type": "Whey",
+      "subclass": "Whey concentrate + probiotic/enzyme blend",
+      "additionalIngredients": [
+        {
+          "name": "Digestive enzyme blend",
+          "amount": 150,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Probiotic blend",
+          "amount": 50000000000,
+          "unit": "CFU",
+          "basis": "per label serving"
+        }
+      ],
+      "category": "protein",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-bioabsorb-whey-protein?pId=8042444&vId=6919061",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-bioabsorb-whey-protein?pId=8042444&vId=6919061",
+      "variantId": "6919061",
+      "productId": "8042444",
+      "variantSku": "NB-NUT-1096-06",
+      "variantAttributes": {
+        "pa_flavour": "Milk Chocolate",
+        "pa_weight": "1 kg (2.2 lb)"
+      },
+      "cacheKey": "nutrabay-6919061",
+      "allowRetailMultipack": true,
+      "grams": 1000
+    },
+    {
+      "id": "protein-nb-6457758",
+      "brand": "Nutrabay",
+      "product": "BioAbsorb Whey Protein",
+      "flavour": "Milk Chocolate",
+      "packaging": "Jar",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1096-11-1790321822.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-bioabsorb-whey-protein?pId=8042444&vId=6457758",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1096-11-1790321822.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results. Per 100 g: protein 72.75 g; energy 381.03 kcal; gram serving 36 g.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Probiotic CFU are label claims, not a verified live count at consumption. Advertising about enhanced absorption has not been adopted as comparative efficacy evidence. Label allergen declaration: contains milk and may contain soy.",
+      "form": "Powder",
+      "kg": 2,
+      "protein": 72.75,
+      "scoop": 36,
+      "serving": 36,
+      "energy": 381.03,
+      "type": "Whey",
+      "subclass": "Whey concentrate + probiotic/enzyme blend",
+      "additionalIngredients": [
+        {
+          "name": "Digestive enzyme blend",
+          "amount": 150,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Probiotic blend",
+          "amount": 50000000000,
+          "unit": "CFU",
+          "basis": "per label serving"
+        }
+      ],
+      "category": "protein",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-bioabsorb-whey-protein?pId=8042444&vId=6457758",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-bioabsorb-whey-protein?pId=8042444&vId=6457758",
+      "variantId": "6457758",
+      "productId": "8042444",
+      "variantSku": "NB-NUT-1096-11",
+      "variantAttributes": {
+        "pa_flavour": "Milk Chocolate",
+        "pa_weight": "2 kg (4.4 lb)"
+      },
+      "cacheKey": "nutrabay-6457758",
+      "allowRetailMultipack": true,
+      "grams": 2000
+    },
+    {
+      "id": "protein-nb-9310886",
+      "brand": "Nutrabay",
+      "product": "BioAbsorb Whey Protein",
+      "flavour": "Dark Chocolate (naturally Sweetened)",
+      "packaging": "Jar",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1096-10-1790320793.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-bioabsorb-whey-protein?pId=8042444&vId=9310886",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1096-10-1790320793.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results. Per 100 g: protein 71.65 g; energy 384.7 kcal; gram serving 37 g.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Probiotic CFU are label claims, not a verified live count at consumption. Advertising about enhanced absorption has not been adopted as comparative efficacy evidence. Label allergen declaration: contains milk and may contain soy.",
+      "form": "Powder",
+      "kg": 1,
+      "protein": 71.65,
+      "scoop": 37,
+      "serving": 37,
+      "energy": 384.7,
+      "type": "Whey",
+      "subclass": "Whey concentrate + probiotic/enzyme blend",
+      "additionalIngredients": [
+        {
+          "name": "Digestive enzyme blend",
+          "amount": 150,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Probiotic blend",
+          "amount": 50000000000,
+          "unit": "CFU",
+          "basis": "per label serving"
+        }
+      ],
+      "category": "protein",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-bioabsorb-whey-protein?pId=8042444&vId=9310886",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-bioabsorb-whey-protein?pId=8042444&vId=9310886",
+      "variantId": "9310886",
+      "productId": "8042444",
+      "variantSku": "NB-NUT-1096-10",
+      "variantAttributes": {
+        "pa_flavour": "Dark Chocolate (naturally Sweetened)",
+        "pa_weight": "1 kg (2.2 lb)"
+      },
+      "cacheKey": "nutrabay-9310886",
+      "allowRetailMultipack": true,
+      "grams": 1000
+    },
+    {
+      "id": "protein-nb-5553131",
+      "brand": "Nutrabay",
+      "product": "Gold Whey Protein Concentrate",
+      "flavour": "Rich Chocolate Creme",
+      "packaging": "Jar",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1061-05-1789626007.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-gold-100-whey-protein-concentrate?pId=6589930&vId=5553131",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1061-05-1789626007.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results. Per 100 g: protein 71.65 g; energy 400.77 kcal; gram serving 35 g.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Label allergen declaration: contains milk and may contain soy.",
+      "form": "Powder",
+      "kg": 1,
+      "protein": 71.65,
+      "scoop": 35,
+      "serving": 35,
+      "energy": 400.77,
+      "type": "Whey",
+      "subclass": "Whey concentrate",
+      "additionalIngredients": [
+        {
+          "name": "Digestive enzyme blend",
+          "amount": 150,
+          "unit": "mg",
+          "basis": "per label serving"
+        }
+      ],
+      "category": "protein",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-gold-100-whey-protein-concentrate?pId=6589930&vId=5553131",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-gold-100-whey-protein-concentrate?pId=6589930&vId=5553131",
+      "variantId": "5553131",
+      "productId": "6589930",
+      "variantSku": "NB-NUT-1061-05",
+      "variantAttributes": {
+        "pa_flavour": "Rich Chocolate Creme",
+        "pa_weight": "1 kg (2.2 lb)"
+      },
+      "cacheKey": "nutrabay-5553131",
+      "allowRetailMultipack": true,
+      "grams": 1000
+    },
+    {
+      "id": "protein-nb-7221287",
+      "brand": "Nutrabay",
+      "product": "Gold Whey Protein Concentrate",
+      "flavour": "Vanilla Ice Cream",
+      "packaging": "Jar",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1061-06-1756463526.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-gold-100-whey-protein-concentrate?pId=6589930&vId=7221287",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1061-06-1756463526.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results. Per 100 g: protein 72.92 g; energy 381.02 kcal; gram serving 35 g.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Label allergen declaration: contains milk and may contain soy.",
+      "form": "Powder",
+      "kg": 1,
+      "protein": 72.92,
+      "scoop": 35,
+      "serving": 35,
+      "energy": 381.02,
+      "type": "Whey",
+      "subclass": "Whey concentrate + vitamins/minerals",
+      "requiresProductReview": true,
+      "productReviewReason": "This fortified protein includes added iron/vitamins/minerals outside the current protein-only totals; review the full formulation and overlap before adding it to a stack.",
+      "additionalIngredients": [
+        {
+          "name": "Added vitamin/mineral formulation including iron",
+          "amount": null,
+          "unit": "label-specific",
+          "basis": "per label serving"
+        }
+      ],
+      "category": "protein",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-gold-100-whey-protein-concentrate?pId=6589930&vId=7221287",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-gold-100-whey-protein-concentrate?pId=6589930&vId=7221287",
+      "variantId": "7221287",
+      "productId": "6589930",
+      "variantSku": "NB-NUT-1061-06",
+      "variantAttributes": {
+        "pa_flavour": "Vanilla Ice Cream",
+        "pa_weight": "1 kg (2.2 lb)"
+      },
+      "cacheKey": "nutrabay-7221287",
+      "allowRetailMultipack": true,
+      "grams": 1000
+    },
+    {
+      "id": "protein-nb-7221520",
+      "brand": "Nutrabay",
+      "product": "Gold Whey Protein Concentrate",
+      "flavour": "Rich Chocolate Creme",
+      "packaging": "Jar",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1061-09-1756464116.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-gold-100-whey-protein-concentrate?pId=6589930&vId=7221520",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1061-09-1756464116.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results. Per 100 g: protein 71.65 g; energy 400.77 kcal; gram serving 35 g.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Label allergen declaration: contains milk and may contain soy.",
+      "form": "Powder",
+      "kg": 2,
+      "protein": 71.65,
+      "scoop": 35,
+      "serving": 35,
+      "energy": 400.77,
+      "type": "Whey",
+      "subclass": "Whey concentrate",
+      "additionalIngredients": [
+        {
+          "name": "Digestive enzyme blend",
+          "amount": 150,
+          "unit": "mg",
+          "basis": "per label serving"
+        }
+      ],
+      "category": "protein",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-gold-100-whey-protein-concentrate?pId=6589930&vId=7221520",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-gold-100-whey-protein-concentrate?pId=6589930&vId=7221520",
+      "variantId": "7221520",
+      "productId": "6589930",
+      "variantSku": "NB-NUT-1061-09",
+      "variantAttributes": {
+        "pa_flavour": "Rich Chocolate Creme",
+        "pa_weight": "2 kg (4.4 lb)"
+      },
+      "cacheKey": "nutrabay-7221520",
+      "allowRetailMultipack": true,
+      "grams": 2000
+    },
+    {
+      "id": "protein-nb-5552244",
+      "brand": "Nutrabay",
+      "product": "Gold Whey Protein Isolate",
+      "flavour": "Rich Chocolate Creme",
+      "packaging": "Jar",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1013-05-1768992862.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-gold-100-whey-protein-isolate?pId=3275798&vId=5552244",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1013-05-1768992862.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results. Per 100 g: protein 80.63 g; energy 357.22 kcal; gram serving 32 g.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Label allergen declaration: contains milk and may contain soy.",
+      "form": "Powder",
+      "kg": 1,
+      "protein": 80.63,
+      "scoop": 32,
+      "serving": 32,
+      "energy": 357.22,
+      "type": "Whey",
+      "subclass": "Whey isolate",
+      "additionalIngredients": [
+        {
+          "name": "Digestive enzyme blend",
+          "amount": 300,
+          "unit": "mg",
+          "basis": "per label serving"
+        }
+      ],
+      "category": "protein",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-gold-100-whey-protein-isolate?pId=3275798&vId=5552244",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-gold-100-whey-protein-isolate?pId=3275798&vId=5552244",
+      "variantId": "5552244",
+      "productId": "3275798",
+      "variantSku": "NB-NUT-1013-05",
+      "variantAttributes": {
+        "pa_flavour": "Rich Chocolate Creme",
+        "pa_weight": "1 kg (2.2 lb)"
+      },
+      "cacheKey": "nutrabay-5552244",
+      "allowRetailMultipack": true,
+      "grams": 1000
+    },
+    {
+      "id": "protein-nb-3701967",
+      "brand": "Nutrabay",
+      "product": "Gold Whey Protein Isolate",
+      "flavour": "Vanilla Ice Cream",
+      "packaging": "Jar",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1013-06-1768993158.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-gold-100-whey-protein-isolate?pId=3275798&vId=3701967",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1013-06-1768993158.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results. Per 100 g: protein 80.63 g; energy 357.22 kcal; gram serving 32 g.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Label allergen declaration: contains milk and may contain soy.",
+      "form": "Powder",
+      "kg": 1,
+      "protein": 80.63,
+      "scoop": 32,
+      "serving": 32,
+      "energy": 357.22,
+      "type": "Whey",
+      "subclass": "Whey isolate",
+      "additionalIngredients": [
+        {
+          "name": "Digestive enzyme blend",
+          "amount": 300,
+          "unit": "mg",
+          "basis": "per label serving"
+        }
+      ],
+      "category": "protein",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-gold-100-whey-protein-isolate?pId=3275798&vId=3701967",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-gold-100-whey-protein-isolate?pId=3275798&vId=3701967",
+      "variantId": "3701967",
+      "productId": "3275798",
+      "variantSku": "NB-NUT-1013-06",
+      "variantAttributes": {
+        "pa_flavour": "Vanilla Ice Cream",
+        "pa_weight": "1 kg (2.2 lb)"
+      },
+      "cacheKey": "nutrabay-3701967",
+      "allowRetailMultipack": true,
+      "grams": 1000
+    },
+    {
+      "id": "protein-nb-6257676",
+      "brand": "Nutrabay",
+      "product": "Gold Whey Protein Isolate",
+      "flavour": "Rich Chocolate Creme",
+      "packaging": "Jar",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1013-09-1768994386.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-gold-100-whey-protein-isolate?pId=3275798&vId=6257676",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1013-09-1768994386.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results. Per 100 g: protein 80.63 g; energy 357.22 kcal; gram serving 32 g.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Label allergen declaration: contains milk and may contain soy.",
+      "form": "Powder",
+      "kg": 2,
+      "protein": 80.63,
+      "scoop": 32,
+      "serving": 32,
+      "energy": 357.22,
+      "type": "Whey",
+      "subclass": "Whey isolate",
+      "additionalIngredients": [
+        {
+          "name": "Digestive enzyme blend",
+          "amount": 300,
+          "unit": "mg",
+          "basis": "per label serving"
+        }
+      ],
+      "category": "protein",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-gold-100-whey-protein-isolate?pId=3275798&vId=6257676",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-gold-100-whey-protein-isolate?pId=3275798&vId=6257676",
+      "variantId": "6257676",
+      "productId": "3275798",
+      "variantSku": "NB-NUT-1013-09",
+      "variantAttributes": {
+        "pa_flavour": "Rich Chocolate Creme",
+        "pa_weight": "2 kg (4.4 lb)"
+      },
+      "cacheKey": "nutrabay-6257676",
+      "allowRetailMultipack": true,
+      "grams": 2000
+    },
+    {
+      "id": "protein-nb-1313267",
+      "brand": "Nutrabay",
+      "product": "Gold Hydrolyzed Pea Protein",
+      "flavour": "Rich Chocolate Creme",
+      "packaging": "Jar",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1102-20-1790055219.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein?pId=3302532&vId=1313267",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1102-20-1790055219.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results. Per 100 g: protein 62.5 g; energy 337.1 kcal; gram serving 40 g.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Made in a facility processing milk, soy and nuts; a plant ingredient class is not an allergen-free certification.",
+      "form": "Powder",
+      "kg": 4,
+      "protein": 62.5,
+      "scoop": 40,
+      "serving": 40,
+      "energy": 337.1,
+      "type": "Plant",
+      "subclass": "Hydrolysed pea protein + soluble fibre",
+      "category": "protein",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein?pId=3302532&vId=1313267",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein?pId=3302532&vId=1313267",
+      "variantId": "1313267",
+      "productId": "3302532",
+      "variantSku": "NB-NUT-1102-20",
+      "variantAttributes": {
+        "pa_flavour": "Rich Chocolate Creme",
+        "pa_weight": "4 kg (8.8 lb)"
+      },
+      "cacheKey": "nutrabay-1313267",
+      "allowRetailMultipack": true,
+      "grams": 4000
+    },
+    {
+      "id": "protein-nb-8955092",
+      "brand": "Nutrabay",
+      "product": "Gold Hydrolyzed Pea Protein",
+      "flavour": "Rich Chocolate Creme",
+      "packaging": "Jar",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1102-02-1790054753.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein?pId=3302532&vId=8955092",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1102-02-1790054753.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results. Per 100 g: protein 62.5 g; energy 337.1 kcal; gram serving 40 g.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Made in a facility processing milk, soy and nuts; a plant ingredient class is not an allergen-free certification.",
+      "form": "Powder",
+      "kg": 1,
+      "protein": 62.5,
+      "scoop": 40,
+      "serving": 40,
+      "energy": 337.1,
+      "type": "Plant",
+      "subclass": "Hydrolysed pea protein + soluble fibre",
+      "category": "protein",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein?pId=3302532&vId=8955092",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein?pId=3302532&vId=8955092",
+      "variantId": "8955092",
+      "productId": "3302532",
+      "variantSku": "NB-NUT-1102-02",
+      "variantAttributes": {
+        "pa_flavour": "Rich Chocolate Creme",
+        "pa_weight": "1 kg (2.2 lb)"
+      },
+      "cacheKey": "nutrabay-8955092",
+      "allowRetailMultipack": true,
+      "grams": 1000
+    },
+    {
+      "id": "protein-nb-2915415",
+      "brand": "Nutrabay",
+      "product": "Gold Hydrolyzed Pea Protein",
+      "flavour": "French Vanilla",
+      "packaging": "Jar",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1102-04-1790054835.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein?pId=3302532&vId=2915415",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1102-04-1790054835.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results. Per 100 g: protein 62.5 g; energy 341.79 kcal; gram serving 40 g.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Made in a facility processing milk, soy and nuts; a plant ingredient class is not an allergen-free certification.",
+      "form": "Powder",
+      "kg": 1,
+      "protein": 62.5,
+      "scoop": 40,
+      "serving": 40,
+      "energy": 341.79,
+      "type": "Plant",
+      "subclass": "Hydrolysed pea protein + soluble fibre",
+      "category": "protein",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein?pId=3302532&vId=2915415",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein?pId=3302532&vId=2915415",
+      "variantId": "2915415",
+      "productId": "3302532",
+      "variantSku": "NB-NUT-1102-04",
+      "variantAttributes": {
+        "pa_flavour": "French Vanilla",
+        "pa_weight": "1 kg (2.2 lb)"
+      },
+      "cacheKey": "nutrabay-2915415",
+      "allowRetailMultipack": true,
+      "grams": 1000
+    },
+    {
+      "id": "creatine-nb-4130759",
+      "brand": "Nutrabay",
+      "product": "Gold Micronized Creatine Monohydrate",
+      "flavour": "Orange",
+      "packaging": "Jar",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_8-NB-NUT-1073-10-1772780562.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-gold-micronized-creatine-monohydrate?pId=4112332&vId=4130759",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_8-NB-NUT-1073-10-1772780562.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Flavoured label declares 3 g monohydrate per 4 g serving: 75% of product, not advertising purity of the starting material.",
+      "form": "Powder",
+      "grams": 200,
+      "type": "Monohydrate",
+      "subclass": "Micronized; flavoured blend",
+      "creatine": 75,
+      "scoop": 4,
+      "creatineServing": 3,
+      "energy": 0,
+      "category": "creatine",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-gold-micronized-creatine-monohydrate?pId=4112332&vId=4130759",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-gold-micronized-creatine-monohydrate?pId=4112332&vId=4130759",
+      "variantId": "4130759",
+      "productId": "4112332",
+      "variantSku": "NB-NUT-1073-10",
+      "variantAttributes": {
+        "pa_flavour": "Orange",
+        "pa_weight": "200 g (0.44 lb)"
+      },
+      "cacheKey": "nutrabay-4130759",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "creatine-nb-8012868",
+      "brand": "Nutrabay",
+      "product": "Gold Micronized Creatine Monohydrate",
+      "flavour": "Fruit Punch",
+      "packaging": "Jar",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_8-NB-NUT-1073-09-1779176794.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-gold-micronized-creatine-monohydrate?pId=4112332&vId=8012868",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_8-NB-NUT-1073-09-1779176794.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Flavoured label declares 3 g monohydrate per 4 g serving: 75% of product, not advertising purity of the starting material.",
+      "form": "Powder",
+      "grams": 250,
+      "type": "Monohydrate",
+      "subclass": "Micronized; flavoured blend",
+      "creatine": 75,
+      "scoop": 4,
+      "creatineServing": 3,
+      "energy": 0,
+      "category": "creatine",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-gold-micronized-creatine-monohydrate?pId=4112332&vId=8012868",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-gold-micronized-creatine-monohydrate?pId=4112332&vId=8012868",
+      "variantId": "8012868",
+      "productId": "4112332",
+      "variantSku": "NB-NUT-1073-09",
+      "variantAttributes": {
+        "pa_flavour": "Fruit Punch",
+        "pa_weight": "250 g (0.55 lb)"
+      },
+      "cacheKey": "nutrabay-8012868",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "creatine-nb-6667899",
+      "brand": "Nutrabay",
+      "product": "Gold Micronized Creatine Monohydrate",
+      "flavour": "Cola",
+      "packaging": "Jar",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_8-NB-NUT-1073-05-1779175771.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-gold-micronized-creatine-monohydrate?pId=4112332&vId=6667899",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_8-NB-NUT-1073-05-1779175771.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Flavoured label declares 3 g monohydrate per 4 g serving: 75% of product, not advertising purity of the starting material.",
+      "form": "Powder",
+      "grams": 120,
+      "type": "Monohydrate",
+      "subclass": "Micronized; flavoured blend",
+      "creatine": 75,
+      "scoop": 4,
+      "creatineServing": 3,
+      "energy": 0,
+      "category": "creatine",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-gold-micronized-creatine-monohydrate?pId=4112332&vId=6667899",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-gold-micronized-creatine-monohydrate?pId=4112332&vId=6667899",
+      "variantId": "6667899",
+      "productId": "4112332",
+      "variantSku": "NB-NUT-1073-05",
+      "variantAttributes": {
+        "pa_flavour": "Cola",
+        "pa_weight": "120 g (0.26 lb)"
+      },
+      "cacheKey": "nutrabay-6667899",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "creatine-nb-3038491",
+      "brand": "Nutrabay",
+      "product": "Gold Micronized Creatine Monohydrate",
+      "flavour": "Lemon",
+      "packaging": "Jar",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_8-NB-NUT-1073-06-1779175836.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-gold-micronized-creatine-monohydrate?pId=4112332&vId=3038491",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_8-NB-NUT-1073-06-1779175836.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Flavoured label declares 3 g monohydrate per 4 g serving: 75% of product, not advertising purity of the starting material.",
+      "form": "Powder",
+      "grams": 120,
+      "type": "Monohydrate",
+      "subclass": "Micronized; flavoured blend",
+      "creatine": 75,
+      "scoop": 4,
+      "creatineServing": 3,
+      "energy": 0,
+      "category": "creatine",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-gold-micronized-creatine-monohydrate?pId=4112332&vId=3038491",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-gold-micronized-creatine-monohydrate?pId=4112332&vId=3038491",
+      "variantId": "3038491",
+      "productId": "4112332",
+      "variantSku": "NB-NUT-1073-06",
+      "variantAttributes": {
+        "pa_flavour": "Lemon",
+        "pa_weight": "120 g (0.26 lb)"
+      },
+      "cacheKey": "nutrabay-3038491",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "protein-nb-4911744",
+      "brand": "Nutrabay",
+      "product": "Gold Tri-Blend Whey Protein",
+      "flavour": "Double Chocolate",
+      "packaging": "Jar",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/variant-9797-image_5-Nutrabay_Gold_TriBlend_Whey_Protein__1_Kg_22_Lb_Double_Chocolate.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-gold-tri-blend-whey-protein?pId=5912065&vId=4911744",
+        "https://cdn2.nutrabay.com/uploads/variant/images/variant-9797-image_5-Nutrabay_Gold_TriBlend_Whey_Protein__1_Kg_22_Lb_Double_Chocolate.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results. Per 100 g: protein 76.17 g; energy 401.92 kcal; gram serving 33 g.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. The blend contains whey concentrate, isolate and hydrolysate; component proportions are not disclosed. Label allergen declaration: contains milk and may contain soy.",
+      "form": "Powder",
+      "kg": 1,
+      "protein": 76.17,
+      "scoop": 33,
+      "serving": 33,
+      "energy": 401.92,
+      "type": "Whey",
+      "subclass": "Concentrate/isolate/hydrolysate blend + micronutrients",
+      "requiresProductReview": true,
+      "productReviewReason": "This fortified protein includes added iron/vitamins/minerals outside the current protein-only totals; review the full formulation and overlap before adding it to a stack.",
+      "additionalIngredients": [
+        {
+          "name": "Added vitamin/mineral formulation including iron",
+          "amount": null,
+          "unit": "label-specific",
+          "basis": "per label serving"
+        }
+      ],
+      "category": "protein",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-gold-tri-blend-whey-protein?pId=5912065&vId=4911744",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-gold-tri-blend-whey-protein?pId=5912065&vId=4911744",
+      "variantId": "4911744",
+      "productId": "5912065",
+      "variantSku": "NB-NUT-1014-05",
+      "variantAttributes": {
+        "pa_flavour": "Double Chocolate",
+        "pa_weight": "1 kg (2.2 lb)"
+      },
+      "cacheKey": "nutrabay-4911744",
+      "allowRetailMultipack": true,
+      "grams": 1000
+    },
+    {
+      "id": "protein-nb-6399708",
+      "brand": "Nutrabay",
+      "product": "Gold Tri-Blend Whey Protein",
+      "flavour": "Vanilla Ice Cream",
+      "packaging": "Jar",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/variant-9798-image_5-Nutrabay_Gold_TriBlend_Whey_Protein__1_Kg_22_Lb_Vanilla_Ice_Cream.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-gold-tri-blend-whey-protein?pId=5912065&vId=6399708",
+        "https://cdn2.nutrabay.com/uploads/variant/images/variant-9798-image_5-Nutrabay_Gold_TriBlend_Whey_Protein__1_Kg_22_Lb_Vanilla_Ice_Cream.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results. Per 100 g: protein 76.22 g; energy 386.67 kcal; gram serving 33 g.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. The blend contains whey concentrate, isolate and hydrolysate; component proportions are not disclosed. Label allergen declaration: contains milk and may contain soy.",
+      "form": "Powder",
+      "kg": 1,
+      "protein": 76.22,
+      "scoop": 33,
+      "serving": 33,
+      "energy": 386.67,
+      "type": "Whey",
+      "subclass": "Concentrate/isolate/hydrolysate blend + micronutrients",
+      "requiresProductReview": true,
+      "productReviewReason": "This fortified protein includes added iron/vitamins/minerals outside the current protein-only totals; review the full formulation and overlap before adding it to a stack.",
+      "additionalIngredients": [
+        {
+          "name": "Added vitamin/mineral formulation including iron",
+          "amount": null,
+          "unit": "label-specific",
+          "basis": "per label serving"
+        }
+      ],
+      "category": "protein",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-gold-tri-blend-whey-protein?pId=5912065&vId=6399708",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-gold-tri-blend-whey-protein?pId=5912065&vId=6399708",
+      "variantId": "6399708",
+      "productId": "5912065",
+      "variantSku": "NB-NUT-1014-06",
+      "variantAttributes": {
+        "pa_flavour": "Vanilla Ice Cream",
+        "pa_weight": "1 kg (2.2 lb)"
+      },
+      "cacheKey": "nutrabay-6399708",
+      "allowRetailMultipack": true,
+      "grams": 1000
+    },
+    {
+      "id": "protein-nb-4998274",
+      "brand": "Nutrabay",
+      "product": "Gold Tri-Blend Whey Protein",
+      "flavour": "Double Chocolate",
+      "packaging": "Jar",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/variant-9801-image_5-Nutrabay_Gold_TriBlend_Whey_Protein__2_Kg_44_Lb_Double_Chocolate.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-gold-tri-blend-whey-protein?pId=5912065&vId=4998274",
+        "https://cdn2.nutrabay.com/uploads/variant/images/variant-9801-image_5-Nutrabay_Gold_TriBlend_Whey_Protein__2_Kg_44_Lb_Double_Chocolate.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results. Per 100 g: protein 76.17 g; energy 401.92 kcal; gram serving 33 g.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. The blend contains whey concentrate, isolate and hydrolysate; component proportions are not disclosed. Label allergen declaration: contains milk and may contain soy.",
+      "form": "Powder",
+      "kg": 2,
+      "protein": 76.17,
+      "scoop": 33,
+      "serving": 33,
+      "energy": 401.92,
+      "type": "Whey",
+      "subclass": "Concentrate/isolate/hydrolysate blend + micronutrients",
+      "requiresProductReview": true,
+      "productReviewReason": "This fortified protein includes added iron/vitamins/minerals outside the current protein-only totals; review the full formulation and overlap before adding it to a stack.",
+      "additionalIngredients": [
+        {
+          "name": "Added vitamin/mineral formulation including iron",
+          "amount": null,
+          "unit": "label-specific",
+          "basis": "per label serving"
+        }
+      ],
+      "category": "protein",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-gold-tri-blend-whey-protein?pId=5912065&vId=4998274",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-gold-tri-blend-whey-protein?pId=5912065&vId=4998274",
+      "variantId": "4998274",
+      "productId": "5912065",
+      "variantSku": "NB-NUT-1014-09",
+      "variantAttributes": {
+        "pa_flavour": "Double Chocolate",
+        "pa_weight": "2 kg (4.4 lb)"
+      },
+      "cacheKey": "nutrabay-4998274",
+      "allowRetailMultipack": true,
+      "grams": 2000
+    },
+    {
+      "id": "protein-nb-9960505",
+      "brand": "Nutrabay",
+      "product": "Vital Whey Protein",
+      "flavour": "Belgian Chocolate",
+      "packaging": "Pouch",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_5-NB-NUT-1064-01-1758997491.jpg",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-gold-vital-whey-protein-for-beginners?pId=1048875&vId=9960505",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_5-NB-NUT-1064-01-1758997491.jpg"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results. Per 100 g: protein 40 g; energy 374.1 kcal; gram serving 50 g.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Label allergen declaration: contains milk and may contain soy.",
+      "form": "Powder",
+      "kg": 1,
+      "protein": 40,
+      "scoop": 50,
+      "serving": 50,
+      "energy": 374.1,
+      "type": "Milk",
+      "subclass": "Skim milk/milk concentrate/whey blend + micronutrients",
+      "requiresProductReview": true,
+      "productReviewReason": "This fortified protein includes added iron/vitamins/minerals outside the current protein-only totals; review the full formulation and overlap before adding it to a stack.",
+      "additionalIngredients": [
+        {
+          "name": "Added vitamin/mineral formulation including iron",
+          "amount": null,
+          "unit": "label-specific",
+          "basis": "per label serving"
+        }
+      ],
+      "category": "protein",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-gold-vital-whey-protein-for-beginners?pId=1048875&vId=9960505",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-gold-vital-whey-protein-for-beginners?pId=1048875&vId=9960505",
+      "variantId": "9960505",
+      "productId": "1048875",
+      "variantSku": "NB-NUT-1064-01",
+      "variantAttributes": {
+        "pa_flavour": "Belgian Chocolate",
+        "pa_weight": "1 kg (2.2 lb)"
+      },
+      "cacheKey": "nutrabay-9960505",
+      "allowRetailMultipack": true,
+      "grams": 1000
+    },
+    {
+      "id": "protein-nb-2200425",
+      "brand": "Nutrabay",
+      "product": "Vital Whey Protein",
+      "flavour": "Gourmet Vanilla",
+      "packaging": "Pouch",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_5-NB-NUT-1064-02-1758997724.jpg",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-gold-vital-whey-protein-for-beginners?pId=1048875&vId=2200425",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_5-NB-NUT-1064-02-1758997724.jpg"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results. Per 100 g: protein 40.36 g; energy 368.6 kcal; gram serving 50 g.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Label allergen declaration: contains milk and may contain soy.",
+      "form": "Powder",
+      "kg": 1,
+      "protein": 40.36,
+      "scoop": 50,
+      "serving": 50,
+      "energy": 368.6,
+      "type": "Milk",
+      "subclass": "Skim milk/milk concentrate/whey blend + micronutrients",
+      "requiresProductReview": true,
+      "productReviewReason": "This fortified protein includes added iron/vitamins/minerals outside the current protein-only totals; review the full formulation and overlap before adding it to a stack.",
+      "additionalIngredients": [
+        {
+          "name": "Added vitamin/mineral formulation including iron",
+          "amount": null,
+          "unit": "label-specific",
+          "basis": "per label serving"
+        }
+      ],
+      "category": "protein",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-gold-vital-whey-protein-for-beginners?pId=1048875&vId=2200425",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-gold-vital-whey-protein-for-beginners?pId=1048875&vId=2200425",
+      "variantId": "2200425",
+      "productId": "1048875",
+      "variantSku": "NB-NUT-1064-02",
+      "variantAttributes": {
+        "pa_flavour": "Gourmet Vanilla",
+        "pa_weight": "1 kg (2.2 lb)"
+      },
+      "cacheKey": "nutrabay-2200425",
+      "allowRetailMultipack": true,
+      "grams": 1000
+    },
+    {
+      "id": "creatine-nb-6910942",
+      "brand": "Nutrabay",
+      "product": "Pure Creatine Monohydrate Micronized",
+      "flavour": "Unflavoured",
+      "packaging": "Jar",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1009-06-1779174693.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate?pId=1903618&vId=6910942",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1009-06-1779174693.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Current panel declares monohydrate 96.8 g/100 g and fructooligosaccharides 0.1 g/3.1 g serving; not a 100% monohydrate product. Rounded 3 g/serve and per-100-g amounts are retained as approximate label inputs.",
+      "form": "Powder",
+      "grams": 150,
+      "type": "Monohydrate",
+      "subclass": "Micronized + FOS",
+      "creatine": 96.8,
+      "scoop": 3.1,
+      "creatineServing": 3,
+      "energy": 6.12,
+      "additionalIngredients": [
+        {
+          "name": "Fructooligosaccharides (FOS)",
+          "amount": 100,
+          "unit": "mg",
+          "basis": "per 3.1 g label serving"
+        }
+      ],
+      "category": "creatine",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate?pId=1903618&vId=6910942",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate?pId=1903618&vId=6910942",
+      "variantId": "6910942",
+      "productId": "1903618",
+      "variantSku": "NB-NUT-1009-06",
+      "variantAttributes": {
+        "pa_flavour": "Unflavoured",
+        "pa_weight": "150 g (0.33 lb)"
+      },
+      "cacheKey": "nutrabay-6910942",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "creatine-nb-2187639",
+      "brand": "Nutrabay",
+      "product": "Pure Creatine Monohydrate Micronized",
+      "flavour": "Unflavoured",
+      "packaging": "Pouch",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1009-03-1783670160.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate?pId=1903618&vId=2187639",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1009-03-1783670160.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Current panel declares monohydrate 96.8 g/100 g and fructooligosaccharides 0.1 g/3.1 g serving; not a 100% monohydrate product. Rounded 3 g/serve and per-100-g amounts are retained as approximate label inputs.",
+      "form": "Powder",
+      "grams": 100,
+      "type": "Monohydrate",
+      "subclass": "Micronized + FOS",
+      "creatine": 96.8,
+      "scoop": 3.1,
+      "creatineServing": 3,
+      "energy": 6.12,
+      "additionalIngredients": [
+        {
+          "name": "Fructooligosaccharides (FOS)",
+          "amount": 100,
+          "unit": "mg",
+          "basis": "per 3.1 g label serving"
+        }
+      ],
+      "category": "creatine",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate?pId=1903618&vId=2187639",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate?pId=1903618&vId=2187639",
+      "variantId": "2187639",
+      "productId": "1903618",
+      "variantSku": "NB-NUT-1009-03",
+      "variantAttributes": {
+        "pa_flavour": "Unflavoured",
+        "pa_weight": "100 g (0.22 lb)"
+      },
+      "cacheKey": "nutrabay-2187639",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "creatine-nb-4334621",
+      "brand": "Nutrabay",
+      "product": "Pure Creatine Monohydrate Micronized",
+      "flavour": "Unflavoured",
+      "packaging": "Jar",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1009-01-1779174488.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate?pId=1903618&vId=4334621",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1009-01-1779174488.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Current panel declares monohydrate 96.8 g/100 g and fructooligosaccharides 0.1 g/3.1 g serving; not a 100% monohydrate product. Rounded 3 g/serve and per-100-g amounts are retained as approximate label inputs.",
+      "form": "Powder",
+      "grams": 250,
+      "type": "Monohydrate",
+      "subclass": "Micronized + FOS",
+      "creatine": 96.8,
+      "scoop": 3.1,
+      "creatineServing": 3,
+      "energy": 6.12,
+      "additionalIngredients": [
+        {
+          "name": "Fructooligosaccharides (FOS)",
+          "amount": 100,
+          "unit": "mg",
+          "basis": "per 3.1 g label serving"
+        }
+      ],
+      "category": "creatine",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate?pId=1903618&vId=4334621",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate?pId=1903618&vId=4334621",
+      "variantId": "4334621",
+      "productId": "1903618",
+      "variantSku": "NB-NUT-1009-01",
+      "variantAttributes": {
+        "pa_flavour": "Unflavoured",
+        "pa_weight": "250 g (0.55 lb)"
+      },
+      "cacheKey": "nutrabay-4334621",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "creatine-nb-6150203",
+      "brand": "Nutrabay",
+      "product": "Pure Creatine Monohydrate Micronized",
+      "flavour": "Unflavoured",
+      "packaging": "Pouch",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn.nutrabay.com/wp-content/uploads/2019/11/NB-NUT-1009-02-updated.jpg",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate?pId=1903618&vId=6150203",
+        "https://cdn.nutrabay.com/wp-content/uploads/2019/11/NB-NUT-1009-02-updated.jpg"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. This selected 500 g legacy gallery declares only micronized monohydrate, 3 g per 3 g serving. Do not transfer its ingredient basis to the newer FOS blends.",
+      "form": "Powder",
+      "grams": 500,
+      "type": "Monohydrate",
+      "subclass": "Micronized; single ingredient (selected legacy pack)",
+      "creatine": 100,
+      "scoop": 3,
+      "creatineServing": 3,
+      "energy": null,
+      "category": "creatine",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate?pId=1903618&vId=6150203",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate?pId=1903618&vId=6150203",
+      "variantId": "6150203",
+      "productId": "1903618",
+      "variantSku": "NB-NUT-1009-02",
+      "variantAttributes": {
+        "pa_flavour": "Unflavoured",
+        "pa_weight": "500 g (1.1 lb)"
+      },
+      "cacheKey": "nutrabay-6150203",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "protein-nb-7978627",
+      "brand": "Nutrabay",
+      "product": "Pure Whey Protein Isolate",
+      "flavour": "Unflavoured",
+      "packaging": "Pouch",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1011-03-1784283121.jpg",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-whey-protein-isolate?pId=7220496&vId=7978627",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1011-03-1784283121.jpg"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results. Per 100 g: protein 88.9 g; energy 380 kcal; gram serving 30 g.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Conflict/rounding: the label declares protein 88.9 g/100 g and 26.5 g/30 g, which are not exactly proportional. The explicit per-100-g column is retained for concentration; computed scoop protein may differ. Label allergen declaration: contains milk and may contain soy.",
+      "form": "Powder",
+      "kg": 2,
+      "protein": 88.9,
+      "scoop": 30,
+      "serving": 30,
+      "energy": 380,
+      "type": "Whey",
+      "subclass": "Whey isolate",
+      "category": "protein",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-whey-protein-isolate?pId=7220496&vId=7978627",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-whey-protein-isolate?pId=7220496&vId=7978627",
+      "variantId": "7978627",
+      "productId": "7220496",
+      "variantSku": "NB-NUT-1011-03",
+      "variantAttributes": {
+        "pa_flavour": "Unflavoured",
+        "pa_weight": "2 kg (4.4 lb)"
+      },
+      "cacheKey": "nutrabay-7978627",
+      "allowRetailMultipack": true,
+      "grams": 2000
+    },
+    {
+      "id": "protein-nb-5454377",
+      "brand": "Nutrabay",
+      "product": "Pure Whey Protein Isolate",
+      "flavour": "Unflavoured",
+      "packaging": "Pouch",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/variant-11492-image_5-Nutrabay_Pure_Whey_Protein_Isolate__1_Kg_22_Lb_Unflavoured.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-whey-protein-isolate?pId=7220496&vId=5454377",
+        "https://cdn2.nutrabay.com/uploads/variant/images/variant-11492-image_5-Nutrabay_Pure_Whey_Protein_Isolate__1_Kg_22_Lb_Unflavoured.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results. Per 100 g: protein 88.9 g; energy 380 kcal; gram serving 30 g.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Conflict/rounding: the label declares protein 88.9 g/100 g and 26.5 g/30 g, which are not exactly proportional. The explicit per-100-g column is retained for concentration; computed scoop protein may differ. Label allergen declaration: contains milk and may contain soy.",
+      "form": "Powder",
+      "kg": 1,
+      "protein": 88.9,
+      "scoop": 30,
+      "serving": 30,
+      "energy": 380,
+      "type": "Whey",
+      "subclass": "Whey isolate",
+      "category": "protein",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-whey-protein-isolate?pId=7220496&vId=5454377",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-whey-protein-isolate?pId=7220496&vId=5454377",
+      "variantId": "5454377",
+      "productId": "7220496",
+      "variantSku": "NB-NUT-1011-01",
+      "variantAttributes": {
+        "pa_flavour": "Unflavoured",
+        "pa_weight": "1 kg (2.2 lb)"
+      },
+      "cacheKey": "nutrabay-5454377",
+      "allowRetailMultipack": true,
+      "grams": 1000
+    },
+    {
+      "id": "protein-nb-8626867",
+      "brand": "Nutrabay",
+      "product": "Pure Whey Protein Isolate",
+      "flavour": "Unflavoured",
+      "packaging": "Bucket",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/variant-29181-image_4-Nutrabay_Pure_Whey_Protein_Isolate__4_Kg_88_Lb_Unflavoured.jpg",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-whey-protein-isolate?pId=7220496&vId=8626867",
+        "https://cdn2.nutrabay.com/uploads/variant/images/variant-29181-image_4-Nutrabay_Pure_Whey_Protein_Isolate__4_Kg_88_Lb_Unflavoured.jpg"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results. Per 100 g: protein 88.9 g; energy 380 kcal; gram serving 30 g.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Conflict/rounding: the label declares protein 88.9 g/100 g and 26.5 g/30 g, which are not exactly proportional. The explicit per-100-g column is retained for concentration; computed scoop protein may differ. Label allergen declaration: contains milk and may contain soy.",
+      "form": "Powder",
+      "kg": 4,
+      "protein": 88.9,
+      "scoop": 30,
+      "serving": 30,
+      "energy": 380,
+      "type": "Whey",
+      "subclass": "Whey isolate",
+      "category": "protein",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-whey-protein-isolate?pId=7220496&vId=8626867",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-whey-protein-isolate?pId=7220496&vId=8626867",
+      "variantId": "8626867",
+      "productId": "7220496",
+      "variantSku": "NB-NUT-1011-06",
+      "variantAttributes": {
+        "pa_flavour": "Unflavoured",
+        "pa_weight": "4 kg (8.8 lb)"
+      },
+      "cacheKey": "nutrabay-8626867",
+      "allowRetailMultipack": true,
+      "grams": 4000
+    },
+    {
+      "id": "vitamin-b-nb-2635201",
+      "brand": "Nutrabay",
+      "product": "Nutrabay Multivitamin for Women",
+      "flavour": "Unflavoured",
+      "packaging": "Bottle",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1063-02-1795157170.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-pro-active-multivitamin-for-women/?pId=5454226&vId=2635201",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1063-02-1795157170.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Ingredients identify folic acid (n-pteroylglutamic acid) and plant-source vitamin D2 (ergocalciferol). Folate is not converted to DFE; vitamin D is not relabelled D3. Other unmodeled micronutrients, including iron, need overlap review.",
+      "form": "Tablet",
+      "servingUnits": 1,
+      "type": "Multivitamin/mineral blend",
+      "subclass": "Women formulation",
+      "vitaminB1Mg": 1.7,
+      "vitaminB2Mg": 2.4,
+      "vitaminB3Mg": 14,
+      "vitaminB5Mg": 5,
+      "vitaminB6Mg": 1.9,
+      "vitaminB12Mcg": 2.2,
+      "vitaminCMg": 65,
+      "biotinMcg": 40,
+      "folicAcidMcg": 220,
+      "vitaminDIu": 600,
+      "vitaminDMcg": 15,
+      "vitaminEMg": 10,
+      "calciumMg": 40,
+      "magnesiumMg": 30,
+      "zincMg": 13.2,
+      "mineralBasis": "elemental",
+      "energyPerServing": 0,
+      "additionalIngredients": [
+        {
+          "name": "Vitamin A (retinol)",
+          "amount": 840,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Iron",
+          "amount": 29,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Vitamin K1",
+          "amount": 55,
+          "unit": "mcg",
+          "basis": "per label serving"
+        }
+      ],
+      "declaredNutrients": [
+        "vitaminB1Mg",
+        "vitaminB2Mg",
+        "vitaminB3Mg",
+        "vitaminB5Mg",
+        "vitaminB6Mg",
+        "biotinMcg",
+        "folicAcidMcg",
+        "vitaminB12Mcg"
+      ],
+      "packCount": 30,
+      "category": "vitamin-b",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-pro-active-multivitamin-for-women/?pId=5454226&vId=2635201",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-pro-active-multivitamin-for-women/?pId=5454226&vId=2635201",
+      "variantId": "2635201",
+      "productId": "5454226",
+      "variantSku": "NB-NUT-1063-02",
+      "variantAttributes": {
+        "pa_pack-size": "30 Tabs"
+      },
+      "cacheKey": "nutrabay-2635201",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "vitamin-c-nb-2635201",
+      "brand": "Nutrabay",
+      "product": "Nutrabay Multivitamin for Women",
+      "flavour": "Unflavoured",
+      "packaging": "Bottle",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1063-02-1795157170.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-pro-active-multivitamin-for-women/?pId=5454226&vId=2635201",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1063-02-1795157170.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Ingredients identify folic acid (n-pteroylglutamic acid) and plant-source vitamin D2 (ergocalciferol). Folate is not converted to DFE; vitamin D is not relabelled D3. Other unmodeled micronutrients, including iron, need overlap review.",
+      "form": "Tablet",
+      "servingUnits": 1,
+      "type": "Multivitamin/mineral blend",
+      "subclass": "Women formulation",
+      "vitaminB1Mg": 1.7,
+      "vitaminB2Mg": 2.4,
+      "vitaminB3Mg": 14,
+      "vitaminB5Mg": 5,
+      "vitaminB6Mg": 1.9,
+      "vitaminB12Mcg": 2.2,
+      "vitaminCMg": 65,
+      "biotinMcg": 40,
+      "folicAcidMcg": 220,
+      "vitaminDIu": 600,
+      "vitaminDMcg": 15,
+      "vitaminEMg": 10,
+      "calciumMg": 40,
+      "magnesiumMg": 30,
+      "zincMg": 13.2,
+      "mineralBasis": "elemental",
+      "energyPerServing": 0,
+      "additionalIngredients": [
+        {
+          "name": "Vitamin A (retinol)",
+          "amount": 840,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Iron",
+          "amount": 29,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Vitamin K1",
+          "amount": 55,
+          "unit": "mcg",
+          "basis": "per label serving"
+        }
+      ],
+      "declaredNutrients": [
+        "vitaminCMg"
+      ],
+      "packCount": 30,
+      "category": "vitamin-c",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-pro-active-multivitamin-for-women/?pId=5454226&vId=2635201",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-pro-active-multivitamin-for-women/?pId=5454226&vId=2635201",
+      "variantId": "2635201",
+      "productId": "5454226",
+      "variantSku": "NB-NUT-1063-02",
+      "variantAttributes": {
+        "pa_pack-size": "30 Tabs"
+      },
+      "cacheKey": "nutrabay-2635201",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "biotin-nb-2635201",
+      "brand": "Nutrabay",
+      "product": "Nutrabay Multivitamin for Women",
+      "flavour": "Unflavoured",
+      "packaging": "Bottle",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1063-02-1795157170.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-pro-active-multivitamin-for-women/?pId=5454226&vId=2635201",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1063-02-1795157170.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Ingredients identify folic acid (n-pteroylglutamic acid) and plant-source vitamin D2 (ergocalciferol). Folate is not converted to DFE; vitamin D is not relabelled D3. Other unmodeled micronutrients, including iron, need overlap review.",
+      "form": "Tablet",
+      "servingUnits": 1,
+      "type": "Multivitamin/mineral blend",
+      "subclass": "Women formulation",
+      "vitaminB1Mg": 1.7,
+      "vitaminB2Mg": 2.4,
+      "vitaminB3Mg": 14,
+      "vitaminB5Mg": 5,
+      "vitaminB6Mg": 1.9,
+      "vitaminB12Mcg": 2.2,
+      "vitaminCMg": 65,
+      "biotinMcg": 40,
+      "folicAcidMcg": 220,
+      "vitaminDIu": 600,
+      "vitaminDMcg": 15,
+      "vitaminEMg": 10,
+      "calciumMg": 40,
+      "magnesiumMg": 30,
+      "zincMg": 13.2,
+      "mineralBasis": "elemental",
+      "energyPerServing": 0,
+      "additionalIngredients": [
+        {
+          "name": "Vitamin A (retinol)",
+          "amount": 840,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Iron",
+          "amount": 29,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Vitamin K1",
+          "amount": 55,
+          "unit": "mcg",
+          "basis": "per label serving"
+        }
+      ],
+      "declaredNutrients": [
+        "biotinMcg"
+      ],
+      "packCount": 30,
+      "category": "biotin",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-pro-active-multivitamin-for-women/?pId=5454226&vId=2635201",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-pro-active-multivitamin-for-women/?pId=5454226&vId=2635201",
+      "variantId": "2635201",
+      "productId": "5454226",
+      "variantSku": "NB-NUT-1063-02",
+      "variantAttributes": {
+        "pa_pack-size": "30 Tabs"
+      },
+      "cacheKey": "nutrabay-2635201",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "vitamin-d-nb-2635201",
+      "brand": "Nutrabay",
+      "product": "Nutrabay Multivitamin for Women",
+      "flavour": "Unflavoured",
+      "packaging": "Bottle",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1063-02-1795157170.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-pro-active-multivitamin-for-women/?pId=5454226&vId=2635201",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1063-02-1795157170.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Ingredients identify folic acid (n-pteroylglutamic acid) and plant-source vitamin D2 (ergocalciferol). Folate is not converted to DFE; vitamin D is not relabelled D3. Other unmodeled micronutrients, including iron, need overlap review.",
+      "form": "Tablet",
+      "servingUnits": 1,
+      "type": "D2 (ergocalciferol)",
+      "subclass": "Women formulation",
+      "vitaminB1Mg": 1.7,
+      "vitaminB2Mg": 2.4,
+      "vitaminB3Mg": 14,
+      "vitaminB5Mg": 5,
+      "vitaminB6Mg": 1.9,
+      "vitaminB12Mcg": 2.2,
+      "vitaminCMg": 65,
+      "biotinMcg": 40,
+      "folicAcidMcg": 220,
+      "vitaminDIu": 600,
+      "vitaminDMcg": 15,
+      "vitaminEMg": 10,
+      "calciumMg": 40,
+      "magnesiumMg": 30,
+      "zincMg": 13.2,
+      "mineralBasis": "elemental",
+      "energyPerServing": 0,
+      "additionalIngredients": [
+        {
+          "name": "Vitamin A (retinol)",
+          "amount": 840,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Iron",
+          "amount": 29,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Vitamin K1",
+          "amount": 55,
+          "unit": "mcg",
+          "basis": "per label serving"
+        }
+      ],
+      "declaredNutrients": [
+        "vitaminDIu",
+        "vitaminDMcg"
+      ],
+      "packCount": 30,
+      "category": "vitamin-d",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-pro-active-multivitamin-for-women/?pId=5454226&vId=2635201",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-pro-active-multivitamin-for-women/?pId=5454226&vId=2635201",
+      "variantId": "2635201",
+      "productId": "5454226",
+      "variantSku": "NB-NUT-1063-02",
+      "variantAttributes": {
+        "pa_pack-size": "30 Tabs"
+      },
+      "cacheKey": "nutrabay-2635201",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "folic-acid-nb-2635201",
+      "brand": "Nutrabay",
+      "product": "Nutrabay Multivitamin for Women",
+      "flavour": "Unflavoured",
+      "packaging": "Bottle",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1063-02-1795157170.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-pro-active-multivitamin-for-women/?pId=5454226&vId=2635201",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1063-02-1795157170.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Ingredients identify folic acid (n-pteroylglutamic acid) and plant-source vitamin D2 (ergocalciferol). Folate is not converted to DFE; vitamin D is not relabelled D3. Other unmodeled micronutrients, including iron, need overlap review.",
+      "form": "Tablet",
+      "servingUnits": 1,
+      "type": "Multivitamin/mineral blend",
+      "subclass": "Women formulation",
+      "vitaminB1Mg": 1.7,
+      "vitaminB2Mg": 2.4,
+      "vitaminB3Mg": 14,
+      "vitaminB5Mg": 5,
+      "vitaminB6Mg": 1.9,
+      "vitaminB12Mcg": 2.2,
+      "vitaminCMg": 65,
+      "biotinMcg": 40,
+      "folicAcidMcg": 220,
+      "vitaminDIu": 600,
+      "vitaminDMcg": 15,
+      "vitaminEMg": 10,
+      "calciumMg": 40,
+      "magnesiumMg": 30,
+      "zincMg": 13.2,
+      "mineralBasis": "elemental",
+      "energyPerServing": 0,
+      "additionalIngredients": [
+        {
+          "name": "Vitamin A (retinol)",
+          "amount": 840,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Iron",
+          "amount": 29,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Vitamin K1",
+          "amount": 55,
+          "unit": "mcg",
+          "basis": "per label serving"
+        }
+      ],
+      "declaredNutrients": [
+        "folicAcidMcg"
+      ],
+      "packCount": 30,
+      "category": "folic-acid",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-pro-active-multivitamin-for-women/?pId=5454226&vId=2635201",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-pro-active-multivitamin-for-women/?pId=5454226&vId=2635201",
+      "variantId": "2635201",
+      "productId": "5454226",
+      "variantSku": "NB-NUT-1063-02",
+      "variantAttributes": {
+        "pa_pack-size": "30 Tabs"
+      },
+      "cacheKey": "nutrabay-2635201",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "zmc-nb-2635201",
+      "brand": "Nutrabay",
+      "product": "Nutrabay Multivitamin for Women",
+      "flavour": "Unflavoured",
+      "packaging": "Bottle",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1063-02-1795157170.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-pro-active-multivitamin-for-women/?pId=5454226&vId=2635201",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1063-02-1795157170.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Ingredients identify folic acid (n-pteroylglutamic acid) and plant-source vitamin D2 (ergocalciferol). Folate is not converted to DFE; vitamin D is not relabelled D3. Other unmodeled micronutrients, including iron, need overlap review.",
+      "form": "Tablet",
+      "servingUnits": 1,
+      "type": "Multivitamin/mineral blend",
+      "subclass": "Women formulation",
+      "vitaminB1Mg": 1.7,
+      "vitaminB2Mg": 2.4,
+      "vitaminB3Mg": 14,
+      "vitaminB5Mg": 5,
+      "vitaminB6Mg": 1.9,
+      "vitaminB12Mcg": 2.2,
+      "vitaminCMg": 65,
+      "biotinMcg": 40,
+      "folicAcidMcg": 220,
+      "vitaminDIu": 600,
+      "vitaminDMcg": 15,
+      "vitaminEMg": 10,
+      "calciumMg": 40,
+      "magnesiumMg": 30,
+      "zincMg": 13.2,
+      "mineralBasis": "elemental",
+      "energyPerServing": 0,
+      "additionalIngredients": [
+        {
+          "name": "Vitamin A (retinol)",
+          "amount": 840,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Iron",
+          "amount": 29,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Vitamin K1",
+          "amount": 55,
+          "unit": "mcg",
+          "basis": "per label serving"
+        }
+      ],
+      "declaredNutrients": [
+        "calciumMg",
+        "magnesiumMg",
+        "zincMg",
+        "vitaminDIu"
+      ],
+      "packCount": 30,
+      "declaredActives": [
+        "calcium",
+        "magnesium",
+        "zinc"
+      ],
+      "category": "zmc",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-pro-active-multivitamin-for-women/?pId=5454226&vId=2635201",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-pro-active-multivitamin-for-women/?pId=5454226&vId=2635201",
+      "variantId": "2635201",
+      "productId": "5454226",
+      "variantSku": "NB-NUT-1063-02",
+      "variantAttributes": {
+        "pa_pack-size": "30 Tabs"
+      },
+      "cacheKey": "nutrabay-2635201",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "l-arginine-nb-2873071",
+      "brand": "Nutrabay",
+      "product": "Nutrabay L-Arginine - 1000mg",
+      "flavour": "Unflavoured",
+      "packaging": "Bottle",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn.nutrabay.com/wp-content/uploads/2023/03/NB-NUT-1058-01-04.jpg",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-pro-l-arginine-capsules-1000mg/?pId=4683112&vId=2873071",
+        "https://cdn.nutrabay.com/wp-content/uploads/2023/03/NB-NUT-1058-01-04.jpg"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts.",
+      "form": "Capsule",
+      "servingUnits": 2,
+      "type": "L-arginine",
+      "subclass": "Single amino acid",
+      "arginineMg": 1000,
+      "energyPerServing": 2.4,
+      "declaredNutrients": [
+        "arginineMg"
+      ],
+      "packCount": 60,
+      "category": "l-arginine",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-pro-l-arginine-capsules-1000mg/?pId=4683112&vId=2873071",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-pro-l-arginine-capsules-1000mg/?pId=4683112&vId=2873071",
+      "variantId": "2873071",
+      "productId": "4683112",
+      "variantSku": "NB-NUT-1058-01",
+      "variantAttributes": {
+        "pa_pack-size": "60 Caps"
+      },
+      "cacheKey": "nutrabay-2873071",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "eaa-nb-4588333",
+      "brand": "Nutrabay",
+      "product": "Nutrabay EAAs with Electrolytes (Essential Amino Acids)",
+      "flavour": "Lemon Lime",
+      "packaging": "Jar",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1059-01-1776681677.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-pro-eaas-with-electrolytes-essential-amino-acids/?pId=7318007&vId=4588333",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1059-01-1776681677.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Label total EAAs 7 g includes the BCAA subset 4.3 g; never add them together. Ingredients name lysine hydrochloride; this is not a measured free-amino-acid purity assay.",
+      "form": "Powder",
+      "servingGrams": 10,
+      "type": "Essential amino-acid mixture",
+      "subclass": "Nine EAAs + electrolytes",
+      "eaaMg": 7000,
+      "bcaaMg": 4300,
+      "leucineMg": 2130,
+      "isoleucineMg": 850,
+      "valineMg": 1320,
+      "energyPerServing": 12.3,
+      "additionalIngredients": [
+        {
+          "name": "Electrolyte ingredients (declared mixture)",
+          "amount": 900,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Sodium",
+          "amount": 180,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Potassium",
+          "amount": 156.9,
+          "unit": "mg",
+          "basis": "per label serving"
+        }
+      ],
+      "declaredNutrients": [
+        "eaaMg",
+        "bcaaMg",
+        "leucineMg",
+        "isoleucineMg",
+        "valineMg"
+      ],
+      "grams": 250,
+      "packCount": null,
+      "category": "eaa",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-pro-eaas-with-electrolytes-essential-amino-acids/?pId=7318007&vId=4588333",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-pro-eaas-with-electrolytes-essential-amino-acids/?pId=7318007&vId=4588333",
+      "variantId": "4588333",
+      "productId": "7318007",
+      "variantSku": "NB-NUT-1059-01",
+      "variantAttributes": {
+        "pa_flavour": "Lemon Lime",
+        "pa_weight": "250 g (0.55 lb)"
+      },
+      "cacheKey": "nutrabay-4588333",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "eaa-nb-5019049",
+      "brand": "Nutrabay",
+      "product": "Nutrabay EAAs with Electrolytes (Essential Amino Acids)",
+      "flavour": "Lychee Crush",
+      "packaging": "Jar",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1059-02-1776681832.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-pro-eaas-with-electrolytes-essential-amino-acids/?pId=7318007&vId=5019049",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1059-02-1776681832.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Label total EAAs 7 g includes the BCAA subset 4.3 g; never add them together. Ingredients name lysine hydrochloride; this is not a measured free-amino-acid purity assay.",
+      "form": "Powder",
+      "servingGrams": 10,
+      "type": "Essential amino-acid mixture",
+      "subclass": "Nine EAAs + electrolytes",
+      "eaaMg": 7000,
+      "bcaaMg": 4300,
+      "leucineMg": 2130,
+      "isoleucineMg": 850,
+      "valineMg": 1320,
+      "energyPerServing": 12.3,
+      "additionalIngredients": [
+        {
+          "name": "Electrolyte ingredients (declared mixture)",
+          "amount": 900,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Sodium",
+          "amount": 180,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Potassium",
+          "amount": 156.9,
+          "unit": "mg",
+          "basis": "per label serving"
+        }
+      ],
+      "declaredNutrients": [
+        "eaaMg",
+        "bcaaMg",
+        "leucineMg",
+        "isoleucineMg",
+        "valineMg"
+      ],
+      "grams": 250,
+      "packCount": null,
+      "category": "eaa",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-pro-eaas-with-electrolytes-essential-amino-acids/?pId=7318007&vId=5019049",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-pro-eaas-with-electrolytes-essential-amino-acids/?pId=7318007&vId=5019049",
+      "variantId": "5019049",
+      "productId": "7318007",
+      "variantSku": "NB-NUT-1059-02",
+      "variantAttributes": {
+        "pa_flavour": "Lychee Crush",
+        "pa_weight": "250 g (0.55 lb)"
+      },
+      "cacheKey": "nutrabay-5019049",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "ashwagandha-nb-9923251",
+      "brand": "Nutrabay",
+      "product": "Nutrabay Ashwagandha Extract (Withania Somnifera) 1000mg",
+      "flavour": "Unflavoured",
+      "packaging": "Bottle",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1035-02-1769691882.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-wellness-ashwagandha-extract-withania-somnifera-1000mg/?pId=4623336&vId=9923251",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1035-02-1769691882.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts.",
+      "form": "Tablet",
+      "servingUnits": 2,
+      "type": "Standardized root extract",
+      "subclass": "2.5% withanolides",
+      "ashwagandhaMg": 1000,
+      "standardizedExtractMg": 1000,
+      "withanolidesPct": 2.5,
+      "energyPerServing": 2.8,
+      "declaredNutrients": [
+        "ashwagandhaMg",
+        "withanolidesPct",
+        "standardizedExtractMg"
+      ],
+      "packCount": 60,
+      "category": "ashwagandha",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-wellness-ashwagandha-extract-withania-somnifera-1000mg/?pId=4623336&vId=9923251",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-wellness-ashwagandha-extract-withania-somnifera-1000mg/?pId=4623336&vId=9923251",
+      "variantId": "9923251",
+      "productId": "4623336",
+      "variantSku": "NB-NUT-1035-02",
+      "variantAttributes": {
+        "pa_pack-size": "60 Tabs"
+      },
+      "cacheKey": "nutrabay-9923251",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "fish-oil-nb-6255885",
+      "brand": "Nutrabay",
+      "product": "Nutrabay Fish Oil Omega 3 (Triple Strength) - 1250mg",
+      "flavour": "Unflavoured",
+      "packaging": "Bottle",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1027-01.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-pro-fish-oil-triple-strength-1000mg/?pId=8472748&vId=6255885",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1027-01.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "The label lists 900 mg total omega-3, but EPA 460 + DHA 380 = 840 mg. Active comparison uses EPA+DHA, not total omega-3 or 1250 mg fish oil. Contains fish and gelatin.",
+      "form": "Softgel",
+      "servingUnits": 1,
+      "type": "Fish oil; lipid ester form not specified",
+      "subclass": "Concentrated EPA+DHA",
+      "fishOilMg": 1250,
+      "epaMg": 460,
+      "dhaMg": 380,
+      "energyPerServing": 16.11,
+      "declaredNutrients": [
+        "epaMg",
+        "dhaMg",
+        "fishOilMg"
+      ],
+      "packCount": 60,
+      "category": "fish-oil",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-pro-fish-oil-triple-strength-1000mg/?pId=8472748&vId=6255885",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-pro-fish-oil-triple-strength-1000mg/?pId=8472748&vId=6255885",
+      "variantId": "6255885",
+      "productId": "8472748",
+      "variantSku": "NB-NUT-1027-01",
+      "variantAttributes": {
+        "pa_pack-size": "60 Caps"
+      },
+      "cacheKey": "nutrabay-6255885",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "fish-oil-nb-5733502",
+      "brand": "Nutrabay",
+      "product": "Nutrabay Fish Oil Omega 3 - 1000mg",
+      "flavour": "Unflavoured",
+      "packaging": "Bottle",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1031-01.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-wellness-fish-oil-1000mg/?pId=5856792&vId=5733502",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1031-01.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "The label lists 320 mg total omega-3; EPA 180 + DHA 120 = 300 mg. The remaining fatty acids are not reassigned to EPA/DHA. Contains fish and gelatin.",
+      "form": "Softgel",
+      "servingUnits": 1,
+      "type": "Fish oil; lipid ester form not specified",
+      "subclass": "Standard EPA+DHA",
+      "fishOilMg": 1000,
+      "epaMg": 180,
+      "dhaMg": 120,
+      "energyPerServing": 13.03,
+      "declaredNutrients": [
+        "epaMg",
+        "dhaMg",
+        "fishOilMg"
+      ],
+      "packCount": 60,
+      "category": "fish-oil",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-wellness-fish-oil-1000mg/?pId=5856792&vId=5733502",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-wellness-fish-oil-1000mg/?pId=5856792&vId=5733502",
+      "variantId": "5733502",
+      "productId": "5856792",
+      "variantSku": "NB-NUT-1031-01",
+      "variantAttributes": {
+        "pa_pack-size": "60 Caps"
+      },
+      "cacheKey": "nutrabay-5733502",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "vitamin-b-nb-4725286",
+      "brand": "Nutrabay",
+      "product": "Nutrabay Multivitamin for Men",
+      "flavour": "Unflavoured",
+      "packaging": "Bottle",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1026-03-1795156599.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-pro-multivitamin-for-men/?pId=9397469&vId=4725286",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1026-03-1795156599.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Ingredients identify folic acid (n-pteroylglutamic acid) and plant-source vitamin D2 (ergocalciferol). Folate is not converted to DFE; vitamin D is not relabelled D3. Other unmodeled micronutrients, including iron, need overlap review.",
+      "form": "Tablet",
+      "servingUnits": 1,
+      "type": "Multivitamin/mineral blend",
+      "subclass": "Men formulation",
+      "vitaminB1Mg": 1.8,
+      "vitaminB2Mg": 2.5,
+      "vitaminB3Mg": 18,
+      "vitaminB5Mg": 5,
+      "vitaminB6Mg": 2.4,
+      "vitaminB12Mcg": 2.2,
+      "vitaminCMg": 80,
+      "biotinMcg": 40,
+      "folicAcidMcg": 300,
+      "vitaminDIu": 600,
+      "vitaminDMcg": 15,
+      "vitaminEMg": 10,
+      "calciumMg": 40,
+      "magnesiumMg": 38,
+      "zincMg": 17,
+      "mineralBasis": "elemental",
+      "energyPerServing": 0.57,
+      "additionalIngredients": [
+        {
+          "name": "Vitamin A (retinol)",
+          "amount": 1000,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Beta-carotene",
+          "amount": 1000,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Iron",
+          "amount": 19,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Choline",
+          "amount": 50,
+          "unit": "mg",
+          "basis": "per label serving"
+        }
+      ],
+      "declaredNutrients": [
+        "vitaminB1Mg",
+        "vitaminB2Mg",
+        "vitaminB3Mg",
+        "vitaminB5Mg",
+        "vitaminB6Mg",
+        "biotinMcg",
+        "folicAcidMcg",
+        "vitaminB12Mcg"
+      ],
+      "packCount": 60,
+      "category": "vitamin-b",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-pro-multivitamin-for-men/?pId=9397469&vId=4725286",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-pro-multivitamin-for-men/?pId=9397469&vId=4725286",
+      "variantId": "4725286",
+      "productId": "9397469",
+      "variantSku": "NB-NUT-1026-03",
+      "variantAttributes": {
+        "pa_pack-size": "60 Tabs"
+      },
+      "cacheKey": "nutrabay-4725286",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "vitamin-c-nb-4725286",
+      "brand": "Nutrabay",
+      "product": "Nutrabay Multivitamin for Men",
+      "flavour": "Unflavoured",
+      "packaging": "Bottle",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1026-03-1795156599.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-pro-multivitamin-for-men/?pId=9397469&vId=4725286",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1026-03-1795156599.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Ingredients identify folic acid (n-pteroylglutamic acid) and plant-source vitamin D2 (ergocalciferol). Folate is not converted to DFE; vitamin D is not relabelled D3. Other unmodeled micronutrients, including iron, need overlap review.",
+      "form": "Tablet",
+      "servingUnits": 1,
+      "type": "Multivitamin/mineral blend",
+      "subclass": "Men formulation",
+      "vitaminB1Mg": 1.8,
+      "vitaminB2Mg": 2.5,
+      "vitaminB3Mg": 18,
+      "vitaminB5Mg": 5,
+      "vitaminB6Mg": 2.4,
+      "vitaminB12Mcg": 2.2,
+      "vitaminCMg": 80,
+      "biotinMcg": 40,
+      "folicAcidMcg": 300,
+      "vitaminDIu": 600,
+      "vitaminDMcg": 15,
+      "vitaminEMg": 10,
+      "calciumMg": 40,
+      "magnesiumMg": 38,
+      "zincMg": 17,
+      "mineralBasis": "elemental",
+      "energyPerServing": 0.57,
+      "additionalIngredients": [
+        {
+          "name": "Vitamin A (retinol)",
+          "amount": 1000,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Beta-carotene",
+          "amount": 1000,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Iron",
+          "amount": 19,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Choline",
+          "amount": 50,
+          "unit": "mg",
+          "basis": "per label serving"
+        }
+      ],
+      "declaredNutrients": [
+        "vitaminCMg"
+      ],
+      "packCount": 60,
+      "category": "vitamin-c",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-pro-multivitamin-for-men/?pId=9397469&vId=4725286",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-pro-multivitamin-for-men/?pId=9397469&vId=4725286",
+      "variantId": "4725286",
+      "productId": "9397469",
+      "variantSku": "NB-NUT-1026-03",
+      "variantAttributes": {
+        "pa_pack-size": "60 Tabs"
+      },
+      "cacheKey": "nutrabay-4725286",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "biotin-nb-4725286",
+      "brand": "Nutrabay",
+      "product": "Nutrabay Multivitamin for Men",
+      "flavour": "Unflavoured",
+      "packaging": "Bottle",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1026-03-1795156599.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-pro-multivitamin-for-men/?pId=9397469&vId=4725286",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1026-03-1795156599.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Ingredients identify folic acid (n-pteroylglutamic acid) and plant-source vitamin D2 (ergocalciferol). Folate is not converted to DFE; vitamin D is not relabelled D3. Other unmodeled micronutrients, including iron, need overlap review.",
+      "form": "Tablet",
+      "servingUnits": 1,
+      "type": "Multivitamin/mineral blend",
+      "subclass": "Men formulation",
+      "vitaminB1Mg": 1.8,
+      "vitaminB2Mg": 2.5,
+      "vitaminB3Mg": 18,
+      "vitaminB5Mg": 5,
+      "vitaminB6Mg": 2.4,
+      "vitaminB12Mcg": 2.2,
+      "vitaminCMg": 80,
+      "biotinMcg": 40,
+      "folicAcidMcg": 300,
+      "vitaminDIu": 600,
+      "vitaminDMcg": 15,
+      "vitaminEMg": 10,
+      "calciumMg": 40,
+      "magnesiumMg": 38,
+      "zincMg": 17,
+      "mineralBasis": "elemental",
+      "energyPerServing": 0.57,
+      "additionalIngredients": [
+        {
+          "name": "Vitamin A (retinol)",
+          "amount": 1000,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Beta-carotene",
+          "amount": 1000,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Iron",
+          "amount": 19,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Choline",
+          "amount": 50,
+          "unit": "mg",
+          "basis": "per label serving"
+        }
+      ],
+      "declaredNutrients": [
+        "biotinMcg"
+      ],
+      "packCount": 60,
+      "category": "biotin",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-pro-multivitamin-for-men/?pId=9397469&vId=4725286",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-pro-multivitamin-for-men/?pId=9397469&vId=4725286",
+      "variantId": "4725286",
+      "productId": "9397469",
+      "variantSku": "NB-NUT-1026-03",
+      "variantAttributes": {
+        "pa_pack-size": "60 Tabs"
+      },
+      "cacheKey": "nutrabay-4725286",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "vitamin-d-nb-4725286",
+      "brand": "Nutrabay",
+      "product": "Nutrabay Multivitamin for Men",
+      "flavour": "Unflavoured",
+      "packaging": "Bottle",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1026-03-1795156599.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-pro-multivitamin-for-men/?pId=9397469&vId=4725286",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1026-03-1795156599.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Ingredients identify folic acid (n-pteroylglutamic acid) and plant-source vitamin D2 (ergocalciferol). Folate is not converted to DFE; vitamin D is not relabelled D3. Other unmodeled micronutrients, including iron, need overlap review.",
+      "form": "Tablet",
+      "servingUnits": 1,
+      "type": "D2 (ergocalciferol)",
+      "subclass": "Men formulation",
+      "vitaminB1Mg": 1.8,
+      "vitaminB2Mg": 2.5,
+      "vitaminB3Mg": 18,
+      "vitaminB5Mg": 5,
+      "vitaminB6Mg": 2.4,
+      "vitaminB12Mcg": 2.2,
+      "vitaminCMg": 80,
+      "biotinMcg": 40,
+      "folicAcidMcg": 300,
+      "vitaminDIu": 600,
+      "vitaminDMcg": 15,
+      "vitaminEMg": 10,
+      "calciumMg": 40,
+      "magnesiumMg": 38,
+      "zincMg": 17,
+      "mineralBasis": "elemental",
+      "energyPerServing": 0.57,
+      "additionalIngredients": [
+        {
+          "name": "Vitamin A (retinol)",
+          "amount": 1000,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Beta-carotene",
+          "amount": 1000,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Iron",
+          "amount": 19,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Choline",
+          "amount": 50,
+          "unit": "mg",
+          "basis": "per label serving"
+        }
+      ],
+      "declaredNutrients": [
+        "vitaminDIu",
+        "vitaminDMcg"
+      ],
+      "packCount": 60,
+      "category": "vitamin-d",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-pro-multivitamin-for-men/?pId=9397469&vId=4725286",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-pro-multivitamin-for-men/?pId=9397469&vId=4725286",
+      "variantId": "4725286",
+      "productId": "9397469",
+      "variantSku": "NB-NUT-1026-03",
+      "variantAttributes": {
+        "pa_pack-size": "60 Tabs"
+      },
+      "cacheKey": "nutrabay-4725286",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "folic-acid-nb-4725286",
+      "brand": "Nutrabay",
+      "product": "Nutrabay Multivitamin for Men",
+      "flavour": "Unflavoured",
+      "packaging": "Bottle",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1026-03-1795156599.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-pro-multivitamin-for-men/?pId=9397469&vId=4725286",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1026-03-1795156599.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Ingredients identify folic acid (n-pteroylglutamic acid) and plant-source vitamin D2 (ergocalciferol). Folate is not converted to DFE; vitamin D is not relabelled D3. Other unmodeled micronutrients, including iron, need overlap review.",
+      "form": "Tablet",
+      "servingUnits": 1,
+      "type": "Multivitamin/mineral blend",
+      "subclass": "Men formulation",
+      "vitaminB1Mg": 1.8,
+      "vitaminB2Mg": 2.5,
+      "vitaminB3Mg": 18,
+      "vitaminB5Mg": 5,
+      "vitaminB6Mg": 2.4,
+      "vitaminB12Mcg": 2.2,
+      "vitaminCMg": 80,
+      "biotinMcg": 40,
+      "folicAcidMcg": 300,
+      "vitaminDIu": 600,
+      "vitaminDMcg": 15,
+      "vitaminEMg": 10,
+      "calciumMg": 40,
+      "magnesiumMg": 38,
+      "zincMg": 17,
+      "mineralBasis": "elemental",
+      "energyPerServing": 0.57,
+      "additionalIngredients": [
+        {
+          "name": "Vitamin A (retinol)",
+          "amount": 1000,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Beta-carotene",
+          "amount": 1000,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Iron",
+          "amount": 19,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Choline",
+          "amount": 50,
+          "unit": "mg",
+          "basis": "per label serving"
+        }
+      ],
+      "declaredNutrients": [
+        "folicAcidMcg"
+      ],
+      "packCount": 60,
+      "category": "folic-acid",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-pro-multivitamin-for-men/?pId=9397469&vId=4725286",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-pro-multivitamin-for-men/?pId=9397469&vId=4725286",
+      "variantId": "4725286",
+      "productId": "9397469",
+      "variantSku": "NB-NUT-1026-03",
+      "variantAttributes": {
+        "pa_pack-size": "60 Tabs"
+      },
+      "cacheKey": "nutrabay-4725286",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "zmc-nb-4725286",
+      "brand": "Nutrabay",
+      "product": "Nutrabay Multivitamin for Men",
+      "flavour": "Unflavoured",
+      "packaging": "Bottle",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1026-03-1795156599.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-pro-multivitamin-for-men/?pId=9397469&vId=4725286",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1026-03-1795156599.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Ingredients identify folic acid (n-pteroylglutamic acid) and plant-source vitamin D2 (ergocalciferol). Folate is not converted to DFE; vitamin D is not relabelled D3. Other unmodeled micronutrients, including iron, need overlap review.",
+      "form": "Tablet",
+      "servingUnits": 1,
+      "type": "Multivitamin/mineral blend",
+      "subclass": "Men formulation",
+      "vitaminB1Mg": 1.8,
+      "vitaminB2Mg": 2.5,
+      "vitaminB3Mg": 18,
+      "vitaminB5Mg": 5,
+      "vitaminB6Mg": 2.4,
+      "vitaminB12Mcg": 2.2,
+      "vitaminCMg": 80,
+      "biotinMcg": 40,
+      "folicAcidMcg": 300,
+      "vitaminDIu": 600,
+      "vitaminDMcg": 15,
+      "vitaminEMg": 10,
+      "calciumMg": 40,
+      "magnesiumMg": 38,
+      "zincMg": 17,
+      "mineralBasis": "elemental",
+      "energyPerServing": 0.57,
+      "additionalIngredients": [
+        {
+          "name": "Vitamin A (retinol)",
+          "amount": 1000,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Beta-carotene",
+          "amount": 1000,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Iron",
+          "amount": 19,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Choline",
+          "amount": 50,
+          "unit": "mg",
+          "basis": "per label serving"
+        }
+      ],
+      "declaredNutrients": [
+        "calciumMg",
+        "magnesiumMg",
+        "zincMg",
+        "vitaminDIu"
+      ],
+      "packCount": 60,
+      "declaredActives": [
+        "calcium",
+        "magnesium",
+        "zinc"
+      ],
+      "category": "zmc",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-pro-multivitamin-for-men/?pId=9397469&vId=4725286",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-pro-multivitamin-for-men/?pId=9397469&vId=4725286",
+      "variantId": "4725286",
+      "productId": "9397469",
+      "variantSku": "NB-NUT-1026-03",
+      "variantAttributes": {
+        "pa_pack-size": "60 Tabs"
+      },
+      "cacheKey": "nutrabay-4725286",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "vitamin-b-nb-2588760",
+      "brand": "Nutrabay",
+      "product": "Nutrabay Multivitamin for Men",
+      "flavour": "Unflavoured",
+      "packaging": "Bottle",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1026-04-1795156700.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-pro-multivitamin-for-men/?pId=9397469&vId=2588760",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1026-04-1795156700.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Ingredients identify folic acid (n-pteroylglutamic acid) and plant-source vitamin D2 (ergocalciferol). Folate is not converted to DFE; vitamin D is not relabelled D3. Other unmodeled micronutrients, including iron, need overlap review.",
+      "form": "Tablet",
+      "servingUnits": 1,
+      "type": "Multivitamin/mineral blend",
+      "subclass": "Men formulation",
+      "vitaminB1Mg": 1.8,
+      "vitaminB2Mg": 2.5,
+      "vitaminB3Mg": 18,
+      "vitaminB5Mg": 5,
+      "vitaminB6Mg": 2.4,
+      "vitaminB12Mcg": 2.2,
+      "vitaminCMg": 80,
+      "biotinMcg": 40,
+      "folicAcidMcg": 300,
+      "vitaminDIu": 600,
+      "vitaminDMcg": 15,
+      "vitaminEMg": 10,
+      "calciumMg": 40,
+      "magnesiumMg": 38,
+      "zincMg": 17,
+      "mineralBasis": "elemental",
+      "energyPerServing": 0.57,
+      "additionalIngredients": [
+        {
+          "name": "Vitamin A (retinol)",
+          "amount": 1000,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Beta-carotene",
+          "amount": 1000,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Iron",
+          "amount": 19,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Choline",
+          "amount": 50,
+          "unit": "mg",
+          "basis": "per label serving"
+        }
+      ],
+      "declaredNutrients": [
+        "vitaminB1Mg",
+        "vitaminB2Mg",
+        "vitaminB3Mg",
+        "vitaminB5Mg",
+        "vitaminB6Mg",
+        "biotinMcg",
+        "folicAcidMcg",
+        "vitaminB12Mcg"
+      ],
+      "packCount": 120,
+      "category": "vitamin-b",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-pro-multivitamin-for-men/?pId=9397469&vId=2588760",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-pro-multivitamin-for-men/?pId=9397469&vId=2588760",
+      "variantId": "2588760",
+      "productId": "9397469",
+      "variantSku": "NB-NUT-1026-04",
+      "variantAttributes": {
+        "pa_pack-size": "120 Tabs"
+      },
+      "cacheKey": "nutrabay-2588760",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "vitamin-c-nb-2588760",
+      "brand": "Nutrabay",
+      "product": "Nutrabay Multivitamin for Men",
+      "flavour": "Unflavoured",
+      "packaging": "Bottle",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1026-04-1795156700.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-pro-multivitamin-for-men/?pId=9397469&vId=2588760",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1026-04-1795156700.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Ingredients identify folic acid (n-pteroylglutamic acid) and plant-source vitamin D2 (ergocalciferol). Folate is not converted to DFE; vitamin D is not relabelled D3. Other unmodeled micronutrients, including iron, need overlap review.",
+      "form": "Tablet",
+      "servingUnits": 1,
+      "type": "Multivitamin/mineral blend",
+      "subclass": "Men formulation",
+      "vitaminB1Mg": 1.8,
+      "vitaminB2Mg": 2.5,
+      "vitaminB3Mg": 18,
+      "vitaminB5Mg": 5,
+      "vitaminB6Mg": 2.4,
+      "vitaminB12Mcg": 2.2,
+      "vitaminCMg": 80,
+      "biotinMcg": 40,
+      "folicAcidMcg": 300,
+      "vitaminDIu": 600,
+      "vitaminDMcg": 15,
+      "vitaminEMg": 10,
+      "calciumMg": 40,
+      "magnesiumMg": 38,
+      "zincMg": 17,
+      "mineralBasis": "elemental",
+      "energyPerServing": 0.57,
+      "additionalIngredients": [
+        {
+          "name": "Vitamin A (retinol)",
+          "amount": 1000,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Beta-carotene",
+          "amount": 1000,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Iron",
+          "amount": 19,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Choline",
+          "amount": 50,
+          "unit": "mg",
+          "basis": "per label serving"
+        }
+      ],
+      "declaredNutrients": [
+        "vitaminCMg"
+      ],
+      "packCount": 120,
+      "category": "vitamin-c",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-pro-multivitamin-for-men/?pId=9397469&vId=2588760",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-pro-multivitamin-for-men/?pId=9397469&vId=2588760",
+      "variantId": "2588760",
+      "productId": "9397469",
+      "variantSku": "NB-NUT-1026-04",
+      "variantAttributes": {
+        "pa_pack-size": "120 Tabs"
+      },
+      "cacheKey": "nutrabay-2588760",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "biotin-nb-2588760",
+      "brand": "Nutrabay",
+      "product": "Nutrabay Multivitamin for Men",
+      "flavour": "Unflavoured",
+      "packaging": "Bottle",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1026-04-1795156700.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-pro-multivitamin-for-men/?pId=9397469&vId=2588760",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1026-04-1795156700.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Ingredients identify folic acid (n-pteroylglutamic acid) and plant-source vitamin D2 (ergocalciferol). Folate is not converted to DFE; vitamin D is not relabelled D3. Other unmodeled micronutrients, including iron, need overlap review.",
+      "form": "Tablet",
+      "servingUnits": 1,
+      "type": "Multivitamin/mineral blend",
+      "subclass": "Men formulation",
+      "vitaminB1Mg": 1.8,
+      "vitaminB2Mg": 2.5,
+      "vitaminB3Mg": 18,
+      "vitaminB5Mg": 5,
+      "vitaminB6Mg": 2.4,
+      "vitaminB12Mcg": 2.2,
+      "vitaminCMg": 80,
+      "biotinMcg": 40,
+      "folicAcidMcg": 300,
+      "vitaminDIu": 600,
+      "vitaminDMcg": 15,
+      "vitaminEMg": 10,
+      "calciumMg": 40,
+      "magnesiumMg": 38,
+      "zincMg": 17,
+      "mineralBasis": "elemental",
+      "energyPerServing": 0.57,
+      "additionalIngredients": [
+        {
+          "name": "Vitamin A (retinol)",
+          "amount": 1000,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Beta-carotene",
+          "amount": 1000,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Iron",
+          "amount": 19,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Choline",
+          "amount": 50,
+          "unit": "mg",
+          "basis": "per label serving"
+        }
+      ],
+      "declaredNutrients": [
+        "biotinMcg"
+      ],
+      "packCount": 120,
+      "category": "biotin",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-pro-multivitamin-for-men/?pId=9397469&vId=2588760",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-pro-multivitamin-for-men/?pId=9397469&vId=2588760",
+      "variantId": "2588760",
+      "productId": "9397469",
+      "variantSku": "NB-NUT-1026-04",
+      "variantAttributes": {
+        "pa_pack-size": "120 Tabs"
+      },
+      "cacheKey": "nutrabay-2588760",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "vitamin-d-nb-2588760",
+      "brand": "Nutrabay",
+      "product": "Nutrabay Multivitamin for Men",
+      "flavour": "Unflavoured",
+      "packaging": "Bottle",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1026-04-1795156700.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-pro-multivitamin-for-men/?pId=9397469&vId=2588760",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1026-04-1795156700.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Ingredients identify folic acid (n-pteroylglutamic acid) and plant-source vitamin D2 (ergocalciferol). Folate is not converted to DFE; vitamin D is not relabelled D3. Other unmodeled micronutrients, including iron, need overlap review.",
+      "form": "Tablet",
+      "servingUnits": 1,
+      "type": "D2 (ergocalciferol)",
+      "subclass": "Men formulation",
+      "vitaminB1Mg": 1.8,
+      "vitaminB2Mg": 2.5,
+      "vitaminB3Mg": 18,
+      "vitaminB5Mg": 5,
+      "vitaminB6Mg": 2.4,
+      "vitaminB12Mcg": 2.2,
+      "vitaminCMg": 80,
+      "biotinMcg": 40,
+      "folicAcidMcg": 300,
+      "vitaminDIu": 600,
+      "vitaminDMcg": 15,
+      "vitaminEMg": 10,
+      "calciumMg": 40,
+      "magnesiumMg": 38,
+      "zincMg": 17,
+      "mineralBasis": "elemental",
+      "energyPerServing": 0.57,
+      "additionalIngredients": [
+        {
+          "name": "Vitamin A (retinol)",
+          "amount": 1000,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Beta-carotene",
+          "amount": 1000,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Iron",
+          "amount": 19,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Choline",
+          "amount": 50,
+          "unit": "mg",
+          "basis": "per label serving"
+        }
+      ],
+      "declaredNutrients": [
+        "vitaminDIu",
+        "vitaminDMcg"
+      ],
+      "packCount": 120,
+      "category": "vitamin-d",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-pro-multivitamin-for-men/?pId=9397469&vId=2588760",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-pro-multivitamin-for-men/?pId=9397469&vId=2588760",
+      "variantId": "2588760",
+      "productId": "9397469",
+      "variantSku": "NB-NUT-1026-04",
+      "variantAttributes": {
+        "pa_pack-size": "120 Tabs"
+      },
+      "cacheKey": "nutrabay-2588760",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "folic-acid-nb-2588760",
+      "brand": "Nutrabay",
+      "product": "Nutrabay Multivitamin for Men",
+      "flavour": "Unflavoured",
+      "packaging": "Bottle",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1026-04-1795156700.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-pro-multivitamin-for-men/?pId=9397469&vId=2588760",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1026-04-1795156700.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Ingredients identify folic acid (n-pteroylglutamic acid) and plant-source vitamin D2 (ergocalciferol). Folate is not converted to DFE; vitamin D is not relabelled D3. Other unmodeled micronutrients, including iron, need overlap review.",
+      "form": "Tablet",
+      "servingUnits": 1,
+      "type": "Multivitamin/mineral blend",
+      "subclass": "Men formulation",
+      "vitaminB1Mg": 1.8,
+      "vitaminB2Mg": 2.5,
+      "vitaminB3Mg": 18,
+      "vitaminB5Mg": 5,
+      "vitaminB6Mg": 2.4,
+      "vitaminB12Mcg": 2.2,
+      "vitaminCMg": 80,
+      "biotinMcg": 40,
+      "folicAcidMcg": 300,
+      "vitaminDIu": 600,
+      "vitaminDMcg": 15,
+      "vitaminEMg": 10,
+      "calciumMg": 40,
+      "magnesiumMg": 38,
+      "zincMg": 17,
+      "mineralBasis": "elemental",
+      "energyPerServing": 0.57,
+      "additionalIngredients": [
+        {
+          "name": "Vitamin A (retinol)",
+          "amount": 1000,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Beta-carotene",
+          "amount": 1000,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Iron",
+          "amount": 19,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Choline",
+          "amount": 50,
+          "unit": "mg",
+          "basis": "per label serving"
+        }
+      ],
+      "declaredNutrients": [
+        "folicAcidMcg"
+      ],
+      "packCount": 120,
+      "category": "folic-acid",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-pro-multivitamin-for-men/?pId=9397469&vId=2588760",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-pro-multivitamin-for-men/?pId=9397469&vId=2588760",
+      "variantId": "2588760",
+      "productId": "9397469",
+      "variantSku": "NB-NUT-1026-04",
+      "variantAttributes": {
+        "pa_pack-size": "120 Tabs"
+      },
+      "cacheKey": "nutrabay-2588760",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "zmc-nb-2588760",
+      "brand": "Nutrabay",
+      "product": "Nutrabay Multivitamin for Men",
+      "flavour": "Unflavoured",
+      "packaging": "Bottle",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1026-04-1795156700.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-pro-multivitamin-for-men/?pId=9397469&vId=2588760",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1026-04-1795156700.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Ingredients identify folic acid (n-pteroylglutamic acid) and plant-source vitamin D2 (ergocalciferol). Folate is not converted to DFE; vitamin D is not relabelled D3. Other unmodeled micronutrients, including iron, need overlap review.",
+      "form": "Tablet",
+      "servingUnits": 1,
+      "type": "Multivitamin/mineral blend",
+      "subclass": "Men formulation",
+      "vitaminB1Mg": 1.8,
+      "vitaminB2Mg": 2.5,
+      "vitaminB3Mg": 18,
+      "vitaminB5Mg": 5,
+      "vitaminB6Mg": 2.4,
+      "vitaminB12Mcg": 2.2,
+      "vitaminCMg": 80,
+      "biotinMcg": 40,
+      "folicAcidMcg": 300,
+      "vitaminDIu": 600,
+      "vitaminDMcg": 15,
+      "vitaminEMg": 10,
+      "calciumMg": 40,
+      "magnesiumMg": 38,
+      "zincMg": 17,
+      "mineralBasis": "elemental",
+      "energyPerServing": 0.57,
+      "additionalIngredients": [
+        {
+          "name": "Vitamin A (retinol)",
+          "amount": 1000,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Beta-carotene",
+          "amount": 1000,
+          "unit": "mcg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Iron",
+          "amount": 19,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Choline",
+          "amount": 50,
+          "unit": "mg",
+          "basis": "per label serving"
+        }
+      ],
+      "declaredNutrients": [
+        "calciumMg",
+        "magnesiumMg",
+        "zincMg",
+        "vitaminDIu"
+      ],
+      "packCount": 120,
+      "declaredActives": [
+        "calcium",
+        "magnesium",
+        "zinc"
+      ],
+      "category": "zmc",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-pro-multivitamin-for-men/?pId=9397469&vId=2588760",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-pro-multivitamin-for-men/?pId=9397469&vId=2588760",
+      "variantId": "2588760",
+      "productId": "9397469",
+      "variantSku": "NB-NUT-1026-04",
+      "variantAttributes": {
+        "pa_pack-size": "120 Tabs"
+      },
+      "cacheKey": "nutrabay-2588760",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "l-carnitine-nb-6398653",
+      "brand": "Nutrabay",
+      "product": "Nutrabay L-Carnitine 1000mg",
+      "flavour": "Unflavoured",
+      "packaging": "Bottle",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1025-02-1784115978.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-pro-l-carnitine-1000mg/?pId=2356588&vId=6398653",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1025-02-1784115978.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Panel declares L-carnitine L-tartrate 1000 mg per two tablets, not 1000 mg verified free L-carnitine. Free-active cost remains unknown.",
+      "form": "Tablet",
+      "servingUnits": 2,
+      "type": "L-carnitine L-tartrate",
+      "subclass": "Tartrate salt",
+      "carnitineMg": null,
+      "carnitineCompoundMg": 1000,
+      "energyPerServing": 2.49,
+      "declaredNutrients": [
+        "carnitineCompoundMg"
+      ],
+      "packCount": 60,
+      "category": "l-carnitine",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-pro-l-carnitine-1000mg/?pId=2356588&vId=6398653",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-pro-l-carnitine-1000mg/?pId=2356588&vId=6398653",
+      "variantId": "6398653",
+      "productId": "2356588",
+      "variantSku": "NB-NUT-1025-02",
+      "variantAttributes": {
+        "pa_pack-size": "60 Tabs"
+      },
+      "cacheKey": "nutrabay-6398653",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "magnesium-nb-2456663",
+      "brand": "Nutrabay",
+      "product": "Nutrabay Zinc + Magnesium + B6 (ZMA)",
+      "flavour": "Unflavoured",
+      "packaging": "Bottle",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1033-02-1770722877.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-pro-zma-500mg/?pId=3889255&vId=2456663",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1033-02-1770722877.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Two tablets supply elemental magnesium 440 mg, zinc 17 mg and B6 2.4 mg. This is ZMA, not ZMC: calcium is not a declared active.",
+      "form": "Tablet",
+      "servingUnits": 2,
+      "type": "Magnesium oxide + zinc oxide",
+      "subclass": "ZMA: magnesium/zinc/B6 blend",
+      "magnesiumMg": 440,
+      "zincMg": 17,
+      "vitaminB6Mg": 2.4,
+      "mineralBasis": "elemental",
+      "energyPerServing": 0.57,
+      "declaredNutrients": [
+        "magnesiumMg"
+      ],
+      "packCount": 60,
+      "category": "magnesium",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-pro-zma-500mg/?pId=3889255&vId=2456663",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-pro-zma-500mg/?pId=3889255&vId=2456663",
+      "variantId": "2456663",
+      "productId": "3889255",
+      "variantSku": "NB-NUT-1033-02",
+      "variantAttributes": {
+        "pa_pack-size": "60 Tabs"
+      },
+      "cacheKey": "nutrabay-2456663",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "l-arginine-nb-1125812",
+      "brand": "Nutrabay",
+      "product": "Nutrabay Pure L-Arginine",
+      "flavour": "Unflavoured",
+      "packaging": "Pouch",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1007-01-1781025929.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-l-arginine/?pId=4800664&vId=1125812",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1007-01-1781025929.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts.",
+      "form": "Powder",
+      "servingGrams": 2.5,
+      "type": "L-arginine",
+      "subclass": "Single amino acid",
+      "arginineMg": 2500,
+      "energyPerServing": 0,
+      "declaredNutrients": [
+        "arginineMg"
+      ],
+      "grams": 250,
+      "packCount": null,
+      "category": "l-arginine",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-l-arginine/?pId=4800664&vId=1125812",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-l-arginine/?pId=4800664&vId=1125812",
+      "variantId": "1125812",
+      "productId": "4800664",
+      "variantSku": "NB-NUT-1007-01",
+      "variantAttributes": {
+        "pa_flavour": "Unflavoured",
+        "pa_weight": "250 g (0.55 lb)"
+      },
+      "cacheKey": "nutrabay-1125812",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "l-arginine-nb-3455071",
+      "brand": "Nutrabay",
+      "product": "Nutrabay Pure L-Arginine",
+      "flavour": "Unflavoured",
+      "packaging": "Jar",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1007-02-1781025999.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-l-arginine/?pId=4800664&vId=3455071",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1007-02-1781025999.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts.",
+      "form": "Powder",
+      "servingGrams": 2.5,
+      "type": "L-arginine",
+      "subclass": "Single amino acid",
+      "arginineMg": 2500,
+      "energyPerServing": 0,
+      "declaredNutrients": [
+        "arginineMg"
+      ],
+      "grams": 100,
+      "packCount": null,
+      "category": "l-arginine",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-l-arginine/?pId=4800664&vId=3455071",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-l-arginine/?pId=4800664&vId=3455071",
+      "variantId": "3455071",
+      "productId": "4800664",
+      "variantSku": "NB-NUT-1007-02",
+      "variantAttributes": {
+        "pa_flavour": "Unflavoured",
+        "pa_weight": "100 g (0.22 lb)"
+      },
+      "cacheKey": "nutrabay-3455071",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "citrulline-nb-9059870",
+      "brand": "Nutrabay",
+      "product": "Nutrabay Pure Citrulline Malate",
+      "flavour": "Unflavoured",
+      "packaging": "Pouch",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1006-01-1791882360.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-citrulline-malate/?pId=3132942&vId=9059870",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1006-01-1791882360.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Panel identifies 2:1 L-citrulline DL-malate. Compound mass stays separate; no free-citrulline payload is inferred from the ratio.",
+      "form": "Powder",
+      "servingGrams": 2.5,
+      "type": "Citrulline malate",
+      "subclass": "DL-malate mixture",
+      "citrullineMalateMg": 2500,
+      "citrullineMg": null,
+      "malateRatio": "2:1 (label claim)",
+      "energyPerServing": 0,
+      "declaredNutrients": [
+        "citrullineMalateMg"
+      ],
+      "grams": 250,
+      "packCount": null,
+      "category": "citrulline",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-citrulline-malate/?pId=3132942&vId=9059870",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-citrulline-malate/?pId=3132942&vId=9059870",
+      "variantId": "9059870",
+      "productId": "3132942",
+      "variantSku": "NB-NUT-1006-01",
+      "variantAttributes": {
+        "pa_flavour": "Unflavoured",
+        "pa_weight": "250 g (0.55 lb)"
+      },
+      "cacheKey": "nutrabay-9059870",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "citrulline-nb-5272259",
+      "brand": "Nutrabay",
+      "product": "Nutrabay Pure Citrulline Malate",
+      "flavour": "Unflavoured",
+      "packaging": "Pouch",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1006-02-1791882496.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-citrulline-malate?pId=3132942&vId=5272259",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1006-02-1791882496.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Panel identifies 2:1 L-citrulline DL-malate. Compound mass stays separate; no free-citrulline payload is inferred from the ratio.",
+      "form": "Powder",
+      "servingGrams": 2.5,
+      "type": "Citrulline malate",
+      "subclass": "DL-malate mixture",
+      "citrullineMalateMg": 2500,
+      "citrullineMg": null,
+      "malateRatio": "2:1 (label claim)",
+      "energyPerServing": 0,
+      "declaredNutrients": [
+        "citrullineMalateMg"
+      ],
+      "grams": 100,
+      "packCount": null,
+      "category": "citrulline",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-citrulline-malate?pId=3132942&vId=5272259",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-citrulline-malate?pId=3132942&vId=5272259",
+      "variantId": "5272259",
+      "productId": "3132942",
+      "variantSku": "NB-NUT-1006-02",
+      "variantAttributes": {
+        "pa_flavour": "Unflavoured",
+        "pa_weight": "100 g (0.22 lb)"
+      },
+      "cacheKey": "nutrabay-5272259",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "bcaa-nb-1847127",
+      "brand": "Nutrabay",
+      "product": "Nutrabay Pure BCAA 2:1:1",
+      "flavour": "Unflavoured",
+      "packaging": "Jar",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1004-01-1782906943.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-bcaa-2-1-1/?pId=9935247&vId=1847127",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1004-01-1782906943.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts.",
+      "form": "Powder",
+      "servingGrams": 5,
+      "type": "Branched-chain amino acids",
+      "subclass": "2:1:1 leucine/isoleucine/valine",
+      "bcaaMg": 5000,
+      "leucineMg": 2500,
+      "isoleucineMg": 1250,
+      "valineMg": 1250,
+      "energyPerServing": 0,
+      "declaredNutrients": [
+        "bcaaMg",
+        "leucineMg",
+        "isoleucineMg",
+        "valineMg"
+      ],
+      "grams": 250,
+      "packCount": null,
+      "category": "bcaa",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-bcaa-2-1-1/?pId=9935247&vId=1847127",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-bcaa-2-1-1/?pId=9935247&vId=1847127",
+      "variantId": "1847127",
+      "productId": "9935247",
+      "variantSku": "NB-NUT-1004-01",
+      "variantAttributes": {
+        "pa_flavour": "Unflavoured",
+        "pa_weight": "250 g (0.55 lb)"
+      },
+      "cacheKey": "nutrabay-1847127",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "collagen-nb-8144042",
+      "brand": "Isopure",
+      "product": "Isopure Collagen Peptides",
+      "flavour": "Unflavored",
+      "packaging": "Jar",
+      "source": "Marine fish and chicken",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/variant-29595-image_7-Isopure_Collagen_Peptides__250_gm_055_Lb_Unflavored.jpg",
+      "labelSources": [
+        "https://nutrabay.com/product/isopure-collagen-peptides/?pId=1502808&vId=8144042",
+        "https://cdn2.nutrabay.com/uploads/variant/images/variant-29595-image_7-Isopure_Collagen_Peptides__250_gm_055_Lb_Unflavored.jpg"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "retailer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Hydrolysed marine peptides 12 g and undenatured chicken type II ingredient 40 mg are different materials with separate costs. Protein mass 10 g is not substituted for peptide mass. Contains fish; may contain milk/nuts.",
+      "retailer": "Nutrabay",
+      "form": "Powder",
+      "servingGrams": 12.1,
+      "type": "Hydrolysed marine peptides + native type II",
+      "subclass": "Marine/chicken combination",
+      "collagenTypes": "I,II,III (label claims)",
+      "collagenPeptidesMg": 12000,
+      "nativeTypeIIMg": 40,
+      "biotinMcg": 40,
+      "vitaminEMg": 10,
+      "energyPerServing": 42,
+      "declaredNutrients": [
+        "collagenPeptidesMg",
+        "nativeTypeIIMg",
+        "vitaminEMg",
+        "biotinMcg"
+      ],
+      "grams": 250,
+      "packCount": null,
+      "category": "collagen",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/isopure-collagen-peptides/?pId=1502808&vId=8144042",
+      "variantUrl": "https://nutrabay.com/product/isopure-collagen-peptides/?pId=1502808&vId=8144042",
+      "variantId": "8144042",
+      "productId": "1502808",
+      "variantSku": "NB-ISO-1006-01",
+      "variantAttributes": {
+        "pa_flavour": "Unflavored",
+        "pa_weight": "250 g (0.55 lb)"
+      },
+      "cacheKey": "nutrabay-8144042",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "collagen-nb-3052114",
+      "brand": "Isopure",
+      "product": "Isopure Collagen Peptides",
+      "flavour": "Pink Guava",
+      "packaging": "Jar",
+      "source": "Marine fish",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-ISO-1006-02-1791316091.jpg",
+      "labelSources": [
+        "https://nutrabay.com/product/isopure-collagen-peptides/?pId=1502808&vId=3052114",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-ISO-1006-02-1791316091.jpg"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "retailer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Pink Guava is a different 5.8 g serving formula: marine peptides 5 g, not the 12 g peptide/native-II combination in the unflavoured pack. Contains fish and possible milk/soy/nut/gluten traces. Conflict: detail table rounds weight to 0.17 kg; selected 174 g option and the bottle front establish actual net grams. No price is scaled.",
+      "retailer": "Nutrabay",
+      "form": "Powder",
+      "servingGrams": 5.8,
+      "type": "Hydrolysed marine collagen peptides",
+      "subclass": "Marine peptides + biotin/vitamin E",
+      "collagenTypes": "I,III (label claims)",
+      "collagenPeptidesMg": 5000,
+      "biotinMcg": 40,
+      "vitaminEMg": 10,
+      "energyPerServing": 20.6,
+      "declaredNutrients": [
+        "collagenPeptidesMg",
+        "vitaminEMg",
+        "biotinMcg"
+      ],
+      "grams": 174,
+      "packCount": null,
+      "category": "collagen",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/isopure-collagen-peptides/?pId=1502808&vId=3052114",
+      "variantUrl": "https://nutrabay.com/product/isopure-collagen-peptides/?pId=1502808&vId=3052114",
+      "variantId": "3052114",
+      "productId": "1502808",
+      "variantSku": "NB-ISO-1006-02",
+      "variantAttributes": {
+        "pa_flavour": "Pink Guava",
+        "pa_weight": "174 g (0.38 lb)"
+      },
+      "cacheKey": "nutrabay-3052114",
+      "allowRetailMultipack": true,
+      "specWeightIsRounded": true,
+      "netWeightEvidenceUrl": "https://cdn2.nutrabay.com/uploads/variant/images/featured_image-NB-ISO-1006-02-1791316049.jpg",
+      "netWeightEvidenceGrams": 174,
+      "netWeightEvidenceChecked": "2026-11-20"
+    },
+    {
+      "id": "melatonin-nb-4154868",
+      "brand": "GreenOpia",
+      "product": "GreenOpia Melatonin + Tagar",
+      "flavour": "Unflavoured",
+      "packaging": "Bottle",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_2-NB-GOP-1009-01-1760533166.jpg",
+      "labelSources": [
+        "https://nutrabay.com/product/greenopia-melatonin-tagar/?pId=4574143&vId=4154868",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_2-NB-GOP-1009-01-1760533166.jpg"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "retailer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Contains melatonin plus other sedating ingredients. Label quantity is not an intake recommendation; the full formulation needs individual review.",
+      "retailer": "Nutrabay",
+      "form": "Tablet",
+      "servingUnits": 1,
+      "type": "Melatonin + botanical/amino-acid blend",
+      "subclass": "10 mg + Tagar/theanine/chamomile",
+      "melatoninMg": 10,
+      "vitaminB6Mg": 1.9,
+      "energyPerServing": 0.8,
+      "additionalIngredients": [
+        {
+          "name": "Tagar (Valeriana wallichii rhizome)",
+          "amount": 250,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "L-Theanine",
+          "amount": 50,
+          "unit": "mg",
+          "basis": "per label serving"
+        },
+        {
+          "name": "Chamomile extract",
+          "amount": 50,
+          "unit": "mg",
+          "basis": "per label serving"
+        }
+      ],
+      "declaredNutrients": [
+        "melatoninMg"
+      ],
+      "packCount": 60,
+      "category": "melatonin",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/greenopia-melatonin-tagar/?pId=4574143&vId=4154868",
+      "variantUrl": "https://nutrabay.com/product/greenopia-melatonin-tagar/?pId=4574143&vId=4154868",
+      "variantId": "4154868",
+      "productId": "4574143",
+      "variantSku": "NB-GOP-1009-01",
+      "variantAttributes": {
+        "pa_pack-size": "60 Tabs"
+      },
+      "cacheKey": "nutrabay-4154868",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "glutathione-nb-2239568",
+      "brand": "Miduty",
+      "product": "Miduty Liposomal Glutathione",
+      "flavour": "Unflavoured",
+      "packaging": "Bottle",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-MDY-1001-01-1787827948.jpg",
+      "labelSources": [
+        "https://nutrabay.com/product/miduty-liposomal-glutathione/?pId=7498636&vId=2239568",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-MDY-1001-01-1787827948.jpg"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "retailer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "The panel lists 600 mg of a 40% liposomal ingredient, not an explicit 600 mg pure glutathione dose. Pure-active payload stays unknown pending an unambiguous manufacturer declaration; carrier ingredient mass is recorded separately.",
+      "retailer": "Nutrabay",
+      "form": "Capsule",
+      "servingUnits": 1,
+      "type": "Liposomal glutathione ingredient",
+      "subclass": "Lipoglo 40% formulation",
+      "glutathioneMg": null,
+      "energyPerServing": 2.24,
+      "additionalIngredients": [
+        {
+          "name": "Liposomal glutathione 40% (Lipoglo ingredient)",
+          "amount": 600,
+          "unit": "mg",
+          "basis": "per label serving"
+        }
+      ],
+      "declaredNutrients": [],
+      "packCount": 30,
+      "category": "glutathione",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/miduty-liposomal-glutathione/?pId=7498636&vId=2239568",
+      "variantUrl": "https://nutrabay.com/product/miduty-liposomal-glutathione/?pId=7498636&vId=2239568",
+      "variantId": "2239568",
+      "productId": "7498636",
+      "variantSku": "NB-MDY-1001-01",
+      "variantAttributes": {
+        "pa_pack-size": "30 Caps"
+      },
+      "cacheKey": "nutrabay-2239568",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "vitamin-c-nb-5281558",
+      "brand": "Miduty",
+      "product": "Miduty Liposomal Vitamin C",
+      "flavour": "Unflavoured",
+      "packaging": "Bottle",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_8-NB-MDY-1003-01-1767014045.jpg",
+      "labelSources": [
+        "https://nutrabay.com/product/miduty-liposomal-vitamin-c/?pId=2617206&vId=5281558",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_8-NB-MDY-1003-01-1767014045.jpg"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "retailer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "The panel lists 650 mg of a 70% liposomal ingredient, not an unambiguous 650 mg vitamin C payload. Pure-active dose stays unknown; the ingredient is recorded separately without assigning a higher absorbed dose.",
+      "retailer": "Nutrabay",
+      "form": "Capsule",
+      "servingUnits": 1,
+      "type": "Liposomal vitamin C ingredient",
+      "subclass": "70% ingredient formulation",
+      "vitaminCMg": null,
+      "energyPerServing": 2.28,
+      "additionalIngredients": [
+        {
+          "name": "Liposomal Vitamin C 70% ingredient",
+          "amount": 650,
+          "unit": "mg",
+          "basis": "per label serving"
+        }
+      ],
+      "declaredNutrients": [],
+      "packCount": 30,
+      "category": "vitamin-c",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/miduty-liposomal-vitamin-c/?pId=2617206&vId=5281558",
+      "variantUrl": "https://nutrabay.com/product/miduty-liposomal-vitamin-c/?pId=2617206&vId=5281558",
+      "variantId": "5281558",
+      "productId": "2617206",
+      "variantSku": "NB-MDY-1003-01",
+      "variantAttributes": {
+        "pa_pack-size": "30 Caps"
+      },
+      "cacheKey": "nutrabay-5281558",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "vitamin-d-nb-8946939",
+      "brand": "OSOAA",
+      "product": "OSOAA Vitamin D3 K2 MK7 Tablets",
+      "flavour": "Unflavoured",
+      "packaging": "Bottle",
+      "source": "Lichen (D3 label claim)",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_8-NB-OSA-1006-01-1787392738.jpg",
+      "labelSources": [
+        "https://nutrabay.com/product/osoaa-vitamin-d3-k2-mk7-tablets-plant-based-lichen-source-600-iu-vitamin-d/?pId=6057952&vId=8946939",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_8-NB-OSA-1006-01-1787392738.jpg"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "retailer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts.",
+      "retailer": "Nutrabay",
+      "form": "Tablet",
+      "servingUnits": 1,
+      "type": "D3 (cholecalciferol) from lichen",
+      "subclass": "D3 + K2 MK7 + B12",
+      "vitaminDIu": 600,
+      "vitaminDMcg": 15,
+      "vitaminK2Mcg": 55,
+      "vitaminB12Mcg": 2.2,
+      "energyPerServing": 0.2,
+      "declaredNutrients": [
+        "vitaminDIu",
+        "vitaminDMcg",
+        "vitaminK2Mcg"
+      ],
+      "packCount": 120,
+      "category": "vitamin-d",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/osoaa-vitamin-d3-k2-mk7-tablets-plant-based-lichen-source-600-iu-vitamin-d/?pId=6057952&vId=8946939",
+      "variantUrl": "https://nutrabay.com/product/osoaa-vitamin-d3-k2-mk7-tablets-plant-based-lichen-source-600-iu-vitamin-d/?pId=6057952&vId=8946939",
+      "variantId": "8946939",
+      "productId": "6057952",
+      "variantSku": "NB-OSA-1006-01",
+      "variantAttributes": {
+        "pa_pack-size": "120 Tabs"
+      },
+      "cacheKey": "nutrabay-8946939",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "vitamin-d-nb-2236744",
+      "brand": "OSOAA",
+      "product": "OSOAA Vitamin D3 K2 MK7 Tablets",
+      "flavour": "Unflavoured",
+      "packaging": "Bottle",
+      "source": "Lichen (D3 label claim)",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-OSA-1006-02-1789059086.jpg",
+      "labelSources": [
+        "https://nutrabay.com/product/osoaa-vitamin-d3-k2-mk7-tablets-plant-based-lichen-source-600-iu-vitamin-d/?pId=6057952&vId=2236744",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-OSA-1006-02-1789059086.jpg"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "retailer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "The selected 60-tablet gallery shares a nutrition illustration showing 120 servings; the exact selected retail count is 60. Per-tablet composition is retained with this illustration-count limitation.",
+      "retailer": "Nutrabay",
+      "form": "Tablet",
+      "servingUnits": 1,
+      "type": "D3 (cholecalciferol) from lichen",
+      "subclass": "D3 + K2 MK7 + B12",
+      "vitaminDIu": 600,
+      "vitaminDMcg": 15,
+      "vitaminK2Mcg": 55,
+      "vitaminB12Mcg": 2.2,
+      "energyPerServing": 0.2,
+      "declaredNutrients": [
+        "vitaminDIu",
+        "vitaminDMcg",
+        "vitaminK2Mcg"
+      ],
+      "packCount": 60,
+      "category": "vitamin-d",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/osoaa-vitamin-d3-k2-mk7-tablets-plant-based-lichen-source-600-iu-vitamin-d/?pId=6057952&vId=2236744",
+      "variantUrl": "https://nutrabay.com/product/osoaa-vitamin-d3-k2-mk7-tablets-plant-based-lichen-source-600-iu-vitamin-d/?pId=6057952&vId=2236744",
+      "variantId": "2236744",
+      "productId": "6057952",
+      "variantSku": "NB-OSA-1006-02",
+      "variantAttributes": {
+        "pa_pack-size": "60 Tabs"
+      },
+      "cacheKey": "nutrabay-2236744",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "magnesium-nb-7575427",
+      "brand": "OSOAA",
+      "product": "OSOAA Chelated Magnesium Glycinate 2000mg Tablets",
+      "flavour": "Unflavoured",
+      "packaging": "Bottle",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-OSA-1007-01-1789215832.jpg",
+      "labelSources": [
+        "https://nutrabay.com/product/osoaa-chelated-magnesium-glycinate-2000mg-tablets-high-absorption-magnesium-supplement/?pId=9516100&vId=7575427",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-OSA-1007-01-1789215832.jpg"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "retailer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Panel declares 2000 mg magnesium bisglycinate (22%) equivalent to 440 mg elemental magnesium per two tablets. Use the elemental amount, not 2000 mg, for magnesium totals.",
+      "retailer": "Nutrabay",
+      "form": "Tablet",
+      "servingUnits": 2,
+      "type": "Magnesium bisglycinate",
+      "subclass": "22% elemental magnesium declaration",
+      "magnesiumCompoundMg": 2000,
+      "magnesiumMg": 440,
+      "mineralBasis": "elemental",
+      "energyPerServing": 0.8,
+      "declaredNutrients": [
+        "magnesiumMg",
+        "magnesiumCompoundMg"
+      ],
+      "packCount": 60,
+      "category": "magnesium",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/osoaa-chelated-magnesium-glycinate-2000mg-tablets-high-absorption-magnesium-supplement/?pId=9516100&vId=7575427",
+      "variantUrl": "https://nutrabay.com/product/osoaa-chelated-magnesium-glycinate-2000mg-tablets-high-absorption-magnesium-supplement/?pId=9516100&vId=7575427",
+      "variantId": "7575427",
+      "productId": "9516100",
+      "variantSku": "NB-OSA-1007-01",
+      "variantAttributes": {
+        "pa_pack-size": "60"
+      },
+      "cacheKey": "nutrabay-7575427",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "pre-workout-nb-1560762",
+      "brand": "Nutrabay",
+      "product": "Nutrabay Spark Pre-Workout",
+      "flavour": "Green Apple",
+      "packaging": "Jar",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1016-01-1783335990.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-gold-series-spark-pre-workout/?pId=6594373&vId=1560762",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1016-01-1783335990.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Caffeine total 200 mg is the sum of two explicitly declared 100 mg caffeine entries, one delayed-release. Release timing is not modeled. Citrulline DL-malate 3 g is compound mass, not free citrulline.",
+      "form": "Powder",
+      "servingGrams": 10,
+      "type": "Multi-ingredient pre-workout",
+      "subclass": "Dual-release caffeine + amino-acid blend",
+      "stimulantStatus": "Contains caffeine",
+      "caffeineMg": 200,
+      "citrullineMalateMg": 3000,
+      "citrullineMg": null,
+      "betaAlanineMg": 2500,
+      "creatineMg": 1000,
+      "arginineMg": 1000,
+      "bcaaMg": 1000,
+      "leucineMg": 500,
+      "isoleucineMg": 250,
+      "valineMg": 250,
+      "taurineMg": 500,
+      "vitaminB3Mg": 18,
+      "energyPerServing": 1.93,
+      "declaredNutrients": [
+        "caffeineMg",
+        "citrullineMalateMg",
+        "betaAlanineMg",
+        "creatineMg",
+        "arginineMg",
+        "taurineMg",
+        "bcaaMg"
+      ],
+      "grams": 250,
+      "packCount": null,
+      "category": "pre-workout",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-gold-series-spark-pre-workout/?pId=6594373&vId=1560762",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-gold-series-spark-pre-workout/?pId=6594373&vId=1560762",
+      "variantId": "1560762",
+      "productId": "6594373",
+      "variantSku": "NB-NUT-1016-01",
+      "variantAttributes": {
+        "pa_flavour": "Green Apple",
+        "pa_weight": "250 g (0.55 lb)"
+      },
+      "cacheKey": "nutrabay-1560762",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "pre-workout-nb-4777956",
+      "brand": "Nutrabay",
+      "product": "Nutrabay Spark Pre-Workout",
+      "flavour": "Fruit Punch",
+      "packaging": "Jar",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1016-02-1783336276.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-gold-series-spark-pre-workout/?pId=6594373&vId=4777956",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1016-02-1783336276.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Caffeine total 200 mg is the sum of two explicitly declared 100 mg caffeine entries, one delayed-release. Release timing is not modeled. Citrulline DL-malate 3 g is compound mass, not free citrulline.",
+      "form": "Powder",
+      "servingGrams": 10,
+      "type": "Multi-ingredient pre-workout",
+      "subclass": "Dual-release caffeine + amino-acid blend",
+      "stimulantStatus": "Contains caffeine",
+      "caffeineMg": 200,
+      "citrullineMalateMg": 3000,
+      "citrullineMg": null,
+      "betaAlanineMg": 2500,
+      "creatineMg": 1000,
+      "arginineMg": 1000,
+      "bcaaMg": 1000,
+      "leucineMg": 500,
+      "isoleucineMg": 250,
+      "valineMg": 250,
+      "taurineMg": 500,
+      "vitaminB3Mg": 18,
+      "energyPerServing": 1.73,
+      "declaredNutrients": [
+        "caffeineMg",
+        "citrullineMalateMg",
+        "betaAlanineMg",
+        "creatineMg",
+        "arginineMg",
+        "taurineMg",
+        "bcaaMg"
+      ],
+      "grams": 250,
+      "packCount": null,
+      "category": "pre-workout",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-gold-series-spark-pre-workout/?pId=6594373&vId=4777956",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-gold-series-spark-pre-workout/?pId=6594373&vId=4777956",
+      "variantId": "4777956",
+      "productId": "6594373",
+      "variantSku": "NB-NUT-1016-02",
+      "variantAttributes": {
+        "pa_flavour": "Fruit Punch",
+        "pa_weight": "250 g (0.55 lb)"
+      },
+      "cacheKey": "nutrabay-4777956",
+      "allowRetailMultipack": true
+    },
+    {
+      "id": "pre-workout-nb-1701211",
+      "brand": "Nutrabay",
+      "product": "Nutrabay RageX Pre-Workout | L-Citrulline, Beta-Alanine, Caffeine & Black Pepper Extract | Energy, Focus & Pump",
+      "flavour": "Orange",
+      "packaging": "Jar",
+      "source": "Not specified",
+      "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_5-NB-NUT-1095-01-1780030932.png",
+      "labelSources": [
+        "https://nutrabay.com/product/nutrabay-ragex-pre-workout-l-citrulline-beta-alanine-caffeine-black-pepper-extract-energy-focus-pump/?pId=5543479&vId=1701211",
+        "https://cdn2.nutrabay.com/uploads/variant/images/image_5-NB-NUT-1095-01-1780030932.png"
+      ],
+      "labelChecked": "2026-11-20",
+      "sourceType": "manufacturer",
+      "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+      "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts.",
+      "form": "Powder",
+      "servingGrams": 12,
+      "type": "Multi-ingredient pre-workout",
+      "subclass": "Citrulline/beta-alanine/caffeine",
+      "stimulantStatus": "Contains caffeine",
+      "caffeineMg": 200,
+      "citrullineMg": 6000,
+      "betaAlanineMg": 4000,
+      "arginineMg": 600,
+      "vitaminB3Mg": 10,
+      "energyPerServing": 2.8,
+      "additionalIngredients": [
+        {
+          "name": "Black pepper extract",
+          "amount": 3,
+          "unit": "mg",
+          "basis": "per label serving"
+        }
+      ],
+      "declaredNutrients": [
+        "caffeineMg",
+        "citrullineMg",
+        "betaAlanineMg",
+        "arginineMg"
+      ],
+      "grams": 360,
+      "packCount": null,
+      "category": "pre-workout",
+      "kind": "nutrabay-product",
+      "base": "https://nutrabay.com",
+      "productUrl": "https://nutrabay.com/product/nutrabay-ragex-pre-workout-l-citrulline-beta-alanine-caffeine-black-pepper-extract-energy-focus-pump/?pId=5543479&vId=1701211",
+      "variantUrl": "https://nutrabay.com/product/nutrabay-ragex-pre-workout-l-citrulline-beta-alanine-caffeine-black-pepper-extract-energy-focus-pump/?pId=5543479&vId=1701211",
+      "variantId": "1701211",
+      "productId": "5543479",
+      "variantSku": "NB-NUT-1095-01",
+      "variantAttributes": {
+        "pa_flavour": "Orange",
+        "pa_weight": "360 g (0.79 lb)"
+      },
+      "cacheKey": "nutrabay-1701211",
+      "allowRetailMultipack": true
     }
   ]
 }
