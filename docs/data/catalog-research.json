@@ -21026,6 +21026,21 @@
         "matchBasis": "Exact selected Nutrabay 100 g pouch variant and SKU; current 5 g beta-alanine panel and explicit out-of-stock state, no parent default substitution."
       },
       "reviewType": "price"
+    },
+    {
+      "category": "citrulline",
+      "offerId": "citrulline-osn-51142697943360",
+      "fields": [
+        "nutritionUrl",
+        "labelSources"
+      ],
+      "evidence": {
+        "checked": "2026-11-20",
+        "sourceUrl": "https://onesciencenutrition.in/products/citrulline?variant=51142697943360",
+        "evidenceUrl": "https://cdn.shopify.com/s/files/1/0952/0483/5648/files/osn-pure-citrulline-08-nutrition-facts.webp?v=1794738163",
+        "matchBasis": "Exact official citrulline-malate product: clear manufacturer nutrition graphic replaces the curved bottle-side panel as the primary label pointer; declared quantities unchanged."
+      },
+      "reviewType": "label"
     }
   ],
   "additions": [
@@ -23139,6 +23154,326 @@
       "brand": "Nutrabay",
       "product": "Nutrabay RageX Pre-Workout | L-Citrulline, Beta-Alanine, Caffeine & Black Pepper Extract | Energy, Focus & Pump",
       "url": "https://nutrabay.com/product/nutrabay-ragex-pre-workout-l-citrulline-beta-alanine-caffeine-black-pepper-extract-energy-focus-pump/?pId=5543479&vId=1701211",
+      "checked": "2026-11-20"
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-mille-50623013290181",
+      "brand": "Mille",
+      "product": "Fermented Yeast Protein",
+      "url": "https://livemille.com/products/dark-chocolate-protein?variant=50623013290181",
+      "checked": "2026-11-20"
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-mille-50623013322949",
+      "brand": "Mille",
+      "product": "Fermented Yeast Protein",
+      "url": "https://livemille.com/products/dark-chocolate-protein?variant=50623013322949",
+      "checked": "2026-11-20"
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-mille-50595783672005",
+      "brand": "Mille",
+      "product": "Fermented Yeast Protein",
+      "url": "https://livemille.com/products/unflavoured-protein?variant=50595783672005",
+      "checked": "2026-11-20"
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-mille-50595783704773",
+      "brand": "Mille",
+      "product": "Fermented Yeast Protein",
+      "url": "https://livemille.com/products/unflavoured-protein?variant=50595783704773",
+      "checked": "2026-11-20"
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-mille-50595854614725",
+      "brand": "Mille",
+      "product": "Fermented Yeast Protein",
+      "url": "https://livemille.com/products/coffee-hazelnut?variant=50595854614725",
+      "checked": "2026-11-20"
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-mille-50705816387781",
+      "brand": "Mille",
+      "product": "Fermented Yeast Protein",
+      "url": "https://livemille.com/products/coffee-hazelnut?variant=50705816387781",
+      "checked": "2026-11-20"
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-alpino-46135472160938",
+      "brand": "Alpino",
+      "product": "Supernatural Peanut Protein",
+      "url": "https://alpino.store/products/plant-peanut-protein-powder-dark-chocolate?variant=46135472160938",
+      "checked": "2026-11-20"
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-alpino-67691254841514",
+      "brand": "Alpino",
+      "product": "Supernatural Peanut Protein",
+      "url": "https://alpino.store/products/thandai-fusion-peanut-protein-powder?variant=67691254841514",
+      "checked": "2026-11-20"
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-alpino-46880041828522",
+      "brand": "Alpino",
+      "product": "Supernatural Peanut Protein",
+      "url": "https://alpino.store/products/supernatural-peanut-protein-powder-cold-coffee-protein?variant=46880041828522",
+      "checked": "2026-11-20"
+    },
+    {
+      "category": "creatine",
+      "offerId": "creatine-alpino-48464569630890",
+      "brand": "Alpino",
+      "product": "SuperONE Nano Creatine Monohydrate",
+      "url": "https://alpino.store/products/nano-creatine-lemonade-250g?variant=48464569630890",
+      "checked": "2026-11-20"
+    },
+    {
+      "category": "creatine",
+      "offerId": "creatine-alpino-48464617767082",
+      "brand": "Alpino",
+      "product": "SuperONE Nano Creatine Monohydrate",
+      "url": "https://alpino.store/products/nano-creatine-unflavored-250g?variant=48464617767082",
+      "checked": "2026-11-20"
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-own-ownapp-00015",
+      "brand": "Only What's Needed",
+      "product": "Whey Protein Concentrate",
+      "url": "https://onlywhatsneeded.in/product/whey-protein-2",
+      "checked": "2026-11-20"
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-own-ownapk-0054",
+      "brand": "Only What's Needed",
+      "product": "Whey Protein Concentrate",
+      "url": "https://onlywhatsneeded.in/product/whey-protein-3",
+      "checked": "2026-11-20"
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-own-ownapp-00041",
+      "brand": "Only What's Needed",
+      "product": "Whey Protein Concentrate with Vitamin D3 and B12 (with lecithin)",
+      "url": "https://onlywhatsneeded.in/product/whey-unflavoured-1kg-mix",
+      "checked": "2026-11-20"
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-own-ownapk-0069",
+      "brand": "Only What's Needed",
+      "product": "Whey Protein Concentrate with Vitamin D3 and B12 (with lecithin)",
+      "url": "https://onlywhatsneeded.in/product/whey-unflavoured-2kg-mix",
+      "checked": "2026-11-20"
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-own-ownapp-00012",
+      "brand": "Only What's Needed",
+      "product": "Whey Protein Concentrate with Vitamin D3 and B12 (without lecithin)",
+      "url": "https://onlywhatsneeded.in/product/whey-unflavoured-1kg",
+      "checked": "2026-11-20"
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-osn-52704934068544",
+      "brand": "One Science Nutrition",
+      "product": "Fermented Yeast Protein",
+      "url": "https://onesciencenutrition.in/products/one-science-nutrition-fermented-yeast-protein-1kg?variant=52704934068544",
+      "checked": "2026-11-20"
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-osn-52704931152192",
+      "brand": "One Science Nutrition",
+      "product": "Plant Protein - Pea Protein Isolate",
+      "url": "https://onesciencenutrition.in/products/one-science-nutrition-plant-protein-pea-protein-isolate-1kg?variant=52704931152192",
+      "checked": "2026-11-20"
+    },
+    {
+      "category": "creatine",
+      "offerId": "creatine-osn-51196001354048",
+      "brand": "One Science Nutrition",
+      "product": "100% Micronized Creatine",
+      "url": "https://onesciencenutrition.in/products/micronized-creatine?variant=51196001354048",
+      "checked": "2026-11-20"
+    },
+    {
+      "category": "creatine",
+      "offerId": "creatine-osn-68098246836544",
+      "brand": "One Science Nutrition",
+      "product": "100% Micronized Creatine",
+      "url": "https://onesciencenutrition.in/products/micronized-creatine?variant=68098246836544",
+      "checked": "2026-11-20"
+    },
+    {
+      "category": "creatine",
+      "offerId": "creatine-osn-68098246869312",
+      "brand": "One Science Nutrition",
+      "product": "100% Micronized Creatine",
+      "url": "https://onesciencenutrition.in/products/micronized-creatine?variant=68098246869312",
+      "checked": "2026-11-20"
+    },
+    {
+      "category": "fish-oil",
+      "offerId": "fish-oil-osn-51394762768704",
+      "brand": "One Science Nutrition",
+      "product": "Omega 3 Fish Oil",
+      "url": "https://onesciencenutrition.in/products/one-science-nutrition-omega-3-fish-oil-60capsules?variant=51394762768704",
+      "checked": "2026-11-20"
+    },
+    {
+      "category": "citrulline",
+      "offerId": "citrulline-osn-51142697943360",
+      "brand": "One Science Nutrition",
+      "product": "Pure Citrulline - Citrulline DL-Malate 2:1",
+      "url": "https://onesciencenutrition.in/products/citrulline?variant=51142697943360",
+      "checked": "2026-11-20"
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-nb-2492712",
+      "brand": "Cutler Nutrition",
+      "product": "Total Iso Whey Isolate",
+      "url": "https://nutrabay.com/product/cutler-nutrition-total-iso-whey-isolate-protein-powder?pId=2741805&vId=2492712",
+      "checked": "2026-11-20"
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-nb-6436172",
+      "brand": "Cutler Nutrition",
+      "product": "Total Iso Whey Isolate",
+      "url": "https://nutrabay.com/product/cutler-nutrition-total-iso-whey-isolate-protein-powder?pId=2741805&vId=6436172",
+      "checked": "2026-11-20"
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-foodstrong-46883226550502",
+      "brand": "Foodstrong",
+      "product": "Raw Whey Protein",
+      "url": "https://foodstrong.in/products/daily-whey-protein-unflavoured-1-kg?variant=46883226550502",
+      "checked": "2026-11-20"
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-foodstrong-46883204694246",
+      "brand": "Foodstrong",
+      "product": "Whey Protein",
+      "url": "https://foodstrong.in/products/daily-whey-protein-chocolate-almond?variant=46883204694246",
+      "checked": "2026-11-20"
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-foodstrong-46832280142054",
+      "brand": "Foodstrong",
+      "product": "Whey Protein",
+      "url": "https://foodstrong.in/products/whey-protein-chocolate-almond-2-kg?variant=46832280142054",
+      "checked": "2026-11-20"
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-foodstrong-46883213246694",
+      "brand": "Foodstrong",
+      "product": "Whey Protein",
+      "url": "https://foodstrong.in/products/whey-protein-coffee-1kg?variant=46883213246694",
+      "checked": "2026-11-20"
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-foodstrong-46883223208166",
+      "brand": "Foodstrong",
+      "product": "Whey Protein",
+      "url": "https://foodstrong.in/products/daily-whey-protein-vanilla-1-kg?variant=46883223208166",
+      "checked": "2026-11-20"
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-foodstrong-46883215868134",
+      "brand": "Foodstrong",
+      "product": "Whey Protein",
+      "url": "https://foodstrong.in/products/whey-protein-mango-1-kg?variant=46883215868134",
+      "checked": "2026-11-20"
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-foodstrong-46883273605350",
+      "brand": "Foodstrong",
+      "product": "Whey Protein",
+      "url": "https://foodstrong.in/products/whey-protein-malai-kulfi-1-kg?variant=46883273605350",
+      "checked": "2026-11-20"
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-foodstrong-46883272491238",
+      "brand": "Foodstrong",
+      "product": "Whey Protein",
+      "url": "https://foodstrong.in/products/whey-protein-cookies-cream-1kg?variant=46883272491238",
+      "checked": "2026-11-20"
+    },
+    {
+      "category": "creatine",
+      "offerId": "creatine-foodstrong-45572670619878",
+      "brand": "Foodstrong",
+      "product": "Micronised Creatine Monohydrate With Electrolytes",
+      "url": "https://foodstrong.in/products/creatine?variant=45572670619878",
+      "checked": "2026-11-20"
+    },
+    {
+      "category": "creatine",
+      "offerId": "creatine-xlr8-59941101",
+      "brand": "XLR8",
+      "product": "Micronised Creatine Monohydrate",
+      "url": "https://xlr8sport.com/products/buy-micronized-creatine-monohydrate-online?sku_id=59941101",
+      "checked": "2026-11-20"
+    },
+    {
+      "category": "creatine",
+      "offerId": "creatine-xlr8-60763377",
+      "brand": "XLR8",
+      "product": "Micronised Creatine Monohydrate",
+      "url": "https://xlr8sport.com/products/buy-micronized-creatine-monohydrate-online?sku_id=60763377",
+      "checked": "2026-11-20"
+    },
+    {
+      "category": "creatine",
+      "offerId": "creatine-xlr8-59941033",
+      "brand": "XLR8",
+      "product": "Micronised Creatine Monohydrate",
+      "url": "https://xlr8sport.com/products/buy-micronized-creatine-monohydrate-online?sku_id=59941033",
+      "checked": "2026-11-20"
+    },
+    {
+      "category": "creatine",
+      "offerId": "creatine-xlr8-59941035",
+      "brand": "XLR8",
+      "product": "Micronised Creatine Monohydrate",
+      "url": "https://xlr8sport.com/products/buy-micronized-creatine-monohydrate-online?sku_id=59941035",
+      "checked": "2026-11-20"
+    },
+    {
+      "category": "creatine",
+      "offerId": "creatine-xlr8-60674970",
+      "brand": "XLR8",
+      "product": "Crea Rush Creatine HCl with BCAA and Taurine",
+      "url": "https://xlr8sport.com/products/creatine-hcl-post-workout-supplement-crearush?sku_id=60674970",
+      "checked": "2026-11-20"
+    },
+    {
+      "category": "creatine",
+      "offerId": "creatine-xlr8-60674971",
+      "brand": "XLR8",
+      "product": "Crea Rush Creatine HCl with BCAA and Taurine",
+      "url": "https://xlr8sport.com/products/creatine-hcl-post-workout-supplement-crearush?sku_id=60674971",
       "checked": "2026-11-20"
     }
   ],
@@ -58657,6 +58992,982 @@
         "https://nutrabay.com/product/nutrabay-beta-alanine/?pId=8486513&vId=6440277",
         "https://cdn2.nutrabay.com/uploads/variant/images/image_5-NB-NUT-1005-02-1768894241.png"
       ]
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-mille-50623013290181",
+      "brand": "Mille",
+      "product": "Fermented Yeast Protein",
+      "url": "https://livemille.com/products/dark-chocolate-protein?variant=50623013290181",
+      "checked": "2026-11-20",
+      "status": "verified-primary",
+      "verifiedFields": [
+        "Exact manufacturer product, variant and net retail pack",
+        "Unconditional INR listed price and selected stock",
+        "Reviewed serving size, protein/creatine amount and ingredient panel"
+      ],
+      "unknownFields": [
+        "Caffeine amount"
+      ],
+      "sourceUrls": [
+        "https://livemille.com/products/dark-chocolate-protein?variant=50623013290181",
+        "https://cdn.shopify.com/s/files/1/0618/0857/4661/files/9_a09a7e16-8684-4050-ae4e-255d633b21a9.jpg?v=1792153516",
+        "https://livemille.com/products/dark-chocolate-protein.json"
+      ],
+      "notes": "Current official nutrition table declares 63.6 g protein and 360 kcal per 100 g; approximately 38 g scoop/serving. Label servings-per-pack of13 refers to 500 g gallery artwork and is not used to infer net mass of selected 1/2 kg variant. Front 24 g/25 g/31 g figures are rounded; the explicit per 100 g composition is used. No equivalence to whey digestibility or clinical outcomes is assumed. Ingredients include coffee powder; caffeine quantity is not declared. Coffee Hazelnut is a flavour name; the displayed ingredient list does not specify hazelnut mass. Review total caffeine and relevant allergens before use."
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-mille-50623013322949",
+      "brand": "Mille",
+      "product": "Fermented Yeast Protein",
+      "url": "https://livemille.com/products/dark-chocolate-protein?variant=50623013322949",
+      "checked": "2026-11-20",
+      "status": "verified-primary",
+      "verifiedFields": [
+        "Exact manufacturer product, variant and net retail pack",
+        "Unconditional INR listed price and selected stock",
+        "Reviewed serving size, protein/creatine amount and ingredient panel"
+      ],
+      "unknownFields": [
+        "Caffeine amount"
+      ],
+      "sourceUrls": [
+        "https://livemille.com/products/dark-chocolate-protein?variant=50623013322949",
+        "https://cdn.shopify.com/s/files/1/0618/0857/4661/files/9_a09a7e16-8684-4050-ae4e-255d633b21a9.jpg?v=1792153516",
+        "https://livemille.com/products/dark-chocolate-protein.json"
+      ],
+      "notes": "Current official nutrition table declares 63.6 g protein and 360 kcal per 100 g; approximately 38 g scoop/serving. Label servings-per-pack of13 refers to 500 g gallery artwork and is not used to infer net mass of selected 1/2 kg variant. Front 24 g/25 g/31 g figures are rounded; the explicit per 100 g composition is used. No equivalence to whey digestibility or clinical outcomes is assumed. Ingredients include coffee powder; caffeine quantity is not declared. Coffee Hazelnut is a flavour name; the displayed ingredient list does not specify hazelnut mass. Review total caffeine and relevant allergens before use."
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-mille-50595783672005",
+      "brand": "Mille",
+      "product": "Fermented Yeast Protein",
+      "url": "https://livemille.com/products/unflavoured-protein?variant=50595783672005",
+      "checked": "2026-11-20",
+      "status": "verified-primary",
+      "verifiedFields": [
+        "Exact manufacturer product, variant and net retail pack",
+        "Unconditional INR listed price and selected stock",
+        "Reviewed serving size, protein/creatine amount and ingredient panel"
+      ],
+      "unknownFields": [],
+      "sourceUrls": [
+        "https://livemille.com/products/unflavoured-protein?variant=50595783672005",
+        "https://cdn.shopify.com/s/files/1/0618/0857/4661/files/10_24557df1-5d01-4e6b-b6b7-adc44cffe60e.jpg?v=1795076566",
+        "https://livemille.com/products/unflavoured-protein.json"
+      ],
+      "notes": "Current official nutrition table declares 80.5 g protein and 358 kcal per 100 g; approximately 38 g scoop/serving. Label servings-per-pack of13 refers to 500 g gallery artwork and is not used to infer net mass of selected 1/2 kg variant. Front 24 g/25 g/31 g figures are rounded; the explicit per 100 g composition is used. No equivalence to whey digestibility or clinical outcomes is assumed."
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-mille-50595783704773",
+      "brand": "Mille",
+      "product": "Fermented Yeast Protein",
+      "url": "https://livemille.com/products/unflavoured-protein?variant=50595783704773",
+      "checked": "2026-11-20",
+      "status": "verified-primary",
+      "verifiedFields": [
+        "Exact manufacturer product, variant and net retail pack",
+        "Unconditional INR listed price and selected stock",
+        "Reviewed serving size, protein/creatine amount and ingredient panel"
+      ],
+      "unknownFields": [],
+      "sourceUrls": [
+        "https://livemille.com/products/unflavoured-protein?variant=50595783704773",
+        "https://cdn.shopify.com/s/files/1/0618/0857/4661/files/10_24557df1-5d01-4e6b-b6b7-adc44cffe60e.jpg?v=1795076566",
+        "https://livemille.com/products/unflavoured-protein.json"
+      ],
+      "notes": "Current official nutrition table declares 80.5 g protein and 358 kcal per 100 g; approximately 38 g scoop/serving. Label servings-per-pack of13 refers to 500 g gallery artwork and is not used to infer net mass of selected 1/2 kg variant. Front 24 g/25 g/31 g figures are rounded; the explicit per 100 g composition is used. No equivalence to whey digestibility or clinical outcomes is assumed."
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-mille-50595854614725",
+      "brand": "Mille",
+      "product": "Fermented Yeast Protein",
+      "url": "https://livemille.com/products/coffee-hazelnut?variant=50595854614725",
+      "checked": "2026-11-20",
+      "status": "verified-primary",
+      "verifiedFields": [
+        "Exact manufacturer product, variant and net retail pack",
+        "Unconditional INR listed price and selected stock",
+        "Reviewed serving size, protein/creatine amount and ingredient panel"
+      ],
+      "unknownFields": [
+        "Caffeine amount"
+      ],
+      "sourceUrls": [
+        "https://livemille.com/products/coffee-hazelnut?variant=50595854614725",
+        "https://cdn.shopify.com/s/files/1/0618/0857/4661/files/9_2c2d2a91-4ca1-4acb-b2c7-1e23404f8f3f.jpg?v=1792155496",
+        "https://livemille.com/products/coffee-hazelnut.json"
+      ],
+      "notes": "Current official nutrition table declares 64.5 g protein and 366 kcal per 100 g; approximately 38 g scoop/serving. Label servings-per-pack of13 refers to 500 g gallery artwork and is not used to infer net mass of selected 1/2 kg variant. Front 24 g/25 g/31 g figures are rounded; the explicit per 100 g composition is used. No equivalence to whey digestibility or clinical outcomes is assumed. Ingredients include coffee powder; caffeine quantity is not declared. Coffee Hazelnut is a flavour name; the displayed ingredient list does not specify hazelnut mass. Review total caffeine and relevant allergens before use."
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-mille-50705816387781",
+      "brand": "Mille",
+      "product": "Fermented Yeast Protein",
+      "url": "https://livemille.com/products/coffee-hazelnut?variant=50705816387781",
+      "checked": "2026-11-20",
+      "status": "verified-primary",
+      "verifiedFields": [
+        "Exact manufacturer product, variant and net retail pack",
+        "Unconditional INR listed price and selected stock",
+        "Reviewed serving size, protein/creatine amount and ingredient panel"
+      ],
+      "unknownFields": [
+        "Caffeine amount"
+      ],
+      "sourceUrls": [
+        "https://livemille.com/products/coffee-hazelnut?variant=50705816387781",
+        "https://cdn.shopify.com/s/files/1/0618/0857/4661/files/9_2c2d2a91-4ca1-4acb-b2c7-1e23404f8f3f.jpg?v=1792155496",
+        "https://livemille.com/products/coffee-hazelnut.json"
+      ],
+      "notes": "Current official nutrition table declares 64.5 g protein and 366 kcal per 100 g; approximately 38 g scoop/serving. Label servings-per-pack of13 refers to 500 g gallery artwork and is not used to infer net mass of selected 1/2 kg variant. Front 24 g/25 g/31 g figures are rounded; the explicit per 100 g composition is used. No equivalence to whey digestibility or clinical outcomes is assumed. Ingredients include coffee powder; caffeine quantity is not declared. Coffee Hazelnut is a flavour name; the displayed ingredient list does not specify hazelnut mass. Review total caffeine and relevant allergens before use."
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-alpino-46135472160938",
+      "brand": "Alpino",
+      "product": "Supernatural Peanut Protein",
+      "url": "https://alpino.store/products/plant-peanut-protein-powder-dark-chocolate?variant=46135472160938",
+      "checked": "2026-11-20",
+      "status": "verified-primary",
+      "verifiedFields": [
+        "Exact manufacturer product, variant and net retail pack",
+        "Unconditional INR listed price and selected stock",
+        "Reviewed serving size, protein/creatine amount and ingredient panel"
+      ],
+      "unknownFields": [],
+      "sourceUrls": [
+        "https://alpino.store/products/plant-peanut-protein-powder-dark-chocolate?variant=46135472160938",
+        "https://cdn.shopify.com/s/files/1/0520/1572/6762/files/04_4e68427b-f79b-4729-a047-447c9be51204.webp?v=1791549918",
+        "https://alpino.store/products/plant-peanut-protein-powder-dark-chocolate.json"
+      ],
+      "notes": "Gallery panel declares 24.44 g protein and 133.01 kcal per 36 g scoop; per 100 g concentration and energy are calculated from those explicitly labelled amounts. Ingredients include peanut protein isolate, cocoa, coconut MCT, steviol glycosides, sunflower lecithin and xanthan gum. Contains peanut. The advertised100% clean protein is not used as protein concentration."
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-alpino-67691254841514",
+      "brand": "Alpino",
+      "product": "Supernatural Peanut Protein",
+      "url": "https://alpino.store/products/thandai-fusion-peanut-protein-powder?variant=67691254841514",
+      "checked": "2026-11-20",
+      "status": "verified-primary",
+      "verifiedFields": [
+        "Exact manufacturer product, variant and net retail pack",
+        "Unconditional INR listed price and selected stock",
+        "Reviewed serving size, protein/creatine amount and ingredient panel"
+      ],
+      "unknownFields": [],
+      "sourceUrls": [
+        "https://alpino.store/products/thandai-fusion-peanut-protein-powder?variant=67691254841514",
+        "https://cdn.shopify.com/s/files/1/0520/1572/6762/files/04_3b206e66-7357-47f0-b62c-b282dd858c12.webp?v=1791612833",
+        "https://alpino.store/products/thandai-fusion-peanut-protein-powder.json"
+      ],
+      "notes": "Current gallery panel declares 26.12 g protein and 144.12 kcal per 37 g scoop. Body text rounds this inconsistently to 27 g; the exact composition panel is used, with calculated per 100 g values. The official description declares peanut, cashew, almond, pistachio and milk allergens, so this product must not be assumed dairy-free or vegan."
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-alpino-46880041828522",
+      "brand": "Alpino",
+      "product": "Supernatural Peanut Protein",
+      "url": "https://alpino.store/products/supernatural-peanut-protein-powder-cold-coffee-protein?variant=46880041828522",
+      "checked": "2026-11-20",
+      "status": "verified-primary",
+      "verifiedFields": [
+        "Exact manufacturer product, variant and net retail pack",
+        "Unconditional INR listed price and selected stock",
+        "Reviewed serving size, protein/creatine amount and ingredient panel"
+      ],
+      "unknownFields": [
+        "Energy basis: inconsistent gallery column heading"
+      ],
+      "sourceUrls": [
+        "https://alpino.store/products/supernatural-peanut-protein-powder-cold-coffee-protein?variant=46880041828522",
+        "https://cdn.shopify.com/s/files/1/0520/1572/6762/files/04_0854bc48-a95d-4055-9919-aa05874c7208.webp?v=1791611573",
+        "https://alpino.store/products/supernatural-peanut-protein-powder-cold-coffee-protein.json"
+      ],
+      "notes": "Official body explicitly declares 24.83 g protein and 42 mg caffeine per 37 g scoop. Gallery uses the same 24.83 g protein value and per-serving RDA, but the column is incorrectly headed Per 100 g; protein uses the corroborated serving declaration. Energy is left unknown because that mislabeled column cannot establish the calorie basis. Contains peanut. Manufacturer states different packaging may be shipped."
+    },
+    {
+      "category": "creatine",
+      "offerId": "creatine-alpino-48464569630890",
+      "brand": "Alpino",
+      "product": "SuperONE Nano Creatine Monohydrate",
+      "url": "https://alpino.store/products/nano-creatine-lemonade-250g?variant=48464569630890",
+      "checked": "2026-11-20",
+      "status": "verified-primary",
+      "verifiedFields": [
+        "Exact manufacturer product, variant and net retail pack",
+        "Unconditional INR listed price and selected stock",
+        "Reviewed serving size, protein/creatine amount and ingredient panel"
+      ],
+      "unknownFields": [],
+      "sourceUrls": [
+        "https://alpino.store/products/nano-creatine-lemonade-250g?variant=48464569630890",
+        "https://cdn.shopify.com/s/files/1/0520/1572/6762/files/Property1_03_9704f7ab-757b-487d-8105-fb03c963fefe.webp?v=1780654146",
+        "https://alpino.store/products/nano-creatine-lemonade-250g.json"
+      ],
+      "notes": "Product is listed by Alpino under its SuperONE line. Exact 250 g retail pack. Lemonade composition declares 3 g creatine monohydrate per 5 g scoop,2 kcal per 5 g serving, plus lemon/black salt/coconut-water powder and sweeteners; concentration 60% and 40 kcal/100 g calculated from label. Nano-particle wording is a manufacturer descriptor; superior absorption or efficacy has not been adopted. This pack is currently sold out. Not linked to a peanut-protein batch test."
+    },
+    {
+      "category": "creatine",
+      "offerId": "creatine-alpino-48464617767082",
+      "brand": "Alpino",
+      "product": "SuperONE Nano Creatine Monohydrate",
+      "url": "https://alpino.store/products/nano-creatine-unflavored-250g?variant=48464617767082",
+      "checked": "2026-11-20",
+      "status": "verified-primary",
+      "verifiedFields": [
+        "Exact manufacturer product, variant and net retail pack",
+        "Unconditional INR listed price and selected stock",
+        "Reviewed serving size, protein/creatine amount and ingredient panel"
+      ],
+      "unknownFields": [],
+      "sourceUrls": [
+        "https://alpino.store/products/nano-creatine-unflavored-250g?variant=48464617767082",
+        "https://cdn.shopify.com/s/files/1/0520/1572/6762/files/Property1_03_c2d1192d-ea31-4813-848c-549868c7e4c6.webp?v=1780654147",
+        "https://alpino.store/products/nano-creatine-unflavored-250g.json"
+      ],
+      "notes": "Product is listed by Alpino under its SuperONE line. Exact 250 g retail pack. Unflavoured composition declares 3 g creatine monohydrate per 3 g scoop and 0 kcal. Nano-particle wording is a manufacturer descriptor; superior absorption or efficacy has not been adopted. This pack is currently sold out. Not linked to a peanut-protein batch test."
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-own-ownapp-00015",
+      "brand": "Only What's Needed",
+      "product": "Whey Protein Concentrate",
+      "url": "https://onlywhatsneeded.in/product/whey-protein-2",
+      "checked": "2026-11-20",
+      "status": "verified-primary",
+      "verifiedFields": [
+        "Exact manufacturer product, variant and net retail pack",
+        "Unconditional INR listed price and selected stock",
+        "Reviewed serving size, protein/creatine amount and ingredient panel"
+      ],
+      "unknownFields": [],
+      "sourceUrls": [
+        "https://onlywhatsneeded.in/product/whey-protein-2",
+        "https://i.mscwlns.co/media/misc/pdp_rcl/whey-protein-2/NI-table%20%283%29_bjk6hv.jpg?tr=w-800",
+        "https://onlywhatsneeded.in/product/whey-protein"
+      ],
+      "notes": "Exact manufacturer SKU OWNAPP.00015 and product URL were matched to the explicit ProductGroup variant. Label declares 72.73 g protein and 388.50 kcal per 100 g,33 g scoop.93% whey concentrate ingredient inclusion is not protein concentration. Contains milk; whey is instantized with lecithin. Actual 1 kg retail pack. Unrelated copied hair-loss metadata in the website state was ignored; only matching product name,SKU,variant and reviewed panel were used."
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-own-ownapk-0054",
+      "brand": "Only What's Needed",
+      "product": "Whey Protein Concentrate",
+      "url": "https://onlywhatsneeded.in/product/whey-protein-3",
+      "checked": "2026-11-20",
+      "status": "verified-primary",
+      "verifiedFields": [
+        "Exact manufacturer product, variant and net retail pack",
+        "Unconditional INR listed price and selected stock",
+        "Reviewed serving size, protein/creatine amount and ingredient panel"
+      ],
+      "unknownFields": [],
+      "sourceUrls": [
+        "https://onlywhatsneeded.in/product/whey-protein-3",
+        "https://i.mscwlns.co/media/misc/pdp_rcl/whey-protein-2/NI-table%20%283%29_bjk6hv.jpg?tr=w-800",
+        "https://onlywhatsneeded.in/product/whey-protein"
+      ],
+      "notes": "Exact manufacturer SKU OWNAPK.0054 and product URL were matched to the explicit ProductGroup variant. Label declares 72.73 g protein and 388.50 kcal per 100 g,33 g scoop.93% whey concentrate ingredient inclusion is not protein concentration. Contains milk; whey is instantized with lecithin. This is an explicitly offered 2 kg retail pack made from 2 x 1 kg pouches, not an extrapolated single-pack price. Unrelated copied hair-loss metadata in the website state was ignored; only matching product name,SKU,variant and reviewed panel were used."
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-own-ownapp-00041",
+      "brand": "Only What's Needed",
+      "product": "Whey Protein Concentrate with Vitamin D3 and B12 (with lecithin)",
+      "url": "https://onlywhatsneeded.in/product/whey-unflavoured-1kg-mix",
+      "checked": "2026-11-20",
+      "status": "verified-primary",
+      "verifiedFields": [
+        "Exact manufacturer product, variant and net retail pack",
+        "Unconditional INR listed price and selected stock",
+        "Reviewed serving size, protein/creatine amount and ingredient panel"
+      ],
+      "unknownFields": [],
+      "sourceUrls": [
+        "https://onlywhatsneeded.in/product/whey-unflavoured-1kg-mix",
+        "https://i.mscwlns.co/media/misc/pdp_rcl/whey-unflavoured-1kg-mix/flat%20bottom%20Unflavoured_with%20soy%20-09_jo4xoz.jpg?tr=w-900",
+        "https://onlywhatsneeded.in/product/whey-protein"
+      ],
+      "notes": "Exact manufacturer SKU OWNAPP.00041 and product URL were matched to the explicit ProductGroup variant. Current unflavoured formula declares 76.47 g protein/100g and a 34 g scoop, enriched with 1.13 mcg vitamin B12 and 7.73 mcg vitamin D3 per scoop. Those added nutrients must be included when reviewing a combined stack. Contains milk and up to0.7% soy lecithin. Actual 1 kg retail pack. Unrelated copied hair-loss metadata in the website state was ignored; only matching product name,SKU,variant and reviewed panel were used."
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-own-ownapk-0069",
+      "brand": "Only What's Needed",
+      "product": "Whey Protein Concentrate with Vitamin D3 and B12 (with lecithin)",
+      "url": "https://onlywhatsneeded.in/product/whey-unflavoured-2kg-mix",
+      "checked": "2026-11-20",
+      "status": "verified-primary",
+      "verifiedFields": [
+        "Exact manufacturer product, variant and net retail pack",
+        "Unconditional INR listed price and selected stock",
+        "Reviewed serving size, protein/creatine amount and ingredient panel"
+      ],
+      "unknownFields": [],
+      "sourceUrls": [
+        "https://onlywhatsneeded.in/product/whey-unflavoured-2kg-mix",
+        "https://i.mscwlns.co/media/misc/pdp_rcl/whey-unflavoured-1kg-mix/flat%20bottom%20Unflavoured_with%20soy%20-09_jo4xoz.jpg?tr=w-900",
+        "https://onlywhatsneeded.in/product/whey-unflavoured-1kg-mix"
+      ],
+      "notes": "Exact manufacturer SKU OWNAPK.0069 and product URL were matched to the explicit ProductGroup variant. Current unflavoured formula declares 76.47 g protein/100g and a 34 g scoop, enriched with 1.13 mcg vitamin B12 and 7.73 mcg vitamin D3 per scoop. Those added nutrients must be included when reviewing a combined stack. Contains milk and up to0.7% soy lecithin. This is an explicitly offered 2 kg retail pack made from 2 x 1 kg pouches, not an extrapolated single-pack price. Unrelated copied hair-loss metadata in the website state was ignored; only matching product name,SKU,variant and reviewed panel were used."
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-own-ownapp-00012",
+      "brand": "Only What's Needed",
+      "product": "Whey Protein Concentrate with Vitamin D3 and B12 (without lecithin)",
+      "url": "https://onlywhatsneeded.in/product/whey-unflavoured-1kg",
+      "checked": "2026-11-20",
+      "status": "verified-primary",
+      "verifiedFields": [
+        "Exact manufacturer product, variant and net retail pack",
+        "Unconditional INR listed price and selected stock",
+        "Reviewed serving size, protein/creatine amount and ingredient panel"
+      ],
+      "unknownFields": [],
+      "sourceUrls": [
+        "https://onlywhatsneeded.in/product/whey-unflavoured-1kg",
+        "https://i.mscwlns.co/media/misc/pdp_rcl/whey-unflavoured-1kg/flat%20bottom%20Unflavoured_without%20soy%20-09_hh57qq.jpg?tr=w-800",
+        "https://onlywhatsneeded.in/product/whey-unflavoured-1kg-mix"
+      ],
+      "notes": "Exact manufacturer SKU OWNAPP.00012 and product URL were matched to the explicit ProductGroup variant. Current unflavoured formula declares 76.47 g protein/100g and a 34 g scoop, enriched with 1.13 mcg vitamin B12 and 7.73 mcg vitamin D3 per scoop. Those added nutrients must be included when reviewing a combined stack. Contains milk; formula is sold without added lecithin. Actual 1 kg retail pack. Unrelated copied hair-loss metadata in the website state was ignored; only matching product name,SKU,variant and reviewed panel were used."
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-osn-52704934068544",
+      "brand": "One Science Nutrition",
+      "product": "Fermented Yeast Protein",
+      "url": "https://onesciencenutrition.in/products/one-science-nutrition-fermented-yeast-protein-1kg?variant=52704934068544",
+      "checked": "2026-11-20",
+      "status": "verified-primary",
+      "verifiedFields": [
+        "product",
+        "flavour",
+        "netPack",
+        "price",
+        "stock",
+        "form",
+        "type",
+        "subclass",
+        "labelChecked",
+        "protein",
+        "scoop",
+        "serving",
+        "energy"
+      ],
+      "unknownFields": [],
+      "sourceUrls": [
+        "https://onesciencenutrition.in/products/one-science-nutrition-fermented-yeast-protein-1kg?variant=52704934068544",
+        "https://onesciencenutrition.in/products/one-science-nutrition-fermented-yeast-protein-1kg.json",
+        "https://cdn.shopify.com/s/files/1/0952/0483/5648/files/osn-fermented-yeast-protein-08-nutrition-facts.webp?v=1794738181"
+      ],
+      "notes": "Only the Rich Chocolate panel was verified: 26 g protein and 144.57 kcal per 36 g level scoop. No nutrition values are transferred to the other flavour variants. Net 1 kg is explicit on the pictured jar and product title."
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-osn-52704931152192",
+      "brand": "One Science Nutrition",
+      "product": "Plant Protein - Pea Protein Isolate",
+      "url": "https://onesciencenutrition.in/products/one-science-nutrition-plant-protein-pea-protein-isolate-1kg?variant=52704931152192",
+      "checked": "2026-11-20",
+      "status": "verified-primary",
+      "verifiedFields": [
+        "product",
+        "flavour",
+        "netPack",
+        "price",
+        "stock",
+        "form",
+        "type",
+        "subclass",
+        "labelChecked",
+        "protein",
+        "scoop",
+        "serving",
+        "energy"
+      ],
+      "unknownFields": [],
+      "sourceUrls": [
+        "https://onesciencenutrition.in/products/one-science-nutrition-plant-protein-pea-protein-isolate-1kg?variant=52704931152192",
+        "https://onesciencenutrition.in/products/one-science-nutrition-plant-protein-pea-protein-isolate-1kg.json",
+        "https://cdn.shopify.com/s/files/1/0952/0483/5648/files/osn-pea-protein-isolate-08-nutrition-facts.webp?v=1794738163"
+      ],
+      "notes": "Only the Rich Chocolate panel was verified: 25 g protein and 154.52 kcal per 40 g level scoop. Contains 5 g dietary fibre and declared 10 billion CFU Lactobacillus acidophilus per serving; no probiotic viability claim is inferred. Other flavours are excluded until matching panels are reviewed."
+    },
+    {
+      "category": "creatine",
+      "offerId": "creatine-osn-51196001354048",
+      "brand": "One Science Nutrition",
+      "product": "100% Micronized Creatine",
+      "url": "https://onesciencenutrition.in/products/micronized-creatine?variant=51196001354048",
+      "checked": "2026-11-20",
+      "status": "verified-primary",
+      "verifiedFields": [
+        "product",
+        "flavour",
+        "netPack",
+        "price",
+        "stock",
+        "form",
+        "type",
+        "subclass",
+        "labelChecked",
+        "creatine",
+        "scoop",
+        "creatineServing"
+      ],
+      "unknownFields": [
+        "energy"
+      ],
+      "sourceUrls": [
+        "https://onesciencenutrition.in/products/micronized-creatine?variant=51196001354048",
+        "https://onesciencenutrition.in/products/micronized-creatine.json",
+        "https://cdn.shopify.com/s/files/1/0952/0483/5648/files/MicronizedCreatine_250G_Back_a1b125b4-e1c4-4606-afde-0a9b23190432.png?v=1767344445"
+      ],
+      "notes": "Single-ingredient creatine monohydrate: 3000 mg compound per 3 g scoop. The common formulation panel and brand description explicitly cover 100, 150 and 250 g variants; exact net pack is selected by Shopify variant. Energy is not declared and stays unknown. Label states processing in a facility that handles milk and soy."
+    },
+    {
+      "category": "creatine",
+      "offerId": "creatine-osn-68098246836544",
+      "brand": "One Science Nutrition",
+      "product": "100% Micronized Creatine",
+      "url": "https://onesciencenutrition.in/products/micronized-creatine?variant=68098246836544",
+      "checked": "2026-11-20",
+      "status": "verified-primary",
+      "verifiedFields": [
+        "product",
+        "flavour",
+        "netPack",
+        "price",
+        "stock",
+        "form",
+        "type",
+        "subclass",
+        "labelChecked",
+        "creatine",
+        "scoop",
+        "creatineServing"
+      ],
+      "unknownFields": [
+        "energy"
+      ],
+      "sourceUrls": [
+        "https://onesciencenutrition.in/products/micronized-creatine?variant=68098246836544",
+        "https://onesciencenutrition.in/products/micronized-creatine.json",
+        "https://cdn.shopify.com/s/files/1/0952/0483/5648/files/MicronizedCreatine_250G_Back_a1b125b4-e1c4-4606-afde-0a9b23190432.png?v=1767344445"
+      ],
+      "notes": "Single-ingredient creatine monohydrate: 3000 mg compound per 3 g scoop. The common formulation panel and brand description explicitly cover 100, 150 and 250 g variants; exact net pack is selected by Shopify variant. Energy is not declared and stays unknown. Label states processing in a facility that handles milk and soy."
+    },
+    {
+      "category": "creatine",
+      "offerId": "creatine-osn-68098246869312",
+      "brand": "One Science Nutrition",
+      "product": "100% Micronized Creatine",
+      "url": "https://onesciencenutrition.in/products/micronized-creatine?variant=68098246869312",
+      "checked": "2026-11-20",
+      "status": "verified-primary",
+      "verifiedFields": [
+        "product",
+        "flavour",
+        "netPack",
+        "price",
+        "stock",
+        "form",
+        "type",
+        "subclass",
+        "labelChecked",
+        "creatine",
+        "scoop",
+        "creatineServing"
+      ],
+      "unknownFields": [
+        "energy"
+      ],
+      "sourceUrls": [
+        "https://onesciencenutrition.in/products/micronized-creatine?variant=68098246869312",
+        "https://onesciencenutrition.in/products/micronized-creatine.json",
+        "https://cdn.shopify.com/s/files/1/0952/0483/5648/files/MicronizedCreatine_250G_Back_a1b125b4-e1c4-4606-afde-0a9b23190432.png?v=1767344445"
+      ],
+      "notes": "Single-ingredient creatine monohydrate: 3000 mg compound per 3 g scoop. The common formulation panel and brand description explicitly cover 100, 150 and 250 g variants; exact net pack is selected by Shopify variant. Energy is not declared and stays unknown. Label states processing in a facility that handles milk and soy."
+    },
+    {
+      "category": "fish-oil",
+      "offerId": "fish-oil-osn-51394762768704",
+      "brand": "One Science Nutrition",
+      "product": "Omega 3 Fish Oil",
+      "url": "https://onesciencenutrition.in/products/one-science-nutrition-omega-3-fish-oil-60capsules?variant=51394762768704",
+      "checked": "2026-11-20",
+      "status": "verified-primary",
+      "verifiedFields": [
+        "product",
+        "flavour",
+        "netPack",
+        "price",
+        "stock",
+        "form",
+        "type",
+        "subclass",
+        "labelChecked",
+        "packCount",
+        "servingUnits",
+        "fishOilMg",
+        "epaMg",
+        "dhaMg",
+        "energyPerServing"
+      ],
+      "unknownFields": [],
+      "sourceUrls": [
+        "https://onesciencenutrition.in/products/one-science-nutrition-omega-3-fish-oil-60capsules?variant=51394762768704",
+        "https://onesciencenutrition.in/products/one-science-nutrition-omega-3-fish-oil-60capsules.json",
+        "https://cdn.shopify.com/s/files/1/0952/0483/5648/files/Back_2c93f39c-f393-410e-96da-00d317756a8c.png?v=1771328259"
+      ],
+      "notes": "The actual bottle panel declares 1000 mg fish oil, 360 mg EPA, 240 mg DHA and 35 mg other omega-3 fatty acids per softgel. Only EPA+DHA is used for the comparable active payload; other omega-3 is not reassigned. Contains fish and gelatin; triglyceride versus ethyl-ester form is not established."
+    },
+    {
+      "category": "citrulline",
+      "offerId": "citrulline-osn-51142697943360",
+      "brand": "One Science Nutrition",
+      "product": "Pure Citrulline - Citrulline DL-Malate 2:1",
+      "url": "https://onesciencenutrition.in/products/citrulline?variant=51142697943360",
+      "checked": "2026-11-20",
+      "status": "verified-primary",
+      "verifiedFields": [
+        "product",
+        "flavour",
+        "netPack",
+        "price",
+        "stock",
+        "form",
+        "type",
+        "subclass",
+        "labelChecked",
+        "grams",
+        "servingGrams",
+        "citrullineMalateMg",
+        "malateRatio"
+      ],
+      "unknownFields": [
+        "packCount",
+        "servingUnits",
+        "citrullineMg",
+        "energyPerServing"
+      ],
+      "sourceUrls": [
+        "https://onesciencenutrition.in/products/citrulline?variant=51142697943360",
+        "https://onesciencenutrition.in/products/citrulline.json",
+        "https://cdn.shopify.com/s/files/1/0952/0483/5648/files/Citrulline_Unflaovered_Side_41312505-30ee-40c1-92c3-ae7e2b8b062a.png?v=1771326845"
+      ],
+      "notes": "Despite the Pure Citrulline product name, the reviewed panel declares L-citrulline DL-malate 2:1, 2000 mg compound per 2 g scoop. It is classified as citrulline malate. No free L-citrulline amount is inferred from the ratio; energy is not declared and remains unknown."
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-nb-2492712",
+      "brand": "Cutler Nutrition",
+      "product": "Total Iso Whey Isolate",
+      "url": "https://nutrabay.com/product/cutler-nutrition-total-iso-whey-isolate-protein-powder?pId=2741805&vId=2492712",
+      "checked": "2026-11-20",
+      "status": "verified-primary",
+      "verifiedFields": [
+        "product",
+        "flavour",
+        "kg",
+        "grams",
+        "price",
+        "stock",
+        "scoop",
+        "serving",
+        "protein",
+        "energy",
+        "labelChecked"
+      ],
+      "unknownFields": [],
+      "sourceUrls": [
+        "https://nutrabay.com/product/cutler-nutrition-total-iso-whey-isolate-protein-powder?pId=2741805&vId=2492712",
+        "https://cdn.nutrabay.com/wp-content/uploads/2023/02/NB-CUT-1001-01-02.jpg",
+        "https://cdn.nutrabay.com/wp-content/uploads/2023/02/NB-CUT-1001-01-01.jpg"
+      ],
+      "notes": "Label declares 79.92 g protein per 100 g and rounded 24 g per 30 g serving; retailer specification rounds this to 80%. Milk allergen is declared. Currently sold out; displayed price is retained with that stock status. No batch-level testing conclusion is inferred from the retail listing."
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-nb-6436172",
+      "brand": "Cutler Nutrition",
+      "product": "Total Iso Whey Isolate",
+      "url": "https://nutrabay.com/product/cutler-nutrition-total-iso-whey-isolate-protein-powder?pId=2741805&vId=6436172",
+      "checked": "2026-11-20",
+      "status": "verified-primary",
+      "verifiedFields": [
+        "product",
+        "flavour",
+        "kg",
+        "grams",
+        "price",
+        "stock",
+        "scoop",
+        "serving",
+        "protein",
+        "energy",
+        "labelChecked"
+      ],
+      "unknownFields": [],
+      "sourceUrls": [
+        "https://nutrabay.com/product/cutler-nutrition-total-iso-whey-isolate-protein-powder?pId=2741805&vId=6436172",
+        "https://cdn.nutrabay.com/wp-content/uploads/2023/02/NB-CUT-1001-02-02.jpg",
+        "https://cdn.nutrabay.com/wp-content/uploads/2023/02/NB-CUT-1001-02-01.jpg"
+      ],
+      "notes": "Label declares 79.92 g protein per 100 g and rounded 24 g per 30 g serving; retailer specification rounds this to 80%. Milk allergen is declared. Currently sold out; displayed price is retained with that stock status. No batch-level testing conclusion is inferred from the retail listing."
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-foodstrong-46883226550502",
+      "brand": "Foodstrong",
+      "product": "Raw Whey Protein",
+      "url": "https://foodstrong.in/products/daily-whey-protein-unflavoured-1-kg?variant=46883226550502",
+      "checked": "2026-11-20",
+      "status": "verified-primary",
+      "verifiedFields": [
+        "Exact current manufacturer product and selected retail pack",
+        "Selected INR selling price and stock",
+        "Reviewed exact-flavour ingredient and composition panel"
+      ],
+      "unknownFields": [
+        "Curcumin amount",
+        "Bromelain and papain amounts"
+      ],
+      "sourceUrls": [
+        "https://foodstrong.in/products/daily-whey-protein-unflavoured-1-kg?variant=46883226550502",
+        "https://cdn.shopify.com/s/files/1/0430/7986/0381/files/10_b7b493fa-8e34-400a-a9e1-b1ec6506de36.jpg?v=1791037415",
+        "https://foodstrong.in/products/daily-whey-protein-unflavoured-1-kg.json"
+      ],
+      "notes": "The exact Unflavoured gallery composition panel was reviewed separately. Declared composition: 26.2 g protein and 126 kcal per 35 g scoop; per100 g values are calculated from those serving amounts. Rounded serving counts do not replace the actual selected1/2kg pack. The manufacturer advertises added turmeric across the range, but some ingredient graphics omit it; curcumin quantity is not established. Review the current pack composition and herb exposure before stack inclusion. Enzyme ingredients are bromelain and papain; amounts are not declared. Advertising about anti-inflammatory effects, hormone-free sourcing, zero bloating or improved absorption is not adopted as verified comparative benefit. The99.5% whey-concentrate inclusion is an ingredient fraction, not a protein percentage."
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-foodstrong-46883204694246",
+      "brand": "Foodstrong",
+      "product": "Whey Protein",
+      "url": "https://foodstrong.in/products/daily-whey-protein-chocolate-almond?variant=46883204694246",
+      "checked": "2026-11-20",
+      "status": "verified-primary",
+      "verifiedFields": [
+        "Exact current manufacturer product and selected retail pack",
+        "Selected INR selling price and stock",
+        "Reviewed exact-flavour ingredient and composition panel"
+      ],
+      "unknownFields": [
+        "Curcumin amount",
+        "Bromelain and papain amounts"
+      ],
+      "sourceUrls": [
+        "https://foodstrong.in/products/daily-whey-protein-chocolate-almond?variant=46883204694246",
+        "https://cdn.shopify.com/s/files/1/0430/7986/0381/files/DP01_NI.jpg?v=1791804054",
+        "https://foodstrong.in/products/daily-whey-protein-chocolate-almond.json"
+      ],
+      "notes": "The exact Chocolate Almond gallery composition panel was reviewed separately. Declared composition: 26 g protein and 126 kcal per 34 g scoop; per100 g values are calculated from those serving amounts. Rounded serving counts do not replace the actual selected1/2kg pack. The manufacturer advertises added turmeric across the range, but some ingredient graphics omit it; curcumin quantity is not established. Review the current pack composition and herb exposure before stack inclusion. Enzyme ingredients are bromelain and papain; amounts are not declared. Advertising about anti-inflammatory effects, hormone-free sourcing, zero bloating or improved absorption is not adopted as verified comparative benefit."
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-foodstrong-46832280142054",
+      "brand": "Foodstrong",
+      "product": "Whey Protein",
+      "url": "https://foodstrong.in/products/whey-protein-chocolate-almond-2-kg?variant=46832280142054",
+      "checked": "2026-11-20",
+      "status": "verified-primary",
+      "verifiedFields": [
+        "Exact current manufacturer product and selected retail pack",
+        "Selected INR selling price and stock",
+        "Reviewed exact-flavour ingredient and composition panel"
+      ],
+      "unknownFields": [
+        "Curcumin amount",
+        "Bromelain and papain amounts"
+      ],
+      "sourceUrls": [
+        "https://foodstrong.in/products/whey-protein-chocolate-almond-2-kg?variant=46832280142054",
+        "https://cdn.shopify.com/s/files/1/0430/7986/0381/files/DP012KG-11.jpg?v=1762418299",
+        "https://foodstrong.in/products/whey-protein-chocolate-almond-2-kg.json"
+      ],
+      "notes": "The exact Chocolate Almond gallery composition panel was reviewed separately. Declared composition: 26 g protein and 126 kcal per 34 g scoop; per100 g values are calculated from those serving amounts. Rounded serving counts do not replace the actual selected1/2kg pack. The manufacturer advertises added turmeric across the range, but some ingredient graphics omit it; curcumin quantity is not established. Review the current pack composition and herb exposure before stack inclusion. Enzyme ingredients are bromelain and papain; amounts are not declared. Advertising about anti-inflammatory effects, hormone-free sourcing, zero bloating or improved absorption is not adopted as verified comparative benefit."
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-foodstrong-46883213246694",
+      "brand": "Foodstrong",
+      "product": "Whey Protein",
+      "url": "https://foodstrong.in/products/whey-protein-coffee-1kg?variant=46883213246694",
+      "checked": "2026-11-20",
+      "status": "verified-primary",
+      "verifiedFields": [
+        "Exact current manufacturer product and selected retail pack",
+        "Selected INR selling price and stock",
+        "Reviewed exact-flavour ingredient and composition panel"
+      ],
+      "unknownFields": [
+        "Curcumin amount",
+        "Bromelain and papain amounts",
+        "Caffeine amount"
+      ],
+      "sourceUrls": [
+        "https://foodstrong.in/products/whey-protein-coffee-1kg?variant=46883213246694",
+        "https://cdn.shopify.com/s/files/1/0430/7986/0381/files/DP02_NI.jpg?v=1791804055",
+        "https://foodstrong.in/products/whey-protein-coffee-1kg.json"
+      ],
+      "notes": "The exact Coffee gallery composition panel was reviewed separately. Declared composition: 26 g protein and 128.2 kcal per 35 g scoop; per100 g values are calculated from those serving amounts. Rounded serving counts do not replace the actual selected1/2kg pack. The manufacturer advertises added turmeric across the range, but some ingredient graphics omit it; curcumin quantity is not established. Review the current pack composition and herb exposure before stack inclusion. Enzyme ingredients are bromelain and papain; amounts are not declared. Advertising about anti-inflammatory effects, hormone-free sourcing, zero bloating or improved absorption is not adopted as verified comparative benefit. Coffee is declared at3% inclusion; caffeine quantity is not given and is not inferred from coffee mass."
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-foodstrong-46883223208166",
+      "brand": "Foodstrong",
+      "product": "Whey Protein",
+      "url": "https://foodstrong.in/products/daily-whey-protein-vanilla-1-kg?variant=46883223208166",
+      "checked": "2026-11-20",
+      "status": "verified-primary",
+      "verifiedFields": [
+        "Exact current manufacturer product and selected retail pack",
+        "Selected INR selling price and stock",
+        "Reviewed exact-flavour ingredient and composition panel"
+      ],
+      "unknownFields": [
+        "Curcumin amount",
+        "Bromelain and papain amounts"
+      ],
+      "sourceUrls": [
+        "https://foodstrong.in/products/daily-whey-protein-vanilla-1-kg?variant=46883223208166",
+        "https://cdn.shopify.com/s/files/1/0430/7986/0381/files/10_5d997a1d-fc22-4038-81b7-5197b2b8715e.jpg?v=1791048852",
+        "https://foodstrong.in/products/daily-whey-protein-vanilla-1-kg.json"
+      ],
+      "notes": "The exact Vanilla gallery composition panel was reviewed separately. Declared composition: 26.1 g protein and 128 kcal per 34 g scoop; per100 g values are calculated from those serving amounts. Rounded serving counts do not replace the actual selected1/2kg pack. The manufacturer advertises added turmeric across the range, but some ingredient graphics omit it; curcumin quantity is not established. Review the current pack composition and herb exposure before stack inclusion. Enzyme ingredients are bromelain and papain; amounts are not declared. Advertising about anti-inflammatory effects, hormone-free sourcing, zero bloating or improved absorption is not adopted as verified comparative benefit."
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-foodstrong-46883215868134",
+      "brand": "Foodstrong",
+      "product": "Whey Protein",
+      "url": "https://foodstrong.in/products/whey-protein-mango-1-kg?variant=46883215868134",
+      "checked": "2026-11-20",
+      "status": "verified-primary",
+      "verifiedFields": [
+        "Exact current manufacturer product and selected retail pack",
+        "Selected INR selling price and stock",
+        "Reviewed exact-flavour ingredient and composition panel"
+      ],
+      "unknownFields": [
+        "Curcumin amount",
+        "Bromelain and papain amounts",
+        "Protein concentration: conflicting24/25/26g declarations",
+        "Energy: conflicting label/macronutrient values"
+      ],
+      "sourceUrls": [
+        "https://foodstrong.in/products/whey-protein-mango-1-kg?variant=46883215868134",
+        "https://cdn.shopify.com/s/files/1/0430/7986/0381/files/DP04_NI.jpg?v=1791804054",
+        "https://foodstrong.in/products/whey-protein-mango-1-kg.json"
+      ],
+      "notes": "The exact Mango gallery composition panel was reviewed separately. The selected Mango gallery contains conflicting24 g front,25 g footer and26 g nutrition-table protein claims. Protein concentration remains unknown pending an internally consistent current pack label. Its calorie value also disagrees with the stated macronutrients and is left unknown. Rounded serving counts do not replace the actual selected1/2kg pack. The manufacturer advertises added turmeric across the range, but some ingredient graphics omit it; curcumin quantity is not established. Review the current pack composition and herb exposure before stack inclusion. Enzyme ingredients are bromelain and papain; amounts are not declared. Advertising about anti-inflammatory effects, hormone-free sourcing, zero bloating or improved absorption is not adopted as verified comparative benefit."
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-foodstrong-46883273605350",
+      "brand": "Foodstrong",
+      "product": "Whey Protein",
+      "url": "https://foodstrong.in/products/whey-protein-malai-kulfi-1-kg?variant=46883273605350",
+      "checked": "2026-11-20",
+      "status": "verified-primary",
+      "verifiedFields": [
+        "Exact current manufacturer product and selected retail pack",
+        "Selected INR selling price and stock",
+        "Reviewed exact-flavour ingredient and composition panel"
+      ],
+      "unknownFields": [
+        "Curcumin amount",
+        "Bromelain and papain amounts"
+      ],
+      "sourceUrls": [
+        "https://foodstrong.in/products/whey-protein-malai-kulfi-1-kg?variant=46883273605350",
+        "https://cdn.shopify.com/s/files/1/0430/7986/0381/files/DP07_NI.jpg?v=1791804054",
+        "https://foodstrong.in/products/whey-protein-malai-kulfi-1-kg.json"
+      ],
+      "notes": "The exact Malai Kulfi gallery composition panel was reviewed separately. Declared composition: 24.5 g protein and 134.2 kcal per 35 g scoop; per100 g values are calculated from those serving amounts. Rounded serving counts do not replace the actual selected1/2kg pack. The manufacturer advertises added turmeric across the range, but some ingredient graphics omit it; curcumin quantity is not established. Review the current pack composition and herb exposure before stack inclusion. Enzyme ingredients are bromelain and papain; amounts are not declared. Advertising about anti-inflammatory effects, hormone-free sourcing, zero bloating or improved absorption is not adopted as verified comparative benefit. Generic body copy says26g, but the exact detailed Malai Kulfi panel declares24.5g; the detailed composition panel is used."
+    },
+    {
+      "category": "protein",
+      "offerId": "protein-foodstrong-46883272491238",
+      "brand": "Foodstrong",
+      "product": "Whey Protein",
+      "url": "https://foodstrong.in/products/whey-protein-cookies-cream-1kg?variant=46883272491238",
+      "checked": "2026-11-20",
+      "status": "verified-primary",
+      "verifiedFields": [
+        "Exact current manufacturer product and selected retail pack",
+        "Selected INR selling price and stock",
+        "Reviewed exact-flavour ingredient and composition panel"
+      ],
+      "unknownFields": [
+        "Curcumin amount",
+        "Bromelain and papain amounts"
+      ],
+      "sourceUrls": [
+        "https://foodstrong.in/products/whey-protein-cookies-cream-1kg?variant=46883272491238",
+        "https://cdn.shopify.com/s/files/1/0430/7986/0381/files/10_458531f5-ece5-421c-bf19-3b90a60f01d5.jpg?v=1791048847",
+        "https://foodstrong.in/products/whey-protein-cookies-cream-1kg.json"
+      ],
+      "notes": "The exact Cookies & Cream gallery composition panel was reviewed separately. Declared composition: 24.4 g protein and 125.6 kcal per 35 g scoop; per100 g values are calculated from those serving amounts. Rounded serving counts do not replace the actual selected1/2kg pack. The manufacturer advertises added turmeric across the range, but some ingredient graphics omit it; curcumin quantity is not established. Review the current pack composition and herb exposure before stack inclusion. Enzyme ingredients are bromelain and papain; amounts are not declared. Advertising about anti-inflammatory effects, hormone-free sourcing, zero bloating or improved absorption is not adopted as verified comparative benefit. Generic body copy says26g, but the exact detailed Cookies & Cream panel declares24.4g; the detailed composition panel is used."
+    },
+    {
+      "category": "creatine",
+      "offerId": "creatine-foodstrong-45572670619878",
+      "brand": "Foodstrong",
+      "product": "Micronised Creatine Monohydrate With Electrolytes",
+      "url": "https://foodstrong.in/products/creatine?variant=45572670619878",
+      "checked": "2026-11-20",
+      "status": "verified-primary",
+      "verifiedFields": [
+        "Exact current manufacturer product and selected retail pack",
+        "Selected INR selling price and stock",
+        "Reviewed exact-flavour ingredient and composition panel"
+      ],
+      "unknownFields": [
+        "Magnesium inclusion/amount",
+        "Unresolved contradictory per100g active figure"
+      ],
+      "sourceUrls": [
+        "https://foodstrong.in/products/creatine?variant=45572670619878",
+        "https://cdn.shopify.com/s/files/1/0430/7986/0381/files/CREATINE-SOP-BOP.jpg?v=1748151145",
+        "https://foodstrong.in/products/creatine.json"
+      ],
+      "notes": "Actual100g retail jar. The back panel states a3.3g heap scoop containing3g creatine monohydrate,77.5mg sodium and51.9mg potassium. Concentration90.91% is calculated from3g/3.3g, not from the contradictory100g creatine per100 g column or100% pure-creatine marketing. Label energy is0kcal. Front/how-to graphics round the scoop to3g; the detailed panel serving is retained. Marketing mentions magnesium, but the reviewed panel and ingredients only quantify sodium and potassium; magnesium is unknown. Superior absorption is not assumed."
+    },
+    {
+      "category": "creatine",
+      "offerId": "creatine-xlr8-59941101",
+      "brand": "XLR8",
+      "product": "Micronised Creatine Monohydrate",
+      "url": "https://xlr8sport.com/products/buy-micronized-creatine-monohydrate-online?sku_id=59941101",
+      "checked": "2026-11-20",
+      "status": "verified-primary",
+      "verifiedFields": [
+        "Exact current manufacturer product and selected retail pack",
+        "Selected INR selling price and stock",
+        "Reviewed exact-flavour ingredient and composition panel"
+      ],
+      "unknownFields": [],
+      "sourceUrls": [
+        "https://xlr8sport.com/products/buy-micronized-creatine-monohydrate-online?sku_id=59941101",
+        "https://dms.mydukaan.io/original/jpeg/media/53d59b2a-4ab4-4c2a-b82a-87b4e527b101.jpg",
+        "https://xlr8sport.com/products/buy-micronized-creatine-monohydrate-online?sku_id=59941101"
+      ],
+      "notes": "Exact selected 100g jar and matching-flavour gallery panel reviewed. Unflavoured label states3g monohydrate per3g scoop,100g per100 g,0kcal and creatine monohydrate as the sole ingredient. Superior absorption/performance advertising is not adopted. Exact SKU price is used; parent minimum199INR does not replace the100g SKU price299INR."
+    },
+    {
+      "category": "creatine",
+      "offerId": "creatine-xlr8-60763377",
+      "brand": "XLR8",
+      "product": "Micronised Creatine Monohydrate",
+      "url": "https://xlr8sport.com/products/buy-micronized-creatine-monohydrate-online?sku_id=60763377",
+      "checked": "2026-11-20",
+      "status": "verified-primary",
+      "verifiedFields": [
+        "Exact current manufacturer product and selected retail pack",
+        "Selected INR selling price and stock",
+        "Reviewed exact-flavour ingredient and composition panel"
+      ],
+      "unknownFields": [],
+      "sourceUrls": [
+        "https://xlr8sport.com/products/buy-micronized-creatine-monohydrate-online?sku_id=60763377",
+        "https://dms.mydukaan.io/original/jpeg/media/d43cb1bf-cfba-4874-96c0-1a7025dc3405.jpg",
+        "https://xlr8sport.com/products/buy-micronized-creatine-monohydrate-online?sku_id=60763377"
+      ],
+      "notes": "Exact selected 60g jar and matching-flavour gallery panel reviewed. Unflavoured label states3g monohydrate per3g scoop,100g per100 g,0kcal and creatine monohydrate as the sole ingredient. Superior absorption/performance advertising is not adopted. Exact SKU price is used; parent minimum199INR does not replace the100g SKU price299INR."
+    },
+    {
+      "category": "creatine",
+      "offerId": "creatine-xlr8-59941033",
+      "brand": "XLR8",
+      "product": "Micronised Creatine Monohydrate",
+      "url": "https://xlr8sport.com/products/buy-micronized-creatine-monohydrate-online?sku_id=59941033",
+      "checked": "2026-11-20",
+      "status": "verified-primary",
+      "verifiedFields": [
+        "Exact current manufacturer product and selected retail pack",
+        "Selected INR selling price and stock",
+        "Reviewed exact-flavour ingredient and composition panel"
+      ],
+      "unknownFields": [],
+      "sourceUrls": [
+        "https://xlr8sport.com/products/buy-micronized-creatine-monohydrate-online?sku_id=59941033",
+        "https://dms.mydukaan.io/original/jpeg/media/f8a78bcd-122d-4dab-9029-c95b7964ecb9.jpg",
+        "https://xlr8sport.com/products/buy-micronized-creatine-monohydrate-online?sku_id=59941033"
+      ],
+      "notes": "Exact selected 100g jar and matching-flavour gallery panel reviewed. Flavoured label states3g monohydrate per4g scoop,75g per100 g and0kcal. It includes acidity regulatorINS330, sweetenerINS955, flavour and permitted synthetic colour; it is not100% creatine by powder mass. Superior absorption/performance advertising is not adopted. Exact SKU price is used; parent minimum199INR does not replace the100g SKU price299INR."
+    },
+    {
+      "category": "creatine",
+      "offerId": "creatine-xlr8-59941035",
+      "brand": "XLR8",
+      "product": "Micronised Creatine Monohydrate",
+      "url": "https://xlr8sport.com/products/buy-micronized-creatine-monohydrate-online?sku_id=59941035",
+      "checked": "2026-11-20",
+      "status": "verified-primary",
+      "verifiedFields": [
+        "Exact current manufacturer product and selected retail pack",
+        "Selected INR selling price and stock",
+        "Reviewed exact-flavour ingredient and composition panel"
+      ],
+      "unknownFields": [],
+      "sourceUrls": [
+        "https://xlr8sport.com/products/buy-micronized-creatine-monohydrate-online?sku_id=59941035",
+        "https://dms.mydukaan.io/original/jpeg/media/a11e13f3-4e41-4d33-b81b-e5d8ebe9d05b.jpg",
+        "https://xlr8sport.com/products/buy-micronized-creatine-monohydrate-online?sku_id=59941035"
+      ],
+      "notes": "Exact selected 100g jar and matching-flavour gallery panel reviewed. Flavoured label states3g monohydrate per4g scoop,75g per100 g and0kcal. It includes acidity regulatorINS330, sweetenerINS955, flavour and permitted synthetic colour; it is not100% creatine by powder mass. Superior absorption/performance advertising is not adopted. Exact SKU price is used; parent minimum199INR does not replace the100g SKU price299INR."
+    },
+    {
+      "category": "creatine",
+      "offerId": "creatine-xlr8-60674970",
+      "brand": "XLR8",
+      "product": "Crea Rush Creatine HCl with BCAA and Taurine",
+      "url": "https://xlr8sport.com/products/creatine-hcl-post-workout-supplement-crearush?sku_id=60674970",
+      "checked": "2026-11-20",
+      "status": "verified-primary",
+      "verifiedFields": [
+        "Exact current manufacturer product and selected retail pack",
+        "Selected INR selling price and stock",
+        "Reviewed exact-flavour ingredient and composition panel"
+      ],
+      "unknownFields": [],
+      "sourceUrls": [
+        "https://xlr8sport.com/products/creatine-hcl-post-workout-supplement-crearush?sku_id=60674970",
+        "https://dms.mydukaan.io/original/jpeg/media/f1e73f20-c4ed-49d2-a7fa-47529f29dbc8.jpg",
+        "https://xlr8sport.com/products/creatine-hcl-post-workout-supplement-crearush?sku_id=60674970"
+      ],
+      "notes": "Exact selected Fruit Fusion1kg jar and flavour-specific nutrition panel reviewed. One15g scoop declares1.5g creatineHCl,46.5kcal,500mg taurine,375mg leucine,187mg valine,188mg isoleucine,66.6mg sodium,21.2mg potassium and1.5mg magnesium. Per100g label declares10g creatineHCl and310kcal; a second30g serving is also printed but does not replace the chosen one-scoop15g basis. Contains dextrose and77.51g carbohydrate per100 g. HCl mass is compound mass, not free-creatine equivalent. Manufacturer wording such as superior absorption/no bloating/advanced or elite dosing is not treated as an established efficacy advantage or a personalised recommendation."
+    },
+    {
+      "category": "creatine",
+      "offerId": "creatine-xlr8-60674971",
+      "brand": "XLR8",
+      "product": "Crea Rush Creatine HCl with BCAA and Taurine",
+      "url": "https://xlr8sport.com/products/creatine-hcl-post-workout-supplement-crearush?sku_id=60674971",
+      "checked": "2026-11-20",
+      "status": "verified-primary",
+      "verifiedFields": [
+        "Exact current manufacturer product and selected retail pack",
+        "Selected INR selling price and stock",
+        "Reviewed exact-flavour ingredient and composition panel"
+      ],
+      "unknownFields": [],
+      "sourceUrls": [
+        "https://xlr8sport.com/products/creatine-hcl-post-workout-supplement-crearush?sku_id=60674971",
+        "https://dms.mydukaan.io/original/jpeg/media/f8998b39-83f2-4624-820b-3361a63f1ee2.jpg",
+        "https://xlr8sport.com/products/creatine-hcl-post-workout-supplement-crearush?sku_id=60674971"
+      ],
+      "notes": "Exact selected Orange1kg jar and flavour-specific nutrition panel reviewed. One15g scoop declares1.5g creatineHCl,46.5kcal,500mg taurine,375mg leucine,187mg valine,188mg isoleucine,66.6mg sodium,21.2mg potassium and1.5mg magnesium. Per100g label declares10g creatineHCl and310kcal; a second30g serving is also printed but does not replace the chosen one-scoop15g basis. Contains dextrose and77.51g carbohydrate per100 g. HCl mass is compound mass, not free-creatine equivalent. Manufacturer wording such as superior absorption/no bloating/advanced or elite dosing is not treated as an established efficacy advantage or a personalised recommendation."
     }
   ],
   "exclusions": [
@@ -58898,6 +60209,118 @@
       "url": "https://nutrabay.com/brand/nutrabay",
       "checked": "2026-11-20",
       "reason": "ZMA has no declared calcium active; included under magnesium rather than misclassified as ZMC."
+    },
+    {
+      "category": "protein",
+      "brand": "TruNativ",
+      "product": "Whey Protein Pro Blend",
+      "url": "https://trunativ.co/products/whey-protein-pro-blend",
+      "checked": "2026-11-20",
+      "reason": "Official public product/feed requests returned HTTP 401. Publicly indexed Pro Blend 907 g pack is outside requested1/2/4 kg protein sizes; no extrapolation or stale search price imported."
+    },
+    {
+      "category": "protein",
+      "brand": "XLR8",
+      "product": "Whey Protein",
+      "url": "https://xlr8sport.com/",
+      "checked": "2026-11-20",
+      "reason": "Official store lists 1/2/4/8 lb whey packs; exact1/2/4 kg net powder evidence was not established. Pound sizes are not converted into nominal kilogram entries."
+    },
+    {
+      "category": "protein",
+      "brand": "One Science Nutrition",
+      "product": "Iso Gold",
+      "url": "https://www.trustified.in/proteinpowders",
+      "checked": "2026-11-20",
+      "reason": "Trustified discovery includes a failed tested batch, so the brand was not treated as passed. New product import deferred to exact current retail source/label verification; testing status must remain batch scoped."
+    },
+    {
+      "category": "protein",
+      "brand": "Alpino",
+      "product": "Supernatural Peanut Protein aliases/combo",
+      "url": "https://alpino.store/products.json?limit=250",
+      "checked": "2026-11-20",
+      "reason": "Alias handles and shaker bundles were not added as duplicate packs;3kg mixed-flavour trio and36g trial sizes are outside1/2/4 kg protein requirement."
+    },
+    {
+      "category": "protein",
+      "brand": "Mille",
+      "product": "Protein trials,500g packs and mixed-flavour combos",
+      "url": "https://livemille.com/products.json?limit=250",
+      "checked": "2026-11-20",
+      "reason": "Protein 500 g/38 g trials excluded from1/2/4 kg requirement; mixed-flavour and duplicate 500 g x 2 listings not added to prevent duplicating flavours or merging unlike serving composition."
+    },
+    {
+      "category": "protein",
+      "brand": "One Science Nutrition",
+      "product": "ISO Gold Whey Protein Isolate",
+      "url": "https://onesciencenutrition.in/products/iso-gold-protein",
+      "checked": "2026-11-20",
+      "reason": "Official actual packs are 907 g and 2.27 kg; excluded under the catalog exact 1/2/4 kg policy. No scaling or rounded pound conversion."
+    },
+    {
+      "category": "protein",
+      "brand": "One Science Nutrition",
+      "product": "Other pea and fermented-yeast flavours",
+      "url": "https://onesciencenutrition.in/collections/all-products",
+      "checked": "2026-11-20",
+      "reason": "Exact flavour prices exist but only Rich Chocolate composition panels were reviewed. Generic family nutrition is not copied across flavours."
+    },
+    {
+      "category": "pre-workout",
+      "brand": "Muscle Club",
+      "product": "Ring Man - Mango 140 g",
+      "url": "https://nutrabay.com/product/muscle-club-ring-man-pre-workout-supplement/?pId=6970353&vId=5945266",
+      "checked": "2026-11-20",
+      "reason": "Selected retail price INR629 and front-label net140 g verified, but machine-readable selection has only 20 Servings and no explicit selected weight. Current strict nutrabay-product profile rejects this unsupported weight identity; listing deferred rather than weakening parser. Actual label also declares adenosine 5-monophosphate400 mg, arginine HCl1000 mg, beta-alanine2000 mg, taurine1000 mg and caffeine anhydrous200 mg per7 g; no recommendation made."
+    },
+    {
+      "category": "protein",
+      "brand": "Muscle Gears",
+      "product": "Advanced Whey",
+      "url": "https://www.trustified.in/passandfail/musclegearswhey",
+      "checked": "2026-11-20",
+      "reason": "Historical test record identifies a product but no current exact 1/2/4 kg selected retail pack and unconditional current price was verified in this review."
+    },
+    {
+      "category": "creatine",
+      "brand": "XLR8",
+      "product": "250g Micronised Creatine Monohydrate SKUs",
+      "url": "https://xlr8sport.com/products/buy-micronized-creatine-monohydrate-online",
+      "checked": "2026-11-20",
+      "reason": "250gm SKU60763373 selected gallery shows60g artwork;250gm SKU60370525 shows100g artwork. Actual size/formula linkage is inconsistent, so these were excluded instead of transferring a different-size label."
+    },
+    {
+      "category": "protein",
+      "brand": "XLR8",
+      "product": "BCAA and Pre-workout",
+      "url": "https://xlr8sport.com/categories/pre-workout",
+      "checked": "2026-11-20",
+      "reason": "Current public category pages did not expose verifiable product listings and exact variant nutrition/pack evidence. No historical or generic prices imported."
+    },
+    {
+      "category": "protein",
+      "brand": "Foodstrong",
+      "product": "500g yeast/plant protein, trial sachets and shakes",
+      "url": "https://foodstrong.in/products.json?limit=250",
+      "checked": "2026-11-20",
+      "reason": "Protein scope remains actual1/2/4kg powder packs.500g,525/529/543g trial boxes and liquid shakes are excluded; shipping grams in the feed can be1000g even for500g products and were not used as net mass."
+    },
+    {
+      "category": "protein",
+      "brand": "MAXN",
+      "product": "IsoPro Whey Protein Isolate",
+      "url": "https://maxn.in/product/best-whey-protein-isolate/",
+      "checked": "2026-11-20",
+      "reason": "Official page exposes a price range and WooCommerce variations; exact current1kg variant/label linkage was not established under supported refresh profiles in this pass. Aggregate lowPrice not imported."
+    },
+    {
+      "category": "protein",
+      "brand": "Maxener Wellness",
+      "product": "Raw Whey80+ / current assortment",
+      "url": "https://maxenerwellness.com/shop.php?category=protein",
+      "checked": "2026-11-20",
+      "reason": "Current manufacturer shop verified for discovery, but exact selected product/formulation, price and actual1kg label evidence were not completed. No price extrapolation or stale indexed offer imported."
     }
   ],
   "coverage": [
@@ -58905,32 +60328,32 @@
       "category": "protein",
       "label": "Protein",
       "beforeOffers": 827,
-      "offers": 860,
-      "brands": 24,
+      "offers": 886,
+      "brands": 30,
       "priceChecks": 825,
-      "newOffers": 33,
-      "verifiedPrices": 859,
-      "priceCheckedOnAuditDate": 20,
-      "knownLabelServing": 640,
-      "labelsCheckedOnAuditDate": 20,
-      "labelsReviewedDuringPeriod": 37,
-      "knownActiveCost": 732,
+      "newOffers": 59,
+      "verifiedPrices": 885,
+      "priceCheckedOnAuditDate": 46,
+      "knownLabelServing": 666,
+      "labelsCheckedOnAuditDate": 46,
+      "labelsReviewedDuringPeriod": 63,
+      "knownActiveCost": 757,
       "retailerQuotes": 4
     },
     {
       "category": "creatine",
       "label": "Creatine",
       "beforeOffers": 196,
-      "offers": 215,
-      "brands": 22,
+      "offers": 227,
+      "brands": 26,
       "priceChecks": 195,
-      "newOffers": 19,
-      "verifiedPrices": 214,
-      "priceCheckedOnAuditDate": 11,
+      "newOffers": 31,
+      "verifiedPrices": 226,
+      "priceCheckedOnAuditDate": 23,
       "knownLabelServing": 99,
-      "labelsCheckedOnAuditDate": 11,
-      "labelsReviewedDuringPeriod": 19,
-      "knownActiveCost": 111,
+      "labelsCheckedOnAuditDate": 23,
+      "labelsReviewedDuringPeriod": 31,
+      "knownActiveCost": 123,
       "retailerQuotes": 4
     },
     {
@@ -58953,16 +60376,16 @@
       "category": "fish-oil",
       "label": "Fish Oil",
       "beforeOffers": 14,
-      "offers": 24,
-      "brands": 10,
+      "offers": 25,
+      "brands": 11,
       "priceChecks": 14,
-      "newOffers": 10,
-      "verifiedPrices": 24,
-      "priceCheckedOnAuditDate": 8,
-      "knownLabelServing": 15,
-      "labelsCheckedOnAuditDate": 10,
-      "labelsReviewedDuringPeriod": 12,
-      "knownActiveCost": 15,
+      "newOffers": 11,
+      "verifiedPrices": 25,
+      "priceCheckedOnAuditDate": 9,
+      "knownLabelServing": 16,
+      "labelsCheckedOnAuditDate": 11,
+      "labelsReviewedDuringPeriod": 13,
+      "knownActiveCost": 16,
       "retailerQuotes": 3
     },
     {
@@ -59193,15 +60616,15 @@
       "category": "citrulline",
       "label": "Citrulline",
       "beforeOffers": 7,
-      "offers": 12,
-      "brands": 8,
+      "offers": 13,
+      "brands": 9,
       "priceChecks": 7,
-      "newOffers": 5,
-      "verifiedPrices": 12,
-      "priceCheckedOnAuditDate": 2,
-      "knownLabelServing": 11,
-      "labelsCheckedOnAuditDate": 2,
-      "labelsReviewedDuringPeriod": 5,
+      "newOffers": 6,
+      "verifiedPrices": 13,
+      "priceCheckedOnAuditDate": 3,
+      "knownLabelServing": 12,
+      "labelsCheckedOnAuditDate": 3,
+      "labelsReviewedDuringPeriod": 6,
       "knownActiveCost": 5,
       "retailerQuotes": 0
     },
@@ -59287,16 +60710,16 @@
     }
   ],
   "summary": {
-    "offers": 1435,
-    "brands": 45,
-    "newOffers": 264,
+    "offers": 1475,
+    "brands": 52,
+    "newOffers": 304,
     "existingOffersPriceChecked": 1167,
-    "priceCheckedOnAuditDate": 128,
-    "labelsCheckedOnAuditDate": 118,
-    "labelsReviewedDuringPeriod": 279,
-    "verifiedPrices": 1433,
+    "priceCheckedOnAuditDate": 168,
+    "labelsCheckedOnAuditDate": 158,
+    "labelsReviewedDuringPeriod": 319,
+    "verifiedPrices": 1473,
     "categories": 24,
-    "exclusions": 38,
+    "exclusions": 52,
     "retailerQuotes": 11
   },
   "reviewStart": "2026-11-19",

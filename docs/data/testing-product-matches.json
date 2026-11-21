@@ -1,0 +1,1172 @@
+{
+  "schemaVersion": 1,
+  "checked": "2026-11-20",
+  "scope": "Reviewed product-line links only. No flavour, formula, retail batch or brand-wide certification is asserted. Unresolved source products stay visible in the testing directory without a catalog link.",
+  "matches": [
+    {
+      "id": "protein-1",
+      "category": "protein",
+      "brand": "Cutler Nutrition",
+      "products": [
+        "Total Iso Whey Isolate"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "Cutler Nutrition",
+          "product": "Total Iso Whey Isolate"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "protein-2",
+      "category": "protein",
+      "brand": "BigMuscles Nutrition",
+      "products": [
+        "Premium Gold Whey Protein | 25g Protein | Informed Choice"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "Bigmuscles Gold Whey",
+          "product": "Premium Gold Whey"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Source calls this Premium Gold Whey under Bigmuscles Gold Whey. Linked to the Premium Gold line only; historical sample results do not establish the composition or testing status of the current Informed Choice-labelled formula, flavour or batch. Historical failures require review."
+    },
+    {
+      "id": "protein-4",
+      "category": "protein",
+      "brand": "Alpino",
+      "products": [
+        "Supernatural Peanut Protein"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "Alpino",
+          "product": "Supernatural Peanut Protein"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "protein-5",
+      "category": "protein",
+      "brand": "Mille",
+      "products": [
+        "Fermented Yeast Protein"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "Mille",
+          "product": "Plant Protein 25g"
+        },
+        {
+          "brand": "Mille",
+          "product": "Plant Protein 31g"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Mille markets the reviewed fermented yeast range as Plant Protein, with 25g flavoured and 31g unflavoured claims. Both source records are related line-level evidence; the offered flavour, current formula and batch are unverified."
+    },
+    {
+      "id": "protein-6",
+      "category": "protein",
+      "brand": "Only What's Needed",
+      "products": [
+        "Whey Protein Concentrate"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "Only What's Needed",
+          "product": "Whey Protein Concentrate"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Named standard whey concentrate line only. The separately listed current unflavoured D3/B12-fortified formulas are not covered by this match. Tested flavour and current retail batch are unverified."
+    },
+    {
+      "id": "protein-7",
+      "category": "protein",
+      "brand": "AS-IT-IS Nutrition",
+      "products": [
+        "AS-IT-IS ONE Whey Protein Concentrate"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "AS-IT-IS Nutrition",
+          "product": "Whey Protein Concentrate 80 %"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "protein-8",
+      "category": "protein",
+      "brand": "AS-IT-IS Nutrition",
+      "products": [
+        "AS-IT-IS ONE Whey Protein Isolate"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "AS-IT-IS Nutrition",
+          "product": "100 % Whey Protein Isolate,"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "protein-9",
+      "category": "protein",
+      "brand": "AS-IT-IS Nutrition",
+      "products": [
+        "AS-IT-IS ONE Soy Protein Isolate"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "AS-IT-IS Nutrition",
+          "product": "Soy Protein Isolate"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "protein-10",
+      "category": "protein",
+      "brand": "AS-IT-IS Nutrition",
+      "products": [
+        "AS-IT-IS ATOM Whey Protein"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "AS-IT-IS Nutrition",
+          "product": "Atom Whey Protein Enzyme"
+        },
+        {
+          "brand": "AS-IT-IS Nutrition",
+          "product": "Atom Whey Protein Enzyme Blend"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "protein-11",
+      "category": "protein",
+      "brand": "AS-IT-IS Nutrition",
+      "products": [
+        "AS-IT-IS ATOM Whey Protein Isolate"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "AS-IT-IS Nutrition",
+          "product": "ATOM Whey Protein Isolate"
+        },
+        {
+          "brand": "AS-IT-IS Nutrition",
+          "product": "Atom Whey Protein Isolate"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "creatine-12",
+      "category": "creatine",
+      "brand": "AS-IT-IS Nutrition",
+      "products": [
+        "AS-IT-IS ATOM Creasure® Creatine Monohydrate"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "AS-IT-IS Nutrition",
+          "product": "Creasure® 100% Creatine Monohydrate"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "creatine-13",
+      "category": "creatine",
+      "brand": "AS-IT-IS Nutrition",
+      "products": [
+        "AS-IT-IS ATOM Creatine Monohydrate"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "AS-IT-IS Nutrition",
+          "product": "Creatine Monohydrate",
+          "sourceUrls": [
+            "https://www.trustified.in/passandfail/asitis-atom-creatine"
+          ]
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Source creatine records explicitly associated with the ATOM line in their report URLs; no link is applied to the separately listed ONE or Creasure products. Offered formulation and batch unverified."
+    },
+    {
+      "id": "protein-14",
+      "category": "protein",
+      "brand": "Avvatar",
+      "products": [
+        "Performance Whey"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "Avvatar",
+          "product": "100 % Performance Whey"
+        },
+        {
+          "brand": "Avvatar",
+          "product": "100% Performance Whey"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "protein-15",
+      "category": "protein",
+      "brand": "Avvatar",
+      "products": [
+        "Whey Protein"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "Avvatar",
+          "product": "Avvatar Blend Whey"
+        },
+        {
+          "brand": "Avvatar",
+          "product": "Avvatar Whey Blend"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "protein-16",
+      "category": "protein",
+      "brand": "Avvatar",
+      "products": [
+        "Nitro Iso Whey"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "Avvatar",
+          "product": "Avvatar Nitro Iso Whey"
+        },
+        {
+          "brand": "Avvatar",
+          "product": "Nitro Iso Whey"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "protein-17",
+      "category": "protein",
+      "brand": "Avvatar",
+      "products": [
+        "Fuel Whey"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "Avvatar",
+          "product": "Fuel Whey"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "protein-18",
+      "category": "protein",
+      "brand": "Fuel One",
+      "products": [
+        "Whey Iso-Max"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "Fuel One",
+          "product": "Fuel One Whey Iso-Max"
+        },
+        {
+          "brand": "Fuel One",
+          "product": "Whey Max Iso"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "protein-19",
+      "category": "protein",
+      "brand": "Fuel One",
+      "products": [
+        "Whey Max"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "Fuel One",
+          "product": "Fuel One Whey Max"
+        },
+        {
+          "brand": "Fuel One",
+          "product": "Whey Max"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "protein-20",
+      "category": "protein",
+      "brand": "MuscleBlaze",
+      "products": [
+        "Biozyme Gold 100% Whey"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "MuscleBlaze",
+          "product": "Biozyme Gold 100% Whey"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "protein-21",
+      "category": "protein",
+      "brand": "MuscleBlaze",
+      "products": [
+        "Biozyme Performance Whey"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "MuscleBlaze",
+          "product": "Biozyme Performance Whey"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "protein-22",
+      "category": "protein",
+      "brand": "MuscleBlaze",
+      "products": [
+        "Biozyme Whey PR"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "MuscleBlaze",
+          "product": "Biozyme Performance Whey PR"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "product": "Biozyme Whey PR"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "protein-23",
+      "category": "protein",
+      "brand": "MuscleBlaze",
+      "products": [
+        "100% Clean Raw Whey Protein Concentrate"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "MuscleBlaze",
+          "product": "Raw Whey Protein 80%"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "protein-24",
+      "category": "protein",
+      "brand": "MuscleBlaze",
+      "products": [
+        "Whey Gold 100% Whey Protein Isolate"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "MuscleBlaze",
+          "product": "Whey Gold"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "product": "Whey Gold 100% Whey"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "creatine-25",
+      "category": "creatine",
+      "brand": "MuscleBlaze",
+      "products": [
+        "Creatine Monohydrate CreAMP"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "MuscleBlaze",
+          "product": "Creatine Monohydrate"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "product": "Muscleblaze CreaAMP"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Source CreaAMP / CreAMP named line and retests; not the separately cataloged CreaPRO Creapure product. Flavoured formulas and retail batches remain unverified."
+    },
+    {
+      "id": "creatine-26",
+      "category": "creatine",
+      "brand": "MuscleBlaze",
+      "products": [
+        "Micronised Creatine Monohydrate"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "MuscleBlaze",
+          "product": "Pure Creatine Monohydrate"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "pre-workout-27",
+      "category": "pre-workout",
+      "brand": "MuscleBlaze",
+      "products": [
+        "Pre Workout WrathX"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "MuscleBlaze",
+          "product": "Pre Workout Wrath X"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "pre-workout-28",
+      "category": "pre-workout",
+      "brand": "MuscleBlaze",
+      "products": [
+        "PRE Workout 200 Xtreme"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "MuscleBlaze",
+          "product": "Pre-Workout 200 Xtreme"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "protein-29",
+      "category": "protein",
+      "brand": "Muscle Nectar",
+      "products": [
+        "MuscleNectar Whey Protein Isolate - 27g Protein with Digestive Enzymes"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "MuscleNectar",
+          "product": "100% Isolate Whey Protein"
+        },
+        {
+          "brand": "MuscleNectar",
+          "product": "Whey Protein Isolate"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "protein-30",
+      "category": "protein",
+      "brand": "Muscle Nectar",
+      "products": [
+        "Muscle Nectar Whey Blend - 24g Protein with Enzymes"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "MuscleNectar",
+          "product": "100% Whey Protein"
+        },
+        {
+          "brand": "MuscleNectar",
+          "product": "100% Whey Protein Powder"
+        },
+        {
+          "brand": "MuscleNectar",
+          "product": "Whey Protein Blend"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "creatine-31",
+      "category": "creatine",
+      "brand": "Muscle Nectar",
+      "products": [
+        "Muscle Nectar Creatine Monohydrate – Micronized Creatine"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "MuscleNectar",
+          "product": "Creatine Monohydrate"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "protein-32",
+      "category": "protein",
+      "brand": "NAKPRO",
+      "products": [
+        "Nakpro Impact Whey Protein"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "Nakpro",
+          "product": "Impact Whey Protein"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "protein-33",
+      "category": "protein",
+      "brand": "NAKPRO",
+      "products": [
+        "Nakpro Perform Whey Protein Concentrate",
+        "Nakpro Perform Whey Protein Concentrate (jar)"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "Nakpro",
+          "product": "Nakpro Perform Whey"
+        },
+        {
+          "brand": "Nakpro",
+          "product": "Perform Whey Concentrate"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "protein-34",
+      "category": "protein",
+      "brand": "NAKPRO",
+      "products": [
+        "Nakpro Plant Protein Powder"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "Nakpro",
+          "product": "Plant Protein"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "protein-35",
+      "category": "protein",
+      "brand": "NAKPRO",
+      "products": [
+        "Nakpro Whey Gold Protein Concentrate",
+        "Nakpro Whey Gold Protein Concentrate (jar)",
+        "Nakpro Whey Gold Whey Protein Blend",
+        "Nakpro Whey Gold Whey Protein Concentrate (jar)"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "Nakpro",
+          "product": "GOLD 100% Whey Protein"
+        },
+        {
+          "brand": "Nakpro",
+          "product": "Whey Gold"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Named standard Whey Gold product line only, excluding Gold Plus. Current catalog contains different concentrate/blend declarations, which are not assumed identical to the tested formula; reports are related line-level evidence, with flavour and batch unverified."
+    },
+    {
+      "id": "protein-36",
+      "category": "protein",
+      "brand": "NAKPRO",
+      "products": [
+        "Nakpro Platinum Raw Whey Protein Isolate",
+        "Nakpro Platinum Raw Whey Protein Isolate (jar)",
+        "Nakpro Platinum Whey Protein Isolate",
+        "Nakpro Platinum Whey Protein Isolate (jar)"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "Nakpro",
+          "product": "Whey Platinum Isolate"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "protein-37",
+      "category": "protein",
+      "brand": "NAKPRO",
+      "products": [
+        "Nakpro Wheyzyme Absorption Whey Protein (Isolate & Concentrate)"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "Nakpro",
+          "product": "Whey Zyme"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "creatine-38",
+      "category": "creatine",
+      "brand": "NAKPRO",
+      "products": [
+        "Nakpro Micronized Creatine Monohydrate"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "Nakpro",
+          "product": "Creatine Monohydrate"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "protein-39",
+      "category": "protein",
+      "brand": "Naturaltein",
+      "products": [
+        "Natural Whey Protein Concentrate"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "Naturaltein",
+          "product": "Whey Protein Concentrate"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "protein-40",
+      "category": "protein",
+      "brand": "Naturaltein",
+      "products": [
+        "Natural Whey Protein Isolate"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "Naturaltein",
+          "product": "Whey Protein Isolate"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "protein-41",
+      "category": "protein",
+      "brand": "Naturaltein",
+      "products": [
+        "Natural Whey Protein ISO BOOST"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "Naturaltein",
+          "product": "Whey Protein Isoboost"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "protein-42",
+      "category": "protein",
+      "brand": "Naturaltein",
+      "products": [
+        "Natural Whey Protein Max"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "Naturaltein",
+          "product": "Max Whey Protein"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "protein-43",
+      "category": "protein",
+      "brand": "Naturaltein",
+      "products": [
+        "Natural Yeast Protein"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "Naturaltein",
+          "product": "Yeast Protein"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "creatine-44",
+      "category": "creatine",
+      "brand": "Naturaltein",
+      "products": [
+        "CREA BOOST Creatine Monohydrate"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "Naturaltein",
+          "product": "Crea Boost Creatine Monohydrate"
+        },
+        {
+          "brand": "Naturaltein",
+          "product": "Creaboost Creatine Monohydrate"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "fish-oil-45",
+      "category": "fish-oil",
+      "brand": "Naturaltein",
+      "products": [
+        "Ultimate Omega 3"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "Naturaltein",
+          "product": "Ultimate Omega 3"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "protein-46",
+      "category": "protein",
+      "brand": "Nutrabay",
+      "products": [
+        "Gold Whey Protein Concentrate"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "Nutrabay",
+          "product": "100% Whey Protein Concentrate"
+        },
+        {
+          "brand": "Nutrabay",
+          "product": "Concentrate Whey Protein"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "protein-47",
+      "category": "protein",
+      "brand": "Nutrabay",
+      "products": [
+        "Gold Whey Protein Isolate"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "Nutrabay",
+          "product": "Nutrabay Gold 100% Whey Protein Isolate"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "protein-48",
+      "category": "protein",
+      "brand": "Nutrabay",
+      "products": [
+        "Gold Hydrolyzed Pea Protein"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "Nutrabay",
+          "product": "Gold Hydrolyzed Pea Protein"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact hydrolyzed-pea source identity only; an older plain pea-isolate record at the same source URL is preserved separately and is not treated as the same formula."
+    },
+    {
+      "id": "creatine-49",
+      "category": "creatine",
+      "brand": "Nutrabay",
+      "products": [
+        "Pure Creatine Monohydrate Micronized"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "Nutrabay",
+          "product": "Creatine Monohydrate"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Related Pure creatine product line only. Current smaller packs declare 96.8% creatine plus FOS and differ from older 100% formulations; no tested-purity claim is applied to the current formula, flavour or batch. Gold flavoured creatine is not covered."
+    },
+    {
+      "id": "protein-50",
+      "category": "protein",
+      "brand": "Nutrabox",
+      "products": [
+        "Raw Whey Protein"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "Nutrabox",
+          "product": "100 % Raw Whey Protein"
+        },
+        {
+          "brand": "Nutrabox",
+          "product": "Raw 100% Whey Protein"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "protein-51",
+      "category": "protein",
+      "brand": "Nutrabox",
+      "products": [
+        "Whey Protein"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "Nutrabox",
+          "product": "100 % Whey Protein"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "protein-52",
+      "category": "protein",
+      "brand": "Nutrabox",
+      "products": [
+        "Soy Protein Isolate"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "Nutrabox",
+          "product": "100% Soy Isolate"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "protein-53",
+      "category": "protein",
+      "brand": "Nutrabox",
+      "products": [
+        "Ripped Whey Isolate"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "Nutrabox",
+          "product": "Nutrabox Ripped 100% Whey Isolate"
+        },
+        {
+          "brand": "Nutrabox",
+          "product": "Ripped 100% Whey Isolate"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "protein-54",
+      "category": "protein",
+      "brand": "Nutrabox",
+      "products": [
+        "Vegan Protein (Plant Protein Fruity)"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "Nutrabox",
+          "product": "Vegan Protein"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "creatine-55",
+      "category": "creatine",
+      "brand": "Nutrabox",
+      "products": [
+        "Alpha Creatine Monohydrate"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "Nutrabox",
+          "product": "The Alpha Creatine"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "protein-56",
+      "category": "protein",
+      "brand": "SuperYou",
+      "products": [
+        "Fermented Yeast Protein"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "Superyou",
+          "product": "Fermented Yeast Protein"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "protein-57",
+      "category": "protein",
+      "brand": "The Whole Truth",
+      "products": [
+        "The Whole Truth Raw Whey Protein Concentrate"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "The Whole Truth",
+          "product": "Raw Whey Protein Concentrate"
+        },
+        {
+          "brand": "The Whole Truth",
+          "product": "The Whole Truth Concentrate"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "protein-58",
+      "category": "protein",
+      "brand": "The Whole Truth",
+      "products": [
+        "The Whole Truth Pure Whey Protein Isolate"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "The Whole Truth",
+          "product": "Raw Whey Isolate"
+        },
+        {
+          "brand": "The Whole Truth",
+          "product": "Raw Whey Protein Isolate"
+        },
+        {
+          "brand": "The Whole Truth",
+          "product": "The Whole Truth Isolate"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "protein-59",
+      "category": "protein",
+      "brand": "The Whole Truth",
+      "products": [
+        "The Whole Truth Flavoured Whey Protein"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "The Whole Truth",
+          "product": "Cleanest Whey Protein"
+        },
+        {
+          "brand": "The Whole Truth",
+          "product": "The Whole Truth Cleanest Protein"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "protein-60",
+      "category": "protein",
+      "brand": "TrueBasics",
+      "products": [
+        "TrueBasics Clean Plant Protein"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "Truebasics",
+          "product": "Truebasics Clean Plant Protein"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "protein-61",
+      "category": "protein",
+      "brand": "TrueBasics",
+      "products": [
+        "TrueBasics Clean Whey Protein Isolate"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "Truebasics",
+          "product": "Clean Whey Protein Isolate"
+        },
+        {
+          "brand": "Truebasics",
+          "product": "Clean Whey Protein",
+          "sourceUrls": [
+            "https://www.trustified.in/passandfail/truebasiccleanisolate"
+          ]
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "The vanilla source image for batch MMCWPV001 explicitly declares protein from isolate (30g), despite its generic Clean Whey Protein text header. Exact source URL and named isolate record are linked to the isolate line only. Current formulation, flavour and retail batch remain unverified."
+    },
+    {
+      "id": "protein-62",
+      "category": "protein",
+      "brand": "TrueBasics",
+      "products": [
+        "TrueBasics Clean Whey Protein Isolate + Concentrate"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "Truebasics",
+          "product": "Clean Whey Protein",
+          "sourceUrls": [
+            "https://www.trustified.in/passandfail/cleanwheyprotein",
+            "https://www.trustified.in/goldcertified/cleanwheyprotein"
+          ]
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Source product-label image for batch MMCWPC001 explicitly declares isolate + concentrate (25g chocolate). The source URL pins that formula; a different vanilla isolate at a similarly generic text name is not included. Current flavour, formula and retail batch remain unverified."
+    },
+    {
+      "id": "creatine-63",
+      "category": "creatine",
+      "brand": "Wellcore",
+      "products": [
+        "Creatine Monohydrate"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "Wellversed",
+          "product": "Micronised Creatine Monohydrate"
+        },
+        {
+          "brand": "Wellversed",
+          "product": "Wellcore Creatine"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Wellversed is the source brand name for the Wellcore creatine line. No match is applied to the separately listed Women formula. Current formulation, flavour and retail batch are unverified."
+    },
+    {
+      "id": "magnesium-64",
+      "category": "magnesium",
+      "brand": "HK Vitals",
+      "products": [
+        "100% Magnesium Glycinate"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "HK Vitals",
+          "product": "Magnesium Glycinate"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact named product line reviewed against the catalog. Source spelling aliases are explicit; tested flavour, historical formula and current retail batch are not established."
+    },
+    {
+      "id": "creatine-asitis-one",
+      "category": "creatine",
+      "brand": "AS-IT-IS Nutrition",
+      "products": [
+        "AS-IT-IS ONE Creatine Monohydrate"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "AS-IT-IS Nutrition",
+          "product": "Creatine Monohydrate",
+          "sourceUrls": [
+            "https://www.trustified.in/passandfail/asitisonecreatine"
+          ]
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Exact ONE creatine source URL distinguishes the identically named ATOM record; source batch ASC 6033 is not a verification of current retail stock."
+    },
+    {
+      "id": "protein-foodstrong-whey",
+      "category": "protein",
+      "brand": "Foodstrong",
+      "products": [
+        "Whey Protein",
+        "Raw Whey Protein"
+      ],
+      "sourceIdentities": [
+        {
+          "brand": "Foodstrong",
+          "product": "Grass Fed Whey"
+        }
+      ],
+      "relation": "product-line",
+      "matchBasis": "Historical Grass Fed Whey record is linked as related range evidence. Current raw/flavoured packs have reviewed formulation differences and added nutrients; no tested-formula or retail-batch equivalence is asserted. The source expired listing is not an offered-pack expiry verdict."
+    }
+  ]
+}

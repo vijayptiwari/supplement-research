@@ -84,6 +84,16 @@ class AdditionalCatalogTests(unittest.TestCase):
    self.run_import('--categories','bcaa')
   self.assertFalse((self.data/'bcaa.json').exists())
 
+ def test_legacy_protein_file_without_category_refreshes_through_its_configured_filename(self):
+  self.write('site.json',{'categories':[{'id':'protein','file':'catalog.json'}]})
+  original={'id':'old','brand':'Original','price':123};new={'id':'new','brand':'New brand','price':456}
+  self.write('catalog.json',{'checked':'2026-10-29','offers':[original]})
+  with contextlib.redirect_stdout(io.StringIO()):IMPORTER.save_refreshed_categories(self.root,{'protein':[new]},'2026-11-20')
+  saved=json.loads((self.data/'catalog.json').read_text(encoding='utf-8'))
+  self.assertEqual(saved['category'],'protein');self.assertEqual(saved['offers'],[original,new]);self.assertFalse((self.data/'protein.json').exists())
+  self.write('catalog.json',{'category':'creatine','offers':[original]})
+  with self.assertRaisesRegex(ValueError,'another category'):IMPORTER.save_refreshed_categories(self.root,{'protein':[new]},'2026-11-20')
+
 
 if __name__ == '__main__':
  unittest.main()

@@ -207,5 +207,42 @@
     "domain": "nutrabay.com",
     "storeUrl": "https://nutrabay.com/brand/osoaa",
     "sourceRole": "Retailer brand directory"
+  },
+  "Alpino": {
+    "name": "Alpino",
+    "domain": "alpino.store",
+    "storeUrl": "https://alpino.store"
+  },
+  "Mille": {
+    "name": "Mille",
+    "domain": "livemille.com",
+    "storeUrl": "https://livemille.com"
+  },
+  "Only What's Needed": {
+    "name": "Only What's Needed",
+    "domain": "onlywhatsneeded.in",
+    "storeUrl": "https://onlywhatsneeded.in"
+  },
+  "One Science Nutrition": {
+    "name": "One Science Nutrition",
+    "domain": "onesciencenutrition.in",
+    "storeUrl": "https://onesciencenutrition.in/",
+    "sourceRole": "Official India brand store"
+  },
+  "Cutler Nutrition": {
+    "name": "Cutler Nutrition",
+    "domain": "nutrabay.com",
+    "storeUrl": "https://nutrabay.com/brand/cutler-nutrition",
+    "sourceRole": "Retailer brand directory"
+  },
+  "Foodstrong": {
+    "name": "Foodstrong",
+    "domain": "foodstrong.in",
+    "storeUrl": "https://foodstrong.in"
+  },
+  "XLR8": {
+    "name": "XLR8",
+    "domain": "xlr8sport.com",
+    "storeUrl": "https://xlr8sport.com"
   }
 }

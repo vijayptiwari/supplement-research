@@ -55,9 +55,24 @@ def jsonld_variant(raw,entry):
     if not math.isfinite(price) or price<=0:raise ValueError('Selected variant needs a positive listed price: '+entry['variantUrl'])
     weight=variant.get('weight',{})
     if entry.get('form')=='Powder':
-     if not isinstance(weight,dict) or weight.get('unitCode') not in ['KGM','GRM']:raise ValueError('Selected powder variant needs a supported structured weight: '+entry['variantUrl'])
-     try:grams=float(weight['value'])*(1000 if weight['unitCode']=='KGM' else 1)
-     except (KeyError,TypeError,ValueError):raise ValueError('Selected powder variant weight is invalid: '+entry['variantUrl'])
+     if not weight and entry.get('netWeightEvidenceUrl'):
+      # Some manufacturers publish the exact SKU's mass in its name/label only.
+      # A dated review plus an explicit same-variant mass is required; never use
+      # the parent name, a pound conversion, serving count or shipping weight.
+      proof=urlsplit(entry['netWeightEvidenceUrl']);stamp=entry.get('netWeightEvidenceChecked','')
+      try:valid_date=bool(re.fullmatch(r'\d{4}-\d{2}-\d{2}',stamp)) and datetime.date.fromisoformat(stamp)<=datetime.date.today()
+      except (TypeError,ValueError):valid_date=False
+      name=variant.get('name','')
+      # Explicit '2 kg Pack (1 kg x 2)' is a retail total, whereas '24 g'
+      # at the start of a protein name is often the protein per serving.
+      pack_masses=re.findall(r'(?:^|[|/])\s*(\d+(?:\.\d+)?)\s*(kg|g|grams?)\s+(?:pack|pouch|jar|tub|bag)\b',name,re.I)
+      masses=[float(n)*(1000 if unit.lower()=='kg' else 1) for n,unit in pack_masses or re.findall(r'(?<![\w.])(\d+(?:\.\d+)?)\s*(kg|g|grams?)(?!\w)',name,re.I)]
+      grams=entry.get('netWeightEvidenceGrams')
+      if proof.scheme!='https' or proof.hostname!=urlsplit(entry['variantUrl']).hostname or not valid_date or entry.get('variantName',name)!=name or entry.get('netWeightEvidenceTitle',name)!=name or isinstance(grams,bool) or not isinstance(grams,(int,float)) or not math.isfinite(grams) or grams<=0 or not masses or any(abs(m-grams)>.001 for m in masses):raise ValueError('Selected powder variant needs dated net weight evidence and matching explicit grams in the exact variant name: '+entry['variantUrl'])
+     else:
+      if not isinstance(weight,dict) or weight.get('unitCode') not in ['KGM','GRM']:raise ValueError('Selected powder variant needs a supported structured weight: '+entry['variantUrl'])
+      try:grams=float(weight['value'])*(1000 if weight['unitCode']=='KGM' else 1)
+      except (KeyError,TypeError,ValueError):raise ValueError('Selected powder variant weight is invalid: '+entry['variantUrl'])
      if not math.isfinite(grams) or grams<=0:raise ValueError('Selected powder variant weight is invalid: '+entry['variantUrl'])
      if abs(grams-entry['grams'])>.001:raise ValueError('Selected variant weight differs from curated label profile: '+entry['variantUrl'])
     status=offer.get('availability','').rsplit('/',1)[-1]
@@ -69,8 +84,121 @@ def jsonld_variant(raw,entry):
 def source_kind(entry):
  """Unrecognized providers must not fall through to Shopify/default pricing."""
  kind=entry.get('kind','shopify')
- if kind not in ['shopify','jsonld','html','magento-configurable','hk-product','nutrabay-product']:raise ValueError('Unsupported product source kind: '+str(kind))
+ if kind not in ['shopify','jsonld','html','magento-configurable','hk-product','nutrabay-product','dukaan-product']:raise ValueError('Unsupported product source kind: '+str(kind))
  return kind
+
+class DukaanDataScript(HTMLParser):
+ """Read the inert public Dukaan JSON; never execute storefront JavaScript."""
+ def __init__(self):super().__init__();self.capture=False;self.parts=[];self.documents=[];self.online=[]
+ def handle_starttag(self,tag,attrs):
+  attributes=dict(attrs)
+  if tag=='html':self.online.append(attributes.get('data-store-online'))
+  if tag=='script' and attributes.get('id')=='__DUKAAN_DATA__':
+   if attributes.get('type')!='application/json':raise ValueError('Dukaan product data must be inert application/json.')
+   self.capture=True;self.parts=[]
+ def handle_data(self,data):
+  if self.capture:self.parts.append(data)
+ def handle_endtag(self,tag):
+  if tag=='script' and self.capture:
+   try:self.documents.append(json.loads(''.join(self.parts)))
+   except json.JSONDecodeError:raise ValueError('Public Dukaan product data is not valid JSON.')
+   self.capture=False
+
+def dukaan_product_variant(raw,entry):
+ """Match both public SKU records, not the parent/default/range or coupon price."""
+ pid=str(entry.get('productId',''));vid=str(entry.get('variantId',''));sid=str(entry.get('storeId',''));sku=entry.get('variantSku')
+ if any(not re.fullmatch(r'[1-9]\d*',value) for value in [pid,vid,sid]) or not isinstance(sku,str) or not re.fullmatch(r'[0-9a-f]{8}(?:-[0-9a-f]{4}){3}-[0-9a-f]{12}',sku,re.I):raise ValueError('Dukaan needs exact store, product and SKU IDs plus the SKU UUID.')
+ norm=lambda value:' '.join(str(value).split()).casefold()
+ base=urlsplit(entry.get('base',''));urls=[urlsplit(entry.get(key,'')) for key in ['productUrl','variantUrl']]
+ if base.scheme!='https' or not base.hostname or base.username or base.password or base.port not in [None,443] or base.path not in ['', '/'] or base.query or base.fragment:raise ValueError('Dukaan requires a clean HTTPS storefront base.')
+ for url in urls:
+  query=parse_qs(url.query,keep_blank_values=True)
+  if url.scheme!='https' or url.hostname!=base.hostname or url.username or url.password or url.port not in [None,443] or url.fragment or not url.path.startswith('/products/') or query!={'sku_id':[vid]}:raise ValueError('Dukaan exact product URLs must pin one matching variant on the curated storefront.')
+ reader=DukaanDataScript();reader.feed(raw)
+ if len(reader.documents)!=1 or reader.online!=['true']:raise ValueError('Dukaan needs one public product document and an explicitly online storefront.')
+ data=reader.documents[0]
+ if not isinstance(data,dict):raise ValueError('Dukaan public product data must be an object.')
+ store=data.get('DUKAAN_STORE');product=data.get('DUKAAN_PRODUCT')
+ if not isinstance(store,dict) or not isinstance(product,dict) or str(store.get('id',''))!=sid or str(product.get('id',''))!=pid or not isinstance(product.get('store'),dict) or str(product['store'].get('id',''))!=sid:raise ValueError('Dukaan store or product differs from the curated identity.')
+ if store.get('is_active') is not True or product.get('is_active') is not True or type(product.get('product_type')) is not int or product['product_type']!=1 or product.get('product_bundle_type') is not None:raise ValueError('Dukaan record is not an active ordinary retail product.')
+ if norm(store.get('custom_domain',''))!=base.hostname or data.get('DUKAAN_CURRENT_PAGE_HOST')!=base.hostname:raise ValueError('Dukaan store domain differs from the curated storefront.')
+ for key in ['CANONICAL_BASE_URL','CANONICAL_URL','CURRENT_URL']:
+  url=urlsplit(data.get(key,''))
+  if url.scheme!='https' or url.hostname!=base.hostname or url.username or url.password or url.port not in [None,443] or url.fragment or (key=='CANONICAL_BASE_URL' and (url.path not in ['', '/'] or url.query)):raise ValueError('Dukaan public canonical/store URL differs from the curated storefront.')
+  if key!='CANONICAL_BASE_URL' and (url.path.rstrip('/')!='/products/'+str(product.get('slug','')) or url.query and parse_qs(url.query,keep_blank_values=True)!={'sku_id':[vid]}):raise ValueError('Dukaan public product URL disagrees with the selected SKU.')
+ slug=product.get('slug');name=product.get('name');brand=entry.get('sourceBrand',entry.get('brand'))
+ if not isinstance(slug,str) or not re.fullmatch(r'[a-z0-9]+(?:-[a-z0-9]+)*',slug) or any(url.path.rstrip('/')!='/products/'+slug for url in urls):raise ValueError('Dukaan exact URL slug does not match the returned product.')
+ if not isinstance(name,str) or not name.strip() or not isinstance(entry.get('sourceProductName'),str) or name!=entry['sourceProductName'] or not isinstance(entry.get('sourceStoreName'),str) or store.get('name')!=entry['sourceStoreName'] or not isinstance(brand,str) or not brand.strip() or not all(re.match(re.escape(norm(brand))+r'(?:\W|$)',norm(value)) for value in [name,store['name']]):raise ValueError('Dukaan product/store names and source brand must match the curated brand identity.')
+ if store.get('currency_code')!='INR':raise ValueError('Dukaan store currency must explicitly be INR.')
+ for node in [store,product['store']]:
+  currency=node.get('currency')
+  if not isinstance(currency,dict) or any(currency.get(key)!='INR' for key in ['cc','code','currency_code']):raise ValueError('Dukaan store currency declarations are missing or conflicting.')
+ def attributes(node):
+  values=node.get('attributes')
+  if not isinstance(values,list) or not values:raise ValueError('Dukaan SKU needs explicit complete variant attributes.')
+  result={}
+  for attribute in values:
+   if not isinstance(attribute,dict) or not isinstance(attribute.get('master_attribute'),str) or not attribute['master_attribute'].strip() or not isinstance(attribute.get('value'),str) or not attribute['value'].strip() or attribute['master_attribute'] in result:raise ValueError('Dukaan SKU attributes are malformed or duplicated.')
+   result[attribute['master_attribute']]=attribute['value']
+  return result
+ wanted=entry.get('variantAttributes')
+ if not isinstance(wanted,dict) or not wanted or any(not isinstance(k,str) or not k.strip() or not isinstance(v,str) or not v.strip() for k,v in wanted.items()):raise ValueError('Dukaan requires all selected attribute names and values.')
+ selected=[]
+ for key in ['product_skus','skus']:
+  children=product.get(key)
+  if not isinstance(children,list) or any(not isinstance(child,dict) for child in children):raise ValueError('Dukaan public SKU collections are missing or malformed.')
+  matches=[child for child in children if str(child.get('id',''))==vid]
+  if len(matches)!=1 or matches[0].get('uuid')!=sku:raise ValueError('Dukaan exact selected SKU ID/UUID is missing, ambiguous or changed.')
+  child=matches[0];actual=attributes(child)
+  if set(actual)!=set(wanted) or any(norm(value)!=norm(actual[key]) for key,value in wanted.items()):raise ValueError('Every Dukaan selected SKU attribute must match the curated pack.')
+  if child.get('is_active') is False or key=='product_skus' and child.get('is_active') is not True:raise ValueError('Dukaan selected SKU is not explicitly active.')
+  if entry.get('variantCode') is not None and child.get('sku_code')!=entry['variantCode']:raise ValueError('Dukaan selected merchant SKU code differs from the curated pack.')
+  selected.append(child)
+ def mass(value):
+  match=re.fullmatch(r'\s*(\d+(?:\.\d+)?)\s*(kg|g|gm|grams?)(?:\s*\([^)]*\))?\s*',value,re.I)
+  return float(match[1])*(1000 if match[2].lower()=='kg' else 1) if match else None
+ size_keys={'size','weight','pack size','pack-size','pack_size','quantity','count'}
+ pack_values=[value for key,value in wanted.items() if norm(key) in size_keys]
+ if entry.get('form')=='Powder':
+  grams=entry.get('grams');proof=[mass(value) for value in pack_values];proof=[v for v in proof if v is not None]
+  if isinstance(grams,bool) or not isinstance(grams,(int,float)) or not math.isfinite(grams) or grams<=0:raise ValueError('Dukaan requires actual positive net powder grams.')
+  if not proof:
+   # A single-size, flavour-only family may publish mass in its exact name.
+   # Dated label evidence must be on this page or in this SKU's own gallery.
+   # Any size/quantity dimension prevents this fallback, including siblings.
+   stamp=entry.get('netWeightEvidenceChecked','');label=entry.get('netWeightEvidenceUrl');label_url=urlsplit(label if isinstance(label,str) else '')
+   try:valid_date=isinstance(stamp,str) and bool(re.fullmatch(r'\d{4}-\d{2}-\d{2}',stamp)) and datetime.date.fromisoformat(stamp)<=datetime.date.today()
+   except ValueError:valid_date=False
+   own_images=[image for child in selected for image in (child.get('all_images') if isinstance(child.get('all_images'),list) else []) if isinstance(image,str)]
+   own_evidence=label in [entry['productUrl'],entry['variantUrl']]+own_images
+   name_masses=[float(n)*(1000 if unit.lower()=='kg' else 1) for n,unit in re.findall(r'(?<![\w.])(\d+(?:\.\d+)?)\s*(kg|g|gm|grams?)(?!\w)',name,re.I)]
+   flavour_keys={'flavor','flavour','color','colour'}
+   flavour_only=all(set(norm(k) for k in attributes(child))<=flavour_keys for collection in ['product_skus','skus'] for child in product[collection])
+   if not valid_date or label_url.scheme!='https' or label_url.username or label_url.password or not own_evidence or entry.get('netWeightEvidenceGrams')!=grams or not flavour_only or not name_masses:raise ValueError('Dukaan single-size name fallback requires dated exact-SKU label evidence and no size variants.')
+   proof=name_masses
+  if any(not math.isfinite(value) or abs(value-grams)>.001 for value in proof):raise ValueError('Dukaan actual selected net grams disagree with the curated pack; pounds and shipping weights are not converted.')
+ else:
+  count=entry.get('packCount');forms={'Tablet':r'tablets?|tabs?','Capsule':r'capsules?|caps?','Softgel':r'softgels?','Gummy':r'gummies','Oral strip':r'(?:oral\s+)?strips?'};unit_pattern=forms.get(entry.get('form'));counts=[]
+  if unit_pattern:
+   for value in pack_values:
+    match=re.fullmatch(r'\s*(\d+)\s*('+unit_pattern+r')\s*',value,re.I)
+    if match:counts.append(int(match[1]))
+  if not isinstance(count,int) or isinstance(count,bool) or count<=0 or not counts or any(value!=count for value in counts):raise ValueError('Dukaan exact retail unit count and dosage form are not established.')
+ prices=[]
+ for child in selected:
+  value=child.get('selling_price')
+  try:price=Decimal(str(value))
+  except (InvalidOperation,TypeError,ValueError):raise ValueError('Dukaan selected ordinary selling_price is invalid.')
+  if isinstance(value,bool) or not price.is_finite() or price<=0 or not math.isfinite(float(price)):raise ValueError('Dukaan selected ordinary selling_price must be positive and finite.')
+  prices.append(price)
+ if prices[0]!=prices[1]:raise ValueError('Dukaan selected ordinary SKU prices conflict between public records.')
+ stocks=[child.get('in_stock') for child in selected]
+ if any(value is not None and not isinstance(value,bool) for value in stocks) or len({value for value in stocks if isinstance(value,bool)})>1:raise ValueError('Dukaan selected SKU availability is malformed or conflicting.')
+ available=stocks[0] if all(isinstance(value,bool) for value in stocks) else None
+ if any(product.get(key) is not None and not isinstance(product[key],bool) for key in ['in_stock','manual_out_of_stock']):raise ValueError('Dukaan parent availability is malformed.')
+ if product.get('manual_out_of_stock') is True:available=False
+ if product.get('in_stock') is False and available is True:raise ValueError('Dukaan parent availability contradicts the selected SKU.')
+ return dict(id=vid,title=name+' / '+' / '.join(wanted.values()),price=float(prices[0]),available=available,currency='INR')
 
 class NextDataScript(HTMLParser):
  """Read public server-rendered JSON without executing page JavaScript."""
@@ -313,7 +441,8 @@ def save_refreshed_categories(root,categories,as_of):
   filename=files.get(category,category+'.json')
   if not re.fullmatch(r'[a-z][a-z0-9-]*\.json',filename):raise ValueError('Unsafe category data filename.')
   target=data/filename;prior=json.loads(target.read_text(encoding='utf-8')) if target.exists() else dict(category=category,offers=[])
-  prior.update(checked=as_of,offers=merge_refreshed_offers(prior['offers'],offers));pending.append((target,prior))
+  if prior.get('category') not in [None,category]:raise ValueError('Existing category file belongs to another category.')
+  prior.update(category=category,checked=as_of,offers=merge_refreshed_offers(prior['offers'],offers));pending.append((target,prior))
  # Validate every merge before writing any category.
  for target,payload in pending:
   target.write_text(json.dumps(payload,ensure_ascii=False,indent=2),encoding='utf-8')
@@ -329,9 +458,9 @@ def main():
   if entry['category'] not in categories:continue
   kind=source_kind(entry)
   brand=entry['brand'];base=entry['base'];handle=entry.get('handle');url=entry.get('productUrl') or base+'/products/'+handle
-  if kind in ['hk-product','nutrabay-product']:
+  if kind in ['hk-product','nutrabay-product','dukaan-product']:
    raw_path=cache/(entry['cacheKey']+'.html');raw=get(url) if args.refresh or not raw_path.exists() else raw_path.read_text(encoding='utf-8');raw_path.write_text(raw,encoding='utf-8')
-   variants=[(hk_product_variant if kind=='hk-product' else nutrabay_product_variant)(raw,entry)];evidence=url
+   variants=[{'hk-product':hk_product_variant,'nutrabay-product':nutrabay_product_variant,'dukaan-product':dukaan_product_variant}[kind](raw,entry)];evidence=url
   elif kind=='magento-configurable':
    raw_path=cache/(entry['cacheKey']+'.html');raw=get(url) if args.refresh or not raw_path.exists() else raw_path.read_text(encoding='utf-8');raw_path.write_text(raw,encoding='utf-8')
    variants=[magento_configurable_variant(raw,entry)];evidence=url
@@ -366,12 +495,12 @@ def main():
    if powder:
     quantity=None
     if not isinstance(entry.get('grams'),(int,float)) or isinstance(entry['grams'],bool) or entry['grams']<=0:excluded.append(dict(url=url,variant=variant['id'],reason='Net powder grams not verified.'));continue
-    if kind not in ['jsonld','magento-configurable','hk-product','nutrabay-product'] and not entry.get('variantIds') and not entry.get('variantTitles'):raise ValueError('Powder profile requires explicit variant selection so weight and flavour cannot leak across packs: '+url)
+    if kind not in ['jsonld','magento-configurable','hk-product','nutrabay-product','dukaan-product'] and not entry.get('variantIds') and not entry.get('variantTitles'):raise ValueError('Powder profile requires explicit variant selection so weight and flavour cannot leak across packs: '+url)
    elif not quantity:excluded.append(dict(url=url,variant=variant['id'],reason='Pack count not verified.'));continue
-   row={k:v for k,v in entry.items() if k not in ['category','base','handle','variantTitles','variantIds','cacheKey','kind','id','numericVariantIsCount','allowRetailMultipack','productUrl','variantUrl','variantSku','variantId','variantOptions','productId','sourceBrand','variantAttributes']}
+   row={k:v for k,v in entry.items() if k not in ['category','base','handle','variantTitles','variantIds','cacheKey','kind','id','numericVariantIsCount','allowRetailMultipack','productUrl','variantUrl','variantSku','variantId','variantOptions','productId','sourceBrand','variantAttributes','storeId','sourceStoreName','sourceProductName','variantCode']}
    row.update(id=entry.get('id') or f"{entry['category']}-{variant['id']}",product=entry['product'],packCount=quantity,price=float(variant['price']),currency='INR',stock='In stock' if variant.get('available') is True else 'Sold out' if variant.get('available') is False else 'Listed; confirm stock',url=url if entry.get('kind')=='html' else url+'?variant='+str(variant['id']),nutritionUrl=entry.get('nutritionUrl',url),flavour=entry.get('flavour','Unflavoured'),packaging=entry.get('packaging','Single retail pack'),labelChecked=entry.get('labelChecked',manifest['labelChecked']))
-   if kind in ['jsonld','magento-configurable','hk-product','nutrabay-product']:row['url']=entry['variantUrl']
-   categories[entry['category']].append(row);observations.append(dict(category=entry['category'],offerId=row['id'],date=args.as_of,price=row['price'],currency='INR',sourceUrl=row['url'],evidenceUrl=evidence,kind='official-live',matchBasis='Nutrabay exact selected product/variant ID, SKU, brand and all attributes; ordinary INR sale price, stock and net retail pack verified' if kind=='nutrabay-product' else 'Public HK-platform exact published product/variant ID, source brand and all selected attributes; unconditional INR offer price and exact retail pack checked'+('; gram weight from separately reviewed selected-pack label, not rounded pounds' if entry.get('netWeightEvidenceUrl') else '') if kind=='hk-product' else 'Official Magento exact child ID and all attribute options; INR tax-inclusive child finalPrice and net pack weight checked; child stock unverified' if kind=='magento-configurable' else 'Official exact ProductGroup variant SKU and URL; pack weight checked' if kind=='jsonld' else 'Official primary product page and explicitly selected pack' if kind=='html' else 'Official Shopify exact variant ID; net powder grams verified' if powder else 'Official Shopify exact variant ID; retail-pack count verified',variantId=None if kind=='html' else str(variant['id'])))
+   if kind in ['jsonld','magento-configurable','hk-product','nutrabay-product','dukaan-product']:row['url']=entry['variantUrl']
+   categories[entry['category']].append(row);observations.append(dict(category=entry['category'],offerId=row['id'],date=args.as_of,price=row['price'],currency='INR',sourceUrl=row['url'],evidenceUrl=evidence,kind='official-live',matchBasis='Official Dukaan exact store/product/SKU ID and UUID plus all selected attributes; ordinary INR selling_price, stock and actual retail net pack verified' if kind=='dukaan-product' else 'Nutrabay exact selected product/variant ID, SKU, brand and all attributes; ordinary INR sale price, stock and net retail pack verified' if kind=='nutrabay-product' else 'Public HK-platform exact published product/variant ID, source brand and all selected attributes; unconditional INR offer price and exact retail pack checked'+('; gram weight from separately reviewed selected-pack label, not rounded pounds' if entry.get('netWeightEvidenceUrl') else '') if kind=='hk-product' else 'Official Magento exact child ID and all attribute options; INR tax-inclusive child finalPrice and net pack weight checked; child stock unverified' if kind=='magento-configurable' else 'Official exact ProductGroup variant SKU and URL; pack weight checked' if kind=='jsonld' else 'Official primary product page and explicitly selected pack' if kind=='html' else 'Official Shopify exact variant ID; net powder grams verified' if powder else 'Official Shopify exact variant ID; retail-pack count verified',variantId=None if kind=='html' else str(variant['id'])))
  save_refreshed_categories(ROOT,categories,args.as_of)
  ledger_path=ROOT/'docs/data/price-observations.json';ledger=json.loads(ledger_path.read_text(encoding='utf-8'));merged={observation_key(r):r for r in ledger['observations']}
  merged.update({observation_key(r):r for r in observations});ledger.update(checked=max(ledger.get('checked',''),args.as_of),observations=list(merged.values()));ledger_path.write_text(json.dumps(ledger,ensure_ascii=False),encoding='utf-8')

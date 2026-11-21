@@ -55,6 +55,18 @@ class JsonLdCatalogTests(unittest.TestCase):
    with self.assertRaisesRegex(ValueError,'weight'):
     IMPORTER.jsonld_variant(self.html(group),self.profile)
 
+ def test_missing_structured_weight_requires_exact_variant_mass_and_dated_same_site_label_evidence(self):
+  group=copy.deepcopy(self.group);del group['hasVariant'][1]['weight']
+  profile=dict(self.profile,netWeightEvidenceGrams=250,netWeightEvidenceUrl=self.profile['variantUrl'],netWeightEvidenceChecked='2026-11-20')
+  self.assertEqual(IMPORTER.jsonld_variant(self.html(group),profile)['price'],599)
+  for changes in [dict(netWeightEvidenceGrams=100),dict(netWeightEvidenceGrams=True),dict(netWeightEvidenceUrl='https://other.example/label'),dict(netWeightEvidenceChecked='2026-02-30'),dict(netWeightEvidenceChecked='2099-01-01')]:
+   with self.assertRaisesRegex(ValueError,'weight'):
+    IMPORTER.jsonld_variant(self.html(group),dict(profile,**changes))
+  for name in ['Generic beta-alanine','Beta-alanine 0.55 lb','Beta-alanine 250 servings','Beta-alanine 100 g','Beta-alanine 250 g + 100 g']:
+   changed=copy.deepcopy(group);changed['hasVariant'][1]['name']=name
+   with self.assertRaisesRegex(ValueError,'weight'):
+    IMPORTER.jsonld_variant(self.html(changed),profile)
+
 class MagentoCatalogTests(unittest.TestCase):
  def setUp(self):
   self.profile=dict(kind='magento-configurable',category='taurine',brand='Example',base='https://example.org',productUrl='https://example.org/taurine',variantUrl='https://example.org/taurine?super_attribute%5B140%5D=8&super_attribute%5B181%5D=76',variantId='47',variantOptions={'140':'8','181':'76'},form='Powder',grams=100,servingGrams=2,product='Taurine',id='taurine-example-47',cacheKey='taurine')

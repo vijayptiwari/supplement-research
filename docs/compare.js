@@ -1,4 +1,5 @@
 import {guideHref} from './routes.js';
+import {testingStatusLabels} from './testing-evidence.js';
 import {escapeHtml as esc,formatDate,https} from './model.js';
 import {nutrientCostFields,nutrientCostKey} from './units.js';
 const key=pick=>JSON.stringify([pick.category,String(pick.id)]);
@@ -31,6 +32,7 @@ export function buildComparison(snapshot,picks){
  if(!category)return {category:null,offers:[],rows:[],note:''};
  const money=value=>value==null?'Unknown':new Intl.NumberFormat(snapshot.config.locale||'en-IN',{style:'currency',currency:snapshot.config.currency||'INR',maximumFractionDigits:2}).format(value);
  const row=(id,label,read)=>({id,label,values:offers.map(read)}),rows=[row('flavour','Flavour',r=>r.flavour||'Unknown'),row('type','Source / chemical form',r=>r.type||'Unknown'),row('subclass','Subclass / formulation',r=>r.subclass||'Unknown'),row('pack','Exact pack',pack),row('price','Catalog pack price',r=>money(r.price)),row('price-status','Price evidence',r=>r.priceAudit?.status||'unverified'),row('price-date','Price observed',r=>formatDate(r.priceAudit?.checked)),row('stock','Stock at observation',r=>r.stock||'Not verified'),row('research-date','Category research date',()=>formatDate(category.asOf))];
+ rows.push(row('testing','Trustified product-line evidence',r=>r.testing?.reports.length?[...new Set(r.testing.reports.map(t=>testingStatusLabels[t.reportedStatus]))].join('; ')+'; current retail batch unverified':'No curated report link'),row('product-review','Automatic stack review',r=>r.requiresProductReview?'Separate review required':'No product review flag'));
  if(category.measurement==='units'){
   rows.push(row('form','Dosage form',r=>r.form||'Unknown'),row('serving','Label serving',serving),row('servings','Label servings per pack',r=>quantity(r.packServings)),row('unit-cost','Cost per single unit',r=>money(r.unitCost)),row('serving-cost','Cost per label serving',r=>money(r.servingCost)));
   if(category.supportsPowder)rows.push(row('powder-cost','Cost per g powder',r=>money(r.powderCost)),row('powder-energy','Energy per 100 g powder (calculated)',r=>quantity(r.energy,'kcal')));

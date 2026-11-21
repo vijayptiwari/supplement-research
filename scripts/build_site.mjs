@@ -10,7 +10,7 @@ export async function loadBundle(){
  const config=await read('site.json'),categories={};
  for(const c of config.categories)categories[c.id]=await read(c.file);
  const ledger=await read(config.observationsFile);
- return {config,categories,catalogResearch:config.catalogResearchFile?await read(config.catalogResearchFile):null,research:await read('research.json'),recommender:await read('recommender.json'),brands:await read(config.brandsFile),observations:ledger.observations};
+ return {config,categories,testing:config.testingFile?await read(config.testingFile):null,catalogResearch:config.catalogResearchFile?await read(config.catalogResearchFile):null,research:await read('research.json'),recommender:await read('recommender.json'),brands:await read(config.brandsFile),observations:ledger.observations};
 }
 export async function buildSite(destination=path.join(root,'dist')){
  const bundle=await loadBundle(),snapshot=createSnapshot(bundle);
@@ -26,7 +26,9 @@ export async function buildSite(destination=path.join(root,'dist')){
  // Only the build owns dist. Remove obsolete content-addressed bundles from previous builds.
  for(const name of await fs.readdir(path.join(destination,'data')))if(/^snapshot\.[a-f0-9]+\.json$/.test(name))await fs.unlink(path.join(destination,'data',name));
  const write=async(file,value)=>fs.writeFile(path.join(destination,file),typeof value==='string'?value:JSON.stringify(value));
- for(const c of Object.values(snapshot.categories))await write('data/'+c.file,{checked:c.asOf,category:c.id,...(c.educationOnly?{scope:c.scope}:{}),offers:c.offers});
+ // Export references, not a copy of every report for every flavour and pack.
+ // The atomic snapshot and testing ledger keep one authoritative report history.
+ for(const c of Object.values(snapshot.categories))await write('data/'+c.file,{checked:c.asOf,category:c.id,...(c.educationOnly?{scope:c.scope}:{}),offers:c.offers.map(r=>({...r,testing:{reportIds:r.testing.reports.map(t=>t.id),matchIds:r.testing.matches.map(m=>m.id),currentBatchVerified:false,reviewRequired:r.testing.reviewRequired}}))});
  const rows=auditRows(snapshot),summary={offers:rows.length,current_verified:snapshot.stats.verifiedPrices,quarter_comparable:snapshot.stats.verifiedTrends,up:rows.filter(r=>r.direction==='up').length,down:rows.filter(r=>r.direction==='down').length,stable:rows.filter(r=>r.direction==='stable').length,historical_quotes_excluded:bundle.observations.filter(o=>o.qualityStatus==='excluded').length};
  await write('data/price-audit.json',{checked:snapshot.asOf,historyWindowQuarters:snapshot.config.historyQuarters,summary:{...summary,historicalSlots:snapshot.stats.historicalSlots,verifiedHistoricalSlots:snapshot.stats.historicalVerified,completeHistoryOffers:snapshot.stats.fullHistoryOffers},comparisonScope:'Change counts describe current versus the latest completed quarter. All requested quarters are in price-history.json and price-history.csv.',rows});
  const columns=Object.keys(rows[0]||{}),cell=x=>'"'+(typeof x==='string'?x.replace(/^[=+@-]/,"'$&"):String(x??'')).replaceAll('"','""')+'"';

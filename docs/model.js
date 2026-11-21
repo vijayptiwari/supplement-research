@@ -1,4 +1,5 @@
 import {validateProductPolicy} from './product-policy.js';
+import {validateTestingEvidence,testingForOffer} from './testing-evidence.js';
 import {validateClinicalGuidance} from './guidance-validation.js';
 import {validateLearningContent} from './learning-validation.js';
 // Pure calculations shared by browser pages, validation, exports and the site build.
@@ -147,7 +148,19 @@ export function createSnapshot(bundle){
   });
   result[definition.id]={...definition,asOf:input.checked,previousQuarter:previousQuarter(input.checked),historyWindow:completedQuarters(input.checked,historyQuarters),offers,stats:stats(offers)};
  }
- const all=Object.values(result).flatMap(c=>c.offers),dates=Object.values(result).map(c=>c.asOf).sort();
+ const all=Object.values(result).flatMap(c=>c.offers),dates=[...Object.values(result).map(c=>c.asOf),...(isoDate(bundle.testing?.checked)?[bundle.testing.checked]:[])].sort();
+ if(config.testingFile&&!bundle.testing)errors.push({category:'audit',id:'testing',field:'testing',message:'The configured testing evidence ledger is missing.'});
+ const testingErrorStart=errors.length;
+ validateTestingEvidence(bundle.testing,result,dates.at(-1),message=>errors.push({category:'audit',id:'testing',field:'testing',message}));
+ const validTesting=errors.length===testingErrorStart?bundle.testing:null;
+ for(const r of all){
+  r.testing=testingForOffer(validTesting,r);
+  if(r.testing.reviewRequired){
+   const reason='Trustified reported a failed sample for this linked product line. Current flavour, formula and retail batch have not been verified against that sample. Read the report and any retests before choosing.';
+   r.requiresProductReview=true;r.productReviewReason=[r.productReviewReason,reason].filter(Boolean).join(' ');r.rankingEligible=false;
+   const issue={severity:'warning',field:'testingEvidence',message:reason};r.quality.issues.push(issue);r.quality.warnings++;warnings.push({category:r.category,id:r.id,...issue});
+  }
+ }
  if(bundle.research){
   const research=bundle.research,invalid=message=>errors.push({category:'research',id:'library',field:'research',message});
   if(!Array.isArray(research.articles)||!Array.isArray(research.sources)||!isoDate(research.reviewed))invalid('Research needs articles, sources and a valid editorial review date.');
@@ -175,7 +188,7 @@ export function createSnapshot(bundle){
   else {const goals=new Set(p.goals.map(g=>g.id)),sources=new Set(bundle.research?.sources.map(s=>s.id)||[]);for(const r of p.rules)if(!result[r.category]||!r.reason||!r.status||!r.goals?.length||r.goals.some(g=>!goals.has(g))||!r.sources?.length||r.sources.some(id=>!sources.has(id)))bad('Unresolved recommender category, goal or evidence.');for(const preset of p.presets)if(!preset.goals?.length||preset.goals.some(g=>!goals.has(g)))bad('Unresolved preset goal.');}
  }
  if(bundle.catalogResearch){const a=bundle.catalogResearch,counts=Object.values(a.summary||{});if(!isoDate(a.checked)||a.reviewStart!=null&&(!isoDate(a.reviewStart)||a.reviewStart>a.checked)||!a.scope?.trim()||!Array.isArray(a.coverage)||a.coverage.length!==config.categories.length||new Set(a.coverage.map(c=>c.category)).size!==a.coverage.length||a.coverage.some(c=>!result[c.category]||Object.entries(c).some(([k,v])=>!['category','label'].includes(k)&&(!Number.isInteger(v)||v<0)))||!counts.length||counts.some(n=>!Number.isInteger(n)||n<0)||![a.reportFile,a.requirementsFile].every(v=>/^[a-z0-9-]+\.json$/.test(v)))errors.push({category:'audit',id:'product-research',field:'catalogResearch',message:'Product research summary needs complete dated category coverage, non-negative counts and local JSON downloads.'});}
- return {catalogResearch:bundle.catalogResearch,recommender:bundle.recommender,research:bundle.research,config:{...config,historyQuarters},brands:brands||{},categories:result,observations,asOf:dates.at(-1),stats:stats(all),quality:{errors,warnings},assets:bundle.assets||{}};
+ return {testing:bundle.testing,catalogResearch:bundle.catalogResearch,recommender:bundle.recommender,research:bundle.research,config:{...config,historyQuarters},brands:brands||{},categories:result,observations,asOf:dates.at(-1),stats:stats(all),quality:{errors,warnings},assets:bundle.assets||{}};
 }
 export function rankedOffers(category,limit=10,predicate=()=>true){
  const best=new Map();for(const r of category.offers.filter(r=>r.rankingEligible&&predicate(r))){const key=JSON.stringify([r.brand,r.product]);if(!best.has(key)||r.score>best.get(key).score)best.set(key,r);}
@@ -199,9 +212,9 @@ export function pageMetadata(snapshot,categoryId){
  if(categoryId==='recommender')return {title:'Supplement Stack Recommender · '+snapshot.config.name,description:'Build an evidence-informed supplement stack around goals, diet, existing supplements and pack budget.',structured:{'@context':'https://schema.org','@type':'WebApplication',name:'Supplement Stack Recommender',url:snapshot.config.baseUrl+'recommender.html',applicationCategory:'HealthApplication'}};
  if(categoryId==='research')return {title:'Articles & Research · '+snapshot.config.name,description:'Evidence guides and selected scientific references for all supplement categories.',structured:{'@context':'https://schema.org','@type':'CollectionPage',name:'Supplement articles and research',url:snapshot.config.baseUrl+'research.html',dateModified:snapshot.research?.reviewed}};
  if(categoryId==='audit')return {
-  title:`Data & Price History Audit · ${snapshot.config.name}`,
-  description:`Audit of data coverage, dated price observations, and 12-quarter price tracking across Indian supplements. Dataset as of ${snapshot.asOf}.`,
-  structured:{'@context':'https://schema.org','@type':'Dataset',name:`Data & Price History Audit · ${snapshot.config.name}`,description:`Audit of data coverage, dated price observations, and 12-quarter price tracking across Indian supplements. Dataset as of ${snapshot.asOf}.`,dateModified:snapshot.asOf,url:snapshot.config.baseUrl+'audit.html'}
+  title:`Testing Evidence & Data Audit · ${snapshot.config.name}`,
+  description:`Explore ${snapshot.testing?.reports.length||0} published sample test records, source coverage and ${snapshot.config.historyQuarters}-quarter price evidence. Dataset as of ${snapshot.asOf}.`,
+  structured:{'@context':'https://schema.org','@type':'Dataset',name:`Testing Evidence & Data Audit · ${snapshot.config.name}`,description:`Reported sample tests and dated product-data coverage; current retail batches are unverified.`,dateModified:snapshot.asOf,url:snapshot.config.baseUrl+'audit.html',...(snapshot.testing?{distribution:[{'@type':'DataDownload',encodingFormat:'application/json',contentUrl:snapshot.config.baseUrl+'data/'+snapshot.config.testingFile}]}:{})}
  };
  const c=snapshot.categories[categoryId],s=c?.stats||snapshot.stats,page=c?.page||'index.html';
  const title=c?`${c.label} catalog · ${s.offers.toLocaleString(snapshot.config.locale)} pack offers`:`${snapshot.config.name} · Learn about ${snapshot.research?.articles?.length||Object.keys(snapshot.categories).length} supplements`;

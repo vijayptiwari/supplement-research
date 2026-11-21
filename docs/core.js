@@ -1,9 +1,11 @@
 import {unitFacets,unitMetrics,completeUnitLabel} from './units.js';
+import {testingFilterMatches} from './testing-evidence.js';
 export const facets = [['brand','Brand'],['product','Product'],['type','Protein source'],['subclass','Protein subclass'],['flavour','Flavour'],['kg','Pack size (kg)'],['stock','Availability']];
 export const metrics = [['price','Pack price (₹)'],['cost','Cost / g protein (₹)'],['protein','Protein (%)'],['scoop','Scoop size (g)'],['energy','Energy (kcal / 100 g)']];
 export const creatineFacets=[['brand','Brand'],['product','Product'],['type','Creatine chemical form'],['subclass','Processing / particle size'],['grade','Ingredient trademark'],['formulation','Formulation'],['flavour','Flavour'],['grams','Pack size (g)'],['packaging','Packaging'],['stock','Availability']];
 export const creatineMetrics=[['price','Pack price (₹)'],['powderCost','Cost / g powder (₹)'],['cost','Cost / g compound (₹)'],['doseCost','Cost / 3 g compound (₹)'],['creatine','Labelled compound (%)'],['scoop','Scoop size (g)'],['energy','Energy (kcal / 100 g)']];
 export function filterOffers(offers,state,category='protein',definition=null){const activeFacets=definition?.measurement==='units'?unitFacets(definition):category==='creatine'?creatineFacets:facets,activeMetrics=definition?.measurement==='units'?unitMetrics(definition):category==='creatine'?creatineMetrics:metrics;return offers.filter(r=>{
+ if(!testingFilterMatches(r,state.testing))return false;
  if(state.historyQuarter&&!r.trend?.history?.some(h=>!h.isCurrent&&h.quarter===state.historyQuarter&&h.verified))return false;
  if(state.historyCoverage==='any'&&!(r.trend?.completedQuartersTracked>0))return false;
  if(state.historyCoverage==='full'&&!r.trend?.fullHistoryVerified)return false;
