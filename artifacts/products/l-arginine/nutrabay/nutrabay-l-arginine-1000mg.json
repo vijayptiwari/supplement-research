@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "category": "l-arginine",
+  "brand": "Nutrabay",
+  "product": "Nutrabay L-Arginine - 1000mg",
+  "variants": [
+    {
+      "order": 12,
+      "offer": {
+        "id": "l-arginine-nb-2873071",
+        "brand": "Nutrabay",
+        "product": "Nutrabay L-Arginine - 1000mg",
+        "flavour": "Unflavoured",
+        "packaging": "Bottle",
+        "source": "Not specified",
+        "price": 329,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://nutrabay.com/product/nutrabay-pro-l-arginine-capsules-1000mg/?pId=4683112&vId=2873071",
+        "nutritionUrl": "https://cdn.nutrabay.com/wp-content/uploads/2023/03/NB-NUT-1058-01-04.jpg",
+        "labelSources": [
+          "https://nutrabay.com/product/nutrabay-pro-l-arginine-capsules-1000mg/?pId=4683112&vId=2873071",
+          "https://cdn.nutrabay.com/wp-content/uploads/2023/03/NB-NUT-1058-01-04.jpg"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "2873071",
+        "sourceProductId": "4683112",
+        "sourceSku": "NB-NUT-1058-01",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+        "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts.",
+        "form": "Capsule",
+        "servingUnits": 2,
+        "type": "L-arginine",
+        "subclass": "Single amino acid",
+        "arginineMg": 1000,
+        "energyPerServing": 2.4,
+        "declaredNutrients": [
+          "arginineMg"
+        ],
+        "packCount": 60
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5260,
+      "observation": {
+        "category": "l-arginine",
+        "offerId": "l-arginine-nb-2873071",
+        "date": "2026-11-20",
+        "price": 329,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabay.com/product/nutrabay-pro-l-arginine-capsules-1000mg/?pId=4683112&vId=2873071",
+        "evidenceUrl": "https://nutrabay.com/product/nutrabay-pro-l-arginine-capsules-1000mg/?pId=4683112&vId=2873071",
+        "kind": "official-live",
+        "variantId": "2873071",
+        "matchBasis": "Nutrabay selected live product 4683112, variant 2873071, SKU NB-NUT-1058-01; complete selected attributes, ordinary INR sale_price, stock and actual net pack verified. Label amounts independently read from this selected gallery."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 345,
+      "profile": {
+        "id": "l-arginine-nb-2873071",
+        "brand": "Nutrabay",
+        "product": "Nutrabay L-Arginine - 1000mg",
+        "flavour": "Unflavoured",
+        "packaging": "Bottle",
+        "source": "Not specified",
+        "nutritionUrl": "https://cdn.nutrabay.com/wp-content/uploads/2023/03/NB-NUT-1058-01-04.jpg",
+        "labelSources": [
+          "https://nutrabay.com/product/nutrabay-pro-l-arginine-capsules-1000mg/?pId=4683112&vId=2873071",
+          "https://cdn.nutrabay.com/wp-content/uploads/2023/03/NB-NUT-1058-01-04.jpg"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+        "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts.",
+        "form": "Capsule",
+        "servingUnits": 2,
+        "type": "L-arginine",
+        "subclass": "Single amino acid",
+        "arginineMg": 1000,
+        "energyPerServing": 2.4,
+        "declaredNutrients": [
+          "arginineMg"
+        ],
+        "packCount": 60,
+        "category": "l-arginine",
+        "kind": "nutrabay-product",
+        "base": "https://nutrabay.com",
+        "productUrl": "https://nutrabay.com/product/nutrabay-pro-l-arginine-capsules-1000mg/?pId=4683112&vId=2873071",
+        "variantUrl": "https://nutrabay.com/product/nutrabay-pro-l-arginine-capsules-1000mg/?pId=4683112&vId=2873071",
+        "variantId": "2873071",
+        "productId": "4683112",
+        "variantSku": "NB-NUT-1058-01",
+        "variantAttributes": {
+          "pa_pack-size": "60 Caps"
+        },
+        "cacheKey": "nutrabay-2873071",
+        "allowRetailMultipack": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "order": 49,
+  "article": {
+    "id": "betaine-workout-evidence-audit",
+    "category": "betaine",
+    "series": "practical-guides",
+    "title": "Does betaine earn a place in a pre-workout? Read the outcome, not the hype",
+    "summary": "Compare strength, training volume and body-composition claims without treating a small trial or a metabolic marker as a universal result.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "Betaine is a useful case study in how supplement evidence becomes a sales claim. Small exercise trials measure different things: maximal strength, work performed, body composition or a physiological marker. A positive finding in one column can become a headline suggesting improvement across all of them. The task for a buyer is to preserve the actual result and decide whether it matters to the intended use. This article shows how to do that while keeping the anhydrous sports preparation separate from betaine HCl digestive marketing.",
+    "sections": [
+      {
+        "id": "name-the-performance",
+        "title": "Choose the performance question first",
+        "body": "A larger one-repetition maximum, more work across a session, a faster event time and a different body-fat measurement are not the same achievement. Identify which outcome is relevant before reading the abstract. This makes it possible to recognise a trial that is interesting but does not answer the buying question. It also prevents a product from collecting whichever positive endpoint appears in each study and presenting the collection as evidence that one ingredient improves every aspect of training.",
+        "sourceIds": [
+          "betaine-meta",
+          "well-betaine-females"
+        ]
+      },
+      {
+        "id": "female-trial",
+        "title": "One trial illustrates why the full pattern matters",
+        "body": "An eight-week study in untrained collegiate women compared betaine and placebo during resistance training. Some body-fat findings favoured betaine, but the study did not establish an additional absolute-strength benefit. Improvements with training occurred in several measures across groups. This is a useful result to read as a whole rather than as a single fat-loss slogan. Its participants, duration and intervention also limit what can be inferred for trained athletes, other populations or the finished pre-workout a buyer is considering.",
+        "sourceIds": [
+          "well-betaine-females"
+        ]
+      },
+      {
+        "id": "crossfit-trial",
+        "title": "A sport label is not a guarantee of a sport-specific response",
+        "body": "A separate six-week CrossFit study did not find an added muscle-hypertrophy or strength benefit from betaine under its protocol. It should not be ignored because the ingredient has a plausible osmolyte or methyl-donor role. At the same time, one negative study does not settle every outcome or population. The useful conclusion is narrower: a betaine-containing pre-workout cannot claim a dependable training benefit merely by attaching the name of a sport or citing a different test.",
+        "sourceIds": [
+          "well-betaine-crossfit"
+        ]
+      },
+      {
+        "id": "pooled-evidence",
+        "title": "A pooled strength signal still needs its boundaries",
+        "body": "A 2024 synthesis reported a pooled maximal-strength benefit, particularly for lower-body measures, while several other performance outcomes did not show consistent improvement. That is an outcome-specific finding, rather than a universal endorsement of every betaine product. Small studies, different tests and variable participants contribute uncertainty. A review is valuable because it considers a wider pattern, but its average does not identify the response of a particular buyer or prove that a multi-ingredient formula reproduces the tested intervention.",
+        "sourceIds": [
+          "betaine-meta"
+        ]
+      },
+      {
+        "id": "endurance",
+        "title": "Do not relabel strength evidence as endurance certainty",
+        "body": "Endurance performance has its own tests and demands. A 2025 review found sparse and methodologically limited studies, leaving the practical conclusion uncertain. An ingredient's possible effect in one strength measure therefore should not be sold as proven benefit for long runs or every hybrid event. Ask for a relevant comparator and a meaningful performance outcome. Changes in a physiological marker can help explore mechanisms, but the marker is not automatically the event result that matters to an athlete.",
+        "sourceIds": [
+          "betaine-endurance"
+        ]
+      },
+      {
+        "id": "attribution",
+        "title": "A multi-ingredient pre-workout cannot isolate betaine",
+        "body": "If a formula contains caffeine, amino acids and several other actives, a perceived change after taking it cannot identify betaine as the cause. The same issue applies when research tests a mixture rather than an isolated ingredient. Look for the quantity, preparation and comparator that allow attribution. Count overlap with existing products before considering another pack. The presence of an interesting ingredient in a long formula does not demonstrate that it is supplied in a studied amount or that the combination is more effective.",
+        "sourceIds": [
+          "supplement-quality-ods",
+          "well-betaine-crossfit"
+        ]
+      },
+      {
+        "id": "cost",
+        "title": "Compare the amount you can actually verify",
+        "body": "Anhydrous betaine and betaine HCl should remain separate in price comparisons. Check the complete serving and individual betaine declaration, then calculate cost on the same form and label basis. A low price per gram does not compensate for an uncertain relevant benefit, while a higher price does not create evidence. Quality documentation can support the composition question, but does not establish clinical or performance suitability. This keeps the arithmetic useful without allowing it to become an unsupported efficacy ranking.",
+        "sourceIds": [
+          "supplement-quality-ods",
+          "betaine-hcl-trial"
+        ]
+      },
+      {
+        "id": "decision",
+        "title": "Treat it as an optional question, not a missing essential",
+        "body": "There is no reason to turn a limited sports-evidence signal into a compulsory stack component. Assess training, food, recovery and the purpose of any existing formula before adding a separate product. If a medical or digestive claim is involved, that is a different discussion from athletic experimentation and should be reviewed in the appropriate care context. A sensible decision can recognise a possible benefit while concluding that uncertainty, overlap or cost makes the purchase low priority for now.",
+        "sourceIds": [
+          "exercise",
+          "betaine-medical",
+          "betaine-meta",
+          "supplement-quality-ods"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "betaine-meta",
+      "well-betaine-females",
+      "well-betaine-crossfit",
+      "betaine-endurance",
+      "supplement-quality-ods",
+      "betaine-hcl-trial",
+      "exercise",
+      "betaine-medical"
+    ]
+  }
+}

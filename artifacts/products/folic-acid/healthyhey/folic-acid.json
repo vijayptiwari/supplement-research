@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "category": "folic-acid",
+  "brand": "HealthyHey",
+  "product": "Folic Acid",
+  "variants": [
+    {
+      "order": 0,
+      "offer": {
+        "brand": "HealthyHey",
+        "product": "Folic Acid",
+        "form": "Capsule",
+        "type": "Folic acid",
+        "subclass": "Single B9 vitamin",
+        "packCount": 120,
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official bottle nutrition panel states serving size 1 vegetable capsule, 120 servings per container, folic acid 129.41 mcg per serving.",
+        "notes": "Uses the currently displayed manufacturer label, not a 400 mcg value found on some third-party listings. No dietary folate equivalent is inferred.",
+        "labelChecked": "2026-10-31",
+        "declaredNutrients": [
+          "folicAcidMcg"
+        ],
+        "flavour": "Unflavoured",
+        "vitaminB1Mg": null,
+        "vitaminB2Mg": null,
+        "vitaminB3Mg": null,
+        "vitaminB5Mg": null,
+        "vitaminB6Mg": null,
+        "biotinMcg": null,
+        "vitaminB12Mcg": null,
+        "folicAcidMcg": 129.41,
+        "folateMcgDfe": null,
+        "methylfolateMcg": null,
+        "energyPerServing": 0,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-nutrition-capsule-folic-acid-support-cognitive-cardiovascular-health-120-veg-capsules-1177237641.png?v=1780892078"
+        ],
+        "id": "folic-acid-44724751859997",
+        "price": 549,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://healthyhey.com/products/folic-acid-120-veg-capsules?variant=44724751859997",
+        "nutritionUrl": "https://healthyhey.com/products/folic-acid-120-veg-capsules",
+        "packaging": "Single retail pack",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://healthyhey.com/products/folic-acid-120-veg-capsules?variant=44724751859997",
+          "evidenceUrl": "https://healthyhey.com/products/folic-acid-120-veg-capsules.json",
+          "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3779,
+      "observation": {
+        "category": "folic-acid",
+        "offerId": "folic-acid-44724751859997",
+        "date": "2026-10-31",
+        "price": 549,
+        "currency": "INR",
+        "sourceUrl": "https://healthyhey.com/products/folic-acid-120-veg-capsules?variant=44724751859997",
+        "evidenceUrl": "https://healthyhey.com/products/folic-acid-120-veg-capsules.json",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify product variant ID, price and single retail-pack count verified; quantities come from separately cited label evidence.",
+        "variantId": "44724751859997"
+      }
+    },
+    {
+      "order": 3948,
+      "observation": {
+        "category": "folic-acid",
+        "offerId": "folic-acid-44724751859997",
+        "date": "2026-11-19",
+        "price": 549,
+        "currency": "INR",
+        "sourceUrl": "https://healthyhey.com/products/folic-acid-120-veg-capsules?variant=44724751859997",
+        "evidenceUrl": "https://healthyhey.com/products/folic-acid-120-veg-capsules.json",
+        "kind": "official-live",
+        "variantId": "44724751859997",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 64,
+      "profile": {
+        "category": "folic-acid",
+        "brand": "HealthyHey",
+        "base": "https://healthyhey.com",
+        "handle": "folic-acid-120-veg-capsules",
+        "product": "Folic Acid",
+        "form": "Capsule",
+        "type": "Folic acid",
+        "subclass": "Single B9 vitamin",
+        "packCount": 120,
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official bottle nutrition panel states serving size 1 vegetable capsule, 120 servings per container, folic acid 129.41 mcg per serving.",
+        "notes": "Uses the currently displayed manufacturer label, not a 400 mcg value found on some third-party listings. No dietary folate equivalent is inferred.",
+        "labelChecked": "2026-10-31",
+        "declaredNutrients": [
+          "folicAcidMcg"
+        ],
+        "flavour": "Unflavoured",
+        "vitaminB1Mg": null,
+        "vitaminB2Mg": null,
+        "vitaminB3Mg": null,
+        "vitaminB5Mg": null,
+        "vitaminB6Mg": null,
+        "biotinMcg": null,
+        "vitaminB12Mcg": null,
+        "folicAcidMcg": 129.41,
+        "folateMcgDfe": null,
+        "methylfolateMcg": null,
+        "energyPerServing": 0,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-nutrition-capsule-folic-acid-support-cognitive-cardiovascular-health-120-veg-capsules-1177237641.png?v=1780892078"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "Nutrabay",
+  "product": "Vital Whey Protein",
+  "variants": [
+    {
+      "order": 855,
+      "offer": {
+        "id": "protein-nb-9960505",
+        "brand": "Nutrabay",
+        "product": "Vital Whey Protein",
+        "flavour": "Belgian Chocolate",
+        "packaging": "Pouch",
+        "source": "Not specified",
+        "price": 1399,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://nutrabay.com/product/nutrabay-gold-vital-whey-protein-for-beginners?pId=1048875&vId=9960505",
+        "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_5-NB-NUT-1064-01-1758997491.jpg",
+        "labelSources": [
+          "https://nutrabay.com/product/nutrabay-gold-vital-whey-protein-for-beginners?pId=1048875&vId=9960505",
+          "https://cdn2.nutrabay.com/uploads/variant/images/image_5-NB-NUT-1064-01-1758997491.jpg"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "9960505",
+        "sourceProductId": "1048875",
+        "sourceSku": "NB-NUT-1064-01",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results. Per 100 g: protein 40 g; energy 374.1 kcal; gram serving 50 g.",
+        "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Label allergen declaration: contains milk and may contain soy.",
+        "form": "Powder",
+        "kg": 1,
+        "protein": 40,
+        "scoop": 50,
+        "serving": 50,
+        "energy": 374.1,
+        "type": "Milk",
+        "subclass": "Skim milk/milk concentrate/whey blend + micronutrients",
+        "requiresProductReview": true,
+        "productReviewReason": "This fortified protein includes added iron/vitamins/minerals outside the current protein-only totals; review the full formulation and overlap before adding it to a stack.",
+        "additionalIngredients": [
+          {
+            "name": "Added vitamin/mineral formulation including iron",
+            "amount": null,
+            "unit": "label-specific",
+            "basis": "per label serving"
+          }
+        ]
+      }
+    },
+    {
+      "order": 856,
+      "offer": {
+        "id": "protein-nb-2200425",
+        "brand": "Nutrabay",
+        "product": "Vital Whey Protein",
+        "flavour": "Gourmet Vanilla",
+        "packaging": "Pouch",
+        "source": "Not specified",
+        "price": 1399,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://nutrabay.com/product/nutrabay-gold-vital-whey-protein-for-beginners?pId=1048875&vId=2200425",
+        "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_5-NB-NUT-1064-02-1758997724.jpg",
+        "labelSources": [
+          "https://nutrabay.com/product/nutrabay-gold-vital-whey-protein-for-beginners?pId=1048875&vId=2200425",
+          "https://cdn2.nutrabay.com/uploads/variant/images/image_5-NB-NUT-1064-02-1758997724.jpg"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "2200425",
+        "sourceProductId": "1048875",
+        "sourceSku": "NB-NUT-1064-02",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results. Per 100 g: protein 40.36 g; energy 368.6 kcal; gram serving 50 g.",
+        "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Label allergen declaration: contains milk and may contain soy.",
+        "form": "Powder",
+        "kg": 1,
+        "protein": 40.36,
+        "scoop": 50,
+        "serving": 50,
+        "energy": 368.6,
+        "type": "Milk",
+        "subclass": "Skim milk/milk concentrate/whey blend + micronutrients",
+        "requiresProductReview": true,
+        "productReviewReason": "This fortified protein includes added iron/vitamins/minerals outside the current protein-only totals; review the full formulation and overlap before adding it to a stack.",
+        "additionalIngredients": [
+          {
+            "name": "Added vitamin/mineral formulation including iron",
+            "amount": null,
+            "unit": "label-specific",
+            "basis": "per label serving"
+          }
+        ]
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5245,
+      "observation": {
+        "category": "protein",
+        "offerId": "protein-nb-9960505",
+        "date": "2026-11-20",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabay.com/product/nutrabay-gold-vital-whey-protein-for-beginners?pId=1048875&vId=9960505",
+        "evidenceUrl": "https://nutrabay.com/product/nutrabay-gold-vital-whey-protein-for-beginners?pId=1048875&vId=9960505",
+        "kind": "official-live",
+        "variantId": "9960505",
+        "matchBasis": "Nutrabay selected live product 1048875, variant 9960505, SKU NB-NUT-1064-01; complete selected attributes, ordinary INR sale_price, stock and actual net pack verified. Label amounts independently read from this selected gallery."
+      }
+    },
+    {
+      "order": 5246,
+      "observation": {
+        "category": "protein",
+        "offerId": "protein-nb-2200425",
+        "date": "2026-11-20",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabay.com/product/nutrabay-gold-vital-whey-protein-for-beginners?pId=1048875&vId=2200425",
+        "evidenceUrl": "https://nutrabay.com/product/nutrabay-gold-vital-whey-protein-for-beginners?pId=1048875&vId=2200425",
+        "kind": "official-live",
+        "variantId": "2200425",
+        "matchBasis": "Nutrabay selected live product 1048875, variant 2200425, SKU NB-NUT-1064-02; complete selected attributes, ordinary INR sale_price, stock and actual net pack verified. Label amounts independently read from this selected gallery."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 330,
+      "profile": {
+        "id": "protein-nb-9960505",
+        "brand": "Nutrabay",
+        "product": "Vital Whey Protein",
+        "flavour": "Belgian Chocolate",
+        "packaging": "Pouch",
+        "source": "Not specified",
+        "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_5-NB-NUT-1064-01-1758997491.jpg",
+        "labelSources": [
+          "https://nutrabay.com/product/nutrabay-gold-vital-whey-protein-for-beginners?pId=1048875&vId=9960505",
+          "https://cdn2.nutrabay.com/uploads/variant/images/image_5-NB-NUT-1064-01-1758997491.jpg"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results. Per 100 g: protein 40 g; energy 374.1 kcal; gram serving 50 g.",
+        "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Label allergen declaration: contains milk and may contain soy.",
+        "form": "Powder",
+        "kg": 1,
+        "protein": 40,
+        "scoop": 50,
+        "serving": 50,
+        "energy": 374.1,
+        "type": "Milk",
+        "subclass": "Skim milk/milk concentrate/whey blend + micronutrients",
+        "requiresProductReview": true,
+        "productReviewReason": "This fortified protein includes added iron/vitamins/minerals outside the current protein-only totals; review the full formulation and overlap before adding it to a stack.",
+        "additionalIngredients": [
+          {
+            "name": "Added vitamin/mineral formulation including iron",
+            "amount": null,
+            "unit": "label-specific",
+            "basis": "per label serving"
+          }
+        ],
+        "category": "protein",
+        "kind": "nutrabay-product",
+        "base": "https://nutrabay.com",
+        "productUrl": "https://nutrabay.com/product/nutrabay-gold-vital-whey-protein-for-beginners?pId=1048875&vId=9960505",
+        "variantUrl": "https://nutrabay.com/product/nutrabay-gold-vital-whey-protein-for-beginners?pId=1048875&vId=9960505",
+        "variantId": "9960505",
+        "productId": "1048875",
+        "variantSku": "NB-NUT-1064-01",
+        "variantAttributes": {
+          "pa_flavour": "Belgian Chocolate",
+          "pa_weight": "1 kg (2.2 lb)"
+        },
+        "cacheKey": "nutrabay-9960505",
+        "allowRetailMultipack": true,
+        "grams": 1000
+      }
+    },
+    {
+      "order": 331,
+      "profile": {
+        "id": "protein-nb-2200425",
+        "brand": "Nutrabay",
+        "product": "Vital Whey Protein",
+        "flavour": "Gourmet Vanilla",
+        "packaging": "Pouch",
+        "source": "Not specified",
+        "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_5-NB-NUT-1064-02-1758997724.jpg",
+        "labelSources": [
+          "https://nutrabay.com/product/nutrabay-gold-vital-whey-protein-for-beginners?pId=1048875&vId=2200425",
+          "https://cdn2.nutrabay.com/uploads/variant/images/image_5-NB-NUT-1064-02-1758997724.jpg"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results. Per 100 g: protein 40.36 g; energy 368.6 kcal; gram serving 50 g.",
+        "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Label allergen declaration: contains milk and may contain soy.",
+        "form": "Powder",
+        "kg": 1,
+        "protein": 40.36,
+        "scoop": 50,
+        "serving": 50,
+        "energy": 368.6,
+        "type": "Milk",
+        "subclass": "Skim milk/milk concentrate/whey blend + micronutrients",
+        "requiresProductReview": true,
+        "productReviewReason": "This fortified protein includes added iron/vitamins/minerals outside the current protein-only totals; review the full formulation and overlap before adding it to a stack.",
+        "additionalIngredients": [
+          {
+            "name": "Added vitamin/mineral formulation including iron",
+            "amount": null,
+            "unit": "label-specific",
+            "basis": "per label serving"
+          }
+        ],
+        "category": "protein",
+        "kind": "nutrabay-product",
+        "base": "https://nutrabay.com",
+        "productUrl": "https://nutrabay.com/product/nutrabay-gold-vital-whey-protein-for-beginners?pId=1048875&vId=2200425",
+        "variantUrl": "https://nutrabay.com/product/nutrabay-gold-vital-whey-protein-for-beginners?pId=1048875&vId=2200425",
+        "variantId": "2200425",
+        "productId": "1048875",
+        "variantSku": "NB-NUT-1064-02",
+        "variantAttributes": {
+          "pa_flavour": "Gourmet Vanilla",
+          "pa_weight": "1 kg (2.2 lb)"
+        },
+        "cacheKey": "nutrabay-2200425",
+        "allowRetailMultipack": true,
+        "grams": 1000
+      }
+    }
+  ]
+}

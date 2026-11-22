@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "category": "biotin",
+  "brand": "Neuherbs",
+  "product": "Hair Biotin with Botanical Blend and Probiotic",
+  "variants": [
+    {
+      "order": 6,
+      "offer": {
+        "id": "biotin-47642100367530",
+        "brand": "Neuherbs",
+        "product": "Hair Biotin with Botanical Blend and Probiotic",
+        "form": "Capsule",
+        "type": "Sesbania-derived biotin",
+        "subclass": "Biotin + botanical/probiotic combination",
+        "flavour": "Unflavoured",
+        "source": "Sesbania grandiflora (brand declaration)",
+        "packCount": 60,
+        "servingUnits": 2,
+        "price": 549,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://neuherbs.com/products/hair-biotin-capsules?variant=47642100367530",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/biotin_for_hair_growth_8.webp?v=1773739545",
+        "labelSources": [
+          "https://neuherbs.com/products/hair-biotin-capsules",
+          "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/biotin_for_hair_growth_8.webp?v=1773739545"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Official bottle panel per two capsules: biotin40 micrograms from Sesbania extract, with lycopene, botanical extracts and Lactiplantibacillus plantarum.",
+        "notes": "Sesbania and botanical weights are not pure biotin. Additional ingredients mean this is not a single-ingredient biotin product. Hair-growth and DHT claims are not independently validated by catalog inclusion.",
+        "packaging": "Brand-listed retail pack (60 capsules)",
+        "biotinMcg": 40,
+        "energyPerServing": 4.72
+      }
+    },
+    {
+      "order": 7,
+      "offer": {
+        "id": "biotin-47777629700266",
+        "brand": "Neuherbs",
+        "product": "Hair Biotin with Botanical Blend and Probiotic",
+        "form": "Capsule",
+        "type": "Sesbania-derived biotin",
+        "subclass": "Biotin + botanical/probiotic combination",
+        "flavour": "Unflavoured",
+        "source": "Sesbania grandiflora (brand declaration)",
+        "packCount": 120,
+        "servingUnits": 2,
+        "price": 1049,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://neuherbs.com/products/hair-biotin-capsules?variant=47777629700266",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/biotin_for_hair_growth_8.webp?v=1773739545",
+        "labelSources": [
+          "https://neuherbs.com/products/hair-biotin-capsules",
+          "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/biotin_for_hair_growth_8.webp?v=1773739545"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Official bottle panel per two capsules: biotin40 micrograms from Sesbania extract, with lycopene, botanical extracts and Lactiplantibacillus plantarum.",
+        "notes": "Sesbania and botanical weights are not pure biotin. Additional ingredients mean this is not a single-ingredient biotin product. Hair-growth and DHT claims are not independently validated by catalog inclusion.",
+        "packaging": "Brand-listed retail pack (120 capsules)",
+        "biotinMcg": 40,
+        "energyPerServing": 4.72
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3969,
+      "observation": {
+        "category": "biotin",
+        "offerId": "biotin-47642100367530",
+        "date": "2026-11-19",
+        "price": 549,
+        "currency": "INR",
+        "sourceUrl": "https://neuherbs.com/products/hair-biotin-capsules?variant=47642100367530",
+        "evidenceUrl": "https://neuherbs.com/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "47642100367530",
+        "matchBasis": "Official public Shopify feed exact variant ID and explicitly listed retail count; unconditional INR variant price. Label serving and payload independently checked against official label panel."
+      }
+    },
+    {
+      "order": 3970,
+      "observation": {
+        "category": "biotin",
+        "offerId": "biotin-47777629700266",
+        "date": "2026-11-19",
+        "price": 1049,
+        "currency": "INR",
+        "sourceUrl": "https://neuherbs.com/products/hair-biotin-capsules?variant=47777629700266",
+        "evidenceUrl": "https://neuherbs.com/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "47777629700266",
+        "matchBasis": "Official public Shopify feed exact variant ID and explicitly listed retail count; unconditional INR variant price. Label serving and payload independently checked against official label panel."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 153,
+      "profile": {
+        "brand": "Neuherbs",
+        "product": "Hair Biotin with Botanical Blend and Probiotic",
+        "form": "Capsule",
+        "type": "Sesbania-derived biotin",
+        "subclass": "Biotin + botanical/probiotic combination",
+        "flavour": "Unflavoured",
+        "source": "Sesbania grandiflora (brand declaration)",
+        "packCount": 60,
+        "servingUnits": 2,
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/biotin_for_hair_growth_8.webp?v=1773739545",
+        "labelSources": [
+          "https://neuherbs.com/products/hair-biotin-capsules",
+          "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/biotin_for_hair_growth_8.webp?v=1773739545"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Official bottle panel per two capsules: biotin40 micrograms from Sesbania extract, with lycopene, botanical extracts and Lactiplantibacillus plantarum.",
+        "notes": "Sesbania and botanical weights are not pure biotin. Additional ingredients mean this is not a single-ingredient biotin product. Hair-growth and DHT claims are not independently validated by catalog inclusion.",
+        "packaging": "Brand-listed retail pack (60 capsules)",
+        "biotinMcg": 40,
+        "energyPerServing": 4.72,
+        "category": "biotin",
+        "base": "https://neuherbs.com",
+        "handle": "hair-biotin-capsules",
+        "variantIds": [
+          47642100367530
+        ],
+        "allowRetailMultipack": true,
+        "id": "biotin-47642100367530"
+      }
+    },
+    {
+      "order": 154,
+      "profile": {
+        "brand": "Neuherbs",
+        "product": "Hair Biotin with Botanical Blend and Probiotic",
+        "form": "Capsule",
+        "type": "Sesbania-derived biotin",
+        "subclass": "Biotin + botanical/probiotic combination",
+        "flavour": "Unflavoured",
+        "source": "Sesbania grandiflora (brand declaration)",
+        "packCount": 120,
+        "servingUnits": 2,
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/biotin_for_hair_growth_8.webp?v=1773739545",
+        "labelSources": [
+          "https://neuherbs.com/products/hair-biotin-capsules",
+          "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/biotin_for_hair_growth_8.webp?v=1773739545"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Official bottle panel per two capsules: biotin40 micrograms from Sesbania extract, with lycopene, botanical extracts and Lactiplantibacillus plantarum.",
+        "notes": "Sesbania and botanical weights are not pure biotin. Additional ingredients mean this is not a single-ingredient biotin product. Hair-growth and DHT claims are not independently validated by catalog inclusion.",
+        "packaging": "Brand-listed retail pack (120 capsules)",
+        "biotinMcg": 40,
+        "energyPerServing": 4.72,
+        "category": "biotin",
+        "base": "https://neuherbs.com",
+        "handle": "hair-biotin-capsules",
+        "variantIds": [
+          47777629700266
+        ],
+        "allowRetailMultipack": true,
+        "id": "biotin-47777629700266"
+      }
+    }
+  ]
+}

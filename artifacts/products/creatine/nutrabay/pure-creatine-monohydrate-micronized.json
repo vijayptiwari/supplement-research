@@ -1,0 +1,428 @@
+{
+  "schemaVersion": 1,
+  "category": "creatine",
+  "brand": "Nutrabay",
+  "product": "Pure Creatine Monohydrate Micronized",
+  "variants": [
+    {
+      "order": 211,
+      "offer": {
+        "id": "creatine-nb-6910942",
+        "brand": "Nutrabay",
+        "product": "Pure Creatine Monohydrate Micronized",
+        "flavour": "Unflavoured",
+        "packaging": "Jar",
+        "source": "Not specified",
+        "price": 499,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate?pId=1903618&vId=6910942",
+        "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1009-06-1779174693.png",
+        "labelSources": [
+          "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate?pId=1903618&vId=6910942",
+          "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1009-06-1779174693.png"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "6910942",
+        "sourceProductId": "1903618",
+        "sourceSku": "NB-NUT-1009-06",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+        "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Current panel declares monohydrate 96.8 g/100 g and fructooligosaccharides 0.1 g/3.1 g serving; not a 100% monohydrate product. Rounded 3 g/serve and per-100-g amounts are retained as approximate label inputs.",
+        "form": "Powder",
+        "grams": 150,
+        "type": "Monohydrate",
+        "subclass": "Micronized + FOS",
+        "creatine": 96.8,
+        "scoop": 3.1,
+        "creatineServing": 3,
+        "energy": 6.12,
+        "additionalIngredients": [
+          {
+            "name": "Fructooligosaccharides (FOS)",
+            "amount": 100,
+            "unit": "mg",
+            "basis": "per 3.1 g label serving"
+          }
+        ]
+      }
+    },
+    {
+      "order": 212,
+      "offer": {
+        "id": "creatine-nb-2187639",
+        "brand": "Nutrabay",
+        "product": "Pure Creatine Monohydrate Micronized",
+        "flavour": "Unflavoured",
+        "packaging": "Pouch",
+        "source": "Not specified",
+        "price": 379,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate?pId=1903618&vId=2187639",
+        "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1009-03-1783670160.png",
+        "labelSources": [
+          "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate?pId=1903618&vId=2187639",
+          "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1009-03-1783670160.png"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "2187639",
+        "sourceProductId": "1903618",
+        "sourceSku": "NB-NUT-1009-03",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+        "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Current panel declares monohydrate 96.8 g/100 g and fructooligosaccharides 0.1 g/3.1 g serving; not a 100% monohydrate product. Rounded 3 g/serve and per-100-g amounts are retained as approximate label inputs.",
+        "form": "Powder",
+        "grams": 100,
+        "type": "Monohydrate",
+        "subclass": "Micronized + FOS",
+        "creatine": 96.8,
+        "scoop": 3.1,
+        "creatineServing": 3,
+        "energy": 6.12,
+        "additionalIngredients": [
+          {
+            "name": "Fructooligosaccharides (FOS)",
+            "amount": 100,
+            "unit": "mg",
+            "basis": "per 3.1 g label serving"
+          }
+        ]
+      }
+    },
+    {
+      "order": 213,
+      "offer": {
+        "id": "creatine-nb-4334621",
+        "brand": "Nutrabay",
+        "product": "Pure Creatine Monohydrate Micronized",
+        "flavour": "Unflavoured",
+        "packaging": "Jar",
+        "source": "Not specified",
+        "price": 549,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate?pId=1903618&vId=4334621",
+        "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1009-01-1779174488.png",
+        "labelSources": [
+          "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate?pId=1903618&vId=4334621",
+          "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1009-01-1779174488.png"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "4334621",
+        "sourceProductId": "1903618",
+        "sourceSku": "NB-NUT-1009-01",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+        "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Current panel declares monohydrate 96.8 g/100 g and fructooligosaccharides 0.1 g/3.1 g serving; not a 100% monohydrate product. Rounded 3 g/serve and per-100-g amounts are retained as approximate label inputs.",
+        "form": "Powder",
+        "grams": 250,
+        "type": "Monohydrate",
+        "subclass": "Micronized + FOS",
+        "creatine": 96.8,
+        "scoop": 3.1,
+        "creatineServing": 3,
+        "energy": 6.12,
+        "additionalIngredients": [
+          {
+            "name": "Fructooligosaccharides (FOS)",
+            "amount": 100,
+            "unit": "mg",
+            "basis": "per 3.1 g label serving"
+          }
+        ]
+      }
+    },
+    {
+      "order": 214,
+      "offer": {
+        "id": "creatine-nb-6150203",
+        "brand": "Nutrabay",
+        "product": "Pure Creatine Monohydrate Micronized",
+        "flavour": "Unflavoured",
+        "packaging": "Pouch",
+        "source": "Not specified",
+        "price": 999,
+        "currency": "INR",
+        "stock": "Sold out",
+        "url": "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate?pId=1903618&vId=6150203",
+        "nutritionUrl": "https://cdn.nutrabay.com/wp-content/uploads/2019/11/NB-NUT-1009-02-updated.jpg",
+        "labelSources": [
+          "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate?pId=1903618&vId=6150203",
+          "https://cdn.nutrabay.com/wp-content/uploads/2019/11/NB-NUT-1009-02-updated.jpg"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "6150203",
+        "sourceProductId": "1903618",
+        "sourceSku": "NB-NUT-1009-02",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+        "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. This selected 500 g legacy gallery declares only micronized monohydrate, 3 g per 3 g serving. Do not transfer its ingredient basis to the newer FOS blends.",
+        "form": "Powder",
+        "grams": 500,
+        "type": "Monohydrate",
+        "subclass": "Micronized; single ingredient (selected legacy pack)",
+        "creatine": 100,
+        "scoop": 3,
+        "creatineServing": 3,
+        "energy": null
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5247,
+      "observation": {
+        "category": "creatine",
+        "offerId": "creatine-nb-6910942",
+        "date": "2026-11-20",
+        "price": 499,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate?pId=1903618&vId=6910942",
+        "evidenceUrl": "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate?pId=1903618&vId=6910942",
+        "kind": "official-live",
+        "variantId": "6910942",
+        "matchBasis": "Nutrabay selected live product 1903618, variant 6910942, SKU NB-NUT-1009-06; complete selected attributes, ordinary INR sale_price, stock and actual net pack verified. Label amounts independently read from this selected gallery."
+      }
+    },
+    {
+      "order": 5248,
+      "observation": {
+        "category": "creatine",
+        "offerId": "creatine-nb-2187639",
+        "date": "2026-11-20",
+        "price": 379,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate?pId=1903618&vId=2187639",
+        "evidenceUrl": "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate?pId=1903618&vId=2187639",
+        "kind": "official-live",
+        "variantId": "2187639",
+        "matchBasis": "Nutrabay selected live product 1903618, variant 2187639, SKU NB-NUT-1009-03; complete selected attributes, ordinary INR sale_price, stock and actual net pack verified. Label amounts independently read from this selected gallery."
+      }
+    },
+    {
+      "order": 5249,
+      "observation": {
+        "category": "creatine",
+        "offerId": "creatine-nb-4334621",
+        "date": "2026-11-20",
+        "price": 549,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate?pId=1903618&vId=4334621",
+        "evidenceUrl": "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate?pId=1903618&vId=4334621",
+        "kind": "official-live",
+        "variantId": "4334621",
+        "matchBasis": "Nutrabay selected live product 1903618, variant 4334621, SKU NB-NUT-1009-01; complete selected attributes, ordinary INR sale_price, stock and actual net pack verified. Label amounts independently read from this selected gallery."
+      }
+    },
+    {
+      "order": 5250,
+      "observation": {
+        "category": "creatine",
+        "offerId": "creatine-nb-6150203",
+        "date": "2026-11-20",
+        "price": 999,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate?pId=1903618&vId=6150203",
+        "evidenceUrl": "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate?pId=1903618&vId=6150203",
+        "kind": "official-live",
+        "variantId": "6150203",
+        "matchBasis": "Nutrabay selected live product 1903618, variant 6150203, SKU NB-NUT-1009-02; complete selected attributes, ordinary INR sale_price, stock and actual net pack verified. Label amounts independently read from this selected gallery."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 332,
+      "profile": {
+        "id": "creatine-nb-6910942",
+        "brand": "Nutrabay",
+        "product": "Pure Creatine Monohydrate Micronized",
+        "flavour": "Unflavoured",
+        "packaging": "Jar",
+        "source": "Not specified",
+        "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1009-06-1779174693.png",
+        "labelSources": [
+          "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate?pId=1903618&vId=6910942",
+          "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1009-06-1779174693.png"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+        "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Current panel declares monohydrate 96.8 g/100 g and fructooligosaccharides 0.1 g/3.1 g serving; not a 100% monohydrate product. Rounded 3 g/serve and per-100-g amounts are retained as approximate label inputs.",
+        "form": "Powder",
+        "grams": 150,
+        "type": "Monohydrate",
+        "subclass": "Micronized + FOS",
+        "creatine": 96.8,
+        "scoop": 3.1,
+        "creatineServing": 3,
+        "energy": 6.12,
+        "additionalIngredients": [
+          {
+            "name": "Fructooligosaccharides (FOS)",
+            "amount": 100,
+            "unit": "mg",
+            "basis": "per 3.1 g label serving"
+          }
+        ],
+        "category": "creatine",
+        "kind": "nutrabay-product",
+        "base": "https://nutrabay.com",
+        "productUrl": "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate?pId=1903618&vId=6910942",
+        "variantUrl": "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate?pId=1903618&vId=6910942",
+        "variantId": "6910942",
+        "productId": "1903618",
+        "variantSku": "NB-NUT-1009-06",
+        "variantAttributes": {
+          "pa_flavour": "Unflavoured",
+          "pa_weight": "150 g (0.33 lb)"
+        },
+        "cacheKey": "nutrabay-6910942",
+        "allowRetailMultipack": true
+      }
+    },
+    {
+      "order": 333,
+      "profile": {
+        "id": "creatine-nb-2187639",
+        "brand": "Nutrabay",
+        "product": "Pure Creatine Monohydrate Micronized",
+        "flavour": "Unflavoured",
+        "packaging": "Pouch",
+        "source": "Not specified",
+        "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1009-03-1783670160.png",
+        "labelSources": [
+          "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate?pId=1903618&vId=2187639",
+          "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1009-03-1783670160.png"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+        "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Current panel declares monohydrate 96.8 g/100 g and fructooligosaccharides 0.1 g/3.1 g serving; not a 100% monohydrate product. Rounded 3 g/serve and per-100-g amounts are retained as approximate label inputs.",
+        "form": "Powder",
+        "grams": 100,
+        "type": "Monohydrate",
+        "subclass": "Micronized + FOS",
+        "creatine": 96.8,
+        "scoop": 3.1,
+        "creatineServing": 3,
+        "energy": 6.12,
+        "additionalIngredients": [
+          {
+            "name": "Fructooligosaccharides (FOS)",
+            "amount": 100,
+            "unit": "mg",
+            "basis": "per 3.1 g label serving"
+          }
+        ],
+        "category": "creatine",
+        "kind": "nutrabay-product",
+        "base": "https://nutrabay.com",
+        "productUrl": "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate?pId=1903618&vId=2187639",
+        "variantUrl": "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate?pId=1903618&vId=2187639",
+        "variantId": "2187639",
+        "productId": "1903618",
+        "variantSku": "NB-NUT-1009-03",
+        "variantAttributes": {
+          "pa_flavour": "Unflavoured",
+          "pa_weight": "100 g (0.22 lb)"
+        },
+        "cacheKey": "nutrabay-2187639",
+        "allowRetailMultipack": true
+      }
+    },
+    {
+      "order": 334,
+      "profile": {
+        "id": "creatine-nb-4334621",
+        "brand": "Nutrabay",
+        "product": "Pure Creatine Monohydrate Micronized",
+        "flavour": "Unflavoured",
+        "packaging": "Jar",
+        "source": "Not specified",
+        "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1009-01-1779174488.png",
+        "labelSources": [
+          "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate?pId=1903618&vId=4334621",
+          "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1009-01-1779174488.png"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+        "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Current panel declares monohydrate 96.8 g/100 g and fructooligosaccharides 0.1 g/3.1 g serving; not a 100% monohydrate product. Rounded 3 g/serve and per-100-g amounts are retained as approximate label inputs.",
+        "form": "Powder",
+        "grams": 250,
+        "type": "Monohydrate",
+        "subclass": "Micronized + FOS",
+        "creatine": 96.8,
+        "scoop": 3.1,
+        "creatineServing": 3,
+        "energy": 6.12,
+        "additionalIngredients": [
+          {
+            "name": "Fructooligosaccharides (FOS)",
+            "amount": 100,
+            "unit": "mg",
+            "basis": "per 3.1 g label serving"
+          }
+        ],
+        "category": "creatine",
+        "kind": "nutrabay-product",
+        "base": "https://nutrabay.com",
+        "productUrl": "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate?pId=1903618&vId=4334621",
+        "variantUrl": "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate?pId=1903618&vId=4334621",
+        "variantId": "4334621",
+        "productId": "1903618",
+        "variantSku": "NB-NUT-1009-01",
+        "variantAttributes": {
+          "pa_flavour": "Unflavoured",
+          "pa_weight": "250 g (0.55 lb)"
+        },
+        "cacheKey": "nutrabay-4334621",
+        "allowRetailMultipack": true
+      }
+    },
+    {
+      "order": 335,
+      "profile": {
+        "id": "creatine-nb-6150203",
+        "brand": "Nutrabay",
+        "product": "Pure Creatine Monohydrate Micronized",
+        "flavour": "Unflavoured",
+        "packaging": "Pouch",
+        "source": "Not specified",
+        "nutritionUrl": "https://cdn.nutrabay.com/wp-content/uploads/2019/11/NB-NUT-1009-02-updated.jpg",
+        "labelSources": [
+          "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate?pId=1903618&vId=6150203",
+          "https://cdn.nutrabay.com/wp-content/uploads/2019/11/NB-NUT-1009-02-updated.jpg"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+        "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. This selected 500 g legacy gallery declares only micronized monohydrate, 3 g per 3 g serving. Do not transfer its ingredient basis to the newer FOS blends.",
+        "form": "Powder",
+        "grams": 500,
+        "type": "Monohydrate",
+        "subclass": "Micronized; single ingredient (selected legacy pack)",
+        "creatine": 100,
+        "scoop": 3,
+        "creatineServing": 3,
+        "energy": null,
+        "category": "creatine",
+        "kind": "nutrabay-product",
+        "base": "https://nutrabay.com",
+        "productUrl": "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate?pId=1903618&vId=6150203",
+        "variantUrl": "https://nutrabay.com/product/nutrabay-micronised-creatine-monohydrate?pId=1903618&vId=6150203",
+        "variantId": "6150203",
+        "productId": "1903618",
+        "variantSku": "NB-NUT-1009-02",
+        "variantAttributes": {
+          "pa_flavour": "Unflavoured",
+          "pa_weight": "500 g (1.1 lb)"
+        },
+        "cacheKey": "nutrabay-6150203",
+        "allowRetailMultipack": true
+      }
+    }
+  ]
+}

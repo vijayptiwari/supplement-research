@@ -1,0 +1,281 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "The Whole Truth",
+  "product": "The Whole Truth Plant Protein",
+  "variants": [
+    {
+      "order": 811,
+      "offer": {
+        "id": 811,
+        "brand": "The Whole Truth",
+        "product": "The Whole Truth Plant Protein",
+        "type": "Plant — blend",
+        "flavour": "Unflavoured",
+        "kg": 1,
+        "price": 2650,
+        "stock": "In stock",
+        "protein": 83.33333333333334,
+        "scoop": 36,
+        "serving": 36,
+        "subclass": "Plant isolate",
+        "energy": 375,
+        "url": "https://thewholetruthfoods.com/products/unflavoured-30g-plant-protein?sku_id=variant_01M208Q10CTBMZDG6HM31W14VE",
+        "nutritionUrl": "https://thewholetruthfoods.com/products/unflavoured-30g-plant-protein",
+        "basis": "30g protein / 36g serving; pea + brown rice isolate blend",
+        "notes": "100% plant-based blend of non-GMO European pea isolate and brown rice isolate.",
+        "energyBasis": "Brand official label / serving instructions",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://thewholetruthfoods.com/products/unflavoured-30g-plant-protein?sku_id=variant_01M208Q10CTBMZDG6HM31W14VE",
+          "evidenceUrl": "https://thewholetruthfoods.com/llmFeed.json",
+          "matchBasis": "Official public feed exact product family, flavour, retail pack and SKU"
+        }
+      }
+    },
+    {
+      "order": 812,
+      "offer": {
+        "id": 812,
+        "brand": "The Whole Truth",
+        "product": "The Whole Truth Plant Protein",
+        "type": "Plant — blend",
+        "flavour": "Unflavoured",
+        "kg": 2,
+        "price": 5300,
+        "stock": "In stock",
+        "protein": 83.33333333333334,
+        "scoop": 36,
+        "serving": 36,
+        "subclass": "Plant isolate",
+        "energy": 375,
+        "url": "https://thewholetruthfoods.com/products/unflavoured-30g-plant-protein?sku_id=variant_01M208Q10CRX98D93T1Z4P9XFH",
+        "nutritionUrl": "https://thewholetruthfoods.com/products/unflavoured-30g-plant-protein",
+        "basis": "30g protein / 36g serving; pea + brown rice isolate blend",
+        "notes": "100% plant-based blend of non-GMO European pea isolate and brown rice isolate.",
+        "energyBasis": "Brand official label / serving instructions",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://thewholetruthfoods.com/products/unflavoured-30g-plant-protein?sku_id=variant_01M208Q10CRX98D93T1Z4P9XFH",
+          "evidenceUrl": "https://thewholetruthfoods.com/llmFeed.json",
+          "matchBasis": "Official public feed exact product family, flavour, retail pack and SKU"
+        }
+      }
+    },
+    {
+      "order": 813,
+      "offer": {
+        "id": 813,
+        "brand": "The Whole Truth",
+        "product": "The Whole Truth Plant Protein",
+        "type": "Plant — blend",
+        "flavour": "Double Cocoa",
+        "kg": 1,
+        "price": 2650,
+        "stock": "In stock",
+        "protein": 69.44444444444444,
+        "scoop": 36,
+        "serving": 36,
+        "subclass": "Plant concentrate / powder",
+        "energy": 380,
+        "url": "https://thewholetruthfoods.com/products/double-cocoa-25g-plant-protein?sku_id=38770373",
+        "nutritionUrl": "https://thewholetruthfoods.com/products/double-cocoa-25g-plant-protein",
+        "basis": "25g protein / 36g serving; plant isolate + rich cocoa",
+        "notes": "European pea and brown rice protein naturally sweetened with dates and cocoa powder.",
+        "energyBasis": "Brand official label / serving instructions",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://thewholetruthfoods.com/products/double-cocoa-25g-plant-protein?sku_id=38770373",
+          "evidenceUrl": "https://thewholetruthfoods.com/llmFeed.json",
+          "matchBasis": "Official public feed exact product family, flavour, retail pack and SKU"
+        }
+      }
+    },
+    {
+      "order": 814,
+      "offer": {
+        "id": 814,
+        "brand": "The Whole Truth",
+        "product": "The Whole Truth Plant Protein",
+        "type": "Plant — blend",
+        "flavour": "Double Cocoa",
+        "kg": 2,
+        "price": 5300,
+        "stock": "In stock",
+        "protein": 69.44444444444444,
+        "scoop": 36,
+        "serving": 36,
+        "subclass": "Plant concentrate / powder",
+        "energy": 380,
+        "url": "https://thewholetruthfoods.com/products/double-cocoa-25g-plant-protein?sku_id=38770374",
+        "nutritionUrl": "https://thewholetruthfoods.com/products/double-cocoa-25g-plant-protein",
+        "basis": "25g protein / 36g serving; plant isolate + rich cocoa",
+        "notes": "European pea and brown rice protein naturally sweetened with dates and cocoa powder.",
+        "energyBasis": "Brand official label / serving instructions",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://thewholetruthfoods.com/products/double-cocoa-25g-plant-protein?sku_id=38770374",
+          "evidenceUrl": "https://thewholetruthfoods.com/llmFeed.json",
+          "matchBasis": "Official public feed exact product family, flavour, retail pack and SKU"
+        }
+      }
+    },
+    {
+      "order": 815,
+      "offer": {
+        "id": 815,
+        "brand": "The Whole Truth",
+        "product": "The Whole Truth Plant Protein",
+        "type": "Plant — blend",
+        "flavour": "Pista Badaam",
+        "kg": 1,
+        "price": 2950,
+        "stock": "In stock",
+        "protein": 66.66666666666666,
+        "scoop": 36,
+        "serving": 36,
+        "subclass": "Plant concentrate / powder",
+        "energy": 380,
+        "url": "https://thewholetruthfoods.com/products/pista-badaam-24g-plant-protein?sku_id=38770375",
+        "nutritionUrl": "https://thewholetruthfoods.com/products/pista-badaam-24g-plant-protein",
+        "basis": "24g protein / 36g serving; plant isolate + real nuts",
+        "notes": "Plant protein blend enhanced with roasted pistachio pieces and almond flour.",
+        "energyBasis": "Brand official label / serving instructions",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://thewholetruthfoods.com/products/pista-badaam-24g-plant-protein?sku_id=38770375",
+          "evidenceUrl": "https://thewholetruthfoods.com/llmFeed.json",
+          "matchBasis": "Official public feed exact product family, flavour, retail pack and SKU"
+        }
+      }
+    },
+    {
+      "order": 816,
+      "offer": {
+        "id": 816,
+        "brand": "The Whole Truth",
+        "product": "The Whole Truth Plant Protein",
+        "type": "Plant — blend",
+        "flavour": "Pista Badaam",
+        "kg": 2,
+        "price": 5900,
+        "stock": "In stock",
+        "protein": 66.66666666666666,
+        "scoop": 36,
+        "serving": 36,
+        "subclass": "Plant concentrate / powder",
+        "energy": 380,
+        "url": "https://thewholetruthfoods.com/products/pista-badaam-24g-plant-protein?sku_id=38770376",
+        "nutritionUrl": "https://thewholetruthfoods.com/products/pista-badaam-24g-plant-protein",
+        "basis": "24g protein / 36g serving; plant isolate + real nuts",
+        "notes": "Plant protein blend enhanced with roasted pistachio pieces and almond flour.",
+        "energyBasis": "Brand official label / serving instructions",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://thewholetruthfoods.com/products/pista-badaam-24g-plant-protein?sku_id=38770376",
+          "evidenceUrl": "https://thewholetruthfoods.com/llmFeed.json",
+          "matchBasis": "Official public feed exact product family, flavour, retail pack and SKU"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5060,
+      "observation": {
+        "category": "protein",
+        "offerId": 811,
+        "date": "2026-11-19",
+        "price": 2650,
+        "currency": "INR",
+        "sourceUrl": "https://thewholetruthfoods.com/products/unflavoured-30g-plant-protein?sku_id=variant_01M208Q10CTBMZDG6HM31W14VE",
+        "evidenceUrl": "https://thewholetruthfoods.com/llmFeed.json",
+        "kind": "official-live",
+        "matchBasis": "Official public feed exact product family, flavour, retail pack and SKU",
+        "variantId": "PLUNF1000_2650"
+      }
+    },
+    {
+      "order": 5061,
+      "observation": {
+        "category": "protein",
+        "offerId": 812,
+        "date": "2026-11-19",
+        "price": 5300,
+        "currency": "INR",
+        "sourceUrl": "https://thewholetruthfoods.com/products/unflavoured-30g-plant-protein?sku_id=variant_01M208Q10CRX98D93T1Z4P9XFH",
+        "evidenceUrl": "https://thewholetruthfoods.com/llmFeed.json",
+        "kind": "official-live",
+        "matchBasis": "Official public feed exact product family, flavour, retail pack and SKU",
+        "variantId": "F2620066"
+      }
+    },
+    {
+      "order": 5062,
+      "observation": {
+        "category": "protein",
+        "offerId": 813,
+        "date": "2026-11-19",
+        "price": 2650,
+        "currency": "INR",
+        "sourceUrl": "https://thewholetruthfoods.com/products/double-cocoa-25g-plant-protein?sku_id=38770373",
+        "evidenceUrl": "https://thewholetruthfoods.com/llmFeed.json",
+        "kind": "official-live",
+        "matchBasis": "Official public feed exact product family, flavour, retail pack and SKU",
+        "variantId": "F2610022"
+      }
+    },
+    {
+      "order": 5063,
+      "observation": {
+        "category": "protein",
+        "offerId": 814,
+        "date": "2026-11-19",
+        "price": 5300,
+        "currency": "INR",
+        "sourceUrl": "https://thewholetruthfoods.com/products/double-cocoa-25g-plant-protein?sku_id=38770374",
+        "evidenceUrl": "https://thewholetruthfoods.com/llmFeed.json",
+        "kind": "official-live",
+        "matchBasis": "Official public feed exact product family, flavour, retail pack and SKU",
+        "variantId": "F2620024"
+      }
+    },
+    {
+      "order": 5064,
+      "observation": {
+        "category": "protein",
+        "offerId": 815,
+        "date": "2026-11-19",
+        "price": 2950,
+        "currency": "INR",
+        "sourceUrl": "https://thewholetruthfoods.com/products/pista-badaam-24g-plant-protein?sku_id=38770375",
+        "evidenceUrl": "https://thewholetruthfoods.com/llmFeed.json",
+        "kind": "official-live",
+        "matchBasis": "Official public feed exact product family, flavour, retail pack and SKU",
+        "variantId": "F2610023"
+      }
+    },
+    {
+      "order": 5065,
+      "observation": {
+        "category": "protein",
+        "offerId": 816,
+        "date": "2026-11-19",
+        "price": 5900,
+        "currency": "INR",
+        "sourceUrl": "https://thewholetruthfoods.com/products/pista-badaam-24g-plant-protein?sku_id=38770376",
+        "evidenceUrl": "https://thewholetruthfoods.com/llmFeed.json",
+        "kind": "official-live",
+        "matchBasis": "Official public feed exact product family, flavour, retail pack and SKU",
+        "variantId": "F2620025"
+      }
+    }
+  ],
+  "refreshSources": []
+}

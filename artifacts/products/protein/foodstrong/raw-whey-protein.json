@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "Foodstrong",
+  "product": "Raw Whey Protein",
+  "variants": [
+    {
+      "order": 878,
+      "offer": {
+        "id": "protein-foodstrong-46883226550502",
+        "brand": "Foodstrong",
+        "product": "Raw Whey Protein",
+        "flavour": "Unflavoured",
+        "packaging": "Pouch",
+        "source": "Not specified",
+        "price": 2999,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://foodstrong.in/products/daily-whey-protein-unflavoured-1-kg?variant=46883226550502",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0430/7986/0381/files/10_b7b493fa-8e34-400a-a9e1-b1ec6506de36.jpg?v=1791037415",
+        "labelSources": [
+          "https://foodstrong.in/products/daily-whey-protein-unflavoured-1-kg?variant=46883226550502",
+          "https://cdn.shopify.com/s/files/1/0430/7986/0381/files/10_b7b493fa-8e34-400a-a9e1-b1ec6506de36.jpg?v=1791037415"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "46883226550502",
+        "form": "Powder",
+        "basis": "Exact manufacturer product and retail pack, ordinary INR listed price and selected stock reviewed on 20 November 2026. Label amounts are manufacturer declarations, not independent assay results. Trustified is used for discovery; a report on a different batch or formulation does not certify this offer.",
+        "notes": "The exact Unflavoured gallery composition panel was reviewed separately. Declared composition: 26.2 g protein and 126 kcal per 35 g scoop; per100 g values are calculated from those serving amounts. Rounded serving counts do not replace the actual selected1/2kg pack. The manufacturer advertises added turmeric across the range, but some ingredient graphics omit it; curcumin quantity is not established. Review the current pack composition and herb exposure before stack inclusion. Enzyme ingredients are bromelain and papain; amounts are not declared. Advertising about anti-inflammatory effects, hormone-free sourcing, zero bloating or improved absorption is not adopted as verified comparative benefit. The99.5% whey-concentrate inclusion is an ingredient fraction, not a protein percentage.",
+        "kg": 1,
+        "type": "Whey",
+        "subclass": "Whey concentrate",
+        "protein": 74.85714285714286,
+        "scoop": 35,
+        "serving": 35,
+        "energy": 360,
+        "requiresProductReview": true,
+        "productReviewReason": "Added turmeric/curcumin is advertised but its dose and some gallery ingredient lists are inconsistent; review exact formulation before stack inclusion.",
+        "additionalIngredients": [
+          {
+            "name": "Curcumin / turmeric extract",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving; inclusion advertised, quantity not verified"
+          },
+          {
+            "name": "Bromelain",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Papain",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "allergens": [
+          "Milk"
+        ]
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5323,
+      "observation": {
+        "category": "protein",
+        "offerId": "protein-foodstrong-46883226550502",
+        "date": "2026-11-20",
+        "price": 2999,
+        "currency": "INR",
+        "sourceUrl": "https://foodstrong.in/products/daily-whey-protein-unflavoured-1-kg?variant=46883226550502",
+        "evidenceUrl": "https://foodstrong.in/products/daily-whey-protein-unflavoured-1-kg.json",
+        "kind": "official-live",
+        "variantId": "46883226550502",
+        "matchBasis": "Official Shopify exact variant ID 46883226550502; actual net pack in product title and selected pack gallery, ordinary INR selling price and variant stock reviewed."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 406,
+      "profile": {
+        "id": "protein-foodstrong-46883226550502",
+        "brand": "Foodstrong",
+        "product": "Raw Whey Protein",
+        "flavour": "Unflavoured",
+        "packaging": "Pouch",
+        "source": "Not specified",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0430/7986/0381/files/10_b7b493fa-8e34-400a-a9e1-b1ec6506de36.jpg?v=1791037415",
+        "labelSources": [
+          "https://foodstrong.in/products/daily-whey-protein-unflavoured-1-kg?variant=46883226550502",
+          "https://cdn.shopify.com/s/files/1/0430/7986/0381/files/10_b7b493fa-8e34-400a-a9e1-b1ec6506de36.jpg?v=1791037415"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "form": "Powder",
+        "basis": "Exact manufacturer product and retail pack, ordinary INR listed price and selected stock reviewed on 20 November 2026. Label amounts are manufacturer declarations, not independent assay results. Trustified is used for discovery; a report on a different batch or formulation does not certify this offer.",
+        "notes": "The exact Unflavoured gallery composition panel was reviewed separately. Declared composition: 26.2 g protein and 126 kcal per 35 g scoop; per100 g values are calculated from those serving amounts. Rounded serving counts do not replace the actual selected1/2kg pack. The manufacturer advertises added turmeric across the range, but some ingredient graphics omit it; curcumin quantity is not established. Review the current pack composition and herb exposure before stack inclusion. Enzyme ingredients are bromelain and papain; amounts are not declared. Advertising about anti-inflammatory effects, hormone-free sourcing, zero bloating or improved absorption is not adopted as verified comparative benefit. The99.5% whey-concentrate inclusion is an ingredient fraction, not a protein percentage.",
+        "kg": 1,
+        "type": "Whey",
+        "subclass": "Whey concentrate",
+        "protein": 74.85714285714286,
+        "scoop": 35,
+        "serving": 35,
+        "energy": 360,
+        "requiresProductReview": true,
+        "productReviewReason": "Added turmeric/curcumin is advertised but its dose and some gallery ingredient lists are inconsistent; review exact formulation before stack inclusion.",
+        "additionalIngredients": [
+          {
+            "name": "Curcumin / turmeric extract",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving; inclusion advertised, quantity not verified"
+          },
+          {
+            "name": "Bromelain",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Papain",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "allergens": [
+          "Milk"
+        ],
+        "category": "protein",
+        "kind": "shopify",
+        "base": "https://foodstrong.in",
+        "handle": "daily-whey-protein-unflavoured-1-kg",
+        "variantIds": [
+          "46883226550502"
+        ],
+        "cacheKey": "foodstrong-46883226550502",
+        "grams": 1000
+      }
+    }
+  ]
+}

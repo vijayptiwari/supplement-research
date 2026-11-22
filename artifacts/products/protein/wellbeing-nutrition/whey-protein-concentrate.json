@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "Wellbeing Nutrition",
+  "product": "Whey Protein Concentrate",
+  "variants": [
+    {
+      "order": 793,
+      "offer": {
+        "id": 793,
+        "brand": "Wellbeing Nutrition",
+        "product": "Whey Protein Concentrate",
+        "type": "Whey — concentrate",
+        "flavour": "Unflavoured",
+        "kg": 1,
+        "price": 3999,
+        "stock": "In stock",
+        "protein": 76.3,
+        "scoop": 35.5,
+        "serving": 35.5,
+        "subclass": "Whey concentrate",
+        "energy": 376.9,
+        "url": "https://wellbeingnutrition.com/products/whey-protein-concentrate-unflavored?variant=40976647979088",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0240/2942/9840/files/BOP-Unflavoured-Concentrate-1kg_1.jpg?v=1786714090",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Previously missing protein % added from visually checked exact pack label; linked cost recalculates. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Visually checked exact pack label, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://wellbeingnutrition.com/products/whey-protein-concentrate-unflavored?variant=40976647979088",
+          "evidenceUrl": "https://wellbeingnutrition.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 2982,
+      "observation": {
+        "category": "protein",
+        "offerId": 793,
+        "date": "2026-10-25",
+        "price": 4499,
+        "currency": "INR",
+        "sourceUrl": "https://wellbeingnutrition.com/products/whey-protein-concentrate-unflavored?variant=40976647979088",
+        "evidenceUrl": "https://wellbeingnutrition.com/products/whey-protein-concentrate-unflavored.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "40976647979088"
+      }
+    },
+    {
+      "order": 4840,
+      "observation": {
+        "category": "protein",
+        "offerId": 793,
+        "date": "2026-11-19",
+        "price": 3999,
+        "currency": "INR",
+        "sourceUrl": "https://wellbeingnutrition.com/products/whey-protein-concentrate-unflavored?variant=40976647979088",
+        "evidenceUrl": "https://wellbeingnutrition.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "40976647979088"
+      }
+    }
+  ],
+  "refreshSources": []
+}

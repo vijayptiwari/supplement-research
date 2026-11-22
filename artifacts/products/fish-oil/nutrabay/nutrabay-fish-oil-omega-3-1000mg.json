@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "category": "fish-oil",
+  "brand": "Nutrabay",
+  "product": "Nutrabay Fish Oil Omega 3 - 1000mg",
+  "variants": [
+    {
+      "order": 23,
+      "offer": {
+        "id": "fish-oil-nb-5733502",
+        "brand": "Nutrabay",
+        "product": "Nutrabay Fish Oil Omega 3 - 1000mg",
+        "flavour": "Unflavoured",
+        "packaging": "Bottle",
+        "source": "Not specified",
+        "price": 449,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://nutrabay.com/product/nutrabay-wellness-fish-oil-1000mg/?pId=5856792&vId=5733502",
+        "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1031-01.png",
+        "labelSources": [
+          "https://nutrabay.com/product/nutrabay-wellness-fish-oil-1000mg/?pId=5856792&vId=5733502",
+          "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1031-01.png"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "5733502",
+        "sourceProductId": "5856792",
+        "sourceSku": "NB-NUT-1031-01",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+        "notes": "The label lists 320 mg total omega-3; EPA 180 + DHA 120 = 300 mg. The remaining fatty acids are not reassigned to EPA/DHA. Contains fish and gelatin.",
+        "form": "Softgel",
+        "servingUnits": 1,
+        "type": "Fish oil; lipid ester form not specified",
+        "subclass": "Standard EPA+DHA",
+        "fishOilMg": 1000,
+        "epaMg": 180,
+        "dhaMg": 120,
+        "energyPerServing": 13.03,
+        "declaredNutrients": [
+          "epaMg",
+          "dhaMg",
+          "fishOilMg"
+        ],
+        "packCount": 60
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5265,
+      "observation": {
+        "category": "fish-oil",
+        "offerId": "fish-oil-nb-5733502",
+        "date": "2026-11-20",
+        "price": 449,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabay.com/product/nutrabay-wellness-fish-oil-1000mg/?pId=5856792&vId=5733502",
+        "evidenceUrl": "https://nutrabay.com/product/nutrabay-wellness-fish-oil-1000mg/?pId=5856792&vId=5733502",
+        "kind": "official-live",
+        "variantId": "5733502",
+        "matchBasis": "Nutrabay selected live product 5856792, variant 5733502, SKU NB-NUT-1031-01; complete selected attributes, ordinary INR sale_price, stock and actual net pack verified. Label amounts independently read from this selected gallery."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 350,
+      "profile": {
+        "id": "fish-oil-nb-5733502",
+        "brand": "Nutrabay",
+        "product": "Nutrabay Fish Oil Omega 3 - 1000mg",
+        "flavour": "Unflavoured",
+        "packaging": "Bottle",
+        "source": "Not specified",
+        "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1031-01.png",
+        "labelSources": [
+          "https://nutrabay.com/product/nutrabay-wellness-fish-oil-1000mg/?pId=5856792&vId=5733502",
+          "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1031-01.png"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+        "notes": "The label lists 320 mg total omega-3; EPA 180 + DHA 120 = 300 mg. The remaining fatty acids are not reassigned to EPA/DHA. Contains fish and gelatin.",
+        "form": "Softgel",
+        "servingUnits": 1,
+        "type": "Fish oil; lipid ester form not specified",
+        "subclass": "Standard EPA+DHA",
+        "fishOilMg": 1000,
+        "epaMg": 180,
+        "dhaMg": 120,
+        "energyPerServing": 13.03,
+        "declaredNutrients": [
+          "epaMg",
+          "dhaMg",
+          "fishOilMg"
+        ],
+        "packCount": 60,
+        "category": "fish-oil",
+        "kind": "nutrabay-product",
+        "base": "https://nutrabay.com",
+        "productUrl": "https://nutrabay.com/product/nutrabay-wellness-fish-oil-1000mg/?pId=5856792&vId=5733502",
+        "variantUrl": "https://nutrabay.com/product/nutrabay-wellness-fish-oil-1000mg/?pId=5856792&vId=5733502",
+        "variantId": "5733502",
+        "productId": "5856792",
+        "variantSku": "NB-NUT-1031-01",
+        "variantAttributes": {
+          "pa_pack-size": "60 Caps"
+        },
+        "cacheKey": "nutrabay-5733502",
+        "allowRetailMultipack": true
+      }
+    }
+  ]
+}

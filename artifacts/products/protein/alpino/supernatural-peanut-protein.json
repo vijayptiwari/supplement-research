@@ -1,0 +1,317 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "Alpino",
+  "product": "Supernatural Peanut Protein",
+  "variants": [
+    {
+      "order": 866,
+      "offer": {
+        "id": "protein-alpino-46135472160938",
+        "brand": "Alpino",
+        "product": "Supernatural Peanut Protein",
+        "flavour": "Dark Chocolate",
+        "packaging": "Pouch",
+        "source": "Not specified",
+        "price": 1999,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://alpino.store/products/plant-peanut-protein-powder-dark-chocolate?variant=46135472160938",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0520/1572/6762/files/04_4e68427b-f79b-4729-a047-447c9be51204.webp?v=1791549918",
+        "labelSources": [
+          "https://alpino.store/products/plant-peanut-protein-powder-dark-chocolate?variant=46135472160938",
+          "https://cdn.shopify.com/s/files/1/0520/1572/6762/files/04_4e68427b-f79b-4729-a047-447c9be51204.webp?v=1791549918"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "46135472160938",
+        "form": "Powder",
+        "basis": "Exact official retail pack and ordinary INR listed price reviewed on 20 November 2026. Nutrition values are manufacturer declarations, not independent assay results. Trustified was used for discovery; a report on another batch or product does not certify this listing.",
+        "notes": "Gallery panel declares 24.44 g protein and 133.01 kcal per 36 g scoop; per 100 g concentration and energy are calculated from those explicitly labelled amounts. Ingredients include peanut protein isolate, cocoa, coconut MCT, steviol glycosides, sunflower lecithin and xanthan gum. Contains peanut. The advertised100% clean protein is not used as protein concentration.",
+        "kg": 1,
+        "type": "Plant",
+        "subclass": "Peanut protein isolate",
+        "protein": 67.88888888888889,
+        "scoop": 36,
+        "serving": 36,
+        "energy": 369.47222222222223,
+        "allergens": [
+          "Peanut"
+        ]
+      }
+    },
+    {
+      "order": 867,
+      "offer": {
+        "id": "protein-alpino-67691254841514",
+        "brand": "Alpino",
+        "product": "Supernatural Peanut Protein",
+        "flavour": "Thandai Fusion",
+        "packaging": "Pouch",
+        "source": "Not specified",
+        "price": 2279,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://alpino.store/products/thandai-fusion-peanut-protein-powder?variant=67691254841514",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0520/1572/6762/files/04_3b206e66-7357-47f0-b62c-b282dd858c12.webp?v=1791612833",
+        "labelSources": [
+          "https://alpino.store/products/thandai-fusion-peanut-protein-powder?variant=67691254841514",
+          "https://cdn.shopify.com/s/files/1/0520/1572/6762/files/04_3b206e66-7357-47f0-b62c-b282dd858c12.webp?v=1791612833"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "67691254841514",
+        "form": "Powder",
+        "basis": "Exact official retail pack and ordinary INR listed price reviewed on 20 November 2026. Nutrition values are manufacturer declarations, not independent assay results. Trustified was used for discovery; a report on another batch or product does not certify this listing.",
+        "notes": "Current gallery panel declares 26.12 g protein and 144.12 kcal per 37 g scoop. Body text rounds this inconsistently to 27 g; the exact composition panel is used, with calculated per 100 g values. The official description declares peanut, cashew, almond, pistachio and milk allergens, so this product must not be assumed dairy-free or vegan.",
+        "kg": 1,
+        "type": "Plant",
+        "subclass": "Peanut protein and nut blend",
+        "protein": 70.5945945945946,
+        "scoop": 37,
+        "serving": 37,
+        "energy": 389.51351351351354,
+        "allergens": [
+          "Peanut",
+          "Cashew",
+          "Almond",
+          "Pistachio",
+          "Milk"
+        ],
+        "requiresProductReview": true,
+        "productReviewReason": "Official page declares milk plus multiple nut allergens despite peanut-based protein; review diet/allergen compatibility before stack inclusion."
+      }
+    },
+    {
+      "order": 868,
+      "offer": {
+        "id": "protein-alpino-46880041828522",
+        "brand": "Alpino",
+        "product": "Supernatural Peanut Protein",
+        "flavour": "Cold Coffee",
+        "packaging": "Pouch",
+        "source": "Not specified",
+        "price": 2089,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://alpino.store/products/supernatural-peanut-protein-powder-cold-coffee-protein?variant=46880041828522",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0520/1572/6762/files/04_0854bc48-a95d-4055-9919-aa05874c7208.webp?v=1791611573",
+        "labelSources": [
+          "https://alpino.store/products/supernatural-peanut-protein-powder-cold-coffee-protein?variant=46880041828522",
+          "https://cdn.shopify.com/s/files/1/0520/1572/6762/files/04_0854bc48-a95d-4055-9919-aa05874c7208.webp?v=1791611573"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "46880041828522",
+        "form": "Powder",
+        "basis": "Exact official retail pack and ordinary INR listed price reviewed on 20 November 2026. Nutrition values are manufacturer declarations, not independent assay results. Trustified was used for discovery; a report on another batch or product does not certify this listing.",
+        "notes": "Official body explicitly declares 24.83 g protein and 42 mg caffeine per 37 g scoop. Gallery uses the same 24.83 g protein value and per-serving RDA, but the column is incorrectly headed Per 100 g; protein uses the corroborated serving declaration. Energy is left unknown because that mislabeled column cannot establish the calorie basis. Contains peanut. Manufacturer states different packaging may be shipped.",
+        "kg": 1,
+        "type": "Plant",
+        "subclass": "Peanut protein isolate with coffee",
+        "protein": 67.1081081081081,
+        "scoop": 37,
+        "serving": 37,
+        "energy": null,
+        "allergens": [
+          "Peanut"
+        ],
+        "requiresProductReview": true,
+        "productReviewReason": "Contains42mg caffeine per 37 g scoop; review total stimulant exposure. Current gallery nutrition column heading is inconsistent.",
+        "additionalIngredients": [
+          {
+            "name": "Caffeine",
+            "amount": 42,
+            "unit": "mg",
+            "basis": "per 37 g label serving, declared in official product description"
+          }
+        ]
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5304,
+      "observation": {
+        "category": "protein",
+        "offerId": "protein-alpino-46135472160938",
+        "date": "2026-11-20",
+        "price": 1999,
+        "currency": "INR",
+        "sourceUrl": "https://alpino.store/products/plant-peanut-protein-powder-dark-chocolate?variant=46135472160938",
+        "evidenceUrl": "https://alpino.store/products/plant-peanut-protein-powder-dark-chocolate.json",
+        "kind": "official-live",
+        "variantId": "46135472160938",
+        "matchBasis": "Official Shopify exact variant ID 46135472160938; selected pack title 1 Kg and actual net grams, ordinary listed INR price and variant stock reviewed."
+      }
+    },
+    {
+      "order": 5305,
+      "observation": {
+        "category": "protein",
+        "offerId": "protein-alpino-67691254841514",
+        "date": "2026-11-20",
+        "price": 2279,
+        "currency": "INR",
+        "sourceUrl": "https://alpino.store/products/thandai-fusion-peanut-protein-powder?variant=67691254841514",
+        "evidenceUrl": "https://alpino.store/products/thandai-fusion-peanut-protein-powder.json",
+        "kind": "official-live",
+        "variantId": "67691254841514",
+        "matchBasis": "Official Shopify exact variant ID 67691254841514; selected pack title Default Title and actual net grams, ordinary listed INR price and variant stock reviewed."
+      }
+    },
+    {
+      "order": 5306,
+      "observation": {
+        "category": "protein",
+        "offerId": "protein-alpino-46880041828522",
+        "date": "2026-11-20",
+        "price": 2089,
+        "currency": "INR",
+        "sourceUrl": "https://alpino.store/products/supernatural-peanut-protein-powder-cold-coffee-protein?variant=46880041828522",
+        "evidenceUrl": "https://alpino.store/products/supernatural-peanut-protein-powder-cold-coffee-protein.json",
+        "kind": "official-live",
+        "variantId": "46880041828522",
+        "matchBasis": "Official Shopify exact variant ID 46880041828522; selected pack title 1 Kg and actual net grams, ordinary listed INR price and variant stock reviewed."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 387,
+      "profile": {
+        "id": "protein-alpino-46135472160938",
+        "brand": "Alpino",
+        "product": "Supernatural Peanut Protein",
+        "flavour": "Dark Chocolate",
+        "packaging": "Pouch",
+        "source": "Not specified",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0520/1572/6762/files/04_4e68427b-f79b-4729-a047-447c9be51204.webp?v=1791549918",
+        "labelSources": [
+          "https://alpino.store/products/plant-peanut-protein-powder-dark-chocolate?variant=46135472160938",
+          "https://cdn.shopify.com/s/files/1/0520/1572/6762/files/04_4e68427b-f79b-4729-a047-447c9be51204.webp?v=1791549918"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "form": "Powder",
+        "basis": "Exact official retail pack and ordinary INR listed price reviewed on 20 November 2026. Nutrition values are manufacturer declarations, not independent assay results. Trustified was used for discovery; a report on another batch or product does not certify this listing.",
+        "notes": "Gallery panel declares 24.44 g protein and 133.01 kcal per 36 g scoop; per 100 g concentration and energy are calculated from those explicitly labelled amounts. Ingredients include peanut protein isolate, cocoa, coconut MCT, steviol glycosides, sunflower lecithin and xanthan gum. Contains peanut. The advertised100% clean protein is not used as protein concentration.",
+        "kg": 1,
+        "type": "Plant",
+        "subclass": "Peanut protein isolate",
+        "protein": 67.88888888888889,
+        "scoop": 36,
+        "serving": 36,
+        "energy": 369.47222222222223,
+        "allergens": [
+          "Peanut"
+        ],
+        "category": "protein",
+        "kind": "shopify",
+        "base": "https://alpino.store",
+        "handle": "plant-peanut-protein-powder-dark-chocolate",
+        "variantIds": [
+          "46135472160938"
+        ],
+        "cacheKey": "alpino-46135472160938",
+        "grams": 1000
+      }
+    },
+    {
+      "order": 388,
+      "profile": {
+        "id": "protein-alpino-67691254841514",
+        "brand": "Alpino",
+        "product": "Supernatural Peanut Protein",
+        "flavour": "Thandai Fusion",
+        "packaging": "Pouch",
+        "source": "Not specified",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0520/1572/6762/files/04_3b206e66-7357-47f0-b62c-b282dd858c12.webp?v=1791612833",
+        "labelSources": [
+          "https://alpino.store/products/thandai-fusion-peanut-protein-powder?variant=67691254841514",
+          "https://cdn.shopify.com/s/files/1/0520/1572/6762/files/04_3b206e66-7357-47f0-b62c-b282dd858c12.webp?v=1791612833"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "form": "Powder",
+        "basis": "Exact official retail pack and ordinary INR listed price reviewed on 20 November 2026. Nutrition values are manufacturer declarations, not independent assay results. Trustified was used for discovery; a report on another batch or product does not certify this listing.",
+        "notes": "Current gallery panel declares 26.12 g protein and 144.12 kcal per 37 g scoop. Body text rounds this inconsistently to 27 g; the exact composition panel is used, with calculated per 100 g values. The official description declares peanut, cashew, almond, pistachio and milk allergens, so this product must not be assumed dairy-free or vegan.",
+        "kg": 1,
+        "type": "Plant",
+        "subclass": "Peanut protein and nut blend",
+        "protein": 70.5945945945946,
+        "scoop": 37,
+        "serving": 37,
+        "energy": 389.51351351351354,
+        "allergens": [
+          "Peanut",
+          "Cashew",
+          "Almond",
+          "Pistachio",
+          "Milk"
+        ],
+        "requiresProductReview": true,
+        "productReviewReason": "Official page declares milk plus multiple nut allergens despite peanut-based protein; review diet/allergen compatibility before stack inclusion.",
+        "category": "protein",
+        "kind": "shopify",
+        "base": "https://alpino.store",
+        "handle": "thandai-fusion-peanut-protein-powder",
+        "variantIds": [
+          "67691254841514"
+        ],
+        "cacheKey": "alpino-67691254841514",
+        "grams": 1000
+      }
+    },
+    {
+      "order": 389,
+      "profile": {
+        "id": "protein-alpino-46880041828522",
+        "brand": "Alpino",
+        "product": "Supernatural Peanut Protein",
+        "flavour": "Cold Coffee",
+        "packaging": "Pouch",
+        "source": "Not specified",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0520/1572/6762/files/04_0854bc48-a95d-4055-9919-aa05874c7208.webp?v=1791611573",
+        "labelSources": [
+          "https://alpino.store/products/supernatural-peanut-protein-powder-cold-coffee-protein?variant=46880041828522",
+          "https://cdn.shopify.com/s/files/1/0520/1572/6762/files/04_0854bc48-a95d-4055-9919-aa05874c7208.webp?v=1791611573"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "form": "Powder",
+        "basis": "Exact official retail pack and ordinary INR listed price reviewed on 20 November 2026. Nutrition values are manufacturer declarations, not independent assay results. Trustified was used for discovery; a report on another batch or product does not certify this listing.",
+        "notes": "Official body explicitly declares 24.83 g protein and 42 mg caffeine per 37 g scoop. Gallery uses the same 24.83 g protein value and per-serving RDA, but the column is incorrectly headed Per 100 g; protein uses the corroborated serving declaration. Energy is left unknown because that mislabeled column cannot establish the calorie basis. Contains peanut. Manufacturer states different packaging may be shipped.",
+        "kg": 1,
+        "type": "Plant",
+        "subclass": "Peanut protein isolate with coffee",
+        "protein": 67.1081081081081,
+        "scoop": 37,
+        "serving": 37,
+        "energy": null,
+        "allergens": [
+          "Peanut"
+        ],
+        "requiresProductReview": true,
+        "productReviewReason": "Contains42mg caffeine per 37 g scoop; review total stimulant exposure. Current gallery nutrition column heading is inconsistent.",
+        "additionalIngredients": [
+          {
+            "name": "Caffeine",
+            "amount": 42,
+            "unit": "mg",
+            "basis": "per 37 g label serving, declared in official product description"
+          }
+        ],
+        "category": "protein",
+        "kind": "shopify",
+        "base": "https://alpino.store",
+        "handle": "supernatural-peanut-protein-powder-cold-coffee-protein",
+        "variantIds": [
+          "46880041828522"
+        ],
+        "cacheKey": "alpino-46880041828522",
+        "grams": 1000
+      }
+    }
+  ]
+}

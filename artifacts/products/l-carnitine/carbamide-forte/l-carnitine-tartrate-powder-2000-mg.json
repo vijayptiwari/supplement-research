@@ -1,0 +1,216 @@
+{
+  "schemaVersion": 1,
+  "category": "l-carnitine",
+  "brand": "Carbamide Forte",
+  "product": "L-Carnitine Tartrate Powder 2000 mg",
+  "variants": [
+    {
+      "order": 4,
+      "offer": {
+        "brand": "Carbamide Forte",
+        "product": "L-Carnitine Tartrate Powder 2000 mg",
+        "form": "Powder",
+        "type": "L-carnitine L-tartrate",
+        "subclass": "Tartrate + chromium blend",
+        "source": "Not specified",
+        "flavour": "Mango",
+        "packaging": "Single retail pack",
+        "basis": "Official inspected back label states 5 g (one scoop), 2000 mg L-carnitine tartrate, 8.4 kcal and 150 g net weight. Only exact Pack of 1 is included.",
+        "notes": "The 2000 mg is tartrate compound mass, not verified free L-carnitine. Chromium picolinate is a separate co-ingredient; product absorption and fat-loss claims are not established outcomes.",
+        "labelChecked": "2026-11-17",
+        "grams": 150,
+        "servingGrams": 5,
+        "carnitineCompoundMg": 2000,
+        "energyPerServing": 8.4,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/71bUIc7X99L._SL1500.jpg?v=1752231853"
+        ],
+        "carnitineMg": null,
+        "id": "l-carnitine-42971171913841",
+        "price": 549,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://mycf.in/products/carbamide-forte-l-carnitine-l-tartrate-2000mg-powder-for-pre-post-workout-mango-flavour-150g?variant=42971171913841",
+        "nutritionUrl": "https://mycf.in/products/carbamide-forte-l-carnitine-l-tartrate-2000mg-powder-for-pre-post-workout-mango-flavour-150g",
+        "searchAliases": [
+          "lclt"
+        ],
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://mycf.in/products/carbamide-forte-l-carnitine-l-tartrate-2000mg-powder-for-pre-post-workout-mango-flavour-150g?variant=42971171913841",
+          "evidenceUrl": "https://mycf.in/products/carbamide-forte-l-carnitine-l-tartrate-2000mg-powder-for-pre-post-workout-mango-flavour-150g.json",
+          "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+        }
+      }
+    },
+    {
+      "order": 5,
+      "offer": {
+        "brand": "Carbamide Forte",
+        "product": "L-Carnitine Tartrate Powder 2000 mg",
+        "form": "Powder",
+        "type": "L-carnitine L-tartrate",
+        "subclass": "Tartrate + chromium blend",
+        "source": "Not specified",
+        "flavour": "Blueberry",
+        "packaging": "Single retail pack",
+        "basis": "Official inspected back label states 5 g (one scoop), 2000 mg L-carnitine tartrate, 8.4 kcal and 150 g net weight. Only exact Pack of 1 is included.",
+        "notes": "The 2000 mg is tartrate compound mass, not verified free L-carnitine. Chromium picolinate is a separate co-ingredient; product absorption and fat-loss claims are not established outcomes.",
+        "labelChecked": "2026-11-17",
+        "grams": 150,
+        "servingGrams": 5,
+        "carnitineCompoundMg": 2000,
+        "energyPerServing": 8.4,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B0CBKSNS8F.PT.11.jpg?v=1784532220"
+        ],
+        "carnitineMg": null,
+        "id": "l-carnitine-43670218965105",
+        "price": 549,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://mycf.in/products/high-strength-l-carnitine-powder-for-daily-performance-blueberry-flavour-150g?variant=43670218965105",
+        "nutritionUrl": "https://mycf.in/products/high-strength-l-carnitine-powder-for-daily-performance-blueberry-flavour-150g",
+        "searchAliases": [
+          "lclt"
+        ],
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://mycf.in/products/high-strength-l-carnitine-powder-for-daily-performance-blueberry-flavour-150g?variant=43670218965105",
+          "evidenceUrl": "https://mycf.in/products/high-strength-l-carnitine-powder-for-daily-performance-blueberry-flavour-150g.json",
+          "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3808,
+      "observation": {
+        "category": "l-carnitine",
+        "offerId": "l-carnitine-42971171913841",
+        "date": "2026-11-17",
+        "price": 549,
+        "currency": "INR",
+        "sourceUrl": "https://mycf.in/products/carbamide-forte-l-carnitine-l-tartrate-2000mg-powder-for-pre-post-workout-mango-flavour-150g?variant=42971171913841",
+        "evidenceUrl": "https://mycf.in/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Directly fetched official Shopify feed; exact variant ID, flavour and single retail pack verified against official product page. Conditional discounts excluded.",
+        "variantId": "42971171913841"
+      }
+    },
+    {
+      "order": 3809,
+      "observation": {
+        "category": "l-carnitine",
+        "offerId": "l-carnitine-43670218965105",
+        "date": "2026-11-17",
+        "price": 549,
+        "currency": "INR",
+        "sourceUrl": "https://mycf.in/products/high-strength-l-carnitine-powder-for-daily-performance-blueberry-flavour-150g?variant=43670218965105",
+        "evidenceUrl": "https://mycf.in/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Directly fetched official Shopify feed; exact variant ID, flavour and single retail pack verified against official product page. Conditional discounts excluded.",
+        "variantId": "43670218965105"
+      }
+    },
+    {
+      "order": 4002,
+      "observation": {
+        "category": "l-carnitine",
+        "offerId": "l-carnitine-42971171913841",
+        "date": "2026-11-19",
+        "price": 549,
+        "currency": "INR",
+        "sourceUrl": "https://mycf.in/products/carbamide-forte-l-carnitine-l-tartrate-2000mg-powder-for-pre-post-workout-mango-flavour-150g?variant=42971171913841",
+        "evidenceUrl": "https://mycf.in/products/carbamide-forte-l-carnitine-l-tartrate-2000mg-powder-for-pre-post-workout-mango-flavour-150g.json",
+        "kind": "official-live",
+        "variantId": "42971171913841",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
+    },
+    {
+      "order": 4003,
+      "observation": {
+        "category": "l-carnitine",
+        "offerId": "l-carnitine-43670218965105",
+        "date": "2026-11-19",
+        "price": 549,
+        "currency": "INR",
+        "sourceUrl": "https://mycf.in/products/high-strength-l-carnitine-powder-for-daily-performance-blueberry-flavour-150g?variant=43670218965105",
+        "evidenceUrl": "https://mycf.in/products/high-strength-l-carnitine-powder-for-daily-performance-blueberry-flavour-150g.json",
+        "kind": "official-live",
+        "variantId": "43670218965105",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 92,
+      "profile": {
+        "category": "l-carnitine",
+        "brand": "Carbamide Forte",
+        "base": "https://mycf.in",
+        "handle": "carbamide-forte-l-carnitine-l-tartrate-2000mg-powder-for-pre-post-workout-mango-flavour-150g",
+        "product": "L-Carnitine Tartrate Powder 2000 mg",
+        "form": "Powder",
+        "type": "L-carnitine L-tartrate",
+        "subclass": "Tartrate + chromium blend",
+        "source": "Not specified",
+        "flavour": "Mango",
+        "packaging": "Single retail pack",
+        "basis": "Official inspected back label states 5 g (one scoop), 2000 mg L-carnitine tartrate, 8.4 kcal and 150 g net weight. Only exact Pack of 1 is included.",
+        "notes": "The 2000 mg is tartrate compound mass, not verified free L-carnitine. Chromium picolinate is a separate co-ingredient; product absorption and fat-loss claims are not established outcomes.",
+        "labelChecked": "2026-11-17",
+        "variantIds": [
+          "42971171913841"
+        ],
+        "grams": 150,
+        "servingGrams": 5,
+        "carnitineCompoundMg": 2000,
+        "energyPerServing": 8.4,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/71bUIc7X99L._SL1500.jpg?v=1752231853"
+        ],
+        "carnitineMg": null,
+        "searchAliases": [
+          "lclt"
+        ]
+      }
+    },
+    {
+      "order": 93,
+      "profile": {
+        "category": "l-carnitine",
+        "brand": "Carbamide Forte",
+        "base": "https://mycf.in",
+        "handle": "high-strength-l-carnitine-powder-for-daily-performance-blueberry-flavour-150g",
+        "product": "L-Carnitine Tartrate Powder 2000 mg",
+        "form": "Powder",
+        "type": "L-carnitine L-tartrate",
+        "subclass": "Tartrate + chromium blend",
+        "source": "Not specified",
+        "flavour": "Blueberry",
+        "packaging": "Single retail pack",
+        "basis": "Official inspected back label states 5 g (one scoop), 2000 mg L-carnitine tartrate, 8.4 kcal and 150 g net weight. Only exact Pack of 1 is included.",
+        "notes": "The 2000 mg is tartrate compound mass, not verified free L-carnitine. Chromium picolinate is a separate co-ingredient; product absorption and fat-loss claims are not established outcomes.",
+        "labelChecked": "2026-11-17",
+        "variantIds": [
+          "43670218965105"
+        ],
+        "grams": 150,
+        "servingGrams": 5,
+        "carnitineCompoundMg": 2000,
+        "energyPerServing": 8.4,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B0CBKSNS8F.PT.11.jpg?v=1784532220"
+        ],
+        "carnitineMg": null,
+        "searchAliases": [
+          "lclt"
+        ]
+      }
+    }
+  ]
+}

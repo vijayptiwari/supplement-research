@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "category": "citrulline",
+  "brand": "One Science Nutrition",
+  "product": "Pure Citrulline - Citrulline DL-Malate 2:1",
+  "variants": [
+    {
+      "order": 12,
+      "offer": {
+        "id": "citrulline-osn-51142697943360",
+        "brand": "One Science Nutrition",
+        "form": "Powder",
+        "flavour": "Unflavoured",
+        "packaging": "Jar",
+        "source": "Not specified",
+        "price": 1549,
+        "currency": "INR",
+        "stock": "Sold out",
+        "url": "https://onesciencenutrition.in/products/citrulline?variant=51142697943360",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0952/0483/5648/files/osn-pure-citrulline-08-nutrition-facts.webp?v=1794738163",
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0952/0483/5648/files/osn-pure-citrulline-08-nutrition-facts.webp?v=1794738163",
+          "https://onesciencenutrition.in/products/citrulline?variant=51142697943360",
+          "https://onesciencenutrition.in/products/citrulline.json",
+          "https://cdn.shopify.com/s/files/1/0952/0483/5648/files/Citrulline_Unflaovered_Side_41312505-30ee-40c1-92c3-ae7e2b8b062a.png?v=1771326845"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "51142697943360",
+        "sourceProductId": "9932365594944",
+        "basis": "Official India brand-store product, exact Shopify variant and published composition panel reviewed. Nutrient inputs are label declarations rather than independent assays. Exact net grams or retail-unit count is verified without scaling a different pack.",
+        "product": "Pure Citrulline - Citrulline DL-Malate 2:1",
+        "grams": 250,
+        "packCount": null,
+        "servingUnits": null,
+        "servingGrams": 2,
+        "type": "Citrulline malate",
+        "subclass": "DL-malate mixture",
+        "citrullineMalateMg": 2000,
+        "citrullineMg": null,
+        "malateRatio": "2:1 (label claim)",
+        "energyPerServing": null,
+        "declaredNutrients": [
+          "citrullineMalateMg"
+        ],
+        "notes": "Despite the Pure Citrulline product name, the reviewed panel declares L-citrulline DL-malate 2:1, 2000 mg compound per 2 g scoop. It is classified as citrulline malate. No free L-citrulline amount is inferred from the ratio; energy is not declared and remains unknown.",
+        "lastLabelReview": {
+          "checked": "2026-11-20",
+          "sourceUrl": "https://onesciencenutrition.in/products/citrulline?variant=51142697943360",
+          "evidenceUrl": "https://cdn.shopify.com/s/files/1/0952/0483/5648/files/osn-pure-citrulline-08-nutrition-facts.webp?v=1794738163",
+          "matchBasis": "Exact official citrulline-malate product: clear manufacturer nutrition graphic replaces the curved bottle-side panel as the primary label pointer; declared quantities unchanged."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5320,
+      "observation": {
+        "category": "citrulline",
+        "offerId": "citrulline-osn-51142697943360",
+        "date": "2026-11-20",
+        "price": 1549,
+        "currency": "INR",
+        "sourceUrl": "https://onesciencenutrition.in/products/citrulline?variant=51142697943360",
+        "evidenceUrl": "https://onesciencenutrition.in/products/citrulline.json",
+        "kind": "official-live",
+        "variantId": "51142697943360",
+        "matchBasis": "Official India Shopify product feed: exact product and variant ID, flavour and documented actual net weight/count; ordinary INR variant price and boolean availability checked."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 403,
+      "profile": {
+        "id": "citrulline-osn-51142697943360",
+        "brand": "One Science Nutrition",
+        "form": "Powder",
+        "flavour": "Unflavoured",
+        "packaging": "Jar",
+        "source": "Not specified",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0952/0483/5648/files/osn-pure-citrulline-08-nutrition-facts.webp?v=1794738163",
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0952/0483/5648/files/osn-pure-citrulline-08-nutrition-facts.webp?v=1794738163",
+          "https://onesciencenutrition.in/products/citrulline?variant=51142697943360",
+          "https://onesciencenutrition.in/products/citrulline.json",
+          "https://cdn.shopify.com/s/files/1/0952/0483/5648/files/Citrulline_Unflaovered_Side_41312505-30ee-40c1-92c3-ae7e2b8b062a.png?v=1771326845"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "basis": "Official India brand-store product, exact Shopify variant and published composition panel reviewed. Nutrient inputs are label declarations rather than independent assays. Exact net grams or retail-unit count is verified without scaling a different pack.",
+        "product": "Pure Citrulline - Citrulline DL-Malate 2:1",
+        "grams": 250,
+        "packCount": null,
+        "servingUnits": null,
+        "servingGrams": 2,
+        "type": "Citrulline malate",
+        "subclass": "DL-malate mixture",
+        "citrullineMalateMg": 2000,
+        "citrullineMg": null,
+        "malateRatio": "2:1 (label claim)",
+        "energyPerServing": null,
+        "declaredNutrients": [
+          "citrullineMalateMg"
+        ],
+        "notes": "Despite the Pure Citrulline product name, the reviewed panel declares L-citrulline DL-malate 2:1, 2000 mg compound per 2 g scoop. It is classified as citrulline malate. No free L-citrulline amount is inferred from the ratio; energy is not declared and remains unknown.",
+        "category": "citrulline",
+        "kind": "shopify",
+        "base": "https://onesciencenutrition.in",
+        "handle": "citrulline",
+        "variantIds": [
+          "51142697943360"
+        ],
+        "cacheKey": "osn-51142697943360"
+      }
+    }
+  ]
+}

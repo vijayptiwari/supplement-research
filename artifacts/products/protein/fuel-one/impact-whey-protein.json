@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "Fuel One",
+  "product": "Impact Whey Protein",
+  "variants": [
+    {
+      "order": 754,
+      "offer": {
+        "id": 754,
+        "brand": "Fuel One",
+        "product": "Impact Whey Protein",
+        "type": "Whey + fermented yeast",
+        "flavour": "Chocolate",
+        "kg": 1,
+        "price": 1599,
+        "stock": "In stock",
+        "protein": 50,
+        "scoop": 45,
+        "serving": 45,
+        "subclass": "Mixed source (whey + yeast)",
+        "energy": 382.44,
+        "url": "https://www.fuelone.in/sv/fuel-one-impact-whey-protein/SP-135075?navKey=VRNT-267065",
+        "nutritionUrl": "https://www.fuelone.in/sv/fuel-one-impact-whey-protein/SP-135075?navKey=VRNT-267065",
+        "basis": "Exact variant nutrition table, protein per 100g",
+        "notes": "Stock not independently confirmed; offer listed on official page. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Exact page nutrition table, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.fuelone.in/sv/fuel-one-impact-whey-protein/SP-135075?navKey=VRNT-267065",
+          "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-impact-whey-protein/SP-135075?navKey=VRNT-267065",
+          "matchBasis": "Official selected product schema SKU matches exact navigation key"
+        }
+      }
+    },
+    {
+      "order": 755,
+      "offer": {
+        "id": 755,
+        "brand": "Fuel One",
+        "product": "Impact Whey Protein",
+        "type": "Whey + fermented yeast",
+        "flavour": "Cold Coffee",
+        "kg": 1,
+        "price": 1599,
+        "stock": "In stock",
+        "protein": 50,
+        "scoop": 45,
+        "serving": 45,
+        "subclass": "Mixed source (whey + yeast)",
+        "energy": 385.62,
+        "url": "https://www.fuelone.in/sv/fuel-one-impact-whey-protein/SP-135075?navKey=VRNT-269865",
+        "nutritionUrl": "https://www.fuelone.in/sv/fuel-one-impact-whey-protein/SP-135075?navKey=VRNT-269865",
+        "basis": "Exact variant nutrition table, protein per 100g",
+        "notes": "Stock not independently confirmed; offer listed on official page. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Exact page nutrition table, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.fuelone.in/sv/fuel-one-impact-whey-protein/SP-135075?navKey=VRNT-269865",
+          "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-impact-whey-protein/SP-135075?navKey=VRNT-269865",
+          "matchBasis": "Official selected product schema SKU matches exact navigation key"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 2943,
+      "observation": {
+        "category": "protein",
+        "offerId": 754,
+        "date": "2026-10-25",
+        "price": 1599,
+        "currency": "INR",
+        "sourceUrl": "https://www.fuelone.in/sv/fuel-one-impact-whey-protein/SP-135075?navKey=VRNT-267065",
+        "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-impact-whey-protein/SP-135075?navKey=VRNT-267065",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "VRNT-267065"
+      }
+    },
+    {
+      "order": 2944,
+      "observation": {
+        "category": "protein",
+        "offerId": 755,
+        "date": "2026-10-25",
+        "price": 1599,
+        "currency": "INR",
+        "sourceUrl": "https://www.fuelone.in/sv/fuel-one-impact-whey-protein/SP-135075?navKey=VRNT-269865",
+        "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-impact-whey-protein/SP-135075?navKey=VRNT-269865",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "VRNT-269865"
+      }
+    },
+    {
+      "order": 4801,
+      "observation": {
+        "category": "protein",
+        "offerId": 754,
+        "date": "2026-11-19",
+        "price": 1599,
+        "currency": "INR",
+        "sourceUrl": "https://www.fuelone.in/sv/fuel-one-impact-whey-protein/SP-135075?navKey=VRNT-267065",
+        "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-impact-whey-protein/SP-135075?navKey=VRNT-267065",
+        "kind": "official-live",
+        "matchBasis": "Official selected product schema SKU matches exact navigation key",
+        "variantId": "VRNT-267065"
+      }
+    },
+    {
+      "order": 4802,
+      "observation": {
+        "category": "protein",
+        "offerId": 755,
+        "date": "2026-11-19",
+        "price": 1599,
+        "currency": "INR",
+        "sourceUrl": "https://www.fuelone.in/sv/fuel-one-impact-whey-protein/SP-135075?navKey=VRNT-269865",
+        "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-impact-whey-protein/SP-135075?navKey=VRNT-269865",
+        "kind": "official-live",
+        "matchBasis": "Official selected product schema SKU matches exact navigation key",
+        "variantId": "VRNT-269865"
+      }
+    }
+  ],
+  "refreshSources": []
+}

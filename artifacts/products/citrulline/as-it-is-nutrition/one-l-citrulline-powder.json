@@ -1,0 +1,204 @@
+{
+  "schemaVersion": 1,
+  "category": "citrulline",
+  "brand": "AS-IT-IS Nutrition",
+  "product": "ONE L-Citrulline Powder",
+  "variants": [
+    {
+      "order": 0,
+      "offer": {
+        "brand": "AS-IT-IS Nutrition",
+        "product": "ONE L-Citrulline Powder",
+        "form": "Powder",
+        "type": "L-citrulline",
+        "subclass": "Single amino acid",
+        "source": "Not specified",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "grams": 250,
+        "servingGrams": 2.5,
+        "basis": "Official title and FAQ state 2.5 g per serving of single-ingredient L-citrulline. Exact selected variants are 100 g and 250 g.",
+        "notes": "Label quantities are manufacturer declarations; no independent batch assay or guaranteed exercise benefit is inferred.",
+        "labelChecked": "2026-11-17",
+        "citrullineMg": 2500,
+        "citrullineMalateMg": null,
+        "energyPerServing": null,
+        "labelSources": [
+          "https://asitisnutrition.com/products/l-citrulline-powder"
+        ],
+        "id": "citrulline-8442574831667",
+        "price": 654,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://asitisnutrition.com/products/l-citrulline-powder?variant=8442574831667",
+        "nutritionUrl": "https://asitisnutrition.com/products/l-citrulline-powder",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://asitisnutrition.com/products/l-citrulline-powder?variant=8442574831667",
+          "evidenceUrl": "https://asitisnutrition.com/products/l-citrulline-powder.json",
+          "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+        }
+      }
+    },
+    {
+      "order": 1,
+      "offer": {
+        "brand": "AS-IT-IS Nutrition",
+        "product": "ONE L-Citrulline Powder",
+        "form": "Powder",
+        "type": "L-citrulline",
+        "subclass": "Single amino acid",
+        "source": "Not specified",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "grams": 100,
+        "servingGrams": 2.5,
+        "basis": "Official title and FAQ state 2.5 g per serving of single-ingredient L-citrulline. Exact selected variants are 100 g and 250 g.",
+        "notes": "Label quantities are manufacturer declarations; no independent batch assay or guaranteed exercise benefit is inferred.",
+        "labelChecked": "2026-11-17",
+        "citrullineMg": 2500,
+        "citrullineMalateMg": null,
+        "energyPerServing": null,
+        "labelSources": [
+          "https://asitisnutrition.com/products/l-citrulline-powder"
+        ],
+        "id": "citrulline-16091227553843",
+        "price": 306,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://asitisnutrition.com/products/l-citrulline-powder?variant=16091227553843",
+        "nutritionUrl": "https://asitisnutrition.com/products/l-citrulline-powder",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://asitisnutrition.com/products/l-citrulline-powder?variant=16091227553843",
+          "evidenceUrl": "https://asitisnutrition.com/products/l-citrulline-powder.json",
+          "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3825,
+      "observation": {
+        "category": "citrulline",
+        "offerId": "citrulline-8442574831667",
+        "date": "2026-11-17",
+        "price": 654,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/l-citrulline-powder?variant=8442574831667",
+        "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Direct official same-day source; exact retail variant and weight. Member, prepaid and coupon discounts excluded.",
+        "variantId": "8442574831667"
+      }
+    },
+    {
+      "order": 3826,
+      "observation": {
+        "category": "citrulline",
+        "offerId": "citrulline-16091227553843",
+        "date": "2026-11-17",
+        "price": 306,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/l-citrulline-powder?variant=16091227553843",
+        "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Direct official same-day source; exact retail variant and weight. Member, prepaid and coupon discounts excluded.",
+        "variantId": "16091227553843"
+      }
+    },
+    {
+      "order": 4019,
+      "observation": {
+        "category": "citrulline",
+        "offerId": "citrulline-8442574831667",
+        "date": "2026-11-19",
+        "price": 654,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/l-citrulline-powder?variant=8442574831667",
+        "evidenceUrl": "https://asitisnutrition.com/products/l-citrulline-powder.json",
+        "kind": "official-live",
+        "variantId": "8442574831667",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
+    },
+    {
+      "order": 4020,
+      "observation": {
+        "category": "citrulline",
+        "offerId": "citrulline-16091227553843",
+        "date": "2026-11-19",
+        "price": 306,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/l-citrulline-powder?variant=16091227553843",
+        "evidenceUrl": "https://asitisnutrition.com/products/l-citrulline-powder.json",
+        "kind": "official-live",
+        "variantId": "16091227553843",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 109,
+      "profile": {
+        "category": "citrulline",
+        "brand": "AS-IT-IS Nutrition",
+        "base": "https://asitisnutrition.com",
+        "handle": "l-citrulline-powder",
+        "product": "ONE L-Citrulline Powder",
+        "form": "Powder",
+        "type": "L-citrulline",
+        "subclass": "Single amino acid",
+        "source": "Not specified",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "grams": 250,
+        "servingGrams": 2.5,
+        "basis": "Official title and FAQ state 2.5 g per serving of single-ingredient L-citrulline. Exact selected variants are 100 g and 250 g.",
+        "notes": "Label quantities are manufacturer declarations; no independent batch assay or guaranteed exercise benefit is inferred.",
+        "labelChecked": "2026-11-17",
+        "variantIds": [
+          "8442574831667"
+        ],
+        "citrullineMg": 2500,
+        "citrullineMalateMg": null,
+        "energyPerServing": null,
+        "labelSources": [
+          "https://asitisnutrition.com/products/l-citrulline-powder"
+        ]
+      }
+    },
+    {
+      "order": 110,
+      "profile": {
+        "category": "citrulline",
+        "brand": "AS-IT-IS Nutrition",
+        "base": "https://asitisnutrition.com",
+        "handle": "l-citrulline-powder",
+        "product": "ONE L-Citrulline Powder",
+        "form": "Powder",
+        "type": "L-citrulline",
+        "subclass": "Single amino acid",
+        "source": "Not specified",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "grams": 100,
+        "servingGrams": 2.5,
+        "basis": "Official title and FAQ state 2.5 g per serving of single-ingredient L-citrulline. Exact selected variants are 100 g and 250 g.",
+        "notes": "Label quantities are manufacturer declarations; no independent batch assay or guaranteed exercise benefit is inferred.",
+        "labelChecked": "2026-11-17",
+        "variantIds": [
+          "16091227553843"
+        ],
+        "citrullineMg": 2500,
+        "citrullineMalateMg": null,
+        "energyPerServing": null,
+        "labelSources": [
+          "https://asitisnutrition.com/products/l-citrulline-powder"
+        ]
+      }
+    }
+  ]
+}

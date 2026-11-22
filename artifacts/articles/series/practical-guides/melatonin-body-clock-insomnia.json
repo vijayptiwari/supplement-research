@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "order": 44,
+  "article": {
+    "id": "melatonin-body-clock-insomnia",
+    "category": "melatonin",
+    "series": "practical-guides",
+    "title": "Melatonin is a clock signal: why the sleep problem and timing matter",
+    "summary": "Distinguish jet lag, delayed sleep timing and chronic insomnia before treating a stronger sleep product as the answer.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "The word sleep covers several problems: a body clock shifted by travel, difficulty sleeping at a socially convenient time, repeated waking, or persistent insomnia despite an opportunity to sleep. These situations need not respond to the same intervention. Melatonin is involved in biological timing, which explains why its usefulness cannot be reduced to a single stronger-is-better rule. This article provides a way to read the condition-specific evidence and prepare a better discussion about an actual sleep complaint, without offering a personal dosing timetable.",
+    "sections": [
+      {
+        "id": "clock-signal",
+        "title": "A night-time signal is different from an on-off sleep switch",
+        "body": "The brain normally produces melatonin in relation to darkness, helping communicate biological night. Light exposure can influence that signal. Swallowing melatonin creates an additional exposure, but the effect depends on when it is given and what problem is being addressed. Feeling drowsy is not the same outcome as shifting the body clock or improving daytime function. A product description that treats these as one effect can obscure why an intervention may be relevant in one situation yet disappointing in another.",
+        "sourceIds": [
+          "melatonin-physiology",
+          "melatonin-overview"
+        ]
+      },
+      {
+        "id": "jet-lag",
+        "title": "Travel across time zones asks a timing question",
+        "body": "Jet lag follows a mismatch between the internal clock and the destination schedule. Reviews summarised by NCCIH suggest a possible role for melatonin in this setting, with variable evidence and protocols. This does not create one timetable for every flight, direction or individual. Destination timing, other medicines and the person's circumstances matter. A travel-related use also cannot be taken as proof that the same product is appropriate for every ongoing sleep complaint at home. The clinical question and practical plan should match the actual situation.",
+        "sourceIds": [
+          "melatonin-overview"
+        ]
+      },
+      {
+        "id": "delayed-phase",
+        "title": "A consistently delayed schedule is not diagnosed by buying melatonin",
+        "body": "Delayed sleep-wake phase disorder involves more than occasionally staying up late. A trial in clinically assessed patients combined melatonin with behavioural sleep scheduling and reported improvements over four weeks. The combined intervention and selected population are part of the finding. It does not demonstrate that all late sleepers have the disorder or that any retail product will solve it alone. Recording the pattern of sleep and daytime difficulty can be more useful than selecting a pack on the assumption of a hormone deficiency.",
+        "sourceIds": [
+          "melatonin-circadian",
+          "melatonin-overview"
+        ]
+      },
+      {
+        "id": "insomnia",
+        "title": "Chronic insomnia has its own evidence and treatment discussion",
+        "body": "The AASM pharmacologic guideline suggests against melatonin for chronic adult sleep-onset or sleep-maintenance insomnia, reflecting limited and weak evidence for that question. This recommendation should not be misread as a verdict against every circadian use. It does mean that persistent insomnia should not automatically prompt a higher-strength melatonin purchase. A discussion about established behavioural treatment, including cognitive behavioural therapy for insomnia, and assessment of contributing problems may address the situation more directly than repeatedly changing supplement formats.",
+        "sourceIds": [
+          "melatonin-insomnia",
+          "melatonin-overview"
+        ]
+      },
+      {
+        "id": "timing",
+        "title": "Why a dose without timing is an incomplete description",
+        "body": "A trial report includes when the intervention was used as well as what it contained. Taking the same amount at a different biological or clock time may not be the same intervention. For an educational buying comparison, preserve that information rather than copying only a milligram number. Do not use this principle to improvise a personal phase-shifting schedule from an internet chart. When a circadian problem is suspected, the appropriate timing plan depends on assessment and the intended direction of change.",
+        "sourceIds": [
+          "melatonin-circadian",
+          "melatonin-overview"
+        ]
+      },
+      {
+        "id": "morning-function",
+        "title": "Judge the morning as well as the night",
+        "body": "A meaningful result includes how someone functions after waking, not merely whether they felt sleepy after a product. Drowsiness, dizziness or headache can matter to the decision even when a person reports falling asleep sooner. Do not drive or operate machinery when drowsy. Recording the desired benefit and unwanted effects helps prevent a larger labelled dose from being treated as automatic progress. It also provides a clearer account for a clinician than the statement that a particular gummy felt strong.",
+        "sourceIds": [
+          "melatonin-overview"
+        ]
+      },
+      {
+        "id": "product-and-safety",
+        "title": "The exact formula remains relevant",
+        "body": "An immediate-release product, a prolonged-release tablet and a mixed sleep blend may produce different exposures or include other sedating ingredients. Content testing in overseas samples has also found discrepancies from labels, which raises a quality question without proving that a particular Indian product is inaccurate. Review the complete formula and medicine interactions, particularly where blood thinners, epilepsy or other relevant conditions are involved. Pregnancy, breastfeeding and paediatric use need appropriate professional guidance rather than extrapolation from a short adult trial.",
+        "sourceIds": [
+          "melatonin-overview",
+          "melatonin-children",
+          "well-melatonin-gummies"
+        ]
+      },
+      {
+        "id": "prepare-discussion",
+        "title": "Bring a sleep pattern rather than a request for more strength",
+        "body": "Note when sleep begins and ends, how the pattern changes on free days, what daytime problems occur and which medicines or other products are used. This does not diagnose a disorder, but makes the next discussion more informative. Ask what condition the proposed intervention is intended to address, what improvement would matter and when it should be reviewed. A well-specified plan can lead to a supplement, another intervention or no purchase. The goal is a more suitable response to the sleep problem, not a higher number on the pack.",
+        "sourceIds": [
+          "melatonin-overview",
+          "melatonin-circadian",
+          "melatonin-insomnia"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "melatonin-physiology",
+      "melatonin-overview",
+      "melatonin-circadian",
+      "melatonin-insomnia",
+      "melatonin-children",
+      "well-melatonin-gummies"
+    ]
+  }
+}

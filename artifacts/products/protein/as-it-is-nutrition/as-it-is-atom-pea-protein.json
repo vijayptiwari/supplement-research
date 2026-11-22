@@ -1,0 +1,330 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "AS-IT-IS Nutrition",
+  "product": "AS-IT-IS ATOM Pea Protein",
+  "variants": [
+    {
+      "order": 33,
+      "offer": {
+        "id": 33,
+        "brand": "AS-IT-IS Nutrition",
+        "product": "AS-IT-IS ATOM Pea Protein",
+        "type": "Plant — pea",
+        "flavour": "Caramelized Banana",
+        "kg": 1,
+        "price": 1225,
+        "stock": "In stock",
+        "protein": 72.5,
+        "scoop": 40,
+        "serving": 40,
+        "subclass": "Plant concentrate / powder",
+        "energy": null,
+        "url": "https://asitisnutrition.com/products/as-it-is-nutrition-atom-pea-protein-29g-protein-peak-muscle-gains-fast-recovery-easy-digest-vegan-smooth-delicious-1kg?variant=42583831380019",
+        "nutritionUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-atom-pea-protein-29g-protein-peak-muscle-gains-fast-recovery-easy-digest-vegan-smooth-delicious-1kg?variant=42583831380019",
+        "basis": "29g protein / 40g serving; product FAQ",
+        "notes": "Brand product-page serving basis; flavour-specific label values may vary. Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-atom-pea-protein-29g-protein-peak-muscle-gains-fast-recovery-easy-digest-vegan-smooth-delicious-1kg?variant=42583831380019",
+          "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 34,
+      "offer": {
+        "id": 34,
+        "brand": "AS-IT-IS Nutrition",
+        "product": "AS-IT-IS ATOM Pea Protein",
+        "type": "Plant — pea",
+        "flavour": "Double Rich Chocolate",
+        "kg": 1,
+        "price": 1225,
+        "stock": "Sold out",
+        "protein": 72.5,
+        "scoop": 40,
+        "serving": 40,
+        "subclass": "Plant concentrate / powder",
+        "energy": null,
+        "url": "https://asitisnutrition.com/products/as-it-is-nutrition-atom-pea-protein-29g-protein-peak-muscle-gains-fast-recovery-easy-digest-vegan-smooth-delicious-1kg?variant=44932225925171",
+        "nutritionUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-atom-pea-protein-29g-protein-peak-muscle-gains-fast-recovery-easy-digest-vegan-smooth-delicious-1kg?variant=44932225925171",
+        "basis": "29g protein / 40g serving; product FAQ",
+        "notes": "Brand product-page serving basis; flavour-specific label values may vary. Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-atom-pea-protein-29g-protein-peak-muscle-gains-fast-recovery-easy-digest-vegan-smooth-delicious-1kg?variant=44932225925171",
+          "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 35,
+      "offer": {
+        "id": 35,
+        "brand": "AS-IT-IS Nutrition",
+        "product": "AS-IT-IS ATOM Pea Protein",
+        "type": "Plant — pea",
+        "flavour": "Mango Fusion",
+        "kg": 1,
+        "price": 1225,
+        "stock": "In stock",
+        "protein": 72.5,
+        "scoop": 40,
+        "serving": 40,
+        "subclass": "Plant concentrate / powder",
+        "energy": null,
+        "url": "https://asitisnutrition.com/products/as-it-is-nutrition-atom-pea-protein-29g-protein-peak-muscle-gains-fast-recovery-easy-digest-vegan-smooth-delicious-1kg?variant=42583831347251",
+        "nutritionUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-atom-pea-protein-29g-protein-peak-muscle-gains-fast-recovery-easy-digest-vegan-smooth-delicious-1kg?variant=42583831347251",
+        "basis": "29g protein / 40g serving; product FAQ",
+        "notes": "Brand product-page serving basis; flavour-specific label values may vary. Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-atom-pea-protein-29g-protein-peak-muscle-gains-fast-recovery-easy-digest-vegan-smooth-delicious-1kg?variant=42583831347251",
+          "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 67,
+      "observation": {
+        "category": "protein",
+        "offerId": 33,
+        "date": "2026-09-01",
+        "price": 1163,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-atom-pea-protein-29g-protein-peak-muscle-gains-fast-recovery-easy-digest-vegan-smooth-delicious-1kg?variant=42583831380019",
+        "evidenceUrl": "https://web.archive.org/web/20260901202933id_/https://asitisnutrition.com/products/as-it-is-nutrition-atom-pea-protein-29g-protein-peak-muscle-gains-fast-recovery-easy-digest-vegan-smooth-delicious-1kg",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42583831380019",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 68,
+      "observation": {
+        "category": "protein",
+        "offerId": 35,
+        "date": "2026-09-01",
+        "price": 1163,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-atom-pea-protein-29g-protein-peak-muscle-gains-fast-recovery-easy-digest-vegan-smooth-delicious-1kg?variant=42583831347251",
+        "evidenceUrl": "https://web.archive.org/web/20260901202933id_/https://asitisnutrition.com/products/as-it-is-nutrition-atom-pea-protein-29g-protein-peak-muscle-gains-fast-recovery-easy-digest-vegan-smooth-delicious-1kg",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42583831347251",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2222,
+      "observation": {
+        "category": "protein",
+        "offerId": 33,
+        "date": "2026-10-25",
+        "price": 1225,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-atom-pea-protein-29g-protein-peak-muscle-gains-fast-recovery-easy-digest-vegan-smooth-delicious-1kg?variant=42583831380019",
+        "evidenceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-atom-pea-protein-29g-protein-peak-muscle-gains-fast-recovery-easy-digest-vegan-smooth-delicious-1kg.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "42583831380019"
+      }
+    },
+    {
+      "order": 2223,
+      "observation": {
+        "category": "protein",
+        "offerId": 34,
+        "date": "2026-10-25",
+        "price": 1225,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-atom-pea-protein-29g-protein-peak-muscle-gains-fast-recovery-easy-digest-vegan-smooth-delicious-1kg?variant=44932225925171",
+        "evidenceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-atom-pea-protein-29g-protein-peak-muscle-gains-fast-recovery-easy-digest-vegan-smooth-delicious-1kg.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "44932225925171"
+      }
+    },
+    {
+      "order": 2224,
+      "observation": {
+        "category": "protein",
+        "offerId": 35,
+        "date": "2026-10-25",
+        "price": 1225,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-atom-pea-protein-29g-protein-peak-muscle-gains-fast-recovery-easy-digest-vegan-smooth-delicious-1kg?variant=42583831347251",
+        "evidenceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-atom-pea-protein-29g-protein-peak-muscle-gains-fast-recovery-easy-digest-vegan-smooth-delicious-1kg.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "42583831347251"
+      }
+    },
+    {
+      "order": 3494,
+      "observation": {
+        "category": "protein",
+        "offerId": 33,
+        "date": "2025-01-21",
+        "price": 1299,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-atom-pea-protein-29g-protein-peak-muscle-gains-fast-recovery-easy-digest-vegan-smooth-delicious-1kg?variant=42583831380019",
+        "evidenceUrl": "https://web.archive.org/web/20250121054010id_/https://asitisnutrition.com/products/as-it-is-nutrition-atom-pea-protein-29g-protein-peak-muscle-gains-fast-recovery-easy-digest-vegan-smooth-delicious-1kg",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42583831380019",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3495,
+      "observation": {
+        "category": "protein",
+        "offerId": 35,
+        "date": "2025-01-21",
+        "price": 1299,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-atom-pea-protein-29g-protein-peak-muscle-gains-fast-recovery-easy-digest-vegan-smooth-delicious-1kg?variant=42583831347251",
+        "evidenceUrl": "https://web.archive.org/web/20250121054010id_/https://asitisnutrition.com/products/as-it-is-nutrition-atom-pea-protein-29g-protein-peak-muscle-gains-fast-recovery-easy-digest-vegan-smooth-delicious-1kg",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42583831347251",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3496,
+      "observation": {
+        "category": "protein",
+        "offerId": 33,
+        "date": "2025-09-01",
+        "price": 1234,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-atom-pea-protein-29g-protein-peak-muscle-gains-fast-recovery-easy-digest-vegan-smooth-delicious-1kg?variant=42583831380019",
+        "evidenceUrl": "https://web.archive.org/web/20250901192155id_/https://asitisnutrition.com/products/as-it-is-nutrition-atom-pea-protein-29g-protein-peak-muscle-gains-fast-recovery-easy-digest-vegan-smooth-delicious-1kg?variant=42583831380019",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42583831380019",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3497,
+      "observation": {
+        "category": "protein",
+        "offerId": 35,
+        "date": "2025-09-01",
+        "price": 1234,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-atom-pea-protein-29g-protein-peak-muscle-gains-fast-recovery-easy-digest-vegan-smooth-delicious-1kg?variant=42583831347251",
+        "evidenceUrl": "https://web.archive.org/web/20250901192155id_/https://asitisnutrition.com/products/as-it-is-nutrition-atom-pea-protein-29g-protein-peak-muscle-gains-fast-recovery-easy-digest-vegan-smooth-delicious-1kg?variant=42583831380019",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42583831347251",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3498,
+      "observation": {
+        "category": "protein",
+        "offerId": 33,
+        "date": "2025-11-15",
+        "price": 1299,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-atom-pea-protein-29g-protein-peak-muscle-gains-fast-recovery-easy-digest-vegan-smooth-delicious-1kg?variant=42583831380019",
+        "evidenceUrl": "https://web.archive.org/web/20251115224121id_/https://asitisnutrition.com/products/as-it-is-nutrition-atom-pea-protein-29g-protein-peak-muscle-gains-fast-recovery-easy-digest-vegan-smooth-delicious-1kg",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42583831380019",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3499,
+      "observation": {
+        "category": "protein",
+        "offerId": 35,
+        "date": "2025-11-15",
+        "price": 1196,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-atom-pea-protein-29g-protein-peak-muscle-gains-fast-recovery-easy-digest-vegan-smooth-delicious-1kg?variant=42583831347251",
+        "evidenceUrl": "https://web.archive.org/web/20251115224121id_/https://asitisnutrition.com/products/as-it-is-nutrition-atom-pea-protein-29g-protein-peak-muscle-gains-fast-recovery-easy-digest-vegan-smooth-delicious-1kg",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42583831347251",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 4091,
+      "observation": {
+        "category": "protein",
+        "offerId": 33,
+        "date": "2026-11-19",
+        "price": 1225,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-atom-pea-protein-29g-protein-peak-muscle-gains-fast-recovery-easy-digest-vegan-smooth-delicious-1kg?variant=42583831380019",
+        "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "42583831380019"
+      }
+    },
+    {
+      "order": 4092,
+      "observation": {
+        "category": "protein",
+        "offerId": 34,
+        "date": "2026-11-19",
+        "price": 1225,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-atom-pea-protein-29g-protein-peak-muscle-gains-fast-recovery-easy-digest-vegan-smooth-delicious-1kg?variant=44932225925171",
+        "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "44932225925171"
+      }
+    },
+    {
+      "order": 4093,
+      "observation": {
+        "category": "protein",
+        "offerId": 35,
+        "date": "2026-11-19",
+        "price": 1225,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-atom-pea-protein-29g-protein-peak-muscle-gains-fast-recovery-easy-digest-vegan-smooth-delicious-1kg?variant=42583831347251",
+        "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "42583831347251"
+      }
+    }
+  ],
+  "refreshSources": []
+}

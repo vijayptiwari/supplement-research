@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "category": "ashwagandha",
+  "brand": "HealthyHey",
+  "product": "Ashwagandha Root Extract",
+  "variants": [
+    {
+      "order": 8,
+      "offer": {
+        "brand": "HealthyHey",
+        "product": "Ashwagandha Root Extract",
+        "form": "Capsule",
+        "type": "Root extract",
+        "subclass": "Root extract",
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official description explicitly states 650 mg root extract per one-capsule label serving; 120 capsules per bottle.",
+        "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities.",
+        "packCount": 120,
+        "ashwagandhaMg": 650,
+        "id": "ashwagandha-45701056200989",
+        "price": 809,
+        "currency": "INR",
+        "stock": "Sold out",
+        "url": "https://healthyhey.com/products/ashwagandha-extract-capsules?variant=45701056200989",
+        "nutritionUrl": "https://healthyhey.com/products/ashwagandha-extract-capsules",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-10-29",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://healthyhey.com/products/ashwagandha-extract-capsules?variant=45701056200989",
+          "evidenceUrl": "https://healthyhey.com/products/ashwagandha-extract-capsules.json",
+          "matchBasis": "Official public Shopify product; exact variant ID 45701056200989 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3701,
+      "observation": {
+        "category": "ashwagandha",
+        "offerId": "ashwagandha-45701056200989",
+        "date": "2026-10-29",
+        "price": 768,
+        "currency": "INR",
+        "sourceUrl": "https://healthyhey.com/products/ashwagandha-extract-capsules?variant=45701056200989",
+        "evidenceUrl": "https://healthyhey.com/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "45701056200989"
+      }
+    },
+    {
+      "order": 3852,
+      "observation": {
+        "category": "ashwagandha",
+        "offerId": "ashwagandha-45701056200989",
+        "date": "2026-11-19",
+        "price": 809,
+        "currency": "INR",
+        "sourceUrl": "https://healthyhey.com/products/ashwagandha-extract-capsules?variant=45701056200989",
+        "evidenceUrl": "https://healthyhey.com/products/ashwagandha-extract-capsules.json",
+        "kind": "official-live",
+        "variantId": "45701056200989",
+        "matchBasis": "Official public Shopify product; exact variant ID 45701056200989 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 5,
+      "profile": {
+        "category": "ashwagandha",
+        "brand": "HealthyHey",
+        "base": "https://healthyhey.com",
+        "handle": "ashwagandha-extract-capsules",
+        "product": "Ashwagandha Root Extract",
+        "form": "Capsule",
+        "type": "Root extract",
+        "subclass": "Root extract",
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official description explicitly states 650 mg root extract per one-capsule label serving; 120 capsules per bottle.",
+        "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities.",
+        "packCount": 120,
+        "ashwagandhaMg": 650
+      }
+    }
+  ]
+}

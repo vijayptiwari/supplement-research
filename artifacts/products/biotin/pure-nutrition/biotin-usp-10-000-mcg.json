@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "category": "biotin",
+  "brand": "Pure Nutrition",
+  "product": "Biotin USP 10,000 mcg",
+  "variants": [
+    {
+      "order": 4,
+      "offer": {
+        "brand": "Pure Nutrition",
+        "product": "Biotin USP 10,000 mcg",
+        "form": "Tablet",
+        "type": "Biotin (USP)",
+        "subclass": "Single nutrient",
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official page identifies 120 tablets, lists Biotin USP 10,000 mcg under key ingredients and specifies a one-tablet usage serving.",
+        "notes": "High strength is a label quantity, not a suitability or benefit score. Biotin can interfere with laboratory tests; see the evidence guide.",
+        "labelChecked": "2026-10-31",
+        "packCount": 120,
+        "biotinMcg": 10000,
+        "id": "biotin-47963020755198",
+        "price": 581.03,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://purenutrition.in/products/pure-nutrition-biotin-10-000-mcg-pharma-grade-copy?variant=47963020755198",
+        "nutritionUrl": "https://purenutrition.in/products/pure-nutrition-biotin-10-000-mcg-pharma-grade-copy",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://purenutrition.in/products/pure-nutrition-biotin-10-000-mcg-pharma-grade-copy?variant=47963020755198",
+          "evidenceUrl": "https://purenutrition.in/products/pure-nutrition-biotin-10-000-mcg-pharma-grade-copy.json",
+          "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3768,
+      "observation": {
+        "category": "biotin",
+        "offerId": "biotin-47963020755198",
+        "date": "2026-10-31",
+        "price": 581.03,
+        "currency": "INR",
+        "sourceUrl": "https://purenutrition.in/products/pure-nutrition-biotin-10-000-mcg-pharma-grade-copy?variant=47963020755198",
+        "evidenceUrl": "https://purenutrition.in/products/pure-nutrition-biotin-10-000-mcg-pharma-grade-copy.json",
+        "kind": "official-live",
+        "variantId": "47963020755198",
+        "matchBasis": "Official Shopify product JSON exact variant ID; single-pack count verified. Availability separately checked against exact-variant official HTML structured data where available."
+      }
+    },
+    {
+      "order": 3925,
+      "observation": {
+        "category": "biotin",
+        "offerId": "biotin-47963020755198",
+        "date": "2026-11-19",
+        "price": 581.03,
+        "currency": "INR",
+        "sourceUrl": "https://purenutrition.in/products/pure-nutrition-biotin-10-000-mcg-pharma-grade-copy?variant=47963020755198",
+        "evidenceUrl": "https://purenutrition.in/products/pure-nutrition-biotin-10-000-mcg-pharma-grade-copy.json",
+        "kind": "official-live",
+        "variantId": "47963020755198",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 55,
+      "profile": {
+        "category": "biotin",
+        "brand": "Pure Nutrition",
+        "base": "https://purenutrition.in",
+        "handle": "pure-nutrition-biotin-10-000-mcg-pharma-grade-copy",
+        "product": "Biotin USP 10,000 mcg",
+        "form": "Tablet",
+        "type": "Biotin (USP)",
+        "subclass": "Single nutrient",
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official page identifies 120 tablets, lists Biotin USP 10,000 mcg under key ingredients and specifies a one-tablet usage serving.",
+        "notes": "High strength is a label quantity, not a suitability or benefit score. Biotin can interfere with laboratory tests; see the evidence guide.",
+        "labelChecked": "2026-10-31",
+        "packCount": 120,
+        "biotinMcg": 10000
+      }
+    }
+  ]
+}

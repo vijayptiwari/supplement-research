@@ -3,6 +3,7 @@ import path from 'node:path';
 import {fileURLToPath} from 'node:url';
 import {createHash} from 'node:crypto';
 import {validateTestingEvidence} from '../docs/testing-evidence.js';
+import {loadArtifactSources,writeArtifactDocuments} from './artifact_store.mjs';
 
 const unique=values=>[...new Set(values.filter(v=>v!=null&&v!==''))];
 const uniqueObjects=values=>[...new Map(values.map(v=>[JSON.stringify(v),v])).values()];
@@ -98,13 +99,12 @@ export function buildTestingLedger(harvest,rules,categories){
  return ledger;
 }
 
-async function main(){
- const root=fileURLToPath(new URL('../',import.meta.url)),input=process.argv[2];
- if(!input)throw Error('Usage: node scripts/import_trustified_reports.mjs PUBLIC_HARVEST.json [CURATED_MATCH_RULES.json]');
- const read=async p=>JSON.parse(await fs.readFile(p,'utf8')),config=await read(path.join(root,'docs/data/site.json')),categories={};
- for(const c of config.categories)categories[c.id]=await read(path.join(root,'docs/data',c.file));
- const rules=await read(process.argv[3]||path.join(root,'docs/data/testing-product-matches.json')),harvest=await read(input),ledger=buildTestingLedger(harvest,rules,categories);
- await fs.writeFile(path.join(root,'docs/data/trustified-reports.json'),JSON.stringify(ledger,null,2)+'\n');
+export async function importTrustifiedReports(input,{root=fileURLToPath(new URL('../',import.meta.url)),rulesFile=null}={}){
+ const read=async p=>JSON.parse(await fs.readFile(p,'utf8')),source=await loadArtifactSources(root),{config,categories}=source.bundle;
+ const rules=rulesFile?await read(rulesFile):source.legacyDocuments['testing-product-matches.json'],harvest=await read(input),ledger=buildTestingLedger(harvest,rules,categories);
+ if(source.source==='artifacts'){source.legacyDocuments[config.testingFile]=ledger;await writeArtifactDocuments(source.legacyDocuments,{root,expectedRevision:source.revision});}
+ else await fs.writeFile(path.join(root,'docs/data/trustified-reports.json'),JSON.stringify(ledger,null,2)+'\n');
  console.log(JSON.stringify({reports:ledger.reports.length,sourceBrands:new Set(ledger.reports.map(r=>r.brand)).size,matchedLines:ledger.matches.reduce((n,m)=>n+m.products.length,0),statuses:Object.fromEntries(['passed','failed','expired','unknown'].map(s=>[s,ledger.reports.filter(r=>r.reportedStatus===s).length]))}));
+ return ledger;
 }
-if(process.argv[1]&&path.resolve(process.argv[1])===fileURLToPath(import.meta.url))await main();
+if(process.argv[1]&&path.resolve(process.argv[1])===fileURLToPath(import.meta.url)){if(!process.argv[2])throw Error('Usage: node scripts/import_trustified_reports.mjs PUBLIC_HARVEST.json [CURATED_MATCH_RULES.json]');await importTrustifiedReports(process.argv[2],{rulesFile:process.argv[3]});}

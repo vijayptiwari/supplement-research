@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "order": 58,
+  "article": {
+    "id": "preworkout-formula-types",
+    "category": "pre-workout",
+    "series": "understanding-types",
+    "title": "Pre-workout types: stimulant, stimulant-free and fully disclosed formulas",
+    "summary": "The useful classification starts with what a formula supplies, not how intense its name or packaging sounds.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "Pre-workout is a product category rather than a single ingredient. Two products sold for the same moment in a training routine can have substantially different contents and evidence. Stimulant-free describes one characteristic; it does not establish the amounts or effectiveness of everything else in the tub. Separating formulation descriptors from delivery formats makes the comparison more transparent and helps avoid paying for a complex mixture that cannot be assessed properly.",
+    "sections": [
+      {
+        "id": "read-by-ingredient",
+        "title": "Build an ingredient inventory before judging the formula",
+        "body": "List each active ingredient, its amount per complete serving and its proposed purpose. Then separate acute ingredients from ingredients studied through repeated use over time. A product can contain familiar names while supplying a different exposure from the one used in research. If the individual quantities are withheld, mark those comparisons unknown instead of assuming the blend total is divided sensibly. The goal is a reviewable formulation, not the longest ingredient panel or the largest scoop that fits a container.",
+        "sourceIds": [
+          "preworkout-review",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "blend-trials",
+        "title": "A trial of one blend does not validate the whole category",
+        "body": "In a crossover study of aerobically trained participants, a particular pre-workout did not improve the tested running-time or fatigue outcomes compared with placebo. Other formulations and tasks have produced different results. The finding therefore neither condemns every blend nor supports borrowing a positive result from another formula. Check the participants, exercise task, ingredients and comparator. A product may need a direct caffeine-matched comparison if its claim is that the mixture adds value beyond the stimulant already present.",
+        "sourceIds": [
+          "pe-preworkout-running-2019",
+          "preworkout-review"
+        ]
+      },
+      {
+        "id": "delivery-versus-effect",
+        "title": "Keep convenience and shelf claims separate from clinical effectiveness",
+        "body": "A prepared drink, a measured powder and a counted unit can each be convenient in different circumstances. The relevant comparison still needs the full serving, ingredient amounts, storage instructions and supporting product-quality evidence. Format alone cannot certify the content of a batch or make every ingredient biologically equivalent. A more expensive delivery system may buy portability or taste without buying superior performance. That is a legitimate preference when described honestly, but it should not be disguised as a demonstrated physiological advantage.",
+        "sourceIds": [
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "suitable-use",
+        "title": "Decide whether the formula fits the person and session",
+        "body": "Review total stimulant exposure, expected training time, sleep and tolerance before considering a new product. A stimulant-free option may remove caffeine while leaving other questions unresolved; a high-stimulant formula does not become appropriate because a user felt little from a previous one. Do not dry scoop, and do not treat an intense sensation as a content or safety test. Relevant medical conditions, medicines and age require review beyond a marketing category. The most suitable decision may be a simpler option or no pre-workout.",
+        "sourceIds": [
+          "caffeine-fda",
+          "pe-caffeine-sleep-2025",
+          "preworkout-dryscoop"
+        ]
+      }
+    ],
+    "forms": [
+      {
+        "name": "Caffeine-containing formulas",
+        "kind": "ingredient",
+        "description": "Mixtures that declare caffeine may also include other stimulant sources and ingredients with unrelated physiological roles.",
+        "metabolism": "Caffeine has an acute mechanism, while other ingredients may depend on repeated exposure or have uncertain exercise effects.",
+        "evidence": "Evidence for caffeine cannot establish the additional contribution of every ingredient in an untested finished mixture.",
+        "value": "Check total caffeine and complete-serving disclosure before paying for complexity.",
+        "sourceIds": [
+          "caffeine-position",
+          "preworkout-review"
+        ]
+      },
+      {
+        "name": "Stimulant-free formulas",
+        "kind": "ingredient",
+        "description": "A formulation description that should be checked against the actual ingredients rather than accepted as a complete safety certificate.",
+        "metabolism": "Removing caffeine does not unite the remaining ingredients into one pathway or prove their effectiveness.",
+        "evidence": "A trial of a caffeinated blend cannot automatically validate the stimulant-free version, even under similar branding.",
+        "value": "Look for a defined purpose and disclosed amounts for each remaining ingredient.",
+        "sourceIds": [
+          "preworkout-review",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "name": "Proprietary or partly undisclosed blends",
+        "kind": "ingredient",
+        "description": "A combined blend weight may conceal individual amounts, making comparisons with studied preparations incomplete.",
+        "metabolism": "Different components still have separate exposures; the combined mass does not reveal how much of each is available.",
+        "evidence": "Ingredient familiarity cannot resolve missing quantities or demonstrate that the finished mixture matches a trial.",
+        "value": "Preserve the information gap rather than assigning an invented potency score.",
+        "sourceIds": [
+          "preworkout-review",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "name": "Mix-at-use powder",
+        "kind": "delivery",
+        "description": "A scoop-based format whose full serving can contain active ingredients, flavours and other materials together.",
+        "metabolism": "Adding water changes how it is consumed, not which ingredient-specific evidence is relevant to the formulation.",
+        "evidence": "Powder texture, flavour and a noticeable sensation do not establish verified composition or useful performance.",
+        "value": "Use the full label serving and follow preparation instructions; avoid dry scooping.",
+        "sourceIds": [
+          "supplement-quality-ods",
+          "preworkout-dryscoop"
+        ]
+      },
+      {
+        "name": "Ready-to-drink or counted formats",
+        "kind": "delivery",
+        "description": "Prepared containers or counted units may have serving definitions that differ from a powder sharing the brand name.",
+        "metabolism": "The supplied ingredient amounts remain relevant; a bottle or capsule does not create an independent pre-workout mechanism.",
+        "evidence": "Evidence for a differently dosed powder cannot certify every prepared or counted version as equivalent or superior.",
+        "value": "Compare full servings, added ingredients, storage and convenience costs separately.",
+        "sourceIds": [
+          "supplement-quality-ods",
+          "preworkout-review"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "preworkout-review",
+      "supplement-quality-ods",
+      "pe-preworkout-running-2019",
+      "caffeine-fda",
+      "pe-caffeine-sleep-2025",
+      "preworkout-dryscoop",
+      "caffeine-position"
+    ]
+  }
+}

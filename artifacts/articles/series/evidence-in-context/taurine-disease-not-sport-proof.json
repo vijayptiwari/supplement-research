@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "order": 22,
+  "article": {
+    "id": "taurine-disease-not-sport-proof",
+    "category": "taurine",
+    "series": "evidence-in-context",
+    "title": "Taurine for blood sugar, blood vessels or sport: three different claims",
+    "summary": "Newer diabetes trials are interesting, but their biomarkers are not proof of a cure, fewer complications or better performance in healthy athletes.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "A supplement headline can travel surprisingly far from its source. A trial measures a vascular marker in people with diabetes; an advertisement turns it into “metabolic health”; a sports post then implies better endurance or recovery. Each step adds a claim the previous experiment may never have tested. Taurine research now includes clinical and exercise studies, making it important to preserve those boundaries. The most useful reading is not to dismiss the clinical findings, but to ask exactly what improved, who was studied and which real-world outcomes remain unknown.",
+    "sections": [
+      {
+        "id": "different-baselines",
+        "title": "The starting population changes the meaning of a result",
+        "body": "A person with type 2 diabetes and vascular dysfunction starts from a different clinical position from a healthy trained runner. A change in a disease-related marker may reflect an opportunity specific to that condition. It cannot establish that the same ingredient improves an already healthy person’s physiology or race result. Likewise, a positive running study cannot establish treatment of a metabolic disease. Treat these as separate research programmes sharing an ingredient, not as interchangeable confirmations. This distinction is especially useful when a product page places medical, anti-ageing and sport claims in one paragraph beneath a single citation.",
+        "sourceIds": [
+          "context-taurine-diabetes-vascular-2025",
+          "context-taurine-diabetes-biomarkers-2022",
+          "pe-taurine-running-2013"
+        ]
+      },
+      {
+        "id": "vascular-trial",
+        "title": "The vascular trial measures a promising clinical signal",
+        "body": "A 2025 randomized double-blind placebo-controlled trial enrolled 165 adults with type 2 diabetes for 12 weeks; 144 completed the protocol with complete data. The investigators reported improvements in systolic blood pressure and selected measures of vascular function and arterial stiffness with taurine. These are clinically relevant areas to investigate, but the study did not demonstrate fewer heart attacks, amputations or deaths. Attrition and the selected patient population also matter. The measured vascular changes support further study of an adjunctive approach in that setting, not a declaration that taurine prevents diabetic complications or replaces established treatment.",
+        "sourceIds": [
+          "context-taurine-diabetes-vascular-2025"
+        ]
+      },
+      {
+        "id": "mixed-biomarkers",
+        "title": "The glucose-related trial did not improve every outcome",
+        "body": "A separate eight-week randomized trial assigned 120 people with type 2 diabetes to taurine or placebo while both groups followed a low-calorie diet. Insulin resistance estimates and some inflammatory or endothelial markers improved, but fasting glucose, glycated haemoglobin and lipid profiles did not show the same benefit. That mixed pattern is important. “Improved metabolic parameters” is technically broad enough to sound like a comprehensive glucose-control result while hiding the outcomes that did not improve. The shared dietary programme also belongs in the description: this was an addition to a defined setting, not evidence that a capsule can stand in for dietary or medical care.",
+        "sourceIds": [
+          "context-taurine-diabetes-biomarkers-2022"
+        ]
+      },
+      {
+        "id": "endpoint-ladder",
+        "title": "A marker is useful without being a final health outcome",
+        "body": "Blood pressure, flow-mediated dilation, fasting glucose and an insulin-resistance estimate are not identical measurements. Nor are they equivalent to whether a person develops a complication, needs admission or feels and functions better. A marker can help identify a biological signal, guide a later trial or support a mechanistic explanation. It cannot automatically tell us the size of a long-term clinical benefit. When many biomarkers are measured, a responsible summary includes the important null results alongside positive ones. Readers should ask what the study was designed to establish, rather than count the number of favourable laboratory values in the abstract.",
+        "sourceIds": [
+          "context-taurine-diabetes-vascular-2025",
+          "context-taurine-diabetes-biomarkers-2022"
+        ]
+      },
+      {
+        "id": "athlete-transfer",
+        "title": "Sport studies must earn sport claims independently",
+        "body": "A small study in trained runners reported a faster three-kilometre performance after isolated taurine. A later experiment in exercise in the heat found no time-to-exhaustion benefit from combined caffeine and taurine. These are different populations, environments and interventions; the latter cannot isolate taurine from caffeine, and neither is a diabetes trial. Their useful contribution is to make the claimed exercise outcome testable. A vascular finding in diabetes does not fill gaps in endurance evidence, while an energy-drink formula does not become a trial of isolated taurine because taurine appears on its label.",
+        "sourceIds": [
+          "pe-taurine-running-2013",
+          "pe-taurine-caffeine-heat-2025",
+          "context-taurine-diabetes-vascular-2025"
+        ]
+      },
+      {
+        "id": "independence",
+        "title": "Count independent experiments, not attractive article titles",
+        "body": "One research project may publish different outcomes in more than one paper. Different titles do not necessarily mean independent replication. Similarly, a paper reporting several positive markers is one experiment, not several separate confirmations. When a product claims “many studies,” check whether the participants, trial registration and intervention overlap. The two clinical trials discussed here also answer different questions, so agreement on a broad theme should not be exaggerated into identical replication. Our synthesis treats each experiment as a defined piece of evidence and keeps the actual outcome visible. That approach is slower than counting citations, but it is much harder to manipulate.",
+        "sourceIds": [
+          "context-taurine-diabetes-vascular-2025",
+          "context-taurine-diabetes-biomarkers-2022"
+        ]
+      },
+      {
+        "id": "practical-boundary",
+        "title": "What this means for someone considering a purchase",
+        "body": "For a person with diabetes, blood-pressure concerns or prescribed treatment, these studies are reasons to discuss emerging evidence with the clinician who knows the condition and medicines. They are not a personal treatment plan or a reason to stop proven care. For a healthy athlete, evaluate taurine against the exercise evidence and the specific goal, not a promise borrowed from a patient population. For either reader, a multi-ingredient drink raises additional questions about caffeine and other components. A low cost per gram cannot make an unproved clinical outcome good value; price becomes useful only after the intended benefit has a defensible basis.",
+        "sourceIds": [
+          "context-taurine-diabetes-vascular-2025",
+          "context-taurine-diabetes-biomarkers-2022",
+          "taurine-exercise",
+          "caffeine-fda"
+        ]
+      },
+      {
+        "id": "research-next",
+        "title": "What would change the judgement?",
+        "body": "For clinical claims, larger independent trials with longer follow-up and patient-important outcomes would help establish whether the observed marker changes lead to meaningful benefit. For sport, replicated event-specific trials using isolated, clearly identified taurine would be more persuasive than an energy-drink association. Current evidence is therefore interesting but segmented: selected clinical signals, mixed biomarker findings and uncertain performance benefits. A responsible product recommendation should preserve that segmentation instead of awarding taurine one universal “health and fitness” score. The empowering answer is to know which claim you are buying, and whether the study actually tested it.",
+        "sourceIds": [
+          "context-taurine-diabetes-vascular-2025",
+          "context-taurine-diabetes-biomarkers-2022",
+          "taurine-meta",
+          "pe-taurine-running-2013"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "context-taurine-diabetes-vascular-2025",
+      "context-taurine-diabetes-biomarkers-2022",
+      "pe-taurine-running-2013",
+      "pe-taurine-caffeine-heat-2025",
+      "taurine-exercise",
+      "caffeine-fda",
+      "taurine-meta"
+    ],
+    "evidenceNotes": [
+      {
+        "finding": "A vascular-function signal was observed in diabetes, without evidence for long-term complication prevention.",
+        "sourceIds": [
+          "context-taurine-diabetes-vascular-2025"
+        ],
+        "design": "Twelve-week randomized double-blind placebo-controlled clinical trial.",
+        "population": "165 adults with type 2 diabetes randomized; 144 completed with complete protocol data.",
+        "outcome": "Reported improvements in systolic blood pressure, vasodilation measures and arterial stiffness.",
+        "limits": "Short follow-up, attrition and surrogate outcomes; not proof of fewer cardiovascular events or better healthy-athlete performance."
+      },
+      {
+        "finding": "Some metabolic and inflammatory markers improved, while several familiar glucose and lipid outcomes did not.",
+        "sourceIds": [
+          "context-taurine-diabetes-biomarkers-2022"
+        ],
+        "design": "Eight-week randomized placebo-controlled trial; both groups received a low-calorie dietary programme.",
+        "population": "120 patients with type 2 diabetes.",
+        "outcome": "Insulin, insulin-resistance estimates and selected inflammatory/endothelial markers improved; fasting glucose, glycated haemoglobin and lipids did not show benefit.",
+        "limits": "Adjunctive intervention and short follow-up; no demonstration of a diabetes cure or reduced complications. The publication correction concerns an affiliation."
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "category": "fish-oil",
+  "brand": "HealthyHey",
+  "product": "Omega-3 Fish Oil 600 EPA + 400 DHA",
+  "variants": [
+    {
+      "order": 4,
+      "offer": {
+        "brand": "HealthyHey",
+        "product": "Omega-3 Fish Oil 600 EPA + 400 DHA",
+        "form": "Softgel",
+        "type": "Fish oil (form not specified)",
+        "subclass": "Fish oil",
+        "servingUnits": 2,
+        "source": "Not specified",
+        "basis": "Official FAQ explicitly states that 2 softgels supply 2000 mg fish oil, 600 mg EPA and 400 mg DHA; bottle contains 60 softgels.",
+        "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities.",
+        "packCount": 60,
+        "fishOilMg": 2000,
+        "epaMg": 600,
+        "dhaMg": 400,
+        "id": "fish-oil-47418270220573",
+        "price": 699,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://healthyhey.com/products/omega-3-fish-oil-60-softgel-capsules-600-epa-400-dha?variant=47418270220573",
+        "nutritionUrl": "https://healthyhey.com/products/omega-3-fish-oil-60-softgel-capsules-600-epa-400-dha",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-10-29",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://healthyhey.com/products/omega-3-fish-oil-60-softgel-capsules-600-epa-400-dha?variant=47418270220573",
+          "evidenceUrl": "https://healthyhey.com/products/omega-3-fish-oil-60-softgel-capsules-600-epa-400-dha.json",
+          "matchBasis": "Official public Shopify product; exact variant ID 47418270220573 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3707,
+      "observation": {
+        "category": "fish-oil",
+        "offerId": "fish-oil-47418270220573",
+        "date": "2026-10-29",
+        "price": 699,
+        "currency": "INR",
+        "sourceUrl": "https://healthyhey.com/products/omega-3-fish-oil-60-softgel-capsules-600-epa-400-dha?variant=47418270220573",
+        "evidenceUrl": "https://healthyhey.com/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "47418270220573"
+      }
+    },
+    {
+      "order": 3858,
+      "observation": {
+        "category": "fish-oil",
+        "offerId": "fish-oil-47418270220573",
+        "date": "2026-11-19",
+        "price": 699,
+        "currency": "INR",
+        "sourceUrl": "https://healthyhey.com/products/omega-3-fish-oil-60-softgel-capsules-600-epa-400-dha?variant=47418270220573",
+        "evidenceUrl": "https://healthyhey.com/products/omega-3-fish-oil-60-softgel-capsules-600-epa-400-dha.json",
+        "kind": "official-live",
+        "variantId": "47418270220573",
+        "matchBasis": "Official public Shopify product; exact variant ID 47418270220573 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 9,
+      "profile": {
+        "category": "fish-oil",
+        "brand": "HealthyHey",
+        "base": "https://healthyhey.com",
+        "handle": "omega-3-fish-oil-60-softgel-capsules-600-epa-400-dha",
+        "product": "Omega-3 Fish Oil 600 EPA + 400 DHA",
+        "form": "Softgel",
+        "type": "Fish oil (form not specified)",
+        "subclass": "Fish oil",
+        "servingUnits": 2,
+        "source": "Not specified",
+        "basis": "Official FAQ explicitly states that 2 softgels supply 2000 mg fish oil, 600 mg EPA and 400 mg DHA; bottle contains 60 softgels.",
+        "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities.",
+        "packCount": 60,
+        "fishOilMg": 2000,
+        "epaMg": 600,
+        "dhaMg": 400,
+        "variantTitles": [
+          "Men"
+        ]
+      }
+    }
+  ]
+}

@@ -1,3 +1,4 @@
+import {editorialSeriesLabel} from './editorial-model.js';
 import {applyContentMetadata,metadataForLocation} from './seo.js';
 import {articleHref,guideHref,guideIdForLocation} from './routes.js';
 import {referenceDefaults,normalizeReferenceContext,intakeControls,readIntakeControls,workloadMarkup,intakeMarkup,medicalMarkup,clinicalSearchText} from './intake.js';
@@ -33,7 +34,7 @@ export function guideMarkup(a,c,refs,policy=null,intakePolicy=null,medicalPolicy
   ['labels','How to spot value for money',paragraph(a.catalogReading)+productSelectionMarkup(c,selectionPolicy,selectionRule)+buyingQuality(educationPolicy,refs)]
  ];
  const related=editorial?.articles.filter(item=>item.category===a.category||item.relatedCategories?.includes(a.category))||[];
- if(related.length)sections.push(['articles','Explore myths and supplement forms',`<div class="guide-related-articles">${related.map(item=>`<a href="${esc(articleHref(item.id))}"><span class="section-kicker">${esc(editorial.series.find(s=>s.id===item.series)?.label||'Article')}</span><h4>${esc(item.title)}</h4><p>${esc(item.summary)}</p><span>Read article →</span></a>`).join('')}</div>`]);
+ if(related.length)sections.push(['articles','Explore myths and supplement forms',`<div class="guide-related-articles">${related.map(item=>`<a href="${esc(articleHref(item.id))}"><span class="section-kicker">${esc(editorialSeriesLabel(item,editorial))}</span><h4>${esc(item.title)}</h4><p>${esc(item.summary)}</p><span>Read article →</span></a>`).join('')}</div>`]);
  const referenceNumber=String(sections.length+2).padStart(2,'0');
  const words=[a.summary,...a.bodySteps,...sections.map(s=>s[2].replace(/<[^>]*>/g,' '))].join(' ').split(/\s+/).length;
 

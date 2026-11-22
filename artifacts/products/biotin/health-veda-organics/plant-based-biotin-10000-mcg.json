@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "category": "biotin",
+  "brand": "Health Veda Organics",
+  "product": "Plant Based Biotin 10000 mcg",
+  "variants": [
+    {
+      "order": 5,
+      "offer": {
+        "brand": "Health Veda Organics",
+        "product": "Plant Based Biotin 10000 mcg",
+        "form": "Tablet",
+        "type": "Sesbania extract + botanicals",
+        "subclass": "Herbal blend",
+        "servingUnits": null,
+        "source": "Sesbania extract",
+        "basis": "Official title and bottle identify 60 tablets and a 10000 mcg headline. The exact label serving and biotin payload basis were not verified.",
+        "notes": "Sesbania extract mass is not substituted for biotin. Headline strength alone does not establish biotin per tablet; active-content cost is withheld.",
+        "labelChecked": "2026-10-31",
+        "packCount": 60,
+        "biotinMcg": null,
+        "id": "biotin-42526144135390",
+        "price": 297,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://healthvedaorganics.com/products/biotin-tablets-for-healthy-hair-skin-nails-growth?variant=42526144135390",
+        "nutritionUrl": "https://healthvedaorganics.com/products/biotin-tablets-for-healthy-hair-skin-nails-growth",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://healthvedaorganics.com/products/biotin-tablets-for-healthy-hair-skin-nails-growth?variant=42526144135390",
+          "evidenceUrl": "https://healthvedaorganics.com/products/biotin-tablets-for-healthy-hair-skin-nails-growth.json",
+          "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3769,
+      "observation": {
+        "category": "biotin",
+        "offerId": "biotin-42526144135390",
+        "date": "2026-10-31",
+        "price": 297,
+        "currency": "INR",
+        "sourceUrl": "https://healthvedaorganics.com/products/biotin-tablets-for-healthy-hair-skin-nails-growth?variant=42526144135390",
+        "evidenceUrl": "https://healthvedaorganics.com/products/biotin-tablets-for-healthy-hair-skin-nails-growth.json",
+        "kind": "official-live",
+        "variantId": "42526144135390",
+        "matchBasis": "Official Shopify product JSON exact variant ID; single-pack count verified. Availability separately checked against exact-variant official HTML structured data where available."
+      }
+    },
+    {
+      "order": 3926,
+      "observation": {
+        "category": "biotin",
+        "offerId": "biotin-42526144135390",
+        "date": "2026-11-19",
+        "price": 297,
+        "currency": "INR",
+        "sourceUrl": "https://healthvedaorganics.com/products/biotin-tablets-for-healthy-hair-skin-nails-growth?variant=42526144135390",
+        "evidenceUrl": "https://healthvedaorganics.com/products/biotin-tablets-for-healthy-hair-skin-nails-growth.json",
+        "kind": "official-live",
+        "variantId": "42526144135390",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 56,
+      "profile": {
+        "category": "biotin",
+        "brand": "Health Veda Organics",
+        "base": "https://healthvedaorganics.com",
+        "handle": "biotin-tablets-for-healthy-hair-skin-nails-growth",
+        "product": "Plant Based Biotin 10000 mcg",
+        "form": "Tablet",
+        "type": "Sesbania extract + botanicals",
+        "subclass": "Herbal blend",
+        "servingUnits": null,
+        "source": "Sesbania extract",
+        "basis": "Official title and bottle identify 60 tablets and a 10000 mcg headline. The exact label serving and biotin payload basis were not verified.",
+        "notes": "Sesbania extract mass is not substituted for biotin. Headline strength alone does not establish biotin per tablet; active-content cost is withheld.",
+        "labelChecked": "2026-10-31",
+        "packCount": 60,
+        "biotinMcg": null
+      }
+    }
+  ]
+}

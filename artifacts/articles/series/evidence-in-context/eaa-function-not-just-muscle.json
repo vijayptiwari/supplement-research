@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "order": 18,
+  "article": {
+    "id": "eaa-function-not-just-muscle",
+    "category": "eaa",
+    "series": "evidence-in-context",
+    "title": "EAA and healthy ageing: a bigger muscle measurement is not the finish line",
+    "summary": "Three older-adult studies show why amino-acid research must distinguish synthesis, lean mass, strength and everyday physical function.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "For an older person, a supplement is rarely valuable because a laboratory graph moves upward. The meaningful goal may be getting out of a chair, walking confidently or remaining independent. Essential-amino-acid research sometimes measures those outcomes, but sometimes stops at muscle protein synthesis or lean mass. Those are related questions, not interchangeable answers. Looking closely at three studies reveals both a plausible nutritional role and the limits of turning a promising ingredient into a promise about mobility. It also shows why exercise and the rest of the diet remain part of the story.",
+    "sections": [
+      {
+        "id": "outcomes",
+        "title": "Ask what improved before asking how much was used",
+        "body": "Muscle protein synthesis describes a process over a measurement period. Lean mass is a body-composition category. Strength describes force production, while physical-function tests ask whether a person can carry out a task. A supplement can affect one without demonstrating a benefit in all the others. This matters especially when “supports muscle” is used as shorthand for maintaining independence. Before reading an EAA trial as a success story, name its endpoint. Then check whether the paper actually measured the outcome that matters to the person considering the purchase. The distance between a promising mechanism and a practical benefit is a research question.",
+        "sourceIds": [
+          "pe-eaa-older-women-2009",
+          "context-eaa-exercise-kim-2012",
+          "context-eaa-function-borsheim-2008"
+        ]
+      },
+      {
+        "id": "dillon",
+        "title": "A small randomized study separates mass from strength",
+        "body": "Dillon and colleagues studied 14 older women for three months. Essential-amino-acid supplementation increased lean mass and basal muscle protein synthesis, while measured strength did not improve. The study is informative precisely because its results do not all point in the same direction. It supports a biological and body-composition effect under those conditions, without proving a strength benefit. The small sample also makes the size and generality of the effect uncertain. A reader should resist replacing “lean mass increased” with “frailty was prevented”; the latter statement would require outcomes and follow-up that this experiment did not provide.",
+        "sourceIds": [
+          "pe-eaa-older-women-2009"
+        ]
+      },
+      {
+        "id": "kim",
+        "title": "The exercise-plus-amino-acid trial asks a richer question",
+        "body": "Kim and colleagues randomized 155 Japanese women aged 75 or older with sarcopenia to exercise plus a leucine-rich amino-acid supplement, exercise alone, supplement alone or health education. Over three months, the outcome pattern suggested value in the combined approach, with statistical interactions across leg muscle mass, walking speed and knee-extension strength. This is closer to a practical programme than an isolated acute feeding test. It still does not establish that every EAA formula produces the same result, that men respond identically or that a supplement can replace exercise. The formulation, selected population and combined programme remain part of the finding.",
+        "sourceIds": [
+          "context-eaa-exercise-kim-2012"
+        ]
+      },
+      {
+        "id": "comparison-trap",
+        "title": "Within-group improvement is not proof of superiority",
+        "body": "A common reading mistake is to notice that one group improved significantly from its own baseline and another did not, then declare the first treatment superior. That conclusion needs a direct comparison between groups. In the Kim trial, several intervention groups improved walking speed, and different muscle outcomes followed different patterns. The useful interpretation concerns the full randomized comparison, not a single attractive before-and-after sentence. This is also why an advertisement saying “clinically proven to improve walking” can be incomplete even when it quotes a real trial. You need to know the comparison, the population and which intervention components were shared.",
+        "sourceIds": [
+          "context-eaa-exercise-kim-2012"
+        ]
+      },
+      {
+        "id": "pilot",
+        "title": "A pilot can suggest a direction without settling the cause",
+        "body": "Børsheim and colleagues followed 12 older adults receiving a mixture of essential amino acids and arginine for 16 weeks. Improvements in muscle-related and physical-function measures made the approach worth investigating. However, there was no concurrent control group. Repeated testing, changes in behaviour, natural variation and other influences cannot be separated confidently from the supplement effect. The mixture also prevents attributing the result to EAA alone. This is not a reason to discard the study; it is a reason to use it as an exploratory finding rather than count it as another randomized confirmation of a retail product’s claim.",
+        "sourceIds": [
+          "context-eaa-function-borsheim-2008"
+        ]
+      },
+      {
+        "id": "nutrition-fit",
+        "title": "The nutritional problem determines the useful format",
+        "body": "EAA can deliver essential amino acids without the same food volume as a complete meal, but a small amino-acid serving is not a complete nutritional replacement. Appetite problems, unintentional weight loss and difficulty eating may involve energy intake, food access, swallowing, illness or medical dietary restrictions. An EAA-only purchase addresses only part of that possible picture. For someone eating adequately and training consistently, the relevant question is added benefit beyond that foundation. For someone struggling to maintain intake or function, assessment of the underlying problem matters more than choosing the strongest-sounding amino-acid ratio. The same label can therefore represent a convenience purchase in one setting and an incomplete answer in another.",
+        "sourceIds": [
+          "food-performance-amino-acids",
+          "exercise",
+          "food-kidney-diet",
+          "context-eaa-exercise-kim-2012"
+        ]
+      },
+      {
+        "id": "buying-evidence",
+        "title": "Use the studies to interrogate the label",
+        "body": "Check whether a product discloses all nine essential amino acids and whether the cited study used that formulation or a meaningfully different mixture. Distinguish an EAA-only powder from whey enriched with EAA, and from a blend containing arginine or other ingredients. If the claim is better mobility, look for mobility data; a synthesis measurement is not sufficient. If the claim is better value than protein foods, look for a direct comparison rather than assuming that fewer grams must be more efficient. These are editorial evaluation rules drawn from the mismatches between the studies, not a validated numerical score for predicting an individual’s response.",
+        "sourceIds": [
+          "food-performance-amino-acids",
+          "pe-eaa-older-women-2009",
+          "context-eaa-function-borsheim-2008",
+          "eaa-deficit-trial"
+        ]
+      },
+      {
+        "id": "next-evidence",
+        "title": "What would strengthen the case for routine use?",
+        "body": "Larger independent trials should compare a clearly specified EAA intervention with a sensible nutritional alternative, record what participants already eat and follow function over a meaningful period. Including men, different clinical backgrounds and people with varying nutritional status would help establish where benefit is most likely. For now, the studies support a focused conversation about nutrition and exercise in selected older adults, rather than an age-based rule that everyone should buy EAA. The most honest question is not “Can amino acids stimulate muscle?” It is “Does this particular addition improve the outcome this person needs beyond the care and nutrition already provided?”",
+        "sourceIds": [
+          "pe-eaa-older-women-2009",
+          "context-eaa-exercise-kim-2012",
+          "context-eaa-function-borsheim-2008",
+          "exercise"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "pe-eaa-older-women-2009",
+      "context-eaa-exercise-kim-2012",
+      "context-eaa-function-borsheim-2008",
+      "food-performance-amino-acids",
+      "exercise",
+      "food-kidney-diet",
+      "eaa-deficit-trial"
+    ],
+    "evidenceNotes": [
+      {
+        "finding": "A body-composition benefit did not come with a demonstrated strength benefit.",
+        "sourceIds": [
+          "pe-eaa-older-women-2009"
+        ],
+        "design": "Three-month controlled randomized study of essential amino acids.",
+        "population": "Fourteen older women.",
+        "outcome": "Lean mass and basal muscle protein synthesis increased; measured strength did not improve.",
+        "limits": "Small selected sample; cannot establish prevention of frailty or improved independence."
+      },
+      {
+        "finding": "A combined programme was studied directly, rather than assuming supplement effects could replace exercise.",
+        "sourceIds": [
+          "context-eaa-exercise-kim-2012"
+        ],
+        "design": "Three-month four-arm randomized trial of exercise, leucine-rich amino acids, their combination or health education.",
+        "population": "155 community-dwelling Japanese women aged at least 75 with sarcopenia.",
+        "outcome": "Group-by-time interactions were reported for leg muscle mass, walking speed and knee-extension strength; outcomes differed across interventions.",
+        "limits": "Specific population and programme. Within-group changes alone do not prove that one group outperformed another; not evidence for every EAA product."
+      }
+    ]
+  }
+}

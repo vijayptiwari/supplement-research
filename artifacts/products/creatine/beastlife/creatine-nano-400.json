@@ -1,0 +1,573 @@
+{
+  "schemaVersion": 1,
+  "category": "creatine",
+  "brand": "Beastlife",
+  "product": "Creatine Nano 400",
+  "variants": [
+    {
+      "order": 46,
+      "offer": {
+        "id": "cr-46",
+        "brand": "Beastlife",
+        "product": "Creatine Nano 400",
+        "type": "Monohydrate",
+        "subclass": "Nano 400 (brand claim)",
+        "grade": "Not specified",
+        "formulation": "Flavoured",
+        "packaging": "Standard pack",
+        "flavour": "Blueberry",
+        "grams": 115,
+        "kg": 0.115,
+        "price": 599,
+        "stock": "Sold out",
+        "creatine": null,
+        "scoop": null,
+        "serving": null,
+        "creatineServing": null,
+        "energy": null,
+        "url": "https://beastlife.in/products/creatine-nano-400-blueberry-115-gm?variant=48574608310489",
+        "nutritionUrl": "https://beastlife.in/products/creatine-nano-400-blueberry-115-gm?variant=48574608310489",
+        "basis": "Creatine compound concentration not verified; compound cost omitted.",
+        "notes": "",
+        "energyBasis": "",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://beastlife.in/products/creatine-nano-400-blueberry-115-gm?variant=48574608310489",
+          "evidenceUrl": "https://beastlife.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 47,
+      "offer": {
+        "id": "cr-47",
+        "brand": "Beastlife",
+        "product": "Creatine Nano 400",
+        "type": "Monohydrate",
+        "subclass": "Nano 400 (brand claim)",
+        "grade": "Not specified",
+        "formulation": "Flavoured",
+        "packaging": "Standard pack",
+        "flavour": "Blueberry",
+        "grams": 305,
+        "kg": 0.305,
+        "price": 1199,
+        "stock": "Sold out",
+        "creatine": null,
+        "scoop": null,
+        "serving": null,
+        "creatineServing": null,
+        "energy": null,
+        "url": "https://beastlife.in/products/creatine-nano-400-blueberry-305-gm?variant=48574718869721",
+        "nutritionUrl": "https://beastlife.in/products/creatine-nano-400-blueberry-305-gm?variant=48574718869721",
+        "basis": "Creatine compound concentration not verified; compound cost omitted.",
+        "notes": "",
+        "energyBasis": "",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://beastlife.in/products/creatine-nano-400-blueberry-305-gm?variant=48574718869721",
+          "evidenceUrl": "https://beastlife.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 48,
+      "offer": {
+        "id": "cr-48",
+        "brand": "Beastlife",
+        "product": "Creatine Nano 400",
+        "type": "Monohydrate",
+        "subclass": "Nano 400 (brand claim)",
+        "grade": "Not specified",
+        "formulation": "Flavoured",
+        "packaging": "Standard pack",
+        "flavour": "Shikanji",
+        "grams": 115,
+        "kg": 0.115,
+        "price": 599,
+        "stock": "Sold out",
+        "creatine": 78.95,
+        "scoop": 3.8,
+        "serving": 3.8,
+        "creatineServing": 3,
+        "energy": 6.12,
+        "url": "https://beastlife.in/products/creatine-nano-400-shikanji-115-gm?variant=48574608179417",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0690/7723/7977/files/NanoShikanji-21.jpg?v=1777344658",
+        "basis": "Official product label, visually verified: named creatine compound quantity; per100g stated or calculated from serving.",
+        "notes": "115g label used for same formula at 305g. Label per100g energy 6.12 differs from 0.19kcal per serving after scaling; per100g retained.",
+        "energyBasis": "Official label per100g energy or serving kcal × 100 / serving grams.",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://beastlife.in/products/creatine-nano-400-shikanji-115-gm?variant=48574608179417",
+          "evidenceUrl": "https://beastlife.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 49,
+      "offer": {
+        "id": "cr-49",
+        "brand": "Beastlife",
+        "product": "Creatine Nano 400",
+        "type": "Monohydrate",
+        "subclass": "Nano 400 (brand claim)",
+        "grade": "Not specified",
+        "formulation": "Flavoured",
+        "packaging": "Standard pack",
+        "flavour": "Shikanji",
+        "grams": 305,
+        "kg": 0.305,
+        "price": 1199,
+        "stock": "Sold out",
+        "creatine": 78.95,
+        "scoop": 3.8,
+        "serving": 3.8,
+        "creatineServing": 3,
+        "energy": 6.12,
+        "url": "https://beastlife.in/products/creatine-nano-400-shikanji-305-gm?variant=48574718804185",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0690/7723/7977/files/NanoShikanji-21.jpg?v=1777344658",
+        "basis": "Official product label, visually verified: named creatine compound quantity; per100g stated or calculated from serving.",
+        "notes": "115g label used for same formula at 305g. Label per100g energy 6.12 differs from 0.19kcal per serving after scaling; per100g retained.",
+        "energyBasis": "Official label per100g energy or serving kcal × 100 / serving grams.",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://beastlife.in/products/creatine-nano-400-shikanji-305-gm?variant=48574718804185",
+          "evidenceUrl": "https://beastlife.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 50,
+      "offer": {
+        "id": "cr-50",
+        "brand": "Beastlife",
+        "product": "Creatine Nano 400",
+        "type": "Monohydrate",
+        "subclass": "Nano 400 (brand claim)",
+        "grade": "Not specified",
+        "formulation": "Flavoured",
+        "packaging": "Standard pack",
+        "flavour": "Tropical Tango",
+        "grams": 115,
+        "kg": 0.115,
+        "price": 599,
+        "stock": "Sold out",
+        "creatine": null,
+        "scoop": null,
+        "serving": null,
+        "creatineServing": null,
+        "energy": null,
+        "url": "https://beastlife.in/products/creatine-nano-400-tropical-tango-115-gm?variant=48574604837081",
+        "nutritionUrl": "https://beastlife.in/products/creatine-nano-400-tropical-tango-115-gm?variant=48574604837081",
+        "basis": "Creatine compound concentration not verified; compound cost omitted.",
+        "notes": "",
+        "energyBasis": "",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://beastlife.in/products/creatine-nano-400-tropical-tango-115-gm?variant=48574604837081",
+          "evidenceUrl": "https://beastlife.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 51,
+      "offer": {
+        "id": "cr-51",
+        "brand": "Beastlife",
+        "product": "Creatine Nano 400",
+        "type": "Monohydrate",
+        "subclass": "Nano 400 (brand claim)",
+        "grade": "Not specified",
+        "formulation": "Flavoured",
+        "packaging": "Standard pack",
+        "flavour": "Tropical Tango",
+        "grams": 305,
+        "kg": 0.305,
+        "price": 1199,
+        "stock": "Sold out",
+        "creatine": null,
+        "scoop": null,
+        "serving": null,
+        "creatineServing": null,
+        "energy": null,
+        "url": "https://beastlife.in/products/creatine-nano-400-tropical-tango-305-gm?variant=48574718673113",
+        "nutritionUrl": "https://beastlife.in/products/creatine-nano-400-tropical-tango-305-gm?variant=48574718673113",
+        "basis": "Creatine compound concentration not verified; compound cost omitted.",
+        "notes": "",
+        "energyBasis": "",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://beastlife.in/products/creatine-nano-400-tropical-tango-305-gm?variant=48574718673113",
+          "evidenceUrl": "https://beastlife.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 52,
+      "offer": {
+        "id": "cr-52",
+        "brand": "Beastlife",
+        "product": "Creatine Nano 400",
+        "type": "Monohydrate",
+        "subclass": "Nano 400 (brand claim)",
+        "grade": "Not specified",
+        "formulation": "Not specified",
+        "packaging": "Standard pack",
+        "flavour": "Unflavoured",
+        "grams": 100,
+        "kg": 0.1,
+        "price": 699,
+        "stock": "In stock",
+        "creatine": null,
+        "scoop": null,
+        "serving": null,
+        "creatineServing": null,
+        "energy": null,
+        "url": "https://beastlife.in/products/creatine-nano-400-100-gm?variant=48574494736601",
+        "nutritionUrl": "https://beastlife.in/products/creatine-nano-400-100-gm?variant=48574494736601",
+        "basis": "Creatine compound concentration not verified; compound cost omitted.",
+        "notes": "",
+        "energyBasis": "",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://beastlife.in/products/creatine-nano-400-100-gm?variant=48574494736601",
+          "evidenceUrl": "https://beastlife.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 53,
+      "offer": {
+        "id": "cr-53",
+        "brand": "Beastlife",
+        "product": "Creatine Nano 400",
+        "type": "Monohydrate",
+        "subclass": "Nano 400 (brand claim)",
+        "grade": "Not specified",
+        "formulation": "Not specified",
+        "packaging": "Standard pack",
+        "flavour": "Unflavoured",
+        "grams": 250,
+        "kg": 0.25,
+        "price": 1199,
+        "stock": "Sold out",
+        "creatine": null,
+        "scoop": null,
+        "serving": null,
+        "creatineServing": null,
+        "energy": null,
+        "url": "https://beastlife.in/products/creatine-nano-400-250-gm?variant=48574600282329",
+        "nutritionUrl": "https://beastlife.in/products/creatine-nano-400-250-gm?variant=48574600282329",
+        "basis": "Creatine compound concentration not verified; compound cost omitted.",
+        "notes": "",
+        "energyBasis": "",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://beastlife.in/products/creatine-nano-400-250-gm?variant=48574600282329",
+          "evidenceUrl": "https://beastlife.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 1797,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-49",
+        "date": "2026-09-24",
+        "price": 1199,
+        "currency": "INR",
+        "sourceUrl": "https://beastlife.in/products/creatine-nano-400-shikanji-305-gm?variant=48574718804185",
+        "evidenceUrl": "https://web.archive.org/web/20260924131725id_/https://beastlife.in/products/creatine-nano-400-shikanji-305-gm",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "48574718804185",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1798,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-51",
+        "date": "2026-09-24",
+        "price": 1199,
+        "currency": "INR",
+        "sourceUrl": "https://beastlife.in/products/creatine-nano-400-tropical-tango-305-gm?variant=48574718673113",
+        "evidenceUrl": "https://web.archive.org/web/20260924131725id_/https://beastlife.in/products/creatine-nano-400-tropical-tango-305-gm",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "48574718673113",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3039,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-46",
+        "date": "2026-10-25",
+        "price": 630,
+        "currency": "INR",
+        "sourceUrl": "https://beastlife.in/products/creatine-nano-400-blueberry-115-gm?variant=48574608310489",
+        "evidenceUrl": "https://beastlife.in/products/creatine-nano-400-blueberry-115-gm.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "48574608310489"
+      }
+    },
+    {
+      "order": 3040,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-47",
+        "date": "2026-10-25",
+        "price": 1262,
+        "currency": "INR",
+        "sourceUrl": "https://beastlife.in/products/creatine-nano-400-blueberry-305-gm?variant=48574718869721",
+        "evidenceUrl": "https://beastlife.in/products/creatine-nano-400-blueberry-305-gm.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "48574718869721"
+      }
+    },
+    {
+      "order": 3041,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-48",
+        "date": "2026-10-25",
+        "price": 630,
+        "currency": "INR",
+        "sourceUrl": "https://beastlife.in/products/creatine-nano-400-shikanji-115-gm?variant=48574608179417",
+        "evidenceUrl": "https://beastlife.in/products/creatine-nano-400-shikanji-115-gm.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "48574608179417"
+      }
+    },
+    {
+      "order": 3042,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-49",
+        "date": "2026-10-25",
+        "price": 1262,
+        "currency": "INR",
+        "sourceUrl": "https://beastlife.in/products/creatine-nano-400-shikanji-305-gm?variant=48574718804185",
+        "evidenceUrl": "https://beastlife.in/products/creatine-nano-400-shikanji-305-gm.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "48574718804185"
+      }
+    },
+    {
+      "order": 3043,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-50",
+        "date": "2026-10-25",
+        "price": 630,
+        "currency": "INR",
+        "sourceUrl": "https://beastlife.in/products/creatine-nano-400-tropical-tango-115-gm?variant=48574604837081",
+        "evidenceUrl": "https://beastlife.in/products/creatine-nano-400-tropical-tango-115-gm.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "48574604837081"
+      }
+    },
+    {
+      "order": 3044,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-51",
+        "date": "2026-10-25",
+        "price": 1262,
+        "currency": "INR",
+        "sourceUrl": "https://beastlife.in/products/creatine-nano-400-tropical-tango-305-gm?variant=48574718673113",
+        "evidenceUrl": "https://beastlife.in/products/creatine-nano-400-tropical-tango-305-gm.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "48574718673113"
+      }
+    },
+    {
+      "order": 3045,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-52",
+        "date": "2026-10-25",
+        "price": 630,
+        "currency": "INR",
+        "sourceUrl": "https://beastlife.in/products/creatine-nano-400-100-gm?variant=48574494736601",
+        "evidenceUrl": "https://beastlife.in/products/creatine-nano-400-100-gm.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "48574494736601"
+      }
+    },
+    {
+      "order": 3046,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-53",
+        "date": "2026-10-25",
+        "price": 1262,
+        "currency": "INR",
+        "sourceUrl": "https://beastlife.in/products/creatine-nano-400-250-gm?variant=48574600282329",
+        "evidenceUrl": "https://beastlife.in/products/creatine-nano-400-250-gm.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "48574600282329"
+      }
+    },
+    {
+      "order": 4899,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-46",
+        "date": "2026-11-19",
+        "price": 599,
+        "currency": "INR",
+        "sourceUrl": "https://beastlife.in/products/creatine-nano-400-blueberry-115-gm?variant=48574608310489",
+        "evidenceUrl": "https://beastlife.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "48574608310489"
+      }
+    },
+    {
+      "order": 4900,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-47",
+        "date": "2026-11-19",
+        "price": 1199,
+        "currency": "INR",
+        "sourceUrl": "https://beastlife.in/products/creatine-nano-400-blueberry-305-gm?variant=48574718869721",
+        "evidenceUrl": "https://beastlife.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "48574718869721"
+      }
+    },
+    {
+      "order": 4901,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-48",
+        "date": "2026-11-19",
+        "price": 599,
+        "currency": "INR",
+        "sourceUrl": "https://beastlife.in/products/creatine-nano-400-shikanji-115-gm?variant=48574608179417",
+        "evidenceUrl": "https://beastlife.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "48574608179417"
+      }
+    },
+    {
+      "order": 4902,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-49",
+        "date": "2026-11-19",
+        "price": 1199,
+        "currency": "INR",
+        "sourceUrl": "https://beastlife.in/products/creatine-nano-400-shikanji-305-gm?variant=48574718804185",
+        "evidenceUrl": "https://beastlife.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "48574718804185"
+      }
+    },
+    {
+      "order": 4903,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-50",
+        "date": "2026-11-19",
+        "price": 599,
+        "currency": "INR",
+        "sourceUrl": "https://beastlife.in/products/creatine-nano-400-tropical-tango-115-gm?variant=48574604837081",
+        "evidenceUrl": "https://beastlife.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "48574604837081"
+      }
+    },
+    {
+      "order": 4904,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-51",
+        "date": "2026-11-19",
+        "price": 1199,
+        "currency": "INR",
+        "sourceUrl": "https://beastlife.in/products/creatine-nano-400-tropical-tango-305-gm?variant=48574718673113",
+        "evidenceUrl": "https://beastlife.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "48574718673113"
+      }
+    },
+    {
+      "order": 4905,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-52",
+        "date": "2026-11-19",
+        "price": 699,
+        "currency": "INR",
+        "sourceUrl": "https://beastlife.in/products/creatine-nano-400-100-gm?variant=48574494736601",
+        "evidenceUrl": "https://beastlife.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "48574494736601"
+      }
+    },
+    {
+      "order": 4906,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-53",
+        "date": "2026-11-19",
+        "price": 1199,
+        "currency": "INR",
+        "sourceUrl": "https://beastlife.in/products/creatine-nano-400-250-gm?variant=48574600282329",
+        "evidenceUrl": "https://beastlife.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "48574600282329"
+      }
+    }
+  ],
+  "refreshSources": []
+}

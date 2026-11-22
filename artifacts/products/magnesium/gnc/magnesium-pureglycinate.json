@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "category": "magnesium",
+  "brand": "GNC",
+  "product": "Magnesium Pureglycinate",
+  "variants": [
+    {
+      "order": 8,
+      "offer": {
+        "brand": "GNC",
+        "product": "Magnesium Pureglycinate",
+        "form": "Tablet",
+        "type": "Glycinate",
+        "subclass": "Chelated",
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official product listing; only explicitly verified label amounts are recorded.",
+        "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities.",
+        "id": "magnesium-52288307790055",
+        "packCount": 90,
+        "price": 779,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://www.guardian.in/products/gnc-magnesium-pureglycinate?variant=52288307790055",
+        "nutritionUrl": "https://www.guardian.in/products/gnc-magnesium-pureglycinate",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-10-29",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.guardian.in/products/gnc-magnesium-pureglycinate?variant=52288307790055",
+          "evidenceUrl": "https://www.guardian.in/products/gnc-magnesium-pureglycinate.json",
+          "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+        }
+      }
+    },
+    {
+      "order": 9,
+      "offer": {
+        "brand": "GNC",
+        "product": "Magnesium Pureglycinate",
+        "form": "Tablet",
+        "type": "Glycinate",
+        "subclass": "Chelated",
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official product listing; only explicitly verified label amounts are recorded.",
+        "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities.",
+        "id": "magnesium-52288309068007",
+        "packCount": 60,
+        "price": 599,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://www.guardian.in/products/gnc-magnesium-pureglycinate?variant=52288309068007",
+        "nutritionUrl": "https://www.guardian.in/products/gnc-magnesium-pureglycinate",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-10-29",
+        "stockReview": {
+          "checked": "2026-11-19",
+          "status": "Not reverified",
+          "basis": "The exact current variant could not be matched. Earlier price evidence date retained."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3730,
+      "observation": {
+        "category": "magnesium",
+        "offerId": "magnesium-52288307790055",
+        "date": "2026-10-29",
+        "price": 499,
+        "currency": "INR",
+        "sourceUrl": "https://www.guardian.in/products/gnc-magnesium-pureglycinate?variant=52288307790055",
+        "evidenceUrl": "https://www.guardian.in/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "52288307790055"
+      }
+    },
+    {
+      "order": 3731,
+      "observation": {
+        "category": "magnesium",
+        "offerId": "magnesium-52288309068007",
+        "date": "2026-10-29",
+        "price": 599,
+        "currency": "INR",
+        "sourceUrl": "https://www.guardian.in/products/gnc-magnesium-pureglycinate?variant=52288309068007",
+        "evidenceUrl": "https://www.guardian.in/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "52288309068007"
+      }
+    },
+    {
+      "order": 3913,
+      "observation": {
+        "category": "magnesium",
+        "offerId": "magnesium-52288307790055",
+        "date": "2026-11-19",
+        "price": 779,
+        "currency": "INR",
+        "sourceUrl": "https://www.guardian.in/products/gnc-magnesium-pureglycinate?variant=52288307790055",
+        "evidenceUrl": "https://www.guardian.in/products/gnc-magnesium-pureglycinate.json",
+        "kind": "official-live",
+        "variantId": "52288307790055",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 23,
+      "profile": {
+        "category": "magnesium",
+        "brand": "GNC",
+        "base": "https://www.guardian.in",
+        "handle": "gnc-magnesium-pureglycinate",
+        "product": "Magnesium Pureglycinate",
+        "form": "Tablet",
+        "type": "Glycinate",
+        "subclass": "Chelated",
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official product listing; only explicitly verified label amounts are recorded.",
+        "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities."
+      }
+    }
+  ]
+}

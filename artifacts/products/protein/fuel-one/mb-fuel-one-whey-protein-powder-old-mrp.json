@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "Fuel One",
+  "product": "MB Fuel One Whey Protein Powder (Old MRP)",
+  "variants": [
+    {
+      "order": 757,
+      "offer": {
+        "id": 757,
+        "brand": "Fuel One",
+        "product": "MB Fuel One Whey Protein Powder (Old MRP)",
+        "type": "Whey — blend",
+        "flavour": "Rich Chocolate",
+        "kg": 2,
+        "price": 4099,
+        "stock": "Sold out",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://www.fuelone.in/sv/mb-fuel-one-whey-protein-powder-old-mrp/SP-142797?navKey=VRNT-293207",
+        "nutritionUrl": "https://www.fuelone.in/sv/mb-fuel-one-whey-protein-powder-old-mrp/SP-142797?navKey=VRNT-293207",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Stock not independently confirmed; offer listed on official page. Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.fuelone.in/sv/mb-fuel-one-whey-protein-powder-old-mrp/SP-142797?navKey=VRNT-293207",
+          "evidenceUrl": "https://www.fuelone.in/sv/mb-fuel-one-whey-protein-powder-old-mrp/SP-142797?navKey=VRNT-293207",
+          "matchBasis": "Official selected product schema SKU matches exact navigation key"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 2946,
+      "observation": {
+        "category": "protein",
+        "offerId": 757,
+        "date": "2026-10-25",
+        "price": 4099,
+        "currency": "INR",
+        "sourceUrl": "https://www.fuelone.in/sv/mb-fuel-one-whey-protein-powder-old-mrp/SP-142797?navKey=VRNT-293207",
+        "evidenceUrl": "https://www.fuelone.in/sv/mb-fuel-one-whey-protein-powder-old-mrp/SP-142797?navKey=VRNT-293207",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "VRNT-293207"
+      }
+    },
+    {
+      "order": 4804,
+      "observation": {
+        "category": "protein",
+        "offerId": 757,
+        "date": "2026-11-19",
+        "price": 4099,
+        "currency": "INR",
+        "sourceUrl": "https://www.fuelone.in/sv/mb-fuel-one-whey-protein-powder-old-mrp/SP-142797?navKey=VRNT-293207",
+        "evidenceUrl": "https://www.fuelone.in/sv/mb-fuel-one-whey-protein-powder-old-mrp/SP-142797?navKey=VRNT-293207",
+        "kind": "official-live",
+        "matchBasis": "Official selected product schema SKU matches exact navigation key",
+        "variantId": "VRNT-293207"
+      }
+    }
+  ],
+  "refreshSources": []
+}

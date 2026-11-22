@@ -1,0 +1,584 @@
+{
+  "schemaVersion": 1,
+  "category": "vitamin-b",
+  "brand": "HK Vitals",
+  "product": "Bi-Layer Multivitamin+ Women",
+  "variants": [
+    {
+      "order": 24,
+      "offer": {
+        "form": "Tablet",
+        "source": "Not specified",
+        "servingUnits": 1,
+        "product": "Bi-Layer Multivitamin+ Women",
+        "type": "Activated B-vitamin forms + ascorbic acid + D3/K2",
+        "subclass": "Bilayer multivitamin with methylfolate and botanicals",
+        "vitaminB1Mg": 1.4,
+        "vitaminB2Mg": 1.9,
+        "vitaminB3Mg": 11,
+        "vitaminB5Mg": 5,
+        "vitaminB6Mg": 1.9,
+        "methylfolateMcg": 129,
+        "biotinMcg": 40,
+        "vitaminB12Mcg": 2,
+        "vitaminCMg": 65,
+        "vitaminDMcg": 15,
+        "vitaminK2Mcg": 55,
+        "vitaminEMg": 10,
+        "zincMg": 13.2,
+        "ashwagandhaMg": 375,
+        "mineralBasis": "elemental",
+        "energyPerServing": 4.49,
+        "additionalIngredients": [
+          {
+            "name": "Iron",
+            "amount": 29,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Vitamin A",
+            "amount": 840,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Myo-inositol",
+            "amount": 100,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Panax ginseng root extract",
+            "amount": 27,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Phytase",
+            "amount": 19,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Co-enzyme Q10",
+            "amount": 10,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Manganese",
+            "amount": 1.6,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Copper",
+            "amount": 0.68,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Iodine",
+            "amount": 56,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Chromium",
+            "amount": 50,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Molybdenum",
+            "amount": 45,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Selenium",
+            "amount": 40,
+            "unit": "mcg",
+            "basis": "per label serving"
+          }
+        ],
+        "basis": "Official current bilayer panel per one tablet (1.366 g): B1 1.4 mg, B2 1.9 mg, B3 11 mg, B5 5 mg, B6 1.9 mg, 5-MTHF 129 mcg, biotin 40 mcg, B12 2 mcg, C 65 mg, D3 15 mcg, K2 55 mcg; energy 4.49 kcal.",
+        "notes": "B9 is labelled (6S)-5-methyltetrahydrofolic acid; no folic-acid or DFE conversion is made. Gallery alt text sometimes says 60 tablets, but selected live variants and the current panel specify 30 or 50 tablets; selected exact pack counts govern pricing. Includes ashwagandha root extract 375 mg with unverified standardization. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+        "brand": "HK Vitals",
+        "id": "vitamin-b-hkv-233583",
+        "packCount": 30,
+        "flavour": "Unflavoured",
+        "price": 399,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://www.hkvitals.com/sv/hk-vitals-bi-layer-multivitaminplus-women/SP-122587?navKey=VRNT-233583",
+        "nutritionUrl": "https://img6.hkrtcdn.com/47240/prd_4723935-HK-Vitals-Multivitamin-Women-60-tablets-Unflavoured_o.jpg",
+        "labelSources": [
+          "https://www.hkvitals.com/sv/hk-vitals-bi-layer-multivitaminplus-women/SP-122587?navKey=VRNT-233583",
+          "https://img6.hkrtcdn.com/47240/prd_4723935-HK-Vitals-Multivitamin-Women-60-tablets-Unflavoured_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "packaging": "Single retail pack (30 units)",
+        "sourceVariantId": "233583",
+        "sourceProductId": "122587",
+        "declaredNutrients": [
+          "vitaminB1Mg",
+          "vitaminB2Mg",
+          "vitaminB3Mg",
+          "vitaminB5Mg",
+          "vitaminB6Mg",
+          "biotinMcg",
+          "methylfolateMcg",
+          "vitaminB12Mcg"
+        ]
+      }
+    },
+    {
+      "order": 25,
+      "offer": {
+        "form": "Tablet",
+        "source": "Not specified",
+        "servingUnits": 1,
+        "product": "Bi-Layer Multivitamin+ Women",
+        "type": "Activated B-vitamin forms + ascorbic acid + D3/K2",
+        "subclass": "Bilayer multivitamin with methylfolate and botanicals",
+        "vitaminB1Mg": 1.4,
+        "vitaminB2Mg": 1.9,
+        "vitaminB3Mg": 11,
+        "vitaminB5Mg": 5,
+        "vitaminB6Mg": 1.9,
+        "methylfolateMcg": 129,
+        "biotinMcg": 40,
+        "vitaminB12Mcg": 2,
+        "vitaminCMg": 65,
+        "vitaminDMcg": 15,
+        "vitaminK2Mcg": 55,
+        "vitaminEMg": 10,
+        "zincMg": 13.2,
+        "ashwagandhaMg": 375,
+        "mineralBasis": "elemental",
+        "energyPerServing": 4.49,
+        "additionalIngredients": [
+          {
+            "name": "Iron",
+            "amount": 29,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Vitamin A",
+            "amount": 840,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Myo-inositol",
+            "amount": 100,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Panax ginseng root extract",
+            "amount": 27,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Phytase",
+            "amount": 19,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Co-enzyme Q10",
+            "amount": 10,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Manganese",
+            "amount": 1.6,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Copper",
+            "amount": 0.68,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Iodine",
+            "amount": 56,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Chromium",
+            "amount": 50,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Molybdenum",
+            "amount": 45,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Selenium",
+            "amount": 40,
+            "unit": "mcg",
+            "basis": "per label serving"
+          }
+        ],
+        "basis": "Official current bilayer panel per one tablet (1.366 g): B1 1.4 mg, B2 1.9 mg, B3 11 mg, B5 5 mg, B6 1.9 mg, 5-MTHF 129 mcg, biotin 40 mcg, B12 2 mcg, C 65 mg, D3 15 mcg, K2 55 mcg; energy 4.49 kcal.",
+        "notes": "B9 is labelled (6S)-5-methyltetrahydrofolic acid; no folic-acid or DFE conversion is made. Gallery alt text sometimes says 60 tablets, but selected live variants and the current panel specify 30 or 50 tablets; selected exact pack counts govern pricing. Includes ashwagandha root extract 375 mg with unverified standardization. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+        "brand": "HK Vitals",
+        "id": "vitamin-b-hkv-233453",
+        "packCount": 50,
+        "flavour": "Unflavoured",
+        "price": 649,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://www.hkvitals.com/sv/hk-vitals-bi-layer-multivitaminplus-women/SP-122587?navKey=VRNT-233453",
+        "nutritionUrl": "https://img6.hkrtcdn.com/47240/prd_4723935-HK-Vitals-Multivitamin-Women-60-tablets-Unflavoured_o.jpg",
+        "labelSources": [
+          "https://www.hkvitals.com/sv/hk-vitals-bi-layer-multivitaminplus-women/SP-122587?navKey=VRNT-233453",
+          "https://img6.hkrtcdn.com/47240/prd_4723935-HK-Vitals-Multivitamin-Women-60-tablets-Unflavoured_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "packaging": "Single retail pack (50 units)",
+        "sourceVariantId": "233453",
+        "sourceProductId": "122587",
+        "declaredNutrients": [
+          "vitaminB1Mg",
+          "vitaminB2Mg",
+          "vitaminB3Mg",
+          "vitaminB5Mg",
+          "vitaminB6Mg",
+          "biotinMcg",
+          "methylfolateMcg",
+          "vitaminB12Mcg"
+        ]
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5149,
+      "observation": {
+        "category": "vitamin-b",
+        "offerId": "vitamin-b-hkv-233583",
+        "date": "2026-11-19",
+        "price": 399,
+        "currency": "INR",
+        "sourceUrl": "https://www.hkvitals.com/sv/hk-vitals-bi-layer-multivitaminplus-women/SP-122587?navKey=VRNT-233583",
+        "evidenceUrl": "https://www.hkvitals.com/sv/hk-vitals-bi-layer-multivitaminplus-women/SP-122587?navKey=VRNT-233583",
+        "kind": "official-live",
+        "matchBasis": "Official HK Vitals SSR reviewData selected numeric variant 233583; explicit pack '30 tablet(s)', unconditional offer_pr INR and isPublish=true/oos=false. Excludes loyalty and coupon rewards.",
+        "variantId": "233583"
+      }
+    },
+    {
+      "order": 5152,
+      "observation": {
+        "category": "vitamin-b",
+        "offerId": "vitamin-b-hkv-233453",
+        "date": "2026-11-19",
+        "price": 649,
+        "currency": "INR",
+        "sourceUrl": "https://www.hkvitals.com/sv/hk-vitals-bi-layer-multivitaminplus-women/SP-122587?navKey=VRNT-233453",
+        "evidenceUrl": "https://www.hkvitals.com/sv/hk-vitals-bi-layer-multivitaminplus-women/SP-122587?navKey=VRNT-233453",
+        "kind": "official-live",
+        "matchBasis": "Official HK Vitals SSR reviewData selected numeric variant 233453; explicit pack '50 tablet(s)', unconditional offer_pr INR and isPublish=true/oos=false. Excludes loyalty and coupon rewards.",
+        "variantId": "233453"
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 259,
+      "profile": {
+        "form": "Tablet",
+        "source": "Not specified",
+        "servingUnits": 1,
+        "product": "Bi-Layer Multivitamin+ Women",
+        "type": "Activated B-vitamin forms + ascorbic acid + D3/K2",
+        "subclass": "Bilayer multivitamin with methylfolate and botanicals",
+        "vitaminB1Mg": 1.4,
+        "vitaminB2Mg": 1.9,
+        "vitaminB3Mg": 11,
+        "vitaminB5Mg": 5,
+        "vitaminB6Mg": 1.9,
+        "methylfolateMcg": 129,
+        "biotinMcg": 40,
+        "vitaminB12Mcg": 2,
+        "vitaminCMg": 65,
+        "vitaminDMcg": 15,
+        "vitaminK2Mcg": 55,
+        "vitaminEMg": 10,
+        "zincMg": 13.2,
+        "ashwagandhaMg": 375,
+        "mineralBasis": "elemental",
+        "energyPerServing": 4.49,
+        "additionalIngredients": [
+          {
+            "name": "Iron",
+            "amount": 29,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Vitamin A",
+            "amount": 840,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Myo-inositol",
+            "amount": 100,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Panax ginseng root extract",
+            "amount": 27,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Phytase",
+            "amount": 19,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Co-enzyme Q10",
+            "amount": 10,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Manganese",
+            "amount": 1.6,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Copper",
+            "amount": 0.68,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Iodine",
+            "amount": 56,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Chromium",
+            "amount": 50,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Molybdenum",
+            "amount": 45,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Selenium",
+            "amount": 40,
+            "unit": "mcg",
+            "basis": "per label serving"
+          }
+        ],
+        "basis": "Official current bilayer panel per one tablet (1.366 g): B1 1.4 mg, B2 1.9 mg, B3 11 mg, B5 5 mg, B6 1.9 mg, 5-MTHF 129 mcg, biotin 40 mcg, B12 2 mcg, C 65 mg, D3 15 mcg, K2 55 mcg; energy 4.49 kcal.",
+        "notes": "B9 is labelled (6S)-5-methyltetrahydrofolic acid; no folic-acid or DFE conversion is made. Gallery alt text sometimes says 60 tablets, but selected live variants and the current panel specify 30 or 50 tablets; selected exact pack counts govern pricing. Includes ashwagandha root extract 375 mg with unverified standardization. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+        "brand": "HK Vitals",
+        "id": "vitamin-b-hkv-233583",
+        "packCount": 30,
+        "flavour": "Unflavoured",
+        "nutritionUrl": "https://img6.hkrtcdn.com/47240/prd_4723935-HK-Vitals-Multivitamin-Women-60-tablets-Unflavoured_o.jpg",
+        "labelSources": [
+          "https://www.hkvitals.com/sv/hk-vitals-bi-layer-multivitaminplus-women/SP-122587?navKey=VRNT-233583",
+          "https://img6.hkrtcdn.com/47240/prd_4723935-HK-Vitals-Multivitamin-Women-60-tablets-Unflavoured_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "packaging": "Single retail pack (30 units)",
+        "sourceVariantId": "233583",
+        "sourceProductId": "122587",
+        "declaredNutrients": [
+          "vitaminB1Mg",
+          "vitaminB2Mg",
+          "vitaminB3Mg",
+          "vitaminB5Mg",
+          "vitaminB6Mg",
+          "biotinMcg",
+          "methylfolateMcg",
+          "vitaminB12Mcg"
+        ],
+        "category": "vitamin-b",
+        "kind": "hk-product",
+        "base": "https://www.hkvitals.com",
+        "handle": "multivitamin-plus-women",
+        "productUrl": "https://www.hkvitals.com/sv/hk-vitals-bi-layer-multivitaminplus-women/SP-122587?navKey=VRNT-233583",
+        "variantUrl": "https://www.hkvitals.com/sv/hk-vitals-bi-layer-multivitaminplus-women/SP-122587?navKey=VRNT-233583",
+        "variantId": "233583",
+        "productId": 122587,
+        "sourceBrand": "HK Vitals",
+        "variantAttributes": {
+          "fn-att-quant": "30 tablet(s)",
+          "spc-att-flvr": "Unflavoured"
+        }
+      }
+    },
+    {
+      "order": 262,
+      "profile": {
+        "form": "Tablet",
+        "source": "Not specified",
+        "servingUnits": 1,
+        "product": "Bi-Layer Multivitamin+ Women",
+        "type": "Activated B-vitamin forms + ascorbic acid + D3/K2",
+        "subclass": "Bilayer multivitamin with methylfolate and botanicals",
+        "vitaminB1Mg": 1.4,
+        "vitaminB2Mg": 1.9,
+        "vitaminB3Mg": 11,
+        "vitaminB5Mg": 5,
+        "vitaminB6Mg": 1.9,
+        "methylfolateMcg": 129,
+        "biotinMcg": 40,
+        "vitaminB12Mcg": 2,
+        "vitaminCMg": 65,
+        "vitaminDMcg": 15,
+        "vitaminK2Mcg": 55,
+        "vitaminEMg": 10,
+        "zincMg": 13.2,
+        "ashwagandhaMg": 375,
+        "mineralBasis": "elemental",
+        "energyPerServing": 4.49,
+        "additionalIngredients": [
+          {
+            "name": "Iron",
+            "amount": 29,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Vitamin A",
+            "amount": 840,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Myo-inositol",
+            "amount": 100,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Panax ginseng root extract",
+            "amount": 27,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Phytase",
+            "amount": 19,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Co-enzyme Q10",
+            "amount": 10,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Manganese",
+            "amount": 1.6,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Copper",
+            "amount": 0.68,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Iodine",
+            "amount": 56,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Chromium",
+            "amount": 50,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Molybdenum",
+            "amount": 45,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Selenium",
+            "amount": 40,
+            "unit": "mcg",
+            "basis": "per label serving"
+          }
+        ],
+        "basis": "Official current bilayer panel per one tablet (1.366 g): B1 1.4 mg, B2 1.9 mg, B3 11 mg, B5 5 mg, B6 1.9 mg, 5-MTHF 129 mcg, biotin 40 mcg, B12 2 mcg, C 65 mg, D3 15 mcg, K2 55 mcg; energy 4.49 kcal.",
+        "notes": "B9 is labelled (6S)-5-methyltetrahydrofolic acid; no folic-acid or DFE conversion is made. Gallery alt text sometimes says 60 tablets, but selected live variants and the current panel specify 30 or 50 tablets; selected exact pack counts govern pricing. Includes ashwagandha root extract 375 mg with unverified standardization. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+        "brand": "HK Vitals",
+        "id": "vitamin-b-hkv-233453",
+        "packCount": 50,
+        "flavour": "Unflavoured",
+        "nutritionUrl": "https://img6.hkrtcdn.com/47240/prd_4723935-HK-Vitals-Multivitamin-Women-60-tablets-Unflavoured_o.jpg",
+        "labelSources": [
+          "https://www.hkvitals.com/sv/hk-vitals-bi-layer-multivitaminplus-women/SP-122587?navKey=VRNT-233453",
+          "https://img6.hkrtcdn.com/47240/prd_4723935-HK-Vitals-Multivitamin-Women-60-tablets-Unflavoured_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "packaging": "Single retail pack (50 units)",
+        "sourceVariantId": "233453",
+        "sourceProductId": "122587",
+        "declaredNutrients": [
+          "vitaminB1Mg",
+          "vitaminB2Mg",
+          "vitaminB3Mg",
+          "vitaminB5Mg",
+          "vitaminB6Mg",
+          "biotinMcg",
+          "methylfolateMcg",
+          "vitaminB12Mcg"
+        ],
+        "category": "vitamin-b",
+        "kind": "hk-product",
+        "base": "https://www.hkvitals.com",
+        "handle": "multivitamin-plus-women",
+        "productUrl": "https://www.hkvitals.com/sv/hk-vitals-bi-layer-multivitaminplus-women/SP-122587?navKey=VRNT-233453",
+        "variantUrl": "https://www.hkvitals.com/sv/hk-vitals-bi-layer-multivitaminplus-women/SP-122587?navKey=VRNT-233453",
+        "variantId": "233453",
+        "productId": 122587,
+        "sourceBrand": "HK Vitals",
+        "variantAttributes": {
+          "fn-att-quant": "50 tablet(s)",
+          "spc-att-flvr": "Unflavoured"
+        }
+      }
+    }
+  ]
+}

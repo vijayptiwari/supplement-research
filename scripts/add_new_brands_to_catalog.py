@@ -1,6 +1,12 @@
 import json
 import os
 import sys
+import pathlib
+try:
+    from artifact_bridge import reject_legacy_writer
+except ModuleNotFoundError:
+    from scripts.artifact_bridge import reject_legacy_writer
+reject_legacy_writer(pathlib.Path(__file__).resolve().parents[1],'add_new_brands_to_catalog.py')
 
 sys.stdout.reconfigure(encoding='utf-8')
 

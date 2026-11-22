@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "order": 20,
+  "article": {
+    "id": "citrulline-event-protocol",
+    "category": "citrulline",
+    "series": "evidence-in-context",
+    "title": "Citrulline for cyclists and lifters: the event is part of the evidence",
+    "summary": "A short cycling time trial, repeated sprints and a resistance session are different tests. Learn why a positive result cannot be transferred just by matching the ingredient name.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "A cyclist asks whether citrulline makes a time trial faster. A lifter asks whether it adds useful repetitions. A pre-workout advert answers both with “improved blood flow.” That answer skips the experiment that matters. Citrulline studies vary in formulation, timing, training background and the performance task itself. Some have positive findings; others show that circulating citrulline can rise without an improvement in the selected test. Reading the differences carefully produces a more useful conclusion than either declaring the ingredient useless or recommending it for every event.",
+    "sections": [
+      {
+        "id": "name-the-event",
+        "title": "Describe the finish line before opening the evidence",
+        "body": "A time trial measures how quickly a person completes a set amount of work or distance. A time-to-exhaustion test measures how long someone tolerates a prescribed demand. Repeated sprints, maximal force and repetitions to fatigue ask further questions. All can be legitimate research outcomes, but a benefit in one is not a percentage improvement that can be pasted onto the others. This matters to a buyer because “endurance” can describe an hour-long ride, a four-kilometre test or the last repetitions of a set. An evidence-based claim should tell you which meaning was actually tested.",
+        "sourceIds": [
+          "context-citrulline-cycling-suzuki-2016",
+          "context-citrulline-sprints-cunniffe-2016",
+          "citrulline-forms-trial"
+        ]
+      },
+      {
+        "id": "positive-tt",
+        "title": "A positive short time-trial finding has a defined boundary",
+        "body": "Suzuki and colleagues studied 22 trained men in a randomized crossover experiment using repeated oral L-citrulline before a four-kilometre cycling time trial. Performance improved under that protocol. This is a meaningful performance outcome, rather than merely a blood measurement, and it gives the hypothesis something concrete to build on. It remains a small, specific experiment, involving men and a short cycling task. Several authors were affiliated with the ingredient manufacturer. That disclosure does not invalidate the result, but independent replication would increase confidence. The finding should retain its event, preparation and repeated-use context when it appears in a consumer claim.",
+        "sourceIds": [
+          "context-citrulline-cycling-suzuki-2016"
+        ]
+      },
+      {
+        "id": "sprint-null",
+        "title": "More circulating citrulline did not rescue a different test",
+        "body": "Cunniffe and colleagues tested acute citrulline malate in ten well-trained men performing repeated cycling sprints followed by a time-to-exhaustion task. Plasma citrulline increased substantially, yet the tested power, exhaustion and perceived-exertion outcomes did not improve. This is an instructive null result: the researchers did not simply fail to deliver the ingredient into circulation. The expected performance advantage was absent despite higher exposure. It is not a direct replication of the Suzuki experiment because the preparation, exposure schedule and task differed. Equally, the positive short-time-trial result cannot be used to erase this negative finding.",
+        "sourceIds": [
+          "context-citrulline-sprints-cunniffe-2016",
+          "context-citrulline-cycling-suzuki-2016"
+        ]
+      },
+      {
+        "id": "resistance-bridge",
+        "title": "Resistance evidence needs its own test of the bridge",
+        "body": "A matched-citrulline study in 43 resistance-trained adults compared free L-citrulline and citrulline malate with placebo. It did not establish a clear improvement in the selected acute neuromuscular outcomes. This matters when cycling evidence is used to sell a “pump” product to lifters, or a malate ratio is advertised as intrinsically superior. A matched comparison is more informative than comparing equal scoops that contain unequal amounts of citrulline. Even then, no single acute experiment settles every resistance-training scenario. The useful lesson is to demand a trial that crosses the actual bridge being claimed, from the identified formula to a relevant lifting outcome.",
+        "sourceIds": [
+          "citrulline-forms-trial"
+        ]
+      },
+      {
+        "id": "pooling",
+        "title": "A pooled average does not erase the protocol",
+        "body": "A 2026 synthesis of 30 trials involving 644 participants reported a small overall performance effect, with low or very low certainty and no clear pooled perceived-exertion benefit. That is a different message from “every study is negative,” but also from “citrulline reliably boosts performance.” The average combines different questions, and the confidence assessment reflects weaknesses or uncertainty in the evidence. Do not translate a small pooled effect into a guaranteed number of repetitions or seconds for your own event. Use the synthesis to understand the broad signal, then return to trials whose participants and tests resemble the decision at hand.",
+        "sourceIds": [
+          "citrulline-meta"
+        ]
+      },
+      {
+        "id": "what-varies",
+        "title": "Do not guess which difference caused the disagreement",
+        "body": "It is tempting to explain the results by choosing a favourite variable: repeated use worked, acute use failed, or one form must be better. These comparisons do not isolate all those variables at once. Different study teams, participants, tasks and measurement choices are bundled together. Establishing which feature changes response requires a design that compares that feature directly. This is why an apparently neat internet rule can run ahead of the research even when every paper it cites is real. The honest synthesis identifies plausible reasons for variation while leaving them as hypotheses, rather than promoting them into a personalised dosing or product-selection rule.",
+        "sourceIds": [
+          "context-citrulline-cycling-suzuki-2016",
+          "context-citrulline-sprints-cunniffe-2016",
+          "citrulline-forms-trial"
+        ]
+      },
+      {
+        "id": "read-a-label",
+        "title": "What this changes when comparing products",
+        "body": "Record whether the product supplies free L-citrulline or a citrulline-malate mixture, and whether the label allows the citrulline amount to be identified. Compare that amount separately from total scoop weight and from caffeine or other ingredients. Then match the claim to the event: a multi-ingredient pre-workout trial cannot isolate citrulline, and an ingredient-only trial does not validate the entire pre-workout. Our editorial assessment is that an unclear active amount weakens price comparison before efficacy is even considered. A premium malate ratio is not evidence of a premium performance result unless an appropriate comparison demonstrates it.",
+        "sourceIds": [
+          "citrulline-forms-trial",
+          "preworkout-review",
+          "exercise"
+        ]
+      },
+      {
+        "id": "decision",
+        "title": "A useful optional experiment starts with modest expectations",
+        "body": "For consumers, the evidence supports an uncertain, optional performance purchase rather than an essential foundation. Consistent training, an appropriate food strategy and repeatable event practice should be addressed before attributing a good session to a scoop. A single faster ride or better workout cannot establish causation because normal performance varies and expectation can influence effort. Stronger evidence would come from independent, adequately sized trials using clearly identified formulations and realistic event outcomes, including more representative participants. Until then, knowing exactly which question remains unanswered is more empowering than a confident benefit percentage that the studies never promised.",
+        "sourceIds": [
+          "exercise",
+          "citrulline-meta",
+          "context-citrulline-cycling-suzuki-2016",
+          "context-citrulline-sprints-cunniffe-2016"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "context-citrulline-cycling-suzuki-2016",
+      "context-citrulline-sprints-cunniffe-2016",
+      "citrulline-forms-trial",
+      "citrulline-meta",
+      "preworkout-review",
+      "exercise"
+    ],
+    "evidenceNotes": [
+      {
+        "finding": "Repeated L-citrulline improved a short cycling time trial in one small trial.",
+        "sourceIds": [
+          "context-citrulline-cycling-suzuki-2016"
+        ],
+        "design": "Randomized double-blind placebo-controlled crossover study.",
+        "population": "Twenty-two healthy trained men.",
+        "outcome": "Four-kilometre cycling time-trial performance improved after the study’s repeated-use protocol.",
+        "limits": "Specific short event and male sample; ingredient-manufacturer affiliations. Does not establish benefit for every endurance or lifting task."
+      },
+      {
+        "finding": "A substantial increase in plasma citrulline did not improve the selected high-intensity cycling outcomes.",
+        "sourceIds": [
+          "context-citrulline-sprints-cunniffe-2016"
+        ],
+        "design": "Acute double-blind placebo-controlled crossover experiment using citrulline malate.",
+        "population": "Ten well-trained men.",
+        "outcome": "Repeated-sprint and subsequent exhaustion outcomes did not improve despite increased circulating citrulline.",
+        "limits": "Small sample; different formulation, exposure schedule and task from the positive short-time-trial study, rather than a direct replication."
+      }
+    ]
+  }
+}

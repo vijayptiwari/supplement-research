@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "category": "l-carnitine",
+  "brand": "Carbamide Forte",
+  "product": "Carni-Von L-Carnitine L-Tartrate 1000 mg",
+  "variants": [
+    {
+      "order": 7,
+      "offer": {
+        "brand": "Carbamide Forte",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-11-19",
+        "flavour": "Unflavoured",
+        "product": "Carni-Von L-Carnitine L-Tartrate 1000 mg",
+        "form": "Capsule",
+        "type": "L-Carnitine L-tartrate",
+        "subclass": "L-carnitine tartrate with chromium picolinate",
+        "packCount": 10,
+        "servingUnits": 2,
+        "carnitineMg": null,
+        "carnitineCompoundMg": 1000,
+        "declaredNutrients": [
+          "carnitineMg",
+          "carnitineCompoundMg"
+        ],
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/2_c93cf7eb-da1f-4b02-bffe-c17dc9dd9244.jpg?v=1780386334",
+        "basis": "Official 10-capsule pack panel states five servings and two capsules per serving, containing L-carnitine L-tartrate 1000 mg.",
+        "notes": "Sold out at the observed quoted price. The title shortens the material to L-carnitine, while the panel declares tartrate compound. Free-carnitine equivalent and calories are withheld. Also declares chromium picolinate compound 200 micrograms, not elemental chromium.",
+        "additionalIngredients": [
+          {
+            "name": "Chromium picolinate compound",
+            "amount": 200,
+            "unit": "µg",
+            "basis": "per two-capsule label serving"
+          }
+        ],
+        "servingGrams": null,
+        "grams": null,
+        "energyPerServing": null,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/2_c93cf7eb-da1f-4b02-bffe-c17dc9dd9244.jpg?v=1780386334"
+        ],
+        "id": "l-carnitine-43297873887345",
+        "price": 85,
+        "currency": "INR",
+        "stock": "Sold out",
+        "url": "https://mycf.in/products/l-carnitine-1000-mg-for-active-lifestyles-training-support?variant=43297873887345"
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 4040,
+      "observation": {
+        "category": "l-carnitine",
+        "offerId": "l-carnitine-43297873887345",
+        "date": "2026-11-19",
+        "price": 85,
+        "currency": "INR",
+        "sourceUrl": "https://mycf.in/products/l-carnitine-1000-mg-for-active-lifestyles-training-support?variant=43297873887345",
+        "evidenceUrl": "https://mycf.in/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "43297873887345",
+        "matchBasis": "Official public Shopify feed fetched 2026-11-19; exact variant ID and unconditional price matched. INR currency confirmed in the live official product HTML. Net pack, serving and ingredient basis use the specific referenced manufacturer label."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 175,
+      "profile": {
+        "category": "l-carnitine",
+        "brand": "Carbamide Forte",
+        "base": "https://mycf.in",
+        "handle": "l-carnitine-1000-mg-for-active-lifestyles-training-support",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-11-19",
+        "variantIds": [
+          "43297873887345"
+        ],
+        "flavour": "Unflavoured",
+        "product": "Carni-Von L-Carnitine L-Tartrate 1000 mg",
+        "form": "Capsule",
+        "type": "L-Carnitine L-tartrate",
+        "subclass": "L-carnitine tartrate with chromium picolinate",
+        "packCount": 10,
+        "servingUnits": 2,
+        "carnitineMg": null,
+        "carnitineCompoundMg": 1000,
+        "declaredNutrients": [
+          "carnitineMg",
+          "carnitineCompoundMg"
+        ],
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/2_c93cf7eb-da1f-4b02-bffe-c17dc9dd9244.jpg?v=1780386334",
+        "basis": "Official 10-capsule pack panel states five servings and two capsules per serving, containing L-carnitine L-tartrate 1000 mg.",
+        "notes": "Sold out at the observed quoted price. The title shortens the material to L-carnitine, while the panel declares tartrate compound. Free-carnitine equivalent and calories are withheld. Also declares chromium picolinate compound 200 micrograms, not elemental chromium.",
+        "additionalIngredients": [
+          {
+            "name": "Chromium picolinate compound",
+            "amount": 200,
+            "unit": "Âµg",
+            "basis": "per two-capsule label serving"
+          }
+        ],
+        "servingGrams": null,
+        "grams": null,
+        "energyPerServing": null,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/2_c93cf7eb-da1f-4b02-bffe-c17dc9dd9244.jpg?v=1780386334"
+        ],
+        "id": "l-carnitine-43297873887345"
+      }
+    }
+  ]
+}

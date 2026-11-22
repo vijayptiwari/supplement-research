@@ -1,0 +1,235 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "AS-IT-IS Nutrition",
+  "product": "AS-IT-IS ONE Soy Protein Isolate",
+  "variants": [
+    {
+      "order": 98,
+      "offer": {
+        "id": 98,
+        "brand": "AS-IT-IS Nutrition",
+        "product": "AS-IT-IS ONE Soy Protein Isolate",
+        "type": "Plant — soy",
+        "flavour": "Unflavoured",
+        "kg": 1,
+        "price": 941,
+        "stock": "In stock",
+        "protein": 85.71428571428571,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Plant isolate",
+        "energy": 377.1428571428571,
+        "url": "https://asitisnutrition.com/products/as-it-is-nutrition-buy-soy-protein-isolate-powder-in-india?variant=7380867317811",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0005/5335/3267/files/AS-IT-IS_ONE_SOY_ISOLATE_RPD_NI_500.jpg?v=1771310168",
+        "basis": "30g protein / 35g serving; product FAQ",
+        "notes": "Brand product-page serving basis; flavour-specific label values may vary. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-matched label kcal per serving / brand serving g × 100",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-buy-soy-protein-isolate-powder-in-india?variant=7380867317811",
+          "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 99,
+      "offer": {
+        "id": 99,
+        "brand": "AS-IT-IS Nutrition",
+        "product": "AS-IT-IS ONE Soy Protein Isolate",
+        "type": "Plant — soy",
+        "flavour": "Unflavoured",
+        "kg": 2,
+        "price": 1720,
+        "stock": "In stock",
+        "protein": 85.71428571428571,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Plant isolate",
+        "energy": 377.1428571428571,
+        "url": "https://asitisnutrition.com/products/as-it-is-nutrition-buy-soy-protein-isolate-powder-in-india?variant=42457839042611",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0005/5335/3267/files/AS-IT-IS_ONE_SOY_ISOLATE_RPD_NI_500.jpg?v=1771310168",
+        "basis": "30g protein / 35g serving; product FAQ",
+        "notes": "Brand product-page serving basis; flavour-specific label values may vary. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-matched label kcal per serving / brand serving g × 100",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-buy-soy-protein-isolate-powder-in-india?variant=42457839042611",
+          "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 330,
+      "observation": {
+        "category": "protein",
+        "offerId": 98,
+        "date": "2025-10-13",
+        "price": 828,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-buy-soy-protein-isolate-powder-in-india?variant=7380867317811",
+        "evidenceUrl": "https://web.archive.org/web/20251013220405id_/https://asitisnutrition.com/products/as-it-is-nutrition-buy-soy-protein-isolate-powder-in-india",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "7380867317811",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 331,
+      "observation": {
+        "category": "protein",
+        "offerId": 99,
+        "date": "2025-10-13",
+        "price": 1518,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-buy-soy-protein-isolate-powder-in-india?variant=42457839042611",
+        "evidenceUrl": "https://web.archive.org/web/20251013220405id_/https://asitisnutrition.com/products/as-it-is-nutrition-buy-soy-protein-isolate-powder-in-india",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42457839042611",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 332,
+      "observation": {
+        "category": "protein",
+        "offerId": 98,
+        "date": "2026-03-12",
+        "price": 941,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-buy-soy-protein-isolate-powder-in-india?variant=7380867317811",
+        "evidenceUrl": "https://web.archive.org/web/20260312151140id_/https://asitisnutrition.com/products/as-it-is-nutrition-buy-soy-protein-isolate-powder-in-india?variant=7380867317811",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "7380867317811",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 333,
+      "observation": {
+        "category": "protein",
+        "offerId": 99,
+        "date": "2026-03-12",
+        "price": 1720,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-buy-soy-protein-isolate-powder-in-india?variant=42457839042611",
+        "evidenceUrl": "https://web.archive.org/web/20260312151140id_/https://asitisnutrition.com/products/as-it-is-nutrition-buy-soy-protein-isolate-powder-in-india?variant=7380867317811",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42457839042611",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 334,
+      "observation": {
+        "category": "protein",
+        "offerId": 98,
+        "date": "2026-08-04",
+        "price": 893,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-buy-soy-protein-isolate-powder-in-india?variant=7380867317811",
+        "evidenceUrl": "https://web.archive.org/web/20260804200859id_/https://asitisnutrition.com/products/as-it-is-nutrition-buy-soy-protein-isolate-powder-in-india?srsltid=AfmBOoqo6e543rpjGYgRwRAm4pTv8MlwTAdHU5XtVQZTYdxKmtfcCrcJ",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "7380867317811",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 335,
+      "observation": {
+        "category": "protein",
+        "offerId": 99,
+        "date": "2026-08-04",
+        "price": 1634,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-buy-soy-protein-isolate-powder-in-india?variant=42457839042611",
+        "evidenceUrl": "https://web.archive.org/web/20260804200859id_/https://asitisnutrition.com/products/as-it-is-nutrition-buy-soy-protein-isolate-powder-in-india?srsltid=AfmBOoqo6e543rpjGYgRwRAm4pTv8MlwTAdHU5XtVQZTYdxKmtfcCrcJ",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42457839042611",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 2287,
+      "observation": {
+        "category": "protein",
+        "offerId": 98,
+        "date": "2026-10-25",
+        "price": 941,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-buy-soy-protein-isolate-powder-in-india?variant=7380867317811",
+        "evidenceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-buy-soy-protein-isolate-powder-in-india.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "7380867317811"
+      }
+    },
+    {
+      "order": 2288,
+      "observation": {
+        "category": "protein",
+        "offerId": 99,
+        "date": "2026-10-25",
+        "price": 1720,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-buy-soy-protein-isolate-powder-in-india?variant=42457839042611",
+        "evidenceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-buy-soy-protein-isolate-powder-in-india.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "42457839042611"
+      }
+    },
+    {
+      "order": 4146,
+      "observation": {
+        "category": "protein",
+        "offerId": 98,
+        "date": "2026-11-19",
+        "price": 941,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-buy-soy-protein-isolate-powder-in-india?variant=7380867317811",
+        "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "7380867317811"
+      }
+    },
+    {
+      "order": 4147,
+      "observation": {
+        "category": "protein",
+        "offerId": 99,
+        "date": "2026-11-19",
+        "price": 1720,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-buy-soy-protein-isolate-powder-in-india?variant=42457839042611",
+        "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "42457839042611"
+      }
+    }
+  ],
+  "refreshSources": []
+}

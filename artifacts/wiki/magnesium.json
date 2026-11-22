@@ -1,0 +1,382 @@
+{
+  "schemaVersion": 1,
+  "order": 5,
+  "category": {
+    "id": "magnesium",
+    "label": "Magnesium",
+    "file": "magnesium.json",
+    "page": "magnesium.html",
+    "measurement": "units",
+    "mainNutrient": "magnesiumMg",
+    "referenceQuantity": 100,
+    "referenceUnit": "mg",
+    "compoundLabel": "elemental magnesium",
+    "nutrientFields": [
+      {
+        "key": "magnesiumMg",
+        "label": "Elemental magnesium",
+        "unit": "mg",
+        "table": true
+      },
+      {
+        "key": "magnesiumCompoundMg",
+        "label": "Magnesium compound (not elemental)",
+        "unit": "mg",
+        "table": false
+      }
+    ],
+    "comparisonNote": "Cost comparisons use explicitly labelled elemental magnesium. Glycinate, citrate and other compound masses are stored separately and are not substituted for elemental content."
+  },
+  "catalog": {
+    "checked": "2026-11-20",
+    "category": "magnesium"
+  },
+  "guide": {
+    "id": "magnesium-guide",
+    "category": "magnesium",
+    "title": "Magnesium: elemental amounts before salt names",
+    "summary": "Glycinate, citrate and oxide describe compounds. Their full mass must not be mistaken for elemental magnesium.",
+    "evidence": "Magnesium is an essential nutrient; the evidence and relevance of supplementation depend on the indication and baseline nutritional status.",
+    "limitations": "Absorption differences between forms do not, by themselves, establish superiority for sleep or athletic recovery. Broad wellness claims need outcome-specific trials.",
+    "catalogReading": "Compare explicitly labelled elemental magnesium per serving. The site keeps compound mass separate and withholds active-content cost when elemental amounts or serving size are unclear.",
+    "safety": "Supplemental magnesium can cause diarrhoea and interact with some medicines. Kidney impairment changes safety considerations; seek individual advice.",
+    "sourceIds": [
+      "mg-overview",
+      "supplement-quality-ods"
+    ],
+    "reviewed": "2026-11-18",
+    "author": "Supplement Research editorial synthesis",
+    "bodySteps": [
+      "A magnesium compound must release magnesium that can be absorbed from the intestine.",
+      "Absorbed magnesium supports enzyme activity, energy metabolism, and normal nerve and muscle function.",
+      "The kidneys help regulate magnesium balance by adjusting excretion."
+    ],
+    "bodySources": [
+      "mg-overview"
+    ],
+    "treatment": "Replacement treats magnesium deficiency when indicated. Some magnesium medicines act as laxatives or antacids; this does not make every supplement a treatment for constipation, insomnia or cramps.",
+    "whoMayBenefit": "People with a diagnosed deficiency or an assessed intake or absorption problem, with attention to kidney function and medicines.",
+    "routineUse": "No universal need for magnesium tablets if intake is adequate. Symptoms such as cramps alone do not establish deficiency.",
+    "sectionSources": [
+      "mg-overview"
+    ],
+    "buyingGuide": {
+      "whoCanConsider": [
+        "Adults with an assessed magnesium shortfall that food changes cannot readily address.",
+        "People with diagnosed deficiency or ongoing losses following a clinician's plan."
+      ],
+      "whoShouldReview": [
+        "Impaired kidney function raises the risk from excess supplemental magnesium.",
+        "Certain antibiotics, oral bisphosphonates, diuretics or long-term acid-suppressing medicines require review."
+      ],
+      "foodSummary": "Magnesium is available across common plant foods; dietary variety can address many intake gaps.",
+      "foods": [
+        {
+          "name": "Pumpkin seeds, roasted",
+          "relationship": "direct",
+          "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": null,
+          "amounts": [
+            {
+              "nutrient": "Magnesium",
+              "min": 156,
+              "max": null,
+              "unit": "mg",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "1 ounce"
+              },
+              "sourceIds": [
+                "mg-overview"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Almonds, dry roasted",
+          "relationship": "direct",
+          "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": null,
+          "amounts": [
+            {
+              "nutrient": "Magnesium",
+              "min": 80,
+              "max": null,
+              "unit": "mg",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "1 ounce"
+              },
+              "sourceIds": [
+                "mg-overview"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Spinach, boiled",
+          "relationship": "direct",
+          "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": null,
+          "amounts": [
+            {
+              "nutrient": "Magnesium",
+              "min": 78,
+              "max": null,
+              "unit": "mg",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "½ cup"
+              },
+              "sourceIds": [
+                "mg-overview"
+              ]
+            }
+          ]
+        }
+      ],
+      "foodSourceIds": [
+        "mg-overview"
+      ],
+      "value": {
+        "routineScore": 2,
+        "targetedScore": 4,
+        "targetedUse": "Addressing an assessed inadequate intake or deficiency with a suitable elemental-magnesium amount.",
+        "reason": "A demonstrated shortfall supports purchase; a salt name alone does not establish a need or sleep benefit.",
+        "worthWhen": [
+          "Food intake and the reason for supplementation are understood.",
+          "Elemental content, tolerability and medicines have been checked."
+        ],
+        "skipWhen": [
+          "Adequate intake is already achieved.",
+          "The only rationale is a promise of better sleep or recovery for everyone."
+        ],
+        "evidence": "strong",
+        "scope": "Assessment concerns meeting magnesium needs; it does not grade sleep claims or certify superiority of a particular salt.",
+        "sourceIds": [
+          "mg-overview"
+        ]
+      },
+      "reviewed": "2026-11-18",
+      "practices": {
+        "dos": [
+          {
+            "title": "Look for elemental magnesium",
+            "detail": "Compare its verified amount per serving, rather than the larger mass of a magnesium salt."
+          },
+          {
+            "title": "Review food and medicines",
+            "detail": "Check the reason for supplementation, existing intake, tolerability and relevant medicine or kidney-health concerns."
+          }
+        ],
+        "donts": [
+          {
+            "title": "Don't infer missing active content",
+            "detail": "An unclear elemental amount or serving size prevents a reliable active-content cost comparison."
+          },
+          {
+            "title": "Don't assume a universal sleep benefit",
+            "detail": "A salt name or an adequate mineral intake does not establish that adding magnesium will improve everyone's sleep."
+          }
+        ],
+        "sourceIds": [
+          "mg-overview"
+        ]
+      }
+    },
+    "intakeGuide": {
+      "kind": "daily-target",
+      "summary": "Meet the age- and sex-specific total dietary reference. A reference intake is not the same as a supplemental dose or deficiency-treatment regimen.",
+      "targets": [
+        {
+          "key": "magnesiumMg",
+          "label": "Elemental magnesium",
+          "min": 400,
+          "max": null,
+          "unit": "mg",
+          "basis": "total-daily",
+          "perKg": false,
+          "profileIds": [
+            "everyday",
+            "general-fitness",
+            "strength-power",
+            "hypertrophy",
+            "endurance",
+            "hybrid"
+          ],
+          "sex": "male",
+          "minAge": 19,
+          "maxAge": 30,
+          "referenceType": "RDA",
+          "notes": "",
+          "sourceIds": [
+            "mg-overview"
+          ]
+        },
+        {
+          "key": "magnesiumMg",
+          "label": "Elemental magnesium",
+          "min": 420,
+          "max": null,
+          "unit": "mg",
+          "basis": "total-daily",
+          "perKg": false,
+          "profileIds": [
+            "everyday",
+            "general-fitness",
+            "strength-power",
+            "hypertrophy",
+            "endurance",
+            "hybrid"
+          ],
+          "sex": "male",
+          "minAge": 31,
+          "maxAge": null,
+          "referenceType": "RDA",
+          "notes": "",
+          "sourceIds": [
+            "mg-overview"
+          ]
+        },
+        {
+          "key": "magnesiumMg",
+          "label": "Elemental magnesium",
+          "min": 310,
+          "max": null,
+          "unit": "mg",
+          "basis": "total-daily",
+          "perKg": false,
+          "profileIds": [
+            "everyday",
+            "general-fitness",
+            "strength-power",
+            "hypertrophy",
+            "endurance",
+            "hybrid"
+          ],
+          "sex": "female",
+          "minAge": 19,
+          "maxAge": 30,
+          "referenceType": "RDA",
+          "notes": "",
+          "sourceIds": [
+            "mg-overview"
+          ]
+        },
+        {
+          "key": "magnesiumMg",
+          "label": "Elemental magnesium",
+          "min": 320,
+          "max": null,
+          "unit": "mg",
+          "basis": "total-daily",
+          "perKg": false,
+          "profileIds": [
+            "everyday",
+            "general-fitness",
+            "strength-power",
+            "hypertrophy",
+            "endurance",
+            "hybrid"
+          ],
+          "sex": "female",
+          "minAge": 31,
+          "maxAge": null,
+          "referenceType": "RDA",
+          "notes": "",
+          "sourceIds": [
+            "mg-overview"
+          ]
+        }
+      ],
+      "limits": [
+        {
+          "key": "magnesiumMg",
+          "label": "Supplemental magnesium UL",
+          "max": 350,
+          "unit": "mg",
+          "basis": "supplement-daily",
+          "minAge": 19,
+          "maxAge": null,
+          "notes": "Includes supplements and medicines; excludes magnesium naturally in food. Kidney disease needs clinical review.",
+          "sourceIds": [
+            "mg-overview"
+          ]
+        }
+      ],
+      "notes": [
+        "No automatic dose increase is assigned for training frequency or experience."
+      ],
+      "sourceIds": [
+        "mg-overview"
+      ],
+      "reviewed": "2026-11-17"
+    },
+    "medicalGuide": {
+      "summary": "Condition-specific evidence, separate from sports benefits and purchase priority.",
+      "conditions": [
+        {
+          "condition": "Magnesium deficiency",
+          "level": "established",
+          "findings": "Replacement corrects deficiency when indicated. Cause, kidney function and formulation influence care.",
+          "limits": "Replacement treats magnesium deficiency when indicated. Some magnesium medicines act as laxatives or antacids; this does not make every supplement a treatment for constipation, insomnia or cramps.",
+          "sourceIds": [
+            "mg-overview"
+          ]
+        },
+        {
+          "condition": "Insomnia, cramps and general fatigue",
+          "level": "insufficient",
+          "findings": "These symptoms are not proof of deficiency and do not establish that a retail magnesium product will treat their cause.",
+          "limits": "Replacement treats magnesium deficiency when indicated. Some magnesium medicines act as laxatives or antacids; this does not make every supplement a treatment for constipation, insomnia or cramps.",
+          "sourceIds": [
+            "mg-overview"
+          ]
+        }
+      ],
+      "reviewed": "2026-11-17"
+    },
+    "pathway": {
+      "title": "An absorbed mineral used by cellular enzymes",
+      "summary": "Magnesium supplies an essential ion for many reactions; it is not an energy source. Kidneys adjust urinary losses to help regulate its balance.",
+      "tracks": [
+        {
+          "label": "Absorption and cellular functions",
+          "steps": [
+            {
+              "label": "Compounds supply absorbable magnesium ions",
+              "detail": "Magnesium from foods and dissolved supplement compounds is absorbed by the intestine; the absorbed fraction varies.",
+              "compartment": "Intestine",
+              "icon": "digest"
+            },
+            {
+              "label": "Magnesium supports cellular enzyme systems",
+              "detail": "Magnesium acts as a cofactor in hundreds of enzyme systems, including those involved in glycolysis and protein synthesis.",
+              "compartment": "Cells",
+              "icon": "molecule"
+            },
+            {
+              "label": "Enzymes and ion transport support function",
+              "detail": "These roles contribute to energy metabolism, nerve signalling and muscle contraction.",
+              "compartment": "Cells / muscle",
+              "icon": "energy"
+            }
+          ]
+        }
+      ],
+      "caveat": "Normal biochemical roles do not establish extra performance or sleep benefits in everyone. Kidney impairment can reduce the ability to clear excess magnesium.",
+      "sourceIds": [
+        "mg-overview"
+      ]
+    }
+  }
+}

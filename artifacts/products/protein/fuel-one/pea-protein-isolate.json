@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "Fuel One",
+  "product": "Pea Protein Isolate",
+  "variants": [
+    {
+      "order": 758,
+      "offer": {
+        "id": 758,
+        "brand": "Fuel One",
+        "product": "Pea Protein Isolate",
+        "type": "Plant — pea",
+        "flavour": "Unflavoured",
+        "kg": 1,
+        "price": 899,
+        "stock": "In stock",
+        "protein": null,
+        "scoop": 33,
+        "serving": 33,
+        "subclass": "Plant isolate",
+        "energy": null,
+        "url": "https://www.fuelone.in/sv/fuel-one-pea-protein-isolate/SP-144903?navKey=VRNT-294909",
+        "nutritionUrl": "https://www.fuelone.in/sv/fuel-one-pea-protein-isolate/SP-144903?navKey=VRNT-294909",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Stock not independently confirmed; offer listed on official page. Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.fuelone.in/sv/fuel-one-pea-protein-isolate/SP-144903?navKey=VRNT-294909",
+          "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-pea-protein-isolate/SP-144903?navKey=VRNT-294909",
+          "matchBasis": "Official selected product schema SKU matches exact navigation key"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 2947,
+      "observation": {
+        "category": "protein",
+        "offerId": 758,
+        "date": "2026-10-25",
+        "price": 899,
+        "currency": "INR",
+        "sourceUrl": "https://www.fuelone.in/sv/fuel-one-pea-protein-isolate/SP-144903?navKey=VRNT-294909",
+        "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-pea-protein-isolate/SP-144903?navKey=VRNT-294909",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "VRNT-294909"
+      }
+    },
+    {
+      "order": 4805,
+      "observation": {
+        "category": "protein",
+        "offerId": 758,
+        "date": "2026-11-19",
+        "price": 899,
+        "currency": "INR",
+        "sourceUrl": "https://www.fuelone.in/sv/fuel-one-pea-protein-isolate/SP-144903?navKey=VRNT-294909",
+        "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-pea-protein-isolate/SP-144903?navKey=VRNT-294909",
+        "kind": "official-live",
+        "matchBasis": "Official selected product schema SKU matches exact navigation key",
+        "variantId": "VRNT-294909"
+      }
+    }
+  ],
+  "refreshSources": []
+}

@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "category": "vitamin-c",
+  "brand": "HealthyHey",
+  "product": "Acerola Cherry Vitamin C",
+  "variants": [
+    {
+      "order": 6,
+      "offer": {
+        "brand": "HealthyHey",
+        "product": "Acerola Cherry Vitamin C",
+        "form": "Capsule",
+        "type": "Ascorbic acid from acerola",
+        "subclass": "Standardized plant source",
+        "servingUnits": 1,
+        "source": "Acerola cherry",
+        "basis": "Current official bottle images identify 60 capsules, serving size one capsule, 260 mg acerola cherry powder supplying 65 mg vitamin C (25%), and 0 kcal per serving.",
+        "notes": "Acerola powder mass is recorded separately in the source and is not counted as vitamin C. Availability is not established by the current product JSON; confirm stock.",
+        "labelChecked": "2026-10-31",
+        "packCount": 60,
+        "vitaminCMg": 65,
+        "energyPerServing": 0,
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-nutrition-capsule-100-natural-acerola-cherry-vitamin-c-supports-immune-health-1211242543.png?v=1780891619",
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-nutrition-capsule-100-natural-acerola-cherry-vitamin-c-supports-immune-health-1231656658.png?v=1780891613",
+          "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-nutrition-capsule-100-natural-acerola-cherry-vitamin-c-supports-immune-health-1211242543.png?v=1780891619"
+        ],
+        "id": "vitamin-c-45315051258141",
+        "price": 709,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://healthyhey.com/products/natural-vitamin-c?variant=45315051258141",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://healthyhey.com/products/natural-vitamin-c?variant=45315051258141",
+          "evidenceUrl": "https://healthyhey.com/products/natural-vitamin-c.json",
+          "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3776,
+      "observation": {
+        "category": "vitamin-c",
+        "offerId": "vitamin-c-45315051258141",
+        "date": "2026-10-31",
+        "price": 630,
+        "currency": "INR",
+        "sourceUrl": "https://healthyhey.com/products/natural-vitamin-c?variant=45315051258141",
+        "evidenceUrl": "https://healthyhey.com/products/natural-vitamin-c.json",
+        "kind": "official-live",
+        "variantId": "45315051258141",
+        "matchBasis": "Official Shopify product JSON exact variant ID; single-pack count verified. Availability separately checked against exact-variant official HTML structured data where available."
+      }
+    },
+    {
+      "order": 3933,
+      "observation": {
+        "category": "vitamin-c",
+        "offerId": "vitamin-c-45315051258141",
+        "date": "2026-11-19",
+        "price": 709,
+        "currency": "INR",
+        "sourceUrl": "https://healthyhey.com/products/natural-vitamin-c?variant=45315051258141",
+        "evidenceUrl": "https://healthyhey.com/products/natural-vitamin-c.json",
+        "kind": "official-live",
+        "variantId": "45315051258141",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 61,
+      "profile": {
+        "category": "vitamin-c",
+        "brand": "HealthyHey",
+        "base": "https://healthyhey.com",
+        "handle": "natural-vitamin-c",
+        "product": "Acerola Cherry Vitamin C",
+        "form": "Capsule",
+        "type": "Ascorbic acid from acerola",
+        "subclass": "Standardized plant source",
+        "servingUnits": 1,
+        "source": "Acerola cherry",
+        "basis": "Current official bottle images identify 60 capsules, serving size one capsule, 260 mg acerola cherry powder supplying 65 mg vitamin C (25%), and 0 kcal per serving.",
+        "notes": "Acerola powder mass is recorded separately in the source and is not counted as vitamin C. Availability is not established by the current product JSON; confirm stock.",
+        "labelChecked": "2026-10-31",
+        "packCount": 60,
+        "vitaminCMg": 65,
+        "energyPerServing": 0,
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-nutrition-capsule-100-natural-acerola-cherry-vitamin-c-supports-immune-health-1211242543.png?v=1780891619",
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-nutrition-capsule-100-natural-acerola-cherry-vitamin-c-supports-immune-health-1231656658.png?v=1780891613",
+          "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-nutrition-capsule-100-natural-acerola-cherry-vitamin-c-supports-immune-health-1211242543.png?v=1780891619"
+        ]
+      }
+    }
+  ]
+}

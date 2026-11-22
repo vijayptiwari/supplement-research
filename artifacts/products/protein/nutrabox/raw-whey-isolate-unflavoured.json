@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "Nutrabox",
+  "product": "Raw Whey Isolate (unflavoured)",
+  "variants": [
+    {
+      "order": 592,
+      "offer": {
+        "id": 592,
+        "brand": "Nutrabox",
+        "product": "Raw Whey Isolate (unflavoured)",
+        "type": "Whey — isolate",
+        "flavour": "Unflavoured",
+        "kg": 1,
+        "price": 5799,
+        "stock": "Sold out",
+        "protein": 89.55223880597015,
+        "scoop": 33.5,
+        "serving": 33.5,
+        "subclass": "Whey isolate",
+        "energy": null,
+        "url": "https://nutrabox.in/products/whey-isolate-protein-powder?variant=44024603902126",
+        "nutritionUrl": "https://nutrabox.in/products/whey-isolate-protein-powder?variant=44024603902126",
+        "basis": "30g protein / 33.5g scoop; brand description",
+        "notes": "Brand product-page serving basis; flavour-specific label values may vary. Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nutrabox.in/products/whey-isolate-protein-powder?variant=44024603902126",
+          "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 2781,
+      "observation": {
+        "category": "protein",
+        "offerId": 592,
+        "date": "2026-10-25",
+        "price": 5799,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/whey-isolate-protein-powder?variant=44024603902126",
+        "evidenceUrl": "https://nutrabox.in/products/whey-isolate-protein-powder.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "44024603902126"
+      }
+    },
+    {
+      "order": 4639,
+      "observation": {
+        "category": "protein",
+        "offerId": 592,
+        "date": "2026-11-19",
+        "price": 5799,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/whey-isolate-protein-powder?variant=44024603902126",
+        "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "44024603902126"
+      }
+    }
+  ],
+  "refreshSources": []
+}

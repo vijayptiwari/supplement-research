@@ -1,0 +1,371 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "The Whole Truth",
+  "product": "The Whole Truth Flavoured Whey Protein",
+  "variants": [
+    {
+      "order": 803,
+      "offer": {
+        "id": 803,
+        "brand": "The Whole Truth",
+        "product": "The Whole Truth Flavoured Whey Protein",
+        "type": "Whey — concentrate",
+        "flavour": "Light Cocoa",
+        "kg": 1,
+        "price": 5399,
+        "stock": "In stock",
+        "protein": 72.72727272727273,
+        "scoop": 33,
+        "serving": 33,
+        "subclass": "Whey concentrate",
+        "energy": 395,
+        "url": "https://thewholetruthfoods.com/products/light-cocoa-24g-whey-protein-isolate-concentrate?sku_id=38730403",
+        "nutritionUrl": "https://thewholetruthfoods.com/products/light-cocoa-24g-protein-powder",
+        "basis": "24g protein / 33g serving; brand product instructions",
+        "notes": "Made with pure single-origin cocoa and raw whey. Clean label with zero artificial flavours.",
+        "energyBasis": "Brand official label / serving instructions",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://thewholetruthfoods.com/products/light-cocoa-24g-whey-protein-isolate-concentrate?sku_id=38730403",
+          "evidenceUrl": "https://thewholetruthfoods.com/llmFeed.json",
+          "matchBasis": "Official public feed exact product family, flavour, retail pack and SKU"
+        }
+      }
+    },
+    {
+      "order": 804,
+      "offer": {
+        "id": 804,
+        "brand": "The Whole Truth",
+        "product": "The Whole Truth Flavoured Whey Protein",
+        "type": "Whey — concentrate",
+        "flavour": "Light Cocoa",
+        "kg": 2,
+        "price": 10798,
+        "stock": "In stock",
+        "protein": 72.72727272727273,
+        "scoop": 33,
+        "serving": 33,
+        "subclass": "Whey concentrate",
+        "energy": 395,
+        "url": "https://thewholetruthfoods.com/products/light-cocoa-24g-whey-protein-isolate-concentrate?sku_id=38730404",
+        "nutritionUrl": "https://thewholetruthfoods.com/products/light-cocoa-24g-protein-powder",
+        "basis": "24g protein / 33g serving; brand product instructions",
+        "notes": "Made with pure single-origin cocoa and raw whey. Clean label with zero artificial flavours.",
+        "energyBasis": "Brand official label / serving instructions",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://thewholetruthfoods.com/products/light-cocoa-24g-whey-protein-isolate-concentrate?sku_id=38730404",
+          "evidenceUrl": "https://thewholetruthfoods.com/llmFeed.json",
+          "matchBasis": "Official public feed exact product family, flavour, retail pack and SKU"
+        }
+      }
+    },
+    {
+      "order": 805,
+      "offer": {
+        "id": 805,
+        "brand": "The Whole Truth",
+        "product": "The Whole Truth Flavoured Whey Protein",
+        "type": "Whey — concentrate",
+        "flavour": "Cold Coffee",
+        "kg": 1,
+        "price": 5399,
+        "stock": "In stock",
+        "protein": 72.72727272727273,
+        "scoop": 33,
+        "serving": 33,
+        "subclass": "Whey concentrate",
+        "energy": 395,
+        "url": "https://thewholetruthfoods.com/products/cold-coffee-24g-whey-protein-isolate-concentrate?sku_id=38730405",
+        "nutritionUrl": "https://thewholetruthfoods.com/products/cold-coffee-24g-protein-powder",
+        "basis": "24g protein / 33g serving; brand product instructions",
+        "notes": "Crafted with 100% Arabica instant coffee and real milk solids. Zero added artificial sweeteners.",
+        "energyBasis": "Brand official label / serving instructions",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://thewholetruthfoods.com/products/cold-coffee-24g-whey-protein-isolate-concentrate?sku_id=38730405",
+          "evidenceUrl": "https://thewholetruthfoods.com/llmFeed.json",
+          "matchBasis": "Official public feed exact product family, flavour, retail pack and SKU"
+        }
+      }
+    },
+    {
+      "order": 806,
+      "offer": {
+        "id": 806,
+        "brand": "The Whole Truth",
+        "product": "The Whole Truth Flavoured Whey Protein",
+        "type": "Whey — concentrate",
+        "flavour": "Cold Coffee",
+        "kg": 2,
+        "price": 10798,
+        "stock": "In stock",
+        "protein": 72.72727272727273,
+        "scoop": 33,
+        "serving": 33,
+        "subclass": "Whey concentrate",
+        "energy": 395,
+        "url": "https://thewholetruthfoods.com/products/cold-coffee-24g-whey-protein-isolate-concentrate?sku_id=38770086",
+        "nutritionUrl": "https://thewholetruthfoods.com/products/cold-coffee-24g-protein-powder",
+        "basis": "24g protein / 33g serving; brand product instructions",
+        "notes": "Crafted with 100% Arabica instant coffee and real milk solids. Zero added artificial sweeteners.",
+        "energyBasis": "Brand official label / serving instructions",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://thewholetruthfoods.com/products/cold-coffee-24g-whey-protein-isolate-concentrate?sku_id=38770086",
+          "evidenceUrl": "https://thewholetruthfoods.com/llmFeed.json",
+          "matchBasis": "Official public feed exact product family, flavour, retail pack and SKU"
+        }
+      }
+    },
+    {
+      "order": 807,
+      "offer": {
+        "id": 807,
+        "brand": "The Whole Truth",
+        "product": "The Whole Truth Flavoured Whey Protein",
+        "type": "Whey — concentrate",
+        "flavour": "Pista Badaam",
+        "kg": 1,
+        "price": 5999,
+        "stock": "In stock",
+        "protein": 72.72727272727273,
+        "scoop": 33,
+        "serving": 33,
+        "subclass": "Whey concentrate",
+        "energy": 395,
+        "url": "https://thewholetruthfoods.com/products/pista-badaam-24g-protein-powder?sku_id=38763292",
+        "nutritionUrl": "https://thewholetruthfoods.com/products/pista-badaam-24g-protein-powder",
+        "basis": "24g protein / 33g serving; brand product instructions",
+        "notes": "Real crushed Californian almonds and Iranian pistachios. 100% natural formulation.",
+        "energyBasis": "Brand official label / serving instructions",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://thewholetruthfoods.com/products/pista-badaam-24g-protein-powder?sku_id=38763292",
+          "evidenceUrl": "https://thewholetruthfoods.com/llmFeed.json",
+          "matchBasis": "Official public feed exact product family, flavour, retail pack and SKU"
+        }
+      }
+    },
+    {
+      "order": 808,
+      "offer": {
+        "id": 808,
+        "brand": "The Whole Truth",
+        "product": "The Whole Truth Flavoured Whey Protein",
+        "type": "Whey — concentrate",
+        "flavour": "Pista Badaam",
+        "kg": 2,
+        "price": 11998,
+        "stock": "In stock",
+        "protein": 72.72727272727273,
+        "scoop": 33,
+        "serving": 33,
+        "subclass": "Whey concentrate",
+        "energy": 395,
+        "url": "https://thewholetruthfoods.com/products/pista-badaam-24g-protein-powder?sku_id=38763291",
+        "nutritionUrl": "https://thewholetruthfoods.com/products/pista-badaam-24g-protein-powder",
+        "basis": "24g protein / 33g serving; brand product instructions",
+        "notes": "Real crushed Californian almonds and Iranian pistachios. 100% natural formulation.",
+        "energyBasis": "Brand official label / serving instructions",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://thewholetruthfoods.com/products/pista-badaam-24g-protein-powder?sku_id=38763291",
+          "evidenceUrl": "https://thewholetruthfoods.com/llmFeed.json",
+          "matchBasis": "Official public feed exact product family, flavour, retail pack and SKU"
+        }
+      }
+    },
+    {
+      "order": 809,
+      "offer": {
+        "id": 809,
+        "brand": "The Whole Truth",
+        "product": "The Whole Truth Flavoured Whey Protein",
+        "type": "Whey — concentrate",
+        "flavour": "Mango Milkshake",
+        "kg": 1,
+        "price": 6399,
+        "stock": "In stock",
+        "protein": 72.72727272727273,
+        "scoop": 33,
+        "serving": 33,
+        "subclass": "Whey concentrate",
+        "energy": 395,
+        "url": "https://thewholetruthfoods.com/products/mango-milkshake-24g-protein-powder?sku_id=38757612",
+        "nutritionUrl": "https://thewholetruthfoods.com/products/mango-milkshake-24g-protein-powder",
+        "basis": "24g protein / 33g serving; brand product instructions",
+        "notes": "Real Alphonso mango pulp powder paired with premium unadulterated whey concentrate.",
+        "energyBasis": "Brand official label / serving instructions",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://thewholetruthfoods.com/products/mango-milkshake-24g-protein-powder?sku_id=38757612",
+          "evidenceUrl": "https://thewholetruthfoods.com/llmFeed.json",
+          "matchBasis": "Official public feed exact product family, flavour, retail pack and SKU"
+        }
+      }
+    },
+    {
+      "order": 810,
+      "offer": {
+        "id": 810,
+        "brand": "The Whole Truth",
+        "product": "The Whole Truth Flavoured Whey Protein",
+        "type": "Whey — concentrate",
+        "flavour": "Strawberry Shake",
+        "kg": 1,
+        "price": 6399,
+        "stock": "In stock",
+        "protein": 72.72727272727273,
+        "scoop": 33,
+        "serving": 33,
+        "subclass": "Whey concentrate",
+        "energy": 395,
+        "url": "https://thewholetruthfoods.com/products/strawberry-milkshake-24g-protein-powder?sku_id=38764436",
+        "nutritionUrl": "https://thewholetruthfoods.com/products/strawberry-shake-24g-protein-powder",
+        "basis": "24g protein / 33g serving; brand product instructions",
+        "notes": "Real dried strawberries blended with pure whey concentrate. Zero chemical additives.",
+        "energyBasis": "Brand official label / serving instructions",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://thewholetruthfoods.com/products/strawberry-milkshake-24g-protein-powder?sku_id=38764436",
+          "evidenceUrl": "https://thewholetruthfoods.com/llmFeed.json",
+          "matchBasis": "Official public feed exact product family, flavour, retail pack and SKU"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5052,
+      "observation": {
+        "category": "protein",
+        "offerId": 803,
+        "date": "2026-11-19",
+        "price": 5399,
+        "currency": "INR",
+        "sourceUrl": "https://thewholetruthfoods.com/products/light-cocoa-24g-whey-protein-isolate-concentrate?sku_id=38730403",
+        "evidenceUrl": "https://thewholetruthfoods.com/llmFeed.json",
+        "kind": "official-live",
+        "matchBasis": "Official public feed exact product family, flavour, retail pack and SKU",
+        "variantId": "PLC1000_5399"
+      }
+    },
+    {
+      "order": 5053,
+      "observation": {
+        "category": "protein",
+        "offerId": 804,
+        "date": "2026-11-19",
+        "price": 10798,
+        "currency": "INR",
+        "sourceUrl": "https://thewholetruthfoods.com/products/light-cocoa-24g-whey-protein-isolate-concentrate?sku_id=38730404",
+        "evidenceUrl": "https://thewholetruthfoods.com/llmFeed.json",
+        "kind": "official-live",
+        "matchBasis": "Official public feed exact product family, flavour, retail pack and SKU",
+        "variantId": "F2620061"
+      }
+    },
+    {
+      "order": 5054,
+      "observation": {
+        "category": "protein",
+        "offerId": 805,
+        "date": "2026-11-19",
+        "price": 5399,
+        "currency": "INR",
+        "sourceUrl": "https://thewholetruthfoods.com/products/cold-coffee-24g-whey-protein-isolate-concentrate?sku_id=38730405",
+        "evidenceUrl": "https://thewholetruthfoods.com/llmFeed.json",
+        "kind": "official-live",
+        "matchBasis": "Official public feed exact product family, flavour, retail pack and SKU",
+        "variantId": "PCC1000_5399"
+      }
+    },
+    {
+      "order": 5055,
+      "observation": {
+        "category": "protein",
+        "offerId": 806,
+        "date": "2026-11-19",
+        "price": 10798,
+        "currency": "INR",
+        "sourceUrl": "https://thewholetruthfoods.com/products/cold-coffee-24g-whey-protein-isolate-concentrate?sku_id=38770086",
+        "evidenceUrl": "https://thewholetruthfoods.com/llmFeed.json",
+        "kind": "official-live",
+        "matchBasis": "Official public feed exact product family, flavour, retail pack and SKU",
+        "variantId": "F2620062"
+      }
+    },
+    {
+      "order": 5056,
+      "observation": {
+        "category": "protein",
+        "offerId": 807,
+        "date": "2026-11-19",
+        "price": 5999,
+        "currency": "INR",
+        "sourceUrl": "https://thewholetruthfoods.com/products/pista-badaam-24g-protein-powder?sku_id=38763292",
+        "evidenceUrl": "https://thewholetruthfoods.com/llmFeed.json",
+        "kind": "official-live",
+        "matchBasis": "Official public feed exact product family, flavour, retail pack and SKU",
+        "variantId": "PPB1000_5999"
+      }
+    },
+    {
+      "order": 5057,
+      "observation": {
+        "category": "protein",
+        "offerId": 808,
+        "date": "2026-11-19",
+        "price": 11998,
+        "currency": "INR",
+        "sourceUrl": "https://thewholetruthfoods.com/products/pista-badaam-24g-protein-powder?sku_id=38763291",
+        "evidenceUrl": "https://thewholetruthfoods.com/llmFeed.json",
+        "kind": "official-live",
+        "matchBasis": "Official public feed exact product family, flavour, retail pack and SKU",
+        "variantId": "F2620065"
+      }
+    },
+    {
+      "order": 5058,
+      "observation": {
+        "category": "protein",
+        "offerId": 809,
+        "date": "2026-11-19",
+        "price": 6399,
+        "currency": "INR",
+        "sourceUrl": "https://thewholetruthfoods.com/products/mango-milkshake-24g-protein-powder?sku_id=38757612",
+        "evidenceUrl": "https://thewholetruthfoods.com/llmFeed.json",
+        "kind": "official-live",
+        "matchBasis": "Official public feed exact product family, flavour, retail pack and SKU",
+        "variantId": "PMM1000_6399"
+      }
+    },
+    {
+      "order": 5059,
+      "observation": {
+        "category": "protein",
+        "offerId": 810,
+        "date": "2026-11-19",
+        "price": 6399,
+        "currency": "INR",
+        "sourceUrl": "https://thewholetruthfoods.com/products/strawberry-milkshake-24g-protein-powder?sku_id=38764436",
+        "evidenceUrl": "https://thewholetruthfoods.com/llmFeed.json",
+        "kind": "official-live",
+        "matchBasis": "Official public feed exact product family, flavour, retail pack and SKU",
+        "variantId": "PSS1000_6399"
+      }
+    }
+  ],
+  "refreshSources": []
+}

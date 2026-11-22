@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "category": "ashwagandha",
+  "brand": "Himalaya",
+  "product": "Ashwagandha",
+  "variants": [
+    {
+      "order": 0,
+      "offer": {
+        "brand": "Himalaya",
+        "product": "Ashwagandha",
+        "form": "Tablet",
+        "type": "Root extract",
+        "subclass": "Single herb",
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official composition: each tablet contains 250 mg Withania somnifera root extract. Dry-root equivalent is not treated as extract mass.",
+        "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities.",
+        "ashwagandhaMg": 250,
+        "id": "ashwagandha-30300858941539",
+        "packCount": 60,
+        "price": 260,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://himalayawellness.in/products/ashwagandha?variant=30300858941539",
+        "nutritionUrl": "https://himalayawellness.in/products/ashwagandha",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-10-29",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://himalayawellness.in/products/ashwagandha?variant=30300858941539",
+          "evidenceUrl": "https://himalayawellness.in/products/ashwagandha.json",
+          "matchBasis": "Official public Shopify product; exact variant ID 30300858941539 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+        }
+      }
+    },
+    {
+      "order": 1,
+      "offer": {
+        "brand": "Himalaya",
+        "product": "Ashwagandha",
+        "form": "Tablet",
+        "type": "Root extract",
+        "subclass": "Single herb",
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official composition: each tablet contains 250 mg Withania somnifera root extract. Dry-root equivalent is not treated as extract mass.",
+        "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities.",
+        "ashwagandhaMg": 250,
+        "id": "ashwagandha-40732674556003",
+        "packCount": 120,
+        "price": 480,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://himalayawellness.in/products/ashwagandha?variant=40732674556003",
+        "nutritionUrl": "https://himalayawellness.in/products/ashwagandha",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-10-29",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://himalayawellness.in/products/ashwagandha?variant=40732674556003",
+          "evidenceUrl": "https://himalayawellness.in/products/ashwagandha.json",
+          "matchBasis": "Official public Shopify product; exact variant ID 40732674556003 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3695,
+      "observation": {
+        "category": "ashwagandha",
+        "offerId": "ashwagandha-30300858941539",
+        "date": "2026-10-29",
+        "price": 260,
+        "currency": "INR",
+        "sourceUrl": "https://himalayawellness.in/products/ashwagandha?variant=30300858941539",
+        "evidenceUrl": "https://himalayawellness.in/products/ashwagandha.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "30300858941539"
+      }
+    },
+    {
+      "order": 3696,
+      "observation": {
+        "category": "ashwagandha",
+        "offerId": "ashwagandha-40732674556003",
+        "date": "2026-10-29",
+        "price": 480,
+        "currency": "INR",
+        "sourceUrl": "https://himalayawellness.in/products/ashwagandha?variant=40732674556003",
+        "evidenceUrl": "https://himalayawellness.in/products/ashwagandha.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "40732674556003"
+      }
+    },
+    {
+      "order": 3844,
+      "observation": {
+        "category": "ashwagandha",
+        "offerId": "ashwagandha-30300858941539",
+        "date": "2026-11-19",
+        "price": 260,
+        "currency": "INR",
+        "sourceUrl": "https://himalayawellness.in/products/ashwagandha?variant=30300858941539",
+        "evidenceUrl": "https://himalayawellness.in/products/ashwagandha.json",
+        "kind": "official-live",
+        "variantId": "30300858941539",
+        "matchBasis": "Official public Shopify product; exact variant ID 30300858941539 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+      }
+    },
+    {
+      "order": 3845,
+      "observation": {
+        "category": "ashwagandha",
+        "offerId": "ashwagandha-40732674556003",
+        "date": "2026-11-19",
+        "price": 480,
+        "currency": "INR",
+        "sourceUrl": "https://himalayawellness.in/products/ashwagandha?variant=40732674556003",
+        "evidenceUrl": "https://himalayawellness.in/products/ashwagandha.json",
+        "kind": "official-live",
+        "variantId": "40732674556003",
+        "matchBasis": "Official public Shopify product; exact variant ID 40732674556003 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 0,
+      "profile": {
+        "category": "ashwagandha",
+        "brand": "Himalaya",
+        "base": "https://himalayawellness.in",
+        "handle": "ashwagandha",
+        "product": "Ashwagandha",
+        "form": "Tablet",
+        "type": "Root extract",
+        "subclass": "Single herb",
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official composition: each tablet contains 250 mg Withania somnifera root extract. Dry-root equivalent is not treated as extract mass.",
+        "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities.",
+        "ashwagandhaMg": 250
+      }
+    }
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "Avvatar",
+  "product": "Nitro Iso Whey",
+  "variants": [
+    {
+      "order": 133,
+      "offer": {
+        "id": 133,
+        "brand": "Avvatar",
+        "product": "Nitro Iso Whey",
+        "type": "Whey — blend",
+        "flavour": "Belgian Chocolate",
+        "kg": 2,
+        "price": 9098,
+        "stock": "Listed; confirm stock",
+        "protein": 70,
+        "scoop": 40,
+        "serving": 40,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://www.avvatarindia.com/product/nitro-iso-whey-belgian-chocolate-flavour-2-kg",
+        "nutritionUrl": "https://www.avvatarindia.com/product/nitro-iso-whey-belgian-chocolate-flavour-2-kg",
+        "basis": "28g protein / 40g scoop; exact product page",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.avvatarindia.com/product/nitro-iso-whey-belgian-chocolate-flavour-2-kg",
+          "evidenceUrl": "https://www.avvatarindia.com/product/nitro-iso-whey-belgian-chocolate-flavour-2-kg",
+          "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+        }
+      }
+    },
+    {
+      "order": 134,
+      "offer": {
+        "id": 134,
+        "brand": "Avvatar",
+        "product": "Nitro Iso Whey",
+        "type": "Whey — blend",
+        "flavour": "Malai Kulfi",
+        "kg": 2,
+        "price": 9098,
+        "stock": "Listed; confirm stock",
+        "protein": 71.25,
+        "scoop": 40,
+        "serving": 40,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://www.avvatarindia.com/product/nitro-iso-whey-malai-kulfi-flavour-2-kg",
+        "nutritionUrl": "https://www.avvatarindia.com/product/nitro-iso-whey-malai-kulfi-flavour-2-kg",
+        "basis": "28.5g protein / 40g scoop; exact product page",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.avvatarindia.com/product/nitro-iso-whey-malai-kulfi-flavour-2-kg",
+          "evidenceUrl": "https://www.avvatarindia.com/product/nitro-iso-whey-malai-kulfi-flavour-2-kg",
+          "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 406,
+      "observation": {
+        "category": "protein",
+        "offerId": 133,
+        "date": "2024-06-15",
+        "price": 5299,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/nitro-iso-whey-belgian-chocolate-flavour-2-kg",
+        "evidenceUrl": "https://web.archive.org/web/20240615100444id_/https://www.avvatarindia.com/product/nitro-iso-whey-belgian-chocolate-flavour-2-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 407,
+      "observation": {
+        "category": "protein",
+        "offerId": 133,
+        "date": "2024-10-07",
+        "price": 5699,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/nitro-iso-whey-belgian-chocolate-flavour-2-kg",
+        "evidenceUrl": "https://web.archive.org/web/20241007140850id_/https://www.avvatarindia.com/product/nitro-iso-whey-belgian-chocolate-flavour-2-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 408,
+      "observation": {
+        "category": "protein",
+        "offerId": 133,
+        "date": "2025-02-08",
+        "price": 5699,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/nitro-iso-whey-belgian-chocolate-flavour-2-kg",
+        "evidenceUrl": "https://web.archive.org/web/20250208124256id_/https://www.avvatarindia.com/product/nitro-iso-whey-belgian-chocolate-flavour-2-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 409,
+      "observation": {
+        "category": "protein",
+        "offerId": 133,
+        "date": "2025-05-16",
+        "price": 5699,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/nitro-iso-whey-belgian-chocolate-flavour-2-kg",
+        "evidenceUrl": "https://web.archive.org/web/20250516171933id_/https://www.avvatarindia.com/product/nitro-iso-whey-belgian-chocolate-flavour-2-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 410,
+      "observation": {
+        "category": "protein",
+        "offerId": 133,
+        "date": "2025-08-08",
+        "price": 6199,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/nitro-iso-whey-belgian-chocolate-flavour-2-kg",
+        "evidenceUrl": "https://web.archive.org/web/20250808132753id_/https://www.avvatarindia.com/product/nitro-iso-whey-belgian-chocolate-flavour-2-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 411,
+      "observation": {
+        "category": "protein",
+        "offerId": 133,
+        "date": "2025-10-14",
+        "price": 5516,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/nitro-iso-whey-belgian-chocolate-flavour-2-kg",
+        "evidenceUrl": "https://web.archive.org/web/20251014034140id_/https://www.avvatarindia.com/product/nitro-iso-whey-belgian-chocolate-flavour-2-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 412,
+      "observation": {
+        "category": "protein",
+        "offerId": 134,
+        "date": "2023-12-06",
+        "price": 4949,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/nitro-iso-whey-malai-kulfi-flavour-2-kg",
+        "evidenceUrl": "https://web.archive.org/web/20231206145036id_/https://avvatarindia.com/product/nitro-iso-whey-malai-kulfi-flavour-2-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 413,
+      "observation": {
+        "category": "protein",
+        "offerId": 134,
+        "date": "2024-06-15",
+        "price": 5299,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/nitro-iso-whey-malai-kulfi-flavour-2-kg",
+        "evidenceUrl": "https://web.archive.org/web/20240615113334/https://www.avvatarindia.com/product/nitro-iso-whey-malai-kulfi-flavour-2-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 414,
+      "observation": {
+        "category": "protein",
+        "offerId": 134,
+        "date": "2024-11-09",
+        "price": 5699,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/nitro-iso-whey-malai-kulfi-flavour-2-kg",
+        "evidenceUrl": "https://web.archive.org/web/20241109162615id_/https://www.avvatarindia.com/product/nitro-iso-whey-malai-kulfi-flavour-2-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 415,
+      "observation": {
+        "category": "protein",
+        "offerId": 134,
+        "date": "2025-04-29",
+        "price": 5129,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/nitro-iso-whey-malai-kulfi-flavour-2-kg",
+        "evidenceUrl": "https://web.archive.org/web/20250429043818/https://www.avvatarindia.com/product/nitro-iso-whey-malai-kulfi-flavour-2-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2322,
+      "observation": {
+        "category": "protein",
+        "offerId": 133,
+        "date": "2026-10-25",
+        "price": 7499,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/nitro-iso-whey-belgian-chocolate-flavour-2-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/nitro-iso-whey-belgian-chocolate-flavour-2-kg",
+        "kind": "official-live",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null
+      }
+    },
+    {
+      "order": 2323,
+      "observation": {
+        "category": "protein",
+        "offerId": 134,
+        "date": "2026-10-25",
+        "price": 7119,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/nitro-iso-whey-malai-kulfi-flavour-2-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/nitro-iso-whey-malai-kulfi-flavour-2-kg",
+        "kind": "official-live",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null
+      }
+    },
+    {
+      "order": 4181,
+      "observation": {
+        "category": "protein",
+        "offerId": 133,
+        "date": "2026-11-19",
+        "price": 9098,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/nitro-iso-whey-belgian-chocolate-flavour-2-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/nitro-iso-whey-belgian-chocolate-flavour-2-kg",
+        "kind": "official-live",
+        "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+      }
+    },
+    {
+      "order": 4182,
+      "observation": {
+        "category": "protein",
+        "offerId": 134,
+        "date": "2026-11-19",
+        "price": 9098,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/nitro-iso-whey-malai-kulfi-flavour-2-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/nitro-iso-whey-malai-kulfi-flavour-2-kg",
+        "kind": "official-live",
+        "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+      }
+    }
+  ],
+  "refreshSources": []
+}

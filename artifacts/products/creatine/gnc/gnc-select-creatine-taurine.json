@@ -1,0 +1,275 @@
+{
+  "schemaVersion": 1,
+  "category": "creatine",
+  "brand": "GNC",
+  "product": "GNC Select Creatine & Taurine",
+  "variants": [
+    {
+      "order": 99,
+      "offer": {
+        "id": "cr-99",
+        "brand": "GNC",
+        "product": "GNC Select Creatine & Taurine",
+        "type": "Monohydrate",
+        "subclass": "Not specified",
+        "grade": "Not specified",
+        "formulation": "With taurine",
+        "packaging": "Standard pack",
+        "flavour": "Orange",
+        "grams": 100,
+        "kg": 0.1,
+        "price": 349,
+        "stock": "Sold out",
+        "creatine": null,
+        "scoop": null,
+        "serving": null,
+        "creatineServing": null,
+        "energy": null,
+        "url": "https://gnc.in/products/gnc-select-creatine-taurine?variant=51993865912551",
+        "nutritionUrl": "https://gnc.in/products/gnc-select-creatine-taurine?variant=51993865912551",
+        "basis": "Creatine compound concentration not verified; compound cost omitted.",
+        "notes": "Canonical family page includes an unflavoured table; not applied to flavoured variants.",
+        "energyBasis": "",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://gnc.in/products/gnc-select-creatine-taurine?variant=51993865912551",
+          "evidenceUrl": "https://gnc.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 100,
+      "offer": {
+        "id": "cr-100",
+        "brand": "GNC",
+        "product": "GNC Select Creatine & Taurine",
+        "type": "Monohydrate",
+        "subclass": "Not specified",
+        "grade": "Not specified",
+        "formulation": "With taurine",
+        "packaging": "Standard pack",
+        "flavour": "Orange",
+        "grams": 250,
+        "kg": 0.25,
+        "price": 749,
+        "stock": "Sold out",
+        "creatine": null,
+        "scoop": null,
+        "serving": null,
+        "creatineServing": null,
+        "energy": null,
+        "url": "https://gnc.in/products/gnc-select-creatine-taurine?variant=51993865978087",
+        "nutritionUrl": "https://gnc.in/products/gnc-select-creatine-taurine?variant=51993865978087",
+        "basis": "Creatine compound concentration not verified; compound cost omitted.",
+        "notes": "Canonical family page includes an unflavoured table; not applied to flavoured variants.",
+        "energyBasis": "",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://gnc.in/products/gnc-select-creatine-taurine?variant=51993865978087",
+          "evidenceUrl": "https://gnc.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 101,
+      "offer": {
+        "id": "cr-101",
+        "brand": "GNC",
+        "product": "GNC Select Creatine & Taurine",
+        "type": "Monohydrate",
+        "subclass": "Not specified",
+        "grade": "Not specified",
+        "formulation": "With taurine",
+        "packaging": "Standard pack",
+        "flavour": "Unflavoured",
+        "grams": 100,
+        "kg": 0.1,
+        "price": 349,
+        "stock": "Sold out",
+        "creatine": null,
+        "scoop": null,
+        "serving": null,
+        "creatineServing": null,
+        "energy": null,
+        "url": "https://gnc.in/products/gnc-select-creatine-taurine?variant=51993865879783",
+        "nutritionUrl": "https://gnc.in/products/gnc-select-creatine-taurine?variant=51993865879783",
+        "basis": "Creatine compound concentration not verified; compound cost omitted.",
+        "notes": "",
+        "energyBasis": "",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://gnc.in/products/gnc-select-creatine-taurine?variant=51993865879783",
+          "evidenceUrl": "https://gnc.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 102,
+      "offer": {
+        "id": "cr-102",
+        "brand": "GNC",
+        "product": "GNC Select Creatine & Taurine",
+        "type": "Monohydrate",
+        "subclass": "Not specified",
+        "grade": "Not specified",
+        "formulation": "With taurine",
+        "packaging": "Standard pack",
+        "flavour": "Unflavoured",
+        "grams": 250,
+        "kg": 0.25,
+        "price": 749,
+        "stock": "Sold out",
+        "creatine": null,
+        "scoop": null,
+        "serving": null,
+        "creatineServing": null,
+        "energy": null,
+        "url": "https://gnc.in/products/gnc-select-creatine-taurine?variant=51993865945319",
+        "nutritionUrl": "https://gnc.in/products/gnc-select-creatine-taurine?variant=51993865945319",
+        "basis": "Creatine compound concentration not verified; compound cost omitted.",
+        "notes": "",
+        "energyBasis": "",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://gnc.in/products/gnc-select-creatine-taurine?variant=51993865945319",
+          "evidenceUrl": "https://gnc.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3092,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-99",
+        "date": "2026-10-25",
+        "price": 349,
+        "currency": "INR",
+        "sourceUrl": "https://gnc.in/products/gnc-select-creatine-taurine?variant=51993865912551",
+        "evidenceUrl": "https://gnc.in/products/gnc-select-creatine-taurine.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "51993865912551"
+      }
+    },
+    {
+      "order": 3093,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-100",
+        "date": "2026-10-25",
+        "price": 749,
+        "currency": "INR",
+        "sourceUrl": "https://gnc.in/products/gnc-select-creatine-taurine?variant=51993865978087",
+        "evidenceUrl": "https://gnc.in/products/gnc-select-creatine-taurine.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "51993865978087"
+      }
+    },
+    {
+      "order": 3094,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-101",
+        "date": "2026-10-25",
+        "price": 349,
+        "currency": "INR",
+        "sourceUrl": "https://gnc.in/products/gnc-select-creatine-taurine?variant=51993865879783",
+        "evidenceUrl": "https://gnc.in/products/gnc-select-creatine-taurine.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "51993865879783"
+      }
+    },
+    {
+      "order": 3095,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-102",
+        "date": "2026-10-25",
+        "price": 749,
+        "currency": "INR",
+        "sourceUrl": "https://gnc.in/products/gnc-select-creatine-taurine?variant=51993865945319",
+        "evidenceUrl": "https://gnc.in/products/gnc-select-creatine-taurine.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "51993865945319"
+      }
+    },
+    {
+      "order": 4952,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-99",
+        "date": "2026-11-19",
+        "price": 349,
+        "currency": "INR",
+        "sourceUrl": "https://gnc.in/products/gnc-select-creatine-taurine?variant=51993865912551",
+        "evidenceUrl": "https://gnc.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "51993865912551"
+      }
+    },
+    {
+      "order": 4953,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-100",
+        "date": "2026-11-19",
+        "price": 749,
+        "currency": "INR",
+        "sourceUrl": "https://gnc.in/products/gnc-select-creatine-taurine?variant=51993865978087",
+        "evidenceUrl": "https://gnc.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "51993865978087"
+      }
+    },
+    {
+      "order": 4954,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-101",
+        "date": "2026-11-19",
+        "price": 349,
+        "currency": "INR",
+        "sourceUrl": "https://gnc.in/products/gnc-select-creatine-taurine?variant=51993865879783",
+        "evidenceUrl": "https://gnc.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "51993865879783"
+      }
+    },
+    {
+      "order": 4955,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-102",
+        "date": "2026-11-19",
+        "price": 749,
+        "currency": "INR",
+        "sourceUrl": "https://gnc.in/products/gnc-select-creatine-taurine?variant=51993865945319",
+        "evidenceUrl": "https://gnc.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "51993865945319"
+      }
+    }
+  ],
+  "refreshSources": []
+}

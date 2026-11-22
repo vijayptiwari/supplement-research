@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "Muscle Nectar",
+  "product": "Muscle Nectar Plant Protein - 24g Protein with Digestive Enzymes",
+  "variants": [
+    {
+      "order": 185,
+      "offer": {
+        "id": 185,
+        "brand": "Muscle Nectar",
+        "product": "Muscle Nectar Plant Protein - 24g Protein with Digestive Enzymes",
+        "type": "Plant",
+        "flavour": "Chocolate",
+        "kg": 1,
+        "price": 1199,
+        "stock": "Sold out",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Plant concentrate / powder",
+        "energy": null,
+        "url": "https://musclenectar.com/products/plant-protein-24g-protein-with-digestive-enzymes?variant=67604510507234",
+        "nutritionUrl": "https://musclenectar.com/products/plant-protein-24g-protein-with-digestive-enzymes?variant=67604510507234",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://musclenectar.com/products/plant-protein-24g-protein-with-digestive-enzymes?variant=67604510507234",
+          "evidenceUrl": "https://musclenectar.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 186,
+      "offer": {
+        "id": 186,
+        "brand": "Muscle Nectar",
+        "product": "Muscle Nectar Plant Protein - 24g Protein with Digestive Enzymes",
+        "type": "Plant",
+        "flavour": "Coffee",
+        "kg": 1,
+        "price": 1199,
+        "stock": "Sold out",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Plant concentrate / powder",
+        "energy": null,
+        "url": "https://musclenectar.com/products/plant-protein-24g-protein-with-digestive-enzymes?variant=67604510572770",
+        "nutritionUrl": "https://musclenectar.com/products/plant-protein-24g-protein-with-digestive-enzymes?variant=67604510572770",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://musclenectar.com/products/plant-protein-24g-protein-with-digestive-enzymes?variant=67604510572770",
+          "evidenceUrl": "https://musclenectar.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 2374,
+      "observation": {
+        "category": "protein",
+        "offerId": 185,
+        "date": "2026-10-25",
+        "price": 1199,
+        "currency": "INR",
+        "sourceUrl": "https://musclenectar.com/products/plant-protein-24g-protein-with-digestive-enzymes?variant=67604510507234",
+        "evidenceUrl": "https://musclenectar.com/products/plant-protein-24g-protein-with-digestive-enzymes.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "67604510507234"
+      }
+    },
+    {
+      "order": 2375,
+      "observation": {
+        "category": "protein",
+        "offerId": 186,
+        "date": "2026-10-25",
+        "price": 1199,
+        "currency": "INR",
+        "sourceUrl": "https://musclenectar.com/products/plant-protein-24g-protein-with-digestive-enzymes?variant=67604510572770",
+        "evidenceUrl": "https://musclenectar.com/products/plant-protein-24g-protein-with-digestive-enzymes.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "67604510572770"
+      }
+    },
+    {
+      "order": 4233,
+      "observation": {
+        "category": "protein",
+        "offerId": 185,
+        "date": "2026-11-19",
+        "price": 1199,
+        "currency": "INR",
+        "sourceUrl": "https://musclenectar.com/products/plant-protein-24g-protein-with-digestive-enzymes?variant=67604510507234",
+        "evidenceUrl": "https://musclenectar.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "67604510507234"
+      }
+    },
+    {
+      "order": 4234,
+      "observation": {
+        "category": "protein",
+        "offerId": 186,
+        "date": "2026-11-19",
+        "price": 1199,
+        "currency": "INR",
+        "sourceUrl": "https://musclenectar.com/products/plant-protein-24g-protein-with-digestive-enzymes?variant=67604510572770",
+        "evidenceUrl": "https://musclenectar.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "67604510572770"
+      }
+    }
+  ],
+  "refreshSources": []
+}

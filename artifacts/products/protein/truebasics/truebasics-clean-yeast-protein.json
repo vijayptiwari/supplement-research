@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "TrueBasics",
+  "product": "TrueBasics Clean Yeast Protein",
+  "variants": [
+    {
+      "order": 824,
+      "offer": {
+        "id": 824,
+        "brand": "TrueBasics",
+        "product": "TrueBasics Clean Yeast Protein",
+        "type": "Plant + fermented yeast",
+        "flavour": "Coffee",
+        "kg": 1,
+        "price": 2099,
+        "stock": "In stock",
+        "protein": 68.57142857142857,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Fermented yeast protein",
+        "energy": 385,
+        "url": "https://www.truebasics.com/sv/truebasics-clean-yeast-protein/SP-140799?navKey=VRNT-284557",
+        "nutritionUrl": "https://www.truebasics.com/sv/truebasics-clean-yeast-protein/SP-140799",
+        "basis": "24g protein / 35g serving; fermented yeast protein",
+        "notes": "Fermented AnPro yeast protein offering complete amino acid bioavailability with zero gut irritation.",
+        "energyBasis": "Brand official label / serving instructions",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.truebasics.com/sv/truebasics-clean-yeast-protein/SP-140799?navKey=VRNT-284557",
+          "evidenceUrl": "https://www.truebasics.com/sv/truebasics-clean-yeast-protein/SP-140799",
+          "matchBasis": "Official selected product schema flavour and net pack match"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 2994,
+      "observation": {
+        "category": "protein",
+        "offerId": 824,
+        "date": "2026-10-25",
+        "price": 2099,
+        "currency": "INR",
+        "sourceUrl": "https://www.truebasics.com/sv/truebasics-clean-yeast-protein/SP-140799",
+        "evidenceUrl": "https://www.truebasics.com/sv/truebasics-clean-yeast-protein/SP-140799",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": null
+      }
+    },
+    {
+      "order": 4852,
+      "observation": {
+        "category": "protein",
+        "offerId": 824,
+        "date": "2026-11-19",
+        "price": 2099,
+        "currency": "INR",
+        "sourceUrl": "https://www.truebasics.com/sv/truebasics-clean-yeast-protein/SP-140799?navKey=VRNT-284557",
+        "evidenceUrl": "https://www.truebasics.com/sv/truebasics-clean-yeast-protein/SP-140799",
+        "kind": "official-live",
+        "matchBasis": "Official selected product schema flavour and net pack match",
+        "variantId": "VRNT-284557"
+      }
+    }
+  ],
+  "refreshSources": []
+}

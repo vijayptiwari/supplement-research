@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "category": "magnesium",
+  "brand": "HK Vitals",
+  "product": "100% Magnesium Glycinate",
+  "variants": [
+    {
+      "order": 13,
+      "offer": {
+        "brand": "HK Vitals",
+        "product": "100% Magnesium Glycinate",
+        "form": "Tablet",
+        "type": "Glycinate",
+        "subclass": "Single-source unbuffered chelate",
+        "servingUnits": 2,
+        "source": "Not specified",
+        "basis": "Official nutrition panel per two tablets (2.32 g): magnesium glycinate 1880 mg, explicitly equivalent to elemental magnesium 220 mg.",
+        "notes": "Chelate ingredient mass is recorded separately from the declared elemental magnesium; neither is estimated from a conversion factor. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+        "packCount": 120,
+        "magnesiumMg": 220,
+        "mineralBasis": "elemental",
+        "id": "hkv-magnesium-120",
+        "price": 699,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://www.hkvitals.com/sv/hk-vitals-100-magnesium-glycinate/SP-129393?navKey=VRNT-251103",
+        "nutritionUrl": "https://img10.hkrtcdn.com/44908/prd_4490729-HK-Vitals-100-Magnesium-Glycinate-120-tablets_o.jpg",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack (120 units)",
+        "labelChecked": "2026-11-19",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.hkvitals.com/sv/hk-vitals-100-magnesium-glycinate/SP-129393?navKey=VRNT-251103",
+          "evidenceUrl": "https://www.hkvitals.com/sv/hk-vitals-100-magnesium-glycinate/SP-129393?navKey=VRNT-251103",
+          "matchBasis": "Official HK Vitals SSR reviewData selected numeric variant 251103; explicit pack '120 tablet(s)', unconditional offer_pr INR and isPublish=true/oos=false. Excludes loyalty and coupon rewards."
+        },
+        "magnesiumCompoundMg": 1880,
+        "labelSources": [
+          "https://www.hkvitals.com/sv/hk-vitals-100-magnesium-glycinate/SP-129393?navKey=VRNT-251103",
+          "https://img10.hkrtcdn.com/44908/prd_4490729-HK-Vitals-100-Magnesium-Glycinate-120-tablets_o.jpg"
+        ],
+        "sourceType": "manufacturer",
+        "sourceVariantId": "251103",
+        "sourceProductId": "129393"
+      }
+    },
+    {
+      "order": 20,
+      "offer": {
+        "form": "Tablet",
+        "source": "Not specified",
+        "servingUnits": 2,
+        "product": "100% Magnesium Glycinate",
+        "type": "Glycinate",
+        "subclass": "Single-source unbuffered chelate",
+        "magnesiumMg": 220,
+        "magnesiumCompoundMg": 1880,
+        "mineralBasis": "elemental",
+        "basis": "Official nutrition panel per two tablets (2.32 g): magnesium glycinate 1880 mg, explicitly equivalent to elemental magnesium 220 mg.",
+        "notes": "Chelate ingredient mass is recorded separately from the declared elemental magnesium; neither is estimated from a conversion factor. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+        "brand": "HK Vitals",
+        "id": "magnesium-hkv-286029",
+        "packCount": 60,
+        "flavour": "Unflavoured",
+        "price": 449,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://www.hkvitals.com/sv/hk-vitals-100-magnesium-glycinate/SP-129393?navKey=VRNT-286029",
+        "nutritionUrl": "https://img10.hkrtcdn.com/44908/prd_4490729-HK-Vitals-100-Magnesium-Glycinate-120-tablets_o.jpg",
+        "labelSources": [
+          "https://www.hkvitals.com/sv/hk-vitals-100-magnesium-glycinate/SP-129393?navKey=VRNT-286029",
+          "https://img10.hkrtcdn.com/44908/prd_4490729-HK-Vitals-100-Magnesium-Glycinate-120-tablets_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "packaging": "Single retail pack (60 units)",
+        "sourceVariantId": "286029",
+        "sourceProductId": "129393"
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3741,
+      "observation": {
+        "category": "magnesium",
+        "offerId": "hkv-magnesium-120",
+        "date": "2026-10-29",
+        "price": 699,
+        "currency": "INR",
+        "sourceUrl": "https://www.hkvitals.com/products/magnesium-glycinate",
+        "evidenceUrl": "https://www.hkvitals.com/products/magnesium-glycinate",
+        "kind": "official-live",
+        "matchBasis": "Official primary product page and explicitly selected pack",
+        "variantId": null
+      }
+    },
+    {
+      "order": 3953,
+      "observation": {
+        "category": "magnesium",
+        "offerId": "hkv-magnesium-120",
+        "date": "2026-11-19",
+        "price": 699,
+        "currency": "INR",
+        "sourceUrl": "https://www.hkvitals.com/products/magnesium-glycinate",
+        "evidenceUrl": "https://www.hkvitals.com/products/magnesium-glycinate",
+        "kind": "official-live",
+        "variantId": null,
+        "matchBasis": "Official primary product page; explicit 120-unit pack and main listed INR price. Bundles, coupons, prepaid rewards and other sizes excluded."
+      }
+    },
+    {
+      "order": 5119,
+      "observation": {
+        "category": "magnesium",
+        "offerId": "hkv-magnesium-120",
+        "date": "2026-11-19",
+        "price": 699,
+        "currency": "INR",
+        "sourceUrl": "https://www.hkvitals.com/sv/hk-vitals-100-magnesium-glycinate/SP-129393?navKey=VRNT-251103",
+        "evidenceUrl": "https://www.hkvitals.com/sv/hk-vitals-100-magnesium-glycinate/SP-129393?navKey=VRNT-251103",
+        "kind": "official-live",
+        "matchBasis": "Official HK Vitals SSR reviewData selected numeric variant 251103; explicit pack '120 tablet(s)', unconditional offer_pr INR and isPublish=true/oos=false. Excludes loyalty and coupon rewards.",
+        "variantId": "251103"
+      }
+    },
+    {
+      "order": 5120,
+      "observation": {
+        "category": "magnesium",
+        "offerId": "magnesium-hkv-286029",
+        "date": "2026-11-19",
+        "price": 449,
+        "currency": "INR",
+        "sourceUrl": "https://www.hkvitals.com/sv/hk-vitals-100-magnesium-glycinate/SP-129393?navKey=VRNT-286029",
+        "evidenceUrl": "https://www.hkvitals.com/sv/hk-vitals-100-magnesium-glycinate/SP-129393?navKey=VRNT-286029",
+        "kind": "official-live",
+        "matchBasis": "Official HK Vitals SSR reviewData selected numeric variant 286029; explicit pack '60 tablet(s)', unconditional offer_pr INR and isPublish=true/oos=false. Excludes loyalty and coupon rewards.",
+        "variantId": "286029"
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 33,
+      "profile": {
+        "form": "Tablet",
+        "source": "Not specified",
+        "servingUnits": 2,
+        "product": "100% Magnesium Glycinate",
+        "type": "Glycinate",
+        "subclass": "Single-source unbuffered chelate",
+        "magnesiumMg": 220,
+        "magnesiumCompoundMg": 1880,
+        "mineralBasis": "elemental",
+        "basis": "Official nutrition panel per two tablets (2.32 g): magnesium glycinate 1880 mg, explicitly equivalent to elemental magnesium 220 mg.",
+        "notes": "Chelate ingredient mass is recorded separately from the declared elemental magnesium; neither is estimated from a conversion factor. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+        "brand": "HK Vitals",
+        "id": "hkv-magnesium-120",
+        "packCount": 120,
+        "flavour": "Unflavoured",
+        "nutritionUrl": "https://img10.hkrtcdn.com/44908/prd_4490729-HK-Vitals-100-Magnesium-Glycinate-120-tablets_o.jpg",
+        "labelSources": [
+          "https://www.hkvitals.com/sv/hk-vitals-100-magnesium-glycinate/SP-129393?navKey=VRNT-251103",
+          "https://img10.hkrtcdn.com/44908/prd_4490729-HK-Vitals-100-Magnesium-Glycinate-120-tablets_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "packaging": "Single retail pack (120 units)",
+        "sourceVariantId": "251103",
+        "sourceProductId": "129393",
+        "category": "magnesium",
+        "kind": "hk-product",
+        "base": "https://www.hkvitals.com",
+        "handle": "magnesium-glycinate",
+        "productUrl": "https://www.hkvitals.com/sv/hk-vitals-100-magnesium-glycinate/SP-129393?navKey=VRNT-251103",
+        "variantUrl": "https://www.hkvitals.com/sv/hk-vitals-100-magnesium-glycinate/SP-129393?navKey=VRNT-251103",
+        "variantId": "251103",
+        "productId": 129393,
+        "sourceBrand": "HK Vitals",
+        "variantAttributes": {
+          "fn-att-quant": "120 tablet(s)"
+        }
+      }
+    },
+    {
+      "order": 231,
+      "profile": {
+        "form": "Tablet",
+        "source": "Not specified",
+        "servingUnits": 2,
+        "product": "100% Magnesium Glycinate",
+        "type": "Glycinate",
+        "subclass": "Single-source unbuffered chelate",
+        "magnesiumMg": 220,
+        "magnesiumCompoundMg": 1880,
+        "mineralBasis": "elemental",
+        "basis": "Official nutrition panel per two tablets (2.32 g): magnesium glycinate 1880 mg, explicitly equivalent to elemental magnesium 220 mg.",
+        "notes": "Chelate ingredient mass is recorded separately from the declared elemental magnesium; neither is estimated from a conversion factor. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+        "brand": "HK Vitals",
+        "id": "magnesium-hkv-286029",
+        "packCount": 60,
+        "flavour": "Unflavoured",
+        "nutritionUrl": "https://img10.hkrtcdn.com/44908/prd_4490729-HK-Vitals-100-Magnesium-Glycinate-120-tablets_o.jpg",
+        "labelSources": [
+          "https://www.hkvitals.com/sv/hk-vitals-100-magnesium-glycinate/SP-129393?navKey=VRNT-286029",
+          "https://img10.hkrtcdn.com/44908/prd_4490729-HK-Vitals-100-Magnesium-Glycinate-120-tablets_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "packaging": "Single retail pack (60 units)",
+        "sourceVariantId": "286029",
+        "sourceProductId": "129393",
+        "category": "magnesium",
+        "kind": "hk-product",
+        "base": "https://www.hkvitals.com",
+        "handle": "magnesium-glycinate",
+        "productUrl": "https://www.hkvitals.com/sv/hk-vitals-100-magnesium-glycinate/SP-129393?navKey=VRNT-286029",
+        "variantUrl": "https://www.hkvitals.com/sv/hk-vitals-100-magnesium-glycinate/SP-129393?navKey=VRNT-286029",
+        "variantId": "286029",
+        "productId": 129393,
+        "sourceBrand": "HK Vitals",
+        "variantAttributes": {
+          "fn-att-quant": "60 tablet(s)"
+        }
+      }
+    }
+  ]
+}

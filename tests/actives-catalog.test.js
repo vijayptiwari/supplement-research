@@ -1,6 +1,5 @@
 import {test} from 'node:test';
 import assert from 'node:assert/strict';
-import fs from 'node:fs/promises';
 import {normalizeUnitInputs} from '../docs/units.js';
 import {createSnapshot} from '../docs/model.js';
 import {loadBundle} from '../scripts/build_site.mjs';
@@ -9,7 +8,7 @@ import {searchCatalog} from '../docs/search.js';
 import {filterOffers} from '../docs/core.js';
 import {recommend} from '../docs/recommender.js';
 
-const definitions=JSON.parse(await fs.readFile(new URL('../docs/data/site.json',import.meta.url),'utf8')).categories;
+const definitions=(await loadBundle()).config.categories;
 const category=id=>definitions.find(c=>c.id===id);
 const counted={price:600,packCount:60,servingUnits:2,form:'Capsule'};
 

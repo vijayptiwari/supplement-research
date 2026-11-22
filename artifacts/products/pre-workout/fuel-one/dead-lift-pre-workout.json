@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "category": "pre-workout",
+  "brand": "Fuel One",
+  "product": "Dead-Lift Pre Workout",
+  "variants": [
+    {
+      "order": 11,
+      "offer": {
+        "id": "pre-workout-hk-257745",
+        "brand": "Fuel One",
+        "product": "Dead-Lift Pre Workout",
+        "form": "Powder",
+        "type": "Caffeinated multi-ingredient",
+        "subclass": "Citrulline malate + beta-alanine + theanine",
+        "flavour": "Deadly Fruit",
+        "packaging": "Single retail pack",
+        "price": 399,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://www.fuelone.in/sv/fuel-one-dead-lift-pre-workout/SP-132107?navKey=VRNT-257745",
+        "nutritionUrl": "https://img6.hkrtcdn.com/37287/prd_3728695-Fuel-One-DeadLift-Pre-Workout-0.22-lb-Deadly-Fruit_o.jpg",
+        "labelSources": [
+          "https://www.fuelone.in/sv/fuel-one-dead-lift-pre-workout/SP-132107?navKey=VRNT-257745",
+          "https://img6.hkrtcdn.com/37287/prd_3728695-Fuel-One-DeadLift-Pre-Workout-0.22-lb-Deadly-Fruit_o.jpg",
+          "https://img8.hkrtcdn.com/37287/prd_3728697-Fuel-One-DeadLift-Pre-Workout-0.22-lb-Deadly-Fruit_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "257745",
+        "sourceProductId": "132107",
+        "source": "Not specified",
+        "notes": "The selected flavour and actual 100 g pack are confirmed by the label. The 3,000 mg citrulline amount is DL-malate compound, not pure free L-citrulline.",
+        "basis": "Exact official brand selected variant. The linked current product gallery nutrition panel was individually reviewed; amounts are per stated label serving. Product claims are manufacturer declarations, not independent assay results.",
+        "energyPerServing": 2.32,
+        "caffeineMg": 200,
+        "citrullineMalateMg": 3000,
+        "betaAlanineMg": 3000,
+        "grams": 100,
+        "packCount": null,
+        "servingGrams": 7.5,
+        "additionalIngredients": [
+          {
+            "name": "L-theanine",
+            "amount": 200,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          }
+        ],
+        "declaredNutrients": [
+          "caffeineMg",
+          "citrullineMalateMg",
+          "betaAlanineMg"
+        ],
+        "stimulantStatus": "Contains caffeine"
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5178,
+      "observation": {
+        "category": "pre-workout",
+        "offerId": "pre-workout-hk-257745",
+        "date": "2026-11-19",
+        "price": 399,
+        "currency": "INR",
+        "sourceUrl": "https://www.fuelone.in/sv/fuel-one-dead-lift-pre-workout/SP-132107?navKey=VRNT-257745",
+        "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-dead-lift-pre-workout/SP-132107?navKey=VRNT-257745",
+        "kind": "official-live",
+        "variantId": "257745",
+        "matchBasis": "Official selected numeric variant 257745 and SP-132107 matched to exact flavour/pack attributes; unconditional INR offer_pr, is_published=true and variant oos checked; no coupon or loyalty prices."
+      }
+    }
+  ],
+  "refreshSources": []
+}

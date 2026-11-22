@@ -1,0 +1,338 @@
+{
+  "schemaVersion": 1,
+  "order": 22,
+  "category": {
+    "id": "hmb",
+    "label": "HMB",
+    "file": "hmb.json",
+    "page": "hmb.html",
+    "measurement": "units",
+    "supportsPowder": true,
+    "mainNutrient": "hmbMg",
+    "referenceQuantity": 1000,
+    "referenceUnit": "mg",
+    "compoundLabel": "explicitly labelled HMB",
+    "nutrientFields": [
+      {
+        "key": "hmbMg",
+        "label": "Declared HMB payload",
+        "unit": "mg",
+        "table": true
+      },
+      {
+        "key": "calciumHmbMg",
+        "label": "Calcium HMB compound",
+        "unit": "mg",
+        "table": true,
+        "costQuantity": 1000,
+        "costTable": true
+      },
+      {
+        "key": "hmbFreeAcidMg",
+        "label": "HMB free-acid form",
+        "unit": "mg",
+        "table": true,
+        "costQuantity": 1000,
+        "costTable": true
+      },
+      {
+        "key": "citrullineMalateMg",
+        "label": "Citrulline malate co-ingredient",
+        "unit": "mg",
+        "table": false
+      },
+      {
+        "key": "vitaminDMcg",
+        "label": "Vitamin D co-ingredient",
+        "unit": "µg",
+        "table": false
+      }
+    ],
+    "comparisonNote": "HMB payload, calcium HMB compound and free-acid HMB are recorded separately. No salt-to-active conversion, absorption multiplier or equivalence between forms is inferred. Label amounts do not establish muscle gain or the treatment of muscle loss; compare study populations and formulations in the guide.",
+    "searchAliases": [
+      "hmb",
+      "beta hydroxy beta methylbutyrate",
+      "hydroxymethylbutyrate"
+    ]
+  },
+  "catalog": {
+    "checked": "2026-11-19",
+    "category": "hmb"
+  },
+  "guide": {
+    "id": "hmb-guide",
+    "category": "hmb",
+    "title": "HMB: a leucine metabolite with population-specific evidence",
+    "summary": "HMB is produced from leucine and is also sold as calcium HMB or HMB free acid. Its role in protein turnover does not establish extra muscle gain for everyone.",
+    "evidence": "A 2020 synthesis in younger adults and a 2026 synthesis in adults aged 50 and over found no overall additional strength or body-composition benefit alongside training. The updated ISSN position stand is more favorable in some settings, so results and interpretation remain contested.",
+    "limitations": "Healthy training, malnutrition, immobility and clinical recovery are different settings. Results depend on the population, nutrition and intervention. Faster blood appearance or a particular HMB form does not by itself prove better strength or recovery.",
+    "catalogReading": "Distinguish HMB free acid, calcium HMB and a multi-ingredient formula. Record declared HMB separately from full calcium-HMB compound mass; do not infer equal active content from equal compound weights. Other nutrients in a clinical nutrition product are part of its context.",
+    "safety": "Available safety data in studied adults are generally reassuring, but this does not establish suitability for every condition or product. Clinical nutrition, medicines, kidney disease, pregnancy and children require individual review. Check co-ingredients and any overlapping mineral declarations.",
+    "sourceIds": [
+      "exercise",
+      "hmb-position",
+      "hmb-young-meta",
+      "hmb-older-meta",
+      "food-performance-protein",
+      "food-performance-amino-acids",
+      "food-usda-sr28",
+      "supplement-quality-ods"
+    ],
+    "reviewed": "2026-11-18",
+    "author": "Supplement Research editorial synthesis",
+    "bodySteps": [
+      "Normal leucine metabolism produces a small amount of HMB; taking leucine or BCAA is not the same exposure as swallowing HMB.",
+      "Oral calcium HMB and free-acid HMB enter circulation, with formulation-related differences in absorption reported across studies.",
+      "Proposed effects on protein synthesis and breakdown provide a research rationale. A change in those pathways does not establish a clinically meaningful gain in muscle or function."
+    ],
+    "bodySources": [
+      "exercise",
+      "hmb-position"
+    ],
+    "treatment": "An HMB product alone is not an established cure for sarcopenia, muscle wasting or poor recovery. Nutrition support for an ill or undernourished person requires assessment of the whole plan and the cause of muscle loss.",
+    "whoMayBenefit": "Selected people in supervised nutritional care may discuss HMB in the context of their condition and complete nutrition plan. Age alone or starting resistance training does not establish a need; findings from one clinical group should not be generalized to all older adults.",
+    "routineUse": "No universal HMB requirement is established. Prioritize an appropriate training and nutrition plan and review whether a specific indication and formulation fit the evidence before continuing supplementation.",
+    "sectionSources": [
+      "exercise",
+      "hmb-position",
+      "hmb-young-meta",
+      "hmb-older-meta"
+    ],
+    "buyingGuide": {
+      "whoCanConsider": [
+        "People with a professionally assessed risk of muscle loss during undernutrition or recovery may discuss HMB within their complete nutrition plan.",
+        "Healthy adult athletes can review the conflicting training evidence, while recognizing that adequate food and training do not automatically create an HMB need."
+      ],
+      "whoShouldReview": [
+        "Unexplained muscle or weight loss, immobility, frailty or a medical condition needs a clinical nutrition assessment rather than a standalone muscle-preservation purchase.",
+        "People with kidney disease, regular medicines, pregnancy, breastfeeding or children need individual review.",
+        "People using a clinical nutrition product or mineral supplements should check its full ingredients and declared calcium before adding another product."
+      ],
+      "foodSummary": "Ordinary protein foods supply leucine, from which the body makes some HMB. These are precursor sources; they are not presented as meaningful or dose-matched sources of supplemental HMB.",
+      "foods": [
+        {
+          "name": "Lentils, mature seeds, cooked, boiled, without salt",
+          "relationship": "precursor",
+          "detail": "Food leucine is a precursor. It is not HMB mass and cannot be counted toward an HMB supplement protocol.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": "USDA NDB 16070",
+          "amounts": [
+            {
+              "nutrient": "Leucine (precursor, not HMB)",
+              "min": 0.654,
+              "max": null,
+              "unit": "g",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "100 g edible food"
+              },
+              "sourceIds": [
+                "food-usda-sr28"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Egg, whole, cooked, hard-boiled",
+          "relationship": "precursor",
+          "detail": "Food leucine is a precursor. It is not HMB mass and cannot be counted toward an HMB supplement protocol.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": "USDA NDB 01129",
+          "amounts": [
+            {
+              "nutrient": "Leucine (precursor, not HMB)",
+              "min": 1.075,
+              "max": null,
+              "unit": "g",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "100 g edible food"
+              },
+              "sourceIds": [
+                "food-usda-sr28"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Chicken, broilers or fryers, breast, meat only, cooked, roasted",
+          "relationship": "precursor",
+          "detail": "Food leucine is a precursor. It is not HMB mass and cannot be counted toward an HMB supplement protocol.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": "USDA NDB 05064",
+          "amounts": [
+            {
+              "nutrient": "Leucine (precursor, not HMB)",
+              "min": 2.328,
+              "max": null,
+              "unit": "g",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "100 g edible food"
+              },
+              "sourceIds": [
+                "food-usda-sr28"
+              ]
+            }
+          ]
+        }
+      ],
+      "foodSourceIds": [
+        "food-performance-protein",
+        "food-performance-amino-acids",
+        "hmb-position",
+        "food-usda-sr28"
+      ],
+      "value": {
+        "routineScore": 1,
+        "targetedScore": 3,
+        "targetedUse": "A professionally assessed nutrition or recovery situation with a real risk of muscle loss, where HMB is being considered as part of a complete supervised plan.",
+        "reason": "Routine extra benefit alongside adequate resistance training is not established in recent syntheses. Some clinical or nutritional settings warrant individualized consideration, but findings and expert interpretations conflict and should not become an automatic purchase.",
+        "worthWhen": [
+          "A qualified professional has assessed the cause of muscle-loss risk and a complete nutrition and rehabilitation plan.",
+          "The chosen formulation and its declared HMB basis fit that specific plan, with realistic outcomes."
+        ],
+        "skipWhen": [
+          "The only reason is age, a normal training programme, or a promise to prevent all muscle loss.",
+          "Food, protein and training needs are adequate and an additional muscle-gain effect is assumed.",
+          "Calcium-HMB compound mass, HMB free acid and leucine/BCAA intake are treated as equivalent."
+        ],
+        "evidence": "mixed",
+        "scope": "The routine score concerns adequately nourished healthy-adult fitness use. The targeted score is limited to supervised nutritional risk, not all older adults or all rehabilitation; HMB forms and clinical mixtures remain distinct.",
+        "sourceIds": [
+          "exercise",
+          "hmb-position",
+          "hmb-young-meta",
+          "hmb-older-meta"
+        ]
+      },
+      "reviewed": "2026-11-18",
+      "practices": {
+        "dos": [
+          {
+            "title": "Review the complete nutrition plan",
+            "detail": "A supervised muscle-loss-risk context requires assessment of the cause, food intake and rehabilitation, not an HMB tub alone."
+          },
+          {
+            "title": "Check the declared HMB basis",
+            "detail": "Distinguish HMB free acid, calcium HMB and clinical mixtures, keeping co-ingredients and compound mass visible."
+          }
+        ],
+        "donts": [
+          {
+            "title": "Don't equate precursors or chemical forms",
+            "detail": "Leucine, BCAA, calcium-HMB compound weight and a declared HMB payload are different measures."
+          },
+          {
+            "title": "Don't add it solely because of age",
+            "detail": "Age or normal training alone does not establish a need, nor does a product promise prevention of every cause of muscle loss."
+          }
+        ],
+        "sourceIds": [
+          "exercise",
+          "hmb-position",
+          "hmb-young-meta",
+          "hmb-older-meta"
+        ]
+      }
+    },
+    "intakeGuide": {
+      "kind": "no-established-target",
+      "summary": "No established dietary requirement. Trial protocols are context-specific and do not create a routine need for a healthy trainee.",
+      "targets": [],
+      "limits": [],
+      "notes": [
+        "No automatic dose increase is assigned for training frequency or experience."
+      ],
+      "sourceIds": [
+        "exercise",
+        "hmb-position",
+        "hmb-young-meta",
+        "hmb-older-meta"
+      ],
+      "reviewed": "2026-11-17"
+    },
+    "medicalGuide": {
+      "summary": "Condition-specific evidence, separate from sports benefits and purchase priority.",
+      "conditions": [
+        {
+          "condition": "Sarcopenia / illness-related muscle loss",
+          "level": "mixed",
+          "findings": "Some nutrition studies examine selected vulnerable populations; HMB alone is not an established cure. Total nutrition, exercise and the cause of wasting require assessment.",
+          "limits": "An HMB product alone is not an established cure for sarcopenia, muscle wasting or poor recovery. Nutrition support for an ill or undernourished person requires assessment of the whole plan and the cause of muscle loss.",
+          "sourceIds": [
+            "exercise",
+            "hmb-position",
+            "hmb-young-meta",
+            "hmb-older-meta"
+          ]
+        }
+      ],
+      "reviewed": "2026-11-17"
+    },
+    "pathway": {
+      "title": "HMB is a small branch of leucine metabolism",
+      "summary": "The body makes some HMB from leucine. Supplemental HMB supplies this metabolite directly, while research examines its effects on muscle-protein turnover.",
+      "tracks": [
+        {
+          "label": "Natural formation from leucine",
+          "steps": [
+            {
+              "label": "Leucine enters amino-acid metabolism",
+              "detail": "Dietary leucine is used in protein metabolism and can also undergo transamination outside the liver.",
+              "compartment": "Cells",
+              "icon": "molecule"
+            },
+            {
+              "label": "Leucine becomes the intermediate KIC",
+              "detail": "Transamination produces alpha-ketoisocaproate, usually abbreviated KIC.",
+              "compartment": "Cells",
+              "icon": "cell"
+            },
+            {
+              "label": "A small branch forms HMB",
+              "detail": "Only a small fraction of leucine metabolism proceeds through KIC to HMB; most KIC follows other metabolic routes.",
+              "compartment": "Cells",
+              "icon": "molecule"
+            }
+          ]
+        },
+        {
+          "label": "Supplemental HMB bypasses leucine conversion",
+          "steps": [
+            {
+              "label": "HMB arrives in different formulations",
+              "detail": "Calcium HMB and free-acid HMB supply HMB directly rather than relying on conversion from dietary leucine.",
+              "compartment": "Intestine",
+              "icon": "digest"
+            },
+            {
+              "label": "Absorbed HMB becomes systemically available",
+              "detail": "The formulations have different absorption profiles; faster appearance alone does not prove better long-term muscle outcomes.",
+              "compartment": "Blood",
+              "icon": "blood"
+            },
+            {
+              "label": "Studies examine muscle protein turnover",
+              "detail": "Proposed pathways involve protein-synthesis signalling and protein breakdown. Their contribution to meaningful clinical or training outcomes remains context dependent.",
+              "compartment": "Muscle",
+              "icon": "signal"
+            }
+          ]
+        }
+      ],
+      "caveat": "Formation of HMB and short-term protein-turnover effects do not guarantee greater muscle mass or strength. Evidence differs by population, diet and training status.",
+      "sourceIds": [
+        "hmb-position",
+        "hmb-young-meta",
+        "hmb-older-meta"
+      ]
+    }
+  }
+}

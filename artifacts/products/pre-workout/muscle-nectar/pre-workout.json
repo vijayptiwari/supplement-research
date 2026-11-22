@@ -1,0 +1,264 @@
+{
+  "schemaVersion": 1,
+  "category": "pre-workout",
+  "brand": "Muscle Nectar",
+  "product": "Pre-Workout",
+  "variants": [
+    {
+      "order": 1,
+      "offer": {
+        "brand": "Muscle Nectar",
+        "product": "Pre-Workout",
+        "form": "Powder",
+        "type": "Caffeinated multi-ingredient",
+        "subclass": "Amino acids + ashwagandha",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "packCount": null,
+        "servingUnits": null,
+        "servingGrams": 7,
+        "labelChecked": "2026-11-17",
+        "basis": "Official current product-family page states 7 g per serving and 150 mg caffeine anhydrous, 2 g beta-alanine, 1.5 g arginine and 1 g citrulline malate, plus 250 mg ashwagandha extract. Exact selected packs contain 200 g.",
+        "notes": "The current manufacturer product-family profile is used for Lemon and Green Apple; separate flavour-specific testing is not claimed. Declared caffeine and caffeine anhydrous describe the same ingredient, not amounts to add together.",
+        "grams": 200,
+        "caffeineMg": 150,
+        "caffeineAnhydrousMg": 150,
+        "citrullineMg": null,
+        "citrullineMalateMg": 1000,
+        "betaAlanineMg": 2000,
+        "arginineMg": 1500,
+        "taurineMg": null,
+        "creatineMg": null,
+        "energyPerServing": 0,
+        "stimulantStatus": "Contains caffeine",
+        "declaredNutrients": [
+          "caffeineMg",
+          "caffeineAnhydrousMg",
+          "citrullineMalateMg",
+          "betaAlanineMg",
+          "arginineMg",
+          "ashwagandhaMg"
+        ],
+        "id": "pre-workout-47728114172130",
+        "price": 599,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://musclenectar.com/products/muscle-nectar-pre-workout?variant=47728114172130",
+        "nutritionUrl": "https://musclenectar.com/products/muscle-nectar-pre-workout",
+        "flavour": "Lemon",
+        "ashwagandhaMg": 250,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://musclenectar.com/products/muscle-nectar-pre-workout?variant=47728114172130",
+          "evidenceUrl": "https://musclenectar.com/products/muscle-nectar-pre-workout.json",
+          "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+        }
+      }
+    },
+    {
+      "order": 2,
+      "offer": {
+        "brand": "Muscle Nectar",
+        "product": "Pre-Workout",
+        "form": "Powder",
+        "type": "Caffeinated multi-ingredient",
+        "subclass": "Amino acids + ashwagandha",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "packCount": null,
+        "servingUnits": null,
+        "servingGrams": 7,
+        "labelChecked": "2026-11-17",
+        "basis": "Official current product-family page states 7 g per serving and 150 mg caffeine anhydrous, 2 g beta-alanine, 1.5 g arginine and 1 g citrulline malate, plus 250 mg ashwagandha extract. Exact selected packs contain 200 g.",
+        "notes": "The current manufacturer product-family profile is used for Lemon and Green Apple; separate flavour-specific testing is not claimed. Declared caffeine and caffeine anhydrous describe the same ingredient, not amounts to add together.",
+        "grams": 200,
+        "caffeineMg": 150,
+        "caffeineAnhydrousMg": 150,
+        "citrullineMg": null,
+        "citrullineMalateMg": 1000,
+        "betaAlanineMg": 2000,
+        "arginineMg": 1500,
+        "taurineMg": null,
+        "creatineMg": null,
+        "energyPerServing": 0,
+        "stimulantStatus": "Contains caffeine",
+        "declaredNutrients": [
+          "caffeineMg",
+          "caffeineAnhydrousMg",
+          "citrullineMalateMg",
+          "betaAlanineMg",
+          "arginineMg",
+          "ashwagandhaMg"
+        ],
+        "id": "pre-workout-67798832414946",
+        "price": 599,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://musclenectar.com/products/muscle-nectar-pre-workout?variant=67798832414946",
+        "nutritionUrl": "https://musclenectar.com/products/muscle-nectar-pre-workout",
+        "flavour": "Green Apple",
+        "ashwagandhaMg": 250,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://musclenectar.com/products/muscle-nectar-pre-workout?variant=67798832414946",
+          "evidenceUrl": "https://musclenectar.com/products/muscle-nectar-pre-workout.json",
+          "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3822,
+      "observation": {
+        "category": "pre-workout",
+        "offerId": "pre-workout-47728114172130",
+        "date": "2026-11-17",
+        "price": 599,
+        "currency": "INR",
+        "sourceUrl": "https://musclenectar.com/products/muscle-nectar-pre-workout?variant=47728114172130",
+        "evidenceUrl": "https://musclenectar.com/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "47728114172130",
+        "matchBasis": "Official Shopify public feed fetched 2026-11-17; exact variant ID, unconditional single-pack price, size/flavour and availability matched."
+      }
+    },
+    {
+      "order": 3823,
+      "observation": {
+        "category": "pre-workout",
+        "offerId": "pre-workout-67798832414946",
+        "date": "2026-11-17",
+        "price": 599,
+        "currency": "INR",
+        "sourceUrl": "https://musclenectar.com/products/muscle-nectar-pre-workout?variant=67798832414946",
+        "evidenceUrl": "https://musclenectar.com/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "67798832414946",
+        "matchBasis": "Official Shopify public feed fetched 2026-11-17; exact variant ID, unconditional single-pack price, size/flavour and availability matched."
+      }
+    },
+    {
+      "order": 4016,
+      "observation": {
+        "category": "pre-workout",
+        "offerId": "pre-workout-47728114172130",
+        "date": "2026-11-19",
+        "price": 599,
+        "currency": "INR",
+        "sourceUrl": "https://musclenectar.com/products/muscle-nectar-pre-workout?variant=47728114172130",
+        "evidenceUrl": "https://musclenectar.com/products/muscle-nectar-pre-workout.json",
+        "kind": "official-live",
+        "variantId": "47728114172130",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
+    },
+    {
+      "order": 4017,
+      "observation": {
+        "category": "pre-workout",
+        "offerId": "pre-workout-67798832414946",
+        "date": "2026-11-19",
+        "price": 599,
+        "currency": "INR",
+        "sourceUrl": "https://musclenectar.com/products/muscle-nectar-pre-workout?variant=67798832414946",
+        "evidenceUrl": "https://musclenectar.com/products/muscle-nectar-pre-workout.json",
+        "kind": "official-live",
+        "variantId": "67798832414946",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 106,
+      "profile": {
+        "category": "pre-workout",
+        "brand": "Muscle Nectar",
+        "base": "https://musclenectar.com",
+        "handle": "muscle-nectar-pre-workout",
+        "product": "Pre-Workout",
+        "form": "Powder",
+        "type": "Caffeinated multi-ingredient",
+        "subclass": "Amino acids + ashwagandha",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "packCount": null,
+        "servingUnits": null,
+        "servingGrams": 7,
+        "labelChecked": "2026-11-17",
+        "variantIds": [
+          "47728114172130"
+        ],
+        "basis": "Official current product-family page states 7 g per serving and 150 mg caffeine anhydrous, 2 g beta-alanine, 1.5 g arginine and 1 g citrulline malate, plus 250 mg ashwagandha extract. Exact selected packs contain 200 g.",
+        "notes": "The current manufacturer product-family profile is used for Lemon and Green Apple; separate flavour-specific testing is not claimed. Declared caffeine and caffeine anhydrous describe the same ingredient, not amounts to add together.",
+        "grams": 200,
+        "caffeineMg": 150,
+        "caffeineAnhydrousMg": 150,
+        "citrullineMg": null,
+        "citrullineMalateMg": 1000,
+        "betaAlanineMg": 2000,
+        "arginineMg": 1500,
+        "taurineMg": null,
+        "creatineMg": null,
+        "energyPerServing": 0,
+        "stimulantStatus": "Contains caffeine",
+        "declaredNutrients": [
+          "caffeineMg",
+          "caffeineAnhydrousMg",
+          "citrullineMalateMg",
+          "betaAlanineMg",
+          "arginineMg",
+          "ashwagandhaMg"
+        ],
+        "ashwagandhaMg": 250,
+        "flavour": "Lemon"
+      }
+    },
+    {
+      "order": 107,
+      "profile": {
+        "category": "pre-workout",
+        "brand": "Muscle Nectar",
+        "base": "https://musclenectar.com",
+        "handle": "muscle-nectar-pre-workout",
+        "product": "Pre-Workout",
+        "form": "Powder",
+        "type": "Caffeinated multi-ingredient",
+        "subclass": "Amino acids + ashwagandha",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "packCount": null,
+        "servingUnits": null,
+        "servingGrams": 7,
+        "labelChecked": "2026-11-17",
+        "variantIds": [
+          "67798832414946"
+        ],
+        "basis": "Official current product-family page states 7 g per serving and 150 mg caffeine anhydrous, 2 g beta-alanine, 1.5 g arginine and 1 g citrulline malate, plus 250 mg ashwagandha extract. Exact selected packs contain 200 g.",
+        "notes": "The current manufacturer product-family profile is used for Lemon and Green Apple; separate flavour-specific testing is not claimed. Declared caffeine and caffeine anhydrous describe the same ingredient, not amounts to add together.",
+        "grams": 200,
+        "caffeineMg": 150,
+        "caffeineAnhydrousMg": 150,
+        "citrullineMg": null,
+        "citrullineMalateMg": 1000,
+        "betaAlanineMg": 2000,
+        "arginineMg": 1500,
+        "taurineMg": null,
+        "creatineMg": null,
+        "energyPerServing": 0,
+        "stimulantStatus": "Contains caffeine",
+        "declaredNutrients": [
+          "caffeineMg",
+          "caffeineAnhydrousMg",
+          "citrullineMalateMg",
+          "betaAlanineMg",
+          "arginineMg",
+          "ashwagandhaMg"
+        ],
+        "ashwagandhaMg": 250,
+        "flavour": "Green Apple"
+      }
+    }
+  ]
+}

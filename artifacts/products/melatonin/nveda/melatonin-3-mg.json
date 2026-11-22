@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "category": "melatonin",
+  "brand": "NVEDA",
+  "product": "Melatonin 3 mg",
+  "variants": [
+    {
+      "order": 8,
+      "offer": {
+        "brand": "NVEDA",
+        "product": "Melatonin 3 mg",
+        "form": "Tablet",
+        "type": "Melatonin",
+        "subclass": "Release profile not specified",
+        "packCount": 60,
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official product page lists 3 mg melatonin, one tablet per serving and net quantity 60 tablets.",
+        "notes": "Nutrition text contains an unresolved energy/carbohydrate inconsistency. Energy is withheld; labelled melatonin quantity is recorded.",
+        "labelChecked": "2026-10-31",
+        "melatoninMg": 3,
+        "id": "melatonin-44355032318231",
+        "price": 330,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://nveda.in/products/sleep-control?variant=44355032318231",
+        "nutritionUrl": "https://nveda.in/products/sleep-control",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nveda.in/products/sleep-control?variant=44355032318231",
+          "evidenceUrl": "https://nveda.in/products/sleep-control.json",
+          "matchBasis": "Official public Shopify product; exact variant ID 44355032318231 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3759,
+      "observation": {
+        "category": "melatonin",
+        "offerId": "melatonin-44355032318231",
+        "date": "2026-10-29",
+        "price": 330,
+        "currency": "INR",
+        "sourceUrl": "https://nveda.in/products/sleep-control?variant=44355032318231",
+        "evidenceUrl": "https://nveda.in/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "44355032318231"
+      }
+    },
+    {
+      "order": 3882,
+      "observation": {
+        "category": "melatonin",
+        "offerId": "melatonin-44355032318231",
+        "date": "2026-11-19",
+        "price": 330,
+        "currency": "INR",
+        "sourceUrl": "https://nveda.in/products/sleep-control?variant=44355032318231",
+        "evidenceUrl": "https://nveda.in/products/sleep-control.json",
+        "kind": "official-live",
+        "variantId": "44355032318231",
+        "matchBasis": "Official public Shopify product; exact variant ID 44355032318231 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 49,
+      "profile": {
+        "category": "melatonin",
+        "brand": "NVEDA",
+        "base": "https://nveda.in",
+        "handle": "sleep-control",
+        "product": "Melatonin 3 mg",
+        "form": "Tablet",
+        "type": "Melatonin",
+        "subclass": "Release profile not specified",
+        "packCount": 60,
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official product page lists 3 mg melatonin, one tablet per serving and net quantity 60 tablets.",
+        "notes": "Nutrition text contains an unresolved energy/carbohydrate inconsistency. Energy is withheld; labelled melatonin quantity is recorded.",
+        "labelChecked": "2026-10-31",
+        "melatoninMg": 3
+      }
+    }
+  ]
+}

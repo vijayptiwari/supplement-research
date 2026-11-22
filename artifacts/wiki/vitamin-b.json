@@ -1,0 +1,766 @@
+{
+  "schemaVersion": 1,
+  "order": 11,
+  "category": {
+    "id": "vitamin-b",
+    "label": "Vitamin B",
+    "mainNutrient": "multi",
+    "referenceQuantity": 1,
+    "referenceUnit": "label serving",
+    "compoundLabel": "labelled B-vitamin profile",
+    "nutrientFields": [
+      {
+        "key": "vitaminB1Mg",
+        "label": "B1 (thiamin)",
+        "unit": "mg",
+        "table": true,
+        "costQuantity": 1,
+        "searchAliases": [
+          "b1",
+          "thiamin",
+          "thiamine"
+        ]
+      },
+      {
+        "key": "vitaminB2Mg",
+        "label": "B2 (riboflavin)",
+        "unit": "mg",
+        "table": true,
+        "costQuantity": 1,
+        "searchAliases": [
+          "b2",
+          "riboflavin"
+        ]
+      },
+      {
+        "key": "vitaminB3Mg",
+        "label": "B3 (declared niacin)",
+        "unit": "mg",
+        "table": true,
+        "costQuantity": 1,
+        "searchAliases": [
+          "b3",
+          "niacin",
+          "nicotinamide",
+          "niacinamide"
+        ]
+      },
+      {
+        "key": "vitaminB5Mg",
+        "label": "B5 (pantothenic acid)",
+        "unit": "mg",
+        "table": true,
+        "costQuantity": 1,
+        "searchAliases": [
+          "b5",
+          "pantothenic"
+        ]
+      },
+      {
+        "key": "vitaminB6Mg",
+        "label": "B6",
+        "unit": "mg",
+        "table": true,
+        "costQuantity": 1,
+        "searchAliases": [
+          "b6",
+          "pyridoxine"
+        ]
+      },
+      {
+        "key": "biotinMcg",
+        "label": "B7 (biotin)",
+        "unit": "µg",
+        "table": true,
+        "costQuantity": 100,
+        "searchAliases": [
+          "b7",
+          "biotin"
+        ]
+      },
+      {
+        "key": "folicAcidMcg",
+        "label": "B9 (folic acid)",
+        "unit": "µg",
+        "table": true,
+        "costQuantity": 100,
+        "searchAliases": [
+          "b9",
+          "folic acid"
+        ]
+      },
+      {
+        "key": "folateMcgDfe",
+        "label": "Folate (dietary equivalents)",
+        "unit": "µg DFE",
+        "table": true,
+        "costQuantity": 100,
+        "searchAliases": [
+          "folate",
+          "dfe"
+        ]
+      },
+      {
+        "key": "methylfolateMcg",
+        "label": "B9 (methylfolate)",
+        "unit": "µg",
+        "table": true,
+        "costQuantity": 100,
+        "searchAliases": [
+          "methylfolate",
+          "5 mthf",
+          "5mthf",
+          "l methylfolate"
+        ]
+      },
+      {
+        "key": "vitaminB12Mcg",
+        "label": "B12",
+        "unit": "µg",
+        "table": true,
+        "costQuantity": 1,
+        "searchAliases": [
+          "b12",
+          "vitaminb12",
+          "cobalamin"
+        ]
+      }
+    ],
+    "comparisonNote": "B-complex and individual B vitamins are different profiles. Compare cost per label serving and each vitamin separately, in its own units. Vitamin masses are never added into a B-strength score; a one-vitamin product is not a complete B-complex. Folic acid, methylfolate and dietary folate equivalents remain separate.",
+    "searchAliases": [
+      "vitaminb",
+      "b vitamins"
+    ],
+    "file": "vitamin-b.json",
+    "page": "vitamin-b.html",
+    "measurement": "units"
+  },
+  "catalog": {
+    "checked": "2026-11-20",
+    "category": "vitamin-b"
+  },
+  "guide": {
+    "id": "vitamin-b-guide",
+    "category": "vitamin-b",
+    "title": "B vitamins: individual nutrients, individual requirements",
+    "summary": "Vitamin B is a family of eight nutrients. A B-complex product is a formulation, not one active ingredient with a meaningful combined strength.",
+    "evidence": "B vitamins have distinct roles in metabolism, blood-cell production and nervous-system function. Replacing a deficient vitamin can be useful; vague tiredness alone does not identify which nutrient, if any, is lacking.",
+    "limitations": "B1, B2, B3, B5, B6, B7, B9 and B12 are not interchangeable. Benefits from treating one deficiency cannot be transferred to every B-complex formulation, energy claim or premium chemical form.",
+    "catalogReading": "Compare each vitamin amount and chemical form on the same label-serving basis. B7 is biotin and B9 is folate; their dedicated guides add context. Keep milligrams, micrograms and folate DFE distinct. The catalog uses serving cost rather than adding B-vitamin masses into a potency score.",
+    "safety": "Excess supplemental B6 can damage sensory nerves. Nicotinic acid can cause flushing and, at high exposure, other serious effects; nicotinamide has a different risk profile. Check all overlapping products and medicines. Water-soluble does not mean unlimited amounts are harmless.",
+    "sourceIds": [
+      "b-family",
+      "b12-overview",
+      "b6-overview",
+      "b3-overview",
+      "food-gsh-protein-healthcanada",
+      "food-usda-sr28",
+      "folate-overview",
+      "b1-overview",
+      "b2-overview",
+      "b5-overview",
+      "biotin-overview",
+      "supplement-quality-ods"
+    ],
+    "reviewed": "2026-11-18",
+    "author": "Supplement Research editorial synthesis",
+    "bodySteps": [
+      "Different B vitamins enter distinct metabolic pathways; there is no single absorption or processing route for a B-complex blend.",
+      "For food-bound B12, digestive processing releases the vitamin before it binds intrinsic factor for absorption in the small intestine. Absorption problems can therefore matter even when intake appears adequate.",
+      "Cells use different B-derived coenzymes in energy metabolism and other functions. A physiological role does not establish that extra vitamins improve performance in someone with adequate status."
+    ],
+    "bodySources": [
+      "b-family",
+      "b12-overview",
+      "b3-overview"
+    ],
+    "treatment": "B12 deficiency, other B-vitamin deficiencies and anaemia need cause-specific care. Numbness, persistent fatigue or suspected malabsorption should not be managed solely by choosing an energy supplement.",
+    "whoMayBenefit": "People eating little or no animal food need a reliable B12 source, such as appropriately fortified foods or supplementation. Older adults and people with certain gastrointestinal conditions or medicines may also need assessment. These are reasons to review needs, not automatic diagnoses.",
+    "routineUse": "Choose a plan around the specific dietary or clinical need. A B-complex is not automatically better than a targeted nutrient. Review continuing use, overlapping B6 or niacin, and any other products containing biotin or folate.",
+    "sectionSources": [
+      "b-family",
+      "b12-overview",
+      "b6-overview",
+      "b3-overview"
+    ],
+    "buyingGuide": {
+      "whoCanConsider": [
+        "People eating little or no animal food who need a reliable B12 source from appropriately fortified food or supplementation.",
+        "People with an identified deficiency or a clinician-assessed absorption problem needing the relevant vitamin and treatment route."
+      ],
+      "whoShouldReview": [
+        "Numbness, balance problems, unexplained anaemia or persistent fatigue needs cause-specific assessment.",
+        "People with gastrointestinal disease or surgery, or medicines that affect B12, should review absorption and treatment needs.",
+        "Anyone stacking B-complex, multivitamin and energy products should check total B6 and niacin exposure; more is not automatically harmless."
+      ],
+      "foodSummary": "The eight B vitamins have different food sources and requirements. A varied diet supplies many of them, but unfortified plant foods are not a reliable B12 strategy.",
+      "foods": [
+        {
+          "name": "Egg, whole, hard-boiled",
+          "relationship": "direct",
+          "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": "USDA NDB 01129",
+          "amounts": [
+            {
+              "nutrient": "B12",
+              "min": 1.11,
+              "max": null,
+              "unit": "µg",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "100 g edible food"
+              },
+              "sourceIds": [
+                "food-usda-sr28"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Spinach, boiled",
+          "relationship": "different-form",
+          "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": null,
+          "amounts": [
+            {
+              "nutrient": "Natural food folate",
+              "min": 131,
+              "max": null,
+              "unit": "µg DFE",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "½ cup"
+              },
+              "sourceIds": [
+                "folate-overview"
+              ]
+            }
+          ]
+        }
+      ],
+      "foodSourceIds": [
+        "b-family",
+        "b12-overview",
+        "food-gsh-protein-healthcanada",
+        "food-usda-sr28",
+        "folate-overview"
+      ],
+      "value": {
+        "routineScore": 2,
+        "targetedScore": 5,
+        "targetedUse": "Supplying a specific missing B vitamin, including a reliable B12 source where dietary provision is inadequate.",
+        "reason": "There is a strong case for addressing the actual nutrient gap. That does not make every broad B-complex or high-strength energy formula a good purchase.",
+        "worthWhen": [
+          "The required vitamin, amount and route fit an assessed dietary gap or clinical plan."
+        ],
+        "skipWhen": [
+          "A broad complex is being chosen solely for nonspecific tiredness or an energy claim.",
+          "A stronger blend adds unnecessary B6 or niacin to products already being used."
+        ],
+        "evidence": "strong",
+        "scope": "The targeted rating applies to an appropriate missing-vitamin replacement or B12 provision. It is not a universal B-complex endorsement, a potency score or a substitute for diagnosis.",
+        "sourceIds": [
+          "b-family",
+          "b12-overview",
+          "b6-overview",
+          "b3-overview"
+        ]
+      },
+      "reviewed": "2026-11-18",
+      "practices": {
+        "dos": [
+          {
+            "title": "Identify the vitamin actually needed",
+            "detail": "A specific missing vitamin and appropriate formulation matter more than a broad energy or B-complex claim."
+          },
+          {
+            "title": "Read the full vitamin profile",
+            "detail": "Compare each amount and form on the same serving basis, including B6, niacin, biotin and folate in overlapping products."
+          }
+        ],
+        "donts": [
+          {
+            "title": "Don't create a combined potency total",
+            "detail": "Adding vitamin masses obscures different nutrients and units; milligrams, micrograms and folate DFE remain separate."
+          },
+          {
+            "title": "Don't assume water-soluble means harmless",
+            "detail": "Unnecessary high B6 or niacin exposure can add risk; nonspecific tiredness alone does not establish a vitamin deficiency."
+          }
+        ],
+        "sourceIds": [
+          "b-family",
+          "b12-overview",
+          "b6-overview",
+          "b3-overview"
+        ]
+      }
+    },
+    "intakeGuide": {
+      "kind": "daily-target",
+      "summary": "Each B vitamin has a separate reference; there is no valid combined B-complex dose. Niacin uses equivalents; folate uses DFE.",
+      "targets": [
+        {
+          "key": "vitaminB1Mg",
+          "label": "B1 (thiamin)",
+          "min": 1.2,
+          "max": null,
+          "unit": "mg",
+          "basis": "total-daily",
+          "perKg": false,
+          "profileIds": [
+            "everyday",
+            "general-fitness",
+            "strength-power",
+            "hypertrophy",
+            "endurance",
+            "hybrid"
+          ],
+          "sex": "male",
+          "minAge": 19,
+          "maxAge": null,
+          "referenceType": "RDA",
+          "notes": "",
+          "sourceIds": [
+            "b1-overview"
+          ]
+        },
+        {
+          "key": "vitaminB1Mg",
+          "label": "B1 (thiamin)",
+          "min": 1.1,
+          "max": null,
+          "unit": "mg",
+          "basis": "total-daily",
+          "perKg": false,
+          "profileIds": [
+            "everyday",
+            "general-fitness",
+            "strength-power",
+            "hypertrophy",
+            "endurance",
+            "hybrid"
+          ],
+          "sex": "female",
+          "minAge": 19,
+          "maxAge": null,
+          "referenceType": "RDA",
+          "notes": "",
+          "sourceIds": [
+            "b1-overview"
+          ]
+        },
+        {
+          "key": "vitaminB2Mg",
+          "label": "B2 (riboflavin)",
+          "min": 1.3,
+          "max": null,
+          "unit": "mg",
+          "basis": "total-daily",
+          "perKg": false,
+          "profileIds": [
+            "everyday",
+            "general-fitness",
+            "strength-power",
+            "hypertrophy",
+            "endurance",
+            "hybrid"
+          ],
+          "sex": "male",
+          "minAge": 19,
+          "maxAge": null,
+          "referenceType": "RDA",
+          "notes": "",
+          "sourceIds": [
+            "b2-overview"
+          ]
+        },
+        {
+          "key": "vitaminB2Mg",
+          "label": "B2 (riboflavin)",
+          "min": 1.1,
+          "max": null,
+          "unit": "mg",
+          "basis": "total-daily",
+          "perKg": false,
+          "profileIds": [
+            "everyday",
+            "general-fitness",
+            "strength-power",
+            "hypertrophy",
+            "endurance",
+            "hybrid"
+          ],
+          "sex": "female",
+          "minAge": 19,
+          "maxAge": null,
+          "referenceType": "RDA",
+          "notes": "",
+          "sourceIds": [
+            "b2-overview"
+          ]
+        },
+        {
+          "key": "vitaminB3Mg",
+          "label": "B3 (niacin equivalents)",
+          "min": 16,
+          "max": null,
+          "unit": "mg NE",
+          "basis": "total-daily",
+          "perKg": false,
+          "profileIds": [
+            "everyday",
+            "general-fitness",
+            "strength-power",
+            "hypertrophy",
+            "endurance",
+            "hybrid"
+          ],
+          "sex": "male",
+          "minAge": 19,
+          "maxAge": null,
+          "referenceType": "RDA",
+          "notes": "",
+          "sourceIds": [
+            "b3-overview"
+          ]
+        },
+        {
+          "key": "vitaminB3Mg",
+          "label": "B3 (niacin equivalents)",
+          "min": 14,
+          "max": null,
+          "unit": "mg NE",
+          "basis": "total-daily",
+          "perKg": false,
+          "profileIds": [
+            "everyday",
+            "general-fitness",
+            "strength-power",
+            "hypertrophy",
+            "endurance",
+            "hybrid"
+          ],
+          "sex": "female",
+          "minAge": 19,
+          "maxAge": null,
+          "referenceType": "RDA",
+          "notes": "",
+          "sourceIds": [
+            "b3-overview"
+          ]
+        },
+        {
+          "key": "vitaminB5Mg",
+          "label": "B5 (pantothenic acid)",
+          "min": 5,
+          "max": null,
+          "unit": "mg",
+          "basis": "total-daily",
+          "perKg": false,
+          "profileIds": [
+            "everyday",
+            "general-fitness",
+            "strength-power",
+            "hypertrophy",
+            "endurance",
+            "hybrid"
+          ],
+          "sex": "any",
+          "minAge": 19,
+          "maxAge": null,
+          "referenceType": "AI",
+          "notes": "",
+          "sourceIds": [
+            "b5-overview"
+          ]
+        },
+        {
+          "key": "vitaminB12Mcg",
+          "label": "B12",
+          "min": 2.4,
+          "max": null,
+          "unit": "µg",
+          "basis": "total-daily",
+          "perKg": false,
+          "profileIds": [
+            "everyday",
+            "general-fitness",
+            "strength-power",
+            "hypertrophy",
+            "endurance",
+            "hybrid"
+          ],
+          "sex": "any",
+          "minAge": 19,
+          "maxAge": null,
+          "referenceType": "RDA",
+          "notes": "",
+          "sourceIds": [
+            "b12-overview"
+          ]
+        },
+        {
+          "key": "vitaminB6Mg",
+          "label": "B6",
+          "min": 1.3,
+          "max": null,
+          "unit": "mg",
+          "basis": "total-daily",
+          "perKg": false,
+          "profileIds": [
+            "everyday",
+            "general-fitness",
+            "strength-power",
+            "hypertrophy",
+            "endurance",
+            "hybrid"
+          ],
+          "sex": "any",
+          "minAge": 19,
+          "maxAge": 50,
+          "referenceType": "RDA",
+          "notes": "",
+          "sourceIds": [
+            "b6-overview"
+          ]
+        },
+        {
+          "key": "vitaminB6Mg",
+          "label": "B6",
+          "min": 1.7,
+          "max": null,
+          "unit": "mg",
+          "basis": "total-daily",
+          "perKg": false,
+          "profileIds": [
+            "everyday",
+            "general-fitness",
+            "strength-power",
+            "hypertrophy",
+            "endurance",
+            "hybrid"
+          ],
+          "sex": "male",
+          "minAge": 51,
+          "maxAge": null,
+          "referenceType": "RDA",
+          "notes": "",
+          "sourceIds": [
+            "b6-overview"
+          ]
+        },
+        {
+          "key": "vitaminB6Mg",
+          "label": "B6",
+          "min": 1.5,
+          "max": null,
+          "unit": "mg",
+          "basis": "total-daily",
+          "perKg": false,
+          "profileIds": [
+            "everyday",
+            "general-fitness",
+            "strength-power",
+            "hypertrophy",
+            "endurance",
+            "hybrid"
+          ],
+          "sex": "female",
+          "minAge": 51,
+          "maxAge": null,
+          "referenceType": "RDA",
+          "notes": "",
+          "sourceIds": [
+            "b6-overview"
+          ]
+        },
+        {
+          "key": "biotinMcg",
+          "label": "Biotin",
+          "min": 30,
+          "max": null,
+          "unit": "µg",
+          "basis": "total-daily",
+          "perKg": false,
+          "profileIds": [
+            "everyday",
+            "general-fitness",
+            "strength-power",
+            "hypertrophy",
+            "endurance",
+            "hybrid"
+          ],
+          "sex": "any",
+          "minAge": 19,
+          "maxAge": null,
+          "referenceType": "AI",
+          "notes": "No established UL does not establish safety of high-dose hair products; biotin can interfere with laboratory tests.",
+          "sourceIds": [
+            "biotin-overview"
+          ]
+        },
+        {
+          "key": "folateMcgDfe",
+          "label": "Folate",
+          "min": 400,
+          "max": null,
+          "unit": "µg DFE",
+          "basis": "total-daily",
+          "perKg": false,
+          "profileIds": [
+            "everyday",
+            "general-fitness",
+            "strength-power",
+            "hypertrophy",
+            "endurance",
+            "hybrid"
+          ],
+          "sex": "any",
+          "minAge": 19,
+          "maxAge": null,
+          "referenceType": "RDA",
+          "notes": "Dietary folate equivalents, not 400 µg of every synthetic folate form. Preconception folic-acid advice is a separate prevention indication; seek individual advice.",
+          "sourceIds": [
+            "folate-overview"
+          ]
+        }
+      ],
+      "limits": [
+        {
+          "key": "folicAcidMcg",
+          "label": "Synthetic folic acid UL",
+          "max": 1000,
+          "unit": "µg",
+          "basis": "synthetic-folic-acid",
+          "minAge": 19,
+          "maxAge": null,
+          "notes": "From supplements and fortified foods, not natural food folate. DFE and methylfolate mass are not automatically added as folic acid.",
+          "sourceIds": [
+            "folate-overview"
+          ]
+        }
+      ],
+      "notes": [
+        "No automatic dose increase is assigned for training frequency or experience.",
+        "High B6 intake can cause nerve injury. Upper limits differ by jurisdiction; do not interpret a missing numeric limit here as unlimited safety. B3 forms also differ; no aggregate B-complex upper limit is calculated."
+      ],
+      "sourceIds": [
+        "b1-overview",
+        "b2-overview",
+        "b3-overview",
+        "b5-overview",
+        "b12-overview",
+        "b6-overview",
+        "biotin-overview",
+        "folate-overview"
+      ],
+      "reviewed": "2026-11-17"
+    },
+    "medicalGuide": {
+      "summary": "Condition-specific evidence, separate from sports benefits and purchase priority.",
+      "conditions": [
+        {
+          "condition": "Specific B-vitamin deficiency, including B12 deficiency",
+          "level": "established",
+          "findings": "Use the vitamin appropriate to the diagnosis and cause. Neurological symptoms or malabsorption may require a different regimen from a retail B-complex.",
+          "limits": "B12 deficiency, other B-vitamin deficiencies and anaemia need cause-specific care. Numbness, persistent fatigue or suspected malabsorption should not be managed solely by choosing an energy supplement.",
+          "sourceIds": [
+            "b-family",
+            "b12-overview",
+            "b6-overview",
+            "b3-overview"
+          ]
+        }
+      ],
+      "reviewed": "2026-11-17"
+    },
+    "pathway": {
+      "title": "The B family has several distinct coenzyme routes",
+      "summary": "These are three representative routes, not a single B-complex pathway. The eight B vitamins have different roles, absorption patterns and requirements.",
+      "tracks": [
+        {
+          "label": "B1: thiamin and metabolic enzymes",
+          "steps": [
+            {
+              "label": "The intestine absorbs free thiamin",
+              "detail": "Food thiamin is released from phosphorylated forms before absorption; supplements also supply absorbable thiamin.",
+              "compartment": "Intestine",
+              "icon": "digest"
+            },
+            {
+              "label": "Cells form the active diphosphate",
+              "detail": "Thiamin diphosphate, also called TDP or TPP, is the main metabolically active form.",
+              "compartment": "Cells",
+              "icon": "molecule"
+            },
+            {
+              "label": "TDP supports metabolic enzyme reactions",
+              "detail": "TDP is a cofactor for enzymes involved in glucose, amino-acid and lipid metabolism.",
+              "compartment": "Cells",
+              "icon": "energy"
+            }
+          ]
+        },
+        {
+          "label": "B3: niacin and redox coenzymes",
+          "steps": [
+            {
+              "label": "Niacin from intake becomes available",
+              "detail": "Dietary niacin forms supply a precursor for cellular coenzymes.",
+              "compartment": "Intestine / blood",
+              "icon": "blood"
+            },
+            {
+              "label": "Cells form NAD and NADP",
+              "detail": "Absorbed niacin is converted into NAD and its phosphorylated coenzyme form, NADP.",
+              "compartment": "Cells",
+              "icon": "molecule"
+            },
+            {
+              "label": "Coenzymes participate in metabolic reactions",
+              "detail": "Niacin-derived coenzymes support redox reactions in energy metabolism and biosynthesis.",
+              "compartment": "Cells",
+              "icon": "energy"
+            }
+          ]
+        },
+        {
+          "label": "B12: absorption and enzyme cofactors",
+          "steps": [
+            {
+              "label": "Digestion frees food bound B12",
+              "detail": "Digestive processing releases B12 from food proteins; B12 added to supplements starts in a free form.",
+              "compartment": "Stomach / intestine",
+              "icon": "digest"
+            },
+            {
+              "label": "Intrinsic factor enables the main uptake",
+              "detail": "B12 binds intrinsic factor and the complex is absorbed in the distal ileum.",
+              "compartment": "Intestine",
+              "icon": "molecule"
+            },
+            {
+              "label": "B12 serves two enzyme systems",
+              "detail": "B12 supports methionine synthase and methylmalonyl-CoA mutase, with roles in normal cellular metabolism.",
+              "compartment": "Cells",
+              "icon": "cell"
+            }
+          ]
+        }
+      ],
+      "caveat": "B vitamins help use nutrients; they are not calories or a guaranteed energy boost. This representative map does not replace assessing each vitamin separately.",
+      "sourceIds": [
+        "b1-overview",
+        "b3-overview",
+        "b12-overview"
+      ]
+    }
+  }
+}

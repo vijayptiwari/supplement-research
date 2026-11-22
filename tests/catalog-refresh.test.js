@@ -1,14 +1,13 @@
 import {test} from 'node:test';
 import assert from 'node:assert/strict';
-import fs from 'node:fs/promises';
-import {loadBundle} from '../scripts/build_site.mjs';
+import {loadArtifactSources} from '../scripts/artifact_store.mjs';
 import {createSnapshot} from '../docs/model.js';
 import {auditStack} from '../docs/stack-audit.js';
 import {referenceDefaults} from '../docs/intake.js';
 import {catalogResearchMarkup} from '../docs/catalog-research.js';
 import {otherIngredientsMarkup} from '../docs/unit-catalog.js';
 
-const bundle=loadBundle(),snapshot=bundle.then(createSnapshot),read=name=>fs.readFile(new URL('../docs/data/'+name,import.meta.url),'utf8').then(JSON.parse);
+const sources=loadArtifactSources(),bundle=sources.then(s=>s.bundle),snapshot=bundle.then(createSnapshot),read=name=>sources.then(s=>structuredClone(s.legacyDocuments[name]));
 
 test('every supplement gains exact sourced offers and the audit distinguishes price checks from label review',async()=>{
  const s=await snapshot,a=await read('catalog-research.json'),requirements=await read('catalog-data-requirements.json');

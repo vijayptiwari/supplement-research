@@ -1,0 +1,214 @@
+{
+  "schemaVersion": 1,
+  "category": "eaa",
+  "brand": "Scitron",
+  "product": "Nitro Series EAA",
+  "variants": [
+    {
+      "order": 4,
+      "offer": {
+        "brand": "Scitron",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-11-19",
+        "flavour": "Blue Raspberry",
+        "product": "Nitro Series EAA",
+        "form": "Powder",
+        "type": "All nine EAA blend",
+        "subclass": "EAA with BCAA subset",
+        "grams": 300,
+        "servingGrams": 10,
+        "eaaMg": 6560,
+        "bcaaMg": 4800,
+        "leucineMg": 2400,
+        "isoleucineMg": 1200,
+        "valineMg": 1200,
+        "energyPerServing": 2.43,
+        "declaredNutrients": [
+          "eaaMg",
+          "bcaaMg",
+          "leucineMg",
+          "isoleucineMg",
+          "valineMg"
+        ],
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0591/3156/0089/files/bluerasberryR3.png?v=1712576907",
+        "basis": "The exact flavour pictured manufacturer panel states one 10 g scoop, EAA 6.56 g, leucine 2.4 g, isoleucine 1.2 g, valine 1.2 g, and 2.43 kcal. Net 300 g is the selected variant.",
+        "notes": "Sold out at the observed price. The 6.56 g panel value takes precedence over rounded 6.5 g headline wording. The 4.8 g BCAA amount is the three stated components within the EAA total, not an additional 4.8 g. Nine component amounts sum to the panel EAA total.",
+        "packCount": null,
+        "servingUnits": null,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0591/3156/0089/files/bluerasberryR3.png?v=1712576907"
+        ],
+        "id": "eaa-42939769749657",
+        "price": 999,
+        "currency": "INR",
+        "stock": "Sold out",
+        "url": "https://scitron.com/products/nitro-series-eaa-9-essential-amino-acids-6-5g-eaa-4-8g-bcaa-0g-sugar?variant=42939769749657"
+      }
+    },
+    {
+      "order": 5,
+      "offer": {
+        "brand": "Scitron",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-11-19",
+        "flavour": "Pineapple Strawberry",
+        "product": "Nitro Series EAA",
+        "form": "Powder",
+        "type": "All nine EAA blend",
+        "subclass": "EAA with BCAA subset",
+        "grams": 300,
+        "servingGrams": 10,
+        "eaaMg": 6560,
+        "bcaaMg": 4800,
+        "leucineMg": 2400,
+        "isoleucineMg": 1200,
+        "valineMg": 1200,
+        "energyPerServing": 2.43,
+        "declaredNutrients": [
+          "eaaMg",
+          "bcaaMg",
+          "leucineMg",
+          "isoleucineMg",
+          "valineMg"
+        ],
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0591/3156/0089/files/pineappleR3.png?v=1712577145",
+        "basis": "The exact flavour pictured manufacturer panel states one 10 g scoop, EAA 6.56 g, leucine 2.4 g, isoleucine 1.2 g, valine 1.2 g, and 2.43 kcal. Net 300 g is the selected variant.",
+        "notes": "Sold out at the observed price. The 6.56 g panel value takes precedence over rounded 6.5 g headline wording. The 4.8 g BCAA amount is the three stated components within the EAA total, not an additional 4.8 g. Nine component amounts sum to the panel EAA total.",
+        "packCount": null,
+        "servingUnits": null,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0591/3156/0089/files/pineappleR3.png?v=1712577145"
+        ],
+        "id": "eaa-42939769782425",
+        "price": 999,
+        "currency": "INR",
+        "stock": "Sold out",
+        "url": "https://scitron.com/products/nitro-series-eaa-9-essential-amino-acids-6-5g-eaa-4-8g-bcaa-0g-sugar?variant=42939769782425"
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 4044,
+      "observation": {
+        "category": "eaa",
+        "offerId": "eaa-42939769749657",
+        "date": "2026-11-19",
+        "price": 999,
+        "currency": "INR",
+        "sourceUrl": "https://scitron.com/products/nitro-series-eaa-9-essential-amino-acids-6-5g-eaa-4-8g-bcaa-0g-sugar?variant=42939769749657",
+        "evidenceUrl": "https://scitron.com/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "42939769749657",
+        "matchBasis": "Official public Shopify feed fetched 2026-11-19; exact variant ID and unconditional price matched. INR currency confirmed in the live official product HTML. Net pack, serving and ingredient basis use the specific referenced manufacturer label."
+      }
+    },
+    {
+      "order": 4045,
+      "observation": {
+        "category": "eaa",
+        "offerId": "eaa-42939769782425",
+        "date": "2026-11-19",
+        "price": 999,
+        "currency": "INR",
+        "sourceUrl": "https://scitron.com/products/nitro-series-eaa-9-essential-amino-acids-6-5g-eaa-4-8g-bcaa-0g-sugar?variant=42939769782425",
+        "evidenceUrl": "https://scitron.com/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "42939769782425",
+        "matchBasis": "Official public Shopify feed fetched 2026-11-19; exact variant ID and unconditional price matched. INR currency confirmed in the live official product HTML. Net pack, serving and ingredient basis use the specific referenced manufacturer label."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 179,
+      "profile": {
+        "category": "eaa",
+        "brand": "Scitron",
+        "base": "https://scitron.com",
+        "handle": "nitro-series-eaa-9-essential-amino-acids-6-5g-eaa-4-8g-bcaa-0g-sugar",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-11-19",
+        "variantIds": [
+          "42939769749657"
+        ],
+        "flavour": "Blue Raspberry",
+        "product": "Nitro Series EAA",
+        "form": "Powder",
+        "type": "All nine EAA blend",
+        "subclass": "EAA with BCAA subset",
+        "grams": 300,
+        "servingGrams": 10,
+        "eaaMg": 6560,
+        "bcaaMg": 4800,
+        "leucineMg": 2400,
+        "isoleucineMg": 1200,
+        "valineMg": 1200,
+        "energyPerServing": 2.43,
+        "declaredNutrients": [
+          "eaaMg",
+          "bcaaMg",
+          "leucineMg",
+          "isoleucineMg",
+          "valineMg"
+        ],
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0591/3156/0089/files/bluerasberryR3.png?v=1712576907",
+        "basis": "The exact flavour pictured manufacturer panel states one 10 g scoop, EAA 6.56 g, leucine 2.4 g, isoleucine 1.2 g, valine 1.2 g, and 2.43 kcal. Net 300 g is the selected variant.",
+        "notes": "Sold out at the observed price. The 6.56 g panel value takes precedence over rounded 6.5 g headline wording. The 4.8 g BCAA amount is the three stated components within the EAA total, not an additional 4.8 g. Nine component amounts sum to the panel EAA total.",
+        "packCount": null,
+        "servingUnits": null,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0591/3156/0089/files/bluerasberryR3.png?v=1712576907"
+        ],
+        "id": "eaa-42939769749657"
+      }
+    },
+    {
+      "order": 180,
+      "profile": {
+        "category": "eaa",
+        "brand": "Scitron",
+        "base": "https://scitron.com",
+        "handle": "nitro-series-eaa-9-essential-amino-acids-6-5g-eaa-4-8g-bcaa-0g-sugar",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-11-19",
+        "variantIds": [
+          "42939769782425"
+        ],
+        "flavour": "Pineapple Strawberry",
+        "product": "Nitro Series EAA",
+        "form": "Powder",
+        "type": "All nine EAA blend",
+        "subclass": "EAA with BCAA subset",
+        "grams": 300,
+        "servingGrams": 10,
+        "eaaMg": 6560,
+        "bcaaMg": 4800,
+        "leucineMg": 2400,
+        "isoleucineMg": 1200,
+        "valineMg": 1200,
+        "energyPerServing": 2.43,
+        "declaredNutrients": [
+          "eaaMg",
+          "bcaaMg",
+          "leucineMg",
+          "isoleucineMg",
+          "valineMg"
+        ],
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0591/3156/0089/files/pineappleR3.png?v=1712577145",
+        "basis": "The exact flavour pictured manufacturer panel states one 10 g scoop, EAA 6.56 g, leucine 2.4 g, isoleucine 1.2 g, valine 1.2 g, and 2.43 kcal. Net 300 g is the selected variant.",
+        "notes": "Sold out at the observed price. The 6.56 g panel value takes precedence over rounded 6.5 g headline wording. The 4.8 g BCAA amount is the three stated components within the EAA total, not an additional 4.8 g. Nine component amounts sum to the panel EAA total.",
+        "packCount": null,
+        "servingUnits": null,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0591/3156/0089/files/pineappleR3.png?v=1712577145"
+        ],
+        "id": "eaa-42939769782425"
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "category": "bcaa",
+  "brand": "Carbamide Forte",
+  "product": "BCAA Powder 5000 mg",
+  "variants": [
+    {
+      "order": 5,
+      "offer": {
+        "brand": "Carbamide Forte",
+        "product": "BCAA Powder 5000 mg",
+        "form": "Powder",
+        "type": "BCAA 2:1:1",
+        "subclass": "Flavoured BCAA",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "packCount": null,
+        "servingUnits": null,
+        "servingGrams": null,
+        "labelChecked": "2026-11-17",
+        "basis": "Official product information identifies 210 g powder in a single jar and the exact Masala Watermelon variant.",
+        "notes": "The 5000 mg headline and 2:1:1 ratio are brand claims. A consistent, exact serving mass and active-quantity basis were not verified, so serving and active-content costs remain unknown.",
+        "grams": 210,
+        "flavour": "Masala Watermelon",
+        "bcaaMg": null,
+        "leucineMg": null,
+        "isoleucineMg": null,
+        "valineMg": null,
+        "id": "bcaa-40044568871025",
+        "price": 590,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://mycf.in/products/carbamide-forte-bcaa-powder-bcaa-with-2-1-1-ratio-for-muscle-growth-muscle-recovery-for-gym-goers-210g?variant=40044568871025",
+        "nutritionUrl": "https://mycf.in/products/carbamide-forte-bcaa-powder-bcaa-with-2-1-1-ratio-for-muscle-growth-muscle-recovery-for-gym-goers-210g",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://mycf.in/products/carbamide-forte-bcaa-powder-bcaa-with-2-1-1-ratio-for-muscle-growth-muscle-recovery-for-gym-goers-210g?variant=40044568871025",
+          "evidenceUrl": "https://mycf.in/products/carbamide-forte-bcaa-powder-bcaa-with-2-1-1-ratio-for-muscle-growth-muscle-recovery-for-gym-goers-210g.json",
+          "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3816,
+      "observation": {
+        "category": "bcaa",
+        "offerId": "bcaa-40044568871025",
+        "date": "2026-11-17",
+        "price": 590,
+        "currency": "INR",
+        "sourceUrl": "https://mycf.in/products/carbamide-forte-bcaa-powder-bcaa-with-2-1-1-ratio-for-muscle-growth-muscle-recovery-for-gym-goers-210g?variant=40044568871025",
+        "evidenceUrl": "https://mycf.in/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "40044568871025",
+        "matchBasis": "Official Shopify public feed fetched 2026-11-17; exact variant ID, unconditional single-pack price, size/flavour and availability matched."
+      }
+    },
+    {
+      "order": 4010,
+      "observation": {
+        "category": "bcaa",
+        "offerId": "bcaa-40044568871025",
+        "date": "2026-11-19",
+        "price": 590,
+        "currency": "INR",
+        "sourceUrl": "https://mycf.in/products/carbamide-forte-bcaa-powder-bcaa-with-2-1-1-ratio-for-muscle-growth-muscle-recovery-for-gym-goers-210g?variant=40044568871025",
+        "evidenceUrl": "https://mycf.in/products/carbamide-forte-bcaa-powder-bcaa-with-2-1-1-ratio-for-muscle-growth-muscle-recovery-for-gym-goers-210g.json",
+        "kind": "official-live",
+        "variantId": "40044568871025",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 100,
+      "profile": {
+        "category": "bcaa",
+        "brand": "Carbamide Forte",
+        "base": "https://mycf.in",
+        "handle": "carbamide-forte-bcaa-powder-bcaa-with-2-1-1-ratio-for-muscle-growth-muscle-recovery-for-gym-goers-210g",
+        "product": "BCAA Powder 5000 mg",
+        "form": "Powder",
+        "type": "BCAA 2:1:1",
+        "subclass": "Flavoured BCAA",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "packCount": null,
+        "servingUnits": null,
+        "servingGrams": null,
+        "labelChecked": "2026-11-17",
+        "variantIds": [
+          "40044568871025"
+        ],
+        "basis": "Official product information identifies 210 g powder in a single jar and the exact Masala Watermelon variant.",
+        "notes": "The 5000 mg headline and 2:1:1 ratio are brand claims. A consistent, exact serving mass and active-quantity basis were not verified, so serving and active-content costs remain unknown.",
+        "grams": 210,
+        "flavour": "Masala Watermelon",
+        "bcaaMg": null,
+        "leucineMg": null,
+        "isoleucineMg": null,
+        "valineMg": null
+      }
+    }
+  ]
+}

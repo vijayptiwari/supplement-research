@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "category": "creatine",
+  "brand": "Wellcore",
+  "product": "Creatine Monohydrate for Women",
+  "variants": [
+    {
+      "order": 192,
+      "offer": {
+        "id": "cr-192",
+        "brand": "Wellcore",
+        "product": "Creatine Monohydrate for Women",
+        "type": "Monohydrate",
+        "subclass": "Micronized",
+        "grade": "Not specified",
+        "formulation": "With vitamins and iron",
+        "packaging": "Standard pack",
+        "flavour": "Cranberry Crush",
+        "grams": 134.5,
+        "kg": 0.1345,
+        "price": 610,
+        "stock": "In stock",
+        "creatine": 73.71007371007371,
+        "scoop": 4.07,
+        "serving": 4.07,
+        "creatineServing": 3,
+        "energy": 0,
+        "url": "https://wellversed.in/products/wellcore-micronised-creatine-monohydrate-for-women-134-5g-33-servings-cranberry-crush?variant=51018087891196",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0233/6459/9885/files/Left_CC83servings_Creatine_Listing_Wellcore.jpg?v=1787821855",
+        "basis": "Official product label, visually verified: named creatine compound quantity; per100g stated or calculated from serving.",
+        "notes": "338g label used for same product/flavour in both pack sizes. Contains iron and vitamins.",
+        "energyBasis": "Official label per100g energy or serving kcal × 100 / serving grams.",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://wellversed.in/products/wellcore-micronised-creatine-monohydrate-for-women-134-5g-33-servings-cranberry-crush?variant=51018087891196",
+          "evidenceUrl": "https://wellversed.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 193,
+      "offer": {
+        "id": "cr-193",
+        "brand": "Wellcore",
+        "product": "Creatine Monohydrate for Women",
+        "type": "Monohydrate",
+        "subclass": "Micronized",
+        "grade": "Not specified",
+        "formulation": "With vitamins and iron",
+        "packaging": "Standard pack",
+        "flavour": "Cranberry Crush",
+        "grams": 338,
+        "kg": 0.338,
+        "price": 1188,
+        "stock": "In stock",
+        "creatine": 73.71007371007371,
+        "scoop": 4.07,
+        "serving": 4.07,
+        "creatineServing": 3,
+        "energy": 0,
+        "url": "https://wellversed.in/products/wellcore-micronised-creatine-monohydrate-for-women-338g-83-servings-cranberry-crush?variant=51018096541948",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0233/6459/9885/files/Left_CC83servings_Creatine_Listing_Wellcore.jpg?v=1787821855",
+        "basis": "Official product label, visually verified: named creatine compound quantity; per100g stated or calculated from serving.",
+        "notes": "338g label used for same product/flavour in both pack sizes. Contains iron and vitamins.",
+        "energyBasis": "Official label per100g energy or serving kcal × 100 / serving grams.",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://wellversed.in/products/wellcore-micronised-creatine-monohydrate-for-women-338g-83-servings-cranberry-crush?variant=51018096541948",
+          "evidenceUrl": "https://wellversed.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3185,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-192",
+        "date": "2026-10-25",
+        "price": 610,
+        "currency": "INR",
+        "sourceUrl": "https://wellversed.in/products/wellcore-micronised-creatine-monohydrate-for-women-134-5g-33-servings-cranberry-crush?variant=51018087891196",
+        "evidenceUrl": "https://wellversed.in/products/wellcore-micronised-creatine-monohydrate-for-women-134-5g-33-servings-cranberry-crush.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "51018087891196"
+      }
+    },
+    {
+      "order": 3186,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-193",
+        "date": "2026-10-25",
+        "price": 1188,
+        "currency": "INR",
+        "sourceUrl": "https://wellversed.in/products/wellcore-micronised-creatine-monohydrate-for-women-338g-83-servings-cranberry-crush?variant=51018096541948",
+        "evidenceUrl": "https://wellversed.in/products/wellcore-micronised-creatine-monohydrate-for-women-338g-83-servings-cranberry-crush.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "51018096541948"
+      }
+    },
+    {
+      "order": 5045,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-192",
+        "date": "2026-11-19",
+        "price": 610,
+        "currency": "INR",
+        "sourceUrl": "https://wellversed.in/products/wellcore-micronised-creatine-monohydrate-for-women-134-5g-33-servings-cranberry-crush?variant=51018087891196",
+        "evidenceUrl": "https://wellversed.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "51018087891196"
+      }
+    },
+    {
+      "order": 5046,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-193",
+        "date": "2026-11-19",
+        "price": 1188,
+        "currency": "INR",
+        "sourceUrl": "https://wellversed.in/products/wellcore-micronised-creatine-monohydrate-for-women-338g-83-servings-cranberry-crush?variant=51018096541948",
+        "evidenceUrl": "https://wellversed.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "51018096541948"
+      }
+    }
+  ],
+  "refreshSources": []
+}

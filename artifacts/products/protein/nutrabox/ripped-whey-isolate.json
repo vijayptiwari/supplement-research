@@ -1,0 +1,449 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "Nutrabox",
+  "product": "Ripped Whey Isolate",
+  "variants": [
+    {
+      "order": 594,
+      "offer": {
+        "id": 594,
+        "brand": "Nutrabox",
+        "product": "Ripped Whey Isolate",
+        "type": "Whey — isolate",
+        "flavour": "Alphonso Mango",
+        "kg": 1,
+        "price": 5399,
+        "stock": "Sold out",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey isolate",
+        "energy": null,
+        "url": "https://nutrabox.in/products/ripped-whey-isolate?variant=43928599527598",
+        "nutritionUrl": "https://nutrabox.in/products/ripped-whey-isolate?variant=43928599527598",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nutrabox.in/products/ripped-whey-isolate?variant=43928599527598",
+          "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 595,
+      "offer": {
+        "id": 595,
+        "brand": "Nutrabox",
+        "product": "Ripped Whey Isolate",
+        "type": "Whey — isolate",
+        "flavour": "Malai Kulfi",
+        "kg": 1,
+        "price": 5399,
+        "stock": "Sold out",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey isolate",
+        "energy": null,
+        "url": "https://nutrabox.in/products/ripped-whey-isolate?variant=43954458493102",
+        "nutritionUrl": "https://nutrabox.in/products/ripped-whey-isolate?variant=43954458493102",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nutrabox.in/products/ripped-whey-isolate?variant=43954458493102",
+          "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 596,
+      "offer": {
+        "id": 596,
+        "brand": "Nutrabox",
+        "product": "Ripped Whey Isolate",
+        "type": "Whey — isolate",
+        "flavour": "Swiss Chocolate",
+        "kg": 1,
+        "price": 5399,
+        "stock": "Sold out",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey isolate",
+        "energy": null,
+        "url": "https://nutrabox.in/products/ripped-whey-isolate?variant=43396558028974",
+        "nutritionUrl": "https://nutrabox.in/products/ripped-whey-isolate?variant=43396558028974",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nutrabox.in/products/ripped-whey-isolate?variant=43396558028974",
+          "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 1519,
+      "observation": {
+        "category": "protein",
+        "offerId": 594,
+        "date": "2023-10-02",
+        "price": 2799,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/ripped-whey-isolate?variant=43928599527598",
+        "evidenceUrl": "https://web.archive.org/web/20231002113854id_/https://nutrabox.in/products/ripped-whey-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "43928599527598",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1520,
+      "observation": {
+        "category": "protein",
+        "offerId": 595,
+        "date": "2023-10-02",
+        "price": 2799,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/ripped-whey-isolate?variant=43954458493102",
+        "evidenceUrl": "https://web.archive.org/web/20231002113854id_/https://nutrabox.in/products/ripped-whey-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "43954458493102",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1521,
+      "observation": {
+        "category": "protein",
+        "offerId": 596,
+        "date": "2023-10-02",
+        "price": 2799,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/ripped-whey-isolate?variant=43396558028974",
+        "evidenceUrl": "https://web.archive.org/web/20231002113854id_/https://nutrabox.in/products/ripped-whey-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "43396558028974",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1522,
+      "observation": {
+        "category": "protein",
+        "offerId": 594,
+        "date": "2024-04-12",
+        "price": 2799,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/ripped-whey-isolate?variant=43928599527598",
+        "evidenceUrl": "https://web.archive.org/web/20240412175059id_/https://nutrabox.in/products/ripped-whey-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "43928599527598",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1523,
+      "observation": {
+        "category": "protein",
+        "offerId": 595,
+        "date": "2024-04-12",
+        "price": 2799,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/ripped-whey-isolate?variant=43954458493102",
+        "evidenceUrl": "https://web.archive.org/web/20240412175059id_/https://nutrabox.in/products/ripped-whey-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "43954458493102",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1524,
+      "observation": {
+        "category": "protein",
+        "offerId": 596,
+        "date": "2024-04-12",
+        "price": 2799,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/ripped-whey-isolate?variant=43396558028974",
+        "evidenceUrl": "https://web.archive.org/web/20240412175059id_/https://nutrabox.in/products/ripped-whey-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "43396558028974",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1525,
+      "observation": {
+        "category": "protein",
+        "offerId": 594,
+        "date": "2025-09-15",
+        "price": 4199,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/ripped-whey-isolate?variant=43928599527598",
+        "evidenceUrl": "https://web.archive.org/web/20250915221818id_/https://nutrabox.in/products/ripped-whey-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "43928599527598",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1526,
+      "observation": {
+        "category": "protein",
+        "offerId": 595,
+        "date": "2025-09-15",
+        "price": 4199,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/ripped-whey-isolate?variant=43954458493102",
+        "evidenceUrl": "https://web.archive.org/web/20250915221818id_/https://nutrabox.in/products/ripped-whey-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "43954458493102",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1527,
+      "observation": {
+        "category": "protein",
+        "offerId": 596,
+        "date": "2025-09-15",
+        "price": 4199,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/ripped-whey-isolate?variant=43396558028974",
+        "evidenceUrl": "https://web.archive.org/web/20250915221818id_/https://nutrabox.in/products/ripped-whey-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "43396558028974",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1528,
+      "observation": {
+        "category": "protein",
+        "offerId": 594,
+        "date": "2026-03-05",
+        "price": 4599,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/ripped-whey-isolate?variant=43928599527598",
+        "evidenceUrl": "https://web.archive.org/web/20260305113404id_/https://nutrabox.in/products/ripped-whey-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "43928599527598",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1529,
+      "observation": {
+        "category": "protein",
+        "offerId": 595,
+        "date": "2026-03-05",
+        "price": 4599,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/ripped-whey-isolate?variant=43954458493102",
+        "evidenceUrl": "https://web.archive.org/web/20260305113404id_/https://nutrabox.in/products/ripped-whey-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "43954458493102",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1530,
+      "observation": {
+        "category": "protein",
+        "offerId": 596,
+        "date": "2026-03-05",
+        "price": 4599,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/ripped-whey-isolate?variant=43396558028974",
+        "evidenceUrl": "https://web.archive.org/web/20260305113404id_/https://nutrabox.in/products/ripped-whey-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "43396558028974",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2783,
+      "observation": {
+        "category": "protein",
+        "offerId": 594,
+        "date": "2026-10-25",
+        "price": 5399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/ripped-whey-isolate?variant=43928599527598",
+        "evidenceUrl": "https://nutrabox.in/products/ripped-whey-isolate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "43928599527598"
+      }
+    },
+    {
+      "order": 2784,
+      "observation": {
+        "category": "protein",
+        "offerId": 595,
+        "date": "2026-10-25",
+        "price": 5399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/ripped-whey-isolate?variant=43954458493102",
+        "evidenceUrl": "https://nutrabox.in/products/ripped-whey-isolate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "43954458493102"
+      }
+    },
+    {
+      "order": 2785,
+      "observation": {
+        "category": "protein",
+        "offerId": 596,
+        "date": "2026-10-25",
+        "price": 5399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/ripped-whey-isolate?variant=43396558028974",
+        "evidenceUrl": "https://nutrabox.in/products/ripped-whey-isolate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "43396558028974"
+      }
+    },
+    {
+      "order": 3513,
+      "observation": {
+        "category": "protein",
+        "offerId": 594,
+        "date": "2024-07-22",
+        "price": 3199,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/ripped-whey-isolate?variant=43928599527598",
+        "evidenceUrl": "https://web.archive.org/web/20240722044927id_/https://nutrabox.in/products/ripped-whey-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "43928599527598",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3514,
+      "observation": {
+        "category": "protein",
+        "offerId": 595,
+        "date": "2024-07-22",
+        "price": 3199,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/ripped-whey-isolate?variant=43954458493102",
+        "evidenceUrl": "https://web.archive.org/web/20240722044927id_/https://nutrabox.in/products/ripped-whey-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "43954458493102",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3515,
+      "observation": {
+        "category": "protein",
+        "offerId": 596,
+        "date": "2024-07-22",
+        "price": 3199,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/ripped-whey-isolate?variant=43396558028974",
+        "evidenceUrl": "https://web.archive.org/web/20240722044927id_/https://nutrabox.in/products/ripped-whey-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "43396558028974",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 4641,
+      "observation": {
+        "category": "protein",
+        "offerId": 594,
+        "date": "2026-11-19",
+        "price": 5399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/ripped-whey-isolate?variant=43928599527598",
+        "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "43928599527598"
+      }
+    },
+    {
+      "order": 4642,
+      "observation": {
+        "category": "protein",
+        "offerId": 595,
+        "date": "2026-11-19",
+        "price": 5399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/ripped-whey-isolate?variant=43954458493102",
+        "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "43954458493102"
+      }
+    },
+    {
+      "order": 4643,
+      "observation": {
+        "category": "protein",
+        "offerId": 596,
+        "date": "2026-11-19",
+        "price": 5399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/ripped-whey-isolate?variant=43396558028974",
+        "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "43396558028974"
+      }
+    }
+  ],
+  "refreshSources": []
+}

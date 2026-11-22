@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "category": "vitamin-d",
+  "brand": "Pure Nutrition",
+  "product": "Vitamin D3 5000 IU",
+  "variants": [
+    {
+      "order": 1,
+      "offer": {
+        "brand": "Pure Nutrition",
+        "product": "Vitamin D3 5000 IU",
+        "form": "Tablet",
+        "type": "D3 (cholecalciferol)",
+        "subclass": "Single vitamin",
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official description states each tablet provides 5000 IU (125 micrograms), 60 tablets per bottle. This is a labelled strength, not an intake recommendation.",
+        "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities.",
+        "packCount": 60,
+        "vitaminDIu": 5000,
+        "vitaminDMcg": 125,
+        "id": "vitamin-d-48676702257406",
+        "price": 449,
+        "currency": "INR",
+        "stock": "Sold out",
+        "url": "https://purenutrition.in/products/vitamin-d3-5000-iu?variant=48676702257406",
+        "nutritionUrl": "https://purenutrition.in/products/vitamin-d3-5000-iu",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-10-29",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://purenutrition.in/products/vitamin-d3-5000-iu?variant=48676702257406",
+          "evidenceUrl": "https://purenutrition.in/products/vitamin-d3-5000-iu.json",
+          "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3718,
+      "observation": {
+        "category": "vitamin-d",
+        "offerId": "vitamin-d-48676702257406",
+        "date": "2026-10-29",
+        "price": 449,
+        "currency": "INR",
+        "sourceUrl": "https://purenutrition.in/products/vitamin-d3-5000-iu?variant=48676702257406",
+        "evidenceUrl": "https://purenutrition.in/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "48676702257406"
+      }
+    },
+    {
+      "order": 3901,
+      "observation": {
+        "category": "vitamin-d",
+        "offerId": "vitamin-d-48676702257406",
+        "date": "2026-11-19",
+        "price": 449,
+        "currency": "INR",
+        "sourceUrl": "https://purenutrition.in/products/vitamin-d3-5000-iu?variant=48676702257406",
+        "evidenceUrl": "https://purenutrition.in/products/vitamin-d3-5000-iu.json",
+        "kind": "official-live",
+        "variantId": "48676702257406",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 17,
+      "profile": {
+        "category": "vitamin-d",
+        "brand": "Pure Nutrition",
+        "base": "https://purenutrition.in",
+        "handle": "vitamin-d3-5000-iu",
+        "product": "Vitamin D3 5000 IU",
+        "form": "Tablet",
+        "type": "D3 (cholecalciferol)",
+        "subclass": "Single vitamin",
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official description states each tablet provides 5000 IU (125 micrograms), 60 tablets per bottle. This is a labelled strength, not an intake recommendation.",
+        "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities.",
+        "packCount": 60,
+        "vitaminDIu": 5000,
+        "vitaminDMcg": 125
+      }
+    }
+  ]
+}

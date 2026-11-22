@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "category": "ashwagandha",
+  "brand": "Himalaya",
+  "product": "Organic Ashwagandha",
+  "variants": [
+    {
+      "order": 2,
+      "offer": {
+        "brand": "Himalaya",
+        "product": "Organic Ashwagandha",
+        "form": "Tablet",
+        "type": "Formulation not verified",
+        "subclass": "Organic",
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official product listing; only explicitly verified label amounts are recorded.",
+        "notes": "Extract mass and serving basis not verified for this specific organic formulation.",
+        "countFromPackTitle": true,
+        "id": "ashwagandha-40936632451171",
+        "packCount": 30,
+        "price": 450,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://himalayawellness.in/products/himalaya-organic-ashwagandha?variant=40936632451171",
+        "nutritionUrl": "https://himalayawellness.in/products/himalaya-organic-ashwagandha",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-10-29",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://himalayawellness.in/products/himalaya-organic-ashwagandha?variant=40936632451171",
+          "evidenceUrl": "https://himalayawellness.in/products/himalaya-organic-ashwagandha.json",
+          "matchBasis": "Official public Shopify product; exact variant ID 40936632451171 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+        }
+      }
+    },
+    {
+      "order": 3,
+      "offer": {
+        "brand": "Himalaya",
+        "product": "Organic Ashwagandha",
+        "form": "Tablet",
+        "type": "Formulation not verified",
+        "subclass": "Organic",
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official product listing; only explicitly verified label amounts are recorded.",
+        "notes": "Extract mass and serving basis not verified for this specific organic formulation.",
+        "countFromPackTitle": true,
+        "id": "ashwagandha-40936632549475",
+        "packCount": 60,
+        "price": 825,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://himalayawellness.in/products/himalaya-organic-ashwagandha?variant=40936632549475",
+        "nutritionUrl": "https://himalayawellness.in/products/himalaya-organic-ashwagandha",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-10-29",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://himalayawellness.in/products/himalaya-organic-ashwagandha?variant=40936632549475",
+          "evidenceUrl": "https://himalayawellness.in/products/himalaya-organic-ashwagandha.json",
+          "matchBasis": "Official public Shopify product; exact variant ID 40936632549475 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3743,
+      "observation": {
+        "category": "ashwagandha",
+        "offerId": "ashwagandha-40936632451171",
+        "date": "2026-10-29",
+        "price": 450,
+        "currency": "INR",
+        "sourceUrl": "https://himalayawellness.in/products/himalaya-organic-ashwagandha?variant=40936632451171",
+        "evidenceUrl": "https://himalayawellness.in/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "40936632451171"
+      }
+    },
+    {
+      "order": 3744,
+      "observation": {
+        "category": "ashwagandha",
+        "offerId": "ashwagandha-40936632549475",
+        "date": "2026-10-29",
+        "price": 825,
+        "currency": "INR",
+        "sourceUrl": "https://himalayawellness.in/products/himalaya-organic-ashwagandha?variant=40936632549475",
+        "evidenceUrl": "https://himalayawellness.in/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "40936632549475"
+      }
+    },
+    {
+      "order": 3846,
+      "observation": {
+        "category": "ashwagandha",
+        "offerId": "ashwagandha-40936632451171",
+        "date": "2026-11-19",
+        "price": 450,
+        "currency": "INR",
+        "sourceUrl": "https://himalayawellness.in/products/himalaya-organic-ashwagandha?variant=40936632451171",
+        "evidenceUrl": "https://himalayawellness.in/products/himalaya-organic-ashwagandha.json",
+        "kind": "official-live",
+        "variantId": "40936632451171",
+        "matchBasis": "Official public Shopify product; exact variant ID 40936632451171 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+      }
+    },
+    {
+      "order": 3847,
+      "observation": {
+        "category": "ashwagandha",
+        "offerId": "ashwagandha-40936632549475",
+        "date": "2026-11-19",
+        "price": 825,
+        "currency": "INR",
+        "sourceUrl": "https://himalayawellness.in/products/himalaya-organic-ashwagandha?variant=40936632549475",
+        "evidenceUrl": "https://himalayawellness.in/products/himalaya-organic-ashwagandha.json",
+        "kind": "official-live",
+        "variantId": "40936632549475",
+        "matchBasis": "Official public Shopify product; exact variant ID 40936632549475 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 1,
+      "profile": {
+        "category": "ashwagandha",
+        "brand": "Himalaya",
+        "base": "https://himalayawellness.in",
+        "handle": "himalaya-organic-ashwagandha",
+        "product": "Organic Ashwagandha",
+        "form": "Tablet",
+        "type": "Formulation not verified",
+        "subclass": "Organic",
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official product listing; only explicitly verified label amounts are recorded.",
+        "notes": "Extract mass and serving basis not verified for this specific organic formulation.",
+        "countFromPackTitle": true
+      }
+    }
+  ]
+}

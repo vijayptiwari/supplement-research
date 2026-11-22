@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "category": "folic-acid",
+  "brand": "Naturaltein",
+  "product": "Vitamin B12 + Folate",
+  "variants": [
+    {
+      "order": 3,
+      "offer": {
+        "brand": "Naturaltein",
+        "product": "Vitamin B12 + Folate",
+        "form": "Capsule",
+        "type": "Methylcobalamin + L-methylfolate calcium",
+        "subclass": "Folate + B12 combination",
+        "packCount": 60,
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official front label declares 2.2 mcg methylcobalamin and 300 mcg L-methylfolate calcium per serving; the one-capsule serving basis is not consistently established.",
+        "notes": "The visible product page says one tablet although the selected pack is capsules. Serving size remains unverified. L-methylfolate calcium compound quantity is not recorded as folic acid, DFE or unqualified methylfolate payload.",
+        "labelChecked": "2026-10-31",
+        "declaredNutrients": [
+          "vitaminB12Mcg",
+          "methylfolateMcg"
+        ],
+        "flavour": "Unflavoured",
+        "vitaminB1Mg": null,
+        "vitaminB2Mg": null,
+        "vitaminB3Mg": null,
+        "vitaminB5Mg": null,
+        "vitaminB6Mg": null,
+        "biotinMcg": null,
+        "vitaminB12Mcg": 2.2,
+        "folicAcidMcg": null,
+        "folateMcgDfe": null,
+        "methylfolateMcg": null,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0634/8868/8211/files/Vitamin_B12_Folate_60_front.webp?v=1785499974",
+          "https://cdn.shopify.com/s/files/1/0634/8868/8211/files/60.webp?v=1770733780"
+        ],
+        "id": "folic-acid-42576152559699",
+        "price": 549,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://naturaltein.in/products/vitamin-b12-folate?variant=42576152559699",
+        "nutritionUrl": "https://naturaltein.in/products/vitamin-b12-folate",
+        "packaging": "Single retail pack",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://naturaltein.in/products/vitamin-b12-folate?variant=42576152559699",
+          "evidenceUrl": "https://naturaltein.in/products/vitamin-b12-folate.json",
+          "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3794,
+      "observation": {
+        "category": "folic-acid",
+        "offerId": "folic-acid-42576152559699",
+        "date": "2026-10-31",
+        "price": 549,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/vitamin-b12-folate?variant=42576152559699",
+        "evidenceUrl": "https://naturaltein.in/products/vitamin-b12-folate.json",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify product variant ID, price and single retail-pack count verified; quantities come from separately cited label evidence.",
+        "variantId": "42576152559699"
+      }
+    },
+    {
+      "order": 3951,
+      "observation": {
+        "category": "folic-acid",
+        "offerId": "folic-acid-42576152559699",
+        "date": "2026-11-19",
+        "price": 549,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/vitamin-b12-folate?variant=42576152559699",
+        "evidenceUrl": "https://naturaltein.in/products/vitamin-b12-folate.json",
+        "kind": "official-live",
+        "variantId": "42576152559699",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 78,
+      "profile": {
+        "category": "folic-acid",
+        "brand": "Naturaltein",
+        "base": "https://naturaltein.in",
+        "handle": "vitamin-b12-folate",
+        "product": "Vitamin B12 + Folate",
+        "form": "Capsule",
+        "type": "Methylcobalamin + L-methylfolate calcium",
+        "subclass": "Folate + B12 combination",
+        "packCount": 60,
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official front label declares 2.2 mcg methylcobalamin and 300 mcg L-methylfolate calcium per serving; the one-capsule serving basis is not consistently established.",
+        "notes": "The visible product page says one tablet although the selected pack is capsules. Serving size remains unverified. L-methylfolate calcium compound quantity is not recorded as folic acid, DFE or unqualified methylfolate payload.",
+        "labelChecked": "2026-10-31",
+        "declaredNutrients": [
+          "vitaminB12Mcg",
+          "methylfolateMcg"
+        ],
+        "flavour": "Unflavoured",
+        "vitaminB1Mg": null,
+        "vitaminB2Mg": null,
+        "vitaminB3Mg": null,
+        "vitaminB5Mg": null,
+        "vitaminB6Mg": null,
+        "biotinMcg": null,
+        "vitaminB12Mcg": 2.2,
+        "folicAcidMcg": null,
+        "folateMcgDfe": null,
+        "methylfolateMcg": null,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0634/8868/8211/files/Vitamin_B12_Folate_60_front.webp?v=1785499974",
+          "https://cdn.shopify.com/s/files/1/0634/8868/8211/files/60.webp?v=1770733780"
+        ],
+        "variantTitles": [
+          "1 Box (60 Capsules)"
+        ]
+      }
+    }
+  ]
+}

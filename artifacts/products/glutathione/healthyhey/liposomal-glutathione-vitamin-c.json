@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "category": "glutathione",
+  "brand": "HealthyHey",
+  "product": "Liposomal Glutathione + Vitamin C",
+  "variants": [
+    {
+      "order": 1,
+      "offer": {
+        "brand": "HealthyHey",
+        "product": "Liposomal Glutathione + Vitamin C",
+        "form": "Capsule",
+        "type": "Liposomal glutathione",
+        "subclass": "Liposomal blend",
+        "packCount": 60,
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official exact product listing and declared count. Only explicitly verified serving quantities are used.",
+        "notes": "Liposomal formulation is declared, but payload mass and label serving are unverified. No glutathione-content cost is inferred.",
+        "labelChecked": "2026-10-31",
+        "glutathioneMg": null,
+        "id": "glutathione-52867114762525",
+        "price": 949,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://healthyhey.com/products/liposomal-glutathione-plus-vitamin-c-supports-skin-health-and-radiance-60-vegetable-capsules?variant=52867114762525",
+        "nutritionUrl": "https://healthyhey.com/products/liposomal-glutathione-plus-vitamin-c-supports-skin-health-and-radiance-60-vegetable-capsules",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://healthyhey.com/products/liposomal-glutathione-plus-vitamin-c-supports-skin-health-and-radiance-60-vegetable-capsules?variant=52867114762525",
+          "evidenceUrl": "https://healthyhey.com/products/liposomal-glutathione-plus-vitamin-c-supports-skin-health-and-radiance-60-vegetable-capsules.json",
+          "matchBasis": "Official public Shopify product; exact variant ID 52867114762525 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3746,
+      "observation": {
+        "category": "glutathione",
+        "offerId": "glutathione-52867114762525",
+        "date": "2026-10-29",
+        "price": 949,
+        "currency": "INR",
+        "sourceUrl": "https://healthyhey.com/products/liposomal-glutathione-plus-vitamin-c-supports-skin-health-and-radiance-60-vegetable-capsules?variant=52867114762525",
+        "evidenceUrl": "https://healthyhey.com/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "52867114762525"
+      }
+    },
+    {
+      "order": 3869,
+      "observation": {
+        "category": "glutathione",
+        "offerId": "glutathione-52867114762525",
+        "date": "2026-11-19",
+        "price": 949,
+        "currency": "INR",
+        "sourceUrl": "https://healthyhey.com/products/liposomal-glutathione-plus-vitamin-c-supports-skin-health-and-radiance-60-vegetable-capsules?variant=52867114762525",
+        "evidenceUrl": "https://healthyhey.com/products/liposomal-glutathione-plus-vitamin-c-supports-skin-health-and-radiance-60-vegetable-capsules.json",
+        "kind": "official-live",
+        "variantId": "52867114762525",
+        "matchBasis": "Official public Shopify product; exact variant ID 52867114762525 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 36,
+      "profile": {
+        "category": "glutathione",
+        "brand": "HealthyHey",
+        "base": "https://healthyhey.com",
+        "handle": "liposomal-glutathione-plus-vitamin-c-supports-skin-health-and-radiance-60-vegetable-capsules",
+        "product": "Liposomal Glutathione + Vitamin C",
+        "form": "Capsule",
+        "type": "Liposomal glutathione",
+        "subclass": "Liposomal blend",
+        "packCount": 60,
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official exact product listing and declared count. Only explicitly verified serving quantities are used.",
+        "notes": "Liposomal formulation is declared, but payload mass and label serving are unverified. No glutathione-content cost is inferred.",
+        "labelChecked": "2026-10-31",
+        "glutathioneMg": null
+      }
+    }
+  ]
+}

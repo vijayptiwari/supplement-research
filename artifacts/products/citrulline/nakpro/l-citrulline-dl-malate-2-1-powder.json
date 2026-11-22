@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "category": "citrulline",
+  "brand": "NAKPRO",
+  "product": "L-Citrulline DL-malate 2:1 Powder",
+  "variants": [
+    {
+      "order": 8,
+      "offer": {
+        "brand": "NAKPRO",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-11-19",
+        "flavour": "Unflavoured",
+        "product": "L-Citrulline DL-malate 2:1 Powder",
+        "form": "Powder",
+        "type": "L-Citrulline DL-malate 2:1",
+        "subclass": "Single ingredient powder",
+        "grams": 100,
+        "servingGrams": 2,
+        "citrullineMalateMg": 2000,
+        "citrullineMg": null,
+        "energyPerServing": 0,
+        "declaredNutrients": [
+          "citrullineMalateMg"
+        ],
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0237/4497/0832/files/02_unflavoured_1be4131c-6e2f-458b-b48a-4fc97ecf99e0.jpg?v=1777353020",
+        "basis": "Exact Unflavoured 100 g pouch panel states one heaping scoop (2 g), zero labelled energy and 2 g of the named ingredient per serving. Malate ingredient declaration explicitly gives a 2:1 ratio.",
+        "notes": "Free L-citrulline and citrulline DL-malate compound are separate forms. No malate-to-free-citrulline conversion is applied; the ratio does not establish an equivalent clinical quantity.",
+        "packCount": null,
+        "servingUnits": null,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0237/4497/0832/files/02_unflavoured_1be4131c-6e2f-458b-b48a-4fc97ecf99e0.jpg?v=1777353020"
+        ],
+        "id": "citrulline-41877873721424",
+        "price": 314,
+        "currency": "INR",
+        "stock": "Sold out",
+        "url": "https://nakpro.com/products/nakpro-citrulline-malate-powder?variant=41877873721424"
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 4049,
+      "observation": {
+        "category": "citrulline",
+        "offerId": "citrulline-41877873721424",
+        "date": "2026-11-19",
+        "price": 314,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-citrulline-malate-powder?variant=41877873721424",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "41877873721424",
+        "matchBasis": "Official public Shopify feed fetched 2026-11-19; exact variant ID and unconditional price matched. INR currency confirmed in the live official product HTML. Net pack, serving and ingredient basis use the specific referenced manufacturer label."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 184,
+      "profile": {
+        "category": "citrulline",
+        "brand": "NAKPRO",
+        "base": "https://nakpro.com",
+        "handle": "nakpro-citrulline-malate-powder",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-11-19",
+        "variantIds": [
+          "41877873721424"
+        ],
+        "flavour": "Unflavoured",
+        "product": "L-Citrulline DL-malate 2:1 Powder",
+        "form": "Powder",
+        "type": "L-Citrulline DL-malate 2:1",
+        "subclass": "Single ingredient powder",
+        "grams": 100,
+        "servingGrams": 2,
+        "citrullineMalateMg": 2000,
+        "citrullineMg": null,
+        "energyPerServing": 0,
+        "declaredNutrients": [
+          "citrullineMalateMg"
+        ],
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0237/4497/0832/files/02_unflavoured_1be4131c-6e2f-458b-b48a-4fc97ecf99e0.jpg?v=1777353020",
+        "basis": "Exact Unflavoured 100 g pouch panel states one heaping scoop (2 g), zero labelled energy and 2 g of the named ingredient per serving. Malate ingredient declaration explicitly gives a 2:1 ratio.",
+        "notes": "Free L-citrulline and citrulline DL-malate compound are separate forms. No malate-to-free-citrulline conversion is applied; the ratio does not establish an equivalent clinical quantity.",
+        "packCount": null,
+        "servingUnits": null,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0237/4497/0832/files/02_unflavoured_1be4131c-6e2f-458b-b48a-4fc97ecf99e0.jpg?v=1777353020"
+        ],
+        "id": "citrulline-41877873721424"
+      }
+    }
+  ]
+}

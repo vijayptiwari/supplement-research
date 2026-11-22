@@ -1,0 +1,322 @@
+{
+  "schemaVersion": 1,
+  "order": 16,
+  "category": {
+    "id": "eaa",
+    "label": "EAA",
+    "file": "eaa.json",
+    "page": "eaa.html",
+    "measurement": "units",
+    "supportsPowder": true,
+    "mainNutrient": "eaaMg",
+    "referenceQuantity": 1000,
+    "referenceUnit": "mg",
+    "compoundLabel": "labelled EAAs",
+    "nutrientFields": [
+      {
+        "key": "eaaMg",
+        "label": "EAA total",
+        "unit": "mg",
+        "table": true
+      },
+      {
+        "key": "bcaaMg",
+        "label": "BCAA subset",
+        "unit": "mg",
+        "table": true,
+        "costQuantity": 1000
+      },
+      {
+        "key": "leucineMg",
+        "label": "Leucine",
+        "unit": "mg",
+        "table": true,
+        "costQuantity": 1000
+      },
+      {
+        "key": "isoleucineMg",
+        "label": "Isoleucine",
+        "unit": "mg",
+        "table": true,
+        "costQuantity": 1000
+      },
+      {
+        "key": "valineMg",
+        "label": "Valine",
+        "unit": "mg",
+        "table": true,
+        "costQuantity": 1000
+      }
+    ],
+    "comparisonNote": "EAA total uses an explicit label amount rather than net scoop mass. BCAAs overlap with the EAA profile and are not added again to the EAA total. A blend name alone does not establish that all nine essential amino acids or their individual amounts are disclosed.",
+    "searchAliases": [
+      "essential amino acids",
+      "eaas"
+    ]
+  },
+  "catalog": {
+    "checked": "2026-11-20",
+    "category": "eaa"
+  },
+  "guide": {
+    "id": "eaa-guide",
+    "category": "eaa",
+    "title": "EAA: all nine essential amino acids, with diet still central",
+    "summary": "Essential amino acids must come from the diet. A verified EAA formulation contains more than the three amino acids in a BCAA product.",
+    "evidence": "Free-form EAA can stimulate muscle-protein synthesis. A small energy-deficit trial of EAA-enriched whey improved whole-body protein balance but not the measured mixed-muscle synthesis outcome versus comparators. These are different endpoints, and neither proves extra long-term strength gains for everyone already consuming adequate protein.",
+    "limitations": "Formulas, populations and outcomes differ. Findings in low-intake or clinically affected people cannot be assumed for a well-fed athlete. More leucine, a larger scoop or a higher combined amino-acid total does not by itself establish a better result.",
+    "catalogReading": "Check all nine: histidine, isoleucine, leucine, lysine, methionine, phenylalanine, threonine, tryptophan and valine. BCAA are three of these; glutamine, arginine and flavouring do not make up a missing EAA profile. Compare verified EAA amounts, proportions and label servings.",
+    "safety": "People with an inherited amino-acid disorder or prescribed protein restriction need specialist advice. Review other ingredients and allergens. Clinical formulations and adult sports products are not interchangeable; a larger amount is not automatically appropriate.",
+    "sourceIds": [
+      "eaa-position",
+      "bcaa-review",
+      "protein-review",
+      "digestion",
+      "eaa-deficit-trial",
+      "food-performance-protein",
+      "food-performance-amino-acids",
+      "food-usda-sr28",
+      "supplement-quality-ods"
+    ],
+    "reviewed": "2026-11-18",
+    "author": "Supplement Research editorial synthesis",
+    "bodySteps": [
+      "Food proteins are digested into peptides and amino acids; a free-form EAA product supplies amino acids without needing the same protein-breakdown step.",
+      "Absorbed EAA enter circulation and are available to tissues for protein turnover.",
+      "All nine essential amino acids are required for sustained protein synthesis. BCAA provide only three, while adequate complete dietary protein supplies the full set."
+    ],
+    "bodySources": [
+      "digestion",
+      "eaa-position",
+      "eaa-deficit-trial"
+    ],
+    "treatment": "An appropriate nutrition plan can address inadequate protein or amino-acid supply. An EAA tub alone is not a treatment for unexplained muscle loss or a disease causing poor nutrition.",
+    "whoMayBenefit": "Some people struggling to meet assessed protein needs, including selected older or clinical populations, may consider EAA within a supervised plan. First establish the dietary gap and whether food or complete protein can meet it.",
+    "routineUse": "Everyone needs dietary EAA, but everyone does not need an EAA powder. Check total food and protein intake, and avoid assuming separate protein, EAA and BCAA products each add an independent benefit.",
+    "sectionSources": [
+      "eaa-position",
+      "bcaa-review",
+      "protein-review",
+      "eaa-deficit-trial"
+    ],
+    "buyingGuide": {
+      "whoCanConsider": [
+        "Adults unable to meet professionally assessed protein needs through practical food or complete-protein options may consider a verified all-nine-EAA format.",
+        "Selected older adults or people with low appetite may discuss EAA within an individual nutrition plan; age alone does not establish a need.",
+        "Adult athletes with a documented intake constraint can review EAA as one possible format, rather than automatically adding it to protein and BCAA."
+      ],
+      "whoShouldReview": [
+        "People with an inherited amino-acid disorder or prescribed protein restriction need specialist input.",
+        "Unexplained weight or muscle loss, swallowing problems or persistent poor appetite require assessment of the cause.",
+        "Children, pregnancy and medical nutrition needs require a product and plan selected for that context."
+      ],
+      "foodSummary": "All nine EAA are available from dietary protein. Animal proteins and soy provide a complete profile; varied plant-protein foods can meet needs over the day without being paired at every meal.",
+      "foods": [
+        {
+          "name": "Lentils, mature seeds, cooked, boiled, without salt",
+          "relationship": "direct",
+          "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": "USDA NDB 16070",
+          "amounts": [
+            {
+              "nutrient": "Nine essential amino acids (calculated sum)",
+              "min": 3.302,
+              "max": null,
+              "unit": "g",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "100 g edible food"
+              },
+              "sourceIds": [
+                "food-usda-sr28"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Egg, whole, cooked, hard-boiled",
+          "relationship": "direct",
+          "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": "USDA NDB 01129",
+          "amounts": [
+            {
+              "nutrient": "Nine essential amino acids (calculated sum)",
+              "min": 5.547,
+              "max": null,
+              "unit": "g",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "100 g edible food"
+              },
+              "sourceIds": [
+                "food-usda-sr28"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Chicken, broilers or fryers, breast, meat only, cooked, roasted",
+          "relationship": "direct",
+          "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": "USDA NDB 05064",
+          "amounts": [
+            {
+              "nutrient": "Nine essential amino acids (calculated sum)",
+              "min": 12.865,
+              "max": null,
+              "unit": "g",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "100 g edible food"
+              },
+              "sourceIds": [
+                "food-usda-sr28"
+              ]
+            }
+          ]
+        }
+      ],
+      "foodSourceIds": [
+        "food-performance-protein",
+        "food-performance-amino-acids",
+        "eaa-position",
+        "food-usda-sr28"
+      ],
+      "value": {
+        "routineScore": 2,
+        "targetedScore": 4,
+        "targetedUse": "A documented protein/EAA intake gap when practical food and complete-protein options are insufficient or not tolerated, with a nutrition professional confirming the format fits.",
+        "reason": "An all-nine-EAA product can be useful as a compact nutrition format for a real intake constraint. It is lower priority when ordinary food or complete protein already meets needs, and short-term synthesis findings are not guaranteed long-term strength gains.",
+        "worthWhen": [
+          "The intake gap has been assessed, and the chosen amino-acid format has a clear practical advantage.",
+          "All nine EAA and their serving amounts are verified, and the product fits the overall nutrition plan."
+        ],
+        "skipWhen": [
+          "The purchase merely duplicates adequate dietary protein or is added to BCAA because both names sound necessary.",
+          "The label does not establish all nine EAA or a useful serving basis.",
+          "It is replacing assessment of unexplained muscle loss or a medical condition."
+        ],
+        "evidence": "moderate",
+        "scope": "The higher targeted score is limited to an assessed intake constraint, not a general performance boost. It concerns a verified all-nine-EAA profile, not BCAA or an unspecified amino blend.",
+        "sourceIds": [
+          "eaa-position",
+          "eaa-deficit-trial",
+          "protein-review",
+          "bcaa-review"
+        ]
+      },
+      "reviewed": "2026-11-18",
+      "practices": {
+        "dos": [
+          {
+            "title": "Verify all nine essential amino acids",
+            "detail": "Check the actual profile, individual amounts and label serving before comparing an EAA product's cost."
+          },
+          {
+            "title": "Look for a practical advantage",
+            "detail": "An assessed intake constraint should explain why this format is useful beyond food or suitable complete protein."
+          }
+        ],
+        "donts": [
+          {
+            "title": "Don't confuse added extras with completeness",
+            "detail": "BCAA, glutamine, arginine and flavouring do not establish a complete all-nine-EAA profile."
+          },
+          {
+            "title": "Don't duplicate adequate protein blindly",
+            "detail": "EAA already include BCAA; buying both names does not establish an additional need or replace assessment of unexplained muscle loss."
+          }
+        ],
+        "sourceIds": [
+          "eaa-position",
+          "bcaa-review",
+          "protein-review",
+          "eaa-deficit-trial"
+        ]
+      }
+    },
+    "intakeGuide": {
+      "kind": "no-established-target",
+      "summary": "No universal EAA powder dose. First assess total protein and the completeness of the dietary pattern.",
+      "targets": [],
+      "limits": [],
+      "notes": [
+        "No automatic dose increase is assigned for training frequency or experience."
+      ],
+      "sourceIds": [
+        "eaa-position",
+        "bcaa-review",
+        "protein-review",
+        "eaa-deficit-trial"
+      ],
+      "reviewed": "2026-11-17"
+    },
+    "medicalGuide": {
+      "summary": "Condition-specific evidence, separate from sports benefits and purchase priority.",
+      "conditions": [
+        {
+          "condition": "Inadequate protein / clinical nutrition support",
+          "level": "conditional",
+          "findings": "An assessed nutritional gap may require complete nutritional support; EAA alone does not treat the disease causing poor intake or muscle loss.",
+          "limits": "An appropriate nutrition plan can address inadequate protein or amino-acid supply. An EAA tub alone is not a treatment for unexplained muscle loss or a disease causing poor nutrition.",
+          "sourceIds": [
+            "eaa-position",
+            "bcaa-review",
+            "protein-review",
+            "eaa-deficit-trial"
+          ]
+        }
+      ],
+      "reviewed": "2026-11-17"
+    },
+    "pathway": {
+      "title": "Essential amino acids supply the complete set",
+      "summary": "The body cannot make the nine essential amino acids in sufficient amounts. They provide both nutrient signals and indispensable material for new proteins.",
+      "tracks": [
+        {
+          "label": "From available amino acids to protein",
+          "steps": [
+            {
+              "label": "Nine essential amino acids become available",
+              "detail": "Digested dietary protein releases amino acids. A free-form EAA mixture supplies them without first breaking down an intact protein.",
+              "compartment": "Intestine",
+              "icon": "digest"
+            },
+            {
+              "label": "Amino acids reach working tissues",
+              "detail": "Absorbed amino acids circulate to tissues, including muscle, and contribute to their available amino-acid pools.",
+              "compartment": "Blood",
+              "icon": "blood"
+            },
+            {
+              "label": "Nutrient signals regulate protein synthesis",
+              "detail": "Essential amino acids, including leucine, influence signalling that regulates the start of protein production.",
+              "compartment": "Muscle",
+              "icon": "signal"
+            },
+            {
+              "label": "Cells assemble new protein chains",
+              "detail": "Protein synthesis requires all essential amino acids alongside other amino acids; adequate energy and training context also matter.",
+              "compartment": "Muscle",
+              "icon": "molecule"
+            }
+          ]
+        }
+      ],
+      "caveat": "A complete EAA mixture can support protein synthesis, but an acute laboratory response does not prove extra benefit when total dietary protein is already adequate.",
+      "sourceIds": [
+        "digestion",
+        "eaa-position"
+      ]
+    }
+  }
+}

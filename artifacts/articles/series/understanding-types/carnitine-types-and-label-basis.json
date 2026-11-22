@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "order": 46,
+  "article": {
+    "id": "carnitine-types-and-label-basis",
+    "category": "l-carnitine",
+    "series": "understanding-types",
+    "title": "L-carnitine forms: the ingredient name is not the active-content calculation",
+    "summary": "Distinguish L-carnitine, tartrate and acetyl forms, then compare the declared basis and the outcome actually studied.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "A carnitine label may name a free compound, a salt, an acetyl derivative or a mixture. Those words help identify the ingredient, but they are not interchangeable strength scores. The same front-label mass can describe different material, and a neurological study of one derivative cannot automatically validate a sports claim for another. A useful form comparison keeps chemical identity, declared amount and human outcome evidence separate. This lets a buyer recognise a relevant difference without assuming that a more elaborate name must be a better fat-loss or exercise product.",
+    "sections": [
+      {
+        "id": "compound-mass",
+        "title": "First establish what the milligram number describes",
+        "body": "A declared amount can refer to L-carnitine itself or to the full mass of a compound such as L-carnitine L-tartrate. Read the label basis rather than treating the printed numbers as equivalent. If a product clearly states an active amount, do not convert it again as though it were all compound mass. If the basis is ambiguous, retain the uncertainty. Precise arithmetic cannot repair an unclear declaration, and a generic conversion should not replace the actual verified label for an exact product.",
+        "sourceIds": [
+          "carnitine-overview",
+          "carnitine-physiology",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "match-population",
+        "title": "A form used in a clinical study does not inherit every possible benefit",
+        "body": "Carnitine compounds have been investigated in several medical and exercise contexts. A finding in a selected patient group answers a different question from routine use by a healthy trainee. Check the compound, background care, duration and measured outcome before borrowing a result. The fact that one derivative can be absorbed or has a plausible tissue role is not a clinical comparison showing superiority for your purpose. A matching chemical name is necessary for interpretation, but still does not make different populations interchangeable.",
+        "sourceIds": [
+          "carnitine-overview",
+          "carnitine-physiology"
+        ]
+      },
+      {
+        "id": "value-order",
+        "title": "Use purpose before form and form before price",
+        "body": "Start with the actual reason for considering carnitine. If it is a medical deficiency or treatment context, the preparation belongs in a clinician-managed plan. If it is a sports or weight-management purchase, ask which relevant outcome supports the premium. Only then compare clearly specified complete servings and cost on the same label basis. This order prevents an apparently inexpensive gram of one compound from being ranked against a different intervention as though the two had identical tissue delivery, effectiveness or individual suitability.",
+        "sourceIds": [
+          "carnitine-overview",
+          "supplement-quality-ods"
+        ]
+      }
+    ],
+    "forms": [
+      {
+        "name": "L-carnitine",
+        "kind": "ingredient",
+        "description": "The named L form is the common reference compound, distinct from a derivative or the entire mass of another associated compound.",
+        "metabolism": "The body also synthesizes carnitine and regulates its handling. Extra oral intake does not automatically translate into proportionately higher muscle stores.",
+        "evidence": "Its role in fatty-acid transport is established physiology, while a specific supplement benefit needs an appropriate human outcome study.",
+        "value": "Demand a clear label basis and relevant purpose; the ingredient is not a direct meter of fat lost.",
+        "sourceIds": [
+          "carnitine-overview",
+          "carnitine-physiology"
+        ]
+      },
+      {
+        "name": "L-carnitine L-tartrate",
+        "kind": "ingredient",
+        "description": "This describes a carnitine-containing compound. A tartrate compound mass should not automatically be entered as an equal mass of free L-carnitine.",
+        "metabolism": "The supplied material must make carnitine available through oral handling; the chemical description alone does not quantify uptake into muscle.",
+        "evidence": "A long-term muscle-loading experiment used carnitine tartrate with substantial carbohydrate intake, a specific protocol rather than an instant fat-loss test.",
+        "value": "Check what the declared amount measures and compare the whole intervention before treating a study as support for a small pre-workout serving.",
+        "sourceIds": [
+          "carnitine-physiology",
+          "well-carnitine-muscle"
+        ]
+      },
+      {
+        "name": "Acetyl-L-carnitine",
+        "kind": "ingredient",
+        "description": "The acetyl derivative has a different identity and research history from ordinary L-carnitine or a tartrate compound.",
+        "metabolism": "A derivative can have different handling. Those differences do not by themselves establish superior exercise or body-composition outcomes.",
+        "evidence": "Clinical findings concerning a particular condition or derivative cannot be transferred automatically to a healthy-person fat-loss claim.",
+        "value": "A more specialised name is not sufficient justification for a premium; look for a matching outcome and population.",
+        "sourceIds": [
+          "carnitine-overview",
+          "carnitine-physiology"
+        ]
+      },
+      {
+        "name": "Propionyl-L-carnitine and other specified derivatives",
+        "kind": "ingredient",
+        "description": "A distinct derivative should be identified fully rather than folded into an undifferentiated total carnitine number.",
+        "metabolism": "Its biological handling is a separate question from the presence of the shared carnitine component.",
+        "evidence": "Evidence for medical applications or one chemical preparation does not certify an unrelated sports mixture or show universal equivalence.",
+        "value": "Require the actual ingredient and label basis, and keep treatment decisions separate from retail form comparisons.",
+        "sourceIds": [
+          "carnitine-overview",
+          "carnitine-physiology"
+        ]
+      },
+      {
+        "name": "Liquids and flavoured drinks",
+        "kind": "delivery",
+        "description": "Bottle volume, added flavour and total solution mass describe a format, not the carnitine payload. The measured serving is essential.",
+        "metabolism": "The product supplies its specified ingredient through oral intake; being liquid does not establish greater muscle delivery.",
+        "evidence": "The format alone is not evidence of faster fat loss or a superior training result.",
+        "value": "Calculate servings from the verified volume basis, review added ingredients and compare the same declared compound amount.",
+        "sourceIds": [
+          "supplement-quality-ods",
+          "carnitine-overview"
+        ]
+      },
+      {
+        "name": "Capsules and powders",
+        "kind": "delivery",
+        "description": "A dry or counted format can contain any specified carnitine preparation or a blend. Net powder or capsule mass is not automatically active ingredient mass.",
+        "metabolism": "Absorption and tissue delivery depend on the substance and context, not simply the convenience of the container.",
+        "evidence": "A human trial supports its tested regimen and preparation rather than every powder or capsule carrying the same category label.",
+        "value": "Compare complete servings, tolerability and supporting quality evidence; do not award a potency premium to the packaging alone.",
+        "sourceIds": [
+          "supplement-quality-ods",
+          "carnitine-overview"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "carnitine-overview",
+      "carnitine-physiology",
+      "supplement-quality-ods",
+      "well-carnitine-muscle"
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "category": "folic-acid",
+  "brand": "Health Veda Organics",
+  "product": "Iron + Folic Acid with Zinc, Vitamin C & B12",
+  "variants": [
+    {
+      "order": 1,
+      "offer": {
+        "brand": "Health Veda Organics",
+        "product": "Iron + Folic Acid with Zinc, Vitamin C & B12",
+        "form": "Capsule",
+        "type": "Folic acid + iron and other vitamins",
+        "subclass": "Iron-containing combination",
+        "packCount": 60,
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Exact official product listing and selected single-pack count; only verified label quantities are recorded.",
+        "notes": "Contains iron and additional nutrients; this is not a folic-acid-only alternative. Numeric folic acid content and label serving are unverified, so active-content cost is unavailable.",
+        "labelChecked": "2026-10-31",
+        "declaredNutrients": [
+          "folicAcidMcg",
+          "vitaminB12Mcg"
+        ],
+        "flavour": "Unflavoured",
+        "vitaminB1Mg": null,
+        "vitaminB2Mg": null,
+        "vitaminB3Mg": null,
+        "vitaminB5Mg": null,
+        "vitaminB6Mg": null,
+        "biotinMcg": null,
+        "vitaminB12Mcg": null,
+        "folicAcidMcg": null,
+        "folateMcgDfe": null,
+        "methylfolateMcg": null,
+        "id": "folic-acid-43800178163934",
+        "price": 319,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://healthvedaorganics.com/products/health-veda-organics-iron-folic-acid-supplement-with-zinc-vitamin-c-vitamin-b12-60-veg-capsules?variant=43800178163934",
+        "nutritionUrl": "https://healthvedaorganics.com/products/health-veda-organics-iron-folic-acid-supplement-with-zinc-vitamin-c-vitamin-b12-60-veg-capsules",
+        "packaging": "Single retail pack",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://healthvedaorganics.com/products/health-veda-organics-iron-folic-acid-supplement-with-zinc-vitamin-c-vitamin-b12-60-veg-capsules?variant=43800178163934",
+          "evidenceUrl": "https://healthvedaorganics.com/products/health-veda-organics-iron-folic-acid-supplement-with-zinc-vitamin-c-vitamin-b12-60-veg-capsules.json",
+          "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3788,
+      "observation": {
+        "category": "folic-acid",
+        "offerId": "folic-acid-43800178163934",
+        "date": "2026-10-31",
+        "price": 319,
+        "currency": "INR",
+        "sourceUrl": "https://healthvedaorganics.com/products/health-veda-organics-iron-folic-acid-supplement-with-zinc-vitamin-c-vitamin-b12-60-veg-capsules?variant=43800178163934",
+        "evidenceUrl": "https://healthvedaorganics.com/products/health-veda-organics-iron-folic-acid-supplement-with-zinc-vitamin-c-vitamin-b12-60-veg-capsules.json",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify product variant ID, price and single retail-pack count verified; quantities come from separately cited label evidence.",
+        "variantId": "43800178163934"
+      }
+    },
+    {
+      "order": 3949,
+      "observation": {
+        "category": "folic-acid",
+        "offerId": "folic-acid-43800178163934",
+        "date": "2026-11-19",
+        "price": 319,
+        "currency": "INR",
+        "sourceUrl": "https://healthvedaorganics.com/products/health-veda-organics-iron-folic-acid-supplement-with-zinc-vitamin-c-vitamin-b12-60-veg-capsules?variant=43800178163934",
+        "evidenceUrl": "https://healthvedaorganics.com/products/health-veda-organics-iron-folic-acid-supplement-with-zinc-vitamin-c-vitamin-b12-60-veg-capsules.json",
+        "kind": "official-live",
+        "variantId": "43800178163934",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 72,
+      "profile": {
+        "category": "folic-acid",
+        "brand": "Health Veda Organics",
+        "base": "https://healthvedaorganics.com",
+        "handle": "health-veda-organics-iron-folic-acid-supplement-with-zinc-vitamin-c-vitamin-b12-60-veg-capsules",
+        "product": "Iron + Folic Acid with Zinc, Vitamin C & B12",
+        "form": "Capsule",
+        "type": "Folic acid + iron and other vitamins",
+        "subclass": "Iron-containing combination",
+        "packCount": 60,
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Exact official product listing and selected single-pack count; only verified label quantities are recorded.",
+        "notes": "Contains iron and additional nutrients; this is not a folic-acid-only alternative. Numeric folic acid content and label serving are unverified, so active-content cost is unavailable.",
+        "labelChecked": "2026-10-31",
+        "declaredNutrients": [
+          "folicAcidMcg",
+          "vitaminB12Mcg"
+        ],
+        "flavour": "Unflavoured",
+        "vitaminB1Mg": null,
+        "vitaminB2Mg": null,
+        "vitaminB3Mg": null,
+        "vitaminB5Mg": null,
+        "vitaminB6Mg": null,
+        "biotinMcg": null,
+        "vitaminB12Mcg": null,
+        "folicAcidMcg": null,
+        "folateMcgDfe": null,
+        "methylfolateMcg": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "The Whole Truth",
+  "product": "The Whole Truth Raw Whey Protein Concentrate",
+  "variants": [
+    {
+      "order": 801,
+      "offer": {
+        "id": 801,
+        "brand": "The Whole Truth",
+        "product": "The Whole Truth Raw Whey Protein Concentrate",
+        "type": "Whey — concentrate",
+        "flavour": "Unflavoured",
+        "kg": 1,
+        "price": 4499,
+        "stock": "In stock",
+        "protein": 78.78787878787878,
+        "scoop": 33,
+        "serving": 33,
+        "subclass": "Whey concentrate",
+        "energy": 390,
+        "url": "https://thewholetruthfoods.com/products/unflavored-26g-whey-protein-isolate-concentrate?sku_id=38730409",
+        "nutritionUrl": "https://thewholetruthfoods.com/products/unflavoured-raw-whey-protein-concentrate-26g",
+        "basis": "26g protein / 33g serving; unflavoured raw concentrate",
+        "notes": "Cold-processed raw whey concentrate with 0g added sugar and no flavouring.",
+        "energyBasis": "Brand official label / serving instructions",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://thewholetruthfoods.com/products/unflavored-26g-whey-protein-isolate-concentrate?sku_id=38730409",
+          "evidenceUrl": "https://thewholetruthfoods.com/llmFeed.json",
+          "matchBasis": "Official public feed exact product family, flavour, retail pack and SKU"
+        }
+      }
+    },
+    {
+      "order": 802,
+      "offer": {
+        "id": 802,
+        "brand": "The Whole Truth",
+        "product": "The Whole Truth Raw Whey Protein Concentrate",
+        "type": "Whey — concentrate",
+        "flavour": "Unflavoured",
+        "kg": 2,
+        "price": 8998,
+        "stock": "In stock",
+        "protein": 78.78787878787878,
+        "scoop": 33,
+        "serving": 33,
+        "subclass": "Whey concentrate",
+        "energy": 390,
+        "url": "https://thewholetruthfoods.com/products/unflavored-26g-whey-protein-isolate-concentrate?sku_id=38730410",
+        "nutritionUrl": "https://thewholetruthfoods.com/products/unflavoured-raw-whey-protein-concentrate-26g",
+        "basis": "26g protein / 33g serving; unflavoured raw concentrate",
+        "notes": "Cold-processed raw whey concentrate with 0g added sugar and no flavouring.",
+        "energyBasis": "Brand official label / serving instructions",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://thewholetruthfoods.com/products/unflavored-26g-whey-protein-isolate-concentrate?sku_id=38730410",
+          "evidenceUrl": "https://thewholetruthfoods.com/llmFeed.json",
+          "matchBasis": "Official public feed exact product family, flavour, retail pack and SKU"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5050,
+      "observation": {
+        "category": "protein",
+        "offerId": 801,
+        "date": "2026-11-19",
+        "price": 4499,
+        "currency": "INR",
+        "sourceUrl": "https://thewholetruthfoods.com/products/unflavored-26g-whey-protein-isolate-concentrate?sku_id=38730409",
+        "evidenceUrl": "https://thewholetruthfoods.com/llmFeed.json",
+        "kind": "official-live",
+        "matchBasis": "Official public feed exact product family, flavour, retail pack and SKU",
+        "variantId": "WCU1000_4499"
+      }
+    },
+    {
+      "order": 5051,
+      "observation": {
+        "category": "protein",
+        "offerId": 802,
+        "date": "2026-11-19",
+        "price": 8998,
+        "currency": "INR",
+        "sourceUrl": "https://thewholetruthfoods.com/products/unflavored-26g-whey-protein-isolate-concentrate?sku_id=38730410",
+        "evidenceUrl": "https://thewholetruthfoods.com/llmFeed.json",
+        "kind": "official-live",
+        "matchBasis": "Official public feed exact product family, flavour, retail pack and SKU",
+        "variantId": "F2620058"
+      }
+    }
+  ],
+  "refreshSources": []
+}

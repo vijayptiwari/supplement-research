@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "category": "creatine",
+  "brand": "MuscleBlaze",
+  "product": "Micronised Creatine Monohydrate",
+  "variants": [
+    {
+      "order": 116,
+      "offer": {
+        "id": "cr-116",
+        "brand": "MuscleBlaze",
+        "product": "Micronised Creatine Monohydrate",
+        "type": "Monohydrate",
+        "subclass": "Micronized",
+        "grade": "Not specified",
+        "formulation": "Not specified",
+        "packaging": "Standard pack",
+        "flavour": "Unflavoured",
+        "grams": 100,
+        "kg": 0.1,
+        "price": 579,
+        "stock": "In stock",
+        "creatine": 100,
+        "scoop": 3,
+        "serving": 3,
+        "creatineServing": 3,
+        "energy": null,
+        "url": "https://www.muscleblaze.com/sv/muscleblaze-micronised-creatine-monohydrate/SP-134811?navKey=VRNT-266177",
+        "nutritionUrl": "https://www.muscleblaze.com/sv/muscleblaze-micronised-creatine-monohydrate/SP-134811?navKey=VRNT-266177",
+        "basis": "Selected variant composition table: grams of monohydrate per scoop.",
+        "notes": "",
+        "energyBasis": "",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-micronised-creatine-monohydrate/SP-134811?navKey=VRNT-266177",
+          "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-micronised-creatine-monohydrate/SP-134811?navKey=VRNT-266177",
+          "matchBasis": "Official selected product schema SKU matches exact navigation key"
+        }
+      }
+    },
+    {
+      "order": 117,
+      "offer": {
+        "id": "cr-117",
+        "brand": "MuscleBlaze",
+        "product": "Micronised Creatine Monohydrate",
+        "type": "Monohydrate",
+        "subclass": "Micronized",
+        "grade": "Not specified",
+        "formulation": "Not specified",
+        "packaging": "Standard pack",
+        "flavour": "Unflavoured",
+        "grams": 250,
+        "kg": 0.25,
+        "price": 999,
+        "stock": "Sold out",
+        "creatine": 100,
+        "scoop": 3,
+        "serving": 3,
+        "creatineServing": 3,
+        "energy": null,
+        "url": "https://www.muscleblaze.com/sv/muscleblaze-micronised-creatine-monohydrate/SP-134811?navKey=VRNT-266179",
+        "nutritionUrl": "https://www.muscleblaze.com/sv/muscleblaze-micronised-creatine-monohydrate/SP-134811?navKey=VRNT-266179",
+        "basis": "Selected variant composition table: grams of monohydrate per scoop.",
+        "notes": "",
+        "energyBasis": "",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-micronised-creatine-monohydrate/SP-134811?navKey=VRNT-266179",
+          "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-micronised-creatine-monohydrate/SP-134811?navKey=VRNT-266179",
+          "matchBasis": "Official selected product schema SKU matches exact navigation key"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3109,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-116",
+        "date": "2026-10-25",
+        "price": 579,
+        "currency": "INR",
+        "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-micronised-creatine-monohydrate/SP-134811?navKey=VRNT-266177",
+        "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-micronised-creatine-monohydrate/SP-134811?navKey=VRNT-266177",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "VRNT-266177"
+      }
+    },
+    {
+      "order": 3110,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-117",
+        "date": "2026-10-25",
+        "price": 999,
+        "currency": "INR",
+        "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-micronised-creatine-monohydrate/SP-134811?navKey=VRNT-266179",
+        "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-micronised-creatine-monohydrate/SP-134811?navKey=VRNT-266179",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "VRNT-266179"
+      }
+    },
+    {
+      "order": 4969,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-116",
+        "date": "2026-11-19",
+        "price": 579,
+        "currency": "INR",
+        "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-micronised-creatine-monohydrate/SP-134811?navKey=VRNT-266177",
+        "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-micronised-creatine-monohydrate/SP-134811?navKey=VRNT-266177",
+        "kind": "official-live",
+        "matchBasis": "Official selected product schema SKU matches exact navigation key",
+        "variantId": "VRNT-266177"
+      }
+    },
+    {
+      "order": 4970,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-117",
+        "date": "2026-11-19",
+        "price": 999,
+        "currency": "INR",
+        "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-micronised-creatine-monohydrate/SP-134811?navKey=VRNT-266179",
+        "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-micronised-creatine-monohydrate/SP-134811?navKey=VRNT-266179",
+        "kind": "official-live",
+        "matchBasis": "Official selected product schema SKU matches exact navigation key",
+        "variantId": "VRNT-266179"
+      }
+    }
+  ],
+  "refreshSources": []
+}

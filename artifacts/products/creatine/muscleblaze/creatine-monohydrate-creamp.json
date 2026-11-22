@@ -1,0 +1,331 @@
+{
+  "schemaVersion": 1,
+  "category": "creatine",
+  "brand": "MuscleBlaze",
+  "product": "Creatine Monohydrate CreAMP",
+  "variants": [
+    {
+      "order": 112,
+      "offer": {
+        "id": "cr-112",
+        "brand": "MuscleBlaze",
+        "product": "Creatine Monohydrate CreAMP",
+        "type": "Monohydrate",
+        "subclass": "Micronized",
+        "grade": "Not specified",
+        "formulation": "With CreAbsorb",
+        "packaging": "Standard pack",
+        "flavour": "Unflavoured",
+        "grams": 100,
+        "kg": 0.1,
+        "price": 549,
+        "stock": "In stock",
+        "creatine": null,
+        "scoop": null,
+        "serving": null,
+        "creatineServing": null,
+        "energy": null,
+        "url": "https://www.muscleblaze.com/sv/muscleblaze-creatine-monohydrate/SP-33852?navKey=VRNT-63864",
+        "nutritionUrl": "https://www.muscleblaze.com/sv/muscleblaze-creatine-monohydrate/SP-33852",
+        "basis": "Creatine compound concentration not verified; compound cost omitted.",
+        "notes": "",
+        "energyBasis": "",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-creatine-monohydrate/SP-33852?navKey=VRNT-63864",
+          "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-creatine-monohydrate/SP-33852",
+          "matchBasis": "Official selected product schema flavour and net pack match"
+        },
+        "retailerQuotes": [
+          {
+            "retailer": "HealthKart",
+            "seller": "Bright Nutricare Private Limited",
+            "price": 549,
+            "currency": "INR",
+            "checked": "2026-11-19",
+            "sourceUrl": "https://www.healthkart.com/sv/muscleblaze-creatine-monohydrate-creamp/SP-8688?navKey=VRNT-51779",
+            "variantId": "51779",
+            "matchBasis": "HealthKart selected product numeric id 51779, SP-8688, brand, flavour, retail packaging and explicit net gram/kg weight reviewed against current label evidence; unconditional offer_pr excludes loyalty or coupons. Same manufacturer product/flavour/net pack as https://www.muscleblaze.com/sv/muscleblaze-creatine-monohydrate/SP-33852?navKey=VRNT-63864; marketplace has a separate seller SKU. This quote does not replace the primary brand price or establish an archive history.",
+            "stock": "In stock"
+          }
+        ]
+      }
+    },
+    {
+      "order": 113,
+      "offer": {
+        "id": "cr-113",
+        "brand": "MuscleBlaze",
+        "product": "Creatine Monohydrate CreAMP",
+        "type": "Monohydrate",
+        "subclass": "Micronized",
+        "grade": "Not specified",
+        "formulation": "With CreAbsorb",
+        "packaging": "Standard pack",
+        "flavour": "Unflavoured",
+        "grams": 250,
+        "kg": 0.25,
+        "price": 999,
+        "stock": "In stock",
+        "creatine": 96.77419354838709,
+        "scoop": 3.1,
+        "serving": 3.1,
+        "creatineServing": 3,
+        "energy": 2.9,
+        "url": "https://www.muscleblaze.com/sv/muscleblaze-creatine-monohydrate-creamp/SP-33852?navKey=VRNT-74477",
+        "nutritionUrl": "https://www.muscleblaze.com/sv/muscleblaze-creatine-monohydrate-creamp/SP-33852?navKey=VRNT-74477",
+        "basis": "Selected variant composition table: grams of monohydrate per scoop.",
+        "notes": "",
+        "energyBasis": "Selected variant nutrition table, Qty./100g column.",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-creatine-monohydrate-creamp/SP-33852?navKey=VRNT-74477",
+          "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-creatine-monohydrate-creamp/SP-33852?navKey=VRNT-74477",
+          "matchBasis": "Official selected product schema SKU matches exact navigation key"
+        },
+        "retailerQuotes": [
+          {
+            "retailer": "HealthKart",
+            "seller": "Bright Nutricare Private Limited",
+            "price": 999,
+            "currency": "INR",
+            "checked": "2026-11-19",
+            "sourceUrl": "https://www.healthkart.com/sv/muscleblaze-creatine-monohydrate-creamp/SP-8688?navKey=VRNT-73655",
+            "variantId": "73655",
+            "matchBasis": "HealthKart selected product numeric id 73655, SP-8688, brand, flavour, retail packaging and explicit net gram/kg weight reviewed against current label evidence; unconditional offer_pr excludes loyalty or coupons. Same manufacturer product/flavour/net pack as https://www.muscleblaze.com/sv/muscleblaze-creatine-monohydrate-creamp/SP-33852?navKey=VRNT-74477; marketplace has a separate seller SKU. This quote does not replace the primary brand price or establish an archive history.",
+            "stock": "In stock"
+          }
+        ]
+      }
+    },
+    {
+      "order": 114,
+      "offer": {
+        "id": "cr-114",
+        "brand": "MuscleBlaze",
+        "product": "Creatine Monohydrate CreAMP",
+        "type": "Monohydrate",
+        "subclass": "Micronized",
+        "grade": "Not specified",
+        "formulation": "With CreAbsorb",
+        "packaging": "Standard pack",
+        "flavour": "Unflavoured",
+        "grams": 400,
+        "kg": 0.4,
+        "price": 1499,
+        "stock": "In stock",
+        "creatine": 96.77419354838709,
+        "scoop": 3.1,
+        "serving": 3.1,
+        "creatineServing": 3,
+        "energy": 2.9,
+        "url": "https://www.muscleblaze.com/sv/muscleblaze-creatine-monohydrate-creamp/SP-33852?navKey=VRNT-139937",
+        "nutritionUrl": "https://www.muscleblaze.com/sv/muscleblaze-creatine-monohydrate-creamp/SP-33852?navKey=VRNT-139937",
+        "basis": "Selected variant composition table: grams of monohydrate per scoop.",
+        "notes": "",
+        "energyBasis": "Selected variant nutrition table, Qty./100g column.",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-creatine-monohydrate-creamp/SP-33852?navKey=VRNT-139937",
+          "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-creatine-monohydrate-creamp/SP-33852?navKey=VRNT-139937",
+          "matchBasis": "Official selected product schema SKU matches exact navigation key"
+        },
+        "retailerQuotes": [
+          {
+            "retailer": "HealthKart",
+            "seller": "Bright Nutricare Private Limited",
+            "price": 1299,
+            "currency": "INR",
+            "checked": "2026-11-19",
+            "sourceUrl": "https://www.healthkart.com/sv/muscleblaze-creatine-monohydrate-creamp/SP-8688?navKey=VRNT-137851",
+            "variantId": "137851",
+            "matchBasis": "HealthKart selected product numeric id 137851, SP-8688, brand, flavour, retail packaging and explicit net gram/kg weight reviewed against current label evidence; unconditional offer_pr excludes loyalty or coupons. Same manufacturer product/flavour/net pack as https://www.muscleblaze.com/sv/muscleblaze-creatine-monohydrate-creamp/SP-33852?navKey=VRNT-139937; marketplace has a separate seller SKU. This quote does not replace the primary brand price or establish an archive history.",
+            "stock": "In stock"
+          }
+        ]
+      }
+    },
+    {
+      "order": 115,
+      "offer": {
+        "id": "cr-115",
+        "brand": "MuscleBlaze",
+        "product": "Creatine Monohydrate CreAMP",
+        "type": "Monohydrate",
+        "subclass": "Micronized",
+        "grade": "Not specified",
+        "formulation": "With CreAbsorb",
+        "packaging": "Standard pack",
+        "flavour": "Watermelon Kool Aid",
+        "grams": 320,
+        "kg": 0.32,
+        "price": 999,
+        "stock": "In stock",
+        "creatine": 75,
+        "scoop": 4,
+        "serving": 4,
+        "creatineServing": 3,
+        "energy": 48.07,
+        "url": "https://www.muscleblaze.com/sv/muscleblaze-creatine-monohydrate-creamp/SP-33852?navKey=VRNT-249881",
+        "nutritionUrl": "https://www.muscleblaze.com/sv/muscleblaze-creatine-monohydrate-creamp/SP-33852?navKey=VRNT-249881",
+        "basis": "Selected variant composition table: grams of monohydrate per scoop.",
+        "notes": "",
+        "energyBasis": "Selected variant nutrition table, Qty./100g column.",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-creatine-monohydrate-creamp/SP-33852?navKey=VRNT-249881",
+          "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-creatine-monohydrate-creamp/SP-33852?navKey=VRNT-249881",
+          "matchBasis": "Official selected product schema SKU matches exact navigation key"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 1935,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-113",
+        "date": "2026-08-08",
+        "price": 949,
+        "currency": "INR",
+        "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-creatine-monohydrate-creamp/SP-33852?navKey=VRNT-74477",
+        "evidenceUrl": "https://web.archive.org/web/20260808101119id_/https://www.muscleblaze.com/sv/muscleblaze-creatine-monohydrate-creamp/SP-33852?navKey=VRNT-74477",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "VRNT-74477",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3105,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-112",
+        "date": "2026-10-25",
+        "price": 549,
+        "currency": "INR",
+        "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-creatine-monohydrate/SP-33852",
+        "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-creatine-monohydrate/SP-33852",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": null
+      }
+    },
+    {
+      "order": 3106,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-113",
+        "date": "2026-10-25",
+        "price": 999,
+        "currency": "INR",
+        "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-creatine-monohydrate-creamp/SP-33852?navKey=VRNT-74477",
+        "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-creatine-monohydrate-creamp/SP-33852?navKey=VRNT-74477",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "VRNT-74477"
+      }
+    },
+    {
+      "order": 3107,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-114",
+        "date": "2026-10-25",
+        "price": 1499,
+        "currency": "INR",
+        "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-creatine-monohydrate-creamp/SP-33852?navKey=VRNT-139937",
+        "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-creatine-monohydrate-creamp/SP-33852?navKey=VRNT-139937",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "VRNT-139937"
+      }
+    },
+    {
+      "order": 3108,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-115",
+        "date": "2026-10-25",
+        "price": 999,
+        "currency": "INR",
+        "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-creatine-monohydrate-creamp/SP-33852?navKey=VRNT-249881",
+        "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-creatine-monohydrate-creamp/SP-33852?navKey=VRNT-249881",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "VRNT-249881"
+      }
+    },
+    {
+      "order": 4965,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-112",
+        "date": "2026-11-19",
+        "price": 549,
+        "currency": "INR",
+        "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-creatine-monohydrate/SP-33852?navKey=VRNT-63864",
+        "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-creatine-monohydrate/SP-33852",
+        "kind": "official-live",
+        "matchBasis": "Official selected product schema flavour and net pack match",
+        "variantId": "VRNT-63864"
+      }
+    },
+    {
+      "order": 4966,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-113",
+        "date": "2026-11-19",
+        "price": 999,
+        "currency": "INR",
+        "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-creatine-monohydrate-creamp/SP-33852?navKey=VRNT-74477",
+        "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-creatine-monohydrate-creamp/SP-33852?navKey=VRNT-74477",
+        "kind": "official-live",
+        "matchBasis": "Official selected product schema SKU matches exact navigation key",
+        "variantId": "VRNT-74477"
+      }
+    },
+    {
+      "order": 4967,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-114",
+        "date": "2026-11-19",
+        "price": 1499,
+        "currency": "INR",
+        "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-creatine-monohydrate-creamp/SP-33852?navKey=VRNT-139937",
+        "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-creatine-monohydrate-creamp/SP-33852?navKey=VRNT-139937",
+        "kind": "official-live",
+        "matchBasis": "Official selected product schema SKU matches exact navigation key",
+        "variantId": "VRNT-139937"
+      }
+    },
+    {
+      "order": 4968,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-115",
+        "date": "2026-11-19",
+        "price": 999,
+        "currency": "INR",
+        "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-creatine-monohydrate-creamp/SP-33852?navKey=VRNT-249881",
+        "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-creatine-monohydrate-creamp/SP-33852?navKey=VRNT-249881",
+        "kind": "official-live",
+        "matchBasis": "Official selected product schema SKU matches exact navigation key",
+        "variantId": "VRNT-249881"
+      }
+    }
+  ],
+  "refreshSources": []
+}

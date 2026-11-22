@@ -1,8 +1,9 @@
 import fs from 'node:fs/promises';
+import {loadBundle} from './build_site.mjs';
 import path from 'node:path';
 import {Workbook,SpreadsheetFile} from '@oai/artifact-tool';
 const root=process.cwd(),dir=path.join(root,'outputs/creatine_catalog_20261025');
-const {offers}=JSON.parse(await fs.readFile(path.join(root,'docs/data/creatine.json'),'utf8'));
+const {offers}=(await loadBundle()).categories.creatine;
 const wb=Workbook.create(),s=wb.worksheets.add('Creatine catalog'),m=wb.worksheets.add('Method');
 const headers=['Brand','Product name','Chemical form','Processing subclass','Ingredient trademark','Formulation','Flavour','Packaging','Net pack weight (g)','Pack price (INR)','Cost / g powder (INR)','Labelled compound (g / 100g)','Cost / g compound (INR)','Cost / 3g compound (INR)','Scoop size (g)','Serving size (g)','Compound per serving (g)','Energy (kcal / 100g)','Availability','Checked date','Record ID','Evidence / limitations'];
 const end=offers.length+5;

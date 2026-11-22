@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "category": "biotin",
+  "brand": "Carbamide Forte",
+  "product": "Biotin Tablets with Amla, Brahmi and Bamboo",
+  "variants": [
+    {
+      "order": 8,
+      "offer": {
+        "id": "biotin-42588982607985",
+        "brand": "Carbamide Forte",
+        "product": "Biotin Tablets with Amla, Brahmi and Bamboo",
+        "form": "Tablet",
+        "type": "Sesbania-derived biotin",
+        "subclass": "Biotin + botanical combination",
+        "flavour": "Unflavoured",
+        "source": "Sesbania grandiflora (brand declaration)",
+        "packCount": 90,
+        "servingUnits": 1,
+        "price": 449,
+        "currency": "INR",
+        "stock": "Sold out",
+        "url": "https://carbamideforte.com/products/carbamide-forte-biotin-10-000mcg-with-keratin-bamboo-extract-piperine-for-enhanced-absorption-supplement-for-fast-hair-growth-treatment-90-veg-tablets?variant=42588982607985",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B07RX6RF3N.PT01.jpg?v=1752571884",
+        "labelSources": [
+          "https://carbamideforte.com/products/carbamide-forte-biotin-10-000mcg-with-keratin-bamboo-extract-piperine-for-enhanced-absorption-supplement-for-fast-hair-growth-treatment-90-veg-tablets",
+          "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B07RX6RF3N.PT01.jpg?v=1752571884",
+          "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B07RX6RF3N.PT08.jpg?v=1752571884"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Official facts and bottle label agree: one tablet provides40 micrograms natural biotin from10,000micrograms Sesbania grandiflora extract, not10,000micrograms pure biotin.",
+        "notes": "The product URL retains a10,000mcg headline referring to extract mass; actual biotin is40mcg. Amla50mg, Brahmi50mg, bamboo25mg and lycopene are separate ingredients.",
+        "packaging": "Brand-listed retail pack (90 tablets)",
+        "biotinMcg": 40,
+        "energyPerServing": 0.08
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3971,
+      "observation": {
+        "category": "biotin",
+        "offerId": "biotin-42588982607985",
+        "date": "2026-11-19",
+        "price": 449,
+        "currency": "INR",
+        "sourceUrl": "https://carbamideforte.com/products/carbamide-forte-biotin-10-000mcg-with-keratin-bamboo-extract-piperine-for-enhanced-absorption-supplement-for-fast-hair-growth-treatment-90-veg-tablets?variant=42588982607985",
+        "evidenceUrl": "https://carbamideforte.com/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "42588982607985",
+        "matchBasis": "Official public Shopify feed exact variant ID and explicitly listed retail count; unconditional INR variant price. Label serving and payload independently checked against official label panel."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 155,
+      "profile": {
+        "brand": "Carbamide Forte",
+        "product": "Biotin Tablets with Amla, Brahmi and Bamboo",
+        "form": "Tablet",
+        "type": "Sesbania-derived biotin",
+        "subclass": "Biotin + botanical combination",
+        "flavour": "Unflavoured",
+        "source": "Sesbania grandiflora (brand declaration)",
+        "packCount": 90,
+        "servingUnits": 1,
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B07RX6RF3N.PT01.jpg?v=1752571884",
+        "labelSources": [
+          "https://carbamideforte.com/products/carbamide-forte-biotin-10-000mcg-with-keratin-bamboo-extract-piperine-for-enhanced-absorption-supplement-for-fast-hair-growth-treatment-90-veg-tablets",
+          "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B07RX6RF3N.PT01.jpg?v=1752571884",
+          "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B07RX6RF3N.PT08.jpg?v=1752571884"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Official facts and bottle label agree: one tablet provides40 micrograms natural biotin from10,000micrograms Sesbania grandiflora extract, not10,000micrograms pure biotin.",
+        "notes": "The product URL retains a10,000mcg headline referring to extract mass; actual biotin is40mcg. Amla50mg, Brahmi50mg, bamboo25mg and lycopene are separate ingredients.",
+        "packaging": "Brand-listed retail pack (90 tablets)",
+        "biotinMcg": 40,
+        "energyPerServing": 0.08,
+        "category": "biotin",
+        "base": "https://carbamideforte.com",
+        "handle": "carbamide-forte-biotin-10-000mcg-with-keratin-bamboo-extract-piperine-for-enhanced-absorption-supplement-for-fast-hair-growth-treatment-90-veg-tablets",
+        "variantIds": [
+          42588982607985
+        ],
+        "allowRetailMultipack": true,
+        "id": "biotin-42588982607985"
+      }
+    }
+  ]
+}

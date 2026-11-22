@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "order": 51,
+  "article": {
+    "id": "hmb-training-age-and-clinical-evidence",
+    "category": "hmb",
+    "series": "practical-guides",
+    "title": "Who is HMB evidence about? Training, bed rest and older-adult studies",
+    "summary": "Understand why a result from one population cannot automatically justify a muscle-protection product for another.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "HMB marketing often moves between three stories: greater gains in the gym, protection against muscle loss and support during clinical recovery. These are different problems, and the studies do not all ask the same question. Age alone also does not turn every older adult into the same research population. Reading the participants, background nutrition and chosen outcomes is more useful than asking whether HMB works in the abstract. This article explains how to judge those boundaries without dismissing possible specialised uses or making them universal.",
+    "sections": [
+      {
+        "id": "population-first",
+        "title": "Identify the situation before reading the conclusion",
+        "body": "A healthy resistance-trained adult, an older person temporarily confined to bed and a patient with poor nutrition can have different constraints and care needs. Their interventions may include different foods, exercise and medical treatment. Before using a result, describe who was studied and what problem the trial was intended to address. This prevents an outcome from a clinical or inactivity setting from becoming an automatic promise of extra hypertrophy in someone already training and eating adequately. The reverse extrapolation is also inappropriate.",
+        "sourceIds": [
+          "hmb-position",
+          "well-hmb-bedrest"
+        ]
+      },
+      {
+        "id": "younger-training",
+        "title": "Training studies do not show a consistent universal add-on benefit",
+        "body": "A 2020 synthesis in younger adults did not find an overall added body-composition or strength benefit from HMB with resistance training. The result should be read alongside its study selection and the broader debate, rather than as proof that every possible context is settled. For a healthy trainee, however, it weakens a claim that HMB is an indispensable missing component. Ask what direct evidence shows an additional useful outcome beyond the training and nutrition programme rather than relying on an anti-breakdown mechanism alone.",
+        "sourceIds": [
+          "hmb-young-meta"
+        ]
+      },
+      {
+        "id": "direct-comparison",
+        "title": "A direct whey-plus-HMB comparison asks a narrower question",
+        "body": "One randomized training trial compared whey with calcium HMB against whey with leucine. It did not find different gains in measured muscle size, strength or related outcomes between the groups. This is informative about those interventions under that training protocol; it does not prove that all HMB formulations equal all amino-acid interventions. Its practical lesson is to demand a relevant comparison. Adding a mechanistically interesting ingredient to a sufficient protein background does not automatically produce an extra long-term result.",
+        "sourceIds": [
+          "well-hmb-leucine"
+        ]
+      },
+      {
+        "id": "older-training",
+        "title": "Older age is not one uniform indication",
+        "body": "The 2026 synthesis of HMB as an adjunct to exercise in older adults found no overall additional improvement in several body-composition and strength outcomes. Participants and protocols still varied, and this does not answer every malnutrition or immobility question. It also means that the phrase for older adults is insufficient on its own as a buying rationale. Look for the actual health status, activity level, nutrition and measured endpoint. A population-specific interpretation is more useful than either a blanket age-based endorsement or rejection.",
+        "sourceIds": [
+          "hmb-older-meta"
+        ]
+      },
+      {
+        "id": "bed-rest",
+        "title": "A bed-rest signal needs its functional and design limits",
+        "body": "A small trial in older adults during ten days of bed rest suggested less lean-mass loss with calcium HMB under its protocol. The analysis involved a small sample and sensitivity to an excluded participant, and it did not demonstrate corresponding differences in function. This is a research signal relevant to temporary inactivity, not proof that every retail product prevents muscle wasting or replaces rehabilitation. A meaningful care decision must also consider why someone is inactive and which outcomes matter to recovery.",
+        "sourceIds": [
+          "well-hmb-bedrest"
+        ]
+      },
+      {
+        "id": "mass-and-function",
+        "title": "Muscle-related measurements are not interchangeable",
+        "body": "Lean mass measured by a body-composition method, muscle size, strength and the ability to perform daily tasks describe different things. A favourable result in one cannot fill in missing results for the others. The same distinction applies to blood markers or proposed protein-turnover mechanisms. If the advertised promise concerns independence or faster recovery, look for direct functional outcomes and appropriate follow-up. This keeps an interesting laboratory or composition finding from being presented as a clinical result that the study did not establish.",
+        "sourceIds": [
+          "well-hmb-bedrest",
+          "well-hmb-leucine"
+        ]
+      },
+      {
+        "id": "competing-interpretations",
+        "title": "Different reviews can reach different emphases",
+        "body": "The updated ISSN position stand is more favourable toward some applications than several pooled training analyses. Its discussion is useful, but readers should inspect the evidence behind each population-specific statement and the disclosed commercial relationships. Disagreement is a reason to be precise about uncertainty, not to select whichever conclusion matches a preferred purchase. A brand cannot settle the debate simply by citing the most optimistic review, while a critical analysis also should not claim that one healthy-training result resolves every clinical-care setting.",
+        "sourceIds": [
+          "hmb-position",
+          "hmb-young-meta",
+          "hmb-older-meta"
+        ]
+      },
+      {
+        "id": "useful-next-step",
+        "title": "Make the next decision fit the actual problem",
+        "body": "For unexplained muscle loss, poor intake or recovery after illness, seek assessment rather than self-diagnosing a need for HMB. For a healthy training goal, prioritise an appropriate programme and adequate overall nutrition before an optional add-on with uncertain extra value. If a product is considered, identify the exact preparation, intended outcome, supporting population and full cost. Agree how usefulness would be reviewed instead of treating prevention language as an indefinite commitment. The evidence can guide a more specific question even when it does not justify a purchase.",
+        "sourceIds": [
+          "exercise",
+          "hmb-position",
+          "supplement-quality-ods"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "hmb-position",
+      "well-hmb-bedrest",
+      "hmb-young-meta",
+      "well-hmb-leucine",
+      "hmb-older-meta",
+      "exercise",
+      "supplement-quality-ods"
+    ]
+  }
+}

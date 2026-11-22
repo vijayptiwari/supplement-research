@@ -2,6 +2,11 @@ import json, pathlib, sys
 sys.stdout.reconfigure(encoding='utf-8')
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
+try:
+    from artifact_bridge import reject_legacy_writer
+except ModuleNotFoundError:
+    from scripts.artifact_bridge import reject_legacy_writer
+reject_legacy_writer(ROOT,'patch_energy_anomaly.py')
 cat_file = ROOT / 'docs/data/catalog.json'
 cat = json.loads(cat_file.read_text(encoding='utf-8'))
 offers = cat['offers']

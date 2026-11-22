@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "order": 11,
+  "article": {
+    "id": "ashwagandha-safety-trials-and-liver-signals",
+    "category": "ashwagandha",
+    "series": "evidence-in-context",
+    "title": "Ashwagandha safety: what small trials miss and liver reports can tell us",
+    "summary": "Short trials and liver-injury case series answer different safety questions. An India-based series makes the distinction particularly relevant without establishing how common the risk is.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "A supplement can improve an average symptom score in a trial and still cause an important adverse reaction in a small minority of users. Ashwagandha illustrates why both observations belong in a responsible guide. The choice is not between accepting every alarming story and dismissing all reports because a short trial found few problems. It is to understand what each kind of evidence can detect. Trials help estimate common effects in selected volunteers; clinical case investigations can identify unusual patterns that deserve attention. Neither supplies a reliable personal risk percentage on its own.",
+    "sections": [
+      {
+        "id": "benefit-is-not-complete-safety",
+        "title": "A favourable stress result does not complete the safety assessment",
+        "body": "A frequently cited placebo-controlled stress trial involved a small group of adults and a particular root extract over about two months. It reported improvements in stress-related measures and did not identify a major safety difference during that period. That is relevant evidence for that experiment, but a modest sample observed briefly has little ability to detect an uncommon reaction. Participants are also selected, often excluding people with conditions or medications that complicate interpretation. The right reading is that the tested group tolerated the product reasonably well during the study. It is a much larger leap to say that every preparation is safe indefinitely, especially for someone whose health circumstances would have excluded them from the trial.",
+        "sourceIds": [
+          "ash-trial",
+          "ash-overview"
+        ]
+      },
+      {
+        "id": "what-case-series-add",
+        "title": "Liver-injury reports investigate a different kind of question",
+        "body": "A 2020 series from Iceland and the US Drug-Induced Liver Injury Network described five suspected cases associated with ashwagandha-containing supplements. Investigators examined timing, clinical patterns and alternative causes; available products were also analysed. The cases involved jaundice and predominantly cholestatic or mixed injury, meaning the pattern was not simply an isolated minor change in a blood test. Some patients used other supplements, which complicates attribution. These details make the publication more informative than an anonymous online account, without turning it into a randomized experiment. Its contribution is a recognisable safety signal that clinicians can investigate in later patients. It cannot tell us what fraction of all users will experience that reaction.",
+        "sourceIds": [
+          "synth-ash-liver-iceland-us-2020"
+        ]
+      },
+      {
+        "id": "india-series",
+        "title": "The Indian case series adds relevance and a serious limitation",
+        "body": "A later report examined records from three hospitals in India and focused on eight cases involving single-ingredient ashwagandha products after excluding other categories of exposure. Several patients had underlying chronic liver disease, and severe outcomes occurred in that subgroup. This makes pre-existing disease an important context for interpreting the report rather than a detail to omit. It also means the series cannot represent the average healthy shopper. Hospital referrals select for illness, product histories can be imperfect, and there is no count of all exposed users from which to calculate incidence. The appropriate response is to take the signal seriously while resisting a false numerical certainty about how frequently it happens in the community.",
+        "sourceIds": [
+          "synth-ash-liver-india-2023"
+        ]
+      },
+      {
+        "id": "causality-without-denominator",
+        "title": "A plausible association is not a population risk estimate",
+        "body": "Drug- and herb-induced liver injury is often assessed by the sequence of events, improvement after stopping, laboratory pattern and exclusion of other explanations. A deliberate re-exposure to prove the cause may be inappropriate when injury has been serious. That leaves uncertainty even in carefully investigated cases. LiverTox brings reports together and discusses ashwagandha as a potential cause of clinically apparent injury. This kind of resource is useful for recognising a pattern, not for assigning a precise risk to every dose or brand. The absence of a denominator is central: eight reported cases out of an unknown number of users cannot be converted into a percentage, and the number of articles published is not the number of people harmed.",
+        "sourceIds": [
+          "synth-ash-livertox",
+          "synth-ash-liver-iceland-us-2020",
+          "synth-ash-liver-india-2023"
+        ]
+      },
+      {
+        "id": "duration-and-other-effects",
+        "title": "Liver risk is only one part of the safety discussion",
+        "body": "NIH ODS describes limitations in the longer-term safety evidence and notes that studies often run for a few weeks or months. Commonly reported problems include gastrointestinal symptoms and drowsiness. NCCIH also identifies contexts where use is discouraged, including pregnancy and breastfeeding, and flags thyroid or autoimmune conditions and several medication interactions. A stack that combines multiple calming products deserves attention because tolerability is about the combination as well as the individual label. These points do not establish that every user will experience an adverse effect. They show why a product advertised as natural still needs an individual suitability check, particularly when the intended use drifts from a short experiment into an open-ended daily habit.",
+        "sourceIds": [
+          "ash-overview",
+          "well-ash-safety"
+        ]
+      },
+      {
+        "id": "quality-does-not-remove-all-risk",
+        "title": "Product quality matters, but it cannot guarantee biological safety",
+        "body": "An accurately identified and well-tested product is easier to evaluate than a blend with unclear ingredients. Labels should specify the botanical material and extract, and quality information should relate to the actual product where possible. Yet quality and suitability remain separate questions. A contaminant test cannot establish that the active botanical will be harmless for a particular person. Conversely, a case involving a combination product should not automatically be attributed to every ingredient in it. Keeping packaging and a record of the exact product can help clinicians investigate a suspected reaction. Buying a more expensive extract, or one with a higher percentage printed on the label, does not by itself answer the unresolved long-term safety question.",
+        "sourceIds": [
+          "supplement-quality-ods",
+          "synth-ash-liver-iceland-us-2020",
+          "ash-overview"
+        ]
+      },
+      {
+        "id": "recognising-a-problem",
+        "title": "Recognise when a tolerability problem needs medical attention",
+        "body": "The published liver cases included symptoms such as yellowing of the eyes or skin, itching and dark urine, sometimes accompanied by nausea or abdominal discomfort. These are reasons to stop the suspected supplement and obtain prompt medical assessment rather than try another brand or add a detox product. A new symptom after starting a supplement does not prove its cause, but it belongs in the history. Give the clinician the start date, product details, other supplements and medications, and any known liver condition. This is a targeted response to a documented safety signal, not a request for everyone to diagnose liver disease from ordinary tiredness or to order repeated tests without a clinical reason.",
+        "sourceIds": [
+          "synth-ash-livertox",
+          "synth-ash-liver-iceland-us-2020",
+          "synth-ash-liver-india-2023"
+        ]
+      },
+      {
+        "id": "balanced-decision",
+        "title": "A responsible decision keeps benefit, uncertainty and alternatives together",
+        "body": "If the goal is stress or sleep, define the problem before deciding whether a botanical is a useful addition. Persistent symptoms may need a broader assessment than choosing an extract, and improvement during use cannot identify which part of a changing routine caused it. A short trial of a preparation also supplies no evidence for repeated cycles, indefinite continuation or a claim that every adult should take it. The value question is therefore more demanding than whether a paper found a lower stress score. It includes the relevance of that study, the person's health context, alternative ways to address the problem, and whether any benefit is large enough to justify continuing exposure and expense.",
+        "sourceIds": [
+          "ash-trial",
+          "ash-overview",
+          "well-ash-safety",
+          "synth-ash-livertox"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "ash-trial",
+      "ash-overview",
+      "well-ash-safety",
+      "synth-ash-liver-iceland-us-2020",
+      "synth-ash-liver-india-2023",
+      "synth-ash-livertox",
+      "supplement-quality-ods"
+    ],
+    "evidenceNotes": [
+      {
+        "finding": "A short stress trial cannot exclude uncommon adverse reactions during wider or longer use.",
+        "sourceIds": [
+          "ash-trial"
+        ],
+        "design": "Small randomized double-blind placebo-controlled extract trial.",
+        "population": "Selected adults reporting chronic stress.",
+        "outcome": "Stress measures and tolerability over approximately two months.",
+        "limits": "Selected volunteers, one preparation and short exposure; inadequate power for rare liver injury."
+      },
+      {
+        "finding": "Indian clinicians reported liver injury associated with single-ingredient ashwagandha products, with severe illness in some patients with pre-existing liver disease.",
+        "sourceIds": [
+          "synth-ash-liver-india-2023"
+        ],
+        "design": "Retrospective multicentre case series with causality investigation.",
+        "population": "Eight selected hospital cases involving single-ingredient products.",
+        "outcome": "Clinical liver injury patterns and course.",
+        "limits": "No exposed-user denominator or randomized comparator; referral selection and attribution uncertainty prevent an incidence estimate."
+      }
+    ]
+  }
+}

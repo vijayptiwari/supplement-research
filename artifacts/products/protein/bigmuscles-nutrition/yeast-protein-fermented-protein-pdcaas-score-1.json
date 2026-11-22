@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "BigMuscles Nutrition",
+  "product": "Yeast Protein | Fermented Protein | PDCAAS Score - 1",
+  "variants": [
+    {
+      "order": 719,
+      "offer": {
+        "id": 719,
+        "brand": "BigMuscles Nutrition",
+        "product": "Yeast Protein | Fermented Protein | PDCAAS Score - 1",
+        "type": "Fermented yeast",
+        "flavour": "Belgian Choclate",
+        "kg": 1,
+        "price": 1699,
+        "stock": "In stock",
+        "protein": null,
+        "scoop": 37,
+        "serving": 37,
+        "subclass": "Fermented yeast",
+        "energy": null,
+        "url": "https://www.bigmusclesnutrition.com/products/yeast-protein-powder?variant=44428014125155",
+        "nutritionUrl": "https://www.bigmusclesnutrition.com/products/yeast-protein-powder?variant=44428014125155",
+        "basis": "Conflicting brand description: yeast product page describes pea/rice. Cost omitted.",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.bigmusclesnutrition.com/products/yeast-protein-powder?variant=44428014125155",
+          "evidenceUrl": "https://www.bigmusclesnutrition.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 720,
+      "offer": {
+        "id": 720,
+        "brand": "BigMuscles Nutrition",
+        "product": "Yeast Protein | Fermented Protein | PDCAAS Score - 1",
+        "type": "Fermented yeast",
+        "flavour": "Unflavored",
+        "kg": 1,
+        "price": 1599,
+        "stock": "In stock",
+        "protein": null,
+        "scoop": 37,
+        "serving": 37,
+        "subclass": "Fermented yeast",
+        "energy": null,
+        "url": "https://www.bigmusclesnutrition.com/products/yeast-protein-powder?variant=44428014157923",
+        "nutritionUrl": "https://www.bigmusclesnutrition.com/products/yeast-protein-powder?variant=44428014157923",
+        "basis": "Conflicting brand description: yeast product page describes pea/rice. Cost omitted.",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.bigmusclesnutrition.com/products/yeast-protein-powder?variant=44428014157923",
+          "evidenceUrl": "https://www.bigmusclesnutrition.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 2908,
+      "observation": {
+        "category": "protein",
+        "offerId": 719,
+        "date": "2026-10-25",
+        "price": 1699,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/yeast-protein-powder?variant=44428014125155",
+        "evidenceUrl": "https://www.bigmusclesnutrition.com/products/yeast-protein-powder.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "44428014125155"
+      }
+    },
+    {
+      "order": 2909,
+      "observation": {
+        "category": "protein",
+        "offerId": 720,
+        "date": "2026-10-25",
+        "price": 1599,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/yeast-protein-powder?variant=44428014157923",
+        "evidenceUrl": "https://www.bigmusclesnutrition.com/products/yeast-protein-powder.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "44428014157923"
+      }
+    },
+    {
+      "order": 4766,
+      "observation": {
+        "category": "protein",
+        "offerId": 719,
+        "date": "2026-11-19",
+        "price": 1699,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/yeast-protein-powder?variant=44428014125155",
+        "evidenceUrl": "https://www.bigmusclesnutrition.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "44428014125155"
+      }
+    },
+    {
+      "order": 4767,
+      "observation": {
+        "category": "protein",
+        "offerId": 720,
+        "date": "2026-11-19",
+        "price": 1599,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/yeast-protein-powder?variant=44428014157923",
+        "evidenceUrl": "https://www.bigmusclesnutrition.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "44428014157923"
+      }
+    }
+  ],
+  "refreshSources": []
+}

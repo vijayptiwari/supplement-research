@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "category": "magnesium",
+  "brand": "Nutrabay",
+  "product": "Nutrabay Zinc + Magnesium + B6 (ZMA)",
+  "variants": [
+    {
+      "order": 21,
+      "offer": {
+        "id": "magnesium-nb-2456663",
+        "brand": "Nutrabay",
+        "product": "Nutrabay Zinc + Magnesium + B6 (ZMA)",
+        "flavour": "Unflavoured",
+        "packaging": "Bottle",
+        "source": "Not specified",
+        "price": 349,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://nutrabay.com/product/nutrabay-pro-zma-500mg/?pId=3889255&vId=2456663",
+        "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1033-02-1770722877.png",
+        "labelSources": [
+          "https://nutrabay.com/product/nutrabay-pro-zma-500mg/?pId=3889255&vId=2456663",
+          "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1033-02-1770722877.png"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "2456663",
+        "sourceProductId": "3889255",
+        "sourceSku": "NB-NUT-1033-02",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+        "notes": "Two tablets supply elemental magnesium 440 mg, zinc 17 mg and B6 2.4 mg. This is ZMA, not ZMC: calcium is not a declared active.",
+        "form": "Tablet",
+        "servingUnits": 2,
+        "type": "Magnesium oxide + zinc oxide",
+        "subclass": "ZMA: magnesium/zinc/B6 blend",
+        "magnesiumMg": 440,
+        "zincMg": 17,
+        "vitaminB6Mg": 2.4,
+        "mineralBasis": "elemental",
+        "energyPerServing": 0.57,
+        "declaredNutrients": [
+          "magnesiumMg"
+        ],
+        "packCount": 60
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5279,
+      "observation": {
+        "category": "magnesium",
+        "offerId": "magnesium-nb-2456663",
+        "date": "2026-11-20",
+        "price": 349,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabay.com/product/nutrabay-pro-zma-500mg/?pId=3889255&vId=2456663",
+        "evidenceUrl": "https://nutrabay.com/product/nutrabay-pro-zma-500mg/?pId=3889255&vId=2456663",
+        "kind": "official-live",
+        "variantId": "2456663",
+        "matchBasis": "Nutrabay selected live product 3889255, variant 2456663, SKU NB-NUT-1033-02; complete selected attributes, ordinary INR sale_price, stock and actual net pack verified. Label amounts independently read from this selected gallery."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 364,
+      "profile": {
+        "id": "magnesium-nb-2456663",
+        "brand": "Nutrabay",
+        "product": "Nutrabay Zinc + Magnesium + B6 (ZMA)",
+        "flavour": "Unflavoured",
+        "packaging": "Bottle",
+        "source": "Not specified",
+        "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1033-02-1770722877.png",
+        "labelSources": [
+          "https://nutrabay.com/product/nutrabay-pro-zma-500mg/?pId=3889255&vId=2456663",
+          "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1033-02-1770722877.png"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+        "notes": "Two tablets supply elemental magnesium 440 mg, zinc 17 mg and B6 2.4 mg. This is ZMA, not ZMC: calcium is not a declared active.",
+        "form": "Tablet",
+        "servingUnits": 2,
+        "type": "Magnesium oxide + zinc oxide",
+        "subclass": "ZMA: magnesium/zinc/B6 blend",
+        "magnesiumMg": 440,
+        "zincMg": 17,
+        "vitaminB6Mg": 2.4,
+        "mineralBasis": "elemental",
+        "energyPerServing": 0.57,
+        "declaredNutrients": [
+          "magnesiumMg"
+        ],
+        "packCount": 60,
+        "category": "magnesium",
+        "kind": "nutrabay-product",
+        "base": "https://nutrabay.com",
+        "productUrl": "https://nutrabay.com/product/nutrabay-pro-zma-500mg/?pId=3889255&vId=2456663",
+        "variantUrl": "https://nutrabay.com/product/nutrabay-pro-zma-500mg/?pId=3889255&vId=2456663",
+        "variantId": "2456663",
+        "productId": "3889255",
+        "variantSku": "NB-NUT-1033-02",
+        "variantAttributes": {
+          "pa_pack-size": "60 Tabs"
+        },
+        "cacheKey": "nutrabay-2456663",
+        "allowRetailMultipack": true
+      }
+    }
+  ]
+}

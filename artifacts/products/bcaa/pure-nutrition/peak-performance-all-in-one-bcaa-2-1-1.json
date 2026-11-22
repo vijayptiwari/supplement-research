@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "category": "bcaa",
+  "brand": "Pure Nutrition",
+  "product": "Peak Performance All-in-One BCAA 2:1:1",
+  "variants": [
+    {
+      "order": 4,
+      "offer": {
+        "brand": "Pure Nutrition",
+        "product": "Peak Performance All-in-One BCAA 2:1:1",
+        "form": "Powder",
+        "type": "BCAA 2:1:1",
+        "subclass": "BCAA + electrolytes + taurine",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "packCount": null,
+        "servingUnits": null,
+        "servingGrams": 10,
+        "labelChecked": "2026-11-17",
+        "basis": "Official page states 3000 mg leucine, 1500 mg isoleucine and 1500 mg valine per serving, and a 10 g usage serving. Exact retail pack is 250 g. BCAA total is the sum of the three declared components.",
+        "notes": "Total serving mass includes co-ingredients and is not treated as BCAA mass.",
+        "grams": 250,
+        "flavour": "Watermelon",
+        "bcaaMg": 6000,
+        "leucineMg": 3000,
+        "isoleucineMg": 1500,
+        "valineMg": 1500,
+        "taurineMg": 500,
+        "id": "bcaa-48627624706302",
+        "price": 909,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://purenutrition.in/products/peak-performance-all-in-one-bcaa-powder-2-1-1-bcaa-electrolytes-taurine-micronutrients-watermelon-flavour-250-g?variant=48627624706302",
+        "nutritionUrl": "https://purenutrition.in/products/peak-performance-all-in-one-bcaa-powder-2-1-1-bcaa-electrolytes-taurine-micronutrients-watermelon-flavour-250-g",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://purenutrition.in/products/peak-performance-all-in-one-bcaa-powder-2-1-1-bcaa-electrolytes-taurine-micronutrients-watermelon-flavour-250-g?variant=48627624706302",
+          "evidenceUrl": "https://purenutrition.in/products/peak-performance-all-in-one-bcaa-powder-2-1-1-bcaa-electrolytes-taurine-micronutrients-watermelon-flavour-250-g.json",
+          "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3815,
+      "observation": {
+        "category": "bcaa",
+        "offerId": "bcaa-48627624706302",
+        "date": "2026-11-17",
+        "price": 909,
+        "currency": "INR",
+        "sourceUrl": "https://purenutrition.in/products/peak-performance-all-in-one-bcaa-powder-2-1-1-bcaa-electrolytes-taurine-micronutrients-watermelon-flavour-250-g?variant=48627624706302",
+        "evidenceUrl": "https://purenutrition.in/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "48627624706302",
+        "matchBasis": "Official Shopify public feed fetched 2026-11-17; exact variant ID, unconditional single-pack price, size/flavour and availability matched."
+      }
+    },
+    {
+      "order": 4009,
+      "observation": {
+        "category": "bcaa",
+        "offerId": "bcaa-48627624706302",
+        "date": "2026-11-19",
+        "price": 909,
+        "currency": "INR",
+        "sourceUrl": "https://purenutrition.in/products/peak-performance-all-in-one-bcaa-powder-2-1-1-bcaa-electrolytes-taurine-micronutrients-watermelon-flavour-250-g?variant=48627624706302",
+        "evidenceUrl": "https://purenutrition.in/products/peak-performance-all-in-one-bcaa-powder-2-1-1-bcaa-electrolytes-taurine-micronutrients-watermelon-flavour-250-g.json",
+        "kind": "official-live",
+        "variantId": "48627624706302",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 99,
+      "profile": {
+        "category": "bcaa",
+        "brand": "Pure Nutrition",
+        "base": "https://purenutrition.in",
+        "handle": "peak-performance-all-in-one-bcaa-powder-2-1-1-bcaa-electrolytes-taurine-micronutrients-watermelon-flavour-250-g",
+        "product": "Peak Performance All-in-One BCAA 2:1:1",
+        "form": "Powder",
+        "type": "BCAA 2:1:1",
+        "subclass": "BCAA + electrolytes + taurine",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "packCount": null,
+        "servingUnits": null,
+        "servingGrams": 10,
+        "labelChecked": "2026-11-17",
+        "variantIds": [
+          "48627624706302"
+        ],
+        "basis": "Official page states 3000 mg leucine, 1500 mg isoleucine and 1500 mg valine per serving, and a 10 g usage serving. Exact retail pack is 250 g. BCAA total is the sum of the three declared components.",
+        "notes": "Total serving mass includes co-ingredients and is not treated as BCAA mass.",
+        "grams": 250,
+        "flavour": "Watermelon",
+        "bcaaMg": 6000,
+        "leucineMg": 3000,
+        "isoleucineMg": 1500,
+        "valineMg": 1500,
+        "taurineMg": 500
+      }
+    }
+  ]
+}

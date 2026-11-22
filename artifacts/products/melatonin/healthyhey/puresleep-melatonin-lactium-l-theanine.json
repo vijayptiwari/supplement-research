@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "category": "melatonin",
+  "brand": "HealthyHey",
+  "product": "PureSleep Melatonin + Lactium + L-Theanine",
+  "variants": [
+    {
+      "order": 12,
+      "offer": {
+        "id": "melatonin-44687355478301",
+        "brand": "HealthyHey",
+        "labelChecked": "2026-11-19",
+        "currency": "INR",
+        "price": 899,
+        "stock": "Sold out",
+        "packaging": "Single retail pack",
+        "url": "https://healthyhey.com/products/healthyhey-nutrition-1-sleep-supplement-sleep-better-sleep-longer-reduces-anxiety-stress-non-habit-forming-30-vegan-capsules-formula-with-melatonin-lactium-l-theanine-non-gmo?variant=44687355478301",
+        "nutritionUrl": "https://healthyhey.com/products/healthyhey-nutrition-1-sleep-supplement-sleep-better-sleep-longer-reduces-anxiety-stress-non-habit-forming-30-vegan-capsules-formula-with-melatonin-lactium-l-theanine-non-gmo",
+        "labelSources": [
+          "https://healthyhey.com/products/healthyhey-nutrition-1-sleep-supplement-sleep-better-sleep-longer-reduces-anxiety-stress-non-habit-forming-30-vegan-capsules-formula-with-melatonin-lactium-l-theanine-non-gmo",
+          "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-nutrition-capsule-puresleep-supplement-for-better-sleep-reduces-anxiety-stress-30-veg-capsules-1177237451.png?v=1780892485"
+        ],
+        "declaredNutrients": [
+          "melatoninMg"
+        ],
+        "product": "PureSleep Melatonin + Lactium + L-Theanine",
+        "form": "Capsule",
+        "flavour": "Unflavoured",
+        "packCount": 30,
+        "servingUnits": 1,
+        "melatoninMg": 3,
+        "energyPerServing": 0,
+        "type": "Melatonin",
+        "subclass": "Melatonin + casein hydrolysate + theanine",
+        "source": "Contains milk-derived Lactium",
+        "basis": "The official panel lists one capsule per serving and 30 capsules: melatonin 3 mg, Lactium casein hydrolysate 100 mg and L-theanine 100 mg.",
+        "notes": "Contains milk despite vegan wording in the legacy URL and a vegetable capsule shell. Co-ingredient material is not assumed to be protein or counted as melatonin. This is a label record, not a regimen recommendation.",
+        "additionalIngredients": [
+          {
+            "name": "Lactium casein hydrolysate (milk-derived)",
+            "amount": 100,
+            "unit": "mg",
+            "basis": "per one-capsule label serving; not verified protein grams"
+          },
+          {
+            "name": "L-theanine",
+            "amount": 100,
+            "unit": "mg",
+            "basis": "per one-capsule label serving"
+          }
+        ]
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3899,
+      "observation": {
+        "category": "melatonin",
+        "offerId": "melatonin-44687355478301",
+        "date": "2026-11-19",
+        "price": 899,
+        "currency": "INR",
+        "sourceUrl": "https://healthyhey.com/products/healthyhey-nutrition-1-sleep-supplement-sleep-better-sleep-longer-reduces-anxiety-stress-non-habit-forming-30-vegan-capsules-formula-with-melatonin-lactium-l-theanine-non-gmo?variant=44687355478301",
+        "evidenceUrl": "https://healthyhey.com/products/healthyhey-nutrition-1-sleep-supplement-sleep-better-sleep-longer-reduces-anxiety-stress-non-habit-forming-30-vegan-capsules-formula-with-melatonin-lactium-l-theanine-non-gmo.json",
+        "kind": "official-live",
+        "variantId": "44687355478301",
+        "matchBasis": "Official exactvariant and fresh bottle panel."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 138,
+      "profile": {
+        "brand": "HealthyHey",
+        "labelChecked": "2026-11-19",
+        "packaging": "Single retail pack",
+        "nutritionUrl": "https://healthyhey.com/products/healthyhey-nutrition-1-sleep-supplement-sleep-better-sleep-longer-reduces-anxiety-stress-non-habit-forming-30-vegan-capsules-formula-with-melatonin-lactium-l-theanine-non-gmo",
+        "labelSources": [
+          "https://healthyhey.com/products/healthyhey-nutrition-1-sleep-supplement-sleep-better-sleep-longer-reduces-anxiety-stress-non-habit-forming-30-vegan-capsules-formula-with-melatonin-lactium-l-theanine-non-gmo",
+          "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-nutrition-capsule-puresleep-supplement-for-better-sleep-reduces-anxiety-stress-30-veg-capsules-1177237451.png?v=1780892485"
+        ],
+        "declaredNutrients": [
+          "melatoninMg"
+        ],
+        "product": "PureSleep Melatonin + Lactium + L-Theanine",
+        "form": "Capsule",
+        "flavour": "Unflavoured",
+        "packCount": 30,
+        "servingUnits": 1,
+        "melatoninMg": 3,
+        "energyPerServing": 0,
+        "type": "Melatonin",
+        "subclass": "Melatonin + casein hydrolysate + theanine",
+        "source": "Contains milk-derived Lactium",
+        "basis": "The official panel lists one capsule per serving and 30 capsules: melatonin 3 mg, Lactium casein hydrolysate 100 mg and L-theanine 100 mg.",
+        "notes": "Contains milk despite vegan wording in the legacy URL and a vegetable capsule shell. Co-ingredient material is not assumed to be protein or counted as melatonin. This is a label record, not a regimen recommendation.",
+        "category": "melatonin",
+        "base": "https://healthyhey.com",
+        "handle": "healthyhey-nutrition-1-sleep-supplement-sleep-better-sleep-longer-reduces-anxiety-stress-non-habit-forming-30-vegan-capsules-formula-with-melatonin-lactium-l-theanine-non-gmo",
+        "variantIds": [
+          "44687355478301"
+        ],
+        "numericVariantIsCount": false,
+        "id": "melatonin-44687355478301",
+        "additionalIngredients": [
+          {
+            "name": "Lactium casein hydrolysate (milk-derived)",
+            "amount": 100,
+            "unit": "mg",
+            "basis": "per one-capsule label serving; not verified protein grams"
+          },
+          {
+            "name": "L-theanine",
+            "amount": 100,
+            "unit": "mg",
+            "basis": "per one-capsule label serving"
+          }
+        ]
+      }
+    }
+  ]
+}

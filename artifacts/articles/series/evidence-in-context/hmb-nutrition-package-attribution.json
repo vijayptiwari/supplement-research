@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "order": 23,
+  "article": {
+    "id": "hmb-nutrition-package-attribution",
+    "category": "hmb",
+    "series": "evidence-in-context",
+    "title": "HMB in hospital nutrition: when the result belongs to the whole formula",
+    "summary": "A clinical nutrition drink is not an isolated HMB capsule. Read the NOURISH trial alongside bed-rest and training studies before borrowing its benefits.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "A hospital nutrition study can sound like powerful support for a supplement ingredient. But if patients received energy, protein, micronutrients and HMB together, which part deserves the credit? That is not an academic objection: it changes whether a retail capsule is a reasonable substitute for the intervention that was tested. HMB research provides a useful example because it includes complete oral nutrition, controlled bed rest and exercise studies. Reading them together helps distinguish a potentially valuable clinical programme from a claim that one ingredient can reproduce the whole result.",
+    "sections": [
+      {
+        "id": "package",
+        "title": "Name the intervention before naming the ingredient",
+        "body": "NOURISH studied a specialised high-protein oral nutritional supplement containing HMB in malnourished older hospital patients, compared with a lower-calorie, protein-free placebo supplement alongside standard care. This is not a comparison of two otherwise identical complete formulas differing only in HMB. Energy, protein and other nutrients were part of the intervention. If the package produced a benefit, the trial could establish a package-level effect under its conditions without identifying how much each component contributed. A headline that shortens the intervention to “HMB” removes the central limitation on what a consumer can infer.",
+        "sourceIds": [
+          "context-hmb-nourish-2016"
+        ]
+      },
+      {
+        "id": "primary",
+        "title": "The primary outcome deserves to appear before the headline",
+        "body": "The trial enrolled 652 adults aged 65 or older with malnutrition and selected cardiopulmonary hospital diagnoses. Its primary composite outcome of death or nonelective readmission within 90 days after discharge did not differ significantly between groups. A secondary analysis found lower mortality in the nutrition-supplement group, while readmission did not differ. These statements belong together. The mortality signal is important and worth investigating, but it does not turn the primary composite into a positive result. It also does not establish that isolated HMB reduced mortality. Reporting both the null primary outcome and the favourable secondary outcome gives readers a fairer account than selecting either alone.",
+        "sourceIds": [
+          "context-hmb-nourish-2016"
+        ]
+      },
+      {
+        "id": "attribution",
+        "title": "What an ingredient-isolation study would need to change",
+        "body": "To isolate HMB within a complete nutrition programme, researchers would ideally compare suitably matched formulas with the same energy, protein and other relevant nutrients, differing in HMB. That design asks a narrower question than NOURISH did. It could help separate an additional ingredient effect from correcting nutritional inadequacy more broadly. This is an explanation of trial logic, not a criticism that the clinical researchers chose the wrong question. Testing a usable nutrition package is legitimate and can be clinically valuable. The error occurs later if a retailer uses that package trial to imply that a capsule, gummy or different drink has independently demonstrated the same outcome.",
+        "sourceIds": [
+          "context-hmb-nourish-2016",
+          "hmb-position"
+        ]
+      },
+      {
+        "id": "bed-rest",
+        "title": "Bed rest gives a more focused signal with narrower limits",
+        "body": "A small controlled study in older adults undergoing ten days of bed rest examined HMB more directly and reported preservation of lean body mass in an analysis affected by an excluded participant. Functional measures did not show a corresponding benefit. This supports further investigation of muscle preservation during a specific disuse challenge, with the sensitivity of the result kept visible. It does not establish that HMB restores mobility after any illness, avoids rehabilitation or produces the same response in active athletes. Even a relatively focused ingredient experiment can leave an important gap between a body-composition result and what people can actually do.",
+        "sourceIds": [
+          "well-hmb-bedrest"
+        ]
+      },
+      {
+        "id": "active-comparator",
+        "title": "An active nutritional comparator changes the commercial question",
+        "body": "In resistance-trained young men, a study comparing whey plus HMB with whey plus leucine did not find an advantage in hypertrophy or strength for the HMB combination. This is a useful contrast because the alternative was not simply an inert drink: both groups received relevant nutritional support while training. It does not prove that HMB has no possible clinical use, nor does it establish equivalence in every population. It shows why the comparator belongs in the buying decision. An advantage against an inadequate baseline would not necessarily translate into an advantage over an affordable, suitable nutrition strategy already meeting the person’s needs.",
+        "sourceIds": [
+          "well-hmb-leucine"
+        ]
+      },
+      {
+        "id": "contexts",
+        "title": "Disuse, malnutrition and training are not interchangeable stresses",
+        "body": "An active young lifter, an older adult confined to bed and a malnourished hospital patient have different starting conditions and goals. In one setting, the desired outcome may be additional strength from training; in another, preserving tissue during a short period of immobility; in another, surviving and recovering from illness. Combining all these results into a single HMB benefit score would conceal those differences. Reviews of younger and older training populations have not demonstrated a consistent overall additional muscle or strength benefit. Those syntheses help frame training claims, but they should not be used to dismiss or endorse an entire clinical nutrition programme.",
+        "sourceIds": [
+          "hmb-young-meta",
+          "hmb-older-meta",
+          "well-hmb-bedrest",
+          "context-hmb-nourish-2016"
+        ]
+      },
+      {
+        "id": "clinical-value",
+        "title": "Clinical value includes the problem the formula is solving",
+        "body": "A patient who cannot meet nutritional needs may require an approach that addresses intake, tolerance, illness and rehabilitation together. Choosing a nutrition product in that setting is different from selecting a gym supplement by cost per gram of HMB. Our editorial reading is that a low-priced isolated ingredient cannot be assumed to replace the tested package, while a high-priced complete drink cannot claim an HMB-specific premium solely from a package trial. Medical dietary restrictions and the underlying cause of poor intake also require individual assessment. The right comparison is between suitable care strategies for that person, rather than between equal grams of one named compound.",
+        "sourceIds": [
+          "context-hmb-nourish-2016",
+          "food-kidney-diet",
+          "hmb-position"
+        ]
+      },
+      {
+        "id": "decision",
+        "title": "What evidence would justify the next claim?",
+        "body": "For an ingredient-specific clinical claim, independent matched-formula trials and functional or patient-important outcomes would strengthen attribution. For training, well-controlled comparisons against adequate nutrition and a relevant exercise programme remain more useful than an impressive mechanism. NOURISH also had commercial funding and manufacturer involvement, which should be disclosed without treating sponsorship alone as a verdict on the data. Today’s evidence supports a careful, setting-specific discussion rather than the promise that HMB capsules reproduce hospital nutrition benefits. Read the complete intervention, the comparator and the primary outcome first; only then decide what the ingredient itself has earned.",
+        "sourceIds": [
+          "context-hmb-nourish-2016",
+          "well-hmb-leucine",
+          "well-hmb-bedrest",
+          "hmb-young-meta"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "context-hmb-nourish-2016",
+      "hmb-position",
+      "well-hmb-bedrest",
+      "well-hmb-leucine",
+      "hmb-young-meta",
+      "hmb-older-meta",
+      "food-kidney-diet"
+    ],
+    "evidenceNotes": [
+      {
+        "finding": "The primary death/readmission composite was not significantly improved; a secondary mortality signal favoured the complete nutrition package.",
+        "sourceIds": [
+          "context-hmb-nourish-2016"
+        ],
+        "design": "Multicentre randomized double-blind NOURISH trial with 90-day post-discharge follow-up.",
+        "population": "652 malnourished older adults with selected cardiopulmonary hospital diagnoses were enrolled.",
+        "outcome": "No significant difference in the primary composite or readmission; secondary mortality was lower with the high-protein HMB-containing supplement.",
+        "limits": "Multiple nutritional differences between groups prevent attributing the result to HMB alone. Selected clinical population, attrition and manufacturer funding/involvement."
+      },
+      {
+        "finding": "An active nutritional comparison did not show extra hypertrophy or strength from the HMB combination.",
+        "sourceIds": [
+          "well-hmb-leucine"
+        ],
+        "design": "Controlled resistance-training trial comparing whey plus HMB with whey plus leucine.",
+        "population": "Resistance-trained young men.",
+        "outcome": "No advantage for the HMB combination in the measured hypertrophy or strength outcomes.",
+        "limits": "Does not address malnourished hospital patients or prove equivalence between every HMB formulation or clinical nutrition package."
+      }
+    ]
+  }
+}

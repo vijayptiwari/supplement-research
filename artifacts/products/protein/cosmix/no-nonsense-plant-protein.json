@@ -1,0 +1,910 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "Cosmix",
+  "product": "No-Nonsense Plant Protein",
+  "variants": [
+    {
+      "order": 730,
+      "offer": {
+        "id": 730,
+        "brand": "Cosmix",
+        "product": "No-Nonsense Plant Protein",
+        "type": "Plant — pea + rice",
+        "flavour": "Chikmagalur Mocha",
+        "kg": 1,
+        "price": 1869,
+        "stock": "In stock",
+        "protein": 61.08,
+        "scoop": 38,
+        "serving": 38,
+        "subclass": "Plant blend (pea + rice)",
+        "energy": 372.2631578947369,
+        "url": "https://cosmix.in/products/no-nonsense-plant-protein-chikmagalur-mocha?variant=42818441838685",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0281/7507/3373/files/CM_Nutrition_Facts.png?v=1773308983",
+        "basis": "Exact flavour nutrition image, protein per 100g",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Visually checked flavour label; serving kcal converted to 100g unless 100g energy stated",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-chikmagalur-mocha?variant=42818441838685",
+          "evidenceUrl": "https://cosmix.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 731,
+      "offer": {
+        "id": 731,
+        "brand": "Cosmix",
+        "product": "No-Nonsense Plant Protein",
+        "type": "Plant — pea + rice",
+        "flavour": "Chilli Guava",
+        "kg": 1,
+        "price": 2030,
+        "stock": "In stock",
+        "protein": 58.6,
+        "scoop": 38,
+        "serving": 38,
+        "subclass": "Plant blend (pea + rice)",
+        "energy": 367.36842105263156,
+        "url": "https://cosmix.in/products/no-nonsense-plant-protein-chilli-guava?variant=43732784250973",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0281/7507/3373/files/CG_5.Nutrition_Facts.jpg?v=1773308951",
+        "basis": "Exact flavour nutrition image, protein per 100g",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Visually checked flavour label; serving kcal converted to 100g unless 100g energy stated",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-chilli-guava?variant=43732784250973",
+          "evidenceUrl": "https://cosmix.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 732,
+      "offer": {
+        "id": 732,
+        "brand": "Cosmix",
+        "product": "No-Nonsense Plant Protein",
+        "type": "Plant — pea + rice",
+        "flavour": "Classic Unflavoured",
+        "kg": 1,
+        "price": 1769,
+        "stock": "In stock",
+        "protein": 77.8,
+        "scoop": 33,
+        "serving": 33,
+        "subclass": "Plant blend (pea + rice)",
+        "energy": 357.6363636363636,
+        "url": "https://cosmix.in/products/no-nonsense-plant-protein-classic-unflavoured?variant=42818404253789",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0281/7507/3373/files/CU_Nutrition_Facts.png?v=1773309433",
+        "basis": "Exact flavour nutrition image, protein per 100g",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Visually checked flavour label; serving kcal converted to 100g unless 100g energy stated",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-classic-unflavoured?variant=42818404253789",
+          "evidenceUrl": "https://cosmix.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 733,
+      "offer": {
+        "id": 733,
+        "brand": "Cosmix",
+        "product": "No-Nonsense Plant Protein",
+        "type": "Plant — pea + rice",
+        "flavour": "Cocoa Beet",
+        "kg": 1,
+        "price": 1869,
+        "stock": "In stock",
+        "protein": 60.61,
+        "scoop": 38,
+        "serving": 38,
+        "subclass": "Plant blend (pea + rice)",
+        "energy": 376.02631578947364,
+        "url": "https://cosmix.in/products/no-nonsense-plant-protein-cocoa-beet?variant=42818451570781",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0281/7507/3373/files/CB_Nutrition_Facts.png?v=1773308918",
+        "basis": "Exact flavour nutrition image, protein per 100g",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Visually checked flavour label; serving kcal converted to 100g unless 100g energy stated",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-cocoa-beet?variant=42818451570781",
+          "evidenceUrl": "https://cosmix.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 734,
+      "offer": {
+        "id": 734,
+        "brand": "Cosmix",
+        "product": "No-Nonsense Plant Protein",
+        "type": "Plant — pea + rice",
+        "flavour": "Coconut Peppermint",
+        "kg": 1,
+        "price": 2035,
+        "stock": "In stock",
+        "protein": 60.9,
+        "scoop": 38,
+        "serving": 38,
+        "subclass": "Plant blend (pea + rice)",
+        "energy": 374.10526315789474,
+        "url": "https://cosmix.in/products/no-nonsense-plant-protein-coconut-peppermint?variant=42824080064605",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0281/7507/3373/files/CP_Nutrition_Facts.png?v=1773309465",
+        "basis": "Exact flavour nutrition image, protein per 100g",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Visually checked flavour label; serving kcal converted to 100g unless 100g energy stated",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-coconut-peppermint?variant=42824080064605",
+          "evidenceUrl": "https://cosmix.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 735,
+      "offer": {
+        "id": 735,
+        "brand": "Cosmix",
+        "product": "No-Nonsense Plant Protein",
+        "type": "Plant — pea + rice",
+        "flavour": "Indonesian Cacao",
+        "kg": 1,
+        "price": 1869,
+        "stock": "In stock",
+        "protein": 61.66,
+        "scoop": 38,
+        "serving": 38,
+        "subclass": "Plant blend (pea + rice)",
+        "energy": 370.07894736842104,
+        "url": "https://cosmix.in/products/real-indonesian-cacao?variant=42818436169821",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0281/7507/3373/files/IC_5.Nutrition_Facts.png?v=1773309018",
+        "basis": "Exact flavour nutrition image, protein per 100g",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Visually checked flavour label; serving kcal converted to 100g unless 100g energy stated",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://cosmix.in/products/real-indonesian-cacao?variant=42818436169821",
+          "evidenceUrl": "https://cosmix.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 736,
+      "offer": {
+        "id": 736,
+        "brand": "Cosmix",
+        "product": "No-Nonsense Plant Protein",
+        "type": "Plant — pea + rice",
+        "flavour": "Kerala Vanilla Bean",
+        "kg": 1,
+        "price": 1869,
+        "stock": "In stock",
+        "protein": 61.01,
+        "scoop": 38,
+        "serving": 38,
+        "subclass": "Plant blend (pea + rice)",
+        "energy": 364.6052631578948,
+        "url": "https://cosmix.in/products/no-nonsense-plant-protein-real-kerala-vanilla-bean?variant=42818446491741",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0281/7507/3373/files/KVB_Nutrition_Facts.png?v=1773309224",
+        "basis": "Exact flavour nutrition image, protein per 100g",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Visually checked flavour label; serving kcal converted to 100g unless 100g energy stated",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-real-kerala-vanilla-bean?variant=42818446491741",
+          "evidenceUrl": "https://cosmix.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 737,
+      "offer": {
+        "id": 737,
+        "brand": "Cosmix",
+        "product": "No-Nonsense Plant Protein",
+        "type": "Plant — pea + rice",
+        "flavour": "Mahabaleshwar Strawberry",
+        "kg": 1,
+        "price": 2063,
+        "stock": "In stock",
+        "protein": 59.2,
+        "scoop": 38,
+        "serving": 38,
+        "subclass": "Plant blend (pea + rice)",
+        "energy": 378.421052631579,
+        "url": "https://cosmix.in/products/no-nonsense-plant-protein-mahabaleshwar-strawberry?variant=43260964995165",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0281/7507/3373/files/MSNutrition.jpg?v=1762776436",
+        "basis": "Exact flavour nutrition image, protein per 100g",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Visually checked flavour label; serving kcal converted to 100g unless 100g energy stated",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-mahabaleshwar-strawberry?variant=43260964995165",
+          "evidenceUrl": "https://cosmix.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 738,
+      "offer": {
+        "id": 738,
+        "brand": "Cosmix",
+        "product": "No-Nonsense Plant Protein",
+        "type": "Plant — pea + rice",
+        "flavour": "Malnad Arabica Coffee",
+        "kg": 1,
+        "price": 1869,
+        "stock": "In stock",
+        "protein": 61.08,
+        "scoop": 38,
+        "serving": 38,
+        "subclass": "Plant blend (pea + rice)",
+        "energy": 383.36842105263156,
+        "url": "https://cosmix.in/products/no-nonsense-plant-protein-malnad-arabica-coffee?variant=42818446131293",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0281/7507/3373/files/MAC_Nutrition_Facts.png?v=1773309076",
+        "basis": "Exact flavour nutrition image, protein per 100g",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Visually checked flavour label; serving kcal converted to 100g unless 100g energy stated",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-malnad-arabica-coffee?variant=42818446131293",
+          "evidenceUrl": "https://cosmix.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 739,
+      "offer": {
+        "id": 739,
+        "brand": "Cosmix",
+        "product": "No-Nonsense Plant Protein",
+        "type": "Plant — pea + rice",
+        "flavour": "Mint Cacao",
+        "kg": 1,
+        "price": 1869,
+        "stock": "In stock",
+        "protein": 60.79,
+        "scoop": 38,
+        "serving": 38,
+        "subclass": "Plant blend (pea + rice)",
+        "energy": 385.94736842105266,
+        "url": "https://cosmix.in/products/no-nonsense-plant-protein-mint-cacao?variant=42818452389981",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0281/7507/3373/files/MC_Nutrition_Facts.png?v=1773309160",
+        "basis": "Exact flavour nutrition image, protein per 100g",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Visually checked flavour label; serving kcal converted to 100g unless 100g energy stated",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-mint-cacao?variant=42818452389981",
+          "evidenceUrl": "https://cosmix.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 1669,
+      "observation": {
+        "category": "protein",
+        "offerId": 730,
+        "date": "2024-12-12",
+        "price": 2660,
+        "currency": "INR",
+        "sourceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-chikmagalur-mocha?variant=42818441838685",
+        "evidenceUrl": "https://web.archive.org/web/20241212124949id_/https://cosmix.in/products/no-nonsense-plant-protein-chikmagalur-mocha",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42818441838685",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 1670,
+      "observation": {
+        "category": "protein",
+        "offerId": 730,
+        "date": "2025-03-22",
+        "price": 2660,
+        "currency": "INR",
+        "sourceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-chikmagalur-mocha?variant=42818441838685",
+        "evidenceUrl": "https://web.archive.org/web/20250322032803id_/https://cosmix.in/products/no-nonsense-plant-protein-chikmagalur-mocha?srsltid=AfmBOooNoDXtTpidUWlZa-3DRKysBsYothMSAUTIhCRJU3gToeC7H0JN",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42818441838685",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 1671,
+      "observation": {
+        "category": "protein",
+        "offerId": 731,
+        "date": "2026-08-04",
+        "price": 1740,
+        "currency": "INR",
+        "sourceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-chilli-guava?variant=43732784250973",
+        "evidenceUrl": "https://web.archive.org/web/20260804201430id_/https://cosmix.in/products/no-nonsense-plant-protein-chilli-guava",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "43732784250973",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 1672,
+      "observation": {
+        "category": "protein",
+        "offerId": 732,
+        "date": "2024-11-06",
+        "price": 2610,
+        "currency": "INR",
+        "sourceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-classic-unflavoured?variant=42818404253789",
+        "evidenceUrl": "https://web.archive.org/web/20241106141237/https://cosmix.in/products/no-nonsense-plant-protein-classic-unflavoured?srsltid=AfmBOop-0EV1Ujx6heiZxAKSb3jrmr4eoHUgP0g3OgbnWOyAPM1L_470",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42818404253789",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 1673,
+      "observation": {
+        "category": "protein",
+        "offerId": 732,
+        "date": "2025-03-22",
+        "price": 2518,
+        "currency": "INR",
+        "sourceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-classic-unflavoured?variant=42818404253789",
+        "evidenceUrl": "https://web.archive.org/web/20250322025600id_/https://cosmix.in/products/no-nonsense-plant-protein-classic-unflavoured?srsltid=AfmBOoqcuBTthMosV1rXuXywKPi5BLBoTOCYCX3oFLSsFUnbJZf6Cqej",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42818404253789",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 1674,
+      "observation": {
+        "category": "protein",
+        "offerId": 732,
+        "date": "2025-09-13",
+        "price": 2518,
+        "currency": "INR",
+        "sourceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-classic-unflavoured?variant=42818404253789",
+        "evidenceUrl": "https://web.archive.org/web/20250913141851id_/https://cosmix.in/products/no-nonsense-plant-protein-classic-unflavoured?srsltid=AfmBOoqcuBTthMosV1rXuXywKPi5BLBoTOCYCX3oFLSsFUnbJZf6Cqej",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42818404253789",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 1675,
+      "observation": {
+        "category": "protein",
+        "offerId": 733,
+        "date": "2025-04-28",
+        "price": 2660,
+        "currency": "INR",
+        "sourceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-cocoa-beet?variant=42818451570781",
+        "evidenceUrl": "https://web.archive.org/web/20250428091107id_/https://cosmix.in/products/no-nonsense-plant-protein-cocoa-beet",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42818451570781",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 1676,
+      "observation": {
+        "category": "protein",
+        "offerId": 734,
+        "date": "2024-11-06",
+        "price": 3050,
+        "currency": "INR",
+        "sourceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-coconut-peppermint?variant=42824080064605",
+        "evidenceUrl": "https://web.archive.org/web/20241106140447id_/https://cosmix.in/products/no-nonsense-plant-protein-coconut-peppermint",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42824080064605",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 1677,
+      "observation": {
+        "category": "protein",
+        "offerId": 734,
+        "date": "2025-06-19",
+        "price": 2897,
+        "currency": "INR",
+        "sourceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-coconut-peppermint?variant=42824080064605",
+        "evidenceUrl": "https://web.archive.org/web/20250619000027id_/https://cosmix.in/products/no-nonsense-plant-protein-coconut-peppermint",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42824080064605",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 1678,
+      "observation": {
+        "category": "protein",
+        "offerId": 734,
+        "date": "2025-09-13",
+        "price": 2897,
+        "currency": "INR",
+        "sourceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-coconut-peppermint?variant=42824080064605",
+        "evidenceUrl": "https://web.archive.org/web/20250913143233id_/https://cosmix.in/products/no-nonsense-plant-protein-coconut-peppermint?ref=SharkTankSeason.com&utm_source=SharkTankSeason.com&utm_medium=website&utm_campaign=SharkTankSeason",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42824080064605",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 1679,
+      "observation": {
+        "category": "protein",
+        "offerId": 734,
+        "date": "2025-12-26",
+        "price": 2714,
+        "currency": "INR",
+        "sourceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-coconut-peppermint?variant=42824080064605",
+        "evidenceUrl": "https://web.archive.org/web/20251226145023id_/https://cosmix.in/products/no-nonsense-plant-protein-coconut-peppermint?srsltid=AfmBOoqJXoA1uQm_BefxhipwgNsmhrc1UqZYOef66TaLHZglzNbd02ws",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42824080064605",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 1680,
+      "observation": {
+        "category": "protein",
+        "offerId": 734,
+        "date": "2026-08-04",
+        "price": 1899,
+        "currency": "INR",
+        "sourceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-coconut-peppermint?variant=42824080064605",
+        "evidenceUrl": "https://web.archive.org/web/20260804201431id_/https://cosmix.in/products/no-nonsense-plant-protein-coconut-peppermint",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42824080064605",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 1681,
+      "observation": {
+        "category": "protein",
+        "offerId": 736,
+        "date": "2025-04-28",
+        "price": 2660,
+        "currency": "INR",
+        "sourceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-real-kerala-vanilla-bean?variant=42818446491741",
+        "evidenceUrl": "https://web.archive.org/web/20250428093000id_/https://cosmix.in/products/no-nonsense-plant-protein-real-kerala-vanilla-bean",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42818446491741",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 1682,
+      "observation": {
+        "category": "protein",
+        "offerId": 736,
+        "date": "2025-10-16",
+        "price": 2380,
+        "currency": "INR",
+        "sourceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-real-kerala-vanilla-bean?variant=42818446491741",
+        "evidenceUrl": "https://web.archive.org/web/20251016100627id_/https://cosmix.in/products/no-nonsense-plant-protein-real-kerala-vanilla-bean",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42818446491741",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 1683,
+      "observation": {
+        "category": "protein",
+        "offerId": 738,
+        "date": "2025-04-28",
+        "price": 2660,
+        "currency": "INR",
+        "sourceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-malnad-arabica-coffee?variant=42818446131293",
+        "evidenceUrl": "https://web.archive.org/web/20250428083330id_/https://cosmix.in/products/no-nonsense-plant-protein-malnad-arabica-coffee",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42818446131293",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 1684,
+      "observation": {
+        "category": "protein",
+        "offerId": 738,
+        "date": "2025-07-08",
+        "price": 2660,
+        "currency": "INR",
+        "sourceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-malnad-arabica-coffee?variant=42818446131293",
+        "evidenceUrl": "https://web.archive.org/web/20250708112955/https://cosmix.in/products/no-nonsense-plant-protein-malnad-arabica-coffee",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42818446131293",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 1685,
+      "observation": {
+        "category": "protein",
+        "offerId": 738,
+        "date": "2025-10-16",
+        "price": 2380,
+        "currency": "INR",
+        "sourceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-malnad-arabica-coffee?variant=42818446131293",
+        "evidenceUrl": "https://web.archive.org/web/20251016091658id_/https://cosmix.in/products/no-nonsense-plant-protein-malnad-arabica-coffee",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42818446131293",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 2919,
+      "observation": {
+        "category": "protein",
+        "offerId": 730,
+        "date": "2026-10-25",
+        "price": 1744.4,
+        "currency": "INR",
+        "sourceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-chikmagalur-mocha?variant=42818441838685",
+        "evidenceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-chikmagalur-mocha.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "42818441838685"
+      }
+    },
+    {
+      "order": 2920,
+      "observation": {
+        "category": "protein",
+        "offerId": 731,
+        "date": "2026-10-25",
+        "price": 2030,
+        "currency": "INR",
+        "sourceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-chilli-guava?variant=43732784250973",
+        "evidenceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-chilli-guava.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "43732784250973"
+      }
+    },
+    {
+      "order": 2921,
+      "observation": {
+        "category": "protein",
+        "offerId": 732,
+        "date": "2026-10-25",
+        "price": 1650.6,
+        "currency": "INR",
+        "sourceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-classic-unflavoured?variant=42818404253789",
+        "evidenceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-classic-unflavoured.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "42818404253789"
+      }
+    },
+    {
+      "order": 2922,
+      "observation": {
+        "category": "protein",
+        "offerId": 733,
+        "date": "2026-10-25",
+        "price": 1744.4,
+        "currency": "INR",
+        "sourceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-cocoa-beet?variant=42818451570781",
+        "evidenceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-cocoa-beet.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "42818451570781"
+      }
+    },
+    {
+      "order": 2923,
+      "observation": {
+        "category": "protein",
+        "offerId": 734,
+        "date": "2026-10-25",
+        "price": 1899.8,
+        "currency": "INR",
+        "sourceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-coconut-peppermint?variant=42824080064605",
+        "evidenceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-coconut-peppermint.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "42824080064605"
+      }
+    },
+    {
+      "order": 2924,
+      "observation": {
+        "category": "protein",
+        "offerId": 735,
+        "date": "2026-10-25",
+        "price": 1744.4,
+        "currency": "INR",
+        "sourceUrl": "https://cosmix.in/products/real-indonesian-cacao?variant=42818436169821",
+        "evidenceUrl": "https://cosmix.in/products/real-indonesian-cacao.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "42818436169821"
+      }
+    },
+    {
+      "order": 2925,
+      "observation": {
+        "category": "protein",
+        "offerId": 736,
+        "date": "2026-10-25",
+        "price": 1744.4,
+        "currency": "INR",
+        "sourceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-real-kerala-vanilla-bean?variant=42818446491741",
+        "evidenceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-real-kerala-vanilla-bean.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "42818446491741"
+      }
+    },
+    {
+      "order": 2926,
+      "observation": {
+        "category": "protein",
+        "offerId": 737,
+        "date": "2026-10-25",
+        "price": 1936,
+        "currency": "INR",
+        "sourceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-mahabaleshwar-strawberry?variant=43260964995165",
+        "evidenceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-mahabaleshwar-strawberry.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "43260964995165"
+      }
+    },
+    {
+      "order": 2927,
+      "observation": {
+        "category": "protein",
+        "offerId": 738,
+        "date": "2026-10-25",
+        "price": 1744.4,
+        "currency": "INR",
+        "sourceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-malnad-arabica-coffee?variant=42818446131293",
+        "evidenceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-malnad-arabica-coffee.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "42818446131293"
+      }
+    },
+    {
+      "order": 2928,
+      "observation": {
+        "category": "protein",
+        "offerId": 739,
+        "date": "2026-10-25",
+        "price": 1034.25,
+        "currency": "INR",
+        "sourceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-mint-cacao?variant=42818452389981",
+        "evidenceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-mint-cacao.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "42818452389981"
+      }
+    },
+    {
+      "order": 4777,
+      "observation": {
+        "category": "protein",
+        "offerId": 730,
+        "date": "2026-11-19",
+        "price": 1869,
+        "currency": "INR",
+        "sourceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-chikmagalur-mocha?variant=42818441838685",
+        "evidenceUrl": "https://cosmix.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "42818441838685"
+      }
+    },
+    {
+      "order": 4778,
+      "observation": {
+        "category": "protein",
+        "offerId": 731,
+        "date": "2026-11-19",
+        "price": 2030,
+        "currency": "INR",
+        "sourceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-chilli-guava?variant=43732784250973",
+        "evidenceUrl": "https://cosmix.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "43732784250973"
+      }
+    },
+    {
+      "order": 4779,
+      "observation": {
+        "category": "protein",
+        "offerId": 732,
+        "date": "2026-11-19",
+        "price": 1769,
+        "currency": "INR",
+        "sourceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-classic-unflavoured?variant=42818404253789",
+        "evidenceUrl": "https://cosmix.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "42818404253789"
+      }
+    },
+    {
+      "order": 4780,
+      "observation": {
+        "category": "protein",
+        "offerId": 733,
+        "date": "2026-11-19",
+        "price": 1869,
+        "currency": "INR",
+        "sourceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-cocoa-beet?variant=42818451570781",
+        "evidenceUrl": "https://cosmix.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "42818451570781"
+      }
+    },
+    {
+      "order": 4781,
+      "observation": {
+        "category": "protein",
+        "offerId": 734,
+        "date": "2026-11-19",
+        "price": 2035,
+        "currency": "INR",
+        "sourceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-coconut-peppermint?variant=42824080064605",
+        "evidenceUrl": "https://cosmix.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "42824080064605"
+      }
+    },
+    {
+      "order": 4782,
+      "observation": {
+        "category": "protein",
+        "offerId": 735,
+        "date": "2026-11-19",
+        "price": 1869,
+        "currency": "INR",
+        "sourceUrl": "https://cosmix.in/products/real-indonesian-cacao?variant=42818436169821",
+        "evidenceUrl": "https://cosmix.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "42818436169821"
+      }
+    },
+    {
+      "order": 4783,
+      "observation": {
+        "category": "protein",
+        "offerId": 736,
+        "date": "2026-11-19",
+        "price": 1869,
+        "currency": "INR",
+        "sourceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-real-kerala-vanilla-bean?variant=42818446491741",
+        "evidenceUrl": "https://cosmix.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "42818446491741"
+      }
+    },
+    {
+      "order": 4784,
+      "observation": {
+        "category": "protein",
+        "offerId": 737,
+        "date": "2026-11-19",
+        "price": 2063,
+        "currency": "INR",
+        "sourceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-mahabaleshwar-strawberry?variant=43260964995165",
+        "evidenceUrl": "https://cosmix.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "43260964995165"
+      }
+    },
+    {
+      "order": 4785,
+      "observation": {
+        "category": "protein",
+        "offerId": 738,
+        "date": "2026-11-19",
+        "price": 1869,
+        "currency": "INR",
+        "sourceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-malnad-arabica-coffee?variant=42818446131293",
+        "evidenceUrl": "https://cosmix.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "42818446131293"
+      }
+    },
+    {
+      "order": 4786,
+      "observation": {
+        "category": "protein",
+        "offerId": 739,
+        "date": "2026-11-19",
+        "price": 1869,
+        "currency": "INR",
+        "sourceUrl": "https://cosmix.in/products/no-nonsense-plant-protein-mint-cacao?variant=42818452389981",
+        "evidenceUrl": "https://cosmix.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "42818452389981"
+      }
+    }
+  ],
+  "refreshSources": []
+}

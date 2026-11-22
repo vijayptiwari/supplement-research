@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "category": "creatine",
+  "brand": "Isopure",
+  "product": "Micronized Creatine Monohydrate",
+  "variants": [
+    {
+      "order": 103,
+      "offer": {
+        "id": "cr-103",
+        "brand": "Isopure",
+        "product": "Micronized Creatine Monohydrate",
+        "type": "Monohydrate",
+        "subclass": "Micronized",
+        "grade": "Not specified",
+        "formulation": "Not specified",
+        "packaging": "Standard pack",
+        "flavour": "Unflavoured",
+        "grams": 250,
+        "kg": 0.25,
+        "price": 945,
+        "stock": "In stock",
+        "creatine": null,
+        "scoop": null,
+        "serving": null,
+        "creatineServing": 3,
+        "energy": null,
+        "url": "https://www.optimumnutrition.co.in/products/isopure-100-creatine-monohydrate-micronized-250g-83-servings-increase-lean-muscle-mass-enhances-muscular-endurance-1159940?variant=46471479230690",
+        "nutritionUrl": "https://www.optimumnutrition.co.in/products/isopure-100-creatine-monohydrate-micronized-250g-83-servings-increase-lean-muscle-mass-enhances-muscular-endurance-1159940?variant=46471479230690",
+        "basis": "Creatine compound concentration not verified; compound cost omitted.",
+        "notes": "Brand states no fillers or flavours; exact serving weight/concentration not verified.",
+        "energyBasis": "",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.optimumnutrition.co.in/products/isopure-100-creatine-monohydrate-micronized-250g-83-servings-increase-lean-muscle-mass-enhances-muscular-endurance-1159940?variant=46471479230690",
+          "evidenceUrl": "https://www.optimumnutrition.co.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 1931,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-103",
+        "date": "2025-04-29",
+        "price": 1062,
+        "currency": "INR",
+        "sourceUrl": "https://www.optimumnutrition.co.in/products/isopure-100-creatine-monohydrate-micronized-250g-83-servings-increase-lean-muscle-mass-enhances-muscular-endurance-1159940?variant=46471479230690",
+        "evidenceUrl": "https://web.archive.org/web/20250429053351id_/https://www.optimumnutrition.co.in/products/isopure-100-creatine-monohydrate-micronized-250g-83-servings-increase-lean-muscle-mass-enhances-muscular-endurance-1159940",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "46471479230690",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1932,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-103",
+        "date": "2025-07-14",
+        "price": 959,
+        "currency": "INR",
+        "sourceUrl": "https://www.optimumnutrition.co.in/products/isopure-100-creatine-monohydrate-micronized-250g-83-servings-increase-lean-muscle-mass-enhances-muscular-endurance-1159940?variant=46471479230690",
+        "evidenceUrl": "https://web.archive.org/web/20250714190638id_/https://www.optimumnutrition.co.in/products/isopure-100-creatine-monohydrate-micronized-250g-83-servings-increase-lean-muscle-mass-enhances-muscular-endurance-1159940",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "46471479230690",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3096,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-103",
+        "date": "2026-10-25",
+        "price": 819,
+        "currency": "INR",
+        "sourceUrl": "https://www.optimumnutrition.co.in/products/isopure-100-creatine-monohydrate-micronized-250g-83-servings-increase-lean-muscle-mass-enhances-muscular-endurance-1159940?variant=46471479230690",
+        "evidenceUrl": "https://www.optimumnutrition.co.in/products/isopure-100-creatine-monohydrate-micronized-250g-83-servings-increase-lean-muscle-mass-enhances-muscular-endurance-1159940.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "46471479230690"
+      }
+    },
+    {
+      "order": 4956,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-103",
+        "date": "2026-11-19",
+        "price": 945,
+        "currency": "INR",
+        "sourceUrl": "https://www.optimumnutrition.co.in/products/isopure-100-creatine-monohydrate-micronized-250g-83-servings-increase-lean-muscle-mass-enhances-muscular-endurance-1159940?variant=46471479230690",
+        "evidenceUrl": "https://www.optimumnutrition.co.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "46471479230690"
+      }
+    }
+  ],
+  "refreshSources": []
+}

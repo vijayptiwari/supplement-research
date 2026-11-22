@@ -1,0 +1,377 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "GNC",
+  "product": "GNC Select Whey Protein",
+  "variants": [
+    {
+      "order": 780,
+      "offer": {
+        "id": 780,
+        "brand": "GNC",
+        "product": "GNC Select Whey Protein",
+        "type": "Whey — blend",
+        "flavour": "Chocolate",
+        "kg": 1,
+        "price": 1899,
+        "stock": "In stock",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://gnc.in/products/gnc-select-whey-protein-1kg-chocolate?variant=52021798928615",
+        "nutritionUrl": "https://gnc.in/products/gnc-select-whey-protein-1kg-chocolate?variant=52021798928615",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://gnc.in/products/gnc-select-whey-protein-1kg-chocolate?variant=52021798928615",
+          "evidenceUrl": "https://gnc.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 781,
+      "offer": {
+        "id": 781,
+        "brand": "GNC",
+        "product": "GNC Select Whey Protein",
+        "type": "Whey — blend",
+        "flavour": "Chocolate",
+        "kg": 2,
+        "price": 4199,
+        "stock": "In stock",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://gnc.in/products/gnc-select-whey-protein?variant=51993876725991",
+        "nutritionUrl": "https://gnc.in/products/gnc-select-whey-protein?variant=51993876725991",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://gnc.in/products/gnc-select-whey-protein?variant=51993876725991",
+          "evidenceUrl": "https://gnc.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 782,
+      "offer": {
+        "id": 782,
+        "brand": "GNC",
+        "product": "GNC Select Whey Protein",
+        "type": "Whey — blend",
+        "flavour": "Cookies & Cream",
+        "kg": 1,
+        "price": 1899,
+        "stock": "Sold out",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://gnc.in/products/gnc-select-whey-protein-1kg-cookies-cream?variant=52021799157991",
+        "nutritionUrl": "https://gnc.in/products/gnc-select-whey-protein-1kg-cookies-cream?variant=52021799157991",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://gnc.in/products/gnc-select-whey-protein-1kg-cookies-cream?variant=52021799157991",
+          "evidenceUrl": "https://gnc.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 783,
+      "offer": {
+        "id": 783,
+        "brand": "GNC",
+        "product": "GNC Select Whey Protein",
+        "type": "Whey — blend",
+        "flavour": "Cookies & Cream",
+        "kg": 2,
+        "price": 4199,
+        "stock": "Sold out",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://gnc.in/products/gnc-select-whey-protein?variant=51993876758759",
+        "nutritionUrl": "https://gnc.in/products/gnc-select-whey-protein?variant=51993876758759",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://gnc.in/products/gnc-select-whey-protein?variant=51993876758759",
+          "evidenceUrl": "https://gnc.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 784,
+      "offer": {
+        "id": 784,
+        "brand": "GNC",
+        "product": "GNC Select Whey Protein",
+        "type": "Whey — blend",
+        "flavour": "Unflavored",
+        "kg": 1,
+        "price": 1899,
+        "stock": "Sold out",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://gnc.in/products/gnc-select-whey-protein-1kg-unflavored?variant=52021799387367",
+        "nutritionUrl": "https://gnc.in/products/gnc-select-whey-protein-1kg-unflavored?variant=52021799387367",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://gnc.in/products/gnc-select-whey-protein-1kg-unflavored?variant=52021799387367",
+          "evidenceUrl": "https://gnc.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 785,
+      "offer": {
+        "id": 785,
+        "brand": "GNC",
+        "product": "GNC Select Whey Protein",
+        "type": "Whey — blend",
+        "flavour": "Unflavored",
+        "kg": 2,
+        "price": 4199,
+        "stock": "Sold out",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://gnc.in/products/gnc-select-whey-protein?variant=51993876791527",
+        "nutritionUrl": "https://gnc.in/products/gnc-select-whey-protein?variant=51993876791527",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://gnc.in/products/gnc-select-whey-protein?variant=51993876791527",
+          "evidenceUrl": "https://gnc.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 2969,
+      "observation": {
+        "category": "protein",
+        "offerId": 780,
+        "date": "2026-10-25",
+        "price": 1899,
+        "currency": "INR",
+        "sourceUrl": "https://gnc.in/products/gnc-select-whey-protein-1kg-chocolate?variant=52021798928615",
+        "evidenceUrl": "https://gnc.in/products/gnc-select-whey-protein-1kg-chocolate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "52021798928615"
+      }
+    },
+    {
+      "order": 2970,
+      "observation": {
+        "category": "protein",
+        "offerId": 781,
+        "date": "2026-10-25",
+        "price": 4999,
+        "currency": "INR",
+        "sourceUrl": "https://gnc.in/products/gnc-select-whey-protein?variant=51993876725991",
+        "evidenceUrl": "https://gnc.in/products/gnc-select-whey-protein.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "51993876725991"
+      }
+    },
+    {
+      "order": 2971,
+      "observation": {
+        "category": "protein",
+        "offerId": 782,
+        "date": "2026-10-25",
+        "price": 1899,
+        "currency": "INR",
+        "sourceUrl": "https://gnc.in/products/gnc-select-whey-protein-1kg-cookies-cream?variant=52021799157991",
+        "evidenceUrl": "https://gnc.in/products/gnc-select-whey-protein-1kg-cookies-cream.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "52021799157991"
+      }
+    },
+    {
+      "order": 2972,
+      "observation": {
+        "category": "protein",
+        "offerId": 783,
+        "date": "2026-10-25",
+        "price": 4849,
+        "currency": "INR",
+        "sourceUrl": "https://gnc.in/products/gnc-select-whey-protein?variant=51993876758759",
+        "evidenceUrl": "https://gnc.in/products/gnc-select-whey-protein.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "51993876758759"
+      }
+    },
+    {
+      "order": 2973,
+      "observation": {
+        "category": "protein",
+        "offerId": 784,
+        "date": "2026-10-25",
+        "price": 1899,
+        "currency": "INR",
+        "sourceUrl": "https://gnc.in/products/gnc-select-whey-protein-1kg-unflavored?variant=52021799387367",
+        "evidenceUrl": "https://gnc.in/products/gnc-select-whey-protein-1kg-unflavored.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "52021799387367"
+      }
+    },
+    {
+      "order": 2974,
+      "observation": {
+        "category": "protein",
+        "offerId": 785,
+        "date": "2026-10-25",
+        "price": 4849,
+        "currency": "INR",
+        "sourceUrl": "https://gnc.in/products/gnc-select-whey-protein?variant=51993876791527",
+        "evidenceUrl": "https://gnc.in/products/gnc-select-whey-protein.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "51993876791527"
+      }
+    },
+    {
+      "order": 4827,
+      "observation": {
+        "category": "protein",
+        "offerId": 780,
+        "date": "2026-11-19",
+        "price": 1899,
+        "currency": "INR",
+        "sourceUrl": "https://gnc.in/products/gnc-select-whey-protein-1kg-chocolate?variant=52021798928615",
+        "evidenceUrl": "https://gnc.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "52021798928615"
+      }
+    },
+    {
+      "order": 4828,
+      "observation": {
+        "category": "protein",
+        "offerId": 781,
+        "date": "2026-11-19",
+        "price": 4199,
+        "currency": "INR",
+        "sourceUrl": "https://gnc.in/products/gnc-select-whey-protein?variant=51993876725991",
+        "evidenceUrl": "https://gnc.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "51993876725991"
+      }
+    },
+    {
+      "order": 4829,
+      "observation": {
+        "category": "protein",
+        "offerId": 782,
+        "date": "2026-11-19",
+        "price": 1899,
+        "currency": "INR",
+        "sourceUrl": "https://gnc.in/products/gnc-select-whey-protein-1kg-cookies-cream?variant=52021799157991",
+        "evidenceUrl": "https://gnc.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "52021799157991"
+      }
+    },
+    {
+      "order": 4830,
+      "observation": {
+        "category": "protein",
+        "offerId": 783,
+        "date": "2026-11-19",
+        "price": 4199,
+        "currency": "INR",
+        "sourceUrl": "https://gnc.in/products/gnc-select-whey-protein?variant=51993876758759",
+        "evidenceUrl": "https://gnc.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "51993876758759"
+      }
+    },
+    {
+      "order": 4831,
+      "observation": {
+        "category": "protein",
+        "offerId": 784,
+        "date": "2026-11-19",
+        "price": 1899,
+        "currency": "INR",
+        "sourceUrl": "https://gnc.in/products/gnc-select-whey-protein-1kg-unflavored?variant=52021799387367",
+        "evidenceUrl": "https://gnc.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "52021799387367"
+      }
+    },
+    {
+      "order": 4832,
+      "observation": {
+        "category": "protein",
+        "offerId": 785,
+        "date": "2026-11-19",
+        "price": 4199,
+        "currency": "INR",
+        "sourceUrl": "https://gnc.in/products/gnc-select-whey-protein?variant=51993876791527",
+        "evidenceUrl": "https://gnc.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "51993876791527"
+      }
+    }
+  ],
+  "refreshSources": []
+}

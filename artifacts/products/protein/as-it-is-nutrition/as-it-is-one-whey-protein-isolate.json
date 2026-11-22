@@ -1,0 +1,704 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "AS-IT-IS Nutrition",
+  "product": "AS-IT-IS ONE Whey Protein Isolate",
+  "variants": [
+    {
+      "order": 102,
+      "offer": {
+        "id": 102,
+        "brand": "AS-IT-IS Nutrition",
+        "product": "AS-IT-IS ONE Whey Protein Isolate",
+        "type": "Whey + fermented yeast",
+        "flavour": "Unflavoured",
+        "kg": 1,
+        "price": 4613,
+        "stock": "In stock",
+        "protein": 88.23529411764706,
+        "scoop": 34,
+        "serving": 34,
+        "subclass": "Mixed source (whey + yeast)",
+        "energy": 373.3333333333333,
+        "url": "https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=7661095190579",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0005/5335/3267/files/AS-IT-ISWPI4kgsupplementsFacts.jpg?v=1771408439",
+        "basis": "30g protein / 34g serving; product FAQ",
+        "notes": "Brand product-page serving basis; flavour-specific label values may vary. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-matched label, serving kcal / serving g × 100",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=7661095190579",
+          "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 103,
+      "offer": {
+        "id": 103,
+        "brand": "AS-IT-IS Nutrition",
+        "product": "AS-IT-IS ONE Whey Protein Isolate",
+        "type": "Whey + fermented yeast",
+        "flavour": "Unflavoured",
+        "kg": 2,
+        "price": 8979,
+        "stock": "In stock",
+        "protein": 88.23529411764706,
+        "scoop": 34,
+        "serving": 34,
+        "subclass": "Mixed source (whey + yeast)",
+        "energy": 373.3333333333333,
+        "url": "https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=31473977131059",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0005/5335/3267/files/AS-IT-ISWPI4kgsupplementsFacts.jpg?v=1771408439",
+        "basis": "30g protein / 34g serving; product FAQ",
+        "notes": "Brand product-page serving basis; flavour-specific label values may vary. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-matched label, serving kcal / serving g × 100",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=31473977131059",
+          "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 104,
+      "offer": {
+        "id": 104,
+        "brand": "AS-IT-IS Nutrition",
+        "product": "AS-IT-IS ONE Whey Protein Isolate",
+        "type": "Whey + fermented yeast",
+        "flavour": "Unflavoured",
+        "kg": 4,
+        "price": 15122,
+        "stock": "Sold out",
+        "protein": 88.23529411764706,
+        "scoop": 34,
+        "serving": 34,
+        "subclass": "Mixed source (whey + yeast)",
+        "energy": 373.3333333333333,
+        "url": "https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=41288480718899",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0005/5335/3267/files/AS-IT-ISWPI4kgsupplementsFacts.jpg?v=1771408439",
+        "basis": "30g protein / 34g serving; product FAQ",
+        "notes": "Brand product-page serving basis; flavour-specific label values may vary. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-matched label, serving kcal / serving g × 100",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=41288480718899",
+          "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 354,
+      "observation": {
+        "category": "protein",
+        "offerId": 102,
+        "date": "2023-10-02",
+        "price": 2335,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=7661095190579",
+        "evidenceUrl": "https://web.archive.org/web/20231002053133id_/https://asitisnutrition.com/products/buy-whey-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "7661095190579",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 355,
+      "observation": {
+        "category": "protein",
+        "offerId": 103,
+        "date": "2023-10-02",
+        "price": 4119,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=31473977131059",
+        "evidenceUrl": "https://web.archive.org/web/20231002053133id_/https://asitisnutrition.com/products/buy-whey-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "31473977131059",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 356,
+      "observation": {
+        "category": "protein",
+        "offerId": 104,
+        "date": "2023-10-02",
+        "price": 7899,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=41288480718899",
+        "evidenceUrl": "https://web.archive.org/web/20231002053133id_/https://asitisnutrition.com/products/buy-whey-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "41288480718899",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 357,
+      "observation": {
+        "category": "protein",
+        "offerId": 102,
+        "date": "2024-02-25",
+        "price": 2335,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=7661095190579",
+        "evidenceUrl": "https://web.archive.org/web/20240225105506id_/https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=7381046198323",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "7661095190579",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 358,
+      "observation": {
+        "category": "protein",
+        "offerId": 103,
+        "date": "2024-02-25",
+        "price": 4119,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=31473977131059",
+        "evidenceUrl": "https://web.archive.org/web/20240225105506id_/https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=7381046198323",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "31473977131059",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 359,
+      "observation": {
+        "category": "protein",
+        "offerId": 104,
+        "date": "2024-02-25",
+        "price": 7899,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=41288480718899",
+        "evidenceUrl": "https://web.archive.org/web/20240225105506id_/https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=7381046198323",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "41288480718899",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 360,
+      "observation": {
+        "category": "protein",
+        "offerId": 102,
+        "date": "2024-06-21",
+        "price": 2249,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=7661095190579",
+        "evidenceUrl": "https://web.archive.org/web/20240621181625id_/https://asitisnutrition.com/products/buy-whey-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "7661095190579",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 361,
+      "observation": {
+        "category": "protein",
+        "offerId": 103,
+        "date": "2024-06-21",
+        "price": 4119,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=31473977131059",
+        "evidenceUrl": "https://web.archive.org/web/20240621181625id_/https://asitisnutrition.com/products/buy-whey-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "31473977131059",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 362,
+      "observation": {
+        "category": "protein",
+        "offerId": 104,
+        "date": "2024-06-21",
+        "price": 7899,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=41288480718899",
+        "evidenceUrl": "https://web.archive.org/web/20240621181625id_/https://asitisnutrition.com/products/buy-whey-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "41288480718899",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 363,
+      "observation": {
+        "category": "protein",
+        "offerId": 102,
+        "date": "2024-09-17",
+        "price": 2908,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=7661095190579",
+        "evidenceUrl": "https://web.archive.org/web/20240917044842id_/https://asitisnutrition.com/products/buy-whey-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "7661095190579",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 364,
+      "observation": {
+        "category": "protein",
+        "offerId": 103,
+        "date": "2024-09-17",
+        "price": 5132,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=31473977131059",
+        "evidenceUrl": "https://web.archive.org/web/20240917044842id_/https://asitisnutrition.com/products/buy-whey-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "31473977131059",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 365,
+      "observation": {
+        "category": "protein",
+        "offerId": 104,
+        "date": "2024-09-17",
+        "price": 9840,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=41288480718899",
+        "evidenceUrl": "https://web.archive.org/web/20240917044842id_/https://asitisnutrition.com/products/buy-whey-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "41288480718899",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 366,
+      "observation": {
+        "category": "protein",
+        "offerId": 102,
+        "date": "2024-12-13",
+        "price": 3141,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=7661095190579",
+        "evidenceUrl": "https://web.archive.org/web/20241213032256id_/https://asitisnutrition.com/products/buy-whey-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "7661095190579",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 367,
+      "observation": {
+        "category": "protein",
+        "offerId": 103,
+        "date": "2024-12-13",
+        "price": 6195,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=31473977131059",
+        "evidenceUrl": "https://web.archive.org/web/20241213032256id_/https://asitisnutrition.com/products/buy-whey-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "31473977131059",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 368,
+      "observation": {
+        "category": "protein",
+        "offerId": 104,
+        "date": "2024-12-13",
+        "price": 12199,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=41288480718899",
+        "evidenceUrl": "https://web.archive.org/web/20241213032256id_/https://asitisnutrition.com/products/buy-whey-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "41288480718899",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 369,
+      "observation": {
+        "category": "protein",
+        "offerId": 102,
+        "date": "2025-03-19",
+        "price": 3141,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=7661095190579",
+        "evidenceUrl": "https://web.archive.org/web/20250319133744id_/https://asitisnutrition.com/products/buy-whey-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "7661095190579",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 370,
+      "observation": {
+        "category": "protein",
+        "offerId": 103,
+        "date": "2025-03-19",
+        "price": 6195,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=31473977131059",
+        "evidenceUrl": "https://web.archive.org/web/20250319133744id_/https://asitisnutrition.com/products/buy-whey-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "31473977131059",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 371,
+      "observation": {
+        "category": "protein",
+        "offerId": 104,
+        "date": "2025-03-19",
+        "price": 12199,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=41288480718899",
+        "evidenceUrl": "https://web.archive.org/web/20250319133744id_/https://asitisnutrition.com/products/buy-whey-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "41288480718899",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 372,
+      "observation": {
+        "category": "protein",
+        "offerId": 102,
+        "date": "2025-06-24",
+        "price": 3141,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=7661095190579",
+        "evidenceUrl": "https://web.archive.org/web/20250624115916id_/https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=31473977131059",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "7661095190579",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 373,
+      "observation": {
+        "category": "protein",
+        "offerId": 103,
+        "date": "2025-06-24",
+        "price": 6195,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=31473977131059",
+        "evidenceUrl": "https://web.archive.org/web/20250624115916id_/https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=31473977131059",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "31473977131059",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 374,
+      "observation": {
+        "category": "protein",
+        "offerId": 104,
+        "date": "2025-06-24",
+        "price": 12199,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=41288480718899",
+        "evidenceUrl": "https://web.archive.org/web/20250624115916id_/https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=31473977131059",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "41288480718899",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 375,
+      "observation": {
+        "category": "protein",
+        "offerId": 102,
+        "date": "2025-09-13",
+        "price": 3141,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=7661095190579",
+        "evidenceUrl": "https://web.archive.org/web/20250913073151id_/https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=7381046165555",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "7661095190579",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 376,
+      "observation": {
+        "category": "protein",
+        "offerId": 103,
+        "date": "2025-09-13",
+        "price": 6195,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=31473977131059",
+        "evidenceUrl": "https://web.archive.org/web/20250913073151id_/https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=7381046165555",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "31473977131059",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 377,
+      "observation": {
+        "category": "protein",
+        "offerId": 104,
+        "date": "2025-09-13",
+        "price": 12199,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=41288480718899",
+        "evidenceUrl": "https://web.archive.org/web/20250913073151id_/https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=7381046165555",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "41288480718899",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 378,
+      "observation": {
+        "category": "protein",
+        "offerId": 102,
+        "date": "2025-10-09",
+        "price": 2890,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=7661095190579",
+        "evidenceUrl": "https://web.archive.org/web/20251009225750id_/https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=41288480718899",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "7661095190579",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 379,
+      "observation": {
+        "category": "protein",
+        "offerId": 103,
+        "date": "2025-10-09",
+        "price": 5700,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=31473977131059",
+        "evidenceUrl": "https://web.archive.org/web/20251009225750id_/https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=41288480718899",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "31473977131059",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 380,
+      "observation": {
+        "category": "protein",
+        "offerId": 104,
+        "date": "2025-10-09",
+        "price": 11224,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=41288480718899",
+        "evidenceUrl": "https://web.archive.org/web/20251009225750id_/https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=41288480718899",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "41288480718899",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 381,
+      "observation": {
+        "category": "protein",
+        "offerId": 102,
+        "date": "2026-09-26",
+        "price": 4613,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=7661095190579",
+        "evidenceUrl": "https://web.archive.org/web/20260926062818id_/https://asitisnutrition.com/products/buy-whey-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "7661095190579",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 382,
+      "observation": {
+        "category": "protein",
+        "offerId": 103,
+        "date": "2026-09-26",
+        "price": 8979,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=31473977131059",
+        "evidenceUrl": "https://web.archive.org/web/20260926062818id_/https://asitisnutrition.com/products/buy-whey-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "31473977131059",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 383,
+      "observation": {
+        "category": "protein",
+        "offerId": 104,
+        "date": "2026-09-26",
+        "price": 15122,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=41288480718899",
+        "evidenceUrl": "https://web.archive.org/web/20260926062818id_/https://asitisnutrition.com/products/buy-whey-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "41288480718899",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 2291,
+      "observation": {
+        "category": "protein",
+        "offerId": 102,
+        "date": "2026-10-25",
+        "price": 4613,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=7661095190579",
+        "evidenceUrl": "https://asitisnutrition.com/products/buy-whey-protein-isolate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "7661095190579"
+      }
+    },
+    {
+      "order": 2292,
+      "observation": {
+        "category": "protein",
+        "offerId": 103,
+        "date": "2026-10-25",
+        "price": 8979,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=31473977131059",
+        "evidenceUrl": "https://asitisnutrition.com/products/buy-whey-protein-isolate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "31473977131059"
+      }
+    },
+    {
+      "order": 2293,
+      "observation": {
+        "category": "protein",
+        "offerId": 104,
+        "date": "2026-10-25",
+        "price": 15122,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=41288480718899",
+        "evidenceUrl": "https://asitisnutrition.com/products/buy-whey-protein-isolate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "41288480718899"
+      }
+    },
+    {
+      "order": 4150,
+      "observation": {
+        "category": "protein",
+        "offerId": 102,
+        "date": "2026-11-19",
+        "price": 4613,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=7661095190579",
+        "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "7661095190579"
+      }
+    },
+    {
+      "order": 4151,
+      "observation": {
+        "category": "protein",
+        "offerId": 103,
+        "date": "2026-11-19",
+        "price": 8979,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=31473977131059",
+        "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "31473977131059"
+      }
+    },
+    {
+      "order": 4152,
+      "observation": {
+        "category": "protein",
+        "offerId": 104,
+        "date": "2026-11-19",
+        "price": 15122,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/buy-whey-protein-isolate?variant=41288480718899",
+        "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "41288480718899"
+      }
+    }
+  ],
+  "refreshSources": []
+}

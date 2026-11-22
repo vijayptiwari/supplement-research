@@ -1,0 +1,322 @@
+{
+  "schemaVersion": 1,
+  "category": "fish-oil",
+  "brand": "GNC",
+  "product": "Fish Body Oil 1000 mg",
+  "variants": [
+    {
+      "order": 8,
+      "offer": {
+        "brand": "GNC",
+        "product": "Fish Body Oil 1000 mg",
+        "form": "Softgel",
+        "type": "Fish oil (form not verified)",
+        "subclass": "Fish body oil",
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "HealthKart selected 60-softgel bottle nutrition panel: one softgel (approximately 1.35 g), fish oil 1000 mg, total EPA+DHA 300 mg (EPA 180 mg + DHA 120 mg), energy 10.73 kcal. HealthKart vendor code 90200172 matches the manufacturer Shopify variant SKU.",
+        "notes": "Primary manufacturer pack price is retained. The selected bottle panel takes precedence over generic promotional copy calling the full 1000 mg oil mass omega-3. The shell contains gelatin. Fish species and triglyceride/ethyl-ester form remain unknown.",
+        "id": "fish-oil-44336472654055",
+        "packCount": 60,
+        "price": 399,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://www.guardian.in/products/gnc-fish-body-oil-1000-mg?variant=44336472654055",
+        "nutritionUrl": "https://img8.hkrtcdn.com/38606/prd_3860567-GNC-Fish-Oil-1000-mg-60-softgels_o.jpg",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-11-20",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.guardian.in/products/gnc-fish-body-oil-1000-mg?variant=44336472654055",
+          "evidenceUrl": "https://www.guardian.in/products/gnc-fish-body-oil-1000-mg.json",
+          "matchBasis": "Official public Shopify product; exact variant ID 44336472654055 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+        },
+        "fishOilMg": 1000,
+        "epaMg": 180,
+        "dhaMg": 120,
+        "epaDhaMg": 300,
+        "energyPerServing": 10.73,
+        "labelSources": [
+          "https://www.guardian.in/products/gnc-fish-body-oil-1000-mg?variant=44336472654055",
+          "https://www.healthkart.com/sv/gnc-fish-oil-1000-mg/SP-25681?navKey=VRNT-200092",
+          "https://img8.hkrtcdn.com/38606/prd_3860567-GNC-Fish-Oil-1000-mg-60-softgels_o.jpg",
+          "https://nutrabay.com/product/gnc-fish-body-oil-softgel-1000mg/?pId=1695028&vId=8363178",
+          "https://cdn2.nutrabay.com/uploads/variant/images/variant-30344-image_7-GNC_Fish_Oil_1000mg__60_Softgels.jpg"
+        ],
+        "lastLabelReview": {
+          "checked": "2026-11-20",
+          "sourceUrl": "https://www.guardian.in/products/gnc-fish-body-oil-1000-mg?variant=44336472654055",
+          "evidenceUrl": "https://nutrabay.com/product/gnc-fish-body-oil-softgel-1000mg/?pId=1695028&vId=8363178",
+          "matchBasis": "Exact GNC Fish Oil 1000 mg, 60 softgels, selected Nutrabay product/variant/SKU and current gallery EPA180/DHA120 panel matched to the existing manufacturer pack. Promotional omega-3 mass is not treated as EPA+DHA."
+        },
+        "retailerQuotes": [
+          {
+            "retailer": "HealthKart",
+            "seller": "Guardian Healthcare Services Pvt Ltd",
+            "sourceType": "retailer",
+            "price": 399,
+            "currency": "INR",
+            "checked": "2026-11-20",
+            "sourceUrl": "https://www.healthkart.com/sv/gnc-fish-oil-1000-mg/SP-25681?navKey=VRNT-200092",
+            "variantId": "200092",
+            "stock": "In stock",
+            "matchBasis": "Exact brand, 1000 mg fish-body-oil formula and 60 softgels; HK vendor code 90200172 equals the manufacturer selected variant SKU; ordinary offer_pr, not Premium/Select/coupon pricing."
+          },
+          {
+            "retailer": "Nutrabay",
+            "price": 379,
+            "currency": "INR",
+            "checked": "2026-11-20",
+            "sourceUrl": "https://nutrabay.com/product/gnc-fish-body-oil-softgel-1000mg/?pId=1695028&vId=8363178",
+            "variantId": "8363178",
+            "productId": "1695028",
+            "stock": "In stock",
+            "matchBasis": "Exact GNC Fish Oil 1000 mg, 60 softgels, selected Nutrabay product/variant/SKU and current gallery EPA180/DHA120 panel matched to the existing manufacturer pack. Promotional omega-3 mass is not treated as EPA+DHA."
+          }
+        ]
+      }
+    },
+    {
+      "order": 9,
+      "offer": {
+        "brand": "GNC",
+        "product": "Fish Body Oil 1000 mg",
+        "form": "Softgel",
+        "type": "Fish oil (form not verified)",
+        "subclass": "Fish body oil",
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "HealthKart selected 90-softgel bottle nutrition panel: one softgel (approximately 1.35 g), fish oil 1000 mg, total EPA+DHA 300 mg (EPA 180 mg + DHA 120 mg), energy 10.73 kcal. HealthKart vendor code 90200106 matches the manufacturer Shopify variant SKU.",
+        "notes": "Primary manufacturer pack price is retained. The selected bottle panel takes precedence over generic promotional copy calling the full 1000 mg oil mass omega-3. The shell contains gelatin. Fish species and triglyceride/ethyl-ester form remain unknown.",
+        "id": "fish-oil-42670282539239",
+        "packCount": 90,
+        "price": 599,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://www.guardian.in/products/gnc-fish-body-oil-1000-mg?variant=42670282539239",
+        "nutritionUrl": "https://img10.hkrtcdn.com/38607/prd_3860639-GNC-Fish-Oil-1000-mg-90-softgels_o.jpg",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-11-20",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.guardian.in/products/gnc-fish-body-oil-1000-mg?variant=42670282539239",
+          "evidenceUrl": "https://www.guardian.in/products/gnc-fish-body-oil-1000-mg.json",
+          "matchBasis": "Official public Shopify product; exact variant ID 42670282539239 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+        },
+        "fishOilMg": 1000,
+        "epaMg": 180,
+        "dhaMg": 120,
+        "epaDhaMg": 300,
+        "energyPerServing": 10.73,
+        "labelSources": [
+          "https://www.guardian.in/products/gnc-fish-body-oil-1000-mg?variant=42670282539239",
+          "https://www.healthkart.com/sv/gnc-fish-oil-1000-mg/SP-25681?navKey=VRNT-71050",
+          "https://img10.hkrtcdn.com/38607/prd_3860639-GNC-Fish-Oil-1000-mg-90-softgels_o.jpg"
+        ],
+        "lastLabelReview": {
+          "checked": "2026-11-20",
+          "sourceUrl": "https://www.healthkart.com/sv/gnc-fish-oil-1000-mg/SP-25681?navKey=VRNT-71050",
+          "evidenceUrl": "https://www.healthkart.com/sv/gnc-fish-oil-1000-mg/SP-25681?navKey=VRNT-71050",
+          "matchBasis": "HealthKart public SSR exact published product SP-25681 and selected VRNT-71050; source brand and all selected attributes match; ordinary offer_pr, not Premium/Select/coupon pricing. Label gallery reviewed independently. HealthKart vendor code 90200106 equals manufacturer Shopify SKU; label-only refinement, primary manufacturer price not changed."
+        },
+        "retailerQuotes": [
+          {
+            "retailer": "HealthKart",
+            "seller": "Guardian Healthcare Services Pvt Ltd",
+            "sourceType": "retailer",
+            "price": 599,
+            "currency": "INR",
+            "checked": "2026-11-20",
+            "sourceUrl": "https://www.healthkart.com/sv/gnc-fish-oil-1000-mg/SP-25681?navKey=VRNT-71050",
+            "variantId": "71050",
+            "stock": "In stock",
+            "matchBasis": "Exact brand, 1000 mg fish-body-oil formula and 90 softgels; HK vendor code 90200106 equals the manufacturer selected variant SKU; ordinary offer_pr, not Premium/Select/coupon pricing."
+          }
+        ]
+      }
+    },
+    {
+      "order": 10,
+      "offer": {
+        "brand": "GNC",
+        "product": "Fish Body Oil 1000 mg",
+        "form": "Softgel",
+        "type": "Fish oil (form not verified)",
+        "subclass": "Fish body oil",
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official product listing; only explicitly verified label amounts are recorded.",
+        "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities.",
+        "id": "fish-oil-42670282506471",
+        "packCount": 180,
+        "price": 799,
+        "currency": "INR",
+        "stock": "Sold out",
+        "url": "https://www.guardian.in/products/gnc-fish-body-oil-1000-mg?variant=42670282506471",
+        "nutritionUrl": "https://www.guardian.in/products/gnc-fish-body-oil-1000-mg",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-10-29",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.guardian.in/products/gnc-fish-body-oil-1000-mg?variant=42670282506471",
+          "evidenceUrl": "https://www.guardian.in/products/gnc-fish-body-oil-1000-mg.json",
+          "matchBasis": "Official public Shopify product; exact variant ID 42670282506471 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3711,
+      "observation": {
+        "category": "fish-oil",
+        "offerId": "fish-oil-44336472654055",
+        "date": "2026-10-29",
+        "price": 349,
+        "currency": "INR",
+        "sourceUrl": "https://www.guardian.in/products/gnc-fish-body-oil-1000-mg?variant=44336472654055",
+        "evidenceUrl": "https://www.guardian.in/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "44336472654055"
+      }
+    },
+    {
+      "order": 3712,
+      "observation": {
+        "category": "fish-oil",
+        "offerId": "fish-oil-42670282539239",
+        "date": "2026-10-29",
+        "price": 529,
+        "currency": "INR",
+        "sourceUrl": "https://www.guardian.in/products/gnc-fish-body-oil-1000-mg?variant=42670282539239",
+        "evidenceUrl": "https://www.guardian.in/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "42670282539239"
+      }
+    },
+    {
+      "order": 3713,
+      "observation": {
+        "category": "fish-oil",
+        "offerId": "fish-oil-42670282506471",
+        "date": "2026-10-29",
+        "price": 719,
+        "currency": "INR",
+        "sourceUrl": "https://www.guardian.in/products/gnc-fish-body-oil-1000-mg?variant=42670282506471",
+        "evidenceUrl": "https://www.guardian.in/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "42670282506471"
+      }
+    },
+    {
+      "order": 3862,
+      "observation": {
+        "category": "fish-oil",
+        "offerId": "fish-oil-44336472654055",
+        "date": "2026-11-19",
+        "price": 399,
+        "currency": "INR",
+        "sourceUrl": "https://www.guardian.in/products/gnc-fish-body-oil-1000-mg?variant=44336472654055",
+        "evidenceUrl": "https://www.guardian.in/products/gnc-fish-body-oil-1000-mg.json",
+        "kind": "official-live",
+        "variantId": "44336472654055",
+        "matchBasis": "Official public Shopify product; exact variant ID 44336472654055 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+      }
+    },
+    {
+      "order": 3863,
+      "observation": {
+        "category": "fish-oil",
+        "offerId": "fish-oil-42670282539239",
+        "date": "2026-11-19",
+        "price": 599,
+        "currency": "INR",
+        "sourceUrl": "https://www.guardian.in/products/gnc-fish-body-oil-1000-mg?variant=42670282539239",
+        "evidenceUrl": "https://www.guardian.in/products/gnc-fish-body-oil-1000-mg.json",
+        "kind": "official-live",
+        "variantId": "42670282539239",
+        "matchBasis": "Official public Shopify product; exact variant ID 42670282539239 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+      }
+    },
+    {
+      "order": 3864,
+      "observation": {
+        "category": "fish-oil",
+        "offerId": "fish-oil-42670282506471",
+        "date": "2026-11-19",
+        "price": 799,
+        "currency": "INR",
+        "sourceUrl": "https://www.guardian.in/products/gnc-fish-body-oil-1000-mg?variant=42670282506471",
+        "evidenceUrl": "https://www.guardian.in/products/gnc-fish-body-oil-1000-mg.json",
+        "kind": "official-live",
+        "variantId": "42670282506471",
+        "matchBasis": "Official public Shopify product; exact variant ID 42670282506471 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 12,
+      "profile": {
+        "category": "fish-oil",
+        "brand": "GNC",
+        "base": "https://www.guardian.in",
+        "handle": "gnc-fish-body-oil-1000-mg",
+        "product": "Fish Body Oil 1000 mg",
+        "form": "Softgel",
+        "type": "Fish oil (form not verified)",
+        "subclass": "Fish body oil",
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Individually reviewed selected 60- and 90-softgel bottle panels both state one softgel, fish oil1000mg, EPA180mg, DHA120mg and energy10.73kcal. Matching HealthKart vendor codes90200172/90200106 establish manufacturer SKU identity.",
+        "notes": "Primary manufacturer pack price is retained. The selected bottle panel takes precedence over generic promotional copy calling the full 1000 mg oil mass omega-3. The shell contains gelatin. Fish species and triglyceride/ethyl-ester form remain unknown.",
+        "fishOilMg": 1000,
+        "epaMg": 180,
+        "dhaMg": 120,
+        "epaDhaMg": 300,
+        "energyPerServing": 10.73,
+        "labelChecked": "2026-11-20",
+        "nutritionUrl": "https://www.guardian.in/products/gnc-fish-body-oil-1000-mg",
+        "labelSources": [
+          "https://www.guardian.in/products/gnc-fish-body-oil-1000-mg?variant=44336472654055",
+          "https://www.healthkart.com/sv/gnc-fish-oil-1000-mg/SP-25681?navKey=VRNT-200092",
+          "https://img8.hkrtcdn.com/38606/prd_3860567-GNC-Fish-Oil-1000-mg-60-softgels_o.jpg",
+          "https://www.guardian.in/products/gnc-fish-body-oil-1000-mg?variant=42670282539239",
+          "https://www.healthkart.com/sv/gnc-fish-oil-1000-mg/SP-25681?navKey=VRNT-71050",
+          "https://img10.hkrtcdn.com/38607/prd_3860639-GNC-Fish-Oil-1000-mg-90-softgels_o.jpg"
+        ],
+        "variantIds": [
+          "44336472654055",
+          "42670282539239"
+        ]
+      }
+    },
+    {
+      "order": 13,
+      "profile": {
+        "category": "fish-oil",
+        "brand": "GNC",
+        "base": "https://www.guardian.in",
+        "handle": "gnc-fish-body-oil-1000-mg",
+        "product": "Fish Body Oil 1000 mg",
+        "form": "Softgel",
+        "type": "Fish oil (form not verified)",
+        "subclass": "Fish body oil",
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official product listing; only explicitly verified label amounts are recorded.",
+        "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities.",
+        "variantIds": [
+          "42670282506471"
+        ],
+        "labelChecked": "2026-10-29"
+      }
+    }
+  ]
+}

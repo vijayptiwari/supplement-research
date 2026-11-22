@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "category": "beta-alanine",
+  "brand": "GNC",
+  "product": "Pro Performance Beta-Alanine",
+  "variants": [
+    {
+      "order": 2,
+      "offer": {
+        "brand": "GNC",
+        "product": "Pro Performance Beta-Alanine",
+        "form": "Powder",
+        "type": "Beta-alanine",
+        "subclass": "Single amino acid",
+        "source": "Not specified",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "grams": 200,
+        "servingGrams": 6,
+        "basis": "Official inspected nutrition label states one 6 g scoop, beta-alanine 6000 mg and 0 kcal. Exact official variant is 200 g unflavoured.",
+        "notes": "The 6 g is a manufacturer label serving and is not a suggested starting dose. Rounded label servings are not used as the cost divisor.",
+        "labelChecked": "2026-11-17",
+        "betaAlanineMg": 6000,
+        "energyPerServing": 0,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0623/9010/8391/files/BOP2.png?v=1791794858"
+        ],
+        "id": "beta-alanine-52777981051111",
+        "price": 799,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://www.guardian.in/products/gnc-pro-performance-beta-alanine?variant=52777981051111",
+        "nutritionUrl": "https://www.guardian.in/products/gnc-pro-performance-beta-alanine",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.guardian.in/products/gnc-pro-performance-beta-alanine?variant=52777981051111",
+          "evidenceUrl": "https://www.guardian.in/products/gnc-pro-performance-beta-alanine.json",
+          "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3831,
+      "observation": {
+        "category": "beta-alanine",
+        "offerId": "beta-alanine-52777981051111",
+        "date": "2026-11-17",
+        "price": 799,
+        "currency": "INR",
+        "sourceUrl": "https://www.guardian.in/products/gnc-pro-performance-beta-alanine?variant=52777981051111",
+        "evidenceUrl": "https://www.guardian.in/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Direct official same-day source; exact retail variant and weight. Member, prepaid and coupon discounts excluded.",
+        "variantId": "52777981051111"
+      }
+    },
+    {
+      "order": 4028,
+      "observation": {
+        "category": "beta-alanine",
+        "offerId": "beta-alanine-52777981051111",
+        "date": "2026-11-19",
+        "price": 799,
+        "currency": "INR",
+        "sourceUrl": "https://www.guardian.in/products/gnc-pro-performance-beta-alanine?variant=52777981051111",
+        "evidenceUrl": "https://www.guardian.in/products/gnc-pro-performance-beta-alanine.json",
+        "kind": "official-live",
+        "variantId": "52777981051111",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 115,
+      "profile": {
+        "category": "beta-alanine",
+        "brand": "GNC",
+        "base": "https://www.guardian.in",
+        "handle": "gnc-pro-performance-beta-alanine",
+        "product": "Pro Performance Beta-Alanine",
+        "form": "Powder",
+        "type": "Beta-alanine",
+        "subclass": "Single amino acid",
+        "source": "Not specified",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "grams": 200,
+        "servingGrams": 6,
+        "basis": "Official inspected nutrition label states one 6 g scoop, beta-alanine 6000 mg and 0 kcal. Exact official variant is 200 g unflavoured.",
+        "notes": "The 6 g is a manufacturer label serving and is not a suggested starting dose. Rounded label servings are not used as the cost divisor.",
+        "labelChecked": "2026-11-17",
+        "variantIds": [
+          "52777981051111"
+        ],
+        "betaAlanineMg": 6000,
+        "energyPerServing": 0,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0623/9010/8391/files/BOP2.png?v=1791794858"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "AS-IT-IS Nutrition",
+  "product": "AS-IT-IS ONE Micellar Casein",
+  "variants": [
+    {
+      "order": 95,
+      "offer": {
+        "id": 95,
+        "brand": "AS-IT-IS Nutrition",
+        "product": "AS-IT-IS ONE Micellar Casein",
+        "type": "Milk — casein",
+        "flavour": "Unflavoured",
+        "kg": 1,
+        "price": 1526,
+        "stock": "In stock",
+        "protein": 78.125,
+        "scoop": 32,
+        "serving": 32,
+        "subclass": "Micellar casein",
+        "energy": null,
+        "url": "https://asitisnutrition.com/products/as-it-is-nutrition-pure-micellar-casein?variant=13446444122163",
+        "nutritionUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-pure-micellar-casein?variant=13446444122163",
+        "basis": "25g protein / 32g serving; product FAQ",
+        "notes": "Brand product-page serving basis; flavour-specific label values may vary. Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-pure-micellar-casein?variant=13446444122163",
+          "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 327,
+      "observation": {
+        "category": "protein",
+        "offerId": 95,
+        "date": "2026-09-26",
+        "price": 1526,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-pure-micellar-casein?variant=13446444122163",
+        "evidenceUrl": "https://web.archive.org/web/20260926062819id_/https://asitisnutrition.com/products/as-it-is-nutrition-pure-micellar-casein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "13446444122163",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 2284,
+      "observation": {
+        "category": "protein",
+        "offerId": 95,
+        "date": "2026-10-25",
+        "price": 1526,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-pure-micellar-casein?variant=13446444122163",
+        "evidenceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-pure-micellar-casein.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "13446444122163"
+      }
+    },
+    {
+      "order": 4143,
+      "observation": {
+        "category": "protein",
+        "offerId": 95,
+        "date": "2026-11-19",
+        "price": 1526,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-pure-micellar-casein?variant=13446444122163",
+        "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "13446444122163"
+      }
+    }
+  ],
+  "refreshSources": []
+}

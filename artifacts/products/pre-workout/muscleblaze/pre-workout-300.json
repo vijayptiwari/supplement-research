@@ -1,0 +1,193 @@
+{
+  "schemaVersion": 1,
+  "category": "pre-workout",
+  "brand": "MuscleBlaze",
+  "product": "PRE Workout 300",
+  "variants": [
+    {
+      "order": 8,
+      "offer": {
+        "id": "pre-workout-hk-79500",
+        "brand": "MuscleBlaze",
+        "product": "PRE Workout 300",
+        "form": "Powder",
+        "type": "Caffeinated multi-ingredient",
+        "subclass": "Citrulline malate + arginine HCl + BCAA",
+        "flavour": "Fruit Punch",
+        "packaging": "Single retail pack",
+        "price": 1599,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://www.muscleblaze.com/sv/muscleblaze-pre-workout-300/SP-43960?navKey=VRNT-79500",
+        "nutritionUrl": "https://img8.hkrtcdn.com/30066/prd_3006507-MuscleBlaze-PRE-Workout-300-0.55-lb-Fruit-Punch_o.jpg",
+        "labelSources": [
+          "https://www.muscleblaze.com/sv/muscleblaze-pre-workout-300/SP-43960?navKey=VRNT-79500",
+          "https://img8.hkrtcdn.com/30066/prd_3006507-MuscleBlaze-PRE-Workout-300-0.55-lb-Fruit-Punch_o.jpg",
+          "https://img4.hkrtcdn.com/30066/prd_3006503-MuscleBlaze-PRE-Workout-300-0.55-lb-Fruit-Punch_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "79500",
+        "sourceProductId": "43960",
+        "source": "Not specified",
+        "notes": "Product number 300 is not caffeine dose: actual label specifies 200 mg caffeine per 8 g scoop. Arginine mass is treated as hydrochloride compound because that is the ingredient form.",
+        "basis": "Exact official brand selected variant. The linked current product gallery nutrition panel was individually reviewed; amounts are per stated label serving. Product claims are manufacturer declarations, not independent assay results.",
+        "energyPerServing": 2.83,
+        "caffeineMg": 200,
+        "citrullineMalateMg": 3000,
+        "arginineCompoundMg": 1500,
+        "bcaaMg": 2000,
+        "grams": 250,
+        "packCount": null,
+        "servingGrams": 8,
+        "additionalIngredients": [
+          {
+            "name": "Leucine",
+            "amount": 1000,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "Isoleucine",
+            "amount": 500,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "Valine",
+            "amount": 500,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "enXtra (Alpinia galanga extract)",
+            "amount": 100,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "BioPerine black pepper extract",
+            "amount": 5,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          }
+        ],
+        "declaredNutrients": [
+          "caffeineMg",
+          "citrullineMalateMg",
+          "arginineCompoundMg",
+          "bcaaMg"
+        ],
+        "stimulantStatus": "Contains caffeine"
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5175,
+      "observation": {
+        "category": "pre-workout",
+        "offerId": "pre-workout-hk-79500",
+        "date": "2026-11-19",
+        "price": 1599,
+        "currency": "INR",
+        "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-pre-workout-300/SP-43960?navKey=VRNT-79500",
+        "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-pre-workout-300/SP-43960?navKey=VRNT-79500",
+        "kind": "official-live",
+        "variantId": "79500",
+        "matchBasis": "Official selected numeric variant 79500 and SP-43960 matched to exact flavour/pack attributes; unconditional INR offer_pr, is_published=true and variant oos checked; no coupon or loyalty prices."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 285,
+      "profile": {
+        "id": "pre-workout-hk-79500",
+        "brand": "MuscleBlaze",
+        "product": "PRE Workout 300",
+        "form": "Powder",
+        "type": "Caffeinated multi-ingredient",
+        "subclass": "Citrulline malate + arginine HCl + BCAA",
+        "flavour": "Fruit Punch",
+        "packaging": "Single retail pack",
+        "currency": "INR",
+        "nutritionUrl": "https://img8.hkrtcdn.com/30066/prd_3006507-MuscleBlaze-PRE-Workout-300-0.55-lb-Fruit-Punch_o.jpg",
+        "labelSources": [
+          "https://www.muscleblaze.com/sv/muscleblaze-pre-workout-300/SP-43960?navKey=VRNT-79500",
+          "https://img8.hkrtcdn.com/30066/prd_3006507-MuscleBlaze-PRE-Workout-300-0.55-lb-Fruit-Punch_o.jpg",
+          "https://img4.hkrtcdn.com/30066/prd_3006503-MuscleBlaze-PRE-Workout-300-0.55-lb-Fruit-Punch_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "source": "Not specified",
+        "notes": "Product number 300 is not caffeine dose: actual label specifies 200 mg caffeine per 8 g scoop. Arginine mass is treated as hydrochloride compound because that is the ingredient form.",
+        "basis": "Exact official brand selected variant. The linked current product gallery nutrition panel was individually reviewed; amounts are per stated label serving. Product claims are manufacturer declarations, not independent assay results.",
+        "energyPerServing": 2.83,
+        "caffeineMg": 200,
+        "citrullineMalateMg": 3000,
+        "arginineCompoundMg": 1500,
+        "bcaaMg": 2000,
+        "grams": 250,
+        "packCount": null,
+        "servingGrams": 8,
+        "additionalIngredients": [
+          {
+            "name": "Leucine",
+            "amount": 1000,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "Isoleucine",
+            "amount": 500,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "Valine",
+            "amount": 500,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "enXtra (Alpinia galanga extract)",
+            "amount": 100,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "BioPerine black pepper extract",
+            "amount": 5,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          }
+        ],
+        "declaredNutrients": [
+          "caffeineMg",
+          "citrullineMalateMg",
+          "arginineCompoundMg",
+          "bcaaMg"
+        ],
+        "category": "pre-workout",
+        "kind": "hk-product",
+        "base": "https://www.muscleblaze.com",
+        "productUrl": "https://www.muscleblaze.com/sv/muscleblaze-pre-workout-300/SP-43960?navKey=VRNT-79500",
+        "variantUrl": "https://www.muscleblaze.com/sv/muscleblaze-pre-workout-300/SP-43960?navKey=VRNT-79500",
+        "variantId": "79500",
+        "productId": "43960",
+        "sourceBrand": "MuscleBlaze",
+        "variantAttributes": {
+          "gen-pro-siz": "0.55 lb",
+          "gen-sn-flv": "Fruit Punch"
+        },
+        "cacheKey": "hk-performance-79500",
+        "packSizeLabel": "0.55 lb",
+        "netWeightEvidenceUrl": "https://img4.hkrtcdn.com/30066/prd_3006503-MuscleBlaze-PRE-Workout-300-0.55-lb-Fruit-Punch_o.jpg",
+        "netWeightEvidenceGrams": 250,
+        "netWeightEvidenceChecked": "2026-11-19",
+        "stimulantStatus": "Contains caffeine"
+      }
+    }
+  ]
+}

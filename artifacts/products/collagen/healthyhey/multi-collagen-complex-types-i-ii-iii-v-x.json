@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "category": "collagen",
+  "brand": "HealthyHey",
+  "product": "Multi Collagen Complex Types I II III V X",
+  "variants": [
+    {
+      "order": 1,
+      "offer": {
+        "id": "collagen-49980078063901",
+        "brand": "HealthyHey",
+        "product": "Multi Collagen Complex Types I II III V X",
+        "form": "Capsule",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "source": "Bovine,marine,chicken bone broth,eggshell membrane",
+        "labelChecked": "2026-11-19",
+        "notes": "Contains egg and fish. The 1,800 mg amount is mixed-complex mass, not verified pure peptide mass or native type II content. Individual type/source quantities are not disclosed. Black pepper extract 6 mg is recorded separately.",
+        "packCount": 120,
+        "servingUnits": 4,
+        "type": "Hydrolysed multi-collagen complex",
+        "subclass": "Multi-source complex + black pepper",
+        "collagenComplexMg": 1800,
+        "energyPerServing": 7.147,
+        "declaredNutrients": [
+          "collagenComplexMg"
+        ],
+        "collagenTypes": "I,II,III,V,X (label claims)",
+        "basis": "The official panel lists four capsules per serving, 120 capsules per jar and 1,800 mg hydrolysed multi-collagen complex. The complex includes bovine, marine, chicken bone broth and eggshell membrane materials.",
+        "price": 939,
+        "currency": "INR",
+        "stock": "Sold out",
+        "url": "https://healthyhey.com/products/multi-collagen-complex-type-i-ii-iii-v-x-support-skin-nails-hair-joint-bone-health-120-capsules?variant=49980078063901",
+        "nutritionUrl": "https://healthyhey.com/products/multi-collagen-complex-type-i-ii-iii-v-x-support-skin-nails-hair-joint-bone-health-120-capsules",
+        "labelSources": [
+          "https://healthyhey.com/products/multi-collagen-complex-type-i-ii-iii-v-x-support-skin-nails-hair-joint-bone-health-120-capsules",
+          "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-nutrition-capsule-multi-collagen-complex-type-i-ii-iii-v-x-support-skin-nails-hair-joint-bone-health-120-capsules-1225700363.png?v=1780890407",
+          "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-nutrition-capsule-multi-collagen-complex-type-i-ii-iii-v-x-support-skin-nails-hair-joint-bone-health-120-capsules-1225700362.png?v=1780890412"
+        ],
+        "additionalIngredients": [
+          {
+            "name": "Black pepper extract (BioPerine)",
+            "amount": 6,
+            "unit": "mg",
+            "basis": "per four-capsule label serving"
+          }
+        ]
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3895,
+      "observation": {
+        "category": "collagen",
+        "offerId": "collagen-49980078063901",
+        "date": "2026-11-19",
+        "price": 939,
+        "currency": "INR",
+        "sourceUrl": "https://healthyhey.com/products/multi-collagen-complex-type-i-ii-iii-v-x-support-skin-nails-hair-joint-bone-health-120-capsules?variant=49980078063901",
+        "evidenceUrl": "https://healthyhey.com/products/multi-collagen-complex-type-i-ii-iii-v-x-support-skin-nails-hair-joint-bone-health-120-capsules.json",
+        "kind": "official-live",
+        "variantId": "49980078063901",
+        "matchBasis": "Official exact public Shopify variant ID; unconditional INR price and stock. Net pack quantity and ingredient serving transcribed from official text/panels checked2026-11-19."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 135,
+      "profile": {
+        "brand": "HealthyHey",
+        "product": "Multi Collagen Complex Types I II III V X",
+        "form": "Capsule",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "source": "Bovine,marine,chicken bone broth,eggshell membrane",
+        "labelChecked": "2026-11-19",
+        "notes": "Contains egg and fish. The 1,800 mg amount is mixed-complex mass, not verified pure peptide mass or native type II content. Individual type/source quantities are not disclosed. Black pepper extract 6 mg is recorded separately.",
+        "packCount": 120,
+        "servingUnits": 4,
+        "type": "Hydrolysed multi-collagen complex",
+        "subclass": "Multi-source complex + black pepper",
+        "collagenComplexMg": 1800,
+        "energyPerServing": 7.147,
+        "declaredNutrients": [
+          "collagenComplexMg"
+        ],
+        "collagenTypes": "I,II,III,V,X (label claims)",
+        "basis": "The official panel lists four capsules per serving, 120 capsules per jar and 1,800 mg hydrolysed multi-collagen complex. The complex includes bovine, marine, chicken bone broth and eggshell membrane materials.",
+        "nutritionUrl": "https://healthyhey.com/products/multi-collagen-complex-type-i-ii-iii-v-x-support-skin-nails-hair-joint-bone-health-120-capsules",
+        "labelSources": [
+          "https://healthyhey.com/products/multi-collagen-complex-type-i-ii-iii-v-x-support-skin-nails-hair-joint-bone-health-120-capsules",
+          "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-nutrition-capsule-multi-collagen-complex-type-i-ii-iii-v-x-support-skin-nails-hair-joint-bone-health-120-capsules-1225700363.png?v=1780890407",
+          "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-nutrition-capsule-multi-collagen-complex-type-i-ii-iii-v-x-support-skin-nails-hair-joint-bone-health-120-capsules-1225700362.png?v=1780890412"
+        ],
+        "category": "collagen",
+        "base": "https://healthyhey.com",
+        "handle": "multi-collagen-complex-type-i-ii-iii-v-x-support-skin-nails-hair-joint-bone-health-120-capsules",
+        "variantIds": [
+          "49980078063901"
+        ],
+        "numericVariantIsCount": false,
+        "id": "collagen-49980078063901",
+        "additionalIngredients": [
+          {
+            "name": "Black pepper extract (BioPerine)",
+            "amount": 6,
+            "unit": "mg",
+            "basis": "per four-capsule label serving"
+          }
+        ]
+      }
+    }
+  ]
+}

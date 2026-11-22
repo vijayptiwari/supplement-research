@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "category": "glutathione",
+  "brand": "Swisse",
+  "product": "Glutathione+30 soft capsules",
+  "variants": [
+    {
+      "order": 6,
+      "offer": {
+        "id": "glutathione-44825223626937",
+        "brand": "Swisse",
+        "product": "Glutathione+30 soft capsules",
+        "form": "Softgel",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "source": "Not specified",
+        "labelChecked": "2026-11-19",
+        "notes": "Contains soy oil and gelatin. Astaxanthin 6 mg is declared separately and is outside modeled nutrient totals. No skin-benefit or safety guarantee is inferred.",
+        "packCount": 30,
+        "servingUnits": 1,
+        "type": "L-glutathione (redox form not stated)",
+        "subclass": "Glutathione + co-antioxidants",
+        "glutathioneMg": 50,
+        "vitaminCMg": 20,
+        "vitaminB3Mg": 5,
+        "vitaminEMg": 5,
+        "energyPerServing": 5.81,
+        "declaredNutrients": [
+          "glutathioneMg",
+          "vitaminCMg",
+          "vitaminB3Mg",
+          "vitaminEMg"
+        ],
+        "basis": "The official bottle panel lists one capsule per serving: L-glutathione 50 mg, vitamin C 20 mg, vitamin E 5 mg and nicotinamide 5 mg. The actual pack has 30 soft capsules; its legacy URL says tablets.",
+        "price": 1583,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://swisse.co.in/products/swisse-glutathione-30-tablets?variant=44825223626937",
+        "nutritionUrl": "https://swisse.co.in/products/swisse-glutathione-30-tablets",
+        "labelSources": [
+          "https://swisse.co.in/products/swisse-glutathione-30-tablets",
+          "https://cdn.shopify.com/s/files/1/0556/6264/1337/files/Artboard_6_195cf2fe-22f1-4663-b310-b3592fc96b2d.jpg?v=1765975191",
+          "https://cdn.shopify.com/s/files/1/0556/6264/1337/files/Artboard_2_dac0bc69-c8f3-4350-bdff-de09d27f7e17.jpg?v=1787768498"
+        ],
+        "additionalIngredients": [
+          {
+            "name": "Astaxanthin",
+            "amount": 6,
+            "unit": "mg",
+            "basis": "per one-capsule label serving"
+          }
+        ]
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3890,
+      "observation": {
+        "category": "glutathione",
+        "offerId": "glutathione-44825223626937",
+        "date": "2026-11-19",
+        "price": 1583,
+        "currency": "INR",
+        "sourceUrl": "https://swisse.co.in/products/swisse-glutathione-30-tablets?variant=44825223626937",
+        "evidenceUrl": "https://swisse.co.in/products/swisse-glutathione-30-tablets.json",
+        "kind": "official-live",
+        "variantId": "44825223626937",
+        "matchBasis": "Official exact public Shopify variant ID; unconditional INR price and stock. Net pack quantity and ingredient serving transcribed from official text/panels checked2026-11-19."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 132,
+      "profile": {
+        "brand": "Swisse",
+        "product": "Glutathione+30 soft capsules",
+        "form": "Softgel",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "source": "Not specified",
+        "labelChecked": "2026-11-19",
+        "notes": "Contains soy oil and gelatin. Astaxanthin 6 mg is declared separately and is outside modeled nutrient totals. No skin-benefit or safety guarantee is inferred.",
+        "packCount": 30,
+        "servingUnits": 1,
+        "type": "L-glutathione (redox form not stated)",
+        "subclass": "Glutathione + co-antioxidants",
+        "glutathioneMg": 50,
+        "vitaminCMg": 20,
+        "vitaminB3Mg": 5,
+        "vitaminEMg": 5,
+        "energyPerServing": 5.81,
+        "declaredNutrients": [
+          "glutathioneMg",
+          "vitaminCMg",
+          "vitaminB3Mg",
+          "vitaminEMg"
+        ],
+        "basis": "The official bottle panel lists one capsule per serving: L-glutathione 50 mg, vitamin C 20 mg, vitamin E 5 mg and nicotinamide 5 mg. The actual pack has 30 soft capsules; its legacy URL says tablets.",
+        "nutritionUrl": "https://swisse.co.in/products/swisse-glutathione-30-tablets",
+        "labelSources": [
+          "https://swisse.co.in/products/swisse-glutathione-30-tablets",
+          "https://cdn.shopify.com/s/files/1/0556/6264/1337/files/Artboard_6_195cf2fe-22f1-4663-b310-b3592fc96b2d.jpg?v=1765975191",
+          "https://cdn.shopify.com/s/files/1/0556/6264/1337/files/Artboard_2_dac0bc69-c8f3-4350-bdff-de09d27f7e17.jpg?v=1787768498"
+        ],
+        "category": "glutathione",
+        "base": "https://swisse.co.in",
+        "handle": "swisse-glutathione-30-tablets",
+        "variantIds": [
+          "44825223626937"
+        ],
+        "numericVariantIsCount": false,
+        "id": "glutathione-44825223626937",
+        "additionalIngredients": [
+          {
+            "name": "Astaxanthin",
+            "amount": 6,
+            "unit": "mg",
+            "basis": "per one-capsule label serving"
+          }
+        ]
+      }
+    }
+  ]
+}

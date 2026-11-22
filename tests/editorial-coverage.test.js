@@ -8,12 +8,12 @@ import {validateLearningContent} from '../docs/learning-validation.js';
 
 const bundle=loadBundle(),snapshot=bundle.then(createSnapshot);
 
-test('every supplement has three or four substantive dedicated articles, independent of related reading',async()=>{
+test('dedicated articles retain substantive sourced coverage and respect optional category-count bounds',async()=>{
  const s=await snapshot,e=s.research.editorial,p=e.coveragePolicy;
  assert.deepEqual(s.quality.errors,[]);assert.ok(p);
- assert.equal(p.minimumPrimaryArticles,3);assert.equal(p.maximumPrimaryArticles,4);
  for(const c of editorialCoverage(e,s.config.categories)){
-  assert.ok(c.primary>=p.minimumPrimaryArticles&&c.primary<=p.maximumPrimaryArticles,c.id);
+  if(p.minimumPrimaryArticles!=null)assert.ok(c.primary>=p.minimumPrimaryArticles,c.id);
+  if(p.maximumPrimaryArticles!=null)assert.ok(c.primary<=p.maximumPrimaryArticles,c.id);
   const primary=e.articles.filter(a=>a.category===c.id);
   assert.equal(new Set(primary.map(a=>a.title)).size,primary.length);
   assert.ok(selectEditorial(e,{category:c.id}).length>=primary.length);
@@ -43,7 +43,7 @@ test('coverage checks reject gaps, related-only substitutions and thin articles 
   r=>{r.editorial.articles=r.editorial.articles.filter(a=>a.category!=='biotin');r.editorial.articles[0].relatedCategories=[...(r.editorial.articles[0].relatedCategories||[]),'biotin'];},
   r=>{const a=r.editorial.articles.find(a=>a.series==='practical-guides');a.intro='Brief.';a.sections=[{id:'short',title:'Brief',body:'Brief.',sourceIds:a.sourceIds.slice(0,1)}];delete a.forms;delete a.myths;},
   r=>{r.editorial.coveragePolicy.minimumNarrativeWords=0;}
- ]){const r=structuredClone(original.research),errors=[];change(r);validateLearningContent(r,(await snapshot).categories,e=>errors.push(e));assert.ok(errors.length);}
+ ]){const r=structuredClone(original.research),errors=[];r.editorial.coveragePolicy.minimumPrimaryArticles=1;change(r);validateLearningContent(r,(await snapshot).categories,e=>errors.push(e));assert.ok(errors.length);}
 });
 
 test('narrative word counts omit source identifiers and compare primary and related membership separately',()=>{

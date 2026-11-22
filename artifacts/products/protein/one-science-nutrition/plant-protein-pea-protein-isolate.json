@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "One Science Nutrition",
+  "product": "Plant Protein - Pea Protein Isolate",
+  "variants": [
+    {
+      "order": 875,
+      "offer": {
+        "id": "protein-osn-52704931152192",
+        "brand": "One Science Nutrition",
+        "form": "Powder",
+        "flavour": "Rich Chocolate",
+        "packaging": "Jar",
+        "source": "Not specified",
+        "price": 1899,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://onesciencenutrition.in/products/one-science-nutrition-plant-protein-pea-protein-isolate-1kg?variant=52704931152192",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0952/0483/5648/files/osn-pea-protein-isolate-08-nutrition-facts.webp?v=1794738163",
+        "labelSources": [
+          "https://onesciencenutrition.in/products/one-science-nutrition-plant-protein-pea-protein-isolate-1kg?variant=52704931152192",
+          "https://onesciencenutrition.in/products/one-science-nutrition-plant-protein-pea-protein-isolate-1kg.json",
+          "https://cdn.shopify.com/s/files/1/0952/0483/5648/files/osn-pea-protein-isolate-08-nutrition-facts.webp?v=1794738163"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "52704931152192",
+        "sourceProductId": "10167534223680",
+        "basis": "Official India brand-store product, exact Shopify variant and published composition panel reviewed. Nutrient inputs are label declarations rather than independent assays. Exact net grams or retail-unit count is verified without scaling a different pack.",
+        "product": "Plant Protein - Pea Protein Isolate",
+        "kg": 1,
+        "grams": 1000,
+        "type": "Plant",
+        "subclass": "Pea isolate",
+        "protein": 62.5,
+        "scoop": 40,
+        "serving": 40,
+        "energy": 386.30000000000007,
+        "energyBasis": "Published Rich Chocolate composition: 154.52 kcal per 40 g serving / 40 x 100",
+        "additionalIngredients": [
+          {
+            "name": "Lactobacillus acidophilus",
+            "amount": 10000000000,
+            "unit": "CFU",
+            "basis": "per 40 g label serving"
+          },
+          {
+            "name": "Papain and bromelain digestive enzymes",
+            "amount": null,
+            "unit": "mg",
+            "basis": "Amounts not disclosed in reviewed brand description"
+          }
+        ],
+        "notes": "Only the Rich Chocolate panel was verified: 25 g protein and 154.52 kcal per 40 g level scoop. Contains 5 g dietary fibre and declared 10 billion CFU Lactobacillus acidophilus per serving; no probiotic viability claim is inferred. Other flavours are excluded until matching panels are reviewed."
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5315,
+      "observation": {
+        "category": "protein",
+        "offerId": "protein-osn-52704931152192",
+        "date": "2026-11-20",
+        "price": 1899,
+        "currency": "INR",
+        "sourceUrl": "https://onesciencenutrition.in/products/one-science-nutrition-plant-protein-pea-protein-isolate-1kg?variant=52704931152192",
+        "evidenceUrl": "https://onesciencenutrition.in/products/one-science-nutrition-plant-protein-pea-protein-isolate-1kg.json",
+        "kind": "official-live",
+        "variantId": "52704931152192",
+        "matchBasis": "Official India Shopify product feed: exact product and variant ID, flavour and documented actual net weight/count; ordinary INR variant price and boolean availability checked."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 398,
+      "profile": {
+        "id": "protein-osn-52704931152192",
+        "brand": "One Science Nutrition",
+        "form": "Powder",
+        "flavour": "Rich Chocolate",
+        "packaging": "Jar",
+        "source": "Not specified",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0952/0483/5648/files/osn-pea-protein-isolate-08-nutrition-facts.webp?v=1794738163",
+        "labelSources": [
+          "https://onesciencenutrition.in/products/one-science-nutrition-plant-protein-pea-protein-isolate-1kg?variant=52704931152192",
+          "https://onesciencenutrition.in/products/one-science-nutrition-plant-protein-pea-protein-isolate-1kg.json",
+          "https://cdn.shopify.com/s/files/1/0952/0483/5648/files/osn-pea-protein-isolate-08-nutrition-facts.webp?v=1794738163"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "basis": "Official India brand-store product, exact Shopify variant and published composition panel reviewed. Nutrient inputs are label declarations rather than independent assays. Exact net grams or retail-unit count is verified without scaling a different pack.",
+        "product": "Plant Protein - Pea Protein Isolate",
+        "kg": 1,
+        "grams": 1000,
+        "type": "Plant",
+        "subclass": "Pea isolate",
+        "protein": 62.5,
+        "scoop": 40,
+        "serving": 40,
+        "energy": 386.30000000000007,
+        "energyBasis": "Published Rich Chocolate composition: 154.52 kcal per 40 g serving / 40 x 100",
+        "additionalIngredients": [
+          {
+            "name": "Lactobacillus acidophilus",
+            "amount": 10000000000,
+            "unit": "CFU",
+            "basis": "per 40 g label serving"
+          },
+          {
+            "name": "Papain and bromelain digestive enzymes",
+            "amount": null,
+            "unit": "mg",
+            "basis": "Amounts not disclosed in reviewed brand description"
+          }
+        ],
+        "notes": "Only the Rich Chocolate panel was verified: 25 g protein and 154.52 kcal per 40 g level scoop. Contains 5 g dietary fibre and declared 10 billion CFU Lactobacillus acidophilus per serving; no probiotic viability claim is inferred. Other flavours are excluded until matching panels are reviewed.",
+        "category": "protein",
+        "kind": "shopify",
+        "base": "https://onesciencenutrition.in",
+        "handle": "one-science-nutrition-plant-protein-pea-protein-isolate-1kg",
+        "variantIds": [
+          "52704931152192"
+        ],
+        "cacheKey": "osn-52704931152192"
+      }
+    }
+  ]
+}

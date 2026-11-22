@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "order": 27,
+  "article": {
+    "id": "magnesium-sleep-cramps-evidence",
+    "category": "magnesium",
+    "series": "practical-guides",
+    "title": "Magnesium for sleep and cramps: two claims that need different evidence",
+    "summary": "Learn why a nutrient role, a poor night of sleep and a muscle cramp do not automatically identify the same supplement need.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "Magnesium is involved in nerve and muscle function, which makes sleep and cramp claims sound immediately plausible. Plausibility is a reason to investigate, not a measurement of benefit. Sleep difficulties, nighttime cramps and training-related symptoms are also different problems with different causes. This article uses specific trials to show how to evaluate the claims without declaring magnesium a universal cure or dismissing its essential nutritional role. The distinction can save both money and time spent treating the wrong problem.",
+    "sections": [
+      {
+        "id": "different-questions",
+        "title": "Separate an intake question from a symptom-treatment question",
+        "body": "An inadequate magnesium intake, a diagnosed deficiency and an isolated symptom are not interchangeable findings. Assessing the diet asks whether enough of an essential nutrient is being supplied. Treating insomnia or cramps asks whether an intervention improves a defined outcome in the relevant person. A positive answer to the first question does not prove the second, and a disappointing symptom trial does not make magnesium nutritionally unnecessary. Keep the reason for considering a supplement explicit before looking at a form or price.",
+        "sourceIds": [
+          "mg-overview"
+        ]
+      },
+      {
+        "id": "sleep-trial",
+        "title": "What a newer bisglycinate trial adds",
+        "body": "A 2025 randomized placebo-controlled trial investigated magnesium bisglycinate in adults reporting poor sleep. It found a modest improvement on its insomnia-severity measure, within a short study using a specific regimen. That is more informative than a mechanism-only claim, but it does not establish that every sleep complaint responds, that magnesium replaces insomnia assessment or that bisglycinate outperforms other salts. The relevant question is the size and reliability of benefit for a similar person, not simply whether a result crossed a statistical threshold.",
+        "sourceIds": [
+          "nutrients-mg-sleep-2025"
+        ]
+      },
+      {
+        "id": "sleep-comparison",
+        "title": "Why testimonials cannot isolate the active ingredient",
+        "body": "A bedtime routine may change at the same time as a supplement: less evening caffeine, a more regular schedule or a different expectation about sleep. A before-and-after experience cannot separate those influences. Multi-ingredient products introduce another problem because a response cannot be assigned to magnesium alone. Prefer trials with an appropriate comparison and a clearly reported formulation. For a consumer deciding whether a premium is justified, evidence for a mixture should not be presented as proof that its magnesium component caused the result.",
+        "sourceIds": [
+          "nutrients-mg-sleep-2025",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "cramp-trial",
+        "title": "A nighttime-cramp trial reached a different result",
+        "body": "In a 2017 randomized trial involving older adults with recurrent nocturnal leg cramps, magnesium oxide was not superior to placebo over the treatment period. Both groups reported fewer cramps, illustrating why improvement alone does not identify the cause. The result concerns the studied population, preparation and duration. It does not settle every cause of cramp, every pregnancy-related situation or exercise-associated cramping. It does challenge the automatic assumption that a cramp is proof of a magnesium shortage or that a nightly capsule is an established answer.",
+        "sourceIds": [
+          "nutrients-mg-cramps-2017"
+        ]
+      },
+      {
+        "id": "patterns",
+        "title": "Describe the problem before choosing a product",
+        "body": "For a useful professional discussion, note when symptoms occur, how often they happen, their severity, medicines and any accompanying changes. Poor sleep that persists and painful cramps with other concerning symptoms deserve assessment rather than an endless progression through supplement brands. A symptom diary can also make a chosen intervention easier to evaluate. The point is not to create a self-diagnosis checklist; it is to avoid treating a broad marketing category as though it identified the specific cause of a person's experience.",
+        "sourceIds": [
+          "mg-overview",
+          "nutrients-mg-cramps-2017"
+        ]
+      },
+      {
+        "id": "food",
+        "title": "Dietary improvement has a wider purpose than a symptom promise",
+        "body": "Nuts, seeds, legumes, whole grains and leafy vegetables can contribute magnesium within a varied diet. These foods bring more than an isolated mineral, so improving a low-quality diet is not equivalent to testing a capsule as a sleep medicine. At the same time, a magnesium-rich meal should not be advertised as a guaranteed cure for insomnia or cramp. The guide's food quantities help assess nutrient contribution; they do not provide an interchangeable supplement-treatment regimen or prove a particular symptom was caused by low intake.",
+        "sourceIds": [
+          "mg-overview"
+        ]
+      },
+      {
+        "id": "safe-trial",
+        "title": "An optional purchase still needs a review point",
+        "body": "If a person chooses an optional supplement after considering suitability, define the intended outcome and avoid changing several products simultaneously. Read elemental magnesium, the full serving and other ingredients, then review whether the original purpose is being met. Gastrointestinal effects, medicine interactions and kidney-related precautions remain relevant even for a product marketed for relaxation. The absence of a benefit should prompt reassessment rather than an automatic increase in strength, a more complicated stack or an assumption that a pricier chemical name must work.",
+        "sourceIds": [
+          "mg-overview",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "value",
+        "title": "Judge evidence for the claim being sold",
+        "body": "A sleep claim should be assessed using sleep outcomes; a cramp claim needs cramp outcomes. Absorption measurements and normal enzyme functions cannot substitute for either. Ask whether the trial tested magnesium alone, who participated, how long it ran and whether the change was meaningful. The same ingredient can have essential nutritional value and uncertain extra benefit for a particular symptom. Recognising both facts leads to a more useful choice than either a blanket endorsement or an equally sweeping dismissal.",
+        "sourceIds": [
+          "nutrients-mg-sleep-2025",
+          "nutrients-mg-cramps-2017"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "mg-overview",
+      "nutrients-mg-sleep-2025",
+      "supplement-quality-ods",
+      "nutrients-mg-cramps-2017"
+    ]
+  }
+}

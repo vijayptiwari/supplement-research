@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "order": 6,
+  "article": {
+    "id": "folate-homocysteine-heart-stroke-context",
+    "category": "folic-acid",
+    "series": "evidence-in-context",
+    "title": "Folate and homocysteine: a better blood marker is not always a healthier heart",
+    "summary": "Two large trials reached different cardiovascular conclusions. Their populations and endpoints show why a folate claim must keep its clinical context attached.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "A supplement that lowers a recognised risk marker sounds as if it should prevent the disease linked to that marker. Folate and homocysteine offer one of nutrition's clearest lessons in why that inference can fail. Folate helps normal metabolism, and folic acid can lower homocysteine. Whether that leads to fewer heart attacks or strokes is a separate question requiring outcome trials. Those trials also need interpretation: people with established vascular disease are not interchangeable with people receiving treatment for hypertension before a first stroke. The useful lesson is not that folate works or does not work. It is how to tell which promise a particular result can support.",
+    "sections": [
+      {
+        "id": "marker",
+        "title": "Why homocysteine attracted attention",
+        "body": "Homocysteine is an intermediate in amino-acid metabolism. Folate and other B vitamins participate in pathways that handle it, providing a plausible reason why nutritional status can influence its concentration. Higher homocysteine has been associated with cardiovascular risk, but association cannot establish that lowering it will remove that risk. A marker can reflect several processes or conditions at once. Changing one contributor may change the number without changing the main causes of disease. That is why a mechanistic pathway and an observational relationship are useful leads, rather than sufficient evidence for a cardiovascular supplement. The next question is what happens when people are randomly assigned the intervention.",
+        "sourceIds": [
+          "folate-overview",
+          "nutrients-folate-hope2-2006"
+        ]
+      },
+      {
+        "id": "hope",
+        "title": "HOPE-2 lowered the marker without improving the primary composite",
+        "body": "HOPE-2 assigned adults with vascular disease or diabetes to folic acid, B6 and B12 together or placebo for about five years. Homocysteine fell in the active group, but the main combined outcome of cardiovascular death, heart attack and stroke did not significantly improve. Stroke was lower as an individual outcome, which deserves mention without replacing the prespecified primary finding. The trial therefore supports a narrower conclusion than either supplements prevent heart disease or folate has no possible vascular role. The combination changed the intended marker, yet the primary clinical benefit did not follow in this high-risk population under those conditions.",
+        "sourceIds": [
+          "nutrients-folate-hope2-2006"
+        ]
+      },
+      {
+        "id": "csppt",
+        "title": "CSPPT asked a more specific first-stroke question",
+        "body": "CSPPT studied adults with hypertension in China who had no previous stroke or heart attack. Both groups received blood-pressure treatment; one also received folic acid. Over a median follow-up of about four and a half years, the combined treatment reduced first strokes compared with the blood-pressure medicine alone. The population had no background folic-acid fortification, which is relevant when considering baseline folate status. This is an important positive outcome trial, not merely a better laboratory value. It is also not a trial of retail folate replacing hypertension care, nor proof of the same benefit in people without hypertension or in every dietary setting.",
+        "sourceIds": [
+          "nutrients-folate-csppt-2015"
+        ]
+      },
+      {
+        "id": "reconcile",
+        "title": "How both results can be true",
+        "body": "The trials differed in underlying risk, prevention setting, nutrients supplied and the main outcome. HOPE-2 tested a B-vitamin combination in people already at high vascular risk; CSPPT tested adding folic acid to a particular hypertension-treatment context before a first major event. Background nutrition and other care also differed. A contrast between trials cannot prove which one factor explains their different findings, because those factors were not individually randomised against one another. It can identify why a universal conclusion is unsafe. Before borrowing a headline, ask whether the reader's question concerns primary prevention, established vascular disease, deficiency or a different indication entirely.",
+        "sourceIds": [
+          "nutrients-folate-hope2-2006",
+          "nutrients-folate-csppt-2015"
+        ]
+      },
+      {
+        "id": "absolute",
+        "title": "Relative reductions need their starting risk beside them",
+        "body": "In CSPPT, first stroke occurred in 2.7% of participants in the folic-acid combination group and 3.4% in the comparison group. The difference is 0.7 percentage points over the study period, alongside the reported relative effect. Showing both helps prevent a relative reduction from sounding like an equivalent reduction in every person's absolute chance. Neither figure is a personal forecast. Starting risk, treatment, population and follow-up all matter. The same principle applies to any supplement advertisement: ask for event rates and duration, then check whether the outcome was the study's main question. An impressive percentage without those details leaves out much of the decision.",
+        "sourceIds": [
+          "nutrients-folate-csppt-2015"
+        ]
+      },
+      {
+        "id": "prevention",
+        "title": "Do not let this debate obscure the established use of folic acid",
+        "body": "Cardiovascular uncertainty does not undo the separate evidence for folic acid in preventing neural-tube defects when used appropriately around pregnancy. That indication has its own timing, guidance and public-health rationale. It should not be judged by a vascular trial, just as a positive pregnancy-prevention result cannot establish a heart-health benefit in an unrelated population. Keeping indications separate protects useful supplementation from both over-selling and over-correction. Someone may have a clear reason to use folic acid even if a broad cardiovascular claim is unconvincing. The reason should be stated explicitly instead of merging DNA synthesis, pregnancy, homocysteine and heart health into one undifferentiated benefit list.",
+        "sourceIds": [
+          "folate-prevention",
+          "folate-overview"
+        ]
+      },
+      {
+        "id": "b12",
+        "title": "A lower homocysteine value does not identify the cause",
+        "body": "Folate is not the only factor relevant to homocysteine. B12 status and other medical influences can matter, so an abnormal result is not a self-contained instruction to buy folate. High folic-acid intake also warrants care when B12 deficiency is possible: it can improve the anaemia associated with B12 deficiency without preventing the neurological injury. Treating the number while leaving the underlying problem unresolved is a poor bargain. This is especially relevant when someone combines a B-complex, a multivitamin and a separate folate product. A clinician can interpret the result and symptoms together; a larger retail amount cannot reveal which pathway needs attention.",
+        "sourceIds": [
+          "folate-overview",
+          "b12-overview"
+        ]
+      },
+      {
+        "id": "claim",
+        "title": "A stronger way to read a folate health claim",
+        "body": "Look for the actual outcome, the population, the comparator and the nutrient combination. A fall in homocysteine establishes a biochemical effect. A first-stroke reduction in a specific hypertension trial establishes a more consequential, but still context-bound, effect. Neither licenses a universal claim that folate prevents heart attacks, reverses vascular disease or substitutes for blood-pressure treatment. If a seller cites a trial, the product and intended user should resemble what was studied closely enough for the comparison to make sense. A good purchase decision starts with an established nutritional or clinical purpose. Optimising a risk marker on its own is not a sufficient reason for an expanding supplement stack.",
+        "sourceIds": [
+          "nutrients-folate-hope2-2006",
+          "nutrients-folate-csppt-2015",
+          "supplement-quality-ods"
+        ]
+      }
+    ],
+    "evidenceNotes": [
+      {
+        "finding": "Homocysteine fell, but the primary combined cardiovascular outcome did not significantly improve.",
+        "sourceIds": [
+          "nutrients-folate-hope2-2006"
+        ],
+        "design": "Randomised placebo-controlled trial over approximately five years.",
+        "population": "5,522 adults aged at least 55 with vascular disease or diabetes.",
+        "outcome": "Cardiovascular death, myocardial infarction or stroke; stroke was lower individually.",
+        "limits": "Tested combined folate, B6 and B12; secondary stroke result does not replace the primary finding."
+      },
+      {
+        "finding": "Adding folic acid to hypertension treatment reduced first strokes versus the medicine alone.",
+        "sourceIds": [
+          "nutrients-folate-csppt-2015"
+        ],
+        "design": "Randomised double-blind primary-prevention trial.",
+        "population": "20,702 Chinese adults with hypertension and no previous stroke or myocardial infarction.",
+        "outcome": "First stroke over a median 4.5 years.",
+        "limits": "No folic-acid fortification background; not a trial in normotensive adults or a substitute for blood-pressure treatment."
+      }
+    ],
+    "sourceIds": [
+      "folate-overview",
+      "nutrients-folate-hope2-2006",
+      "nutrients-folate-csppt-2015",
+      "folate-prevention",
+      "b12-overview",
+      "supplement-quality-ods"
+    ]
+  }
+}

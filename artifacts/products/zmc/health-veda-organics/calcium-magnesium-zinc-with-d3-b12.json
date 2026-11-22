@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "category": "zmc",
+  "brand": "Health Veda Organics",
+  "product": "Calcium Magnesium Zinc with D3 & B12",
+  "variants": [
+    {
+      "order": 2,
+      "offer": {
+        "brand": "Health Veda Organics",
+        "product": "Calcium Magnesium Zinc with D3 & B12",
+        "form": "Tablet",
+        "type": "Calcium / magnesium / zinc (forms not verified)",
+        "subclass": "With D3 + B12",
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official product listing; only explicitly verified label amounts are recorded.",
+        "notes": "Title states 1000 mg but does not establish elemental calcium or the separate mineral amounts; no mineral quantity is inferred.",
+        "packCount": 60,
+        "declaredActives": [
+          "calcium",
+          "magnesium",
+          "zinc"
+        ],
+        "id": "zmc-42526511202526",
+        "price": 270,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://healthvedaorganics.com/products/calcium-magnesium-zinc-tablets-with-vitamin-d3-b12-for-healthy-strong-bones-60-veg-tablets?variant=42526511202526",
+        "nutritionUrl": "https://healthvedaorganics.com/products/calcium-magnesium-zinc-tablets-with-vitamin-d3-b12-for-healthy-strong-bones-60-veg-tablets",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-10-29",
+        "declaredNutrients": [
+          "calciumMg",
+          "magnesiumMg",
+          "zincMg",
+          "vitaminDMcg",
+          "vitaminB12Mcg"
+        ],
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://healthvedaorganics.com/products/calcium-magnesium-zinc-tablets-with-vitamin-d3-b12-for-healthy-strong-bones-60-veg-tablets?variant=42526511202526",
+          "evidenceUrl": "https://healthvedaorganics.com/products/calcium-magnesium-zinc-tablets-with-vitamin-d3-b12-for-healthy-strong-bones-60-veg-tablets.json",
+          "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3737,
+      "observation": {
+        "category": "zmc",
+        "offerId": "zmc-42526511202526",
+        "date": "2026-10-29",
+        "price": 270,
+        "currency": "INR",
+        "sourceUrl": "https://healthvedaorganics.com/products/calcium-magnesium-zinc-tablets-with-vitamin-d3-b12-for-healthy-strong-bones-60-veg-tablets?variant=42526511202526",
+        "evidenceUrl": "https://healthvedaorganics.com/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "42526511202526"
+      }
+    },
+    {
+      "order": 3919,
+      "observation": {
+        "category": "zmc",
+        "offerId": "zmc-42526511202526",
+        "date": "2026-11-19",
+        "price": 270,
+        "currency": "INR",
+        "sourceUrl": "https://healthvedaorganics.com/products/calcium-magnesium-zinc-tablets-with-vitamin-d3-b12-for-healthy-strong-bones-60-veg-tablets?variant=42526511202526",
+        "evidenceUrl": "https://healthvedaorganics.com/products/calcium-magnesium-zinc-tablets-with-vitamin-d3-b12-for-healthy-strong-bones-60-veg-tablets.json",
+        "kind": "official-live",
+        "variantId": "42526511202526",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 29,
+      "profile": {
+        "category": "zmc",
+        "brand": "Health Veda Organics",
+        "base": "https://healthvedaorganics.com",
+        "handle": "calcium-magnesium-zinc-tablets-with-vitamin-d3-b12-for-healthy-strong-bones-60-veg-tablets",
+        "product": "Calcium Magnesium Zinc with D3 & B12",
+        "form": "Tablet",
+        "type": "Calcium / magnesium / zinc (forms not verified)",
+        "subclass": "With D3 + B12",
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official product listing; only explicitly verified label amounts are recorded.",
+        "notes": "Title states 1000 mg but does not establish elemental calcium or the separate mineral amounts; no mineral quantity is inferred.",
+        "packCount": 60,
+        "declaredActives": [
+          "calcium",
+          "magnesium",
+          "zinc"
+        ]
+      }
+    }
+  ]
+}

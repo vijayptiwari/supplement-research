@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "category": "citrulline",
+  "brand": "GNC",
+  "product": "Pro Performance L-Citrulline",
+  "variants": [
+    {
+      "order": 3,
+      "offer": {
+        "brand": "GNC",
+        "product": "Pro Performance L-Citrulline",
+        "form": "Powder",
+        "type": "L-citrulline",
+        "subclass": "Single amino acid",
+        "source": "Not specified",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "grams": 200,
+        "servingGrams": 3,
+        "basis": "Official inspected nutrition label states one 3 g scoop, L-citrulline 3000 mg and 0 kcal. Exact official variant is 200 g unflavoured.",
+        "notes": "Rounded label servings are not used as the exact cost divisor. Label composition is not an independent batch assay.",
+        "labelChecked": "2026-11-17",
+        "citrullineMg": 3000,
+        "energyPerServing": 0,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0623/9010/8391/files/BOP2_bb96da0c-201a-4f9f-b7e5-a2da52066794.png?v=1791797837"
+        ],
+        "citrullineMalateMg": null,
+        "id": "citrulline-52777794470119",
+        "price": 799,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://www.guardian.in/products/gnc-pro-performance-l-citrulline?variant=52777794470119",
+        "nutritionUrl": "https://www.guardian.in/products/gnc-pro-performance-l-citrulline",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.guardian.in/products/gnc-pro-performance-l-citrulline?variant=52777794470119",
+          "evidenceUrl": "https://www.guardian.in/products/gnc-pro-performance-l-citrulline.json",
+          "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3830,
+      "observation": {
+        "category": "citrulline",
+        "offerId": "citrulline-52777794470119",
+        "date": "2026-11-17",
+        "price": 799,
+        "currency": "INR",
+        "sourceUrl": "https://www.guardian.in/products/gnc-pro-performance-l-citrulline?variant=52777794470119",
+        "evidenceUrl": "https://www.guardian.in/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Direct official same-day source; exact retail variant and weight. Member, prepaid and coupon discounts excluded.",
+        "variantId": "52777794470119"
+      }
+    },
+    {
+      "order": 4022,
+      "observation": {
+        "category": "citrulline",
+        "offerId": "citrulline-52777794470119",
+        "date": "2026-11-19",
+        "price": 799,
+        "currency": "INR",
+        "sourceUrl": "https://www.guardian.in/products/gnc-pro-performance-l-citrulline?variant=52777794470119",
+        "evidenceUrl": "https://www.guardian.in/products/gnc-pro-performance-l-citrulline.json",
+        "kind": "official-live",
+        "variantId": "52777794470119",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 114,
+      "profile": {
+        "category": "citrulline",
+        "brand": "GNC",
+        "base": "https://www.guardian.in",
+        "handle": "gnc-pro-performance-l-citrulline",
+        "product": "Pro Performance L-Citrulline",
+        "form": "Powder",
+        "type": "L-citrulline",
+        "subclass": "Single amino acid",
+        "source": "Not specified",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "grams": 200,
+        "servingGrams": 3,
+        "basis": "Official inspected nutrition label states one 3 g scoop, L-citrulline 3000 mg and 0 kcal. Exact official variant is 200 g unflavoured.",
+        "notes": "Rounded label servings are not used as the exact cost divisor. Label composition is not an independent batch assay.",
+        "labelChecked": "2026-11-17",
+        "variantIds": [
+          "52777794470119"
+        ],
+        "citrullineMg": 3000,
+        "energyPerServing": 0,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0623/9010/8391/files/BOP2_bb96da0c-201a-4f9f-b7e5-a2da52066794.png?v=1791797837"
+        ],
+        "citrullineMalateMg": null
+      }
+    }
+  ]
+}

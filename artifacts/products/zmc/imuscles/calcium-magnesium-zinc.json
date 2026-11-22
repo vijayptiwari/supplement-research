@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "category": "zmc",
+  "brand": "iMuscles",
+  "product": "Calcium Magnesium & Zinc",
+  "variants": [
+    {
+      "order": 3,
+      "offer": {
+        "brand": "iMuscles",
+        "product": "Calcium Magnesium & Zinc",
+        "form": "Tablet",
+        "type": "Calcium / magnesium / zinc (forms not verified)",
+        "subclass": "With D3",
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official product listing; only explicitly verified label amounts are recorded.",
+        "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities.",
+        "packCount": 60,
+        "declaredActives": [
+          "calcium",
+          "magnesium",
+          "zinc"
+        ],
+        "id": "zmc-48459253350721",
+        "price": 649,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://imuscles.in/products/calcium-tablets-for-strong-healthy-bones?variant=48459253350721",
+        "nutritionUrl": "https://imuscles.in/products/calcium-tablets-for-strong-healthy-bones",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-10-29",
+        "declaredNutrients": [
+          "calciumMg",
+          "magnesiumMg",
+          "zincMg",
+          "vitaminDMcg"
+        ],
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://imuscles.in/products/calcium-tablets-for-strong-healthy-bones?variant=48459253350721",
+          "evidenceUrl": "https://imuscles.in/products/calcium-tablets-for-strong-healthy-bones.json",
+          "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3738,
+      "observation": {
+        "category": "zmc",
+        "offerId": "zmc-48459253350721",
+        "date": "2026-10-29",
+        "price": 649,
+        "currency": "INR",
+        "sourceUrl": "https://imuscles.in/products/calcium-tablets-for-strong-healthy-bones?variant=48459253350721",
+        "evidenceUrl": "https://imuscles.in/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "48459253350721"
+      }
+    },
+    {
+      "order": 3920,
+      "observation": {
+        "category": "zmc",
+        "offerId": "zmc-48459253350721",
+        "date": "2026-11-19",
+        "price": 649,
+        "currency": "INR",
+        "sourceUrl": "https://imuscles.in/products/calcium-tablets-for-strong-healthy-bones?variant=48459253350721",
+        "evidenceUrl": "https://imuscles.in/products/calcium-tablets-for-strong-healthy-bones.json",
+        "kind": "official-live",
+        "variantId": "48459253350721",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 30,
+      "profile": {
+        "category": "zmc",
+        "brand": "iMuscles",
+        "base": "https://imuscles.in",
+        "handle": "calcium-tablets-for-strong-healthy-bones",
+        "product": "Calcium Magnesium & Zinc",
+        "form": "Tablet",
+        "type": "Calcium / magnesium / zinc (forms not verified)",
+        "subclass": "With D3",
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official product listing; only explicitly verified label amounts are recorded.",
+        "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities.",
+        "packCount": 60,
+        "declaredActives": [
+          "calcium",
+          "magnesium",
+          "zinc"
+        ]
+      }
+    }
+  ]
+}

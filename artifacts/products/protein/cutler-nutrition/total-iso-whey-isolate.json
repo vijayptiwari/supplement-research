@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "Cutler Nutrition",
+  "product": "Total Iso Whey Isolate",
+  "variants": [
+    {
+      "order": 876,
+      "offer": {
+        "id": "protein-nb-2492712",
+        "brand": "Cutler Nutrition",
+        "product": "Total Iso Whey Isolate",
+        "form": "Powder",
+        "flavour": "Chocolate Coffee",
+        "packaging": "Jar",
+        "kg": 2,
+        "grams": 2000,
+        "type": "Whey",
+        "subclass": "Whey isolate",
+        "protein": 79.92,
+        "scoop": 30,
+        "serving": 30,
+        "energy": 363,
+        "energyBasis": "Stated flavour-matched label kcal per 100 g",
+        "price": 6449,
+        "currency": "INR",
+        "stock": "Sold out",
+        "url": "https://nutrabay.com/product/cutler-nutrition-total-iso-whey-isolate-protein-powder?pId=2741805&vId=2492712",
+        "nutritionUrl": "https://cdn.nutrabay.com/wp-content/uploads/2023/02/NB-CUT-1001-01-02.jpg",
+        "labelSources": [
+          "https://nutrabay.com/product/cutler-nutrition-total-iso-whey-isolate-protein-powder?pId=2741805&vId=2492712",
+          "https://cdn.nutrabay.com/wp-content/uploads/2023/02/NB-CUT-1001-01-02.jpg",
+          "https://cdn.nutrabay.com/wp-content/uploads/2023/02/NB-CUT-1001-01-01.jpg"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "retailer",
+        "retailer": "Nutrabay",
+        "sourceVariantId": "2492712",
+        "sourceProductId": "2741805",
+        "sourceSku": "NB-CUT-1001-01",
+        "basis": "Exact Nutrabay selected variant, 2 kg technical weight and flavour-matched jar composition panel reviewed. Protein and energy use explicit per-100 g label values rather than retailer headline rounding. Prices represent current listed retail quotes, not completed transactions or historical observations.",
+        "notes": "Label declares 79.92 g protein per 100 g and rounded 24 g per 30 g serving; retailer specification rounds this to 80%. Milk allergen is declared. Currently sold out; displayed price is retained with that stock status. No batch-level testing conclusion is inferred from the retail listing."
+      }
+    },
+    {
+      "order": 877,
+      "offer": {
+        "id": "protein-nb-6436172",
+        "brand": "Cutler Nutrition",
+        "product": "Total Iso Whey Isolate",
+        "form": "Powder",
+        "flavour": "Gourmet Vanilla",
+        "packaging": "Jar",
+        "kg": 2,
+        "grams": 2000,
+        "type": "Whey",
+        "subclass": "Whey isolate",
+        "protein": 79.92,
+        "scoop": 30,
+        "serving": 30,
+        "energy": 363,
+        "energyBasis": "Stated flavour-matched label kcal per 100 g",
+        "price": 6449,
+        "currency": "INR",
+        "stock": "Sold out",
+        "url": "https://nutrabay.com/product/cutler-nutrition-total-iso-whey-isolate-protein-powder?pId=2741805&vId=6436172",
+        "nutritionUrl": "https://cdn.nutrabay.com/wp-content/uploads/2023/02/NB-CUT-1001-02-02.jpg",
+        "labelSources": [
+          "https://nutrabay.com/product/cutler-nutrition-total-iso-whey-isolate-protein-powder?pId=2741805&vId=6436172",
+          "https://cdn.nutrabay.com/wp-content/uploads/2023/02/NB-CUT-1001-02-02.jpg",
+          "https://cdn.nutrabay.com/wp-content/uploads/2023/02/NB-CUT-1001-02-01.jpg"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "retailer",
+        "retailer": "Nutrabay",
+        "sourceVariantId": "6436172",
+        "sourceProductId": "2741805",
+        "sourceSku": "NB-CUT-1001-02",
+        "basis": "Exact Nutrabay selected variant, 2 kg technical weight and flavour-matched jar composition panel reviewed. Protein and energy use explicit per-100 g label values rather than retailer headline rounding. Prices represent current listed retail quotes, not completed transactions or historical observations.",
+        "notes": "Label declares 79.92 g protein per 100 g and rounded 24 g per 30 g serving; retailer specification rounds this to 80%. Milk allergen is declared. Currently sold out; displayed price is retained with that stock status. No batch-level testing conclusion is inferred from the retail listing."
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5321,
+      "observation": {
+        "category": "protein",
+        "offerId": "protein-nb-2492712",
+        "date": "2026-11-20",
+        "price": 6449,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabay.com/product/cutler-nutrition-total-iso-whey-isolate-protein-powder?pId=2741805&vId=2492712",
+        "evidenceUrl": "https://nutrabay.com/product/cutler-nutrition-total-iso-whey-isolate-protein-powder?pId=2741805&vId=2492712",
+        "kind": "official-live",
+        "variantId": "2492712",
+        "matchBasis": "Nutrabay exact selected product/variant IDs, SKU, brand and complete attributes; actual selected 2 kg weight, ordinary INR sale price and stock checked."
+      }
+    },
+    {
+      "order": 5322,
+      "observation": {
+        "category": "protein",
+        "offerId": "protein-nb-6436172",
+        "date": "2026-11-20",
+        "price": 6449,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabay.com/product/cutler-nutrition-total-iso-whey-isolate-protein-powder?pId=2741805&vId=6436172",
+        "evidenceUrl": "https://nutrabay.com/product/cutler-nutrition-total-iso-whey-isolate-protein-powder?pId=2741805&vId=6436172",
+        "kind": "official-live",
+        "variantId": "6436172",
+        "matchBasis": "Nutrabay exact selected product/variant IDs, SKU, brand and complete attributes; actual selected 2 kg weight, ordinary INR sale price and stock checked."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 404,
+      "profile": {
+        "id": "protein-nb-2492712",
+        "brand": "Cutler Nutrition",
+        "product": "Total Iso Whey Isolate",
+        "form": "Powder",
+        "flavour": "Chocolate Coffee",
+        "packaging": "Jar",
+        "kg": 2,
+        "grams": 2000,
+        "type": "Whey",
+        "subclass": "Whey isolate",
+        "protein": 79.92,
+        "scoop": 30,
+        "serving": 30,
+        "energy": 363,
+        "energyBasis": "Stated flavour-matched label kcal per 100 g",
+        "nutritionUrl": "https://cdn.nutrabay.com/wp-content/uploads/2023/02/NB-CUT-1001-01-02.jpg",
+        "labelSources": [
+          "https://nutrabay.com/product/cutler-nutrition-total-iso-whey-isolate-protein-powder?pId=2741805&vId=2492712",
+          "https://cdn.nutrabay.com/wp-content/uploads/2023/02/NB-CUT-1001-01-02.jpg",
+          "https://cdn.nutrabay.com/wp-content/uploads/2023/02/NB-CUT-1001-01-01.jpg"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "retailer",
+        "retailer": "Nutrabay",
+        "basis": "Exact Nutrabay selected variant, 2 kg technical weight and flavour-matched jar composition panel reviewed. Protein and energy use explicit per-100 g label values rather than retailer headline rounding. Prices represent current listed retail quotes, not completed transactions or historical observations.",
+        "notes": "Label declares 79.92 g protein per 100 g and rounded 24 g per 30 g serving; retailer specification rounds this to 80%. Milk allergen is declared. Currently sold out; displayed price is retained with that stock status. No batch-level testing conclusion is inferred from the retail listing.",
+        "category": "protein",
+        "kind": "nutrabay-product",
+        "base": "https://nutrabay.com",
+        "productUrl": "https://nutrabay.com/product/cutler-nutrition-total-iso-whey-isolate-protein-powder?pId=2741805&vId=2492712",
+        "variantUrl": "https://nutrabay.com/product/cutler-nutrition-total-iso-whey-isolate-protein-powder?pId=2741805&vId=2492712",
+        "productId": "2741805",
+        "variantId": "2492712",
+        "variantSku": "NB-CUT-1001-01",
+        "variantAttributes": {
+          "pa_flavour": "Chocolate Coffee",
+          "pa_weight": "2 kg (4.4 lb)"
+        },
+        "cacheKey": "nutrabay-2492712",
+        "allowRetailMultipack": true
+      }
+    },
+    {
+      "order": 405,
+      "profile": {
+        "id": "protein-nb-6436172",
+        "brand": "Cutler Nutrition",
+        "product": "Total Iso Whey Isolate",
+        "form": "Powder",
+        "flavour": "Gourmet Vanilla",
+        "packaging": "Jar",
+        "kg": 2,
+        "grams": 2000,
+        "type": "Whey",
+        "subclass": "Whey isolate",
+        "protein": 79.92,
+        "scoop": 30,
+        "serving": 30,
+        "energy": 363,
+        "energyBasis": "Stated flavour-matched label kcal per 100 g",
+        "nutritionUrl": "https://cdn.nutrabay.com/wp-content/uploads/2023/02/NB-CUT-1001-02-02.jpg",
+        "labelSources": [
+          "https://nutrabay.com/product/cutler-nutrition-total-iso-whey-isolate-protein-powder?pId=2741805&vId=6436172",
+          "https://cdn.nutrabay.com/wp-content/uploads/2023/02/NB-CUT-1001-02-02.jpg",
+          "https://cdn.nutrabay.com/wp-content/uploads/2023/02/NB-CUT-1001-02-01.jpg"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "retailer",
+        "retailer": "Nutrabay",
+        "basis": "Exact Nutrabay selected variant, 2 kg technical weight and flavour-matched jar composition panel reviewed. Protein and energy use explicit per-100 g label values rather than retailer headline rounding. Prices represent current listed retail quotes, not completed transactions or historical observations.",
+        "notes": "Label declares 79.92 g protein per 100 g and rounded 24 g per 30 g serving; retailer specification rounds this to 80%. Milk allergen is declared. Currently sold out; displayed price is retained with that stock status. No batch-level testing conclusion is inferred from the retail listing.",
+        "category": "protein",
+        "kind": "nutrabay-product",
+        "base": "https://nutrabay.com",
+        "productUrl": "https://nutrabay.com/product/cutler-nutrition-total-iso-whey-isolate-protein-powder?pId=2741805&vId=6436172",
+        "variantUrl": "https://nutrabay.com/product/cutler-nutrition-total-iso-whey-isolate-protein-powder?pId=2741805&vId=6436172",
+        "productId": "2741805",
+        "variantId": "6436172",
+        "variantSku": "NB-CUT-1001-02",
+        "variantAttributes": {
+          "pa_flavour": "Gourmet Vanilla",
+          "pa_weight": "2 kg (4.4 lb)"
+        },
+        "cacheKey": "nutrabay-6436172",
+        "allowRetailMultipack": true
+      }
+    }
+  ]
+}

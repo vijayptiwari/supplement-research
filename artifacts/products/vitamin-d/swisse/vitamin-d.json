@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "category": "vitamin-d",
+  "brand": "Swisse",
+  "product": "Vitamin D",
+  "variants": [
+    {
+      "order": 3,
+      "offer": {
+        "brand": "Swisse",
+        "product": "Vitamin D",
+        "form": "Tablet",
+        "type": "D3 (cholecalciferol)",
+        "subclass": "Single vitamin",
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official product listing; only explicitly verified label amounts are recorded.",
+        "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities.",
+        "packCount": 90,
+        "id": "vitamin-d-45572634050745",
+        "price": 1143,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://swisse.co.in/products/swisse-ultiboost-vitamin-d?variant=45572634050745",
+        "nutritionUrl": "https://swisse.co.in/products/swisse-ultiboost-vitamin-d",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-10-29",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://swisse.co.in/products/swisse-ultiboost-vitamin-d?variant=45572634050745",
+          "evidenceUrl": "https://swisse.co.in/products/swisse-ultiboost-vitamin-d.json",
+          "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3720,
+      "observation": {
+        "category": "vitamin-d",
+        "offerId": "vitamin-d-45572634050745",
+        "date": "2026-10-29",
+        "price": 1104,
+        "currency": "INR",
+        "sourceUrl": "https://swisse.co.in/products/swisse-ultiboost-vitamin-d?variant=45572634050745",
+        "evidenceUrl": "https://swisse.co.in/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "45572634050745"
+      }
+    },
+    {
+      "order": 3903,
+      "observation": {
+        "category": "vitamin-d",
+        "offerId": "vitamin-d-45572634050745",
+        "date": "2026-11-19",
+        "price": 1143,
+        "currency": "INR",
+        "sourceUrl": "https://swisse.co.in/products/swisse-ultiboost-vitamin-d?variant=45572634050745",
+        "evidenceUrl": "https://swisse.co.in/products/swisse-ultiboost-vitamin-d.json",
+        "kind": "official-live",
+        "variantId": "45572634050745",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 19,
+      "profile": {
+        "category": "vitamin-d",
+        "brand": "Swisse",
+        "base": "https://swisse.co.in",
+        "handle": "swisse-ultiboost-vitamin-d",
+        "product": "Vitamin D",
+        "form": "Tablet",
+        "type": "D3 (cholecalciferol)",
+        "subclass": "Single vitamin",
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official product listing; only explicitly verified label amounts are recorded.",
+        "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities.",
+        "packCount": 90
+      }
+    }
+  ]
+}

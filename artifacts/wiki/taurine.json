@@ -1,0 +1,255 @@
+{
+  "schemaVersion": 1,
+  "order": 20,
+  "category": {
+    "id": "taurine",
+    "label": "Taurine",
+    "file": "taurine.json",
+    "page": "taurine.html",
+    "measurement": "units",
+    "supportsPowder": true,
+    "mainNutrient": "taurineMg",
+    "referenceQuantity": 1000,
+    "referenceUnit": "mg",
+    "compoundLabel": "labelled taurine",
+    "nutrientFields": [
+      {
+        "key": "taurineMg",
+        "label": "Taurine",
+        "unit": "mg",
+        "table": true
+      }
+    ],
+    "comparisonNote": "Taurine amounts refer to the stated label serving. Taurine and caffeine are separate ingredients; the presence of taurine does not establish a stimulant effect or describe every ingredient in an energy drink or pre-workout.",
+    "searchAliases": [
+      "taurine"
+    ]
+  },
+  "catalog": {
+    "checked": "2026-11-19",
+    "category": "taurine"
+  },
+  "guide": {
+    "id": "taurine-guide",
+    "category": "taurine",
+    "title": "Taurine: an individual ingredient, not an energy-drink effect",
+    "summary": "Taurine occurs naturally in the body and food. Its presence in an energy drink does not make it the same substance as caffeine.",
+    "evidence": "A 2025 meta-analysis found a small overall exercise effect, but certainty was low to very low and results differed across tasks. Earlier reviews also found mixed performance and recovery outcomes. These findings do not establish a reliable benefit for every user.",
+    "limitations": "Small, short studies and different exercise protocols limit confidence. Laboratory mechanisms and changes in markers are not proof of better long-term health. Results for isolated taurine cannot be attributed to taurine when a tested drink also contains caffeine or other actives.",
+    "catalogReading": "Compare explicitly labelled taurine per serving and verify whether the product is standalone or a blend. Total energy-drink or pre-workout powder mass is not taurine mass. Check caffeine and other ingredients separately, including overlap with another product.",
+    "safety": "Short exercise studies do not establish safety for indefinite high intake, children or pregnancy. Review medical conditions, kidney health and medicines with a clinician. A taurine label does not remove the separate stimulant or other risks of a mixed drink.",
+    "sourceIds": [
+      "taurine-exercise",
+      "taurine-meta",
+      "caffeine-position",
+      "preworkout-review",
+      "food-performance-bioactives",
+      "supplement-quality-ods",
+      "taurine-volume"
+    ],
+    "reviewed": "2026-11-18",
+    "author": "Supplement Research editorial synthesis",
+    "bodySteps": [
+      "Diet and body synthesis contribute taurine, and oral taurine is absorbed through the gastrointestinal tract.",
+      "Tissues contain taurine involved in cell regulation and calcium-related processes; the kidneys help regulate its balance.",
+      "These roles are distinct from caffeine's stimulant action. Proposed cellular mechanisms do not guarantee a useful exercise response from an extra supplement."
+    ],
+    "bodySources": [
+      "taurine-exercise",
+      "caffeine-position"
+    ],
+    "treatment": "Taurine products are not established cures for fatigue, ageing or a metabolic disorder. A sports trial does not validate disease treatment or show that an energy drink corrects a deficiency.",
+    "whoMayBenefit": "An adult considering a defined exercise goal may review the limited findings for isolated taurine. The evidence does not identify a routine requirement or show that people who feel tired should select a taurine drink.",
+    "routineUse": "Routine supplementation is not established as necessary for healthy adults. Review the specific goal, uncertainty and overlapping ingredients rather than assuming an energy-drink ingredient belongs in every stack.",
+    "sectionSources": [
+      "taurine-exercise",
+      "taurine-meta",
+      "caffeine-position",
+      "preworkout-review"
+    ],
+    "buyingGuide": {
+      "whoCanConsider": [
+        "Healthy adult exercisers can review isolated-taurine studies for a specific measurable performance goal, with modest expectations.",
+        "Adults comparing taurine with an energy drink or pre-workout can distinguish the ingredient from caffeine and the effects of the whole mixture."
+      ],
+      "whoShouldReview": [
+        "People with kidney conditions, regular medicines or other medical conditions need individual advice.",
+        "Children, pregnancy and breastfeeding are not covered by a general healthy-adult performance assessment.",
+        "Anyone using energy drinks or pre-workout should review duplicate taurine and separate stimulant exposure."
+      ],
+      "foodSummary": "Fish, shellfish and meat are dietary taurine sources, and the body can synthesize taurine. A low-taurine plant-based diet alone does not demonstrate a need for a sports supplement.",
+      "foods": [
+        {
+          "name": "Beef loin, laboratory dry-matter sample",
+          "relationship": "direct",
+          "detail": "Published table uses dry matter. Do not use this value to calculate a fresh-meat serving or an equivalent powder dose.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": null,
+          "amounts": [
+            {
+              "nutrient": "Taurine",
+              "min": 2.92,
+              "max": null,
+              "unit": "mg",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "1 g dry matter (not 1 g fresh or cooked meat)"
+              },
+              "sourceIds": [
+                "food-performance-bioactives"
+              ]
+            }
+          ]
+        }
+      ],
+      "foodSourceIds": [
+        "food-performance-bioactives",
+        "taurine-exercise"
+      ],
+      "value": {
+        "routineScore": 2,
+        "targetedScore": 2,
+        "targetedUse": "An otherwise healthy adult considering isolated taurine for a defined exercise-performance outcome after basic training and nutrition are addressed.",
+        "reason": "A small pooled exercise effect is possible, but evidence certainty is low to very low and results are not reliably replicated across tasks. That leaves taurine a low-priority purchase for most fitness budgets.",
+        "worthWhen": [
+          "The goal is measurable, the standalone taurine amount is known and uncertainty is acceptable.",
+          "The decision does not depend on assigning all energy-drink effects to taurine."
+        ],
+        "skipWhen": [
+          "The expectation is guaranteed endurance, recovery, fat loss or anti-ageing benefit.",
+          "A mixed drink obscures the amount or duplicates existing pre-workout, and the goal is just to feel stimulated."
+        ],
+        "evidence": "limited",
+        "scope": "Fitness assessment for isolated oral taurine, not an energy-drink safety rating, a clinical indication or a claim that low dietary taurine is a deficiency.",
+        "sourceIds": [
+          "taurine-exercise",
+          "taurine-meta",
+          "caffeine-position"
+        ]
+      },
+      "reviewed": "2026-11-18",
+      "practices": {
+        "dos": [
+          {
+            "title": "Check taurine itself",
+            "detail": "Compare the explicitly labelled taurine amount per verified serving, keeping total drink or powder mass separate."
+          },
+          {
+            "title": "Separate the blend's ingredients",
+            "detail": "Review caffeine and other actives independently, including overlap with energy drinks and pre-workout products."
+          }
+        ],
+        "donts": [
+          {
+            "title": "Don't assign every drink effect to taurine",
+            "detail": "Stimulation from a mixed drink does not establish taurine's effect or remove the drink's other risks."
+          },
+          {
+            "title": "Don't buy guaranteed fitness or ageing claims",
+            "detail": "The evidence does not establish universal endurance, recovery, fat-loss or anti-ageing benefits."
+          }
+        ],
+        "sourceIds": [
+          "taurine-exercise",
+          "taurine-meta",
+          "caffeine-position",
+          "preworkout-review"
+        ]
+      }
+    },
+    "intakeGuide": {
+      "kind": "no-established-target",
+      "summary": "No established adult dietary reference intake or routine supplement target. A sports trial is not a personal requirement.",
+      "targets": [],
+      "limits": [],
+      "notes": [
+        "No automatic dose increase is assigned for training frequency or experience."
+      ],
+      "sourceIds": [
+        "taurine-exercise",
+        "taurine-meta",
+        "caffeine-position",
+        "preworkout-review"
+      ],
+      "reviewed": "2026-11-17"
+    },
+    "medicalGuide": {
+      "summary": "Condition-specific evidence, separate from sports benefits and purchase priority.",
+      "conditions": [
+        {
+          "condition": "Metabolic disorders, fatigue and ageing claims",
+          "level": "insufficient",
+          "findings": "The selected sports evidence does not establish a disease-treatment indication or an anti-ageing therapy.",
+          "limits": "Taurine products are not established cures for fatigue, ageing or a metabolic disorder. A sports trial does not validate disease treatment or show that an energy drink corrects a deficiency.",
+          "sourceIds": [
+            "taurine-exercise",
+            "taurine-meta",
+            "caffeine-position",
+            "preworkout-review"
+          ]
+        }
+      ],
+      "reviewed": "2026-11-17"
+    },
+    "pathway": {
+      "title": "Taurine participates in cellular regulation",
+      "summary": "Taurine is involved in cell-volume regulation and is studied in calcium handling. These roles differ from caffeine's stimulant action.",
+      "tracks": [
+        {
+          "label": "Cellular taurine and osmotic balance",
+          "steps": [
+            {
+              "label": "Transporters regulate cellular taurine uptake",
+              "detail": "Cells regulate taurine entry through specific transport systems; tissue levels are controlled rather than simply matching a product's dose.",
+              "compartment": "Cells",
+              "icon": "cell"
+            },
+            {
+              "label": "Taurine contributes to the osmolyte pool",
+              "detail": "As an organic osmolyte, taurine is part of the solute balance involved in cellular water movement.",
+              "compartment": "Cells",
+              "icon": "molecule"
+            },
+            {
+              "label": "Volume changes alter taurine movement",
+              "detail": "Cell swelling can increase taurine release and reduce uptake, contributing to adjustment of cell volume.",
+              "compartment": "Cell membrane",
+              "icon": "signal"
+            }
+          ]
+        },
+        {
+          "label": "Proposed roles in muscle calcium handling",
+          "steps": [
+            {
+              "label": "Muscle cells contain taurine pools",
+              "detail": "Taurine is present in muscle; oral uptake does not establish that every proposed cellular effect increases in humans.",
+              "compartment": "Muscle",
+              "icon": "muscle"
+            },
+            {
+              "label": "Experiments examine calcium storage and release",
+              "detail": "Models suggest interactions with sarcoplasmic-reticulum calcium handling, which participates in muscle excitation and contraction.",
+              "compartment": "Muscle",
+              "icon": "cell"
+            },
+            {
+              "label": "Calcium participates in muscle contraction",
+              "detail": "Calcium release contributes to normal excitation-contraction coupling. Proposed taurine effects on this process are mainly preclinical.",
+              "compartment": "Muscle",
+              "icon": "signal"
+            }
+          ]
+        }
+      ],
+      "caveat": "Cell-volume mechanisms and animal calcium studies are not proof of better hydration, strength or recovery in people. Taurine is not interchangeable with caffeine.",
+      "sourceIds": [
+        "taurine-volume",
+        "taurine-exercise",
+        "caffeine-position"
+      ]
+    }
+  }
+}

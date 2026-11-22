@@ -1,0 +1,172 @@
+{
+  "schemaVersion": 1,
+  "category": "magnesium",
+  "brand": "INLIFE",
+  "product": "Chelated Magnesium Bisglycinate Forte",
+  "variants": [
+    {
+      "order": 17,
+      "offer": {
+        "id": "magnesium-51134618108069",
+        "brand": "INLIFE",
+        "product": "Chelated Magnesium Bisglycinate Forte",
+        "form": "Tablet",
+        "type": "Magnesium bisglycinate",
+        "subclass": "Chelated bisglycinate",
+        "flavour": "Unflavoured",
+        "source": "Not specified",
+        "packCount": 240,
+        "servingUnits": 2,
+        "price": 1234,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://inlifehealthcare.com/products/magnesium-glycinate-forte?variant=51134618108069",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/MAGNESIUMBISGLYCINATEFORTE120s_0006_supplement.webp?v=1793183925",
+        "labelSources": [
+          "https://inlifehealthcare.com/products/magnesium-glycinate-forte",
+          "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/MAGNESIUMBISGLYCINATEFORTE120s_0006_supplement.webp?v=1793183925"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Current official reformulated panel: two tablets provide 250 mg elemental magnesium from 2000 mg chelated magnesium bisglycinate.",
+        "notes": "The current formulation differs from older 440 mg marketing. Only the updated two-tablet label is used; pack120/240 counts come from the selected official variants.",
+        "packaging": "Brand-listed retail pack (240 tablets)",
+        "magnesiumMg": 250,
+        "magnesiumCompoundMg": 2000,
+        "mineralBasis": "elemental"
+      }
+    },
+    {
+      "order": 18,
+      "offer": {
+        "id": "magnesium-45800298807461",
+        "brand": "INLIFE",
+        "product": "Chelated Magnesium Bisglycinate Forte",
+        "form": "Tablet",
+        "type": "Magnesium bisglycinate",
+        "subclass": "Chelated bisglycinate",
+        "flavour": "Unflavoured",
+        "source": "Not specified",
+        "packCount": 120,
+        "servingUnits": 2,
+        "price": 649,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://inlifehealthcare.com/products/magnesium-glycinate-forte?variant=45800298807461",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/MAGNESIUMBISGLYCINATEFORTE120s_0006_supplement.webp?v=1793183925",
+        "labelSources": [
+          "https://inlifehealthcare.com/products/magnesium-glycinate-forte",
+          "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/MAGNESIUMBISGLYCINATEFORTE120s_0006_supplement.webp?v=1793183925"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Current official reformulated panel: two tablets provide 250 mg elemental magnesium from 2000 mg chelated magnesium bisglycinate.",
+        "notes": "The current formulation differs from older 440 mg marketing. Only the updated two-tablet label is used; pack120/240 counts come from the selected official variants.",
+        "packaging": "Brand-listed retail pack (120 tablets)",
+        "magnesiumMg": 250,
+        "magnesiumCompoundMg": 2000,
+        "mineralBasis": "elemental"
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3963,
+      "observation": {
+        "category": "magnesium",
+        "offerId": "magnesium-51134618108069",
+        "date": "2026-11-19",
+        "price": 1234,
+        "currency": "INR",
+        "sourceUrl": "https://inlifehealthcare.com/products/magnesium-glycinate-forte?variant=51134618108069",
+        "evidenceUrl": "https://inlifehealthcare.com/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "51134618108069",
+        "matchBasis": "Official public Shopify feed exact variant ID and explicitly listed retail count; unconditional INR variant price. Label serving and payload independently checked against official label panel."
+      }
+    },
+    {
+      "order": 3964,
+      "observation": {
+        "category": "magnesium",
+        "offerId": "magnesium-45800298807461",
+        "date": "2026-11-19",
+        "price": 649,
+        "currency": "INR",
+        "sourceUrl": "https://inlifehealthcare.com/products/magnesium-glycinate-forte?variant=45800298807461",
+        "evidenceUrl": "https://inlifehealthcare.com/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "45800298807461",
+        "matchBasis": "Official public Shopify feed exact variant ID and explicitly listed retail count; unconditional INR variant price. Label serving and payload independently checked against official label panel."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 147,
+      "profile": {
+        "brand": "INLIFE",
+        "product": "Chelated Magnesium Bisglycinate Forte",
+        "form": "Tablet",
+        "type": "Magnesium bisglycinate",
+        "subclass": "Chelated bisglycinate",
+        "flavour": "Unflavoured",
+        "source": "Not specified",
+        "packCount": 240,
+        "servingUnits": 2,
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/MAGNESIUMBISGLYCINATEFORTE120s_0006_supplement.webp?v=1793183925",
+        "labelSources": [
+          "https://inlifehealthcare.com/products/magnesium-glycinate-forte",
+          "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/MAGNESIUMBISGLYCINATEFORTE120s_0006_supplement.webp?v=1793183925"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Current official reformulated panel: two tablets provide 250 mg elemental magnesium from 2000 mg chelated magnesium bisglycinate.",
+        "notes": "The current formulation differs from older 440 mg marketing. Only the updated two-tablet label is used; pack120/240 counts come from the selected official variants.",
+        "packaging": "Brand-listed retail pack (240 tablets)",
+        "magnesiumMg": 250,
+        "magnesiumCompoundMg": 2000,
+        "mineralBasis": "elemental",
+        "category": "magnesium",
+        "base": "https://inlifehealthcare.com",
+        "handle": "magnesium-glycinate-forte",
+        "variantIds": [
+          51134618108069
+        ],
+        "allowRetailMultipack": true,
+        "id": "magnesium-51134618108069"
+      }
+    },
+    {
+      "order": 148,
+      "profile": {
+        "brand": "INLIFE",
+        "product": "Chelated Magnesium Bisglycinate Forte",
+        "form": "Tablet",
+        "type": "Magnesium bisglycinate",
+        "subclass": "Chelated bisglycinate",
+        "flavour": "Unflavoured",
+        "source": "Not specified",
+        "packCount": 120,
+        "servingUnits": 2,
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/MAGNESIUMBISGLYCINATEFORTE120s_0006_supplement.webp?v=1793183925",
+        "labelSources": [
+          "https://inlifehealthcare.com/products/magnesium-glycinate-forte",
+          "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/MAGNESIUMBISGLYCINATEFORTE120s_0006_supplement.webp?v=1793183925"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Current official reformulated panel: two tablets provide 250 mg elemental magnesium from 2000 mg chelated magnesium bisglycinate.",
+        "notes": "The current formulation differs from older 440 mg marketing. Only the updated two-tablet label is used; pack120/240 counts come from the selected official variants.",
+        "packaging": "Brand-listed retail pack (120 tablets)",
+        "magnesiumMg": 250,
+        "magnesiumCompoundMg": 2000,
+        "mineralBasis": "elemental",
+        "category": "magnesium",
+        "base": "https://inlifehealthcare.com",
+        "handle": "magnesium-glycinate-forte",
+        "variantIds": [
+          45800298807461
+        ],
+        "allowRetailMultipack": true,
+        "id": "magnesium-45800298807461"
+      }
+    }
+  ]
+}

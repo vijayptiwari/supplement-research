@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "category": "bcaa",
+  "brand": "AS-IT-IS Nutrition",
+  "product": "ONE BCAA Powder 2:1:1",
+  "variants": [
+    {
+      "order": 0,
+      "offer": {
+        "brand": "AS-IT-IS Nutrition",
+        "product": "ONE BCAA Powder 2:1:1",
+        "form": "Powder",
+        "type": "BCAA 2:1:1",
+        "subclass": "Single-ingredient amino acid blend",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "packCount": null,
+        "servingUnits": null,
+        "servingGrams": 4,
+        "labelChecked": "2026-11-17",
+        "basis": "Current official 250 g back label states one 4 g scoop containing 2000 mg leucine, 1000 mg isoleucine and 1000 mg valine. Total BCAA is the sum of those explicitly declared same-serving components.",
+        "notes": "Current title and nutrition label agree on 4 g BCAA per 4 g serving. An older product-page mixing paragraph still says 5 g; the current pictured label is used and the conflict is retained.",
+        "grams": 250,
+        "flavour": "Unflavoured",
+        "bcaaMg": 4000,
+        "leucineMg": 2000,
+        "isoleucineMg": 1000,
+        "valineMg": 1000,
+        "energyPerServing": 0,
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0005/5335/3267/files/AS-IT-IS_ONE_BCAA_RPD_BACK_3_1.jpg?v=1789626860",
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0005/5335/3267/files/AS-IT-IS_ONE_BCAA_RPD_BACK_3_1.jpg?v=1789626860"
+        ],
+        "id": "bcaa-7380282900531",
+        "price": 610,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://asitisnutrition.com/products/as-it-is-nutrition-buy-bcaa-branched-chain-amino-acids?variant=7380282900531",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-buy-bcaa-branched-chain-amino-acids?variant=7380282900531",
+          "evidenceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-buy-bcaa-branched-chain-amino-acids.json",
+          "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3811,
+      "observation": {
+        "category": "bcaa",
+        "offerId": "bcaa-7380282900531",
+        "date": "2026-11-17",
+        "price": 610,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-buy-bcaa-branched-chain-amino-acids?variant=7380282900531",
+        "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "7380282900531",
+        "matchBasis": "Official Shopify public feed fetched 2026-11-17; exact variant ID, unconditional single-pack price, size/flavour and availability matched."
+      }
+    },
+    {
+      "order": 4005,
+      "observation": {
+        "category": "bcaa",
+        "offerId": "bcaa-7380282900531",
+        "date": "2026-11-19",
+        "price": 610,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-buy-bcaa-branched-chain-amino-acids?variant=7380282900531",
+        "evidenceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-buy-bcaa-branched-chain-amino-acids.json",
+        "kind": "official-live",
+        "variantId": "7380282900531",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 95,
+      "profile": {
+        "category": "bcaa",
+        "brand": "AS-IT-IS Nutrition",
+        "base": "https://asitisnutrition.com",
+        "handle": "as-it-is-nutrition-buy-bcaa-branched-chain-amino-acids",
+        "product": "ONE BCAA Powder 2:1:1",
+        "form": "Powder",
+        "type": "BCAA 2:1:1",
+        "subclass": "Single-ingredient amino acid blend",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "packCount": null,
+        "servingUnits": null,
+        "servingGrams": 4,
+        "labelChecked": "2026-11-17",
+        "variantIds": [
+          "7380282900531"
+        ],
+        "basis": "Current official 250 g back label states one 4 g scoop containing 2000 mg leucine, 1000 mg isoleucine and 1000 mg valine. Total BCAA is the sum of those explicitly declared same-serving components.",
+        "notes": "Current title and nutrition label agree on 4 g BCAA per 4 g serving. An older product-page mixing paragraph still says 5 g; the current pictured label is used and the conflict is retained.",
+        "grams": 250,
+        "flavour": "Unflavoured",
+        "bcaaMg": 4000,
+        "leucineMg": 2000,
+        "isoleucineMg": 1000,
+        "valineMg": 1000,
+        "energyPerServing": 0,
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0005/5335/3267/files/AS-IT-IS_ONE_BCAA_RPD_BACK_3_1.jpg?v=1789626860",
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0005/5335/3267/files/AS-IT-IS_ONE_BCAA_RPD_BACK_3_1.jpg?v=1789626860"
+        ]
+      }
+    }
+  ]
+}

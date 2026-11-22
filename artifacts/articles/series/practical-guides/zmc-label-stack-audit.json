@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "order": 29,
+  "article": {
+    "id": "zmc-label-stack-audit",
+    "category": "zmc",
+    "series": "practical-guides",
+    "title": "How to audit a ZMC label without inventing a combined strength score",
+    "summary": "A step-by-step reading method for elemental minerals, complete servings, overlapping vitamins and meaningful price comparisons.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "ZMC formulas are a good test of label-reading skill because several different units and chemical descriptions may appear on one panel. It is easy to count the wrong thing twice, confuse compound weight with elemental mineral, or compare one capsule with another product's full serving. An audit does not require pretending that more ingredients are always better. It requires keeping identities and measurement bases separate so that a later nutritional decision rests on information the label actually supplies.",
+    "sections": [
+      {
+        "id": "serving",
+        "title": "First identify the complete label serving",
+        "body": "Start with how many tablets, capsules or measured grams make one declared serving. Then read the zinc, magnesium and calcium amounts for that same serving. A pack count is not automatically a serving count, and the front panel may highlight a different basis from the nutrition panel. Keep photographs or links for the exact variant being compared. Differences in serving units can reverse an apparent price advantage even when the container sizes or front-panel strengths look similar.",
+        "sourceIds": [
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "elemental",
+        "title": "Give each mineral its own verified row",
+        "body": "For each of the three minerals, distinguish the elemental quantity from the weight of a salt or other compound. A statement such as a named magnesium material followed by a large number may not clearly state the elemental magnesium contribution. Record that ambiguity rather than filling it with an assumed conversion. Calcium and zinc need the same discipline. A shared blend weight cannot reveal how much of each mineral is supplied, and no amount of arithmetic can recover missing ingredient proportions.",
+        "sourceIds": [
+          "mg-overview",
+          "ca-overview",
+          "zn-overview"
+        ]
+      },
+      {
+        "id": "separate-score",
+        "title": "Do not add unlike minerals into one potency number",
+        "body": "Milligrams are a unit of mass, not a common scale of nutritional value. Adding zinc, magnesium and calcium into a combined milligram total does not tell you how adequately any individual need is met. Their reference intakes and safety considerations differ. A product can have a larger total while supplying less of the ingredient that matters to the buyer. A useful comparison therefore retains three separate rows, rather than rewarding the formula with the largest aggregate mass or the longest list of mineral names.",
+        "sourceIds": [
+          "ca-overview",
+          "mg-overview",
+          "zn-overview"
+        ]
+      },
+      {
+        "id": "added-d",
+        "title": "Look for vitamin D and other co-ingredients",
+        "body": "A ZMC product may also contain vitamin D or additional vitamins. Record them using their own units, and check whether the same nutrient appears in a multivitamin or standalone bottle. Vitamin D international units and micrograms can be equivalent ways of expressing one contribution; they are not two ingredients to add. The category guide explains that conversion basis. Unknown or contradictory declarations should remain a visible gap until the exact label can be checked rather than being forced into a tidy stack total.",
+        "sourceIds": [
+          "d-overview",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "food-medicines",
+        "title": "Include sources whose names are not supplements",
+        "body": "Calcium can be present in antacids, and magnesium can be present in laxatives or indigestion medicines. Ordinary foods also contribute minerals. A supplement inventory is therefore not the same as a complete assessment of total exposure or nutritional adequacy. List the products and foods that matter to the question being reviewed, while recognising what has not been measured. This helps avoid interpreting a partial website calculation as evidence that the entire diet is deficient or that a combination is safe for a particular person.",
+        "sourceIds": [
+          "ca-overview",
+          "mg-overview"
+        ]
+      },
+      {
+        "id": "limits",
+        "title": "Read the basis of a reference before comparing it",
+        "body": "Some international references use total intake from food and supplements, while the adult magnesium upper limit discussed in NIH material concerns supplemental and medicinal magnesium rather than magnesium naturally present in food. These are different bases. Do not apply one ceiling to a combined mineral mass or assume a safety limit is a target. The site's references identify their jurisdiction and purpose; they are educational context rather than a replacement for Indian clinical advice or a prescribed mineral regimen.",
+        "sourceIds": [
+          "mg-overview",
+          "ca-overview",
+          "zn-overview"
+        ]
+      },
+      {
+        "id": "timing",
+        "title": "Medicine interactions require the exact treatment list",
+        "body": "Minerals can interfere with the absorption of certain medicines when taken together. The relevant spacing and alternatives depend on the medicine, preparation and clinical circumstances. A package's general meal instruction cannot settle every interaction. Bring the full label to a pharmacist or clinician rather than applying a single internet timing rule to all tablets. Kidney disease, ongoing gastrointestinal effects and other medical concerns also change the suitability question, even when the product contains familiar essential nutrients rather than an exotic ingredient.",
+        "sourceIds": [
+          "mg-overview",
+          "ca-overview",
+          "zn-overview"
+        ]
+      },
+      {
+        "id": "cost",
+        "title": "Finish with a cost comparison that preserves the gaps",
+        "body": "Calculate usable servings from a verified serving basis, then compare each declared mineral and form separately. If a required amount is unknown, report that limit instead of announcing a cheapest active dose. The final decision should also consider whether every included ingredient serves a purpose, whether quality documentation supports the exact product, and whether a simpler option fits better. Passing label arithmetic does not establish improved recovery, independent purity, authenticity or individual safety; it simply makes the next decision more informed.",
+        "sourceIds": [
+          "supplement-quality-ods"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "supplement-quality-ods",
+      "mg-overview",
+      "ca-overview",
+      "zn-overview",
+      "d-overview"
+    ]
+  }
+}

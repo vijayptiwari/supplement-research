@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "AS-IT-IS Nutrition",
+  "product": "AS-IT-IS ONE Brown Rice Protein",
+  "variants": [
+    {
+      "order": 94,
+      "offer": {
+        "id": 94,
+        "brand": "AS-IT-IS Nutrition",
+        "product": "AS-IT-IS ONE Brown Rice Protein",
+        "type": "Plant — brown rice",
+        "flavour": "Unflavoured",
+        "kg": 1,
+        "price": 999,
+        "stock": "In stock",
+        "protein": 77.14285714285715,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Plant concentrate / powder",
+        "energy": null,
+        "url": "https://asitisnutrition.com/products/as-it-is-nutrition-brown-rice-protein-80-designed-as-meal-supplement-lab-tested-unflavoured?variant=16173981106227",
+        "nutritionUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-brown-rice-protein-80-designed-as-meal-supplement-lab-tested-unflavoured?variant=16173981106227",
+        "basis": "27g protein / 35g serving; product FAQ",
+        "notes": "Brand product-page serving basis; flavour-specific label values may vary. Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-brown-rice-protein-80-designed-as-meal-supplement-lab-tested-unflavoured?variant=16173981106227",
+          "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 2283,
+      "observation": {
+        "category": "protein",
+        "offerId": 94,
+        "date": "2026-10-25",
+        "price": 999,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-brown-rice-protein-80-designed-as-meal-supplement-lab-tested-unflavoured?variant=16173981106227",
+        "evidenceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-brown-rice-protein-80-designed-as-meal-supplement-lab-tested-unflavoured.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "16173981106227"
+      }
+    },
+    {
+      "order": 4142,
+      "observation": {
+        "category": "protein",
+        "offerId": 94,
+        "date": "2026-11-19",
+        "price": 999,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-brown-rice-protein-80-designed-as-meal-supplement-lab-tested-unflavoured?variant=16173981106227",
+        "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "16173981106227"
+      }
+    }
+  ],
+  "refreshSources": []
+}

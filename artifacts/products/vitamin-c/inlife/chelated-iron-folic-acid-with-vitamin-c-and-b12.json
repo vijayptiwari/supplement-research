@@ -1,0 +1,180 @@
+{
+  "schemaVersion": 1,
+  "category": "vitamin-c",
+  "brand": "INLIFE",
+  "product": "Chelated Iron + Folic Acid with Vitamin C and B12",
+  "variants": [
+    {
+      "order": 12,
+      "offer": {
+        "id": "vitamin-c-44486340968613",
+        "brand": "INLIFE",
+        "product": "Chelated Iron + Folic Acid with Vitamin C and B12",
+        "form": "Tablet",
+        "type": "Folic acid with ferrous bisglycinate and vitamins",
+        "subclass": "Iron + vitamin/mineral combination",
+        "flavour": "Unflavoured",
+        "source": "Not specified",
+        "packCount": 120,
+        "servingUnits": 1,
+        "price": 758,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://inlifehealthcare.com/products/iron-folic-acid?variant=44486340968613",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/Ironfolicacid_0007_Supplementfacts.webp?v=1793702998",
+        "labelSources": [
+          "https://inlifehealthcare.com/products/iron-folic-acid",
+          "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/Ironfolicacid_0007_Supplementfacts.webp?v=1793702998"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Official label per one tablet: folic acid129.4 micrograms, vitamin C65mg, B12 2.2micrograms, zinc13.2mg and iron19mg, with vitamin E and selenium.",
+        "notes": "This includes19mg iron per tablet and is not a routine standalone vitamin C or folate substitute. Other ingredients include vitamin E10mg and selenium40micrograms; these and iron are disclosed in this note because the current active-field model does not total them. Retail120/240counts come from exact listed variants.",
+        "packaging": "Brand-listed retail pack (120 tablets)",
+        "folicAcidMcg": 129.4,
+        "vitaminCMg": 65,
+        "vitaminB12Mcg": 2.2,
+        "zincMg": 13.2,
+        "mineralBasis": "elemental"
+      }
+    },
+    {
+      "order": 13,
+      "offer": {
+        "id": "vitamin-c-48219210416293",
+        "brand": "INLIFE",
+        "product": "Chelated Iron + Folic Acid with Vitamin C and B12",
+        "form": "Tablet",
+        "type": "Folic acid with ferrous bisglycinate and vitamins",
+        "subclass": "Iron + vitamin/mineral combination",
+        "flavour": "Unflavoured",
+        "source": "Not specified",
+        "packCount": 240,
+        "servingUnits": 1,
+        "price": 1436,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://inlifehealthcare.com/products/iron-folic-acid?variant=48219210416293",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/Ironfolicacid_0007_Supplementfacts.webp?v=1793702998",
+        "labelSources": [
+          "https://inlifehealthcare.com/products/iron-folic-acid",
+          "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/Ironfolicacid_0007_Supplementfacts.webp?v=1793702998"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Official label per one tablet: folic acid129.4 micrograms, vitamin C65mg, B12 2.2micrograms, zinc13.2mg and iron19mg, with vitamin E and selenium.",
+        "notes": "This includes19mg iron per tablet and is not a routine standalone vitamin C or folate substitute. Other ingredients include vitamin E10mg and selenium40micrograms; these and iron are disclosed in this note because the current active-field model does not total them. Retail120/240counts come from exact listed variants.",
+        "packaging": "Brand-listed retail pack (240 tablets)",
+        "folicAcidMcg": 129.4,
+        "vitaminCMg": 65,
+        "vitaminB12Mcg": 2.2,
+        "zincMg": 13.2,
+        "mineralBasis": "elemental"
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3977,
+      "observation": {
+        "category": "vitamin-c",
+        "offerId": "vitamin-c-44486340968613",
+        "date": "2026-11-19",
+        "price": 758,
+        "currency": "INR",
+        "sourceUrl": "https://inlifehealthcare.com/products/iron-folic-acid?variant=44486340968613",
+        "evidenceUrl": "https://inlifehealthcare.com/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "44486340968613",
+        "matchBasis": "Official public Shopify feed exact variant ID and explicitly listed retail count; unconditional INR variant price. Label serving and payload independently checked against official label panel."
+      }
+    },
+    {
+      "order": 3978,
+      "observation": {
+        "category": "vitamin-c",
+        "offerId": "vitamin-c-48219210416293",
+        "date": "2026-11-19",
+        "price": 1436,
+        "currency": "INR",
+        "sourceUrl": "https://inlifehealthcare.com/products/iron-folic-acid?variant=48219210416293",
+        "evidenceUrl": "https://inlifehealthcare.com/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "48219210416293",
+        "matchBasis": "Official public Shopify feed exact variant ID and explicitly listed retail count; unconditional INR variant price. Label serving and payload independently checked against official label panel."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 161,
+      "profile": {
+        "brand": "INLIFE",
+        "product": "Chelated Iron + Folic Acid with Vitamin C and B12",
+        "form": "Tablet",
+        "type": "Folic acid with ferrous bisglycinate and vitamins",
+        "subclass": "Iron + vitamin/mineral combination",
+        "flavour": "Unflavoured",
+        "source": "Not specified",
+        "packCount": 120,
+        "servingUnits": 1,
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/Ironfolicacid_0007_Supplementfacts.webp?v=1793702998",
+        "labelSources": [
+          "https://inlifehealthcare.com/products/iron-folic-acid",
+          "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/Ironfolicacid_0007_Supplementfacts.webp?v=1793702998"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Official label per one tablet: folic acid129.4 micrograms, vitamin C65mg, B12 2.2micrograms, zinc13.2mg and iron19mg, with vitamin E and selenium.",
+        "notes": "This includes19mg iron per tablet and is not a routine standalone vitamin C or folate substitute. Other ingredients include vitamin E10mg and selenium40micrograms; these and iron are disclosed in this note because the current active-field model does not total them. Retail120/240counts come from exact listed variants.",
+        "packaging": "Brand-listed retail pack (120 tablets)",
+        "folicAcidMcg": 129.4,
+        "vitaminCMg": 65,
+        "vitaminB12Mcg": 2.2,
+        "zincMg": 13.2,
+        "mineralBasis": "elemental",
+        "category": "vitamin-c",
+        "base": "https://inlifehealthcare.com",
+        "handle": "iron-folic-acid",
+        "variantIds": [
+          44486340968613
+        ],
+        "allowRetailMultipack": true,
+        "id": "vitamin-c-44486340968613"
+      }
+    },
+    {
+      "order": 162,
+      "profile": {
+        "brand": "INLIFE",
+        "product": "Chelated Iron + Folic Acid with Vitamin C and B12",
+        "form": "Tablet",
+        "type": "Folic acid with ferrous bisglycinate and vitamins",
+        "subclass": "Iron + vitamin/mineral combination",
+        "flavour": "Unflavoured",
+        "source": "Not specified",
+        "packCount": 240,
+        "servingUnits": 1,
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/Ironfolicacid_0007_Supplementfacts.webp?v=1793702998",
+        "labelSources": [
+          "https://inlifehealthcare.com/products/iron-folic-acid",
+          "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/Ironfolicacid_0007_Supplementfacts.webp?v=1793702998"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Official label per one tablet: folic acid129.4 micrograms, vitamin C65mg, B12 2.2micrograms, zinc13.2mg and iron19mg, with vitamin E and selenium.",
+        "notes": "This includes19mg iron per tablet and is not a routine standalone vitamin C or folate substitute. Other ingredients include vitamin E10mg and selenium40micrograms; these and iron are disclosed in this note because the current active-field model does not total them. Retail120/240counts come from exact listed variants.",
+        "packaging": "Brand-listed retail pack (240 tablets)",
+        "folicAcidMcg": 129.4,
+        "vitaminCMg": 65,
+        "vitaminB12Mcg": 2.2,
+        "zincMg": 13.2,
+        "mineralBasis": "elemental",
+        "category": "vitamin-c",
+        "base": "https://inlifehealthcare.com",
+        "handle": "iron-folic-acid",
+        "variantIds": [
+          48219210416293
+        ],
+        "allowRetailMultipack": true,
+        "id": "vitamin-c-48219210416293"
+      }
+    }
+  ]
+}

@@ -1,0 +1,346 @@
+{
+  "schemaVersion": 1,
+  "order": 10,
+  "category": {
+    "id": "vitamin-c",
+    "label": "Vitamin C",
+    "mainNutrient": "vitaminCMg",
+    "referenceQuantity": 100,
+    "referenceUnit": "mg",
+    "compoundLabel": "labelled vitamin C",
+    "nutrientFields": [
+      {
+        "key": "vitaminCMg",
+        "label": "Vitamin C",
+        "unit": "mg",
+        "table": true
+      }
+    ],
+    "comparisonNote": "Vitamin C amount is distinct from the mass of amla, citrus, mineral ascorbate or a multi-ingredient blend. Costs use the declared vitamin C per verified label serving; chemical forms and other ingredients remain separate profiles.",
+    "searchAliases": [
+      "ascorbic acid",
+      "ascorbate"
+    ],
+    "file": "vitamin-c.json",
+    "page": "vitamin-c.html",
+    "measurement": "units"
+  },
+  "catalog": {
+    "checked": "2026-11-20",
+    "category": "vitamin-c"
+  },
+  "guide": {
+    "id": "vitamin-c-guide",
+    "category": "vitamin-c",
+    "title": "Vitamin C: deficiency, absorption and everyday claims",
+    "summary": "Vitamin C supports normal body functions, but the largest tablet or an immunity claim does not establish the greatest benefit.",
+    "evidence": "Vitamin C is needed for collagen formation and helps absorb non-heme iron. Routine supplementation generally does not prevent common colds in the wider population; regular use may modestly shorten their duration.",
+    "limitations": "Absorption becomes less efficient at larger oral intakes. Biological antioxidant or immune roles do not establish that every supplement prevents illness. Price and labelled milligrams do not measure clinical benefit.",
+    "catalogReading": "Use the declared vitamin C amount per verified serving, not the whole weight of an ascorbate salt, fruit extract or blend. Read added zinc, sweeteners and other ingredients separately. An effervescent or liposomal label alone does not establish superiority.",
+    "safety": "Large supplemental amounts can cause diarrhoea, nausea and abdominal discomfort. People with kidney disease, hyperoxaluria or iron-overload conditions should discuss use with a clinician. Review medicines and overlapping products; population upper limits are safety boundaries rather than intake goals.",
+    "sourceIds": [
+      "c-overview",
+      "c-food",
+      "c-cold-review",
+      "food-india-nin-fruits",
+      "food-usda-sr28",
+      "supplement-quality-ods"
+    ],
+    "reviewed": "2026-11-18",
+    "author": "Supplement Research editorial synthesis",
+    "bodySteps": [
+      "Vitamin C is absorbed through the intestine; the fraction absorbed falls as oral intake becomes larger.",
+      "Tissues use it in enzyme reactions, including collagen formation, and antioxidant functions.",
+      "Kidneys excrete absorbed vitamin C that is not retained, so a higher label amount is not the amount delivered to a target tissue."
+    ],
+    "bodySources": [
+      "c-overview"
+    ],
+    "treatment": "Scurvy is severe vitamin C deficiency and needs treatment and attention to its dietary cause. Correcting deficiency does not make vitamin C a cure for every infection or a replacement for assessment of persistent symptoms.",
+    "whoMayBenefit": "People whose diets cannot supply adequate vitamin C, including those with markedly restricted food intake, may need nutrition support. A clinician can assess suspected deficiency and a suitable approach.",
+    "routineUse": "Everyone needs dietary vitamin C; everyone does not need a daily supplement. Fruit and vegetables can supply it. If a supplement addresses a dietary gap, review the gap rather than escalating strength indefinitely.",
+    "sectionSources": [
+      "c-overview",
+      "c-food",
+      "c-cold-review"
+    ],
+    "buyingGuide": {
+      "whoCanConsider": [
+        "People with a persistent dietary gap because fruit and vegetable intake is markedly restricted.",
+        "People with confirmed vitamin C deficiency receiving treatment and help with the dietary cause."
+      ],
+      "whoShouldReview": [
+        "People with kidney disease, hyperoxaluria or an iron-overload condition should review supplemental use with a clinician.",
+        "People receiving cancer treatment should discuss antioxidant supplements with their oncology team."
+      ],
+      "foodSummary": "Fruit and vegetables can meet everyday vitamin C needs. Storage and cooking affect content; a food list is not a prediction of an exact absorbed dose.",
+      "foods": [
+        {
+          "name": "Guavas, common, raw",
+          "relationship": "direct",
+          "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": "USDA NDB 09139",
+          "amounts": [
+            {
+              "nutrient": "Vitamin C",
+              "min": 228.3,
+              "max": null,
+              "unit": "mg",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "100 g edible food"
+              },
+              "sourceIds": [
+                "food-usda-sr28"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Orange",
+          "relationship": "direct",
+          "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": null,
+          "amounts": [
+            {
+              "nutrient": "Vitamin C",
+              "min": 70,
+              "max": null,
+              "unit": "mg",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "1 medium orange"
+              },
+              "sourceIds": [
+                "c-overview"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Sweet red pepper, raw",
+          "relationship": "direct",
+          "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": null,
+          "amounts": [
+            {
+              "nutrient": "Vitamin C",
+              "min": 95,
+              "max": null,
+              "unit": "mg",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "½ cup"
+              },
+              "sourceIds": [
+                "c-overview"
+              ]
+            }
+          ]
+        }
+      ],
+      "foodSourceIds": [
+        "c-overview",
+        "c-food",
+        "food-india-nin-fruits",
+        "food-usda-sr28"
+      ],
+      "value": {
+        "routineScore": 2,
+        "targetedScore": 5,
+        "targetedUse": "Confirmed vitamin C deficiency, with an appropriate replacement plan and assessment of its cause.",
+        "reason": "Correcting deficiency is valuable. For an adequately nourished adult, a larger tablet or an immunity claim is a weaker reason to buy; routine use generally does not prevent colds.",
+        "worthWhen": [
+          "A demonstrated intake gap cannot reasonably be corrected with food, or deficiency treatment has been advised."
+        ],
+        "skipWhen": [
+          "Diet already supplies enough and the aim is general infection prevention.",
+          "Extra strength, liposomal branding or effervescence is being treated as proof of better outcomes."
+        ],
+        "evidence": "strong",
+        "scope": "The score of 5 applies to established deficiency, not a promise of cold prevention or better athletic performance. Scores are editorial purchase priorities, not clinical effect sizes.",
+        "sourceIds": [
+          "c-overview",
+          "c-food",
+          "c-cold-review"
+        ]
+      },
+      "reviewed": "2026-11-18",
+      "practices": {
+        "dos": [
+          {
+            "title": "Review ordinary food intake",
+            "detail": "Consider whether food can address an assessed gap before adding a vitamin C product."
+          },
+          {
+            "title": "Compare declared vitamin C",
+            "detail": "Use the verified vitamin C amount per serving and read added zinc, sweeteners and other ingredients separately."
+          }
+        ],
+        "donts": [
+          {
+            "title": "Don't use extract or blend weight",
+            "detail": "The weight of a fruit extract, ascorbate salt or full formula is not automatically its vitamin C amount."
+          },
+          {
+            "title": "Don't pay for unproven superiority",
+            "detail": "Extra strength, effervescence and liposomal wording alone do not establish better outcomes or general infection prevention."
+          }
+        ],
+        "sourceIds": [
+          "c-overview",
+          "c-food",
+          "c-cold-review"
+        ]
+      }
+    },
+    "intakeGuide": {
+      "kind": "daily-target",
+      "summary": "Meet the age- and sex-specific total dietary reference. A reference intake is not the same as a supplemental dose or deficiency-treatment regimen.",
+      "targets": [
+        {
+          "key": "vitaminCMg",
+          "label": "Vitamin C",
+          "min": 90,
+          "max": null,
+          "unit": "mg",
+          "basis": "total-daily",
+          "perKg": false,
+          "profileIds": [
+            "everyday",
+            "general-fitness",
+            "strength-power",
+            "hypertrophy",
+            "endurance",
+            "hybrid"
+          ],
+          "sex": "male",
+          "minAge": 19,
+          "maxAge": null,
+          "referenceType": "RDA",
+          "notes": "People who smoke need an additional 35 mg/day; smoking status is not assessed here.",
+          "sourceIds": [
+            "c-overview"
+          ]
+        },
+        {
+          "key": "vitaminCMg",
+          "label": "Vitamin C",
+          "min": 75,
+          "max": null,
+          "unit": "mg",
+          "basis": "total-daily",
+          "perKg": false,
+          "profileIds": [
+            "everyday",
+            "general-fitness",
+            "strength-power",
+            "hypertrophy",
+            "endurance",
+            "hybrid"
+          ],
+          "sex": "female",
+          "minAge": 19,
+          "maxAge": null,
+          "referenceType": "RDA",
+          "notes": "People who smoke need an additional 35 mg/day; smoking status is not assessed here.",
+          "sourceIds": [
+            "c-overview"
+          ]
+        }
+      ],
+      "limits": [
+        {
+          "key": "vitaminCMg",
+          "label": "Vitamin C UL",
+          "max": 2000,
+          "unit": "mg",
+          "basis": "total-daily",
+          "minAge": 19,
+          "maxAge": null,
+          "notes": "",
+          "sourceIds": [
+            "c-overview"
+          ]
+        }
+      ],
+      "notes": [
+        "No automatic dose increase is assigned for training frequency or experience."
+      ],
+      "sourceIds": [
+        "c-overview"
+      ],
+      "reviewed": "2026-11-17"
+    },
+    "medicalGuide": {
+      "summary": "Condition-specific evidence, separate from sports benefits and purchase priority.",
+      "conditions": [
+        {
+          "condition": "Scurvy / vitamin C deficiency",
+          "level": "established",
+          "findings": "Vitamin C replacement treats deficiency; dietary cause and clinical severity require attention.",
+          "limits": "Scurvy is severe vitamin C deficiency and needs treatment and attention to its dietary cause. Correcting deficiency does not make vitamin C a cure for every infection or a replacement for assessment of persistent symptoms.",
+          "sourceIds": [
+            "c-overview",
+            "c-food",
+            "c-cold-review"
+          ]
+        },
+        {
+          "condition": "Common cold",
+          "level": "mixed",
+          "findings": "Evidence does not justify a broad infection-cure claim or replacement of medical assessment.",
+          "limits": "Scurvy is severe vitamin C deficiency and needs treatment and attention to its dietary cause. Correcting deficiency does not make vitamin C a cure for every infection or a replacement for assessment of persistent symptoms.",
+          "sourceIds": [
+            "c-overview",
+            "c-food",
+            "c-cold-review"
+          ]
+        }
+      ],
+      "reviewed": "2026-11-17"
+    },
+    "pathway": {
+      "title": "Controlled vitamin C delivery supports tissue chemistry",
+      "summary": "Intestinal uptake and kidney handling limit vitamin C exposure. Tissue ascorbate supports biosynthetic enzymes and antioxidant chemistry.",
+      "tracks": [
+        {
+          "label": "Absorption, tissue supply and cellular use",
+          "steps": [
+            {
+              "label": "The intestine absorbs dietary vitamin C",
+              "detail": "Vitamin C is absorbed from food and supplements; the fraction absorbed falls as oral doses rise.",
+              "compartment": "Intestine",
+              "icon": "digest"
+            },
+            {
+              "label": "Blood and tissues maintain controlled concentrations",
+              "detail": "The body regulates circulating and tissue vitamin C; absorbed vitamin not retained can leave through urine.",
+              "compartment": "Blood / kidney",
+              "icon": "kidney"
+            },
+            {
+              "label": "Ascorbate supports enzymes and redox reactions",
+              "detail": "Tissue vitamin C supports collagen biosynthesis and acts in antioxidant reactions.",
+              "compartment": "Cells / connective tissue",
+              "icon": "cell"
+            }
+          ]
+        }
+      ],
+      "caveat": "These physiological roles do not establish that megadoses prevent illness or improve performance. Oral dose is not the same as tissue exposure.",
+      "sourceIds": [
+        "c-overview"
+      ]
+    }
+  }
+}

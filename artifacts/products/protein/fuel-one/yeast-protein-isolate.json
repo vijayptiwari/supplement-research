@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "Fuel One",
+  "product": "Yeast Protein Isolate",
+  "variants": [
+    {
+      "order": 775,
+      "offer": {
+        "id": 775,
+        "brand": "Fuel One",
+        "product": "Yeast Protein Isolate",
+        "type": "Fermented yeast",
+        "flavour": "Chocolate",
+        "kg": 1,
+        "price": 1799,
+        "stock": "In stock",
+        "protein": 68,
+        "scoop": 38,
+        "serving": 38,
+        "subclass": "Yeast isolate",
+        "energy": 405.12,
+        "url": "https://www.fuelone.in/sv/fuel-one-yeast-protein-isolate/SP-138043?navKey=VRNT-282615",
+        "nutritionUrl": "https://www.fuelone.in/sv/fuel-one-yeast-protein-isolate/SP-138043?navKey=VRNT-282615",
+        "basis": "Exact variant nutrition table, protein per 100g",
+        "notes": "Stock not independently confirmed; offer listed on official page. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Exact page nutrition table, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.fuelone.in/sv/fuel-one-yeast-protein-isolate/SP-138043?navKey=VRNT-282615",
+          "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-yeast-protein-isolate/SP-138043?navKey=VRNT-282615",
+          "matchBasis": "Official selected product schema SKU matches exact navigation key"
+        }
+      }
+    },
+    {
+      "order": 776,
+      "offer": {
+        "id": 776,
+        "brand": "Fuel One",
+        "product": "Yeast Protein Isolate",
+        "type": "Fermented yeast",
+        "flavour": "Cold Coffee",
+        "kg": 1,
+        "price": 1799,
+        "stock": "In stock",
+        "protein": 68,
+        "scoop": 38,
+        "serving": 38,
+        "subclass": "Yeast isolate",
+        "energy": 403.95,
+        "url": "https://www.fuelone.in/sv/fuel-one-yeast-protein-isolate/SP-138043?navKey=VRNT-276797",
+        "nutritionUrl": "https://www.fuelone.in/sv/fuel-one-yeast-protein-isolate/SP-138043?navKey=VRNT-276797",
+        "basis": "Exact variant nutrition table, protein per 100g",
+        "notes": "Stock not independently confirmed; offer listed on official page. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Exact page nutrition table, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.fuelone.in/sv/fuel-one-yeast-protein-isolate/SP-138043?navKey=VRNT-276797",
+          "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-yeast-protein-isolate/SP-138043?navKey=VRNT-276797",
+          "matchBasis": "Official selected product schema SKU matches exact navigation key"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 2964,
+      "observation": {
+        "category": "protein",
+        "offerId": 775,
+        "date": "2026-10-25",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://www.fuelone.in/sv/fuel-one-yeast-protein-isolate/SP-138043?navKey=VRNT-282615",
+        "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-yeast-protein-isolate/SP-138043?navKey=VRNT-282615",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "VRNT-282615"
+      }
+    },
+    {
+      "order": 2965,
+      "observation": {
+        "category": "protein",
+        "offerId": 776,
+        "date": "2026-10-25",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://www.fuelone.in/sv/fuel-one-yeast-protein-isolate/SP-138043?navKey=VRNT-276797",
+        "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-yeast-protein-isolate/SP-138043?navKey=VRNT-276797",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "VRNT-276797"
+      }
+    },
+    {
+      "order": 4822,
+      "observation": {
+        "category": "protein",
+        "offerId": 775,
+        "date": "2026-11-19",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://www.fuelone.in/sv/fuel-one-yeast-protein-isolate/SP-138043?navKey=VRNT-282615",
+        "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-yeast-protein-isolate/SP-138043?navKey=VRNT-282615",
+        "kind": "official-live",
+        "matchBasis": "Official selected product schema SKU matches exact navigation key",
+        "variantId": "VRNT-282615"
+      }
+    },
+    {
+      "order": 4823,
+      "observation": {
+        "category": "protein",
+        "offerId": 776,
+        "date": "2026-11-19",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://www.fuelone.in/sv/fuel-one-yeast-protein-isolate/SP-138043?navKey=VRNT-276797",
+        "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-yeast-protein-isolate/SP-138043?navKey=VRNT-276797",
+        "kind": "official-live",
+        "matchBasis": "Official selected product schema SKU matches exact navigation key",
+        "variantId": "VRNT-276797"
+      }
+    }
+  ],
+  "refreshSources": []
+}

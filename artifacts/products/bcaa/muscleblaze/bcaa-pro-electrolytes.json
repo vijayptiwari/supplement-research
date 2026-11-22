@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "category": "bcaa",
+  "brand": "MuscleBlaze",
+  "product": "BCAA PRO + ELECTROLYTES",
+  "variants": [
+    {
+      "order": 9,
+      "offer": {
+        "id": "bcaa-hk-223726",
+        "brand": "MuscleBlaze",
+        "product": "BCAA PRO + ELECTROLYTES",
+        "form": "Powder",
+        "type": "BCAA 2:1:1",
+        "subclass": "BCAA + electrolytes",
+        "flavour": "Tropical Fest",
+        "packaging": "Single retail pack",
+        "price": 949,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://www.muscleblaze.com/sv/muscleblaze-bcaa-pro-essential-amino-acids/SP-43236?navKey=VRNT-223726",
+        "nutritionUrl": "https://img2.hkrtcdn.com/34792/prd_3479191-MuscleBlaze-BCAA-Pro-Essential-Amino-Acids-0.53-lb-30-Servings-Tropical-Fest_o.jpg",
+        "labelSources": [
+          "https://www.muscleblaze.com/sv/muscleblaze-bcaa-pro-essential-amino-acids/SP-43236?navKey=VRNT-223726",
+          "https://img2.hkrtcdn.com/34792/prd_3479191-MuscleBlaze-BCAA-Pro-Essential-Amino-Acids-0.53-lb-30-Servings-Tropical-Fest_o.jpg",
+          "https://img4.hkrtcdn.com/34792/prd_3479193-MuscleBlaze-BCAA-Pro-Essential-Amino-Acids-0.53-lb-30-Servings-Tropical-Fest_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "223726",
+        "sourceProductId": "43236",
+        "source": "Not specified",
+        "notes": "The family title on the website retains BCAA Pro Essential Amino Acids; the selected current panel identifies BCAA PRO + ELECTROLYTES, 240 g, 8 g serving. This is not a complete nine-EAA product.",
+        "basis": "Exact official brand selected variant. The linked current product gallery nutrition panel was individually reviewed; amounts are per stated label serving. Product claims are manufacturer declarations, not independent assay results.",
+        "energyPerServing": 2.85,
+        "bcaaMg": 5000,
+        "leucineMg": 2500,
+        "isoleucineMg": 1250,
+        "valineMg": 1250,
+        "grams": 240,
+        "packCount": null,
+        "servingGrams": 8,
+        "additionalIngredients": [
+          {
+            "name": "Electrolyte compound blend",
+            "amount": 500,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "Sodium",
+            "amount": 115,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "Potassium",
+            "amount": 86,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          }
+        ],
+        "declaredNutrients": [
+          "bcaaMg",
+          "leucineMg",
+          "isoleucineMg",
+          "valineMg"
+        ]
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5180,
+      "observation": {
+        "category": "bcaa",
+        "offerId": "bcaa-hk-223726",
+        "date": "2026-11-19",
+        "price": 949,
+        "currency": "INR",
+        "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-bcaa-pro-essential-amino-acids/SP-43236?navKey=VRNT-223726",
+        "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-bcaa-pro-essential-amino-acids/SP-43236?navKey=VRNT-223726",
+        "kind": "official-live",
+        "variantId": "223726",
+        "matchBasis": "Official selected numeric variant 223726 and SP-43236 matched to exact flavour/pack attributes; unconditional INR offer_pr, is_published=true and variant oos checked; no coupon or loyalty prices."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 289,
+      "profile": {
+        "id": "bcaa-hk-223726",
+        "brand": "MuscleBlaze",
+        "product": "BCAA PRO + ELECTROLYTES",
+        "form": "Powder",
+        "type": "BCAA 2:1:1",
+        "subclass": "BCAA + electrolytes",
+        "flavour": "Tropical Fest",
+        "packaging": "Single retail pack",
+        "currency": "INR",
+        "nutritionUrl": "https://img2.hkrtcdn.com/34792/prd_3479191-MuscleBlaze-BCAA-Pro-Essential-Amino-Acids-0.53-lb-30-Servings-Tropical-Fest_o.jpg",
+        "labelSources": [
+          "https://www.muscleblaze.com/sv/muscleblaze-bcaa-pro-essential-amino-acids/SP-43236?navKey=VRNT-223726",
+          "https://img2.hkrtcdn.com/34792/prd_3479191-MuscleBlaze-BCAA-Pro-Essential-Amino-Acids-0.53-lb-30-Servings-Tropical-Fest_o.jpg",
+          "https://img4.hkrtcdn.com/34792/prd_3479193-MuscleBlaze-BCAA-Pro-Essential-Amino-Acids-0.53-lb-30-Servings-Tropical-Fest_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "source": "Not specified",
+        "notes": "The family title on the website retains BCAA Pro Essential Amino Acids; the selected current panel identifies BCAA PRO + ELECTROLYTES, 240 g, 8 g serving. This is not a complete nine-EAA product.",
+        "basis": "Exact official brand selected variant. The linked current product gallery nutrition panel was individually reviewed; amounts are per stated label serving. Product claims are manufacturer declarations, not independent assay results.",
+        "energyPerServing": 2.85,
+        "bcaaMg": 5000,
+        "leucineMg": 2500,
+        "isoleucineMg": 1250,
+        "valineMg": 1250,
+        "grams": 240,
+        "packCount": null,
+        "servingGrams": 8,
+        "additionalIngredients": [
+          {
+            "name": "Electrolyte compound blend",
+            "amount": 500,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "Sodium",
+            "amount": 115,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "Potassium",
+            "amount": 86,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          }
+        ],
+        "declaredNutrients": [
+          "bcaaMg",
+          "leucineMg",
+          "isoleucineMg",
+          "valineMg"
+        ],
+        "category": "bcaa",
+        "kind": "hk-product",
+        "base": "https://www.muscleblaze.com",
+        "productUrl": "https://www.muscleblaze.com/sv/muscleblaze-bcaa-pro-essential-amino-acids/SP-43236?navKey=VRNT-223726",
+        "variantUrl": "https://www.muscleblaze.com/sv/muscleblaze-bcaa-pro-essential-amino-acids/SP-43236?navKey=VRNT-223726",
+        "variantId": "223726",
+        "productId": "43236",
+        "sourceBrand": "MuscleBlaze",
+        "variantAttributes": {
+          "sn-bca-flv": "Tropical Fest",
+          "gen-pro-siz": "0.53 lb",
+          "sn-ser-pack": "30 Servings"
+        },
+        "cacheKey": "hk-performance-223726",
+        "packSizeLabel": "0.53 lb",
+        "netWeightEvidenceUrl": "https://img4.hkrtcdn.com/34792/prd_3479193-MuscleBlaze-BCAA-Pro-Essential-Amino-Acids-0.53-lb-30-Servings-Tropical-Fest_o.jpg",
+        "netWeightEvidenceGrams": 240,
+        "netWeightEvidenceChecked": "2026-11-19"
+      }
+    }
+  ]
+}

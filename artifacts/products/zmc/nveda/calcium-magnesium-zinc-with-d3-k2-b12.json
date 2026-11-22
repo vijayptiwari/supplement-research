@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "category": "zmc",
+  "brand": "NVEDA",
+  "product": "Calcium Magnesium Zinc with D3, K2 & B12",
+  "variants": [
+    {
+      "order": 1,
+      "offer": {
+        "brand": "NVEDA",
+        "product": "Calcium Magnesium Zinc with D3, K2 & B12",
+        "form": "Tablet",
+        "type": "Calcium citrate / magnesium hydroxide / zinc sulphate",
+        "subclass": "With D3 + K2 + B12",
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Manufacturer back label: each tablet contains calcium citrate 1000 mg equivalent to 250 mg elemental calcium, magnesium 100 mg (as hydroxide), zinc 4 mg (as sulphate), D3 200 IU and K2 55 micrograms.",
+        "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities.",
+        "packCount": 60,
+        "calciumMg": 250,
+        "magnesiumMg": 100,
+        "zincMg": 4,
+        "calciumCompoundMg": 1000,
+        "vitaminDIu": 200,
+        "vitaminK2Mcg": 55,
+        "energyPerServing": 0.36,
+        "mineralBasis": "elemental",
+        "declaredActives": [
+          "calcium",
+          "magnesium",
+          "zinc"
+        ],
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0708/2527/9767/files/calcim_back.jpg?v=1754980275"
+        ],
+        "id": "zmc-51709055729943",
+        "price": 350,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://nveda.in/products/nveda-calcium-complex-single-pack?variant=51709055729943",
+        "nutritionUrl": "https://nveda.in/products/nveda-calcium-complex-single-pack",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-10-29",
+        "declaredNutrients": [
+          "calciumMg",
+          "magnesiumMg",
+          "zincMg",
+          "vitaminDMcg",
+          "vitaminB12Mcg",
+          "vitaminK2Mcg"
+        ],
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nveda.in/products/nveda-calcium-complex-single-pack?variant=51709055729943",
+          "evidenceUrl": "https://nveda.in/products/nveda-calcium-complex-single-pack.json",
+          "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3736,
+      "observation": {
+        "category": "zmc",
+        "offerId": "zmc-51709055729943",
+        "date": "2026-10-29",
+        "price": 325,
+        "currency": "INR",
+        "sourceUrl": "https://nveda.in/products/nveda-calcium-complex-single-pack?variant=51709055729943",
+        "evidenceUrl": "https://nveda.in/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "51709055729943"
+      }
+    },
+    {
+      "order": 3918,
+      "observation": {
+        "category": "zmc",
+        "offerId": "zmc-51709055729943",
+        "date": "2026-11-19",
+        "price": 350,
+        "currency": "INR",
+        "sourceUrl": "https://nveda.in/products/nveda-calcium-complex-single-pack?variant=51709055729943",
+        "evidenceUrl": "https://nveda.in/products/nveda-calcium-complex-single-pack.json",
+        "kind": "official-live",
+        "variantId": "51709055729943",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 28,
+      "profile": {
+        "category": "zmc",
+        "brand": "NVEDA",
+        "base": "https://nveda.in",
+        "handle": "nveda-calcium-complex-single-pack",
+        "product": "Calcium Magnesium Zinc with D3, K2 & B12",
+        "form": "Tablet",
+        "type": "Calcium citrate / magnesium hydroxide / zinc sulphate",
+        "subclass": "With D3 + K2 + B12",
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Manufacturer back label: each tablet contains calcium citrate 1000 mg equivalent to 250 mg elemental calcium, magnesium 100 mg (as hydroxide), zinc 4 mg (as sulphate), D3 200 IU and K2 55 micrograms.",
+        "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities.",
+        "packCount": 60,
+        "calciumMg": 250,
+        "magnesiumMg": 100,
+        "zincMg": 4,
+        "calciumCompoundMg": 1000,
+        "vitaminDIu": 200,
+        "vitaminK2Mcg": 55,
+        "energyPerServing": 0.36,
+        "mineralBasis": "elemental",
+        "declaredActives": [
+          "calcium",
+          "magnesium",
+          "zinc"
+        ],
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0708/2527/9767/files/calcim_back.jpg?v=1754980275"
+        ]
+      }
+    }
+  ]
+}

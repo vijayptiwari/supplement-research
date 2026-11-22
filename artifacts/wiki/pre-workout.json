@@ -1,0 +1,365 @@
+{
+  "schemaVersion": 1,
+  "order": 17,
+  "category": {
+    "id": "pre-workout",
+    "label": "Pre-workout",
+    "file": "pre-workout.json",
+    "page": "pre-workout.html",
+    "measurement": "units",
+    "supportsPowder": true,
+    "mainNutrient": "multi",
+    "referenceQuantity": 1,
+    "referenceUnit": "label serving",
+    "compoundLabel": "labelled pre-workout profile",
+    "nutrientFields": [
+      {
+        "key": "caffeineMg",
+        "label": "Total caffeine (when established)",
+        "unit": "mg",
+        "table": true
+      },
+      {
+        "key": "caffeineAnhydrousMg",
+        "label": "Caffeine anhydrous (component)",
+        "unit": "mg",
+        "table": true
+      },
+      {
+        "key": "citrullineMg",
+        "label": "L-citrulline",
+        "unit": "mg",
+        "table": true
+      },
+      {
+        "key": "citrullineMalateMg",
+        "label": "Citrulline malate",
+        "unit": "mg",
+        "table": true
+      },
+      {
+        "key": "betaAlanineMg",
+        "label": "Beta-alanine",
+        "unit": "mg",
+        "table": true
+      },
+      {
+        "key": "creatineMg",
+        "label": "Declared creatine",
+        "unit": "mg",
+        "table": true
+      },
+      {
+        "key": "arginineMg",
+        "label": "L-arginine",
+        "unit": "mg",
+        "table": false
+      },
+      {
+        "key": "taurineMg",
+        "label": "Taurine",
+        "unit": "mg",
+        "table": false
+      },
+      {
+        "key": "bcaaMg",
+        "label": "BCAA total",
+        "unit": "mg",
+        "table": false
+      },
+      {
+        "key": "eaaMg",
+        "label": "EAA total",
+        "unit": "mg",
+        "table": false
+      },
+      {
+        "key": "caffeineComponentMg",
+        "label": "Declared caffeine component (total not established)",
+        "unit": "mg",
+        "table": false
+      },
+      {
+        "key": "arginineCompoundMg",
+        "label": "Arginine compound (not free arginine)",
+        "unit": "mg",
+        "table": false
+      },
+      {
+        "key": "carnitineCompoundMg",
+        "label": "Carnitine compound (not free carnitine)",
+        "unit": "mg",
+        "table": false
+      },
+      {
+        "key": "ashwagandhaMg",
+        "label": "Ashwagandha material",
+        "unit": "mg",
+        "table": false
+      }
+    ],
+    "comparisonNote": "Pre-workout is a multi-ingredient product class, not one active ingredient. Serving cost does not measure efficacy or completeness. Caffeine, citrulline, citrulline malate and other actives stay separate; proprietary blend weights are not allocated to individual ingredients. Check all stimulant sources, existing creatine/amino acids and exact formula notes.",
+    "searchAliases": [
+      "preworkout",
+      "pre workout",
+      "pre workouts",
+      "preworkouts"
+    ],
+    "extraFacets": [
+      [
+        "stimulantStatus",
+        "Caffeine status"
+      ]
+    ]
+  },
+  "catalog": {
+    "checked": "2026-11-20",
+    "category": "pre-workout"
+  },
+  "guide": {
+    "id": "pre-workout-guide",
+    "category": "pre-workout",
+    "title": "Pre-workout: read the formula before the promise",
+    "summary": "Pre-workout describes a use and product category, not one active ingredient. Caffeinated, stimulant-free and proprietary blends can be very different.",
+    "evidence": "Some tested blends improve selected exercise or mood outcomes; results for strength and power are mixed. Caffeine has its own performance evidence, particularly for endurance, but this does not validate every formula or show that a blend is better than its ingredients.",
+    "limitations": "Research is formulation-specific and much safety follow-up is short. Benefits and adverse effects depend on the amounts, training context and person. An undisclosed blend cannot be assumed to match a studied product.",
+    "catalogReading": "Read the exact serving and caffeine from all disclosed sources, plus individually labelled creatine, arginine and other actives. Total blend mass is not an active-strength score. Check overlap with separate supplements, coffee, energy drinks and another pre-workout; unknown caffeine stays unknown.",
+    "safety": "Stimulants can disturb sleep, worsen anxiety or cause palpitations. Medicines, cardiovascular conditions and caffeine sensitivity warrant review. These are not automatic options for children or pregnancy. Do not dry scoop: inhaling or swallowing dry powder can cause choking and breathing problems.",
+    "sourceIds": [
+      "preworkout-review",
+      "caffeine-position",
+      "preworkout-dryscoop",
+      "exercise",
+      "creatine-position",
+      "food-performance-watermelon",
+      "caffeine-fda",
+      "supplement-quality-ods"
+    ],
+    "reviewed": "2026-11-18",
+    "author": "Supplement Research editorial synthesis",
+    "bodySteps": [
+      "Each ingredient is absorbed and processed separately; there is no single pre-workout pathway in the body.",
+      "Caffeine, when present, acts mainly through adenosine signalling and can reduce perceived effort. Creatine supports phosphocreatine stores over repeated use rather than explaining every immediate sensation.",
+      "Other ingredients act through different pathways. Feeling stimulated or tingling does not establish that the formula improves a useful exercise outcome."
+    ],
+    "bodySources": [
+      "caffeine-position",
+      "creatine-position",
+      "preworkout-review"
+    ],
+    "treatment": "Pre-workout is not a treatment for persistent fatigue, low motivation or a medical cause of poor performance. Assess sleep, food, training load and ongoing symptoms rather than repeatedly increasing stimulants.",
+    "whoMayBenefit": "Some adults with a defined performance objective may consider an optional, transparently labelled ingredient after reviewing evidence and risks. The category itself does not identify who benefits or establish a need for a multi-ingredient product.",
+    "routineUse": "No universal pre-workout requirement exists. Review total stimulant exposure and duplicate creatine or arginine before combining products. These categories are options to assess, not instructions to take every item together.",
+    "sectionSources": [
+      "preworkout-review",
+      "caffeine-position",
+      "preworkout-dryscoop",
+      "exercise"
+    ],
+    "buyingGuide": {
+      "whoCanConsider": [
+        "Healthy adults with a defined exercise-performance objective can consider a transparently labelled formulation after checking ingredient-specific evidence.",
+        "Adults who already tolerate caffeine and have a relevant performance goal can compare a caffeine-containing formula with simpler options; more ingredients are not automatically useful."
+      ],
+      "whoShouldReview": [
+        "Under-18s and people who are pregnant or breastfeeding need professional guidance and should not default to adult stimulant blends.",
+        "People with cardiovascular conditions, palpitations, anxiety, sleep problems, kidney conditions or regular medicines need individual review.",
+        "Anyone using coffee, energy drinks, caffeine tablets or another pre-workout needs to review total stimulant exposure and duplicate actives.",
+        "Competition athletes should review current sport rules and independently verified batch information; a category label does not certify contents."
+      ],
+      "foodSummary": "There is no single whole-food equivalent of a pre-workout blend. Foods and beverages can provide individual components, but their amounts and effects do not reproduce an arbitrary supplement formula.",
+      "foods": [
+        {
+          "name": "Black brewed coffee, US reference range",
+          "relationship": "different-form",
+          "detail": "Caffeine varies with beans and preparation. Coffee is one source of caffeine, not a complete pre-workout formula or a universal cup value.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": null,
+          "amounts": [
+            {
+              "nutrient": "Caffeine",
+              "min": 113,
+              "max": 247,
+              "unit": "mg",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "12 US fluid ounces"
+              },
+              "sourceIds": [
+                "caffeine-fda"
+              ]
+            }
+          ]
+        }
+      ],
+      "foodSourceIds": [
+        "caffeine-position",
+        "exercise",
+        "creatine-position",
+        "food-performance-watermelon",
+        "caffeine-fda"
+      ],
+      "value": {
+        "routineScore": 2,
+        "targetedScore": 3,
+        "targetedUse": "An adult with a defined performance goal where one or more disclosed ingredients are relevant, with total stimulant exposure and health context already reviewed.",
+        "reason": "Selected ingredients can have evidence, but the category is heterogeneous. A complex blend has not automatically been shown better than a simpler ingredient, and unknown amounts prevent a useful comparison.",
+        "worthWhen": [
+          "The exact serving and relevant ingredient amounts are disclosed and match the intended evidence context.",
+          "The formulation offers practical value beyond simpler options, with no unnecessary stimulant or active overlap."
+        ],
+        "skipWhen": [
+          "Caffeine or key active amounts are unknown, or a proprietary-blend total is being treated as an efficacy score.",
+          "The purchase compensates for inadequate sleep, food or a medical cause of fatigue.",
+          "It duplicates another stimulant product or is chosen for the strongest sensation or most ingredients."
+        ],
+        "evidence": "mixed",
+        "scope": "This is a category-level assessment of an appropriately selected transparent adult formulation. It is not a rating of every stimulant-free or caffeinated blend, and it cannot certify a product as safe.",
+        "sourceIds": [
+          "preworkout-review",
+          "caffeine-position",
+          "exercise",
+          "preworkout-dryscoop"
+        ]
+      },
+      "reviewed": "2026-11-18",
+      "practices": {
+        "dos": [
+          {
+            "title": "Read the exact ingredient serving",
+            "detail": "Check individually declared actives and caffeine from all sources; unknown caffeine prevents a reliable complete total."
+          },
+          {
+            "title": "Audit the whole stack",
+            "detail": "Include coffee, energy drinks and separate actives when reviewing overlap and practical value beyond simpler options."
+          }
+        ],
+        "donts": [
+          {
+            "title": "Don't buy blend mass or sensation",
+            "detail": "More ingredients, a larger blend or a stronger feeling does not establish better efficacy or suitability."
+          },
+          {
+            "title": "Don't use stimulants to cover persistent fatigue",
+            "detail": "Review sleep, food and the cause of ongoing symptoms instead of repeatedly escalating stimulant products."
+          },
+          {
+            "title": "Don't dry scoop",
+            "detail": "Swallowing or inhaling dry powder can cause choking and breathing problems."
+          }
+        ],
+        "sourceIds": [
+          "preworkout-review",
+          "caffeine-position",
+          "preworkout-dryscoop",
+          "exercise"
+        ]
+      }
+    },
+    "intakeGuide": {
+      "kind": "no-established-target",
+      "summary": "There is no target number of scoops for a product class. Assess each declared ingredient and all caffeine sources.",
+      "targets": [],
+      "limits": [
+        {
+          "key": "caffeineMg",
+          "label": "FDA adult caffeine benchmark",
+          "max": 400,
+          "unit": "mg",
+          "basis": "total-daily",
+          "minAge": 19,
+          "maxAge": null,
+          "notes": "All sources combined, including coffee and energy drinks. This is not a formal UL, a performance target or a guarantee of tolerability. Some adults need much less.",
+          "sourceIds": [
+            "caffeine-fda"
+          ]
+        }
+      ],
+      "notes": [
+        "No automatic dose increase is assigned for training frequency or experience."
+      ],
+      "sourceIds": [
+        "caffeine-fda"
+      ],
+      "reviewed": "2026-11-17"
+    },
+    "medicalGuide": {
+      "summary": "Condition-specific evidence, separate from sports benefits and purchase priority.",
+      "conditions": [
+        {
+          "condition": "Persistent fatigue",
+          "level": "insufficient",
+          "findings": "A stimulant blend does not treat the cause of persistent fatigue. Increasing stimulants can mask a need for assessment.",
+          "limits": "Pre-workout is not a treatment for persistent fatigue, low motivation or a medical cause of poor performance. Assess sleep, food, training load and ongoing symptoms rather than repeatedly increasing stimulants.",
+          "sourceIds": [
+            "preworkout-review",
+            "caffeine-position",
+            "preworkout-dryscoop",
+            "exercise"
+          ]
+        }
+      ],
+      "reviewed": "2026-11-17"
+    },
+    "pathway": {
+      "title": "A blend has separate ingredient pathways",
+      "summary": "These are conditional examples. Use a track only when the product actually contains that ingredient; the formula and disclosed dose determine which mechanisms are relevant.",
+      "tracks": [
+        {
+          "label": "If the formula contains caffeine",
+          "steps": [
+            {
+              "label": "Caffeine reaches the nervous system",
+              "detail": "After absorption, caffeine can enter the brain; the exposure depends on dose and individual metabolism.",
+              "compartment": "Brain",
+              "icon": "brain"
+            },
+            {
+              "label": "Caffeine blocks adenosine receptor signalling",
+              "detail": "Caffeine acts as an adenosine-receptor antagonist, reducing some of adenosine's inhibitory signalling.",
+              "compartment": "Brain",
+              "icon": "signal"
+            },
+            {
+              "label": "Alertness and perceived effort change",
+              "detail": "Central effects can influence alertness and effort perception; performance response and unwanted stimulation vary between people.",
+              "compartment": "Nervous system",
+              "icon": "brain"
+            }
+          ]
+        },
+        {
+          "label": "If the formula contains creatine",
+          "steps": [
+            {
+              "label": "Muscle stores receive available creatine",
+              "detail": "Repeated adequate intake can increase muscle creatine stores; this is not simply an immediate stimulant effect.",
+              "compartment": "Muscle",
+              "icon": "muscle"
+            },
+            {
+              "label": "Creatine kinase builds phosphocreatine reserves",
+              "detail": "Creatine can receive a phosphate from ATP, creating phosphocreatine as part of a reversible energy-transfer system.",
+              "compartment": "Muscle",
+              "icon": "molecule"
+            },
+            {
+              "label": "Phosphocreatine helps regenerate working ATP",
+              "detail": "When energy demand rises, phosphate transfer to ADP helps maintain ATP availability during brief, intense effort.",
+              "compartment": "Muscle",
+              "icon": "energy"
+            }
+          ]
+        }
+      ],
+      "caveat": "No single pathway describes every pre-workout. Undisclosed or inadequate ingredient amounts cannot be judged from the blend name, stimulation or tingling.",
+      "sourceIds": [
+        "preworkout-review",
+        "caffeine-position",
+        "creatine-position"
+      ]
+    }
+  }
+}

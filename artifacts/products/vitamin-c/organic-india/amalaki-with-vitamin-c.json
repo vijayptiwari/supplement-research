@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "category": "vitamin-c",
+  "brand": "Organic India",
+  "product": "Amalaki with Vitamin C",
+  "variants": [
+    {
+      "order": 8,
+      "offer": {
+        "brand": "Organic India",
+        "product": "Amalaki with Vitamin C",
+        "form": "Capsule",
+        "type": "Whole amla",
+        "subclass": "Whole herb",
+        "servingUnits": null,
+        "source": "Amla",
+        "basis": "Official selected retail variant contains 60 capsules; the formulation is described as whole desi amla.",
+        "notes": "The page does not provide a verified vitamin C amount or fixed label serving. Whole amla mass is not treated as vitamin C mass; active-content cost remains unknown.",
+        "labelChecked": "2026-10-31",
+        "vitaminCMg": null,
+        "id": "vitamin-c-51170856403261",
+        "packCount": 60,
+        "price": 225,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://organicindia.com/products/amalaki-capsules?variant=51170856403261",
+        "nutritionUrl": "https://organicindia.com/products/amalaki-capsules",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://organicindia.com/products/amalaki-capsules?variant=51170856403261",
+          "evidenceUrl": "https://organicindia.com/products/amalaki-capsules.json",
+          "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3778,
+      "observation": {
+        "category": "vitamin-c",
+        "offerId": "vitamin-c-51170856403261",
+        "date": "2026-10-31",
+        "price": 236,
+        "currency": "INR",
+        "sourceUrl": "https://organicindia.com/products/amalaki-capsules?variant=51170856403261",
+        "evidenceUrl": "https://organicindia.com/products/amalaki-capsules.json",
+        "kind": "official-live",
+        "variantId": "51170856403261",
+        "matchBasis": "Official Shopify product JSON exact variant ID; single-pack count verified. Availability separately checked against exact-variant official HTML structured data where available."
+      }
+    },
+    {
+      "order": 3935,
+      "observation": {
+        "category": "vitamin-c",
+        "offerId": "vitamin-c-51170856403261",
+        "date": "2026-11-19",
+        "price": 225,
+        "currency": "INR",
+        "sourceUrl": "https://organicindia.com/products/amalaki-capsules?variant=51170856403261",
+        "evidenceUrl": "https://organicindia.com/products/amalaki-capsules.json",
+        "kind": "official-live",
+        "variantId": "51170856403261",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 63,
+      "profile": {
+        "category": "vitamin-c",
+        "brand": "Organic India",
+        "base": "https://organicindia.com",
+        "handle": "amalaki-capsules",
+        "product": "Amalaki with Vitamin C",
+        "form": "Capsule",
+        "type": "Whole amla",
+        "subclass": "Whole herb",
+        "servingUnits": null,
+        "source": "Amla",
+        "basis": "Official selected retail variant contains 60 capsules; the formulation is described as whole desi amla.",
+        "notes": "The page does not provide a verified vitamin C amount or fixed label serving. Whole amla mass is not treated as vitamin C mass; active-content cost remains unknown.",
+        "labelChecked": "2026-10-31",
+        "vitaminCMg": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "category": "l-arginine",
+  "brand": "AS-IT-IS Nutrition",
+  "product": "ONE L-Arginine Powder",
+  "variants": [
+    {
+      "order": 7,
+      "offer": {
+        "brand": "AS-IT-IS Nutrition",
+        "product": "ONE L-Arginine Powder",
+        "form": "Powder",
+        "type": "L-arginine",
+        "subclass": "Single amino acid",
+        "source": "Not specified",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "basis": "Official FAQ states single-ingredient unflavoured powder, 2.5 g serving (half scoop) providing 2.5 g L-arginine; exact pack is 250 g.",
+        "notes": "The labelled serving is a half scoop of 2.5 g, not a full scoop.",
+        "labelChecked": "2026-11-17",
+        "grams": 250,
+        "servingGrams": 2.5,
+        "arginineMg": 2500,
+        "energyPerServing": null,
+        "labelSources": [
+          "https://asitisnutrition.com/products/buy-l-arginine-powder-for-muscle-building-endurance"
+        ],
+        "id": "l-arginine-7288856182835",
+        "price": 533,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://asitisnutrition.com/products/buy-l-arginine-powder-for-muscle-building-endurance?variant=7288856182835",
+        "nutritionUrl": "https://asitisnutrition.com/products/buy-l-arginine-powder-for-muscle-building-endurance",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://asitisnutrition.com/products/buy-l-arginine-powder-for-muscle-building-endurance?variant=7288856182835",
+          "evidenceUrl": "https://asitisnutrition.com/products/buy-l-arginine-powder-for-muscle-building-endurance.json",
+          "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3802,
+      "observation": {
+        "category": "l-arginine",
+        "offerId": "l-arginine-7288856182835",
+        "date": "2026-11-17",
+        "price": 533,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/buy-l-arginine-powder-for-muscle-building-endurance?variant=7288856182835",
+        "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Directly fetched official Shopify feed; exact variant ID, flavour and single retail pack verified against official product page. Conditional discounts excluded.",
+        "variantId": "7288856182835"
+      }
+    },
+    {
+      "order": 3996,
+      "observation": {
+        "category": "l-arginine",
+        "offerId": "l-arginine-7288856182835",
+        "date": "2026-11-19",
+        "price": 533,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/buy-l-arginine-powder-for-muscle-building-endurance?variant=7288856182835",
+        "evidenceUrl": "https://asitisnutrition.com/products/buy-l-arginine-powder-for-muscle-building-endurance.json",
+        "kind": "official-live",
+        "variantId": "7288856182835",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 86,
+      "profile": {
+        "category": "l-arginine",
+        "brand": "AS-IT-IS Nutrition",
+        "base": "https://asitisnutrition.com",
+        "handle": "buy-l-arginine-powder-for-muscle-building-endurance",
+        "product": "ONE L-Arginine Powder",
+        "form": "Powder",
+        "type": "L-arginine",
+        "subclass": "Single amino acid",
+        "source": "Not specified",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "basis": "Official FAQ states single-ingredient unflavoured powder, 2.5 g serving (half scoop) providing 2.5 g L-arginine; exact pack is 250 g.",
+        "notes": "The labelled serving is a half scoop of 2.5 g, not a full scoop.",
+        "labelChecked": "2026-11-17",
+        "variantIds": [
+          "7288856182835"
+        ],
+        "grams": 250,
+        "servingGrams": 2.5,
+        "arginineMg": 2500,
+        "energyPerServing": null,
+        "labelSources": [
+          "https://asitisnutrition.com/products/buy-l-arginine-powder-for-muscle-building-endurance"
+        ]
+      }
+    }
+  ]
+}

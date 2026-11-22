@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "MuscleBlaze",
+  "product": "100% Whey Protein Supplement Powder with Digestive Enzyme",
+  "variants": [
+    {
+      "order": 231,
+      "offer": {
+        "id": 231,
+        "brand": "MuscleBlaze",
+        "product": "100% Whey Protein Supplement Powder with Digestive Enzyme",
+        "type": "Whey — blend",
+        "flavour": "57 Servings (Rich Milk Chocolate)",
+        "kg": 2,
+        "price": 9499,
+        "stock": "In stock",
+        "protein": 72,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey blend",
+        "energy": 394.39,
+        "url": "https://www.muscleblaze.com/sv/muscleblaze-100-whey-protein-supplement-powder-with-digestive-enzyme/SP-33626?navKey=VRNT-72753",
+        "nutritionUrl": "https://www.muscleblaze.com/sv/muscleblaze-100-whey-protein-supplement-powder-with-digestive-enzyme/SP-33626?navKey=VRNT-72753",
+        "basis": "Exact variant nutrition table, protein per 100g",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Exact page nutrition table, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-100-whey-protein-supplement-powder-with-digestive-enzyme/SP-33626?navKey=VRNT-72753",
+          "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-100-whey-protein-supplement-powder-with-digestive-enzyme/SP-33626?navKey=VRNT-72753",
+          "matchBasis": "Official selected product schema SKU matches exact navigation key"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 494,
+      "observation": {
+        "category": "protein",
+        "offerId": 231,
+        "date": "2026-08-08",
+        "price": 9499,
+        "currency": "INR",
+        "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-100-whey-protein-supplement-powder-with-digestive-enzyme/SP-33626?navKey=VRNT-72753",
+        "evidenceUrl": "https://web.archive.org/web/20260808101127id_/https://www.muscleblaze.com/sv/muscleblaze-100-whey-protein-supplement-powder-with-digestive-enzyme/SP-33626",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "VRNT-72753",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2420,
+      "observation": {
+        "category": "protein",
+        "offerId": 231,
+        "date": "2026-10-25",
+        "price": 9499,
+        "currency": "INR",
+        "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-100-whey-protein-supplement-powder-with-digestive-enzyme/SP-33626?navKey=VRNT-72753",
+        "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-100-whey-protein-supplement-powder-with-digestive-enzyme/SP-33626?navKey=VRNT-72753",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "VRNT-72753"
+      }
+    },
+    {
+      "order": 4279,
+      "observation": {
+        "category": "protein",
+        "offerId": 231,
+        "date": "2026-11-19",
+        "price": 9499,
+        "currency": "INR",
+        "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-100-whey-protein-supplement-powder-with-digestive-enzyme/SP-33626?navKey=VRNT-72753",
+        "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-100-whey-protein-supplement-powder-with-digestive-enzyme/SP-33626?navKey=VRNT-72753",
+        "kind": "official-live",
+        "matchBasis": "Official selected product schema SKU matches exact navigation key",
+        "variantId": "VRNT-72753"
+      }
+    }
+  ],
+  "refreshSources": []
+}

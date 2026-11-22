@@ -1,0 +1,142 @@
+{
+  "schemaVersion": 1,
+  "reviewed": "2026-11-18",
+  "scope": "Curated educational guides and selected references; not a systematic or exhaustive review. Biological mechanisms do not by themselves prove clinical benefit. Nutrient requirements, deficiency treatment and routine supplement use are different questions. Research does not endorse catalog brands. Individual and pediatric care require appropriate professional guidance; international findings may not generalize to every Indian product or population.",
+  "valuePolicy": {
+    "schemaVersion": 1,
+    "name": "Supplement purchase priority",
+    "reviewed": "2026-11-17",
+    "baseline": "Routine ratings assume a generally healthy adult fitness reader with adequate food intake and no identified deficiency or clinical indication.",
+    "summary": "The second rating applies only to the need and formulation stated in each guide.",
+    "method": "These 1–5 scores are editorial judgments about purchase priority, informed by the cited evidence, likely added benefit over food, uncertainty and the stated use case. They are not published trial scores, a validated clinical scale, brand-quality tests or safety certification. The targeted score applies only to its named need and formulation. It does not establish that you have that need or that every catalog product meets it. Compare each exact label, current pack cost and individual circumstances before deciding.",
+    "evidenceLabels": {
+      "strong": "Stronger supporting evidence for the stated use",
+      "moderate": "Moderate supporting evidence",
+      "limited": "Limited supporting evidence",
+      "mixed": "Mixed or context-dependent evidence"
+    },
+    "scale": [
+      {
+        "score": 1,
+        "label": "Usually skip",
+        "description": "Little reason to buy for this context; a separate supplement is usually unnecessary."
+      },
+      {
+        "score": 2,
+        "label": "Low priority",
+        "description": "Added value is limited or uncertain; food, habits or a simpler option may already cover the need."
+      },
+      {
+        "score": 3,
+        "label": "Situational",
+        "description": "May be worth considering for a narrow purpose after reviewing the limitations, form and cost."
+      },
+      {
+        "score": 4,
+        "label": "Worth considering",
+        "description": "A reasonable purchase when the stated need is established and the exact product fits it."
+      },
+      {
+        "score": 5,
+        "label": "Strong case for a stated need",
+        "description": "A strong evidence-based reason exists in this defined context; appropriate formulation and professional care still matter where relevant."
+      }
+    ]
+  },
+  "intakePolicy": {
+    "reviewed": "2026-11-17",
+    "profiles": [
+      {
+        "id": "everyday",
+        "label": "Everyday health",
+        "description": "No structured training; includes ordinary daily activity."
+      },
+      {
+        "id": "general-fitness",
+        "label": "General fitness",
+        "description": "Recreational activity with modest training demands."
+      },
+      {
+        "id": "strength-power",
+        "label": "Strength & power",
+        "description": "Resistance training and powerlifting, at any experience level."
+      },
+      {
+        "id": "hypertrophy",
+        "label": "Muscle gain",
+        "description": "Bodybuilding and resistance training focused on hypertrophy."
+      },
+      {
+        "id": "endurance",
+        "label": "Endurance",
+        "description": "Running, cycling, swimming and sustained aerobic training."
+      },
+      {
+        "id": "hybrid",
+        "label": "Hybrid & repeated intensity",
+        "description": "HYROX, CrossFit and mixed strength/endurance demands."
+      }
+    ],
+    "ageBands": [
+      {
+        "value": 19,
+        "label": "19–30 years"
+      },
+      {
+        "value": 31,
+        "label": "31–50 years"
+      },
+      {
+        "value": 51,
+        "label": "51–70 years"
+      },
+      {
+        "value": 71,
+        "label": "71+ years"
+      }
+    ],
+    "baseline": "Educational references for generally healthy, nonpregnant adults aged 19+. Micronutrient RDA/AI and UL values use US National Academies references reported by NIH ODS; they are not Indian RDA values or treatment doses.",
+    "loadNote": "Session count and duration describe workload. Two, three or five sessions alone cannot determine a supplement dose. Intensity, diet, energy intake and recovery also matter.",
+    "experienceNote": "Beginner, intermediate and advanced are training descriptions, not dosing tiers. Powerlifting maps to strength; bodybuilding to muscle gain; HYROX and CrossFit to hybrid.",
+    "sourceIds": [
+      "exercise",
+      "creatine-position",
+      "beta-alanine-position"
+    ],
+    "foodNote": "Approximate source-specific food composition. Amounts retain the cited preparation and serving; per 100 g refers to edible food. Food quantities are not supplement-dose equivalents.",
+    "aggregateNote": "Totals include only exact products and daily quantities you enter. Food, drinks, medicines, other products and undeclared label ingredients remain outside these totals. Missing values are unknown, never zero."
+  },
+  "medicalPolicy": {
+    "reviewed": "2026-11-17",
+    "summary": "Evidence applies to the specified condition, formulation and population. A biological role or improved laboratory marker does not establish a cure. These entries inform a discussion with a clinician and never select a disease-treatment stack.",
+    "levels": {
+      "established": "Established for the stated indication",
+      "conditional": "Supportive or context-specific",
+      "mixed": "Mixed or emerging evidence",
+      "insufficient": "Not established as treatment"
+    }
+  },
+  "educationPolicy": {
+    "reviewed": "2026-11-18",
+    "summary": "Start with how the ingredient works, decide whether it is relevant, understand responsible use, and learn the buying checks before exploring products.",
+    "handoff": "A product is useful only when it fits a real need, an appropriate formulation and your budget. You can finish this guide and decide that no purchase is needed.",
+    "qualityTitle": "Check the evidence behind a quality premium",
+    "qualityNote": "If a product claims independent testing, check the issuing organization and what the test actually covers. A declared concentration or a manufacturing logo alone does not establish independent testing of your batch. A quality-testing seal does not guarantee safety or effectiveness. Our catalog field checks do not verify every laboratory report; treat missing testing evidence as unverified.",
+    "qualitySourceIds": [
+      "supplement-quality-ods"
+    ]
+  },
+  "pathwayPolicy": {
+    "reviewed": "2026-11-18",
+    "summary": "Simplified educational schematics of selected routes, not complete biochemical maps. Arrows show processing or biological roles, not the size of a supplement benefit, a diagnosis or a treatment recommendation. Ingredient mixtures and uncertain human pathways are labelled explicitly."
+  },
+  "editorial": {
+    "reviewed": "2026-11-18",
+    "description": "Cited articles across every supplement category: understand ingredient forms, examine health and performance claims, and make practical buying decisions with clear study limits.",
+    "coveragePolicy": {
+      "reviewed": "2026-11-18",
+      "summary": "Articles answer distinct questions with practical reader value. New wiki categories and independent articles do not require a fixed article quota. The substantive reading minimum supports useful coverage but does not substitute for editorial and source review.",
+      "minimumNarrativeWords": 600
+    }
+  }
+}

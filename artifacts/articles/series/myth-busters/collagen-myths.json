@@ -1,0 +1,146 @@
+{
+  "schemaVersion": 1,
+  "order": 72,
+  "article": {
+    "id": "collagen-myths",
+    "category": "collagen",
+    "series": "myth-busters",
+    "title": "10 collagen myths: skin promises, joint claims and protein quality",
+    "summary": "Check what collagen studies measure, which claims go beyond them, and why form, source and an attractive before-and-after picture are different kinds of evidence.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "Collagen is a real structural protein and a popular supplement category. Neither fact means that every collagen product repairs the tissue pictured on its packaging. Different preparations are studied for different purposes, and a useful explanation needs to separate normal biology, a laboratory marker, a reported symptom and a result that matters over time. These ten claims focus on oral products. Evidence for an injected treatment, a wound dressing or a cell-culture experiment cannot simply be transferred to a drink.",
+    "sections": [
+      {
+        "id": "keep-the-outcome",
+        "title": "A benefit claim is only as specific as its outcome",
+        "body": "Less reported pain is not proof of new cartilage. Greater bone density is not the same outcome as fewer fractures. One collagen trial in postmenopausal women measured bone density and turnover over a year; it did not establish that a retail supplement can replace osteoporosis care. Ask which endpoint improved and whether the population, ingredient and duration match the advertised claim.",
+        "sourceIds": [
+          "collagen-editorial-bone"
+        ]
+      },
+      {
+        "id": "evaluate-trial",
+        "title": "Separate a helpful signal from a buying guarantee",
+        "body": "A trial may justify further research without settling a whole product category. Check randomization, the comparison group, participant numbers, dropouts and whether outcomes were chosen in advance. For example, an athlete joint-discomfort trial evaluated a hydrolysate over months. It does not validate every joint powder, a different collagen preparation or a promise that healthy users will avoid injury.",
+        "sourceIds": [
+          "comparison-collagen-joint-clark-2008"
+        ]
+      },
+      {
+        "id": "buying-order",
+        "title": "Decide what you need before comparing the pack",
+        "body": "Identify the purpose, exact ingredient, source and full serving. Compare the price only after those match. Ask what any quality certificate actually tests: identity, declared content or selected contaminants are different from clinical effectiveness. A batch report cannot guarantee the result of a long-term health claim, and the research cited here does not endorse a catalog brand.",
+        "sourceIds": [
+          "supplement-quality-ods"
+        ]
+      }
+    ],
+    "myths": [
+      {
+        "claim": "A collagen drink travels intact to the skin or joint named on the label.",
+        "verdict": "The destination story is misleading.",
+        "explanation": "Food proteins undergo digestion. Human studies have detected selected small collagen-derived peptides in blood after hydrolysates, alongside normal amino-acid handling. That is different from demonstrating that an intact collagen fibre survives digestion and is delivered to a chosen wrinkle or knee. A type number or body-part illustration does not establish tissue homing. Clinical outcomes still need to be tested separately.",
+        "sourceIds": [
+          "digestion",
+          "collagen-absorption-iwai-2005"
+        ]
+      },
+      {
+        "claim": "Marine collagen is automatically more effective than every land-animal collagen.",
+        "verdict": "A source name is not a clinical ranking.",
+        "explanation": "A small crossover experiment found different circulating peptide patterns after fish-scale, fish-skin and porcine preparations. It measured exposure in five men, rather than skin improvement or joint function. Such differences can generate hypotheses, but they cannot support a universal marine superiority claim. Source can matter for dietary preference and allergy; effectiveness needs an appropriate comparison of the actual products.",
+        "sourceIds": [
+          "collagen-editorial-sources"
+        ]
+      },
+      {
+        "claim": "Hydrolysed peptides, gelatin and undenatured type II collagen are interchangeable.",
+        "verdict": "False: preparation and research purpose matter.",
+        "explanation": "Hydrolysates are broken-down preparations; gelatin and native type II products have different characteristics. A small trial comparing gelatin, hydrolysate and a gummy examined short-term amino-acid and procollagen markers. A separate native type II trial assessed knee symptoms over months. Neither study provides a gram-for-gram exchange rule between those ingredients or shows that a larger hydrolysate serving replicates the native preparation.",
+        "sourceIds": [
+          "collagen-gelatin-lis-2019",
+          "collagen-editorial-native-ii"
+        ]
+      },
+      {
+        "claim": "Collagen can replace whey, other complete proteins and ordinary protein foods for building muscle.",
+        "verdict": "Protein grams do not make sources interchangeable.",
+        "explanation": "Collagen supplies protein, but its essential-amino-acid pattern differs from a complete protein. In a short controlled study in older women, whey produced greater muscle-protein-synthesis responses than collagen peptides. This does not make collagen nutritionally worthless; it means a skin or connective-tissue rationale should not be confused with meeting the whole diet's protein needs. Normal meals and adequate varied protein remain central.",
+        "sourceIds": [
+          "collagen-muscle-oikawa-2020",
+          "food-protein"
+        ]
+      },
+      {
+        "claim": "Collagen is conclusively proved to reverse skin ageing for everyone.",
+        "verdict": "The wider evidence is less certain than that claim.",
+        "explanation": "A 2025 analysis reported improvements when skin trials were pooled. However, significant benefits were absent in its higher-quality and non-pharmaceutical-company-funded subgroups. Subgroup analyses also have limits, so this does not prove that no individual or formulation can benefit. It does mean that a universal anti-ageing guarantee is unjustified. Read study quality and funding rather than counting only favourable before-and-after results.",
+        "sourceIds": [
+          "collagen-skin-meta-2025"
+        ]
+      },
+      {
+        "claim": "Improved joint pain proves that collagen regrows cartilage or cures osteoarthritis.",
+        "verdict": "A symptom result does not establish structural repair.",
+        "explanation": "A trial of one undenatured type II ingredient reported improvements in knee osteoarthritis symptom scores. That outcome is relevant to how participants felt and functioned, but it is not evidence of regenerated cartilage or a cure. Joint pain also has different causes. A product should not displace assessment, an appropriate exercise or rehabilitation plan, or prescribed care merely because its label uses a cartilage-related ingredient.",
+        "sourceIds": [
+          "collagen-editorial-native-ii"
+        ]
+      },
+      {
+        "claim": "An increase in a collagen-synthesis marker proves an injury will heal faster.",
+        "verdict": "A laboratory signal is not a recovery outcome.",
+        "explanation": "A small gelatin-and-exercise experiment explored blood markers and an engineered-ligament model. It did not demonstrate fewer injuries or a faster return to sport. Another human tracer experiment found no additional early muscle connective-protein-synthesis effect from collagen after exercise. These experiments ask useful but narrower questions. An injured tendon or ligament needs outcome-specific rehabilitation evidence, not an automatic inference from a circulating marker.",
+        "sourceIds": [
+          "collagen-gelatin-shaw-2017",
+          "collagen-editorial-muscle-connective"
+        ]
+      },
+      {
+        "claim": "A plant-based collagen builder necessarily contains the same ingredient as collagen peptides.",
+        "verdict": "Read the ingredients; the marketing name is insufficient.",
+        "explanation": "A blend of vitamin C, plant extracts or amino acids is not automatically collagen. Vitamin C has a genuine role in the body's own collagen synthesis, which is different from supplying a declared collagen ingredient. Identify what is actually present, its amount and the evidence for that preparation. A vegan or builder claim alone cannot establish composition or make a collagen-peptide trial applicable to the blend.",
+        "sourceIds": [
+          "c-overview",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "claim": "Collagen needs a vitamin C megadose to work.",
+        "verdict": "A necessary nutrient does not establish a megadose requirement.",
+        "explanation": "Vitamin C is required for normal collagen synthesis, and deficiency can impair connective tissue. That does not show that very large additional amounts improve collagen outcomes when intake is adequate. A study that combines vitamin C, gelatin and exercise also cannot isolate a universal vitamin C add-on rule. Review ordinary dietary adequacy first rather than treating the largest vitamin C figure as a collagen effectiveness score.",
+        "sourceIds": [
+          "c-overview",
+          "collagen-gelatin-shaw-2017"
+        ]
+      },
+      {
+        "claim": "Natural collagen is allergy-free and appropriate for everyone.",
+        "verdict": "Source and individual context still matter.",
+        "explanation": "Check the animal source, added ingredients and allergen information. Fish is a recognised food allergen, and a marine label should not be interpreted as an allergy exemption. Processing, flavouring and packaging claims cannot establish suitability for a particular person. Anyone considering a supplement for a medical condition, or alongside medicines, should discuss the actual formulation and purpose with the relevant treating professional.",
+        "sourceIds": [
+          "food-allergens",
+          "supplement-quality-ods"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "collagen-editorial-bone",
+      "comparison-collagen-joint-clark-2008",
+      "supplement-quality-ods",
+      "digestion",
+      "collagen-absorption-iwai-2005",
+      "collagen-editorial-sources",
+      "collagen-gelatin-lis-2019",
+      "collagen-editorial-native-ii",
+      "collagen-muscle-oikawa-2020",
+      "food-protein",
+      "collagen-skin-meta-2025",
+      "collagen-gelatin-shaw-2017",
+      "collagen-editorial-muscle-connective",
+      "c-overview",
+      "food-allergens"
+    ]
+  }
+}

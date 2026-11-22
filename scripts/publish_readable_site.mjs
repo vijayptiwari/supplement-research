@@ -45,13 +45,21 @@ function staticCatalog(c,snapshot){
 export async function publishReadableSite({source,destination,snapshot,assetVersion}){
  const read=async name=>fs.readFile(path.join(source,name),'utf8'),write=async(name,html)=>fs.writeFile(path.join(destination,name),html);
  const sourceNames=new Set(await fs.readdir(source));
+ try{const prior=JSON.parse(await fs.readFile(path.join(destination,'data/published-pages.json'),'utf8')),current=new Set(snapshot.config.categories.map(c=>c.page));for(const name of prior.categoryPages||[])if(/^[a-z][a-z0-9-]*\.html$/.test(name)&&!sourceNames.has(name)&&!current.has(name))await fs.unlink(path.join(destination,name)).catch(e=>{if(e.code!=='ENOENT')throw e;});}catch(e){if(e.code!=='ENOENT')throw e;}
  for(const name of await fs.readdir(destination))if(/^(?:article|guide)-[a-z0-9-]+\.html$/.test(name)&&!sourceNames.has(name))await fs.unlink(path.join(destination,name));
  const [articleShell,guideShell]=await Promise.all([read('articles.html'),read('research.html')]),refs=new Map(snapshot.research.sources.map(s=>[s.id,s]));
  const sitemap=[],absolute=file=>new URL(file,snapshot.config.baseUrl).href,add=(file,date)=>sitemap.push({url:absolute(file),date});
  const shellPages=['index.html','research.html','articles.html','library.html','editorial-policy.html','audit.html','recommender.html','search.html',...snapshot.config.categories.map(c=>c.page)];
  for(const file of shellPages){const c=Object.values(snapshot.categories).find(c=>c.page===file);let kind=({'index.html':'','research.html':'research','articles.html':'articles','library.html':'directory','editorial-policy.html':'policy','audit.html':'audit','recommender.html':'recommender','search.html':'search'})[file]??c?.id??'',id='';
   if(c?.educationOnly){kind='guide';id=c.id;}
-  let html=await read(file);
+  let html;
+  if(sourceNames.has(file))html=await read(file);
+  else if(c){
+   // New wiki-defined categories reuse the shared page shell automatically.
+   const template=c.educationOnly?'research.html':c.measurement==='units'?'fish-oil.html':'protein.html';html=await read(template);
+   if(c.educationOnly)html=html.replace('<body ',`<body data-default-category="${esc(c.id)}" `);
+   else html=html.replace(/data-category="[^"]*"/,`data-category="${esc(c.id)}"`).replace(/(<h2\b[^>]*id="results-title"[^>]*>)[\s\S]*?(<\/h2>)/,`$1${esc(c.label)} products$2`);
+  }else throw Error('Missing page template: '+file);
   if(file==='index.html')html=replaceMain(html,'home-content',marketHomeMarkup(snapshot));
   if(file==='research.html')html=replaceMain(html,'research-library',researchIndexMarkup(snapshot));
   if(file==='articles.html')html=replaceMain(html,'articles-library',`<header class="editorial-library-heading"><span class="section-kicker">ARTICLES &amp; EXPLAINERS</span><h1>Know what you’re buying.</h1><p>${esc(snapshot.research.editorial.description)}</p><p>${snapshot.research.editorial.articles.length} cited articles across ${snapshot.config.categories.length} supplement categories.</p><a href="library.html">Browse every article by supplement →</a></header><div class="editorial-grid">${snapshot.research.editorial.articles.map(a=>editorialCardMarkup(a,snapshot)).join('')}</div>`);
@@ -71,6 +79,7 @@ export async function publishReadableSite({source,destination,snapshot,assetVers
  for(const article of snapshot.research.articles){const c=snapshot.categories[article.category],file=guideHref(c.id),meta=contentMetadata(snapshot,{kind:'guide',id:c.id});let html=guideShell.replace('data-page="research"',`class="reading-guide" data-page="research" data-default-category="${esc(c.id)}"`);html=replaceMain(html,'research-library',guideMarkup(article,c,refs,snapshot.research.valuePolicy,snapshot.research.intakePolicy,snapshot.research.medicalPolicy,undefined,snapshot.recommender.productPolicy,snapshot.recommender.rules.find(r=>r.category===c.id),snapshot.research.educationPolicy,snapshot.research.pathwayPolicy,snapshot.research.editorial));await write(file,prepareHtml(html,meta,snapshot,assetVersion,c.id));add(file,article.reviewed);}
  const missing=contentMetadata(snapshot,{kind:'not-found'});let html=articleShell.replace('data-page="articles"','data-page="not-found"');html=replaceMain(html,'articles-library','<section class="editorial-empty"><span class="section-kicker">PAGE NOT FOUND</span><h1>This page is not available.</h1><p>Find current evidence guides and articles in the complete reading index.</p><a href="library.html">Browse all articles →</a> · <a href="research.html">Explore supplement guides →</a></section>');html=prepareHtml(html,missing,snapshot,assetVersion).replace(/((?:href|src|action)=")((?!https?:|#|\/)[^"]+)"/g,(_,a,b)=>a+esc(absolute(b.replaceAll('&amp;','&')))+'"');await write('404.html',html);
  const unique=[...new Map(sitemap.map(p=>[p.url,p])).values()];
+ await write('data/published-pages.json',JSON.stringify({categoryPages:snapshot.config.categories.map(c=>c.page)}));
  await write('sitemap.xml','<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+unique.map(p=>`<url><loc>${esc(p.url)}</loc><lastmod>${p.date}</lastmod></url>`).join('')+'</urlset>\n');
  await write('robots.txt',`User-agent: *\nAllow: /\nSitemap: ${absolute('sitemap.xml')}\n`);
  await write('seo-report.json',JSON.stringify({generatedFrom:snapshot.research.editorial.reviewed,indexableUrls:unique.length,articlePages:snapshot.research.editorial.articles.length,guidePages:snapshot.research.articles.length,canonicalUrls:unique.map(p=>p.url),notes:['Reading pages contain full HTML before JavaScript.','Legacy reading URLs resolve to published canonical pages.','Search and filter variants are not sitemap index targets.','Authorship and source limitations are stated in editorial-policy.html.']}));

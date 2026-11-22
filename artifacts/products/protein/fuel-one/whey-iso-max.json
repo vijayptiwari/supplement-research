@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "Fuel One",
+  "product": "Whey Iso-Max",
+  "variants": [
+    {
+      "order": 759,
+      "offer": {
+        "id": 759,
+        "brand": "Fuel One",
+        "product": "Whey Iso-Max",
+        "type": "Whey + fermented yeast",
+        "flavour": "Cafe Mocha",
+        "kg": 1,
+        "price": 3899,
+        "stock": "In stock",
+        "protein": 80,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Mixed source (whey + yeast)",
+        "energy": 407.94,
+        "url": "https://www.fuelone.in/sv/fuel-one-whey-iso-max/SP-122553?navKey=VRNT-246209",
+        "nutritionUrl": "https://www.fuelone.in/sv/fuel-one-whey-iso-max/SP-122553?navKey=VRNT-246209",
+        "basis": "Exact variant nutrition table, protein per 100g",
+        "notes": "Stock not independently confirmed; offer listed on official page. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Exact page nutrition table, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.fuelone.in/sv/fuel-one-whey-iso-max/SP-122553?navKey=VRNT-246209",
+          "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-whey-iso-max/SP-122553?navKey=VRNT-246209",
+          "matchBasis": "Official selected product schema SKU matches exact navigation key"
+        }
+      }
+    },
+    {
+      "order": 760,
+      "offer": {
+        "id": 760,
+        "brand": "Fuel One",
+        "product": "Whey Iso-Max",
+        "type": "Whey + fermented yeast",
+        "flavour": "Chocolate",
+        "kg": 1,
+        "price": 3899,
+        "stock": "In stock",
+        "protein": 80,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Mixed source (whey + yeast)",
+        "energy": 409.54,
+        "url": "https://www.fuelone.in/sv/fuel-one-whey-iso-max/SP-122553?navKey=VRNT-233363",
+        "nutritionUrl": "https://www.fuelone.in/sv/fuel-one-whey-iso-max/SP-122553?navKey=VRNT-233363",
+        "basis": "Exact variant nutrition table, protein per 100g",
+        "notes": "Stock not independently confirmed; offer listed on official page. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Exact page nutrition table, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.fuelone.in/sv/fuel-one-whey-iso-max/SP-122553?navKey=VRNT-233363",
+          "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-whey-iso-max/SP-122553?navKey=VRNT-233363",
+          "matchBasis": "Official selected product schema SKU matches exact navigation key"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 2948,
+      "observation": {
+        "category": "protein",
+        "offerId": 759,
+        "date": "2026-10-25",
+        "price": 3899,
+        "currency": "INR",
+        "sourceUrl": "https://www.fuelone.in/sv/fuel-one-whey-iso-max/SP-122553?navKey=VRNT-246209",
+        "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-whey-iso-max/SP-122553?navKey=VRNT-246209",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "VRNT-246209"
+      }
+    },
+    {
+      "order": 2949,
+      "observation": {
+        "category": "protein",
+        "offerId": 760,
+        "date": "2026-10-25",
+        "price": 3899,
+        "currency": "INR",
+        "sourceUrl": "https://www.fuelone.in/sv/fuel-one-whey-iso-max/SP-122553?navKey=VRNT-233363",
+        "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-whey-iso-max/SP-122553?navKey=VRNT-233363",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "VRNT-233363"
+      }
+    },
+    {
+      "order": 4806,
+      "observation": {
+        "category": "protein",
+        "offerId": 759,
+        "date": "2026-11-19",
+        "price": 3899,
+        "currency": "INR",
+        "sourceUrl": "https://www.fuelone.in/sv/fuel-one-whey-iso-max/SP-122553?navKey=VRNT-246209",
+        "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-whey-iso-max/SP-122553?navKey=VRNT-246209",
+        "kind": "official-live",
+        "matchBasis": "Official selected product schema SKU matches exact navigation key",
+        "variantId": "VRNT-246209"
+      }
+    },
+    {
+      "order": 4807,
+      "observation": {
+        "category": "protein",
+        "offerId": 760,
+        "date": "2026-11-19",
+        "price": 3899,
+        "currency": "INR",
+        "sourceUrl": "https://www.fuelone.in/sv/fuel-one-whey-iso-max/SP-122553?navKey=VRNT-233363",
+        "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-whey-iso-max/SP-122553?navKey=VRNT-233363",
+        "kind": "official-live",
+        "matchBasis": "Official selected product schema SKU matches exact navigation key",
+        "variantId": "VRNT-233363"
+      }
+    }
+  ],
+  "refreshSources": []
+}

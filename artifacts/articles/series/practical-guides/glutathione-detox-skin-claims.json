@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "order": 43,
+  "article": {
+    "id": "glutathione-detox-skin-claims",
+    "category": "glutathione",
+    "series": "practical-guides",
+    "title": "Glutathione claims: detox, skin measurements and what a study can prove",
+    "summary": "An evidence-reading guide to biomarkers, cosmetic endpoints, permanence claims and the temptation to turn normal antioxidant biology into a cure.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "Glutathione has important normal roles in cells. That fact is often used as the first step in a much larger sales story about detoxification, immunity or skin colour. Each additional claim needs its own evidence. A product can influence a measurement without producing the outcome a buyer wants, and a short cosmetic study cannot establish a permanent change or lifelong safety. The aim here is to make those distinctions usable when evaluating a claim, rather than to promise either a universal benefit or a universal absence of effect.",
+    "sections": [
+      {
+        "id": "normal-biology",
+        "title": "Start with what the body already does",
+        "body": "Cells synthesize and recycle glutathione as part of redox regulation. Normal metabolism involves enzymes, precursor availability and other interacting systems; it is not simply a storage tank that a retail product can fill without limit. A necessary physiological role does not demonstrate that an otherwise healthy person benefits from extra supplementation. To assess a purchase, move from the statement that glutathione participates in antioxidant processes to the narrower question of which outcome improved when a particular oral product was tested.",
+        "sourceIds": [
+          "gsh-metabolism",
+          "gsh-reactome-peroxidase",
+          "gsh-reactome-reductase"
+        ]
+      },
+      {
+        "id": "detox-language",
+        "title": "Ask a detox claim to name a measurable target",
+        "body": "The word detox can describe many different promises without specifying an exposure, a disease, a measurement or a clinical outcome. An informative claim should identify exactly what improved and in whom. If the support is only a general antioxidant pathway, it has not demonstrated removal of a particular toxin or prevention of a disease. Medical treatment of a known exposure is a different context from a routine beauty or wellness purchase. A vague claim should remain vague in the verdict rather than being upgraded by a familiar biochemical diagram.",
+        "sourceIds": [
+          "gsh-metabolism",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "stores-study",
+        "title": "Higher stores answer one question, not all of them",
+        "body": "The six-month oral trial found changes in glutathione measurements in several sampled compartments. That is a result about the tested intervention and measurements, not direct evidence that every participant became healthier in every relevant way. Another shorter oral trial did not improve its oxidative-stress endpoints. These results should be read together without pretending that one automatically erases the other. They also show why a manufacturer cannot convert a biomarker result into an unrelated promise about disease prevention or a guaranteed visible change.",
+        "sourceIds": [
+          "gsh-stores",
+          "gsh-oxidative"
+        ]
+      },
+      {
+        "id": "skin-trial",
+        "title": "A melanin-index difference is a limited cosmetic finding",
+        "body": "One small randomized trial measured melanin indices at several skin sites over four weeks. Some sites showed statistically significant differences from placebo, while others did not. That is more specific than a universal claim that oral glutathione reliably lightens every person's skin. It also leaves questions about the size, consistency and practical importance of a change. Read which sites and outcomes were tested, rather than treating a favourable photograph or one significant result as a complete summary of the experiment.",
+        "sourceIds": [
+          "gsh-skin"
+        ]
+      },
+      {
+        "id": "permanence",
+        "title": "A short study cannot establish permanent benefit",
+        "body": "Permanence requires follow-up that actually measures what happens after an intervention stops. A short trial showing a changing cosmetic measurement cannot supply that answer by implication. The same limitation applies to indefinite-use safety. Ask how long participants were observed, whether outcomes were maintained and whether the product and population match the proposed use. A decision to continue paying for months or years should not rest on a claim that the cited study was never designed to test.",
+        "sourceIds": [
+          "gsh-skin",
+          "gsh-stores"
+        ]
+      },
+      {
+        "id": "photos-and-multiplicity",
+        "title": "Read photographs and multiple measurements carefully",
+        "body": "Lighting, camera settings, sun exposure and the choice of a comparison image can affect how persuasive a before-and-after claim appears. A controlled trial is more useful when its methods define the measurement and comparison in advance. Even then, several sites or endpoints create several opportunities to find a favourable result, so the full pattern matters. This is an evidence-reading check, not a reason to dismiss all cosmetic research. The appropriate conclusion should remain proportional to the design and the measured differences.",
+        "sourceIds": [
+          "gsh-skin",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "health-vs-colour",
+        "title": "Separate a cosmetic preference from a health diagnosis",
+        "body": "Skin colour is not a general measure of health, and a desire for cosmetic change does not establish glutathione deficiency. Persistent or unexplained pigmentation changes need assessment of their cause rather than an automatic supplement purchase. Adequate protein nutrition supports the body's normal metabolic supply without proving that a particular food is equivalent to a glutathione product. Keep ordinary dietary adequacy, cosmetic preference and diagnosis as different questions; combining them can make a marketing claim sound more medically necessary than the evidence supports.",
+        "sourceIds": [
+          "food-gsh-protein-healthcanada",
+          "gsh-metabolism",
+          "gsh-skin"
+        ]
+      },
+      {
+        "id": "buying-verdict",
+        "title": "Use a specific claim to reach a specific buying verdict",
+        "body": "A useful audit records the preparation, declared amount, intended outcome, relevant study and remaining uncertainty. A liposomal label cannot resolve the clinical question by itself, and a total beauty-blend mass cannot establish its glutathione content. No oral result discussed here should be borrowed to endorse an injection or replace medical care. If the claimed benefit is broader or longer-lasting than the evidence, declining the product is a reasonable outcome. An informed buyer can recognise an interesting signal without accepting the whole sales story.",
+        "sourceIds": [
+          "supplement-quality-ods",
+          "well-gsh-lipo",
+          "gsh-skin"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "gsh-metabolism",
+      "gsh-reactome-peroxidase",
+      "gsh-reactome-reductase",
+      "supplement-quality-ods",
+      "gsh-stores",
+      "gsh-oxidative",
+      "gsh-skin",
+      "food-gsh-protein-healthcanada",
+      "well-gsh-lipo"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "Nutrabox",
+  "product": "Raw Whey Protein",
+  "variants": [
+    {
+      "order": 593,
+      "offer": {
+        "id": 593,
+        "brand": "Nutrabox",
+        "product": "Raw Whey Protein",
+        "type": "Whey — blend",
+        "flavour": "Unflavoured",
+        "kg": 1,
+        "price": 4799,
+        "stock": "Sold out",
+        "protein": null,
+        "scoop": 30,
+        "serving": 30,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://nutrabox.in/products/best-raw-whey-protein?variant=37554135236782",
+        "nutritionUrl": "https://nutrabox.in/products/best-raw-whey-protein?variant=37554135236782",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nutrabox.in/products/best-raw-whey-protein?variant=37554135236782",
+          "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 1516,
+      "observation": {
+        "category": "protein",
+        "offerId": 593,
+        "date": "2025-09-15",
+        "price": 2499,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/best-raw-whey-protein?variant=37554135236782",
+        "evidenceUrl": "https://web.archive.org/web/20250915223039id_/https://nutrabox.in/products/best-raw-whey-protein?ref=yzstr9oe",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "37554135236782",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 1517,
+      "observation": {
+        "category": "protein",
+        "offerId": 593,
+        "date": "2026-03-05",
+        "price": 2899,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/best-raw-whey-protein?variant=37554135236782",
+        "evidenceUrl": "https://web.archive.org/web/20260305112839id_/https://nutrabox.in/products/best-raw-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "37554135236782",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1518,
+      "observation": {
+        "category": "protein",
+        "offerId": 593,
+        "date": "2026-05-16",
+        "price": 2699,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/best-raw-whey-protein?variant=37554135236782",
+        "evidenceUrl": "https://web.archive.org/web/20260516112803id_/https://nutrabox.in/products/best-raw-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "37554135236782",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 2782,
+      "observation": {
+        "category": "protein",
+        "offerId": 593,
+        "date": "2026-10-25",
+        "price": 4799,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/best-raw-whey-protein?variant=37554135236782",
+        "evidenceUrl": "https://nutrabox.in/products/best-raw-whey-protein.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "37554135236782"
+      }
+    },
+    {
+      "order": 3511,
+      "observation": {
+        "category": "protein",
+        "offerId": 593,
+        "date": "2023-10-02",
+        "price": 1899,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/best-raw-whey-protein?variant=37554135236782",
+        "evidenceUrl": "https://web.archive.org/web/20231002113233id_/https://nutrabox.in/products/best-raw-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "37554135236782",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3512,
+      "observation": {
+        "category": "protein",
+        "offerId": 593,
+        "date": "2025-08-10",
+        "price": 2399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/best-raw-whey-protein?variant=37554135236782",
+        "evidenceUrl": "https://web.archive.org/web/20250810125939id_/https://nutrabox.in/products/best-raw-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "37554135236782",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 4640,
+      "observation": {
+        "category": "protein",
+        "offerId": 593,
+        "date": "2026-11-19",
+        "price": 4799,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/best-raw-whey-protein?variant=37554135236782",
+        "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "37554135236782"
+      }
+    }
+  ],
+  "refreshSources": []
+}

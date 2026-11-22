@@ -1,4 +1,10 @@
 """Curate single-pack offers from saved official-store evidence. No weight extrapolation."""
+import pathlib
+try:
+    from artifact_bridge import reject_legacy_writer
+except ModuleNotFoundError:
+    from scripts.artifact_bridge import reject_legacy_writer
+reject_legacy_writer(pathlib.Path(__file__).resolve().parents[1],'assemble_creatine.py')
 from research_creatine import *
 import urllib.parse, collections
 pages=json.loads((OUT/'pages.json').read_text(encoding='utf-8'))

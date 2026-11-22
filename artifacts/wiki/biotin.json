@@ -1,0 +1,303 @@
+{
+  "schemaVersion": 1,
+  "order": 9,
+  "category": {
+    "id": "biotin",
+    "label": "Biotin",
+    "mainNutrient": "biotinMcg",
+    "referenceQuantity": 1000,
+    "referenceUnit": "µg",
+    "compoundLabel": "labelled biotin",
+    "nutrientFields": [
+      {
+        "key": "biotinMcg",
+        "label": "Biotin (B7)",
+        "unit": "µg",
+        "table": true
+      }
+    ],
+    "comparisonNote": "Biotin is recorded in micrograms, not milligrams. Compare only verified label amounts and servings; a higher strength does not establish a hair or nail benefit. Check other ingredients and tell your laboratory about biotin use.",
+    "searchAliases": [
+      "vitamin b7",
+      "vitamin h"
+    ],
+    "file": "biotin.json",
+    "page": "biotin.html",
+    "measurement": "units"
+  },
+  "catalog": {
+    "checked": "2026-11-20",
+    "category": "biotin"
+  },
+  "guide": {
+    "id": "biotin-guide",
+    "category": "biotin",
+    "title": "Biotin: hair claims, dietary needs and laboratory tests",
+    "summary": "Biotin is vitamin B7. Correcting a deficiency is different from assuming that more biotin will improve healthy hair or nails.",
+    "evidence": "Established biotin deficiency can respond to appropriate treatment. Evidence for routine hair, skin and nail benefits in people without deficiency is limited, relying largely on small studies and case reports.",
+    "limitations": "Hair or nail symptoms alone do not establish biotin deficiency. A larger labelled amount does not demonstrate better cosmetic results in an adequately nourished person.",
+    "catalogReading": "Check biotin micrograms per verified label serving, units per serving and other ingredients. Milligrams and micrograms are different units: 1 mg equals 1,000 micrograms. Compare equal labelled amounts without turning strength into a hair-growth score.",
+    "safety": "Tell the clinician and laboratory about every biotin-containing product before blood testing, including hair gummies and multivitamins. Some assays can give misleading thyroid results or falsely low troponin results. Ask the testing team for assay-specific instructions; there is no universal stopping interval for every test.",
+    "sourceIds": [
+      "biotin-overview",
+      "biotin-lab",
+      "b-family",
+      "biotin-metabolic",
+      "supplement-quality-ods"
+    ],
+    "reviewed": "2026-11-18",
+    "author": "Supplement Research editorial synthesis",
+    "bodySteps": [
+      "Digestion releases food-bound biotin; the enzyme biotinidase helps make free biotin available for intestinal absorption.",
+      "Cells use biotin with enzymes involved in processing fats, carbohydrates and amino acids.",
+      "Supporting normal metabolism does not mean that an additional high-strength supplement improves hair when biotin supply is already adequate."
+    ],
+    "bodySources": [
+      "biotin-overview"
+    ],
+    "treatment": "Confirmed deficiency and rare inherited biotinidase disorders require an appropriate clinical plan. A retail hair product is not a diagnosis or a general treatment for hair loss.",
+    "whoMayBenefit": "People with an established deficiency or a specific metabolic disorder may need supervised supplementation. A risk factor or cosmetic concern should prompt assessment rather than automatically selecting the strongest pack.",
+    "routineUse": "Many foods supply biotin. A high-strength beauty supplement is not a universal requirement. Reassess the reason for taking it and include biotin from combination products when discussing laboratory tests.",
+    "sectionSources": [
+      "biotin-overview",
+      "biotin-lab",
+      "biotin-metabolic"
+    ],
+    "buyingGuide": {
+      "whoCanConsider": [
+        "People with established biotin deficiency receiving a cause-specific clinical plan.",
+        "People diagnosed with biotinidase deficiency receiving specialist treatment."
+      ],
+      "whoShouldReview": [
+        "Anyone having blood tests should disclose biotin, including hair gummies and multivitamins; susceptible tests can be misleading. Ask the testing team for assay-specific instructions.",
+        "New or persistent hair loss, brittle nails or a rash needs assessment rather than assuming biotin deficiency."
+      ],
+      "foodSummary": "Many ordinary foods provide biotin. Food supply is different from taking a high-strength beauty product; evidence for extra hair benefit without deficiency is limited.",
+      "foods": [
+        {
+          "name": "Egg, whole, cooked",
+          "relationship": "direct",
+          "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": null,
+          "amounts": [
+            {
+              "nutrient": "Biotin",
+              "min": 10,
+              "max": null,
+              "unit": "µg",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "1 egg (source serving)"
+              },
+              "sourceIds": [
+                "biotin-overview"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Sweet potato, cooked",
+          "relationship": "direct",
+          "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": null,
+          "amounts": [
+            {
+              "nutrient": "Biotin",
+              "min": 2.4,
+              "max": null,
+              "unit": "µg",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "½ cup"
+              },
+              "sourceIds": [
+                "biotin-overview"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Sunflower seeds, roasted",
+          "relationship": "direct",
+          "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": null,
+          "amounts": [
+            {
+              "nutrient": "Biotin",
+              "min": 2.6,
+              "max": null,
+              "unit": "µg",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "¼ cup"
+              },
+              "sourceIds": [
+                "biotin-overview"
+              ]
+            }
+          ]
+        }
+      ],
+      "foodSourceIds": [
+        "biotin-overview"
+      ],
+      "value": {
+        "routineScore": 1,
+        "targetedScore": 5,
+        "targetedUse": "Established deficiency or a diagnosed biotinidase disorder managed by the treating team.",
+        "reason": "Replacing a genuinely missing nutrient has a clear purpose. That case does not support buying the largest dose for healthy hair or nails.",
+        "worthWhen": [
+          "The need and formulation have been established by the treating professional."
+        ],
+        "skipWhen": [
+          "Diet is adequate and the purchase rests only on a hair-growth claim.",
+          "Biotin from overlapping products is being ignored before laboratory testing."
+        ],
+        "evidence": "strong",
+        "scope": "The strong targeted rating applies to established deficiency or a diagnosed metabolic disorder. It is an editorial priority, not evidence of cosmetic benefit or a recommendation for a catalog strength.",
+        "sourceIds": [
+          "biotin-overview",
+          "biotin-lab",
+          "biotin-metabolic"
+        ]
+      },
+      "reviewed": "2026-11-18",
+      "practices": {
+        "dos": [
+          {
+            "title": "Check the actual unit",
+            "detail": "Read biotin micrograms per verified serving and count biotin from hair products, multivitamins and other blends."
+          },
+          {
+            "title": "Tell the testing team",
+            "detail": "Disclose biotin-containing products before blood tests and follow the laboratory's assay-specific instructions."
+          }
+        ],
+        "donts": [
+          {
+            "title": "Don't buy strength as a hair score",
+            "detail": "More labelled biotin does not establish better hair growth when no deficiency has been identified."
+          },
+          {
+            "title": "Don't assume one stopping interval",
+            "detail": "Biotin can interfere with some assays; there is no universal stopping interval suitable for every test."
+          }
+        ],
+        "sourceIds": [
+          "biotin-overview",
+          "biotin-lab",
+          "biotin-metabolic"
+        ]
+      }
+    },
+    "intakeGuide": {
+      "kind": "daily-target",
+      "summary": "Meet the age- and sex-specific total dietary reference. A reference intake is not the same as a supplemental dose or deficiency-treatment regimen.",
+      "targets": [
+        {
+          "key": "biotinMcg",
+          "label": "Biotin",
+          "min": 30,
+          "max": null,
+          "unit": "µg",
+          "basis": "total-daily",
+          "perKg": false,
+          "profileIds": [
+            "everyday",
+            "general-fitness",
+            "strength-power",
+            "hypertrophy",
+            "endurance",
+            "hybrid"
+          ],
+          "sex": "any",
+          "minAge": 19,
+          "maxAge": null,
+          "referenceType": "AI",
+          "notes": "No established UL does not establish safety of high-dose hair products; biotin can interfere with laboratory tests.",
+          "sourceIds": [
+            "biotin-overview"
+          ]
+        }
+      ],
+      "limits": [],
+      "notes": [
+        "No automatic dose increase is assigned for training frequency or experience."
+      ],
+      "sourceIds": [
+        "biotin-overview"
+      ],
+      "reviewed": "2026-11-17"
+    },
+    "medicalGuide": {
+      "summary": "Condition-specific evidence, separate from sports benefits and purchase priority.",
+      "conditions": [
+        {
+          "condition": "Biotin deficiency / biotinidase deficiency",
+          "level": "established",
+          "findings": "Condition-specific replacement can be indicated; inherited disorders require specialist treatment.",
+          "limits": "Confirmed deficiency and rare inherited biotinidase disorders require an appropriate clinical plan. A retail hair product is not a diagnosis or a general treatment for hair loss.",
+          "sourceIds": [
+            "biotin-overview",
+            "biotin-lab",
+            "biotin-metabolic"
+          ]
+        },
+        {
+          "condition": "Hair loss without deficiency",
+          "level": "insufficient",
+          "findings": "Hair loss alone does not establish biotin deficiency or a benefit from high-dose hair products.",
+          "limits": "Confirmed deficiency and rare inherited biotinidase disorders require an appropriate clinical plan. A retail hair product is not a diagnosis or a general treatment for hair loss.",
+          "sourceIds": [
+            "biotin-overview",
+            "biotin-lab",
+            "biotin-metabolic"
+          ]
+        }
+      ],
+      "reviewed": "2026-11-17"
+    },
+    "pathway": {
+      "title": "Biotin becomes a cofactor for carboxylases",
+      "summary": "Biotin supports enzymes that handle carbon-containing substrates in fat, glucose and amino-acid metabolism. It is not a direct hair-growth signal.",
+      "tracks": [
+        {
+          "label": "Release, absorption and enzyme use",
+          "steps": [
+            {
+              "label": "Digestion releases protein bound biotin",
+              "detail": "Proteases release biotin-containing fragments from food proteins; free supplement biotin does not need this same release step.",
+              "compartment": "Intestine",
+              "icon": "digest"
+            },
+            {
+              "label": "Biotinidase frees biotin for absorption",
+              "detail": "Biotinidase processes bound fragments to free biotin, which is absorbed in the small intestine.",
+              "compartment": "Intestine",
+              "icon": "molecule"
+            },
+            {
+              "label": "Five carboxylases use biotin cofactors",
+              "detail": "Biotin-dependent carboxylases catalyse important steps in fatty-acid, glucose and amino-acid metabolism.",
+              "compartment": "Cells",
+              "icon": "cell"
+            }
+          ]
+        }
+      ],
+      "caveat": "A necessary enzyme cofactor does not imply that high-dose biotin improves hair or nails when intake is adequate. Supplements can interfere with laboratory tests.",
+      "sourceIds": [
+        "biotin-overview"
+      ]
+    }
+  }
+}

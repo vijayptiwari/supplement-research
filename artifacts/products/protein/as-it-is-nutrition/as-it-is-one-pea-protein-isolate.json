@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "AS-IT-IS Nutrition",
+  "product": "AS-IT-IS ONE Pea Protein Isolate",
+  "variants": [
+    {
+      "order": 96,
+      "offer": {
+        "id": 96,
+        "brand": "AS-IT-IS Nutrition",
+        "product": "AS-IT-IS ONE Pea Protein Isolate",
+        "type": "Plant — pea",
+        "flavour": "Unflavoured",
+        "kg": 1,
+        "price": 999,
+        "stock": "In stock",
+        "protein": 80.55555555555556,
+        "scoop": 36,
+        "serving": 36,
+        "subclass": "Plant isolate",
+        "energy": 386.11111111111114,
+        "url": "https://asitisnutrition.com/products/as-it-is-nutrition-pea-protein-isolate-powder?variant=8570939899955",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0005/5335/3267/files/Asitis_One_pea_protein_single_serve_RPD_back_1.jpg?v=1772613245",
+        "basis": "29g protein / 36g serving; product FAQ",
+        "notes": "Brand product-page serving basis; flavour-specific label values may vary. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-matched label kcal per serving / brand serving g × 100",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-pea-protein-isolate-powder?variant=8570939899955",
+          "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 97,
+      "offer": {
+        "id": 97,
+        "brand": "AS-IT-IS Nutrition",
+        "product": "AS-IT-IS ONE Pea Protein Isolate",
+        "type": "Plant — pea",
+        "flavour": "Unflavoured",
+        "kg": 2,
+        "price": 1801,
+        "stock": "In stock",
+        "protein": 80.55555555555556,
+        "scoop": 36,
+        "serving": 36,
+        "subclass": "Plant isolate",
+        "energy": 386.11111111111114,
+        "url": "https://asitisnutrition.com/products/as-it-is-nutrition-pea-protein-isolate-powder?variant=41195026317363",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0005/5335/3267/files/Asitis_One_pea_protein_single_serve_RPD_back_1.jpg?v=1772613245",
+        "basis": "29g protein / 36g serving; product FAQ",
+        "notes": "Brand product-page serving basis; flavour-specific label values may vary. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-matched label kcal per serving / brand serving g × 100",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-pea-protein-isolate-powder?variant=41195026317363",
+          "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 328,
+      "observation": {
+        "category": "protein",
+        "offerId": 96,
+        "date": "2026-08-03",
+        "price": 949,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-pea-protein-isolate-powder?variant=8570939899955",
+        "evidenceUrl": "https://web.archive.org/web/20260803080555id_/https://asitisnutrition.com/products/as-it-is-nutrition-pea-protein-isolate-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "8570939899955",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 329,
+      "observation": {
+        "category": "protein",
+        "offerId": 97,
+        "date": "2026-08-03",
+        "price": 1710,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-pea-protein-isolate-powder?variant=41195026317363",
+        "evidenceUrl": "https://web.archive.org/web/20260803080555id_/https://asitisnutrition.com/products/as-it-is-nutrition-pea-protein-isolate-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "41195026317363",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 2285,
+      "observation": {
+        "category": "protein",
+        "offerId": 96,
+        "date": "2026-10-25",
+        "price": 999,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-pea-protein-isolate-powder?variant=8570939899955",
+        "evidenceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-pea-protein-isolate-powder.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "8570939899955"
+      }
+    },
+    {
+      "order": 2286,
+      "observation": {
+        "category": "protein",
+        "offerId": 97,
+        "date": "2026-10-25",
+        "price": 1801,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-pea-protein-isolate-powder?variant=41195026317363",
+        "evidenceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-pea-protein-isolate-powder.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "41195026317363"
+      }
+    },
+    {
+      "order": 4144,
+      "observation": {
+        "category": "protein",
+        "offerId": 96,
+        "date": "2026-11-19",
+        "price": 999,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-pea-protein-isolate-powder?variant=8570939899955",
+        "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "8570939899955"
+      }
+    },
+    {
+      "order": 4145,
+      "observation": {
+        "category": "protein",
+        "offerId": 97,
+        "date": "2026-11-19",
+        "price": 1801,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/as-it-is-nutrition-pea-protein-isolate-powder?variant=41195026317363",
+        "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "41195026317363"
+      }
+    }
+  ],
+  "refreshSources": []
+}

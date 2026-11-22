@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "category": "melatonin",
+  "brand": "Carbamide Forte",
+  "product": "Melatonin 5 mg with Tagara",
+  "variants": [
+    {
+      "order": 5,
+      "offer": {
+        "brand": "Carbamide Forte",
+        "product": "Melatonin 5 mg with Tagara",
+        "form": "Tablet",
+        "type": "Melatonin",
+        "subclass": "Combination tablet; release profile not stated",
+        "packCount": 60,
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official bottle facts per one tablet: melatonin 5 mg, Tagar 125 mg, vitamin B6 1.9 mg and energy 0.4 kcal. Exact single-bottle pack count is 60.",
+        "notes": "Tagar is a co-ingredient outside modeled nutrient arithmetic. Unit price does not establish dose or release suitability.",
+        "labelChecked": "2026-11-19",
+        "melatoninMg": 5,
+        "id": "melatonin-42691038773361",
+        "price": 399,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://mycf.in/products/carbamide-forte-melatonin-5mg-with-tagara-125mg-sleeping-aid-pills-for-deep-sleep-non-habit-forming-sleep-supplement-60-veg-tablets?variant=42691038773361",
+        "nutritionUrl": "https://www.carbamideforte.com/products/carbamide-forte-melatonin-5mg-with-tagara-125mg-sleeping-aid-pills-for-deep-sleep-non-habit-forming-sleep-supplement-60-veg-tablets",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://mycf.in/products/carbamide-forte-melatonin-5mg-with-tagara-125mg-sleeping-aid-pills-for-deep-sleep-non-habit-forming-sleep-supplement-60-veg-tablets?variant=42691038773361",
+          "evidenceUrl": "https://www.carbamideforte.com/products/carbamide-forte-melatonin-5mg-with-tagara-125mg-sleeping-aid-pills-for-deep-sleep-non-habit-forming-sleep-supplement-60-veg-tablets.json",
+          "matchBasis": "Existing exactvariant ID with newly inspected bottle facts; label/date corrected without creating duplicate aliases."
+        },
+        "vitaminB6Mg": 1.9,
+        "energyPerServing": 0.4,
+        "declaredNutrients": [
+          "melatoninMg",
+          "vitaminB6Mg"
+        ],
+        "labelSources": [
+          "https://www.carbamideforte.com/products/carbamide-forte-melatonin-5mg-with-tagara-125mg-sleeping-aid-pills-for-deep-sleep-non-habit-forming-sleep-supplement-60-veg-tablets",
+          "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B07ZVY28NV.PT08.jpg?v=1763465853"
+        ],
+        "additionalIngredients": [
+          {
+            "name": "Tagar rhizome extract",
+            "amount": 125,
+            "unit": "mg",
+            "basis": "per one-tablet label serving"
+          }
+        ]
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3756,
+      "observation": {
+        "category": "melatonin",
+        "offerId": "melatonin-42691038773361",
+        "date": "2026-10-29",
+        "price": 399,
+        "currency": "INR",
+        "sourceUrl": "https://mycf.in/products/carbamide-forte-melatonin-5mg-with-tagara-125mg-sleeping-aid-pills-for-deep-sleep-non-habit-forming-sleep-supplement-60-veg-tablets?variant=42691038773361",
+        "evidenceUrl": "https://mycf.in/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "42691038773361"
+      }
+    },
+    {
+      "order": 3879,
+      "observation": {
+        "category": "melatonin",
+        "offerId": "melatonin-42691038773361",
+        "date": "2026-11-19",
+        "price": 399,
+        "currency": "INR",
+        "sourceUrl": "https://mycf.in/products/carbamide-forte-melatonin-5mg-with-tagara-125mg-sleeping-aid-pills-for-deep-sleep-non-habit-forming-sleep-supplement-60-veg-tablets?variant=42691038773361",
+        "evidenceUrl": "https://mycf.in/products/carbamide-forte-melatonin-5mg-with-tagara-125mg-sleeping-aid-pills-for-deep-sleep-non-habit-forming-sleep-supplement-60-veg-tablets.json",
+        "kind": "official-live",
+        "variantId": "42691038773361",
+        "matchBasis": "Official public Shopify product; exact variant ID 42691038773361 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+      }
+    },
+    {
+      "order": 3893,
+      "observation": {
+        "category": "melatonin",
+        "offerId": "melatonin-42691038773361",
+        "date": "2026-11-19",
+        "price": 399,
+        "currency": "INR",
+        "sourceUrl": "https://mycf.in/products/carbamide-forte-melatonin-5mg-with-tagara-125mg-sleeping-aid-pills-for-deep-sleep-non-habit-forming-sleep-supplement-60-veg-tablets?variant=42691038773361",
+        "evidenceUrl": "https://www.carbamideforte.com/products/carbamide-forte-melatonin-5mg-with-tagara-125mg-sleeping-aid-pills-for-deep-sleep-non-habit-forming-sleep-supplement-60-veg-tablets.json",
+        "kind": "official-live",
+        "variantId": "42691038773361",
+        "matchBasis": "Official exact public Shopify variant ID; unconditional INR price and stock. Net pack quantity and ingredient serving transcribed from official text/panels checked2026-11-19."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 46,
+      "profile": {
+        "category": "melatonin",
+        "brand": "Carbamide Forte",
+        "base": "https://mycf.in",
+        "handle": "carbamide-forte-melatonin-5mg-with-tagara-125mg-sleeping-aid-pills-for-deep-sleep-non-habit-forming-sleep-supplement-60-veg-tablets",
+        "product": "Melatonin 5 mg with Tagara",
+        "form": "Tablet",
+        "type": "Melatonin",
+        "subclass": "Combination tablet; release profile not stated",
+        "packCount": 60,
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official bottle facts per one tablet: melatonin 5 mg, Tagar 125 mg, vitamin B6 1.9 mg and energy 0.4 kcal. Exact single-bottle pack count is 60.",
+        "notes": "Tagar is a co-ingredient outside modeled nutrient arithmetic. Unit price does not establish dose or release suitability.",
+        "labelChecked": "2026-11-19",
+        "melatoninMg": 5,
+        "variantTitles": [
+          "Pack of 1"
+        ],
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "vitaminB6Mg": 1.9,
+        "energyPerServing": 0.4,
+        "declaredNutrients": [
+          "melatoninMg",
+          "vitaminB6Mg"
+        ],
+        "nutritionUrl": "https://www.carbamideforte.com/products/carbamide-forte-melatonin-5mg-with-tagara-125mg-sleeping-aid-pills-for-deep-sleep-non-habit-forming-sleep-supplement-60-veg-tablets",
+        "labelSources": [
+          "https://www.carbamideforte.com/products/carbamide-forte-melatonin-5mg-with-tagara-125mg-sleeping-aid-pills-for-deep-sleep-non-habit-forming-sleep-supplement-60-veg-tablets",
+          "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B07ZVY28NV.PT08.jpg?v=1763465853"
+        ],
+        "variantIds": [
+          "42691038773361"
+        ],
+        "numericVariantIsCount": false,
+        "additionalIngredients": [
+          {
+            "name": "Tagar rhizome extract",
+            "amount": 125,
+            "unit": "mg",
+            "basis": "per one-tablet label serving"
+          }
+        ]
+      }
+    }
+  ]
+}

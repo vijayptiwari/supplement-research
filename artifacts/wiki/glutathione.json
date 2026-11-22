@@ -1,0 +1,339 @@
+{
+  "schemaVersion": 1,
+  "order": 7,
+  "category": {
+    "id": "glutathione",
+    "label": "Glutathione",
+    "file": "glutathione.json",
+    "page": "glutathione.html",
+    "measurement": "units",
+    "mainNutrient": "glutathioneMg",
+    "referenceQuantity": 100,
+    "referenceUnit": "mg",
+    "compoundLabel": "labelled glutathione",
+    "nutrientFields": [
+      {
+        "key": "glutathioneMg",
+        "label": "Glutathione",
+        "unit": "mg",
+        "table": true
+      },
+      {
+        "key": "vitaminCMg",
+        "label": "Vitamin C",
+        "unit": "mg",
+        "table": false
+      },
+      {
+        "key": "vitaminEMg",
+        "label": "Vitamin E",
+        "unit": "mg",
+        "table": false
+      }
+    ],
+    "comparisonNote": "Compare oral glutathione amounts only when the exact label serving is verified. Reduced, liposomal and combination formulations are recorded separately; ingredient cost does not establish absorption or clinical benefit. Total blend mass and precursors are not counted as glutathione.",
+    "searchAliases": [
+      "l glutathione",
+      "gsh",
+      "reduced glutathione"
+    ]
+  },
+  "catalog": {
+    "checked": "2026-11-20",
+    "category": "glutathione"
+  },
+  "guide": {
+    "id": "glutathione-guide",
+    "category": "glutathione",
+    "title": "Glutathione: antioxidant biology versus supplement promises",
+    "summary": "Your cells make glutathione. An important biological role does not prove that buying an oral supplement prevents disease or changes skin tone.",
+    "evidence": "Oral trials show mixed biomarker results: a six-month study reported higher body stores, while a four-week study found no improvement in measured oxidative-stress markers. Small skin studies report some changes in melanin indices; a 2026 trial also had mixed outcomes. These results do not establish broad health benefits.",
+    "limitations": "Studies differ in formulation, duration and outcome. A biomarker or cosmetic measurement is not a demonstrated reduction in illness. Lasting benefits and long-term safety remain uncertain; reduced, S-acetyl, liposomal and blended products should not be assumed equivalent.",
+    "catalogReading": "Compare the declared glutathione amount per verified label serving, ingredient form, pack servings and cost within the same formulation. Total blend weight, vitamin C, NAC and cysteine are not glutathione mass. A liposomal or reduced claim alone does not prove better clinical results.",
+    "safety": "The cited small adult trials cannot establish safety for indefinite use, pregnancy, breastfeeding or children. Review medicines, medical conditions and co-ingredients with a qualified clinician. Oral findings cannot be transferred to injections; this catalog covers oral products and does not recommend intravenous use.",
+    "sourceIds": [
+      "gsh-metabolism",
+      "gsh-stores",
+      "gsh-oxidative",
+      "gsh-skin",
+      "gsh-skin-2026",
+      "food-gsh-protein-healthcanada",
+      "food-usda-sr28",
+      "supplement-quality-ods",
+      "gsh-reactome-peroxidase",
+      "gsh-reactome-reductase"
+    ],
+    "reviewed": "2026-11-18",
+    "author": "Supplement Research editorial synthesis",
+    "bodySteps": [
+      "Glutathione is a small peptide made from glutamate, cysteine and glycine. Digestion, uptake and processing influence what an oral formulation delivers; the label amount is not a measured amount reaching a tissue.",
+      "Cells synthesize and recycle their own glutathione. Together with enzymes, it participates in antioxidant reactions and redox regulation.",
+      "Supplement studies measure changes in blood or other samples, but greater measured glutathione does not automatically mean better health, less ageing or lighter skin."
+    ],
+    "bodySources": [
+      "gsh-metabolism",
+      "gsh-stores",
+      "gsh-oxidative"
+    ],
+    "treatment": "The selected oral trials do not establish a cure for liver disease, cancer or a pigmentation disorder, or a general detox treatment. A new or changing skin patch needs assessment rather than assuming a supplement will correct it.",
+    "whoMayBenefit": "Adults considering a specific cosmetic goal can discuss the limited findings and alternatives with a dermatologist. These sources do not identify a healthy group that should routinely take glutathione; disease-specific use requires separate clinical evidence.",
+    "routineUse": "There is no established universal need for an oral glutathione supplement. The body makes it, and adequate nutrition supports its metabolism. Changing a laboratory marker is not a reason by itself to continue indefinitely.",
+    "sectionSources": [
+      "gsh-metabolism",
+      "gsh-stores",
+      "gsh-oxidative",
+      "gsh-skin",
+      "gsh-skin-2026"
+    ],
+    "buyingGuide": {
+      "whoCanConsider": [
+        "Adults discussing a specific cosmetic goal, limited expected benefit and alternatives with a dermatologist.",
+        "Adults who then choose a time-limited trial with a clear goal and a stopping point if it does not help."
+      ],
+      "whoShouldReview": [
+        "Pregnant or breastfeeding people and children: the small adult oral trials do not establish safety for these groups.",
+        "Anyone with a medical condition, medicines or changing skin pigmentation: review the cause and the full formulation before buying."
+      ],
+      "foodSummary": "The body makes glutathione from amino acids. Protein foods supply building blocks; they are not equivalent doses of oral glutathione and do not prove a skin-lightening or detox effect.",
+      "foods": [
+        {
+          "name": "Lentils, mature seeds, cooked, boiled, without salt",
+          "relationship": "precursor",
+          "detail": "Protein provides amino acids used in synthesis. This quantity is not a measured glutathione content or a glutathione dose.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": "USDA NDB 16070",
+          "amounts": [
+            {
+              "nutrient": "Protein (building blocks, not glutathione)",
+              "min": 9.02,
+              "max": null,
+              "unit": "g",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "100 g edible food"
+              },
+              "sourceIds": [
+                "food-usda-sr28"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Egg, whole, cooked, hard-boiled",
+          "relationship": "precursor",
+          "detail": "Protein provides amino acids used in synthesis. This quantity is not a measured glutathione content or a glutathione dose.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": "USDA NDB 01129",
+          "amounts": [
+            {
+              "nutrient": "Protein (building blocks, not glutathione)",
+              "min": 12.58,
+              "max": null,
+              "unit": "g",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "100 g edible food"
+              },
+              "sourceIds": [
+                "food-usda-sr28"
+              ]
+            }
+          ]
+        }
+      ],
+      "foodSourceIds": [
+        "gsh-metabolism",
+        "food-gsh-protein-healthcanada",
+        "food-usda-sr28"
+      ],
+      "value": {
+        "routineScore": 1,
+        "targetedScore": 2,
+        "targetedUse": "A dermatologist-reviewed, short-term cosmetic goal in an informed adult.",
+        "reason": "Biomarker changes and small cosmetic studies do not establish broad health benefits or lasting skin changes. Even for a narrow cosmetic goal this remains low priority.",
+        "worthWhen": [
+          "The limited evidence and alternatives have been discussed, the goal is specific and the cost is acceptable."
+        ],
+        "skipWhen": [
+          "The promise is general detox, anti-ageing, disease prevention or guaranteed skin lightening.",
+          "The purchase displaces adequate food or appropriate skin assessment."
+        ],
+        "evidence": "mixed",
+        "scope": "Editorial purchase priority for oral products. Routine means a healthy adult with an adequate diet; the targeted score is limited to the stated cosmetic context, not disease treatment or injections.",
+        "sourceIds": [
+          "gsh-metabolism",
+          "gsh-stores",
+          "gsh-oxidative",
+          "gsh-skin",
+          "gsh-skin-2026"
+        ]
+      },
+      "reviewed": "2026-11-18",
+      "practices": {
+        "dos": [
+          {
+            "title": "Set a realistic purpose",
+            "detail": "Review the limited oral evidence and alternatives before spending on a specific cosmetic goal."
+          },
+          {
+            "title": "Check glutathione itself",
+            "detail": "Compare the declared glutathione amount, formulation and verified servings, keeping co-ingredients separate."
+          }
+        ],
+        "donts": [
+          {
+            "title": "Don't count precursors as glutathione",
+            "detail": "NAC, cysteine, vitamin C and the full blend weight are not the product's glutathione amount."
+          },
+          {
+            "title": "Don't buy a delivery claim as proof",
+            "detail": "Liposomal or reduced wording alone does not establish superior clinical results, general detox benefits or disease treatment."
+          }
+        ],
+        "sourceIds": [
+          "gsh-stores",
+          "gsh-oxidative",
+          "gsh-skin",
+          "gsh-skin-2026"
+        ]
+      }
+    },
+    "intakeGuide": {
+      "kind": "no-established-target",
+      "summary": "No established dietary requirement or routine oral supplementation target. Trial amounts are not a universal safe daily intake.",
+      "targets": [],
+      "limits": [],
+      "notes": [
+        "No automatic dose increase is assigned for training frequency or experience."
+      ],
+      "sourceIds": [
+        "gsh-metabolism",
+        "gsh-stores",
+        "gsh-oxidative",
+        "gsh-skin",
+        "gsh-skin-2026"
+      ],
+      "reviewed": "2026-11-17"
+    },
+    "medicalGuide": {
+      "summary": "Condition-specific evidence, separate from sports benefits and purchase priority.",
+      "conditions": [
+        {
+          "condition": "Liver disease, cancer and detox claims",
+          "level": "insufficient",
+          "findings": "Selected oral studies do not establish disease treatment or a general detox indication.",
+          "limits": "The selected oral trials do not establish a cure for liver disease, cancer or a pigmentation disorder, or a general detox treatment. A new or changing skin patch needs assessment rather than assuming a supplement will correct it.",
+          "sourceIds": [
+            "gsh-metabolism",
+            "gsh-stores",
+            "gsh-oxidative",
+            "gsh-skin",
+            "gsh-skin-2026"
+          ]
+        },
+        {
+          "condition": "Pigmentation concerns",
+          "level": "mixed",
+          "findings": "Small trials with particular oral products have limitations; a changing skin lesion requires assessment, not a presumed supplement remedy.",
+          "limits": "The selected oral trials do not establish a cure for liver disease, cancer or a pigmentation disorder, or a general detox treatment. A new or changing skin patch needs assessment rather than assuming a supplement will correct it.",
+          "sourceIds": [
+            "gsh-metabolism",
+            "gsh-stores",
+            "gsh-oxidative",
+            "gsh-skin",
+            "gsh-skin-2026"
+          ]
+        }
+      ],
+      "reviewed": "2026-11-17"
+    },
+    "pathway": {
+      "title": "Oral glutathione, cellular synthesis and redox recycling",
+      "summary": "Swallowing glutathione is distinct from making it inside cells. Cells also continually recycle reduced glutathione after antioxidant reactions.",
+      "tracks": [
+        {
+          "label": "Oral delivery has additional uncertainties",
+          "steps": [
+            {
+              "label": "Oral glutathione enters the gut",
+              "detail": "A supplement supplies the tripeptide glutathione, made from glutamate, cysteine and glycine.",
+              "compartment": "Intestine",
+              "icon": "digest"
+            },
+            {
+              "label": "Gut enzymes process ingested glutathione",
+              "detail": "Intestinal enzymes can break down glutathione and recycle its components; intact delivery is not equivalent to label mass.",
+              "compartment": "Intestine",
+              "icon": "molecule"
+            },
+            {
+              "label": "Measured exposure depends on the preparation",
+              "detail": "Human studies report differing effects on glutathione stores; systemic delivery and clinical outcomes must be assessed separately.",
+              "compartment": "Blood / tissues",
+              "icon": "blood"
+            }
+          ]
+        },
+        {
+          "label": "Cells synthesise their own glutathione",
+          "steps": [
+            {
+              "label": "Glutamate and cysteine become available",
+              "detail": "Cells use amino-acid precursors; cysteine availability can limit glutathione synthesis.",
+              "compartment": "Cells",
+              "icon": "food"
+            },
+            {
+              "label": "Glutamate cysteine ligase joins two precursors",
+              "detail": "The first synthesis reaction forms γ-glutamylcysteine from glutamate and cysteine.",
+              "compartment": "Cell cytosol",
+              "icon": "molecule"
+            },
+            {
+              "label": "Glutathione synthetase adds the glycine",
+              "detail": "Adding glycine completes the glutathione tripeptide, GSH.",
+              "compartment": "Cell cytosol",
+              "icon": "cell"
+            }
+          ]
+        },
+        {
+          "label": "The glutathione redox cycle",
+          "returnLabel": "Reduced glutathione can be used again",
+          "steps": [
+            {
+              "label": "Reduced glutathione supplies reducing capacity",
+              "detail": "GSH participates in enzyme reactions that reduce peroxides.",
+              "compartment": "Cells",
+              "icon": "molecule"
+            },
+            {
+              "label": "Peroxidases form oxidised glutathione",
+              "detail": "Glutathione peroxidases use GSH to reduce peroxide, producing glutathione disulfide, GSSG.",
+              "compartment": "Cells",
+              "icon": "signal"
+            },
+            {
+              "label": "Reductase regenerates the reduced glutathione",
+              "detail": "Glutathione reductase uses NADPH to reduce GSSG back to GSH.",
+              "compartment": "Cell cytosol",
+              "icon": "energy"
+            }
+          ]
+        }
+      ],
+      "caveat": "An established cellular antioxidant cycle does not prove oral glutathione prevents disease, reverses ageing or produces a particular skin outcome.",
+      "sourceIds": [
+        "gsh-metabolism",
+        "gsh-stores",
+        "gsh-oxidative",
+        "gsh-reactome-peroxidase",
+        "gsh-reactome-reductase"
+      ]
+    }
+  }
+}

@@ -1,4 +1,4 @@
-import {editorialNarrativeWords,editorialCoverage} from './editorial-model.js';
+import {editorialNarrativeWords,editorialCoverage,standaloneSeriesId} from './editorial-model.js';
 // Publication rules for illustrated guides and the expandable editorial library.
 export function validateLearningContent(research,categories,invalid){
  const text=v=>typeof v==='string'&&!!v.trim(),date=v=>text(v)&&/^\d{4}-\d{2}-\d{2}$/.test(v)&&!Number.isNaN(Date.parse(v))&&new Date(v+'T00:00:00Z').toISOString().slice(0,10)===v;
@@ -13,10 +13,10 @@ export function validateLearningContent(research,categories,invalid){
  }
  const e=research.editorial;if(!e)return;
  const series=new Set(Array.isArray(e.series)?e.series.map(s=>s?.id):[]),ids=new Set();
- if(!date(e.reviewed)||!text(e.description)||!series.size||series.size!==e.series.length||e.series.some(s=>!text(s?.id)||!text(s.label)||!text(s.description))||!Array.isArray(e.articles)||!e.articles.length){invalid('Editorial library needs dated, described series and article data.');return;}
+ if(!date(e.reviewed)||!text(e.description)||!Array.isArray(e.series)||series.size!==e.series.length||e.series.some(s=>!text(s?.id)||s.id===standaloneSeriesId||!text(s.label)||!text(s.description))||!Array.isArray(e.articles)||!e.articles.length){invalid('Editorial library needs dated article data and valid series metadata when series are present.');return;}
  for(const a of e.articles){
   const sourced=(row,keys)=>row&&keys.every(k=>text(row[k]))&&validRefs(row.sourceIds,a.sourceIds);
-  if(!a||!text(a.id)||!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(a.id)||ids.has(a.id)||!categories[a.category]||!series.has(a.series)||!date(a.reviewed)||!['title','summary','author','intro'].every(k=>text(a[k]))||!validRefs(a.sourceIds)||!Array.isArray(a.sections)||!a.sections.length||new Set(a.sections.map(s=>s?.id)).size!==a.sections.length||a.sections.some(s=>!sourced(s,['id','title','body'])||!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(s.id)))invalid(`Invalid editorial article, series, section or citation: ${a?.id||'unknown'}.`);
+  if(!a||!text(a.id)||!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(a.id)||ids.has(a.id)||!categories[a.category]||a.series!=null&&!series.has(a.series)||!date(a.reviewed)||!['title','summary','author','intro'].every(k=>text(a[k]))||!validRefs(a.sourceIds)||!Array.isArray(a.sections)||!a.sections.length||new Set(a.sections.map(s=>s?.id)).size!==a.sections.length||a.sections.some(s=>!sourced(s,['id','title','body'])||!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(s.id)))invalid(`Invalid editorial article, series, section or citation: ${a?.id||'unknown'}.`);
   ids.add(a?.id);
   if((a?.evidenceNotes!=null||a?.series==='evidence-in-context')&&(!Array.isArray(a.evidenceNotes)||(a.series==='evidence-in-context'&&a.evidenceNotes.length<2)||a.evidenceNotes.some(n=>!sourced(n,['finding','design','population','outcome','limits']))))invalid(`Article ${a.id} needs sourced study designs, populations, outcomes and limitations.`);
   if(a?.series==='evidence-in-context'&&(!Array.isArray(a.sourceIds)||a.sourceIds.length<3))invalid(`Evidence synthesis ${a.id} needs multiple relevant sources.`);
@@ -28,10 +28,9 @@ export function validateLearningContent(research,categories,invalid){
   if((a?.forms!=null||a?.series==='understanding-types')&&(!Array.isArray(a.forms)||(a.series==='understanding-types'&&!a.forms.length)||a.forms.some(f=>!sourced(f,['name','description','metabolism','evidence','value'])||!['ingredient','delivery'].includes(f.kind))))invalid(`Types article ${a.id} needs sourced ingredient and delivery comparisons.`);
  }
  if(e.coveragePolicy){const p=e.coveragePolicy;
-  if(!text(p.summary)||!date(p.reviewed)||!Number.isInteger(p.minimumPrimaryArticles)||p.minimumPrimaryArticles<1||!Number.isInteger(p.maximumPrimaryArticles)||p.maximumPrimaryArticles<p.minimumPrimaryArticles||!Number.isInteger(p.minimumNarrativeWords)||p.minimumNarrativeWords<1)invalid('Editorial coverage policy needs dated context, article counts and a meaningful reading minimum.');
-  else {
-   for(const c of editorialCoverage(e,Object.values(categories)))if(c.primary<p.minimumPrimaryArticles||c.primary>p.maximumPrimaryArticles)invalid(`Editorial coverage for ${c.id} needs ${p.minimumPrimaryArticles}–${p.maximumPrimaryArticles} dedicated articles; related reading does not replace them.`);
-   const titles=new Set();for(const a of e.articles){if(!a||!Array.isArray(a.sections))continue;const title=String(a.title).trim().toLowerCase();if(titles.has(title))invalid(`Editorial title is duplicated: ${a.id}.`);titles.add(title);if(editorialNarrativeWords(a)<p.minimumNarrativeWords)invalid(`Article ${a.id} is too brief for the editorial reading policy.`);}
-  }
+  const hasMin=Object.hasOwn(p,'minimumPrimaryArticles'),hasMax=Object.hasOwn(p,'maximumPrimaryArticles'),validBound=value=>Number.isInteger(value)&&value>=1,validWords=validBound(p.minimumNarrativeWords),validCounts=(!hasMin||validBound(p.minimumPrimaryArticles))&&(!hasMax||validBound(p.maximumPrimaryArticles))&&(!hasMin||!hasMax||p.maximumPrimaryArticles>=p.minimumPrimaryArticles);
+  if(!text(p.summary)||!date(p.reviewed)||!validCounts||!validWords)invalid('Editorial coverage policy needs dated context, valid optional article-count bounds and a meaningful reading minimum.');
+  if(validCounts)for(const c of editorialCoverage(e,Object.values(categories)))if(hasMin&&c.primary<p.minimumPrimaryArticles||hasMax&&c.primary>p.maximumPrimaryArticles)invalid(`Editorial coverage for ${c.id} is outside its configured article-count bounds; related reading does not replace dedicated articles.`);
+  const titles=new Set();for(const a of e.articles){if(!a||!Array.isArray(a.sections))continue;const title=String(a.title).trim().toLowerCase();if(titles.has(title))invalid(`Editorial title is duplicated: ${a.id}.`);titles.add(title);if(validWords&&editorialNarrativeWords(a)<p.minimumNarrativeWords)invalid(`Article ${a.id} is too brief for the editorial reading policy.`);}
  }
 }

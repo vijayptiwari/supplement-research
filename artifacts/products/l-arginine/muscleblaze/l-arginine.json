@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "category": "l-arginine",
+  "brand": "MuscleBlaze",
+  "product": "L-Arginine",
+  "variants": [
+    {
+      "order": 11,
+      "offer": {
+        "id": "l-arginine-hk-81513",
+        "brand": "MuscleBlaze",
+        "product": "L-Arginine",
+        "form": "Capsule",
+        "type": "L-arginine",
+        "subclass": "Single amino acid",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "price": 675,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://www.muscleblaze.com/sv/muscleblaze-l-arginine/SP-44857?navKey=VRNT-81513",
+        "nutritionUrl": "https://img6.hkrtcdn.com/12184/prd_1218385-MuscleBlaze-LArginine-90-capsules_o.jpg",
+        "labelSources": [
+          "https://www.muscleblaze.com/sv/muscleblaze-l-arginine/SP-44857?navKey=VRNT-81513",
+          "https://img6.hkrtcdn.com/12184/prd_1218385-MuscleBlaze-LArginine-90-capsules_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "81513",
+        "sourceProductId": "44857",
+        "source": "Not specified",
+        "notes": "Nutrition panel states 500 mg per capsule while usage is two capsules; the modeled two-capsule serving therefore contains 1,000 mg. Energy 0.8 kcal is two times the 0.4 kcal per-capsule label value.",
+        "basis": "Exact official brand selected variant. The linked current product gallery nutrition panel was individually reviewed; amounts are per stated label serving. Product claims are manufacturer declarations, not independent assay results.",
+        "energyPerServing": 0.8,
+        "arginineMg": 1000,
+        "packCount": 90,
+        "servingUnits": 2,
+        "declaredNutrients": [
+          "arginineMg"
+        ]
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5166,
+      "observation": {
+        "category": "l-arginine",
+        "offerId": "l-arginine-hk-81513",
+        "date": "2026-11-19",
+        "price": 675,
+        "currency": "INR",
+        "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-l-arginine/SP-44857?navKey=VRNT-81513",
+        "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-l-arginine/SP-44857?navKey=VRNT-81513",
+        "kind": "official-live",
+        "variantId": "81513",
+        "matchBasis": "Official selected numeric variant 81513 and SP-44857 matched to exact flavour/pack attributes; unconditional INR offer_pr, is_published=true and variant oos checked; no coupon or loyalty prices."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 276,
+      "profile": {
+        "id": "l-arginine-hk-81513",
+        "brand": "MuscleBlaze",
+        "product": "L-Arginine",
+        "form": "Capsule",
+        "type": "L-arginine",
+        "subclass": "Single amino acid",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "currency": "INR",
+        "nutritionUrl": "https://img6.hkrtcdn.com/12184/prd_1218385-MuscleBlaze-LArginine-90-capsules_o.jpg",
+        "labelSources": [
+          "https://www.muscleblaze.com/sv/muscleblaze-l-arginine/SP-44857?navKey=VRNT-81513",
+          "https://img6.hkrtcdn.com/12184/prd_1218385-MuscleBlaze-LArginine-90-capsules_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "source": "Not specified",
+        "notes": "Nutrition panel states 500 mg per capsule while usage is two capsules; the modeled two-capsule serving therefore contains 1,000 mg. Energy 0.8 kcal is two times the 0.4 kcal per-capsule label value.",
+        "basis": "Exact official brand selected variant. The linked current product gallery nutrition panel was individually reviewed; amounts are per stated label serving. Product claims are manufacturer declarations, not independent assay results.",
+        "energyPerServing": 0.8,
+        "arginineMg": 1000,
+        "packCount": 90,
+        "servingUnits": 2,
+        "declaredNutrients": [
+          "arginineMg"
+        ],
+        "category": "l-arginine",
+        "kind": "hk-product",
+        "base": "https://www.muscleblaze.com",
+        "productUrl": "https://www.muscleblaze.com/sv/muscleblaze-l-arginine/SP-44857?navKey=VRNT-81513",
+        "variantUrl": "https://www.muscleblaze.com/sv/muscleblaze-l-arginine/SP-44857?navKey=VRNT-81513",
+        "variantId": "81513",
+        "productId": "44857",
+        "sourceBrand": "MuscleBlaze",
+        "variantAttributes": {
+          "fn-att-quant": "90 capsules"
+        },
+        "cacheKey": "hk-performance-81513"
+      }
+    }
+  ]
+}

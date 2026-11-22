@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "category": "l-carnitine",
+  "brand": "AS-IT-IS Nutrition",
+  "product": "L-Carnitine L-Tartrate 500 mg",
+  "variants": [
+    {
+      "order": 1,
+      "offer": {
+        "brand": "AS-IT-IS Nutrition",
+        "product": "L-Carnitine L-Tartrate 500 mg",
+        "form": "Capsule",
+        "type": "L-carnitine L-tartrate",
+        "subclass": "Tartrate compound",
+        "source": "Not specified",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "basis": "Official FAQ states one capsule provides 500 mg L-carnitine L-tartrate and each container holds 90 capsules.",
+        "notes": "Free L-carnitine payload is unverified; the 500 mg salt mass is not converted using a presumed ratio.",
+        "labelChecked": "2026-11-17",
+        "packCount": 90,
+        "servingUnits": 1,
+        "carnitineCompoundMg": 500,
+        "carnitineMg": null,
+        "energyPerServing": null,
+        "labelSources": [
+          "https://asitisnutrition.com/products/buy-best-l-carnitine-capsules-in-india"
+        ],
+        "id": "l-carnitine-42447348596787",
+        "price": 414,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://asitisnutrition.com/products/buy-best-l-carnitine-capsules-in-india?variant=42447348596787",
+        "nutritionUrl": "https://asitisnutrition.com/products/buy-best-l-carnitine-capsules-in-india",
+        "searchAliases": [
+          "lclt"
+        ],
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://asitisnutrition.com/products/buy-best-l-carnitine-capsules-in-india?variant=42447348596787",
+          "evidenceUrl": "https://asitisnutrition.com/products/buy-best-l-carnitine-capsules-in-india.json",
+          "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3805,
+      "observation": {
+        "category": "l-carnitine",
+        "offerId": "l-carnitine-42447348596787",
+        "date": "2026-11-17",
+        "price": 414,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/buy-best-l-carnitine-capsules-in-india?variant=42447348596787",
+        "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Directly fetched official Shopify feed; exact variant ID, flavour and single retail pack verified against official product page. Conditional discounts excluded.",
+        "variantId": "42447348596787"
+      }
+    },
+    {
+      "order": 3999,
+      "observation": {
+        "category": "l-carnitine",
+        "offerId": "l-carnitine-42447348596787",
+        "date": "2026-11-19",
+        "price": 414,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/buy-best-l-carnitine-capsules-in-india?variant=42447348596787",
+        "evidenceUrl": "https://asitisnutrition.com/products/buy-best-l-carnitine-capsules-in-india.json",
+        "kind": "official-live",
+        "variantId": "42447348596787",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 89,
+      "profile": {
+        "category": "l-carnitine",
+        "brand": "AS-IT-IS Nutrition",
+        "base": "https://asitisnutrition.com",
+        "handle": "buy-best-l-carnitine-capsules-in-india",
+        "product": "L-Carnitine L-Tartrate 500 mg",
+        "form": "Capsule",
+        "type": "L-carnitine L-tartrate",
+        "subclass": "Tartrate compound",
+        "source": "Not specified",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "basis": "Official FAQ states one capsule provides 500 mg L-carnitine L-tartrate and each container holds 90 capsules.",
+        "notes": "Free L-carnitine payload is unverified; the 500 mg salt mass is not converted using a presumed ratio.",
+        "labelChecked": "2026-11-17",
+        "variantIds": [
+          "42447348596787"
+        ],
+        "packCount": 90,
+        "servingUnits": 1,
+        "carnitineCompoundMg": 500,
+        "carnitineMg": null,
+        "energyPerServing": null,
+        "labelSources": [
+          "https://asitisnutrition.com/products/buy-best-l-carnitine-capsules-in-india"
+        ],
+        "searchAliases": [
+          "lclt"
+        ]
+      }
+    }
+  ]
+}

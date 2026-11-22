@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "TrueBasics",
+  "product": "TrueBasics Clean Whey Protein Isolate + Concentrate",
+  "variants": [
+    {
+      "order": 820,
+      "offer": {
+        "id": 820,
+        "brand": "TrueBasics",
+        "product": "TrueBasics Clean Whey Protein Isolate + Concentrate",
+        "type": "Whey — blend",
+        "flavour": "Chocolate",
+        "kg": 1,
+        "price": 4499,
+        "stock": "In stock",
+        "protein": 72,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey blend",
+        "energy": 399.17,
+        "url": "https://www.truebasics.com/sv/truebasics-clean-whey-protein-isolate-plus-concentrate/SP-135011?navKey=VRNT-266871",
+        "nutritionUrl": "https://www.truebasics.com/sv/truebasics-clean-whey-protein-isolate-plus-concentrate/SP-135011",
+        "basis": "25.2g protein / 35g serving; brand lab facts",
+        "notes": "Whey Isolate + Concentrate matrix delivering 5.39g BCAAs and 11.83g EAAs per scoop.",
+        "energyBasis": "Brand official label / serving instructions",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.truebasics.com/sv/truebasics-clean-whey-protein-isolate-plus-concentrate/SP-135011?navKey=VRNT-266871",
+          "evidenceUrl": "https://www.truebasics.com/sv/truebasics-clean-whey-protein-isolate-plus-concentrate/SP-135011",
+          "matchBasis": "Official selected product schema flavour and net pack match"
+        }
+      }
+    },
+    {
+      "order": 821,
+      "offer": {
+        "id": 821,
+        "brand": "TrueBasics",
+        "product": "TrueBasics Clean Whey Protein Isolate + Concentrate",
+        "type": "Whey — blend",
+        "flavour": "Chocolate",
+        "kg": 2,
+        "price": 8498,
+        "stock": "In stock",
+        "protein": 72,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey blend",
+        "energy": 399.17,
+        "url": "https://www.truebasics.com/pk/clean-whey-protein-isolate-plus-concentrate-2kg-chocolate-pack?navKey=PA-133197",
+        "nutritionUrl": "https://www.truebasics.com/pk/clean-whey-protein-isolate-plus-concentrate-2kg-chocolate-pack?navKey=PA-133197",
+        "basis": "25.2g protein / 35g serving; brand lab facts",
+        "notes": "Whey Isolate + Concentrate matrix delivering 5.39g BCAAs and 11.83g EAAs per scoop.",
+        "energyBasis": "Brand official label / serving instructions",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.truebasics.com/pk/clean-whey-protein-isolate-plus-concentrate-2kg-chocolate-pack?navKey=PA-133197",
+          "evidenceUrl": "https://www.truebasics.com/pk/clean-whey-protein-isolate-plus-concentrate-2kg-chocolate-pack?navKey=PA-133197",
+          "matchBasis": "Official selected product schema SKU matches exact navigation key"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 2990,
+      "observation": {
+        "category": "protein",
+        "offerId": 820,
+        "date": "2026-10-25",
+        "price": 4899,
+        "currency": "INR",
+        "sourceUrl": "https://www.truebasics.com/sv/truebasics-clean-whey-protein-isolate-plus-concentrate/SP-135011",
+        "evidenceUrl": "https://www.truebasics.com/sv/truebasics-clean-whey-protein-isolate-plus-concentrate/SP-135011",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": null
+      }
+    },
+    {
+      "order": 2991,
+      "observation": {
+        "category": "protein",
+        "offerId": 821,
+        "date": "2026-10-25",
+        "price": 9349,
+        "currency": "INR",
+        "sourceUrl": "https://www.truebasics.com/pk/clean-whey-protein-isolate-plus-concentrate-2kg-chocolate-pack?navKey=PA-133197",
+        "evidenceUrl": "https://www.truebasics.com/pk/clean-whey-protein-isolate-plus-concentrate-2kg-chocolate-pack?navKey=PA-133197",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "PA-133197"
+      }
+    },
+    {
+      "order": 4848,
+      "observation": {
+        "category": "protein",
+        "offerId": 820,
+        "date": "2026-11-19",
+        "price": 4499,
+        "currency": "INR",
+        "sourceUrl": "https://www.truebasics.com/sv/truebasics-clean-whey-protein-isolate-plus-concentrate/SP-135011?navKey=VRNT-266871",
+        "evidenceUrl": "https://www.truebasics.com/sv/truebasics-clean-whey-protein-isolate-plus-concentrate/SP-135011",
+        "kind": "official-live",
+        "matchBasis": "Official selected product schema flavour and net pack match",
+        "variantId": "VRNT-266871"
+      }
+    },
+    {
+      "order": 4849,
+      "observation": {
+        "category": "protein",
+        "offerId": 821,
+        "date": "2026-11-19",
+        "price": 8498,
+        "currency": "INR",
+        "sourceUrl": "https://www.truebasics.com/pk/clean-whey-protein-isolate-plus-concentrate-2kg-chocolate-pack?navKey=PA-133197",
+        "evidenceUrl": "https://www.truebasics.com/pk/clean-whey-protein-isolate-plus-concentrate-2kg-chocolate-pack?navKey=PA-133197",
+        "kind": "official-live",
+        "matchBasis": "Official selected product schema SKU matches exact navigation key",
+        "variantId": "VRNT-133197"
+      }
+    }
+  ],
+  "refreshSources": []
+}

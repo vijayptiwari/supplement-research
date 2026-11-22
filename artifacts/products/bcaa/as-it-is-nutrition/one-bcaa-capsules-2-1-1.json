@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "category": "bcaa",
+  "brand": "AS-IT-IS Nutrition",
+  "product": "ONE BCAA Capsules 2:1:1",
+  "variants": [
+    {
+      "order": 1,
+      "offer": {
+        "brand": "AS-IT-IS Nutrition",
+        "product": "ONE BCAA Capsules 2:1:1",
+        "form": "Capsule",
+        "type": "BCAA 2:1:1",
+        "subclass": "Capsules",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "packCount": 60,
+        "servingUnits": 2,
+        "servingGrams": null,
+        "labelChecked": "2026-11-17",
+        "basis": "Official page explicitly states 60 capsules per container and two capsules per label serving, supplying 1000 mg BCAA in a 2:1:1 ratio.",
+        "notes": "The ratio is recorded, but individual amino-acid masses are not inferred from the ratio alone.",
+        "grams": null,
+        "flavour": "Unflavoured",
+        "bcaaMg": 1000,
+        "leucineMg": null,
+        "isoleucineMg": null,
+        "valineMg": null,
+        "id": "bcaa-31363335454771",
+        "price": 367,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://asitisnutrition.com/products/bcaa-capsules?variant=31363335454771",
+        "nutritionUrl": "https://asitisnutrition.com/products/bcaa-capsules",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://asitisnutrition.com/products/bcaa-capsules?variant=31363335454771",
+          "evidenceUrl": "https://asitisnutrition.com/products/bcaa-capsules.json",
+          "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3812,
+      "observation": {
+        "category": "bcaa",
+        "offerId": "bcaa-31363335454771",
+        "date": "2026-11-17",
+        "price": 367,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/bcaa-capsules?variant=31363335454771",
+        "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "31363335454771",
+        "matchBasis": "Official Shopify public feed fetched 2026-11-17; exact variant ID, unconditional single-pack price, size/flavour and availability matched."
+      }
+    },
+    {
+      "order": 4006,
+      "observation": {
+        "category": "bcaa",
+        "offerId": "bcaa-31363335454771",
+        "date": "2026-11-19",
+        "price": 367,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/bcaa-capsules?variant=31363335454771",
+        "evidenceUrl": "https://asitisnutrition.com/products/bcaa-capsules.json",
+        "kind": "official-live",
+        "variantId": "31363335454771",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 96,
+      "profile": {
+        "category": "bcaa",
+        "brand": "AS-IT-IS Nutrition",
+        "base": "https://asitisnutrition.com",
+        "handle": "bcaa-capsules",
+        "product": "ONE BCAA Capsules 2:1:1",
+        "form": "Capsule",
+        "type": "BCAA 2:1:1",
+        "subclass": "Capsules",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "packCount": 60,
+        "servingUnits": 2,
+        "servingGrams": null,
+        "labelChecked": "2026-11-17",
+        "variantIds": [
+          "31363335454771"
+        ],
+        "basis": "Official page explicitly states 60 capsules per container and two capsules per label serving, supplying 1000 mg BCAA in a 2:1:1 ratio.",
+        "notes": "The ratio is recorded, but individual amino-acid masses are not inferred from the ratio alone.",
+        "grams": null,
+        "flavour": "Unflavoured",
+        "bcaaMg": 1000,
+        "leucineMg": null,
+        "isoleucineMg": null,
+        "valineMg": null
+      }
+    }
+  ]
+}

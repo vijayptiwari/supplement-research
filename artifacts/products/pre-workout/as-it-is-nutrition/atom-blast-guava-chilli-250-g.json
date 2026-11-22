@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "category": "pre-workout",
+  "brand": "AS-IT-IS Nutrition",
+  "product": "ATOM Blast — Guava Chilli 250 g",
+  "variants": [
+    {
+      "order": 0,
+      "offer": {
+        "brand": "AS-IT-IS Nutrition",
+        "product": "ATOM Blast — Guava Chilli 250 g",
+        "form": "Powder",
+        "type": "Caffeinated multi-ingredient",
+        "subclass": "Amino acids + creatine + botanicals",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "packCount": null,
+        "servingUnits": null,
+        "servingGrams": 10,
+        "labelChecked": "2026-11-17",
+        "basis": "Exact official 250 g Guava Chilli label states 10 g per serving, 4.4 g citrulline malate, 1 g arginine, 1 g beta-alanine, 800 mg labelled creatine and 500 mg taurine.",
+        "notes": "The pictured table declares 200 mg caffeine but also includes green tea and green coffee extracts in an 18.9 mg power blend; total caffeine from all sources is not established and is withheld. The headline shortens citrulline malate to L-citrulline; only the compound mass is recorded. Also declares 500 mg L-carnitine L-tartrate; no free-carnitine equivalent is inferred.",
+        "grams": 250,
+        "flavour": "Guava Chilli",
+        "caffeineMg": null,
+        "caffeineAnhydrousMg": null,
+        "citrullineMg": null,
+        "citrullineMalateMg": 4400,
+        "betaAlanineMg": 1000,
+        "creatineMg": 800,
+        "arginineMg": 1000,
+        "taurineMg": 500,
+        "stimulantStatus": "Contains caffeine",
+        "declaredNutrients": [
+          "caffeineMg",
+          "citrullineMalateMg",
+          "betaAlanineMg",
+          "creatineMg",
+          "arginineMg",
+          "taurineMg",
+          "caffeineComponentMg",
+          "carnitineCompoundMg"
+        ],
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0005/5335/3267/files/ATOM_BLAST_250G_GUAVA_CHILLI_NUTRITION_FACTS.jpg?v=1769670970",
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0005/5335/3267/files/ATOM_BLAST_250G_GUAVA_CHILLI_PRODUCT_FRONT_IMAGE.jpg?v=1769670940",
+          "https://cdn.shopify.com/s/files/1/0005/5335/3267/files/ATOM_BLAST_250G_GUAVA_CHILLI_NUTRITION_FACTS.jpg?v=1769670970"
+        ],
+        "id": "pre-workout-41878241837107",
+        "price": 1086,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://asitisnutrition.com/products/atom-blast-guava-chilli?variant=41878241837107",
+        "caffeineComponentMg": 200,
+        "carnitineCompoundMg": 500,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://asitisnutrition.com/products/atom-blast-guava-chilli?variant=41878241837107",
+          "evidenceUrl": "https://asitisnutrition.com/products/atom-blast-guava-chilli.json",
+          "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3821,
+      "observation": {
+        "category": "pre-workout",
+        "offerId": "pre-workout-41878241837107",
+        "date": "2026-11-17",
+        "price": 1086,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-blast-guava-chilli?variant=41878241837107",
+        "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "41878241837107",
+        "matchBasis": "Official Shopify public feed fetched 2026-11-17; exact variant ID, unconditional single-pack price, size/flavour and availability matched."
+      }
+    },
+    {
+      "order": 4015,
+      "observation": {
+        "category": "pre-workout",
+        "offerId": "pre-workout-41878241837107",
+        "date": "2026-11-19",
+        "price": 1086,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-blast-guava-chilli?variant=41878241837107",
+        "evidenceUrl": "https://asitisnutrition.com/products/atom-blast-guava-chilli.json",
+        "kind": "official-live",
+        "variantId": "41878241837107",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 105,
+      "profile": {
+        "category": "pre-workout",
+        "brand": "AS-IT-IS Nutrition",
+        "base": "https://asitisnutrition.com",
+        "handle": "atom-blast-guava-chilli",
+        "product": "ATOM Blast â€” Guava Chilli 250 g",
+        "form": "Powder",
+        "type": "Caffeinated multi-ingredient",
+        "subclass": "Amino acids + creatine + botanicals",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "packCount": null,
+        "servingUnits": null,
+        "servingGrams": 10,
+        "labelChecked": "2026-11-17",
+        "variantIds": [
+          "41878241837107"
+        ],
+        "basis": "Exact official 250 g Guava Chilli label states 10 g per serving, 4.4 g citrulline malate, 1 g arginine, 1 g beta-alanine, 800 mg labelled creatine and 500 mg taurine.",
+        "notes": "The pictured table declares 200 mg caffeine but also includes green tea and green coffee extracts in an 18.9 mg power blend; total caffeine from all sources is not established and is withheld. The headline shortens citrulline malate to L-citrulline; only the compound mass is recorded. Also declares 500 mg L-carnitine L-tartrate; no free-carnitine equivalent is inferred.",
+        "grams": 250,
+        "flavour": "Guava Chilli",
+        "caffeineMg": null,
+        "caffeineAnhydrousMg": null,
+        "citrullineMg": null,
+        "citrullineMalateMg": 4400,
+        "betaAlanineMg": 1000,
+        "creatineMg": 800,
+        "arginineMg": 1000,
+        "taurineMg": 500,
+        "stimulantStatus": "Contains caffeine",
+        "declaredNutrients": [
+          "caffeineMg",
+          "citrullineMalateMg",
+          "betaAlanineMg",
+          "creatineMg",
+          "arginineMg",
+          "taurineMg",
+          "caffeineComponentMg",
+          "carnitineCompoundMg"
+        ],
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0005/5335/3267/files/ATOM_BLAST_250G_GUAVA_CHILLI_NUTRITION_FACTS.jpg?v=1769670970",
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0005/5335/3267/files/ATOM_BLAST_250G_GUAVA_CHILLI_PRODUCT_FRONT_IMAGE.jpg?v=1769670940",
+          "https://cdn.shopify.com/s/files/1/0005/5335/3267/files/ATOM_BLAST_250G_GUAVA_CHILLI_NUTRITION_FACTS.jpg?v=1769670970"
+        ],
+        "caffeineComponentMg": 200,
+        "carnitineCompoundMg": 500
+      }
+    }
+  ]
+}

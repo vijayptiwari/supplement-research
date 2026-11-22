@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "name": "Supplement Research",
+  "baseUrl": "https://vijayptiwari.github.io/supplement-research/",
+  "locale": "en-IN",
+  "currency": "INR",
+  "timezone": "Asia/Kolkata",
+  "rankingLimit": 10,
+  "refreshIntervalMs": 60000,
+  "maxPriceAgeDays": 100,
+  "historyQuarters": 12,
+  "pageSizes": {
+    "grouped": 15,
+    "flat": 40
+  },
+  "observationsFile": "price-observations.json",
+  "testingFile": "trustified-reports.json",
+  "brandsFile": "brands.json",
+  "quickPicks": [
+    {
+      "label": "Plant protein",
+      "category": "protein",
+      "typeIncludes": [
+        "plant",
+        "pea",
+        "soy",
+        "rice"
+      ]
+    },
+    {
+      "label": "Unflavoured whey",
+      "category": "protein",
+      "typeIncludes": [
+        "whey"
+      ],
+      "unflavoured": true
+    },
+    {
+      "label": "Flavoured whey",
+      "category": "protein",
+      "typeIncludes": [
+        "whey"
+      ],
+      "unflavoured": false
+    },
+    {
+      "label": "Creatine monohydrate",
+      "category": "creatine",
+      "typeIncludes": [
+        "monohydrate"
+      ]
+    }
+  ],
+  "archives": [
+    {
+      "file": "India_Creatine_Catalog.xlsx",
+      "label": "Archived creatine workbook",
+      "dataAsOf": "2026-10-25"
+    }
+  ],
+  "catalogResearchFile": "catalog-research-summary.json"
+}

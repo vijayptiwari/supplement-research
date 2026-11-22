@@ -1,0 +1,236 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "Scitron",
+  "product": "Advance Protein",
+  "variants": [
+    {
+      "order": 827,
+      "offer": {
+        "id": "pr-scitron-45884819407001",
+        "brand": "Scitron",
+        "product": "Advance Protein",
+        "type": "Whey / yeast blend",
+        "subclass": "Yeast isolate and whey concentrate blend",
+        "flavour": "Double Rich Chocolate",
+        "kg": 1,
+        "protein": 64.86486486486487,
+        "scoop": 37,
+        "serving": 37,
+        "energy": 365,
+        "basis": "Exact flavour nutrition panel: 24 g protein per 37 g scoop; rounded panel protein 65 g/100 g. Energy is the directly declared per-100-g value.",
+        "energyBasis": "Official exact-flavour nutrition panel per 100 g",
+        "notes": "Contains whey protein concentrate, yeast protein isolate, calcium HMB, vitamins/minerals and enzymes. Conflict: generic description claims 3 g HMB, while the exact flavour panel declares 1.5 g calcium hydroxy methyl butyrate per 37 g scoop. Protein calculations use the panel serving basis. Ingredient declarations are not laboratory purity verification.",
+        "price": 2699,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://scitron.com/products/advance-protein?variant=45884819407001",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0591/3156/0089/files/Double_Rich_Chocolate_1KG_R4.jpg?v=1791785707",
+        "labelChecked": "2026-11-19",
+        "checked": "2026-11-19",
+        "labelSources": [
+          "https://scitron.com/products/advance-protein?variant=45884819407001",
+          "https://cdn.shopify.com/s/files/1/0591/3156/0089/files/Double_Rich_Chocolate_1KG_R4.jpg?v=1791785707"
+        ],
+        "grams": 1000,
+        "additionalIngredients": [
+          {
+            "name": "Calcium HMB",
+            "amount": 1500,
+            "unit": "mg",
+            "basis": "per 37 g scoop; compound mass, not verified free HMB payload"
+          },
+          {
+            "name": "Added vitamins and minerals",
+            "amount": null,
+            "unit": "label-specific",
+            "basis": "consult the exact flavour panel; not modeled in this protein entry"
+          }
+        ],
+        "requiresProductReview": true,
+        "productReviewReason": "Contains calcium HMB and added vitamins/minerals. Review the additional actives separately from the protein requirement; the HMB marketing claim and exact panel amount conflict."
+      }
+    },
+    {
+      "order": 828,
+      "offer": {
+        "id": "pr-scitron-67676816670873",
+        "brand": "Scitron",
+        "product": "Advance Protein",
+        "type": "Whey / yeast blend",
+        "subclass": "Yeast isolate and whey concentrate blend",
+        "flavour": "Cold Coffee",
+        "kg": 1,
+        "protein": 64.86486486486487,
+        "scoop": 37,
+        "serving": 37,
+        "energy": 343,
+        "basis": "Exact flavour nutrition panel: 24 g protein per 37 g scoop; rounded panel protein 65 g/100 g. Energy is the directly declared per-100-g value.",
+        "energyBasis": "Official exact-flavour nutrition panel per 100 g",
+        "notes": "Contains whey protein concentrate, yeast protein isolate, calcium HMB, vitamins/minerals and enzymes. Conflict: generic description claims 3 g HMB, while the exact flavour panel declares 1.5 g calcium hydroxy methyl butyrate per 37 g scoop. Protein calculations use the panel serving basis. Ingredient declarations are not laboratory purity verification.",
+        "price": 2699,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://scitron.com/products/advance-protein?variant=67676816670873",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0591/3156/0089/files/Cold_Coffee_1KG_R4.png?v=1791786215",
+        "labelChecked": "2026-11-19",
+        "checked": "2026-11-19",
+        "labelSources": [
+          "https://scitron.com/products/advance-protein?variant=67676816670873",
+          "https://cdn.shopify.com/s/files/1/0591/3156/0089/files/Cold_Coffee_1KG_R4.png?v=1791786215"
+        ],
+        "grams": 1000,
+        "additionalIngredients": [
+          {
+            "name": "Calcium HMB",
+            "amount": 1500,
+            "unit": "mg",
+            "basis": "per 37 g scoop; compound mass, not verified free HMB payload"
+          },
+          {
+            "name": "Added vitamins and minerals",
+            "amount": null,
+            "unit": "label-specific",
+            "basis": "consult the exact flavour panel; not modeled in this protein entry"
+          }
+        ],
+        "requiresProductReview": true,
+        "productReviewReason": "Contains calcium HMB and added vitamins/minerals. Review the additional actives separately from the protein requirement; the HMB marketing claim and exact panel amount conflict."
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5066,
+      "observation": {
+        "category": "protein",
+        "offerId": "pr-scitron-45884819407001",
+        "date": "2026-11-19",
+        "price": 2699,
+        "currency": "INR",
+        "sourceUrl": "https://scitron.com/products/advance-protein?variant=45884819407001",
+        "evidenceUrl": "https://scitron.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "variantId": "45884819407001",
+        "matchBasis": "Official public Shopify feed exact variant ID, named net retail pack and flavour; unconditional price and stock matched. Shipping grams are not used."
+      }
+    },
+    {
+      "order": 5067,
+      "observation": {
+        "category": "protein",
+        "offerId": "pr-scitron-67676816670873",
+        "date": "2026-11-19",
+        "price": 2699,
+        "currency": "INR",
+        "sourceUrl": "https://scitron.com/products/advance-protein?variant=67676816670873",
+        "evidenceUrl": "https://scitron.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "variantId": "67676816670873",
+        "matchBasis": "Official public Shopify feed exact variant ID, named net retail pack and flavour; unconditional price and stock matched. Shipping grams are not used."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 309,
+      "profile": {
+        "id": "pr-scitron-45884819407001",
+        "brand": "Scitron",
+        "product": "Advance Protein",
+        "type": "Whey / yeast blend",
+        "subclass": "Yeast isolate and whey concentrate blend",
+        "flavour": "Double Rich Chocolate",
+        "kg": 1,
+        "protein": 64.86486486486487,
+        "scoop": 37,
+        "serving": 37,
+        "energy": 365,
+        "basis": "Exact flavour nutrition panel: 24 g protein per 37 g scoop; rounded panel protein 65 g/100 g. Energy is the directly declared per-100-g value.",
+        "energyBasis": "Official exact-flavour nutrition panel per 100 g",
+        "notes": "Contains whey protein concentrate, yeast protein isolate, calcium HMB, vitamins/minerals and enzymes. Conflict: generic description claims 3 g HMB, while the exact flavour panel declares 1.5 g calcium hydroxy methyl butyrate per 37 g scoop. Protein calculations use the panel serving basis. Ingredient declarations are not laboratory purity verification.",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0591/3156/0089/files/Double_Rich_Chocolate_1KG_R4.jpg?v=1791785707",
+        "labelChecked": "2026-11-19",
+        "labelSources": [
+          "https://scitron.com/products/advance-protein?variant=45884819407001",
+          "https://cdn.shopify.com/s/files/1/0591/3156/0089/files/Double_Rich_Chocolate_1KG_R4.jpg?v=1791785707"
+        ],
+        "grams": 1000,
+        "additionalIngredients": [
+          {
+            "name": "Calcium HMB",
+            "amount": 1500,
+            "unit": "mg",
+            "basis": "per 37 g scoop; compound mass, not verified free HMB payload"
+          },
+          {
+            "name": "Added vitamins and minerals",
+            "amount": null,
+            "unit": "label-specific",
+            "basis": "consult the exact flavour panel; not modeled in this protein entry"
+          }
+        ],
+        "requiresProductReview": true,
+        "productReviewReason": "Contains calcium HMB and added vitamins/minerals. Review the additional actives separately from the protein requirement; the HMB marketing claim and exact panel amount conflict.",
+        "category": "protein",
+        "kind": "shopify",
+        "base": "https://scitron.com",
+        "handle": "advance-protein",
+        "form": "Powder",
+        "variantIds": [
+          "45884819407001"
+        ]
+      }
+    },
+    {
+      "order": 310,
+      "profile": {
+        "id": "pr-scitron-67676816670873",
+        "brand": "Scitron",
+        "product": "Advance Protein",
+        "type": "Whey / yeast blend",
+        "subclass": "Yeast isolate and whey concentrate blend",
+        "flavour": "Cold Coffee",
+        "kg": 1,
+        "protein": 64.86486486486487,
+        "scoop": 37,
+        "serving": 37,
+        "energy": 343,
+        "basis": "Exact flavour nutrition panel: 24 g protein per 37 g scoop; rounded panel protein 65 g/100 g. Energy is the directly declared per-100-g value.",
+        "energyBasis": "Official exact-flavour nutrition panel per 100 g",
+        "notes": "Contains whey protein concentrate, yeast protein isolate, calcium HMB, vitamins/minerals and enzymes. Conflict: generic description claims 3 g HMB, while the exact flavour panel declares 1.5 g calcium hydroxy methyl butyrate per 37 g scoop. Protein calculations use the panel serving basis. Ingredient declarations are not laboratory purity verification.",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0591/3156/0089/files/Cold_Coffee_1KG_R4.png?v=1791786215",
+        "labelChecked": "2026-11-19",
+        "labelSources": [
+          "https://scitron.com/products/advance-protein?variant=67676816670873",
+          "https://cdn.shopify.com/s/files/1/0591/3156/0089/files/Cold_Coffee_1KG_R4.png?v=1791786215"
+        ],
+        "grams": 1000,
+        "additionalIngredients": [
+          {
+            "name": "Calcium HMB",
+            "amount": 1500,
+            "unit": "mg",
+            "basis": "per 37 g scoop; compound mass, not verified free HMB payload"
+          },
+          {
+            "name": "Added vitamins and minerals",
+            "amount": null,
+            "unit": "label-specific",
+            "basis": "consult the exact flavour panel; not modeled in this protein entry"
+          }
+        ],
+        "requiresProductReview": true,
+        "productReviewReason": "Contains calcium HMB and added vitamins/minerals. Review the additional actives separately from the protein requirement; the HMB marketing claim and exact panel amount conflict.",
+        "category": "protein",
+        "kind": "shopify",
+        "base": "https://scitron.com",
+        "handle": "advance-protein",
+        "form": "Powder",
+        "variantIds": [
+          "67676816670873"
+        ]
+      }
+    }
+  ]
+}

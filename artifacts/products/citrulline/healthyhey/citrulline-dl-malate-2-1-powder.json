@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "category": "citrulline",
+  "brand": "HealthyHey",
+  "product": "Citrulline DL-Malate 2:1 Powder",
+  "variants": [
+    {
+      "order": 2,
+      "offer": {
+        "brand": "HealthyHey",
+        "product": "Citrulline DL-Malate 2:1 Powder",
+        "form": "Powder",
+        "type": "L-citrulline DL-malate",
+        "subclass": "2:1 compound",
+        "source": "Not specified",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "grams": 200,
+        "servingGrams": 2,
+        "basis": "Official inspected back-label image specifies one 2 g scoop and 2 g L-citrulline DL-malate, with a stated 2:1 ingredient ratio; pack is 200 g.",
+        "notes": "HTML contains conflicting capsule and 200 g-per-serving text. The inspected powder back label establishes the 2 g composition basis. Free L-citrulline remains unverified; no conversion from 2:1 is made.",
+        "labelChecked": "2026-11-17",
+        "citrullineMalateMg": 2000,
+        "citrullineMalateRatio": "2:1",
+        "energyPerServing": 0,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-sports-powder-citrulline-malate-muscle-growth-2-1-powerful-pre-workout-200-g-100-servings-unflavoured-1251566357.png?v=1791303901"
+        ],
+        "citrullineMg": null,
+        "id": "citrulline-44683651940637",
+        "price": 599,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://healthyhey.com/products/healthyhey-sports-citrulline-malate-2-1-200-g-100-servings-unflavoured?variant=44683651940637",
+        "nutritionUrl": "https://healthyhey.com/products/healthyhey-sports-citrulline-malate-2-1-200-g-100-servings-unflavoured",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://healthyhey.com/products/healthyhey-sports-citrulline-malate-2-1-200-g-100-servings-unflavoured?variant=44683651940637",
+          "evidenceUrl": "https://healthyhey.com/products/healthyhey-sports-citrulline-malate-2-1-200-g-100-servings-unflavoured.json",
+          "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3828,
+      "observation": {
+        "category": "citrulline",
+        "offerId": "citrulline-44683651940637",
+        "date": "2026-11-17",
+        "price": 528,
+        "currency": "INR",
+        "sourceUrl": "https://healthyhey.com/products/healthyhey-sports-citrulline-malate-2-1-200-g-100-servings-unflavoured?variant=44683651940637",
+        "evidenceUrl": "https://healthyhey.com/products/healthyhey-sports-citrulline-malate-2-1-200-g-100-servings-unflavoured.json",
+        "kind": "official-live",
+        "matchBasis": "Direct official same-day source; exact retail variant and weight. Member, prepaid and coupon discounts excluded.",
+        "variantId": "44683651940637"
+      }
+    },
+    {
+      "order": 4021,
+      "observation": {
+        "category": "citrulline",
+        "offerId": "citrulline-44683651940637",
+        "date": "2026-11-19",
+        "price": 599,
+        "currency": "INR",
+        "sourceUrl": "https://healthyhey.com/products/healthyhey-sports-citrulline-malate-2-1-200-g-100-servings-unflavoured?variant=44683651940637",
+        "evidenceUrl": "https://healthyhey.com/products/healthyhey-sports-citrulline-malate-2-1-200-g-100-servings-unflavoured.json",
+        "kind": "official-live",
+        "variantId": "44683651940637",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 112,
+      "profile": {
+        "category": "citrulline",
+        "brand": "HealthyHey",
+        "base": "https://healthyhey.com",
+        "handle": "healthyhey-sports-citrulline-malate-2-1-200-g-100-servings-unflavoured",
+        "product": "Citrulline DL-Malate 2:1 Powder",
+        "form": "Powder",
+        "type": "L-citrulline DL-malate",
+        "subclass": "2:1 compound",
+        "source": "Not specified",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "grams": 200,
+        "servingGrams": 2,
+        "basis": "Official inspected back-label image specifies one 2 g scoop and 2 g L-citrulline DL-malate, with a stated 2:1 ingredient ratio; pack is 200 g.",
+        "notes": "HTML contains conflicting capsule and 200 g-per-serving text. The inspected powder back label establishes the 2 g composition basis. Free L-citrulline remains unverified; no conversion from 2:1 is made.",
+        "labelChecked": "2026-11-17",
+        "variantIds": [
+          "44683651940637"
+        ],
+        "citrullineMalateMg": 2000,
+        "citrullineMalateRatio": "2:1",
+        "energyPerServing": 0,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-sports-powder-citrulline-malate-muscle-growth-2-1-powerful-pre-workout-200-g-100-servings-unflavoured-1251566357.png?v=1791303901"
+        ],
+        "citrullineMg": null
+      }
+    }
+  ]
+}

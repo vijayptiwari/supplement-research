@@ -1,0 +1,2043 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "Avvatar",
+  "product": "Whey Protein",
+  "variants": [
+    {
+      "order": 152,
+      "offer": {
+        "id": 152,
+        "brand": "Avvatar",
+        "product": "Whey Protein",
+        "type": "Whey — blend",
+        "flavour": "Belgian Chocolate",
+        "kg": 1,
+        "price": 4899,
+        "stock": "Listed; confirm stock",
+        "protein": 68.57142857142857,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://www.avvatarindia.com/product/whey-protein-belgian-chocolate-flavour-1-kg",
+        "nutritionUrl": "https://www.avvatarindia.com/product/whey-protein-belgian-chocolate-flavour-1-kg",
+        "basis": "24g protein / 35g scoop; exact product page",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-belgian-chocolate-flavour-1-kg",
+          "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-belgian-chocolate-flavour-1-kg",
+          "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+        }
+      }
+    },
+    {
+      "order": 153,
+      "offer": {
+        "id": 153,
+        "brand": "Avvatar",
+        "product": "Whey Protein",
+        "type": "Whey — blend",
+        "flavour": "Belgian Chocolate",
+        "kg": 2,
+        "price": 9798,
+        "stock": "Listed; confirm stock",
+        "protein": 68.57142857142857,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://www.avvatarindia.com/product/whey-protein-belgian-chocolate-flavour-2-kg",
+        "nutritionUrl": "https://www.avvatarindia.com/product/whey-protein-belgian-chocolate-flavour-2-kg",
+        "basis": "24g protein / 35g scoop; exact product page",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-belgian-chocolate-flavour-2-kg",
+          "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-belgian-chocolate-flavour-2-kg",
+          "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+        }
+      }
+    },
+    {
+      "order": 154,
+      "offer": {
+        "id": 154,
+        "brand": "Avvatar",
+        "product": "Whey Protein",
+        "type": "Whey — blend",
+        "flavour": "Belgian Chocolate",
+        "kg": 4,
+        "price": 14639,
+        "stock": "Listed; confirm stock",
+        "protein": 68.57142857142857,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://www.avvatarindia.com/product/whey-protein-belgian-chocolate-flavour-4-kg",
+        "nutritionUrl": "https://www.avvatarindia.com/product/whey-protein-belgian-chocolate-flavour-4-kg",
+        "basis": "24g protein / 35g scoop; exact product page",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-belgian-chocolate-flavour-4-kg",
+          "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-belgian-chocolate-flavour-4-kg",
+          "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+        }
+      }
+    },
+    {
+      "order": 155,
+      "offer": {
+        "id": 155,
+        "brand": "Avvatar",
+        "product": "Whey Protein",
+        "type": "Whey — blend",
+        "flavour": "Café Mocha Swirl",
+        "kg": 1,
+        "price": 4899,
+        "stock": "Listed; confirm stock",
+        "protein": 68.57142857142857,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://www.avvatarindia.com/product/whey-protein-cafe-mocha-swirl-flavour-1-kg",
+        "nutritionUrl": "https://www.avvatarindia.com/product/whey-protein-cafe-mocha-swirl-flavour-1-kg",
+        "basis": "24.0g protein / 35g scoop; exact product page",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-cafe-mocha-swirl-flavour-1-kg",
+          "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-cafe-mocha-swirl-flavour-1-kg",
+          "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+        }
+      }
+    },
+    {
+      "order": 156,
+      "offer": {
+        "id": 156,
+        "brand": "Avvatar",
+        "product": "Whey Protein",
+        "type": "Whey — blend",
+        "flavour": "Café Mocha Swirl",
+        "kg": 2,
+        "price": 9798,
+        "stock": "Listed; confirm stock",
+        "protein": 68.57142857142857,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://www.avvatarindia.com/product/whey-protein-cafe-mocha-swirl-flavour-2-kg",
+        "nutritionUrl": "https://www.avvatarindia.com/product/whey-protein-cafe-mocha-swirl-flavour-2-kg",
+        "basis": "24g protein / 35g scoop; exact product page",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-cafe-mocha-swirl-flavour-2-kg",
+          "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-cafe-mocha-swirl-flavour-2-kg",
+          "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+        }
+      }
+    },
+    {
+      "order": 157,
+      "offer": {
+        "id": 157,
+        "brand": "Avvatar",
+        "product": "Whey Protein",
+        "type": "Whey — blend",
+        "flavour": "Caramel Crème",
+        "kg": 1,
+        "price": 4229,
+        "stock": "Listed; confirm stock",
+        "protein": 77.14285714285715,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://www.avvatarindia.com/product/whey-protein-caramel-creme-flavour-1-kg",
+        "nutritionUrl": "https://www.avvatarindia.com/product/whey-protein-caramel-creme-flavour-1-kg",
+        "basis": "27g protein / 35g scoop; exact product page",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-caramel-creme-flavour-1-kg",
+          "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-caramel-creme-flavour-1-kg",
+          "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+        }
+      }
+    },
+    {
+      "order": 158,
+      "offer": {
+        "id": 158,
+        "brand": "Avvatar",
+        "product": "Whey Protein",
+        "type": "Whey — blend",
+        "flavour": "Caramel Crème",
+        "kg": 2,
+        "price": 8818,
+        "stock": "Listed; confirm stock",
+        "protein": 77.14285714285715,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://www.avvatarindia.com/product/whey-protein-caramel-creme-flavour-2-kg",
+        "nutritionUrl": "https://www.avvatarindia.com/product/whey-protein-caramel-creme-flavour-2-kg",
+        "basis": "27g protein / 35g scoop; exact product page",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-caramel-creme-flavour-2-kg",
+          "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-caramel-creme-flavour-2-kg",
+          "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+        }
+      }
+    },
+    {
+      "order": 159,
+      "offer": {
+        "id": 159,
+        "brand": "Avvatar",
+        "product": "Whey Protein",
+        "type": "Whey — blend",
+        "flavour": "Chocolate Hazelnut",
+        "kg": 1,
+        "price": 4409,
+        "stock": "Listed; confirm stock",
+        "protein": 77.14285714285715,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-1-kg",
+        "nutritionUrl": "https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-1-kg",
+        "basis": "27g protein / 35g scoop; exact product page",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-1-kg",
+          "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-1-kg",
+          "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+        }
+      }
+    },
+    {
+      "order": 160,
+      "offer": {
+        "id": 160,
+        "brand": "Avvatar",
+        "product": "Whey Protein",
+        "type": "Whey — blend",
+        "flavour": "Chocolate Hazelnut",
+        "kg": 2,
+        "price": 9798,
+        "stock": "Listed; confirm stock",
+        "protein": 77.14285714285715,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-2-kg",
+        "nutritionUrl": "https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-2-kg",
+        "basis": "27g protein / 35g scoop; exact product page",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-2-kg",
+          "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-2-kg",
+          "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+        }
+      }
+    },
+    {
+      "order": 161,
+      "offer": {
+        "id": 161,
+        "brand": "Avvatar",
+        "product": "Whey Protein",
+        "type": "Whey — blend",
+        "flavour": "Chocolate Hazelnut",
+        "kg": 4,
+        "price": 19596,
+        "stock": "Listed; confirm stock",
+        "protein": 77.14285714285715,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-4-kg",
+        "nutritionUrl": "https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-4-kg",
+        "basis": "27g protein / 35g scoop; exact product page",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-4-kg",
+          "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-4-kg",
+          "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+        }
+      }
+    },
+    {
+      "order": 162,
+      "offer": {
+        "id": 162,
+        "brand": "Avvatar",
+        "product": "Whey Protein",
+        "type": "Whey — blend",
+        "flavour": "Malai Kulfi",
+        "kg": 1,
+        "price": 4899,
+        "stock": "Listed; confirm stock",
+        "protein": 80,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://www.avvatarindia.com/product/whey-protein-malai-kulfi-flavour-1-kg",
+        "nutritionUrl": "https://www.avvatarindia.com/product/whey-protein-malai-kulfi-flavour-1-kg",
+        "basis": "28g protein / 35g scoop; exact product page",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-malai-kulfi-flavour-1-kg",
+          "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-malai-kulfi-flavour-1-kg",
+          "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+        }
+      }
+    },
+    {
+      "order": 163,
+      "offer": {
+        "id": 163,
+        "brand": "Avvatar",
+        "product": "Whey Protein",
+        "type": "Whey — blend",
+        "flavour": "Malai Kulfi",
+        "kg": 2,
+        "price": 9798,
+        "stock": "Listed; confirm stock",
+        "protein": 80,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://www.avvatarindia.com/product/whey-protein-malai-kulfi-flavour-2-kg",
+        "nutritionUrl": "https://www.avvatarindia.com/product/whey-protein-malai-kulfi-flavour-2-kg",
+        "basis": "28g protein / 35g scoop; exact product page",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-malai-kulfi-flavour-2-kg",
+          "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-malai-kulfi-flavour-2-kg",
+          "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+        }
+      }
+    },
+    {
+      "order": 164,
+      "offer": {
+        "id": 164,
+        "brand": "Avvatar",
+        "product": "Whey Protein",
+        "type": "Whey — blend",
+        "flavour": "Malai Kulfi",
+        "kg": 4,
+        "price": 14639,
+        "stock": "Listed; confirm stock",
+        "protein": 80,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://www.avvatarindia.com/product/whey-protein-malai-kulfi-flavour-4-kg",
+        "nutritionUrl": "https://www.avvatarindia.com/product/whey-protein-malai-kulfi-flavour-4-kg",
+        "basis": "28g protein / 35g scoop; exact product page",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-malai-kulfi-flavour-4-kg",
+          "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-malai-kulfi-flavour-4-kg",
+          "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+        }
+      }
+    },
+    {
+      "order": 165,
+      "offer": {
+        "id": 165,
+        "brand": "Avvatar",
+        "product": "Whey Protein",
+        "type": "Whey — blend",
+        "flavour": "Mango Rush",
+        "kg": 1,
+        "price": 4229,
+        "stock": "Listed; confirm stock",
+        "protein": 77.14285714285715,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://www.avvatarindia.com/product/whey-protein-mango-rush-flavour-1-kg",
+        "nutritionUrl": "https://www.avvatarindia.com/product/whey-protein-mango-rush-flavour-1-kg",
+        "basis": "27g protein / 35g scoop; exact product page",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-mango-rush-flavour-1-kg",
+          "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-mango-rush-flavour-1-kg",
+          "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+        }
+      }
+    },
+    {
+      "order": 166,
+      "offer": {
+        "id": 166,
+        "brand": "Avvatar",
+        "product": "Whey Protein",
+        "type": "Whey — blend",
+        "flavour": "Mango Rush",
+        "kg": 2,
+        "price": 7699,
+        "stock": "Listed; confirm stock",
+        "protein": 77.14285714285715,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://www.avvatarindia.com/product/whey-protein-mango-rush-flavour-2-kg",
+        "nutritionUrl": "https://www.avvatarindia.com/product/whey-protein-mango-rush-flavour-2-kg",
+        "basis": "27g protein / 35g scoop; exact product page",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-mango-rush-flavour-2-kg",
+          "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-mango-rush-flavour-2-kg",
+          "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+        }
+      }
+    },
+    {
+      "order": 167,
+      "offer": {
+        "id": 167,
+        "brand": "Avvatar",
+        "product": "Whey Protein",
+        "type": "Whey — blend",
+        "flavour": "Mango Rush",
+        "kg": 4,
+        "price": 14639,
+        "stock": "Listed; confirm stock",
+        "protein": 77.14285714285715,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://www.avvatarindia.com/product/whey-protein-mango-rush-flavour-4-kg",
+        "nutritionUrl": "https://www.avvatarindia.com/product/whey-protein-mango-rush-flavour-4-kg",
+        "basis": "27g protein / 35g scoop; exact product page",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-mango-rush-flavour-4-kg",
+          "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-mango-rush-flavour-4-kg",
+          "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+        }
+      }
+    },
+    {
+      "order": 168,
+      "offer": {
+        "id": 168,
+        "brand": "Avvatar",
+        "product": "Whey Protein",
+        "type": "Whey — blend",
+        "flavour": "Raw Unflavoured",
+        "kg": 1,
+        "price": 4049,
+        "stock": "Listed; confirm stock",
+        "protein": 77.14285714285715,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-1-kg",
+        "nutritionUrl": "https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-1-kg",
+        "basis": "27g protein / 35g scoop; exact product page",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-1-kg",
+          "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-1-kg",
+          "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+        }
+      }
+    },
+    {
+      "order": 169,
+      "offer": {
+        "id": 169,
+        "brand": "Avvatar",
+        "product": "Whey Protein",
+        "type": "Whey — blend",
+        "flavour": "Raw Unflavoured",
+        "kg": 4,
+        "price": 16196,
+        "stock": "Listed; confirm stock",
+        "protein": 78.85714285714286,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-4-kg",
+        "nutritionUrl": "https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-4-kg",
+        "basis": "27.6g protein / 35g scoop; exact product page",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-4-kg",
+          "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-4-kg",
+          "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 437,
+      "observation": {
+        "category": "protein",
+        "offerId": 156,
+        "date": "2025-02-08",
+        "price": 5499,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-cafe-mocha-swirl-flavour-2-kg",
+        "evidenceUrl": "https://web.archive.org/web/20250208131138/https://www.avvatarindia.com/product/whey-protein-cafe-mocha-swirl-flavour-2-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 438,
+      "observation": {
+        "category": "protein",
+        "offerId": 157,
+        "date": "2023-12-06",
+        "price": 2439,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-caramel-creme-flavour-1-kg",
+        "evidenceUrl": "https://web.archive.org/web/20231206150512id_/https://avvatarindia.com/product/whey-protein-caramel-creme-flavour-1-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 439,
+      "observation": {
+        "category": "protein",
+        "offerId": 157,
+        "date": "2024-07-13",
+        "price": 2749,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-caramel-creme-flavour-1-kg",
+        "evidenceUrl": "https://web.archive.org/web/20240713165257id_/https://www.avvatarindia.com/product/whey-protein-caramel-creme-flavour-1-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 440,
+      "observation": {
+        "category": "protein",
+        "offerId": 158,
+        "date": "2024-10-07",
+        "price": 4999,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-caramel-creme-flavour-2-kg",
+        "evidenceUrl": "https://web.archive.org/web/20241007132717id_/https://www.avvatarindia.com/product/whey-protein-caramel-creme-flavour-2-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 441,
+      "observation": {
+        "category": "protein",
+        "offerId": 158,
+        "date": "2025-06-11",
+        "price": 5499,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-caramel-creme-flavour-2-kg",
+        "evidenceUrl": "https://web.archive.org/web/20250611064805id_/https://www.avvatarindia.com/product/whey-protein-caramel-creme-flavour-2-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 442,
+      "observation": {
+        "category": "protein",
+        "offerId": 158,
+        "date": "2025-11-09",
+        "price": 6227,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-caramel-creme-flavour-2-kg",
+        "evidenceUrl": "https://web.archive.org/web/20251109122045id_/https://www.avvatarindia.com/product/whey-protein-caramel-creme-flavour-2-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 443,
+      "observation": {
+        "category": "protein",
+        "offerId": 159,
+        "date": "2023-12-06",
+        "price": 2439,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-1-kg",
+        "evidenceUrl": "https://web.archive.org/web/20231206135236id_/https://avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-1-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 444,
+      "observation": {
+        "category": "protein",
+        "offerId": 159,
+        "date": "2024-10-07",
+        "price": 2749,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-1-kg",
+        "evidenceUrl": "https://web.archive.org/web/20241007135807id_/https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-1-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 445,
+      "observation": {
+        "category": "protein",
+        "offerId": 159,
+        "date": "2025-03-29",
+        "price": 2717,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-1-kg",
+        "evidenceUrl": "https://web.archive.org/web/20250329224453id_/https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-1-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 446,
+      "observation": {
+        "category": "protein",
+        "offerId": 159,
+        "date": "2025-06-11",
+        "price": 3019,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-1-kg",
+        "evidenceUrl": "https://web.archive.org/web/20250611064805id_/https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-1-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 447,
+      "observation": {
+        "category": "protein",
+        "offerId": 159,
+        "date": "2025-07-16",
+        "price": 2717,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-1-kg",
+        "evidenceUrl": "https://web.archive.org/web/20250716020855id_/https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-1-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 448,
+      "observation": {
+        "category": "protein",
+        "offerId": 159,
+        "date": "2025-10-14",
+        "price": 3291,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-1-kg",
+        "evidenceUrl": "https://web.archive.org/web/20251014033157id_/https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-1-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 449,
+      "observation": {
+        "category": "protein",
+        "offerId": 159,
+        "date": "2026-02-09",
+        "price": 3349,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-1-kg",
+        "evidenceUrl": "https://web.archive.org/web/20260209110738id_/https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-1-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 450,
+      "observation": {
+        "category": "protein",
+        "offerId": 160,
+        "date": "2023-12-06",
+        "price": 4391,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-2-kg",
+        "evidenceUrl": "https://web.archive.org/web/20231206140645id_/https://avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-2-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 451,
+      "observation": {
+        "category": "protein",
+        "offerId": 160,
+        "date": "2024-06-15",
+        "price": 4999,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-2-kg",
+        "evidenceUrl": "https://web.archive.org/web/20240615104145id_/https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-2-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 452,
+      "observation": {
+        "category": "protein",
+        "offerId": 160,
+        "date": "2024-10-07",
+        "price": 4999,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-2-kg",
+        "evidenceUrl": "https://web.archive.org/web/20241007141140id_/https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-2-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 453,
+      "observation": {
+        "category": "protein",
+        "offerId": 160,
+        "date": "2025-01-23",
+        "price": 4949,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-2-kg",
+        "evidenceUrl": "https://web.archive.org/web/20250123071108id_/https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-2-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 454,
+      "observation": {
+        "category": "protein",
+        "offerId": 160,
+        "date": "2025-06-11",
+        "price": 5499,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-2-kg",
+        "evidenceUrl": "https://web.archive.org/web/20250611064805id_/https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-2-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 455,
+      "observation": {
+        "category": "protein",
+        "offerId": 160,
+        "date": "2025-08-07",
+        "price": 6999,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-2-kg",
+        "evidenceUrl": "https://web.archive.org/web/20250807160302id_/https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-2-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 456,
+      "observation": {
+        "category": "protein",
+        "offerId": 160,
+        "date": "2026-01-22",
+        "price": 5599,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-2-kg",
+        "evidenceUrl": "https://web.archive.org/web/20260122040649id_/https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-2-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 457,
+      "observation": {
+        "category": "protein",
+        "offerId": 160,
+        "date": "2026-06-07",
+        "price": 7269,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-2-kg",
+        "evidenceUrl": "https://web.archive.org/web/20260607140240id_/https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-2-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 458,
+      "observation": {
+        "category": "protein",
+        "offerId": 161,
+        "date": "2023-12-06",
+        "price": 8356,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-4-kg",
+        "evidenceUrl": "https://web.archive.org/web/20231206143624id_/https://avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-4-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 459,
+      "observation": {
+        "category": "protein",
+        "offerId": 161,
+        "date": "2024-06-15",
+        "price": 9499,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-4-kg",
+        "evidenceUrl": "https://web.archive.org/web/20240615111924/https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-4-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 460,
+      "observation": {
+        "category": "protein",
+        "offerId": 161,
+        "date": "2024-10-07",
+        "price": 9499,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-4-kg",
+        "evidenceUrl": "https://web.archive.org/web/20241007143820/https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-4-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 461,
+      "observation": {
+        "category": "protein",
+        "offerId": 161,
+        "date": "2025-06-11",
+        "price": 10499,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-4-kg",
+        "evidenceUrl": "https://web.archive.org/web/20250611064805id_/https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-4-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 462,
+      "observation": {
+        "category": "protein",
+        "offerId": 162,
+        "date": "2023-12-06",
+        "price": 2439,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-malai-kulfi-flavour-1-kg",
+        "evidenceUrl": "https://web.archive.org/web/20231206152115id_/https://avvatarindia.com/product/whey-protein-malai-kulfi-flavour-1-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 463,
+      "observation": {
+        "category": "protein",
+        "offerId": 162,
+        "date": "2024-06-15",
+        "price": 2749,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-malai-kulfi-flavour-1-kg",
+        "evidenceUrl": "https://web.archive.org/web/20240615120734/https://www.avvatarindia.com/product/whey-protein-malai-kulfi-flavour-1-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 464,
+      "observation": {
+        "category": "protein",
+        "offerId": 162,
+        "date": "2025-06-11",
+        "price": 3019,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-malai-kulfi-flavour-1-kg",
+        "evidenceUrl": "https://web.archive.org/web/20250611064805/https://www.avvatarindia.com/product/whey-protein-malai-kulfi-flavour-1-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 465,
+      "observation": {
+        "category": "protein",
+        "offerId": 162,
+        "date": "2025-08-08",
+        "price": 3699,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-malai-kulfi-flavour-1-kg",
+        "evidenceUrl": "https://web.archive.org/web/20250808132753/https://www.avvatarindia.com/product/whey-protein-malai-kulfi-flavour-1-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 466,
+      "observation": {
+        "category": "protein",
+        "offerId": 162,
+        "date": "2026-01-22",
+        "price": 2899,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-malai-kulfi-flavour-1-kg",
+        "evidenceUrl": "https://web.archive.org/web/20260122044611/https://www.avvatarindia.com/product/whey-protein-malai-kulfi-flavour-1-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 467,
+      "observation": {
+        "category": "protein",
+        "offerId": 163,
+        "date": "2024-12-13",
+        "price": 4999,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-malai-kulfi-flavour-2-kg",
+        "evidenceUrl": "https://web.archive.org/web/20241213221040/https://www.avvatarindia.com/product/whey-protein-malai-kulfi-flavour-2-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 468,
+      "observation": {
+        "category": "protein",
+        "offerId": 164,
+        "date": "2024-10-07",
+        "price": 9499,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-malai-kulfi-flavour-4-kg",
+        "evidenceUrl": "https://web.archive.org/web/20241007141105/https://www.avvatarindia.com/product/whey-protein-malai-kulfi-flavour-4-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 469,
+      "observation": {
+        "category": "protein",
+        "offerId": 164,
+        "date": "2025-03-21",
+        "price": 10499,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-malai-kulfi-flavour-4-kg",
+        "evidenceUrl": "https://web.archive.org/web/20250321201614/https://www.avvatarindia.com/product/whey-protein-malai-kulfi-flavour-4-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 470,
+      "observation": {
+        "category": "protein",
+        "offerId": 164,
+        "date": "2025-06-20",
+        "price": 9449,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-malai-kulfi-flavour-4-kg",
+        "evidenceUrl": "https://web.archive.org/web/20250620012152/https://www.avvatarindia.com/product/whey-protein-malai-kulfi-flavour-4-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 471,
+      "observation": {
+        "category": "protein",
+        "offerId": 165,
+        "date": "2023-12-06",
+        "price": 2439,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-mango-rush-flavour-1-kg",
+        "evidenceUrl": "https://web.archive.org/web/20231206134149/https://avvatarindia.com/product/whey-protein-mango-rush-flavour-1-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 472,
+      "observation": {
+        "category": "protein",
+        "offerId": 165,
+        "date": "2025-02-08",
+        "price": 3019,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-mango-rush-flavour-1-kg",
+        "evidenceUrl": "https://web.archive.org/web/20250208123623/https://www.avvatarindia.com/product/whey-protein-mango-rush-flavour-1-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 473,
+      "observation": {
+        "category": "protein",
+        "offerId": 165,
+        "date": "2026-01-22",
+        "price": 2899,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-mango-rush-flavour-1-kg",
+        "evidenceUrl": "https://web.archive.org/web/20260122035738id_/https://www.avvatarindia.com/product/whey-protein-mango-rush-flavour-1-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 474,
+      "observation": {
+        "category": "protein",
+        "offerId": 166,
+        "date": "2024-06-15",
+        "price": 4999,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-mango-rush-flavour-2-kg",
+        "evidenceUrl": "https://web.archive.org/web/20240615112337id_/https://www.avvatarindia.com/product/whey-protein-mango-rush-flavour-2-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 475,
+      "observation": {
+        "category": "protein",
+        "offerId": 166,
+        "date": "2026-06-07",
+        "price": 7269,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-mango-rush-flavour-2-kg",
+        "evidenceUrl": "https://web.archive.org/web/20260607141713id_/https://www.avvatarindia.com/product/whey-protein-mango-rush-flavour-2-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 476,
+      "observation": {
+        "category": "protein",
+        "offerId": 168,
+        "date": "2023-12-06",
+        "price": 1899,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-1-kg",
+        "evidenceUrl": "https://web.archive.org/web/20231206144859id_/https://avvatarindia.com/product/whey-protein-raw-unflavoured-1-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 477,
+      "observation": {
+        "category": "protein",
+        "offerId": 168,
+        "date": "2024-11-09",
+        "price": 2099,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-1-kg",
+        "evidenceUrl": "https://web.archive.org/web/20241109154956id_/https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-1-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 478,
+      "observation": {
+        "category": "protein",
+        "offerId": 168,
+        "date": "2025-06-11",
+        "price": 2299,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-1-kg",
+        "evidenceUrl": "https://web.archive.org/web/20250611064744id_/https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-1-kg?gad_source=1&gad_campaignid=22428585026&gbraid=0AAAAA-qf4Nd4nlFzDV_A66kJCs9vbGL9j",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 479,
+      "observation": {
+        "category": "protein",
+        "offerId": 168,
+        "date": "2025-08-08",
+        "price": 2599,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-1-kg",
+        "evidenceUrl": "https://web.archive.org/web/20250808132753id_/https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-1-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 480,
+      "observation": {
+        "category": "protein",
+        "offerId": 168,
+        "date": "2026-01-22",
+        "price": 2599,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-1-kg",
+        "evidenceUrl": "https://web.archive.org/web/20260122034006id_/https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-1-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 481,
+      "observation": {
+        "category": "protein",
+        "offerId": 168,
+        "date": "2026-05-17",
+        "price": 3099,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-1-kg",
+        "evidenceUrl": "https://web.archive.org/web/20260517052153id_/https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-1-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 482,
+      "observation": {
+        "category": "protein",
+        "offerId": 169,
+        "date": "2023-12-06",
+        "price": 6999,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-4-kg",
+        "evidenceUrl": "https://web.archive.org/web/20231206142844id_/https://avvatarindia.com/product/whey-protein-raw-unflavoured-4-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 483,
+      "observation": {
+        "category": "protein",
+        "offerId": 169,
+        "date": "2024-06-17",
+        "price": 7899,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-4-kg",
+        "evidenceUrl": "https://web.archive.org/web/20240617210022id_/https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-4-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 484,
+      "observation": {
+        "category": "protein",
+        "offerId": 169,
+        "date": "2024-12-13",
+        "price": 7899,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-4-kg",
+        "evidenceUrl": "https://web.archive.org/web/20241213223325id_/https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-4-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 485,
+      "observation": {
+        "category": "protein",
+        "offerId": 169,
+        "date": "2025-02-08",
+        "price": 8899,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-4-kg",
+        "evidenceUrl": "https://web.archive.org/web/20250208133856id_/https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-4-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 486,
+      "observation": {
+        "category": "protein",
+        "offerId": 169,
+        "date": "2025-06-11",
+        "price": 8899,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-4-kg",
+        "evidenceUrl": "https://web.archive.org/web/20250611064805id_/https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-4-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 487,
+      "observation": {
+        "category": "protein",
+        "offerId": 169,
+        "date": "2025-08-08",
+        "price": 9599,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-4-kg",
+        "evidenceUrl": "https://web.archive.org/web/20250808132753id_/https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-4-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 488,
+      "observation": {
+        "category": "protein",
+        "offerId": 169,
+        "date": "2025-12-13",
+        "price": 9599,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-4-kg",
+        "evidenceUrl": "https://web.archive.org/web/20251213110219id_/https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-4-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2341,
+      "observation": {
+        "category": "protein",
+        "offerId": 152,
+        "date": "2026-10-25",
+        "price": 4699,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-belgian-chocolate-flavour-1-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-belgian-chocolate-flavour-1-kg",
+        "kind": "official-live",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null
+      }
+    },
+    {
+      "order": 2342,
+      "observation": {
+        "category": "protein",
+        "offerId": 153,
+        "date": "2026-10-25",
+        "price": 9199,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-belgian-chocolate-flavour-2-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-belgian-chocolate-flavour-2-kg",
+        "kind": "official-live",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null
+      }
+    },
+    {
+      "order": 2343,
+      "observation": {
+        "category": "protein",
+        "offerId": 154,
+        "date": "2026-10-25",
+        "price": 14639,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-belgian-chocolate-flavour-4-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-belgian-chocolate-flavour-4-kg",
+        "kind": "official-live",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null
+      }
+    },
+    {
+      "order": 2344,
+      "observation": {
+        "category": "protein",
+        "offerId": 155,
+        "date": "2026-10-25",
+        "price": 4699,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-cafe-mocha-swirl-flavour-1-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-cafe-mocha-swirl-flavour-1-kg",
+        "kind": "official-live",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null
+      }
+    },
+    {
+      "order": 2345,
+      "observation": {
+        "category": "protein",
+        "offerId": 156,
+        "date": "2026-10-25",
+        "price": 9199,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-cafe-mocha-swirl-flavour-2-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-cafe-mocha-swirl-flavour-2-kg",
+        "kind": "official-live",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null
+      }
+    },
+    {
+      "order": 2346,
+      "observation": {
+        "category": "protein",
+        "offerId": 157,
+        "date": "2026-10-25",
+        "price": 4229,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-caramel-creme-flavour-1-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-caramel-creme-flavour-1-kg",
+        "kind": "official-live",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null
+      }
+    },
+    {
+      "order": 2347,
+      "observation": {
+        "category": "protein",
+        "offerId": 158,
+        "date": "2026-10-25",
+        "price": 7699,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-caramel-creme-flavour-2-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-caramel-creme-flavour-2-kg",
+        "kind": "official-live",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null
+      }
+    },
+    {
+      "order": 2348,
+      "observation": {
+        "category": "protein",
+        "offerId": 159,
+        "date": "2026-10-25",
+        "price": 4699,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-1-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-1-kg",
+        "kind": "official-live",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null
+      }
+    },
+    {
+      "order": 2349,
+      "observation": {
+        "category": "protein",
+        "offerId": 160,
+        "date": "2026-10-25",
+        "price": 9199,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-2-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-2-kg",
+        "kind": "official-live",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null
+      }
+    },
+    {
+      "order": 2350,
+      "observation": {
+        "category": "protein",
+        "offerId": 161,
+        "date": "2026-10-25",
+        "price": 19499,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-4-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-4-kg",
+        "kind": "official-live",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null
+      }
+    },
+    {
+      "order": 2351,
+      "observation": {
+        "category": "protein",
+        "offerId": 162,
+        "date": "2026-10-25",
+        "price": 4699,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-malai-kulfi-flavour-1-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-malai-kulfi-flavour-1-kg",
+        "kind": "official-live",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null
+      }
+    },
+    {
+      "order": 2352,
+      "observation": {
+        "category": "protein",
+        "offerId": 163,
+        "date": "2026-10-25",
+        "price": 9199,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-malai-kulfi-flavour-2-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-malai-kulfi-flavour-2-kg",
+        "kind": "official-live",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null
+      }
+    },
+    {
+      "order": 2353,
+      "observation": {
+        "category": "protein",
+        "offerId": 164,
+        "date": "2026-10-25",
+        "price": 14639,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-malai-kulfi-flavour-4-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-malai-kulfi-flavour-4-kg",
+        "kind": "official-live",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null
+      }
+    },
+    {
+      "order": 2354,
+      "observation": {
+        "category": "protein",
+        "offerId": 165,
+        "date": "2026-10-25",
+        "price": 4229,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-mango-rush-flavour-1-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-mango-rush-flavour-1-kg",
+        "kind": "official-live",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null
+      }
+    },
+    {
+      "order": 2355,
+      "observation": {
+        "category": "protein",
+        "offerId": 166,
+        "date": "2026-10-25",
+        "price": 7699,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-mango-rush-flavour-2-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-mango-rush-flavour-2-kg",
+        "kind": "official-live",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null
+      }
+    },
+    {
+      "order": 2356,
+      "observation": {
+        "category": "protein",
+        "offerId": 167,
+        "date": "2026-10-25",
+        "price": 14639,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-mango-rush-flavour-4-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-mango-rush-flavour-4-kg",
+        "kind": "official-live",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null
+      }
+    },
+    {
+      "order": 2357,
+      "observation": {
+        "category": "protein",
+        "offerId": 168,
+        "date": "2026-10-25",
+        "price": 4499,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-1-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-1-kg",
+        "kind": "official-live",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null
+      }
+    },
+    {
+      "order": 2358,
+      "observation": {
+        "category": "protein",
+        "offerId": 169,
+        "date": "2026-10-25",
+        "price": 18074,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-4-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-4-kg",
+        "kind": "official-live",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null
+      }
+    },
+    {
+      "order": 3500,
+      "observation": {
+        "category": "protein",
+        "offerId": 168,
+        "date": "2024-06-09",
+        "price": 2099,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-1-kg",
+        "evidenceUrl": "https://web.archive.org/web/20240609061305id_/https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-1-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3501,
+      "observation": {
+        "category": "protein",
+        "offerId": 169,
+        "date": "2024-10-07",
+        "price": 7899,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-4-kg",
+        "evidenceUrl": "https://web.archive.org/web/20241007151213id_/https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-4-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3502,
+      "observation": {
+        "category": "protein",
+        "offerId": 169,
+        "date": "2025-04-29",
+        "price": 8009,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-4-kg",
+        "evidenceUrl": "https://web.archive.org/web/20250429051644id_/https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-4-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3503,
+      "observation": {
+        "category": "protein",
+        "offerId": 169,
+        "date": "2025-07-20",
+        "price": 8009,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-4-kg",
+        "evidenceUrl": "https://web.archive.org/web/20250720132826id_/https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-4-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 4200,
+      "observation": {
+        "category": "protein",
+        "offerId": 152,
+        "date": "2026-11-19",
+        "price": 4899,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-belgian-chocolate-flavour-1-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-belgian-chocolate-flavour-1-kg",
+        "kind": "official-live",
+        "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+      }
+    },
+    {
+      "order": 4201,
+      "observation": {
+        "category": "protein",
+        "offerId": 153,
+        "date": "2026-11-19",
+        "price": 9798,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-belgian-chocolate-flavour-2-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-belgian-chocolate-flavour-2-kg",
+        "kind": "official-live",
+        "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+      }
+    },
+    {
+      "order": 4202,
+      "observation": {
+        "category": "protein",
+        "offerId": 154,
+        "date": "2026-11-19",
+        "price": 14639,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-belgian-chocolate-flavour-4-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-belgian-chocolate-flavour-4-kg",
+        "kind": "official-live",
+        "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+      }
+    },
+    {
+      "order": 4203,
+      "observation": {
+        "category": "protein",
+        "offerId": 155,
+        "date": "2026-11-19",
+        "price": 4899,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-cafe-mocha-swirl-flavour-1-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-cafe-mocha-swirl-flavour-1-kg",
+        "kind": "official-live",
+        "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+      }
+    },
+    {
+      "order": 4204,
+      "observation": {
+        "category": "protein",
+        "offerId": 156,
+        "date": "2026-11-19",
+        "price": 9798,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-cafe-mocha-swirl-flavour-2-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-cafe-mocha-swirl-flavour-2-kg",
+        "kind": "official-live",
+        "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+      }
+    },
+    {
+      "order": 4205,
+      "observation": {
+        "category": "protein",
+        "offerId": 157,
+        "date": "2026-11-19",
+        "price": 4229,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-caramel-creme-flavour-1-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-caramel-creme-flavour-1-kg",
+        "kind": "official-live",
+        "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+      }
+    },
+    {
+      "order": 4206,
+      "observation": {
+        "category": "protein",
+        "offerId": 158,
+        "date": "2026-11-19",
+        "price": 8818,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-caramel-creme-flavour-2-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-caramel-creme-flavour-2-kg",
+        "kind": "official-live",
+        "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+      }
+    },
+    {
+      "order": 4207,
+      "observation": {
+        "category": "protein",
+        "offerId": 159,
+        "date": "2026-11-19",
+        "price": 4409,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-1-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-1-kg",
+        "kind": "official-live",
+        "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+      }
+    },
+    {
+      "order": 4208,
+      "observation": {
+        "category": "protein",
+        "offerId": 160,
+        "date": "2026-11-19",
+        "price": 9798,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-2-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-2-kg",
+        "kind": "official-live",
+        "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+      }
+    },
+    {
+      "order": 4209,
+      "observation": {
+        "category": "protein",
+        "offerId": 161,
+        "date": "2026-11-19",
+        "price": 19596,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-4-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-chocolate-hazelnut-flavour-4-kg",
+        "kind": "official-live",
+        "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+      }
+    },
+    {
+      "order": 4210,
+      "observation": {
+        "category": "protein",
+        "offerId": 162,
+        "date": "2026-11-19",
+        "price": 4899,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-malai-kulfi-flavour-1-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-malai-kulfi-flavour-1-kg",
+        "kind": "official-live",
+        "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+      }
+    },
+    {
+      "order": 4211,
+      "observation": {
+        "category": "protein",
+        "offerId": 163,
+        "date": "2026-11-19",
+        "price": 9798,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-malai-kulfi-flavour-2-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-malai-kulfi-flavour-2-kg",
+        "kind": "official-live",
+        "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+      }
+    },
+    {
+      "order": 4212,
+      "observation": {
+        "category": "protein",
+        "offerId": 164,
+        "date": "2026-11-19",
+        "price": 14639,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-malai-kulfi-flavour-4-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-malai-kulfi-flavour-4-kg",
+        "kind": "official-live",
+        "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+      }
+    },
+    {
+      "order": 4213,
+      "observation": {
+        "category": "protein",
+        "offerId": 165,
+        "date": "2026-11-19",
+        "price": 4229,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-mango-rush-flavour-1-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-mango-rush-flavour-1-kg",
+        "kind": "official-live",
+        "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+      }
+    },
+    {
+      "order": 4214,
+      "observation": {
+        "category": "protein",
+        "offerId": 166,
+        "date": "2026-11-19",
+        "price": 7699,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-mango-rush-flavour-2-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-mango-rush-flavour-2-kg",
+        "kind": "official-live",
+        "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+      }
+    },
+    {
+      "order": 4215,
+      "observation": {
+        "category": "protein",
+        "offerId": 167,
+        "date": "2026-11-19",
+        "price": 14639,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-mango-rush-flavour-4-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-mango-rush-flavour-4-kg",
+        "kind": "official-live",
+        "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+      }
+    },
+    {
+      "order": 4216,
+      "observation": {
+        "category": "protein",
+        "offerId": 168,
+        "date": "2026-11-19",
+        "price": 4049,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-1-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-1-kg",
+        "kind": "official-live",
+        "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+      }
+    },
+    {
+      "order": 4217,
+      "observation": {
+        "category": "protein",
+        "offerId": 169,
+        "date": "2026-11-19",
+        "price": 16196,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-4-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-raw-unflavoured-4-kg",
+        "kind": "official-live",
+        "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+      }
+    }
+  ],
+  "refreshSources": []
+}

@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "category": "vitamin-c",
+  "brand": "Pure Nutrition",
+  "product": "LipoMax Liposomal Vitamin C 80 mg",
+  "variants": [
+    {
+      "order": 5,
+      "offer": {
+        "brand": "Pure Nutrition",
+        "product": "LipoMax Liposomal Vitamin C 80 mg",
+        "form": "Capsule",
+        "type": "Vitamin C",
+        "subclass": "Liposomal",
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official page explicitly states 80 mg vitamin C per capsule, one-capsule usage and 60 vegetarian capsules (60 servings).",
+        "notes": "Liposomal is a manufacturer formulation claim. No absorption multiplier or clinical superiority is assumed.",
+        "labelChecked": "2026-10-31",
+        "packCount": 60,
+        "vitaminCMg": 80,
+        "id": "vitamin-c-47800364433662",
+        "price": 1153.33,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://purenutrition.in/products/lipomax-liposomal-vitamin-c-80mg-immune-antioxidant-support?variant=47800364433662",
+        "nutritionUrl": "https://purenutrition.in/products/lipomax-liposomal-vitamin-c-80mg-immune-antioxidant-support",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://purenutrition.in/products/lipomax-liposomal-vitamin-c-80mg-immune-antioxidant-support?variant=47800364433662",
+          "evidenceUrl": "https://purenutrition.in/products/lipomax-liposomal-vitamin-c-80mg-immune-antioxidant-support.json",
+          "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3775,
+      "observation": {
+        "category": "vitamin-c",
+        "offerId": "vitamin-c-47800364433662",
+        "date": "2026-10-31",
+        "price": 1153.33,
+        "currency": "INR",
+        "sourceUrl": "https://purenutrition.in/products/lipomax-liposomal-vitamin-c-80mg-immune-antioxidant-support?variant=47800364433662",
+        "evidenceUrl": "https://purenutrition.in/products/lipomax-liposomal-vitamin-c-80mg-immune-antioxidant-support.json",
+        "kind": "official-live",
+        "variantId": "47800364433662",
+        "matchBasis": "Official Shopify product JSON exact variant ID; single-pack count verified. Availability separately checked against exact-variant official HTML structured data where available."
+      }
+    },
+    {
+      "order": 3932,
+      "observation": {
+        "category": "vitamin-c",
+        "offerId": "vitamin-c-47800364433662",
+        "date": "2026-11-19",
+        "price": 1153.33,
+        "currency": "INR",
+        "sourceUrl": "https://purenutrition.in/products/lipomax-liposomal-vitamin-c-80mg-immune-antioxidant-support?variant=47800364433662",
+        "evidenceUrl": "https://purenutrition.in/products/lipomax-liposomal-vitamin-c-80mg-immune-antioxidant-support.json",
+        "kind": "official-live",
+        "variantId": "47800364433662",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 60,
+      "profile": {
+        "category": "vitamin-c",
+        "brand": "Pure Nutrition",
+        "base": "https://purenutrition.in",
+        "handle": "lipomax-liposomal-vitamin-c-80mg-immune-antioxidant-support",
+        "product": "LipoMax Liposomal Vitamin C 80 mg",
+        "form": "Capsule",
+        "type": "Vitamin C",
+        "subclass": "Liposomal",
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official page explicitly states 80 mg vitamin C per capsule, one-capsule usage and 60 vegetarian capsules (60 servings).",
+        "notes": "Liposomal is a manufacturer formulation claim. No absorption multiplier or clinical superiority is assumed.",
+        "labelChecked": "2026-10-31",
+        "packCount": 60,
+        "vitaminCMg": 80
+      }
+    }
+  ]
+}

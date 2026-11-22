@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "category": "magnesium",
+  "brand": "Swisse",
+  "product": "Magnesium",
+  "variants": [
+    {
+      "order": 10,
+      "offer": {
+        "brand": "Swisse",
+        "product": "Magnesium",
+        "form": "Tablet",
+        "type": "Citrate",
+        "subclass": "Single mineral",
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official product listing; only explicitly verified label amounts are recorded.",
+        "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities.",
+        "packCount": 60,
+        "id": "magnesium-39651696640185",
+        "price": 1011,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://swisse.co.in/products/swisse-magnesium?variant=39651696640185",
+        "nutritionUrl": "https://swisse.co.in/products/swisse-magnesium",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-10-29",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://swisse.co.in/products/swisse-magnesium?variant=39651696640185",
+          "evidenceUrl": "https://swisse.co.in/products/swisse-magnesium.json",
+          "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3732,
+      "observation": {
+        "category": "magnesium",
+        "offerId": "magnesium-39651696640185",
+        "date": "2026-10-29",
+        "price": 977,
+        "currency": "INR",
+        "sourceUrl": "https://swisse.co.in/products/swisse-magnesium?variant=39651696640185",
+        "evidenceUrl": "https://swisse.co.in/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "39651696640185"
+      }
+    },
+    {
+      "order": 3914,
+      "observation": {
+        "category": "magnesium",
+        "offerId": "magnesium-39651696640185",
+        "date": "2026-11-19",
+        "price": 1011,
+        "currency": "INR",
+        "sourceUrl": "https://swisse.co.in/products/swisse-magnesium?variant=39651696640185",
+        "evidenceUrl": "https://swisse.co.in/products/swisse-magnesium.json",
+        "kind": "official-live",
+        "variantId": "39651696640185",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 24,
+      "profile": {
+        "category": "magnesium",
+        "brand": "Swisse",
+        "base": "https://swisse.co.in",
+        "handle": "swisse-magnesium",
+        "product": "Magnesium",
+        "form": "Tablet",
+        "type": "Citrate",
+        "subclass": "Single mineral",
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official product listing; only explicitly verified label amounts are recorded.",
+        "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities.",
+        "packCount": 60
+      }
+    }
+  ]
+}

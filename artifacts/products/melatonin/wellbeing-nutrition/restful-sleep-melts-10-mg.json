@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "category": "melatonin",
+  "brand": "Wellbeing Nutrition",
+  "product": "Restful Sleep Melts 10 mg",
+  "variants": [
+    {
+      "order": 11,
+      "offer": {
+        "brand": "Wellbeing Nutrition",
+        "product": "Restful Sleep Melts 10 mg",
+        "form": "Oral strip",
+        "type": "Melatonin + botanicals",
+        "subclass": "Oral thin strip blend",
+        "packCount": 30,
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official title, strength text and description consistently state 10 mg melatonin; product page states 30 strips per pack and one-strip usage serving.",
+        "notes": "Contains other botanicals. Oral-strip delivery does not establish clinical superiority or absence of next-day drowsiness.",
+        "labelChecked": "2026-10-31",
+        "melatoninMg": 10,
+        "flavour": "Lemon Honey",
+        "id": "melatonin-40904058634320",
+        "price": 649,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://wellbeingnutrition.com/products/restful-sleep-10mg-melts?variant=40904058634320",
+        "nutritionUrl": "https://wellbeingnutrition.com/products/restful-sleep-10mg-melts",
+        "packaging": "Single retail pack",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://wellbeingnutrition.com/products/restful-sleep-10mg-melts?variant=40904058634320",
+          "evidenceUrl": "https://wellbeingnutrition.com/products/restful-sleep-10mg-melts.json",
+          "matchBasis": "Official public Shopify product; exact variant ID 40904058634320 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3762,
+      "observation": {
+        "category": "melatonin",
+        "offerId": "melatonin-40904058634320",
+        "date": "2026-10-29",
+        "price": 649,
+        "currency": "INR",
+        "sourceUrl": "https://wellbeingnutrition.com/products/restful-sleep-10mg-melts?variant=40904058634320",
+        "evidenceUrl": "https://wellbeingnutrition.com/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "40904058634320"
+      }
+    },
+    {
+      "order": 3885,
+      "observation": {
+        "category": "melatonin",
+        "offerId": "melatonin-40904058634320",
+        "date": "2026-11-19",
+        "price": 649,
+        "currency": "INR",
+        "sourceUrl": "https://wellbeingnutrition.com/products/restful-sleep-10mg-melts?variant=40904058634320",
+        "evidenceUrl": "https://wellbeingnutrition.com/products/restful-sleep-10mg-melts.json",
+        "kind": "official-live",
+        "variantId": "40904058634320",
+        "matchBasis": "Official public Shopify product; exact variant ID 40904058634320 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 52,
+      "profile": {
+        "category": "melatonin",
+        "brand": "Wellbeing Nutrition",
+        "base": "https://wellbeingnutrition.com",
+        "handle": "restful-sleep-10mg-melts",
+        "product": "Restful Sleep Melts 10 mg",
+        "form": "Oral strip",
+        "type": "Melatonin + botanicals",
+        "subclass": "Oral thin strip blend",
+        "packCount": 30,
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official title, strength text and description consistently state 10 mg melatonin; product page states 30 strips per pack and one-strip usage serving.",
+        "notes": "Contains other botanicals. Oral-strip delivery does not establish clinical superiority or absence of next-day drowsiness.",
+        "labelChecked": "2026-10-31",
+        "melatoninMg": 10,
+        "variantTitles": [
+          "Pack of 1"
+        ],
+        "flavour": "Lemon Honey"
+      }
+    }
+  ]
+}

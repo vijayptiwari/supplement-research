@@ -1,0 +1,222 @@
+{
+  "schemaVersion": 1,
+  "category": "hmb",
+  "brand": "NutriJa",
+  "product": "HMB Calcium Monohydrate Powder",
+  "variants": [
+    {
+      "order": 2,
+      "offer": {
+        "brand": "NutriJa",
+        "product": "HMB Calcium Monohydrate Powder",
+        "form": "Powder",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "packCount": null,
+        "servingUnits": null,
+        "grams": 100,
+        "flavour": "Unflavoured",
+        "labelChecked": "2026-11-19",
+        "nutritionUrl": "https://nutrija.com/hmb",
+        "labelSources": [
+          "https://nutrija.com/hmb"
+        ],
+        "energyPerServing": null,
+        "servingGrams": 3,
+        "type": "Calcium HMB monohydrate",
+        "subclass": "Calcium HMB with explicitly declared HMB payload",
+        "calciumHmbMg": 3000,
+        "hmbMg": 2475,
+        "calciumMg": 465,
+        "mineralBasis": "elemental",
+        "hmbFreeAcidMg": null,
+        "basis": "Official unflavoured supplement-facts table states one 3000 mg scoop: calcium beta-hydroxy beta-methylbutyrate monohydrate (CaHMB) 3000 mg, of which HMB 2475 mg and labelled calcium 465 mg. Net size and Unflavored choice are matched to one exact child ID.",
+        "notes": "HMB payload 2475 mg is explicitly declared by the manufacturer, not a molecular conversion calculated by this catalog. The 3000 mg calcium HMB compound and 2475 mg HMB payload overlap and must not be added together. No free-acid HMB equivalent or calories are inferred. Official exact child finalPrice is published inclusive of tax in INR, but child-level availability is absent from public configurable data; stock must be confirmed.",
+        "declaredNutrients": [
+          "calciumHmbMg",
+          "hmbMg",
+          "calciumMg"
+        ],
+        "id": "hmb-nutrija-1158",
+        "price": 689.97,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://nutrija.com/hmb?super_attribute%5B140%5D=8&super_attribute%5B181%5D=76"
+      }
+    },
+    {
+      "order": 3,
+      "offer": {
+        "brand": "NutriJa",
+        "product": "HMB Calcium Monohydrate Powder",
+        "form": "Powder",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "packCount": null,
+        "servingUnits": null,
+        "grams": 200,
+        "flavour": "Unflavoured",
+        "labelChecked": "2026-11-19",
+        "nutritionUrl": "https://nutrija.com/hmb",
+        "labelSources": [
+          "https://nutrija.com/hmb"
+        ],
+        "energyPerServing": null,
+        "servingGrams": 3,
+        "type": "Calcium HMB monohydrate",
+        "subclass": "Calcium HMB with explicitly declared HMB payload",
+        "calciumHmbMg": 3000,
+        "hmbMg": 2475,
+        "calciumMg": 465,
+        "mineralBasis": "elemental",
+        "hmbFreeAcidMg": null,
+        "basis": "Official unflavoured supplement-facts table states one 3000 mg scoop: calcium beta-hydroxy beta-methylbutyrate monohydrate (CaHMB) 3000 mg, of which HMB 2475 mg and labelled calcium 465 mg. Net size and Unflavored choice are matched to one exact child ID.",
+        "notes": "HMB payload 2475 mg is explicitly declared by the manufacturer, not a molecular conversion calculated by this catalog. The 3000 mg calcium HMB compound and 2475 mg HMB payload overlap and must not be added together. No free-acid HMB equivalent or calories are inferred. Official exact child finalPrice is published inclusive of tax in INR, but child-level availability is absent from public configurable data; stock must be confirmed.",
+        "declaredNutrients": [
+          "calciumHmbMg",
+          "hmbMg",
+          "calciumMg"
+        ],
+        "id": "hmb-nutrija-1363",
+        "price": 1242.23,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://nutrija.com/hmb?super_attribute%5B140%5D=11&super_attribute%5B181%5D=76"
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 4056,
+      "observation": {
+        "category": "hmb",
+        "offerId": "hmb-nutrija-1158",
+        "date": "2026-11-19",
+        "price": 689.97,
+        "currency": "INR",
+        "sourceUrl": "https://nutrija.com/hmb?super_attribute%5B140%5D=8&super_attribute%5B181%5D=76",
+        "evidenceUrl": "https://nutrija.com/hmb",
+        "kind": "official-live",
+        "variantId": "1158",
+        "matchBasis": "Official Magento Product.Config fetched 2026-11-19; all exact size/flavour attribute option intersections identify one child ID; that child finalPrice is positive and tax-inclusive in the INR rupee template. Child stock not exposed and not inferred."
+      }
+    },
+    {
+      "order": 4057,
+      "observation": {
+        "category": "hmb",
+        "offerId": "hmb-nutrija-1363",
+        "date": "2026-11-19",
+        "price": 1242.23,
+        "currency": "INR",
+        "sourceUrl": "https://nutrija.com/hmb?super_attribute%5B140%5D=11&super_attribute%5B181%5D=76",
+        "evidenceUrl": "https://nutrija.com/hmb",
+        "kind": "official-live",
+        "variantId": "1363",
+        "matchBasis": "Official Magento Product.Config fetched 2026-11-19; all exact size/flavour attribute option intersections identify one child ID; that child finalPrice is positive and tax-inclusive in the INR rupee template. Child stock not exposed and not inferred."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 191,
+      "profile": {
+        "category": "hmb",
+        "brand": "NutriJa",
+        "base": "https://nutrija.com",
+        "kind": "magento-configurable",
+        "productUrl": "https://nutrija.com/hmb",
+        "variantId": "1158",
+        "variantIds": [
+          "1158"
+        ],
+        "variantOptions": {
+          "140": "8",
+          "181": "76"
+        },
+        "cacheKey": "nutrija-hmb",
+        "product": "HMB Calcium Monohydrate Powder",
+        "form": "Powder",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "packCount": null,
+        "servingUnits": null,
+        "grams": 100,
+        "flavour": "Unflavoured",
+        "labelChecked": "2026-11-19",
+        "nutritionUrl": "https://nutrija.com/hmb",
+        "labelSources": [
+          "https://nutrija.com/hmb"
+        ],
+        "energyPerServing": null,
+        "servingGrams": 3,
+        "type": "Calcium HMB monohydrate",
+        "subclass": "Calcium HMB with explicitly declared HMB payload",
+        "calciumHmbMg": 3000,
+        "hmbMg": 2475,
+        "calciumMg": 465,
+        "mineralBasis": "elemental",
+        "hmbFreeAcidMg": null,
+        "basis": "Official unflavoured supplement-facts table states one 3000 mg scoop: calcium beta-hydroxy beta-methylbutyrate monohydrate (CaHMB) 3000 mg, of which HMB 2475 mg and labelled calcium 465 mg. Net size and Unflavored choice are matched to one exact child ID.",
+        "notes": "HMB payload 2475 mg is explicitly declared by the manufacturer, not a molecular conversion calculated by this catalog. The 3000 mg calcium HMB compound and 2475 mg HMB payload overlap and must not be added together. No free-acid HMB equivalent or calories are inferred. Official exact child finalPrice is published inclusive of tax in INR, but child-level availability is absent from public configurable data; stock must be confirmed.",
+        "declaredNutrients": [
+          "calciumHmbMg",
+          "hmbMg",
+          "calciumMg"
+        ],
+        "variantUrl": "https://nutrija.com/hmb?super_attribute%5B140%5D=8&super_attribute%5B181%5D=76",
+        "id": "hmb-nutrija-1158"
+      }
+    },
+    {
+      "order": 192,
+      "profile": {
+        "category": "hmb",
+        "brand": "NutriJa",
+        "base": "https://nutrija.com",
+        "kind": "magento-configurable",
+        "productUrl": "https://nutrija.com/hmb",
+        "variantId": "1363",
+        "variantIds": [
+          "1363"
+        ],
+        "variantOptions": {
+          "140": "11",
+          "181": "76"
+        },
+        "cacheKey": "nutrija-hmb",
+        "product": "HMB Calcium Monohydrate Powder",
+        "form": "Powder",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "packCount": null,
+        "servingUnits": null,
+        "grams": 200,
+        "flavour": "Unflavoured",
+        "labelChecked": "2026-11-19",
+        "nutritionUrl": "https://nutrija.com/hmb",
+        "labelSources": [
+          "https://nutrija.com/hmb"
+        ],
+        "energyPerServing": null,
+        "servingGrams": 3,
+        "type": "Calcium HMB monohydrate",
+        "subclass": "Calcium HMB with explicitly declared HMB payload",
+        "calciumHmbMg": 3000,
+        "hmbMg": 2475,
+        "calciumMg": 465,
+        "mineralBasis": "elemental",
+        "hmbFreeAcidMg": null,
+        "basis": "Official unflavoured supplement-facts table states one 3000 mg scoop: calcium beta-hydroxy beta-methylbutyrate monohydrate (CaHMB) 3000 mg, of which HMB 2475 mg and labelled calcium 465 mg. Net size and Unflavored choice are matched to one exact child ID.",
+        "notes": "HMB payload 2475 mg is explicitly declared by the manufacturer, not a molecular conversion calculated by this catalog. The 3000 mg calcium HMB compound and 2475 mg HMB payload overlap and must not be added together. No free-acid HMB equivalent or calories are inferred. Official exact child finalPrice is published inclusive of tax in INR, but child-level availability is absent from public configurable data; stock must be confirmed.",
+        "declaredNutrients": [
+          "calciumHmbMg",
+          "hmbMg",
+          "calciumMg"
+        ],
+        "variantUrl": "https://nutrija.com/hmb?super_attribute%5B140%5D=11&super_attribute%5B181%5D=76",
+        "id": "hmb-nutrija-1363"
+      }
+    }
+  ]
+}

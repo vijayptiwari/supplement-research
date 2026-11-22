@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "category": "magnesium",
+  "brand": "Carbamide Forte",
+  "product": "Magnesium Citrate 2400 mg",
+  "variants": [
+    {
+      "order": 12,
+      "offer": {
+        "brand": "Carbamide Forte",
+        "product": "Magnesium Citrate 2400 mg",
+        "form": "Tablet",
+        "type": "Citrate",
+        "subclass": "Single mineral",
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official product listing; only explicitly verified label amounts are recorded.",
+        "notes": "The 2400 mg title is compound mass. Elemental magnesium and serving count are not inferred.",
+        "packCount": 120,
+        "id": "magnesium-42778528776305",
+        "price": 599,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://www.carbamideforte.com/products/magnesium-citrate-2400-mg-120-tablets?variant=42778528776305",
+        "nutritionUrl": "https://www.carbamideforte.com/products/magnesium-citrate-2400-mg-120-tablets",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-10-29",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.carbamideforte.com/products/magnesium-citrate-2400-mg-120-tablets?variant=42778528776305",
+          "evidenceUrl": "https://www.carbamideforte.com/products/magnesium-citrate-2400-mg-120-tablets.json",
+          "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3734,
+      "observation": {
+        "category": "magnesium",
+        "offerId": "magnesium-42778528776305",
+        "date": "2026-10-29",
+        "price": 599,
+        "currency": "INR",
+        "sourceUrl": "https://www.carbamideforte.com/products/magnesium-citrate-2400-mg-120-tablets?variant=42778528776305",
+        "evidenceUrl": "https://www.carbamideforte.com/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "42778528776305"
+      }
+    },
+    {
+      "order": 3916,
+      "observation": {
+        "category": "magnesium",
+        "offerId": "magnesium-42778528776305",
+        "date": "2026-11-19",
+        "price": 599,
+        "currency": "INR",
+        "sourceUrl": "https://www.carbamideforte.com/products/magnesium-citrate-2400-mg-120-tablets?variant=42778528776305",
+        "evidenceUrl": "https://www.carbamideforte.com/products/magnesium-citrate-2400-mg-120-tablets.json",
+        "kind": "official-live",
+        "variantId": "42778528776305",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 26,
+      "profile": {
+        "category": "magnesium",
+        "brand": "Carbamide Forte",
+        "base": "https://www.carbamideforte.com",
+        "handle": "magnesium-citrate-2400-mg-120-tablets",
+        "product": "Magnesium Citrate 2400 mg",
+        "form": "Tablet",
+        "type": "Citrate",
+        "subclass": "Single mineral",
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official product listing; only explicitly verified label amounts are recorded.",
+        "notes": "The 2400 mg title is compound mass. Elemental magnesium and serving count are not inferred.",
+        "packCount": 120
+      }
+    }
+  ]
+}

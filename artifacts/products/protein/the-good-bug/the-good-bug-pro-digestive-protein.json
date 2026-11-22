@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "The Good Bug",
+  "product": "The Good Bug Pro Digestive Protein",
+  "variants": [
+    {
+      "order": 825,
+      "offer": {
+        "id": 825,
+        "brand": "The Good Bug",
+        "product": "The Good Bug Pro Digestive Protein",
+        "type": "Plant + fermented yeast",
+        "flavour": "Belgian Chocolate",
+        "kg": 1,
+        "price": 2199,
+        "stock": "In stock",
+        "protein": 68.42105263157895,
+        "scoop": 38,
+        "serving": 38,
+        "subclass": "Fermented yeast + pea isolate",
+        "energy": 375,
+        "url": "https://thegoodbug.com/products/pro-digestive-protein?variant=48839986512097",
+        "nutritionUrl": "https://thegoodbug.com/products/pro-digestive-protein",
+        "basis": "26g protein / 38g serving; brand lab facts",
+        "notes": "Fermented yeast protein isolate (49.98%) + Pea protein isolate (32.07%) with Pepzyme Pro 1B CFU probiotics.",
+        "energyBasis": "Brand official label / serving instructions",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://thegoodbug.com/products/pro-digestive-protein?variant=48839986512097",
+          "evidenceUrl": "https://thegoodbug.com/products.json?limit=250&page=1",
+          "matchBasis": "Official handle and exact named net pack; selected variant ID recorded"
+        }
+      }
+    },
+    {
+      "order": 826,
+      "offer": {
+        "id": 826,
+        "brand": "The Good Bug",
+        "product": "The Good Bug Pro Digestive Protein",
+        "type": "Plant + fermented yeast",
+        "flavour": "Belgian Chocolate",
+        "kg": 2,
+        "price": 3999,
+        "stock": "In stock",
+        "protein": 68.42105263157895,
+        "scoop": 38,
+        "serving": 38,
+        "subclass": "Fermented yeast + pea isolate",
+        "energy": 375,
+        "url": "https://thegoodbug.com/products/pro-digestive-protein?variant=50535442743521",
+        "nutritionUrl": "https://thegoodbug.com/products/pro-digestive-protein",
+        "basis": "26g protein / 38g serving; brand lab facts",
+        "notes": "Fermented yeast protein isolate (49.98%) + Pea protein isolate (32.07%) with Pepzyme Pro 1B CFU probiotics.",
+        "energyBasis": "Brand official label / serving instructions",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://thegoodbug.com/products/pro-digestive-protein?variant=50535442743521",
+          "evidenceUrl": "https://thegoodbug.com/products.json?limit=250&page=1",
+          "matchBasis": "Official handle and exact named net pack; selected variant ID recorded"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 4853,
+      "observation": {
+        "category": "protein",
+        "offerId": 825,
+        "date": "2026-11-19",
+        "price": 2199,
+        "currency": "INR",
+        "sourceUrl": "https://thegoodbug.com/products/pro-digestive-protein?variant=48839986512097",
+        "evidenceUrl": "https://thegoodbug.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Official handle and exact named net pack; selected variant ID recorded",
+        "variantId": "48839986512097"
+      }
+    },
+    {
+      "order": 4854,
+      "observation": {
+        "category": "protein",
+        "offerId": 826,
+        "date": "2026-11-19",
+        "price": 3999,
+        "currency": "INR",
+        "sourceUrl": "https://thegoodbug.com/products/pro-digestive-protein?variant=50535442743521",
+        "evidenceUrl": "https://thegoodbug.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Official handle and exact named net pack; selected variant ID recorded",
+        "variantId": "50535442743521"
+      }
+    }
+  ],
+  "refreshSources": []
+}

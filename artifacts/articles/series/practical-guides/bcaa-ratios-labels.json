@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "order": 54,
+  "article": {
+    "id": "bcaa-ratios-labels",
+    "category": "bcaa",
+    "series": "practical-guides",
+    "title": "BCAA ratios and scoop sizes: how to read past the front label",
+    "summary": "A 2:1:1 or higher-leucine ratio describes proportions, not a demonstrated ranking of muscle-building value.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "BCAA shelves can look like a ladder of increasingly impressive ratios. A front label may emphasize a larger leucine number, a bigger scoop or a recovery blend, while leaving the quantities that matter less obvious. This guide treats those claims as label-reading questions. It helps you identify the actual amino-acid contribution, the overlap with normal meals and the evidence needed before a more elaborate ratio deserves a premium.",
+    "sections": [
+      {
+        "id": "what-a-ratio-means",
+        "title": "A ratio describes a mixture, not a new ingredient",
+        "body": "BCAA refers to leucine, isoleucine and valine. A ratio describes their proportions in the stated mixture; it does not create an additional essential amino acid or guarantee that more total BCAA is supplied. A high-ratio product can contain less of one component than a different product with a larger complete serving. Read the actual individual amounts where supplied. Keep the ratio, the combined BCAA total and the full scoop weight in separate columns rather than allowing one prominent number to stand in for all three.",
+        "sourceIds": [
+          "food-performance-amino-acids",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "leucine-is-not-a-complete-meal",
+        "title": "A signalling role does not make the other essentials optional",
+        "body": "Leucine helps regulate processes involved in muscle protein synthesis, but new proteins also require the other essential amino acids. Human work comparing small whey servings with added leucine or other essential amino acids illustrates that the response depends on more than the leucine peak alone. That does not identify a universally best retail ratio. It is a reason to assess the complete nutritional setting before treating a leucine-heavy mixture as an upgrade over an adequate meal or a suitable complete protein source.",
+        "sourceIds": [
+          "comparison-eaa-leucine-churchward-2012",
+          "food-performance-amino-acids"
+        ]
+      },
+      {
+        "id": "serving-versus-scoop",
+        "title": "Separate amino acids from the rest of the scoop",
+        "body": "Flavourings, sweeteners and other ingredients can contribute to powder mass. A large scoop is not necessarily a large BCAA serving, and a combined proprietary-blend figure cannot establish the amount of each component. First identify the full manufacturer-labelled serving and then the declared amounts within it. If one of those inputs is missing, keep the resulting content comparison unknown. A calculation performed to several decimal places does not improve the evidence when its starting quantity is an assumption.",
+        "sourceIds": [
+          "supplement-quality-ods",
+          "preworkout-review"
+        ]
+      },
+      {
+        "id": "what-the-trial-compared",
+        "title": "Placebo evidence cannot rank competing ratios",
+        "body": "A small acute trial found an increased muscle-protein-synthesis response after BCAA compared with placebo. That experiment was not a head-to-head comparison of every commercial ratio, nor a months-long test of additional gains in people already eating enough protein. The distinction matters when a company uses the general existence of BCAA research to justify a specific premium formulation. Ask which ingredient proportions were directly compared, whether the complete diet was relevant and whether the result measured the outcome being advertised.",
+        "sourceIds": [
+          "bcaa-trial"
+        ]
+      },
+      {
+        "id": "count-overlap",
+        "title": "BCAAs already exist within protein and EAA contributions",
+        "body": "Ordinary protein foods and complete EAA mixtures can supply BCAAs. When reviewing a stack, do not count the same amino acids once as protein, again as EAAs and a third time as independent BCAA nutrition. The product labels may describe overlapping subsets of the same contribution. An extra flavoured drink can be convenient or enjoyable, but convenience is a separate reason from a proven unmet need. Review food intake and existing products before assuming that each marketing category requires its own tub.",
+        "sourceIds": [
+          "food-performance-protein",
+          "food-performance-amino-acids",
+          "eaa-position"
+        ]
+      },
+      {
+        "id": "cost-what-is-known",
+        "title": "Price like-for-like amounts without inventing potency",
+        "body": "For two clearly specified BCAA mixtures, pack price divided by the total declared BCAA amount can be a transparent cost measure. Keep different ratios and full-serving costs visible rather than pretending they have equal effects. Do not compare the resulting gram cost with complete protein as if amino-acid patterns were interchangeable. Also consider the upfront purchase and whether the product would displace meals. The least expensive way to buy an unnecessary overlapping ingredient is still an additional expense without an established purpose.",
+        "sourceIds": [
+          "supplement-quality-ods",
+          "food-performance-protein"
+        ]
+      },
+      {
+        "id": "final-label-check",
+        "title": "Use quality and suitability as separate checks",
+        "body": "Check ingredient identity, batch-related quality evidence where available, allergens and any added stimulants. A laboratory content test can support composition claims but does not establish that a particular ratio improves training. Anyone with an inherited amino-acid disorder or medically restricted protein intake needs individual advice, not a more concentrated sports mixture. When a label leaves key amounts unresolved, compare another transparent product or decide against the purchase. A useful label makes a decision reviewable; it should not require faith in a large number on the front. Keep the original panel available when comparing flavours, because names and pack sizes alone do not establish matching formulations.",
+        "sourceIds": [
+          "supplement-quality-ods",
+          "exercise"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "food-performance-amino-acids",
+      "supplement-quality-ods",
+      "comparison-eaa-leucine-churchward-2012",
+      "preworkout-review",
+      "bcaa-trial",
+      "food-performance-protein",
+      "eaa-position",
+      "exercise"
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "order": 2,
+  "article": {
+    "id": "zmc-mineral-competition-food-context",
+    "category": "zmc",
+    "series": "evidence-in-context",
+    "title": "Do calcium, zinc and magnesium compete? The meal matters more than the slogan",
+    "summary": "Mineral interactions are real, but a laboratory explanation cannot tell you that every mixed meal is harmful or every ZMC combination is synergistic.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "One brand says calcium, magnesium and zinc belong together. Another says these minerals compete, so combining them wastes your money. Both claims can sound scientific because minerals do interact during digestion and absorption. The useful answer sits between those slogans. An effect depends on the amounts, the food around them, the mineral being measured and the time frame of the experiment. A short absorption study also cannot tell us whether a person will develop deficiency or gain stronger bones. Understanding that context helps you judge ZMC products without redesigning every meal around a fear of nutrients cancelling one another.",
+    "sections": [
+      {
+        "id": "different-needs",
+        "title": "Three nutrients do not create one nutritional problem",
+        "body": "ZMC is a product category, not a single nutrient with a single requirement. Someone can have a reasonable calcium intake and a gap elsewhere, or need calcium without a reason for extra zinc. The shared bottle does not establish a shared need. Start by naming what each component is intended to contribute. That simple separation changes the comparison: a convenient combination can be useful if its components fit the same person's plan, but convenience is different from evidence that the mixture produces an additional health effect. Neither a combined label nor a biochemical pathway proves that the three ingredients must be bought together.",
+        "sourceIds": [
+          "ca-overview",
+          "mg-overview",
+          "zn-overview"
+        ]
+      },
+      {
+        "id": "absorption",
+        "title": "Competition is a question to measure, not a verdict",
+        "body": "An absorption result describes how much of an ingested nutrient enters the body under specified conditions. Balance experiments add another question by comparing intake with losses. Neither measure is identical to a long-term clinical outcome. Researchers may alter calcium while holding the rest of a diet steady, or study a single test meal, and obtain a valid finding that applies to that protocol. A marketing claim becomes misleading when those conditions disappear from the story. Before accepting never combine minerals, ask which mineral's absorption changed, how it was measured, and whether the experiment resembles an ordinary dietary pattern or a concentrated supplemental exposure.",
+        "sourceIds": [
+          "nutrients-zmc-calcium-zinc-1997",
+          "nutrients-zmc-diet-zinc-2009"
+        ]
+      },
+      {
+        "id": "inhibition",
+        "title": "A human study did find inhibition under its conditions",
+        "body": "In a controlled feeding study in postmenopausal women, adding calcium from milk or a calcium-phosphate supplement reduced net zinc absorption and balance. A separate acute meal experiment in the same report also found reduced zinc absorption when calcium was added. These findings deserve attention, particularly when someone is stacking substantial mineral amounts. They do not show that every serving of dairy causes zinc deficiency or that an extra zinc pill should automatically accompany calcium. The experiments measured particular exposures in selected participants. Copying the researchers' corrective manipulation into a personal supplement schedule would turn a physiological observation into an untested long-term strategy.",
+        "sourceIds": [
+          "nutrients-zmc-calcium-zinc-1997"
+        ]
+      },
+      {
+        "id": "contrast",
+        "title": "Another food-based experiment did not find the same calcium effect",
+        "body": "A later study gave ten healthy women ordinary-food menus that varied in calcium and phytate. Phytate reduced zinc absorption, but the higher calcium intake did not significantly impair it, whether phytate was high or low. The result conflicts with the idea that calcium must always worsen zinc absorption. It also has clear limits: one-day menus in a small group do not settle every supplement dose or long-term outcome. Read alongside the earlier experiment, it shows why food composition and study design belong in the explanation. The scientific lesson is contextual interaction, rather than choosing whichever isolated result supports a product being sold.",
+        "sourceIds": [
+          "nutrients-zmc-diet-zinc-2009"
+        ]
+      },
+      {
+        "id": "phytate",
+        "title": "Do not turn phytate into a reason to avoid nutritious foods",
+        "body": "Phytate is present in many plant foods, and zinc bioavailability varies with dietary context. That observation is relevant when assessing a plant-heavy diet, but it does not make legumes, nuts or whole grains bad foods. Their value is broader than the absorption of one mineral from one test menu. A sensible review looks at zinc sources, the overall diet and whether a genuine intake problem exists, rather than removing useful foods to maximise a laboratory percentage. The calcium–phytate experiment is especially instructive here: even when an interaction seems plausible chemically, human meal results need to be measured instead of inferred from a simplified model.",
+        "sourceIds": [
+          "zn-overview",
+          "nutrients-zmc-diet-zinc-2009"
+        ]
+      },
+      {
+        "id": "practical",
+        "title": "Some administration details matter more than a universal separation rule",
+        "body": "The form and amount of a mineral can change practical instructions. Calcium carbonate, for example, is better absorbed with food, whereas calcium citrate depends less on stomach acid. Larger supplemental calcium amounts are also not absorbed as efficiently as smaller amounts at one time. Those points do not supply a universal timetable for every ZMC product. Medicines can introduce separate interactions that are more important than the mineral-to-mineral concern, and their instructions deserve individual attention. If a prescribed plan includes several products, a pharmacist can review the actual names and amounts. An internet rule to separate everything by a fixed number of hours cannot account for that context.",
+        "sourceIds": [
+          "ca-overview",
+          "mg-overview",
+          "zn-overview"
+        ]
+      },
+      {
+        "id": "extra-cost",
+        "title": "More ingredients can make correction less precise",
+        "body": "Suppose the reason for buying a product is a calcium shortfall. Raising a ZMC serving to obtain more calcium also raises zinc and magnesium, even if neither needs adjustment. Adding separate products on top can make the total difficult to see. This matters because excess supplemental zinc can interfere with copper status, and supplemental magnesium can cause gastrointestinal effects. These are different risks from a modest meal interaction. The useful audit therefore asks whether each ingredient has a role and whether the total exposure is deliberate. A formula that appears economical per tablet may become poor value if it repeatedly supplies nutrients that were never needed.",
+        "sourceIds": [
+          "zn-overview",
+          "mg-overview",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "buying",
+        "title": "Judge a combination by fit rather than a synergy promise",
+        "body": "A reasonable ZMC purchase is one whose individual ingredients fit a defined nutritional plan, whose amounts are transparent and whose instructions are workable. The interaction evidence gives no basis for declaring every combination ineffective. It also gives no basis for promising automatic synergy, better sleep, stronger bones or superior recovery from the combination itself. Keep meal experiments, nutrient adequacy and clinical outcomes separate when reading claims. If the three needs do not line up, separate choices or a dietary change may offer more control. The best arrangement is the one that addresses a real gap without turning normal food choices into an elaborate mineral scheduling problem.",
+        "sourceIds": [
+          "nutrients-zmc-calcium-zinc-1997",
+          "nutrients-zmc-diet-zinc-2009",
+          "supplement-quality-ods"
+        ]
+      }
+    ],
+    "evidenceNotes": [
+      {
+        "finding": "Extra calcium reduced net zinc absorption and balance in the controlled feeding protocol.",
+        "sourceIds": [
+          "nutrients-zmc-calcium-zinc-1997"
+        ],
+        "design": "Controlled feeding periods plus a separate acute test-meal experiment.",
+        "population": "18 postmenopausal women in the feeding study; a separate adult group in the acute experiment.",
+        "outcome": "Zinc absorption and balance.",
+        "limits": "Selected diets and exposures; not proof that ordinary dairy intake causes zinc deficiency."
+      },
+      {
+        "finding": "Phytate reduced zinc absorption, but higher calcium did not significantly impair it.",
+        "sourceIds": [
+          "nutrients-zmc-diet-zinc-2009"
+        ],
+        "design": "Factorial calcium-by-phytate meal experiment using a zinc tracer.",
+        "population": "Ten healthy women consuming one-day menus of ordinary foods.",
+        "outcome": "Fractional and absolute zinc absorption.",
+        "limits": "Small, short-term study; cannot establish long-term safety or optimal timing of all combined supplements."
+      }
+    ],
+    "sourceIds": [
+      "ca-overview",
+      "mg-overview",
+      "zn-overview",
+      "nutrients-zmc-calcium-zinc-1997",
+      "nutrients-zmc-diet-zinc-2009",
+      "supplement-quality-ods"
+    ]
+  }
+}

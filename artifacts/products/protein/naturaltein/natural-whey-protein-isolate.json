@@ -1,0 +1,635 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "Naturaltein",
+  "product": "Natural Whey Protein Isolate",
+  "variants": [
+    {
+      "order": 559,
+      "offer": {
+        "id": 559,
+        "brand": "Naturaltein",
+        "product": "Natural Whey Protein Isolate",
+        "type": "Whey — isolate",
+        "flavour": "Belgian Chocolate",
+        "kg": 1,
+        "price": 4790,
+        "stock": "Sold out",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey isolate",
+        "energy": null,
+        "url": "https://naturaltein.in/products/whey-protein-isolate?variant=44634348453971",
+        "nutritionUrl": "https://naturaltein.in/products/whey-protein-isolate?variant=44634348453971",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://naturaltein.in/products/whey-protein-isolate?variant=44634348453971",
+          "evidenceUrl": "https://naturaltein.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 560,
+      "offer": {
+        "id": 560,
+        "brand": "Naturaltein",
+        "product": "Natural Whey Protein Isolate",
+        "type": "Whey — isolate",
+        "flavour": "Caffe Mocha",
+        "kg": 1,
+        "price": 5490,
+        "stock": "In stock",
+        "protein": 83.6,
+        "scoop": 30,
+        "serving": 30,
+        "subclass": "Whey isolate",
+        "energy": 410,
+        "url": "https://naturaltein.in/products/whey-protein-isolate?variant=44634348257363",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0634/8868/8211/files/Caffe_Mocha_Back.webp?v=1756986384",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Previously missing protein % added from flavour-matched panel; linked cost recalculates. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-matched label image, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://naturaltein.in/products/whey-protein-isolate?variant=44634348257363",
+          "evidenceUrl": "https://naturaltein.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 561,
+      "offer": {
+        "id": 561,
+        "brand": "Naturaltein",
+        "product": "Natural Whey Protein Isolate",
+        "type": "Whey — isolate",
+        "flavour": "Chocolate",
+        "kg": 1,
+        "price": 5490,
+        "stock": "In stock",
+        "protein": 80.2,
+        "scoop": 30,
+        "serving": 30,
+        "subclass": "Whey isolate",
+        "energy": 397,
+        "url": "https://naturaltein.in/products/whey-protein-isolate?variant=44634347864147",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0634/8868/8211/files/Chocolate_Back_6619edfe-670d-4310-a9d8-87c079a7a466.webp?v=1756986384",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Previously missing protein % added from flavour-matched panel; linked cost recalculates. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-matched label image, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://naturaltein.in/products/whey-protein-isolate?variant=44634347864147",
+          "evidenceUrl": "https://naturaltein.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 562,
+      "offer": {
+        "id": 562,
+        "brand": "Naturaltein",
+        "product": "Natural Whey Protein Isolate",
+        "type": "Whey — isolate",
+        "flavour": "Mango Delight",
+        "kg": 1,
+        "price": 5490,
+        "stock": "Sold out",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey isolate",
+        "energy": null,
+        "url": "https://naturaltein.in/products/whey-protein-isolate?variant=44634520617043",
+        "nutritionUrl": "https://naturaltein.in/products/whey-protein-isolate?variant=44634520617043",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://naturaltein.in/products/whey-protein-isolate?variant=44634520617043",
+          "evidenceUrl": "https://naturaltein.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 563,
+      "offer": {
+        "id": 563,
+        "brand": "Naturaltein",
+        "product": "Natural Whey Protein Isolate",
+        "type": "Whey — isolate",
+        "flavour": "Pista Kulfi",
+        "kg": 1,
+        "price": 5490,
+        "stock": "In stock",
+        "protein": 80,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey isolate",
+        "energy": null,
+        "url": "https://naturaltein.in/products/whey-protein-isolate?variant=44634347962451",
+        "nutritionUrl": "https://naturaltein.in/products/whey-protein-isolate?variant=44634347962451",
+        "basis": "Pista Kulfi description: 24g / 30g",
+        "notes": "Scoop weight not verified. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://naturaltein.in/products/whey-protein-isolate?variant=44634347962451",
+          "evidenceUrl": "https://naturaltein.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 564,
+      "offer": {
+        "id": 564,
+        "brand": "Naturaltein",
+        "product": "Natural Whey Protein Isolate",
+        "type": "Whey — isolate",
+        "flavour": "Strawberry Blast",
+        "kg": 1,
+        "price": 5490,
+        "stock": "In stock",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey isolate",
+        "energy": null,
+        "url": "https://naturaltein.in/products/whey-protein-isolate?variant=44634348650579",
+        "nutritionUrl": "https://naturaltein.in/products/whey-protein-isolate?variant=44634348650579",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://naturaltein.in/products/whey-protein-isolate?variant=44634348650579",
+          "evidenceUrl": "https://naturaltein.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 565,
+      "offer": {
+        "id": 565,
+        "brand": "Naturaltein",
+        "product": "Natural Whey Protein Isolate",
+        "type": "Whey — isolate",
+        "flavour": "Unflavoured",
+        "kg": 1,
+        "price": 5490,
+        "stock": "In stock",
+        "protein": 90,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey isolate",
+        "energy": 375,
+        "url": "https://naturaltein.in/products/whey-protein-isolate?variant=44634348159059",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0634/8868/8211/files/Unflavoured_Back.webp?v=1756986354",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Previously missing protein % added from flavour-matched panel; linked cost recalculates. Scoop weight not verified.",
+        "energyBasis": "Flavour-matched label image, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://naturaltein.in/products/whey-protein-isolate?variant=44634348159059",
+          "evidenceUrl": "https://naturaltein.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 566,
+      "offer": {
+        "id": 566,
+        "brand": "Naturaltein",
+        "product": "Natural Whey Protein Isolate",
+        "type": "Whey — isolate",
+        "flavour": "Vanilla",
+        "kg": 1,
+        "price": 5490,
+        "stock": "In stock",
+        "protein": 84.2,
+        "scoop": 30,
+        "serving": 30,
+        "subclass": "Whey isolate",
+        "energy": 381,
+        "url": "https://naturaltein.in/products/whey-protein-isolate?variant=44634348060755",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0634/8868/8211/files/Vanilla_back.webp?v=1756986354",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Previously missing protein % added from flavour-matched panel; linked cost recalculates. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-matched label image, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://naturaltein.in/products/whey-protein-isolate?variant=44634348060755",
+          "evidenceUrl": "https://naturaltein.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 2748,
+      "observation": {
+        "category": "protein",
+        "offerId": 559,
+        "date": "2026-10-25",
+        "price": 4790,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-isolate?variant=44634348453971",
+        "evidenceUrl": "https://naturaltein.in/products/whey-protein-isolate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "44634348453971"
+      }
+    },
+    {
+      "order": 2749,
+      "observation": {
+        "category": "protein",
+        "offerId": 560,
+        "date": "2026-10-25",
+        "price": 5490,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-isolate?variant=44634348257363",
+        "evidenceUrl": "https://naturaltein.in/products/whey-protein-isolate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "44634348257363"
+      }
+    },
+    {
+      "order": 2750,
+      "observation": {
+        "category": "protein",
+        "offerId": 561,
+        "date": "2026-10-25",
+        "price": 5490,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-isolate?variant=44634347864147",
+        "evidenceUrl": "https://naturaltein.in/products/whey-protein-isolate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "44634347864147"
+      }
+    },
+    {
+      "order": 2751,
+      "observation": {
+        "category": "protein",
+        "offerId": 562,
+        "date": "2026-10-25",
+        "price": 5490,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-isolate?variant=44634520617043",
+        "evidenceUrl": "https://naturaltein.in/products/whey-protein-isolate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "44634520617043"
+      }
+    },
+    {
+      "order": 2752,
+      "observation": {
+        "category": "protein",
+        "offerId": 563,
+        "date": "2026-10-25",
+        "price": 5490,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-isolate?variant=44634347962451",
+        "evidenceUrl": "https://naturaltein.in/products/whey-protein-isolate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "44634347962451"
+      }
+    },
+    {
+      "order": 2753,
+      "observation": {
+        "category": "protein",
+        "offerId": 564,
+        "date": "2026-10-25",
+        "price": 5490,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-isolate?variant=44634348650579",
+        "evidenceUrl": "https://naturaltein.in/products/whey-protein-isolate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "44634348650579"
+      }
+    },
+    {
+      "order": 2754,
+      "observation": {
+        "category": "protein",
+        "offerId": 565,
+        "date": "2026-10-25",
+        "price": 5490,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-isolate?variant=44634348159059",
+        "evidenceUrl": "https://naturaltein.in/products/whey-protein-isolate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "44634348159059"
+      }
+    },
+    {
+      "order": 2755,
+      "observation": {
+        "category": "protein",
+        "offerId": 566,
+        "date": "2026-10-25",
+        "price": 5490,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-isolate?variant=44634348060755",
+        "evidenceUrl": "https://naturaltein.in/products/whey-protein-isolate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "44634348060755"
+      }
+    },
+    {
+      "order": 3375,
+      "observation": {
+        "category": "protein",
+        "offerId": 559,
+        "date": "2026-09-28",
+        "price": 4790,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-isolate?variant=44634348453971",
+        "evidenceUrl": "https://web.archive.org/web/20260928144207/https://naturaltein.in/products/whey-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "44634348453971",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3376,
+      "observation": {
+        "category": "protein",
+        "offerId": 560,
+        "date": "2026-09-28",
+        "price": 5490,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-isolate?variant=44634348257363",
+        "evidenceUrl": "https://web.archive.org/web/20260928144207/https://naturaltein.in/products/whey-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "44634348257363",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3377,
+      "observation": {
+        "category": "protein",
+        "offerId": 561,
+        "date": "2026-09-28",
+        "price": 5490,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-isolate?variant=44634347864147",
+        "evidenceUrl": "https://web.archive.org/web/20260928144207/https://naturaltein.in/products/whey-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "44634347864147",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3378,
+      "observation": {
+        "category": "protein",
+        "offerId": 562,
+        "date": "2026-09-28",
+        "price": 5490,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-isolate?variant=44634520617043",
+        "evidenceUrl": "https://web.archive.org/web/20260928144207/https://naturaltein.in/products/whey-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "44634520617043",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3379,
+      "observation": {
+        "category": "protein",
+        "offerId": 563,
+        "date": "2026-09-28",
+        "price": 5490,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-isolate?variant=44634347962451",
+        "evidenceUrl": "https://web.archive.org/web/20260928144207/https://naturaltein.in/products/whey-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "44634347962451",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3380,
+      "observation": {
+        "category": "protein",
+        "offerId": 564,
+        "date": "2026-09-28",
+        "price": 5490,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-isolate?variant=44634348650579",
+        "evidenceUrl": "https://web.archive.org/web/20260928144207/https://naturaltein.in/products/whey-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "44634348650579",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3381,
+      "observation": {
+        "category": "protein",
+        "offerId": 565,
+        "date": "2026-09-28",
+        "price": 5490,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-isolate?variant=44634348159059",
+        "evidenceUrl": "https://web.archive.org/web/20260928144207/https://naturaltein.in/products/whey-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "44634348159059",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3382,
+      "observation": {
+        "category": "protein",
+        "offerId": 566,
+        "date": "2026-09-28",
+        "price": 5490,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-isolate?variant=44634348060755",
+        "evidenceUrl": "https://web.archive.org/web/20260928144207/https://naturaltein.in/products/whey-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "44634348060755",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 4606,
+      "observation": {
+        "category": "protein",
+        "offerId": 559,
+        "date": "2026-11-19",
+        "price": 4790,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-isolate?variant=44634348453971",
+        "evidenceUrl": "https://naturaltein.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "44634348453971"
+      }
+    },
+    {
+      "order": 4607,
+      "observation": {
+        "category": "protein",
+        "offerId": 560,
+        "date": "2026-11-19",
+        "price": 5490,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-isolate?variant=44634348257363",
+        "evidenceUrl": "https://naturaltein.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "44634348257363"
+      }
+    },
+    {
+      "order": 4608,
+      "observation": {
+        "category": "protein",
+        "offerId": 561,
+        "date": "2026-11-19",
+        "price": 5490,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-isolate?variant=44634347864147",
+        "evidenceUrl": "https://naturaltein.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "44634347864147"
+      }
+    },
+    {
+      "order": 4609,
+      "observation": {
+        "category": "protein",
+        "offerId": 562,
+        "date": "2026-11-19",
+        "price": 5490,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-isolate?variant=44634520617043",
+        "evidenceUrl": "https://naturaltein.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "44634520617043"
+      }
+    },
+    {
+      "order": 4610,
+      "observation": {
+        "category": "protein",
+        "offerId": 563,
+        "date": "2026-11-19",
+        "price": 5490,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-isolate?variant=44634347962451",
+        "evidenceUrl": "https://naturaltein.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "44634347962451"
+      }
+    },
+    {
+      "order": 4611,
+      "observation": {
+        "category": "protein",
+        "offerId": 564,
+        "date": "2026-11-19",
+        "price": 5490,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-isolate?variant=44634348650579",
+        "evidenceUrl": "https://naturaltein.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "44634348650579"
+      }
+    },
+    {
+      "order": 4612,
+      "observation": {
+        "category": "protein",
+        "offerId": 565,
+        "date": "2026-11-19",
+        "price": 5490,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-isolate?variant=44634348159059",
+        "evidenceUrl": "https://naturaltein.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "44634348159059"
+      }
+    },
+    {
+      "order": 4613,
+      "observation": {
+        "category": "protein",
+        "offerId": 566,
+        "date": "2026-11-19",
+        "price": 5490,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-isolate?variant=44634348060755",
+        "evidenceUrl": "https://naturaltein.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "44634348060755"
+      }
+    }
+  ],
+  "refreshSources": []
+}

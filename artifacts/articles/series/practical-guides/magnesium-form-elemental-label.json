@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "order": 26,
+  "article": {
+    "id": "magnesium-form-elemental-label",
+    "category": "magnesium",
+    "series": "practical-guides",
+    "title": "Magnesium glycinate, citrate or oxide: read the elemental amount first",
+    "summary": "A practical way to compare salts, tolerability and label servings without turning absorption claims into a universal ranking.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "Magnesium products can advertise the weight of a compound, the elemental mineral it supplies, a trademarked ingredient or a mixture of several forms. Those numbers answer different questions. A large front-panel figure can therefore make a modest serving look impressive. The first useful skill is reading what is actually counted. The next is deciding whether a form's practical characteristics fit the reason for taking it, rather than assuming the most fashionable salt must be best for every purpose.",
+    "sections": [
+      {
+        "id": "two-masses",
+        "title": "Compound mass and elemental magnesium are different amounts",
+        "body": "A magnesium compound includes magnesium and the other parts of its chemical structure. The elemental magnesium figure identifies the mineral contribution rather than the weight of that entire compound. Compare clearly declared elemental amounts on the same serving basis. If the label only supplies a compound name and mass, do not invent an elemental payload from an uncertain formulation. Hydration state, mixtures and ambiguous wording can make a seemingly precise conversion unreliable. A smaller verified figure can be more informative than a larger unclear one.",
+        "sourceIds": [
+          "mg-overview",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "solubility",
+        "title": "Absorption evidence does not settle every consumer outcome",
+        "body": "Magnesium forms vary in dissolution and absorption. Small studies summarized by NIH generally find better absorption for several soluble salts than for oxide. That helps explain a formulation difference, but it is not a trial showing that every citrate product improves sleep, prevents cramps or enhances performance more than every oxide product. The useful chain of evidence connects an exact preparation with the relevant outcome and population. Do not skip those steps after seeing a bioavailability percentage in an advertisement.",
+        "sourceIds": [
+          "mg-overview"
+        ]
+      },
+      {
+        "id": "glycinate",
+        "title": "What a glycinate label can and cannot tell you",
+        "body": "Glycinate or bisglycinate identifies a magnesium-containing preparation associated with glycine; it does not guarantee a specific finished product's elemental content, tolerability or clinical effect. Check whether the formula is a single declared preparation or includes other magnesium materials. A 2025 sleep trial studied one bisglycinate regimen, not every product carrying the word. Its results cannot turn the label into a certification for sleep treatment. A reason for choosing the form should remain separate from a guarantee of the outcome.",
+        "sourceIds": [
+          "nutrients-mg-sleep-2025",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "citrate-oxide",
+        "title": "Citrate and oxide may solve different practical problems",
+        "body": "A formulation's effects on the gut can matter as much as its theoretical absorption. Magnesium-containing products are also used in medicines such as laxatives and antacids. A gastrointestinal effect may be an intended medicine action, an unwanted supplement effect or a reason to reconsider the preparation. Treating a salt as simply good or bad ignores that context. Read the actual product instructions, and do not replace a medicine with a supplement or increase the amount just to compensate for an advertised absorption disadvantage.",
+        "sourceIds": [
+          "mg-overview"
+        ]
+      },
+      {
+        "id": "serving",
+        "title": "Count the complete serving before comparing costs",
+        "body": "One capsule may not be one label serving. Establish units per serving, elemental magnesium per full serving, and usable servings in the pack. A cheaper capsule can become a more expensive equivalent amount if several capsules are required. Conversely, a larger capsule count does not prove more total mineral. Keep the arithmetic tied to the exact product and formulation. Cost per elemental amount helps compare like inputs; it does not score sleep quality, recovery or the value of an unnecessary supplement.",
+        "sourceIds": [
+          "supplement-quality-ods",
+          "mg-overview"
+        ]
+      },
+      {
+        "id": "overlap",
+        "title": "Remember the magnesium outside the magnesium bottle",
+        "body": "ZMC formulas, multivitamins, sleep blends and some medicines may already supply magnesium. Read those labels separately rather than assuming a product with another name contributes nothing. Food magnesium and supplemental magnesium also have different roles in the interpretation of some international safety references. A daily reference amount is not a universal supplemental dose. The category guide distinguishes these bases, while an individual review must consider the actual products and wider diet rather than a grand total with unclear units.",
+        "sourceIds": [
+          "mg-overview",
+          "ca-overview"
+        ]
+      },
+      {
+        "id": "medicines",
+        "title": "Tolerability is only one part of suitability",
+        "body": "Kidney impairment changes the handling of magnesium and the risks of excess exposure. Magnesium can also reduce absorption of some medicines when taken together. The appropriate timing depends on the exact medicine, so one generic spacing rule is not suitable for every reader. A pharmacist can review the labels and prescriptions together. Do not interpret the absence of diarrhoea as evidence that an amount is safe, or the presence of a familiar nutrient as evidence that a product cannot interact with treatment.",
+        "sourceIds": [
+          "mg-overview"
+        ]
+      },
+      {
+        "id": "decision",
+        "title": "Use a reasoned comparison rather than a premium-name contest",
+        "body": "Start with an assessed need or a clearly stated optional purpose. Then check the mineral amount, preparation, serving, quality documentation, tolerance and cost. If a product claims better sleep or another clinical result, ask for evidence for that preparation and outcome rather than a list of normal biochemical functions. A transparent, affordable label can offer more decision value than a complex blend whose elemental amounts cannot be separated. A well-supported decision may still be to improve food intake or seek assessment instead of buying another salt.",
+        "sourceIds": [
+          "supplement-quality-ods",
+          "nutrients-mg-sleep-2025"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "mg-overview",
+      "supplement-quality-ods",
+      "nutrients-mg-sleep-2025",
+      "ca-overview"
+    ]
+  }
+}

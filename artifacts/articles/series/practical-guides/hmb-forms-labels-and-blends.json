@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "order": 50,
+  "article": {
+    "id": "hmb-forms-labels-and-blends",
+    "category": "hmb",
+    "series": "practical-guides",
+    "title": "HMB labels: calcium salts, free acid and clinical nutrition blends",
+    "summary": "Understand what is being counted before comparing milligrams, absorption claims or products designed for different purposes.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "HMB is a metabolite of leucine, but a bottle of HMB is not the same intervention as protein, leucine or a BCAA mixture. Its labels add another layer: calcium HMB, free-acid HMB and nutrition formulas can describe different preparations. A useful comparison begins by identifying the actual declaration, then asks whether the cited evidence supports the intended outcome. This article focuses on the information needed to make that comparison, rather than using a form name or a quicker blood peak as an automatic recommendation.",
+    "sections": [
+      {
+        "id": "metabolite",
+        "title": "Leucine conversion does not make the products equivalent",
+        "body": "Normal leucine metabolism produces some HMB. That relationship explains a biological connection, not a rule that equal grams of leucine, BCAA and HMB supply the same exposure or outcome. Complete dietary protein also provides amino acids needed for tissue proteins, which HMB does not replace. When reviewing a stack, keep those contributions distinct. Avoid adding a metabolite amount to protein grams as if it were a second serving of complete protein or assuming that HMB supplies all the benefits of its precursor.",
+        "sourceIds": [
+          "hmb-position",
+          "food-performance-amino-acids",
+          "food-performance-protein"
+        ]
+      },
+      {
+        "id": "calcium-compound",
+        "title": "A calcium-HMB number needs a clear basis",
+        "body": "A declaration may describe calcium HMB compound mass or an explicitly stated HMB payload. These are not automatically identical values. Read the exact wording and retain any ambiguity rather than silently converting the pack using an assumed composition. Added calcium and other declared minerals also need their own label basis. The useful question is what the complete serving actually supplies, with any elemental-mineral declaration separate from the full mass of a salt. An impressive front number cannot substitute for that information.",
+        "sourceIds": [
+          "hmb-position",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "free-acid",
+        "title": "Free acid identifies a form, not a guaranteed result",
+        "body": "Free-acid HMB and calcium-HMB preparations have been compared for blood appearance and related pharmacokinetic measures. These are useful formulation questions, but an earlier or higher circulating level does not by itself establish better strength, muscle gain or recovery. A clinical advantage requires a relevant human outcome comparison, not only an exposure argument. When a premium rests on faster uptake, ask whether the specific preparation improved the outcome that matters and whether the comparison used an appropriate amount and population.",
+        "sourceIds": [
+          "hmb-position"
+        ]
+      },
+      {
+        "id": "nutrition-formula",
+        "title": "A clinical nutrition drink is more than one ingredient",
+        "body": "Some interventions include HMB alongside protein, energy, vitamins or other nutrients. Their results concern that combination and the population receiving it. It is not valid to attribute the whole outcome to HMB and transfer it to a small standalone capsule. Conversely, an ordinary training study does not fully answer a malnutrition or recovery-care question. Read the whole intervention and background nutrition. A multi-nutrient product can be relevant within supervised care without proving that healthy trainees need the same formula.",
+        "sourceIds": [
+          "hmb-position",
+          "well-hmb-bedrest",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "complete-serving",
+        "title": "Capsules, powders and drinks change the measuring task",
+        "body": "Counted products require the number of units in a full label serving; powders require a verified serving mass; prepared drinks require their stated quantity. Net pack mass is not necessarily the HMB amount. Calculate usable servings only when the necessary inputs are known. Then compare matching forms on a transparent basis rather than treating a smaller capsule count or larger scoop as evidence of a better product. Taste, portability and ease of measuring can matter without establishing greater physiological potency.",
+        "sourceIds": [
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "study-match",
+        "title": "Match the preparation and the study context together",
+        "body": "An ingredient name alone does not connect a retail label to the research. Check whether participants were healthy trainees, inactive older adults or people receiving clinical nutrition, and whether the formulation and accompanying intervention match. A trial comparing whey plus calcium HMB with whey plus leucine did not find different training gains between those groups. That result does not test every use of HMB, but it shows why a chemical relationship or a training rationale cannot replace an appropriate direct comparison.",
+        "sourceIds": [
+          "well-hmb-leucine",
+          "hmb-position"
+        ]
+      },
+      {
+        "id": "quality",
+        "title": "Composition checks are separate from benefit checks",
+        "body": "Credible product or batch documentation may help assess identity and declared content. It cannot prove that an HMB product improves function for a particular person. Likewise, a clinical trial cannot certify the purity or accurate serving of an unrelated retail pack. Keep these two evidence trails visible. An independently measured ingredient amount improves the input to a price calculation; it does not eliminate uncertainty about clinical relevance, a proposed absorption premium or the suitability of the full formula.",
+        "sourceIds": [
+          "supplement-quality-ods",
+          "hmb-position"
+        ]
+      },
+      {
+        "id": "value",
+        "title": "Choose the reason for buying before the form premium",
+        "body": "The first decision is whether there is an evidence-supported purpose worth discussing, not whether free acid or calcium has the more persuasive slogan. Medical concerns, restricted diets or clinical recovery need an appropriate assessment rather than a generic sports stack. For an optional fitness purchase, compare population-specific outcomes, opportunity cost and overlap with products already used. A well-described HMB form can make comparison more honest, while the final conclusion may still be that no additional product is needed.",
+        "sourceIds": [
+          "exercise",
+          "hmb-young-meta",
+          "hmb-older-meta",
+          "supplement-quality-ods"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "hmb-position",
+      "food-performance-amino-acids",
+      "food-performance-protein",
+      "supplement-quality-ods",
+      "well-hmb-bedrest",
+      "well-hmb-leucine",
+      "exercise",
+      "hmb-young-meta",
+      "hmb-older-meta"
+    ]
+  }
+}

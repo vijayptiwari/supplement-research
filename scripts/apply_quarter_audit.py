@@ -1,6 +1,10 @@
 """Apply exact-variant dated observations, preserving unverified catalog prices explicitly."""
 from quarter_price_audit import *
 import html,csv,functools
+try:
+ from artifact_bridge import reject_legacy_writer
+except ModuleNotFoundError:
+ from scripts.artifact_bridge import reject_legacy_writer
 def read_response(source):return (OUT/'responses'/source['evidence']).read_text(encoding='utf-8') if source.get('evidence') else ''
 def ld_nodes(raw):
  def walk(n):
@@ -97,9 +101,10 @@ def price_from_html(r,raw,current_variant=None):
   if any(heading_matches(r,title) for title in titles) and p:return float(p[1].replace(',','')),'Exact product heading, flavour, weight and labelled selling price',None
  return None,None,None
 def apply():
+ reject_legacy_writer(ROOT,'apply_quarter_audit.py')
  live={x['base']:x for x in json.loads((OUT/'live_sources.json').read_text())};selected={x['url']:x for x in json.loads((OUT/'selected_sources.json').read_text())};archives={x['base']:x for x in json.loads((OUT/'archive_sources.json').read_text())}
  observations=[];report=[];stats=collections.Counter()
- for cat,d in DATA.items():
+ for cat,d in load_data(ROOT).items():
   backup=OUT/f'{cat}_before_audit.json'
   if not backup.exists():backup.write_text(json.dumps(d),encoding='utf-8')
   for r in d['offers']:

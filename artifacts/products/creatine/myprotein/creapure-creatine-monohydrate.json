@@ -1,0 +1,211 @@
+{
+  "schemaVersion": 1,
+  "category": "creatine",
+  "brand": "Myprotein",
+  "product": "Creapure® (Creatine Monohydrate)",
+  "variants": [
+    {
+      "order": 118,
+      "offer": {
+        "id": "cr-118",
+        "brand": "Myprotein",
+        "product": "Creapure® (Creatine Monohydrate)",
+        "type": "Monohydrate",
+        "subclass": "Micronized",
+        "grade": "Creapure®",
+        "formulation": "Single ingredient",
+        "packaging": "Standard pack",
+        "flavour": "Unflavoured",
+        "grams": 250,
+        "kg": 0.25,
+        "price": 1499,
+        "stock": "In stock",
+        "creatine": 100,
+        "scoop": 3,
+        "serving": 3,
+        "creatineServing": 3,
+        "energy": 0,
+        "url": "https://www.myprotein.co.in/p/sports-nutrition/creapure-creatine-monohydrate/11654731/?variation=11654733",
+        "nutritionUrl": "https://www.myprotein.co.in/p/sports-nutrition/creapure-creatine-monohydrate/11654731/?variation=11654733",
+        "basis": "Selected variant ingredients: creatine monohydrate (100%).",
+        "notes": "Table header says per 4g serving while serving heading says 3g; per100g quantity used independently, scoop uses heading.",
+        "energyBasis": "Selected variant nutrition table, Per 100g column.",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/creapure-creatine-monohydrate/11654731/?variation=11654733",
+          "evidenceUrl": "https://www.myprotein.co.in/p/sports-nutrition/creapure-creatine-monohydrate/11654731/?variation=11654733",
+          "matchBasis": "Exact official ProductGroup variation SKU and structured net pack"
+        }
+      }
+    },
+    {
+      "order": 119,
+      "offer": {
+        "id": "cr-119",
+        "brand": "Myprotein",
+        "product": "Creapure® (Creatine Monohydrate)",
+        "type": "Monohydrate",
+        "subclass": "Micronized",
+        "grade": "Creapure®",
+        "formulation": "Single ingredient",
+        "packaging": "Standard pack",
+        "flavour": "Unflavoured",
+        "grams": 500,
+        "kg": 0.5,
+        "price": 2499,
+        "stock": "In stock",
+        "creatine": 100,
+        "scoop": 3,
+        "serving": 3,
+        "creatineServing": 3,
+        "energy": 0,
+        "url": "https://www.myprotein.co.in/p/sports-nutrition/creapure-creatine-monohydrate/11654731/?variation=11654732",
+        "nutritionUrl": "https://www.myprotein.co.in/p/sports-nutrition/creapure-creatine-monohydrate/11654731/?variation=11654732",
+        "basis": "Selected variant ingredients: creatine monohydrate (100%).",
+        "notes": "Table header says per 4g serving while serving heading says 3g; per100g quantity used independently, scoop uses heading.",
+        "energyBasis": "Selected variant nutrition table, Per 100g column.",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/creapure-creatine-monohydrate/11654731/?variation=11654732",
+          "evidenceUrl": "https://www.myprotein.co.in/p/sports-nutrition/creapure-creatine-monohydrate/11654731/?variation=11654732",
+          "matchBasis": "Exact official ProductGroup variation SKU and structured net pack"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 1936,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-118",
+        "date": "2026-03-26",
+        "price": 1299,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/creapure-creatine-monohydrate/11654731/?variation=11654733",
+        "evidenceUrl": "https://web.archive.org/web/20260326195609id_/https://www.myprotein.co.in/p/sports-nutrition/creapure-creatine-monohydrate/11654731/",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "11654733",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1937,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-119",
+        "date": "2026-03-26",
+        "price": 2299,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/creapure-creatine-monohydrate/11654731/?variation=11654732",
+        "evidenceUrl": "https://web.archive.org/web/20260326195609id_/https://www.myprotein.co.in/p/sports-nutrition/creapure-creatine-monohydrate/11654731/",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "11654732",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1938,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-118",
+        "date": "2026-09-22",
+        "price": 1499,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/creapure-creatine-monohydrate/11654731/?variation=11654733",
+        "evidenceUrl": "https://web.archive.org/web/20260922051232id_/https://www.myprotein.co.in/p/sports-nutrition/creapure-creatine-monohydrate/11654731/",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "11654733",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1939,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-119",
+        "date": "2026-09-22",
+        "price": 2499,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/creapure-creatine-monohydrate/11654731/?variation=11654732",
+        "evidenceUrl": "https://web.archive.org/web/20260922051232id_/https://www.myprotein.co.in/p/sports-nutrition/creapure-creatine-monohydrate/11654731/",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "11654732",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3111,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-118",
+        "date": "2026-10-25",
+        "price": 1499,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/creapure-creatine-monohydrate/11654731/?variation=11654733",
+        "evidenceUrl": "https://www.myprotein.co.in/p/sports-nutrition/creapure-creatine-monohydrate/11654731/?variation=11654733",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "11654733"
+      }
+    },
+    {
+      "order": 3112,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-119",
+        "date": "2026-10-25",
+        "price": 2499,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/creapure-creatine-monohydrate/11654731/?variation=11654732",
+        "evidenceUrl": "https://www.myprotein.co.in/p/sports-nutrition/creapure-creatine-monohydrate/11654731/?variation=11654732",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "11654732"
+      }
+    },
+    {
+      "order": 4971,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-118",
+        "date": "2026-11-19",
+        "price": 1499,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/creapure-creatine-monohydrate/11654731/?variation=11654733",
+        "evidenceUrl": "https://www.myprotein.co.in/p/sports-nutrition/creapure-creatine-monohydrate/11654731/?variation=11654733",
+        "kind": "official-live",
+        "matchBasis": "Exact official ProductGroup variation SKU and structured net pack",
+        "variantId": "11654733"
+      }
+    },
+    {
+      "order": 4972,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-119",
+        "date": "2026-11-19",
+        "price": 2499,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/creapure-creatine-monohydrate/11654731/?variation=11654732",
+        "evidenceUrl": "https://www.myprotein.co.in/p/sports-nutrition/creapure-creatine-monohydrate/11654731/?variation=11654732",
+        "kind": "official-live",
+        "matchBasis": "Exact official ProductGroup variation SKU and structured net pack",
+        "variantId": "11654732"
+      }
+    }
+  ],
+  "refreshSources": []
+}

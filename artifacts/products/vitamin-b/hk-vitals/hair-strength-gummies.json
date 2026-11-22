@@ -1,0 +1,189 @@
+{
+  "schemaVersion": 1,
+  "category": "vitamin-b",
+  "brand": "HK Vitals",
+  "product": "Hair Strength Gummies",
+  "variants": [
+    {
+      "order": 18,
+      "offer": {
+        "form": "Gummy",
+        "source": "Sesbania grandiflora leaf extract (biotin)",
+        "servingUnits": 1,
+        "product": "Hair Strength Gummies",
+        "type": "Sesbania-derived biotin + vitamins and zinc",
+        "subclass": "Hair multivitamin combination",
+        "biotinMcg": 40,
+        "folicAcidMcg": 129.41,
+        "vitaminB12Mcg": 1,
+        "vitaminB6Mg": 0.25,
+        "vitaminCMg": 11.25,
+        "vitaminEMg": 10,
+        "zincMg": 1,
+        "mineralBasis": "elemental",
+        "energyPerServing": 6.56,
+        "additionalIngredients": [
+          {
+            "name": "Vitamin A",
+            "amount": 300,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Iodine",
+            "amount": 21,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Myo-inositol",
+            "amount": 2.5,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "basis": "Official panel per one gummy (3.5 g): biotin 40 mcg from Sesbania extract, folic acid 129.41 mcg, B12 1 mcg, B6 0.25 mg, C 11.25 mg, E 10 mg and zinc 1 mg; energy 6.56 kcal.",
+        "notes": "Biotin amount is explicitly declared as 40 mcg; the separate 10,000 mcg extract amount is not treated as biotin. Contains 1 g total sugars per gummy despite 0 g added sugars. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+        "brand": "HK Vitals",
+        "id": "vitamin-b-hkv-185044",
+        "packCount": 60,
+        "flavour": "Strawberry",
+        "price": 869,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://www.hkvitals.com/sv/hk-vitals-hair-strength-gummies/SP-99450?navKey=VRNT-185044",
+        "nutritionUrl": "https://img10.hkrtcdn.com/47219/prd_4721879-HK-Vitals-Hair-Strength-Gummies-60-gummies-Strawberry_o.jpg",
+        "labelSources": [
+          "https://www.hkvitals.com/products/biotin-gummies",
+          "https://img10.hkrtcdn.com/47219/prd_4721879-HK-Vitals-Hair-Strength-Gummies-60-gummies-Strawberry_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "packaging": "Single retail pack (60 units)",
+        "sourceVariantId": "185044",
+        "sourceProductId": "99450",
+        "declaredNutrients": [
+          "vitaminB6Mg",
+          "biotinMcg",
+          "folicAcidMcg",
+          "vitaminB12Mcg"
+        ],
+        "lastPriceReview": {
+          "checked": "2026-11-20",
+          "sourceUrl": "https://www.hkvitals.com/sv/hk-vitals-hair-strength-gummies/SP-99450?navKey=VRNT-185044",
+          "evidenceUrl": "https://www.hkvitals.com/sv/hk-vitals-hair-strength-gummies/SP-99450?navKey=VRNT-185044",
+          "matchBasis": "Fresh official HK Vitals exact legacy selected URL returned published SP-99450 / VRNT-185044 with matching brand, complete quantity/flavour attributes and unconditional INR offer_pr; profile/offer now retain explicit navKey rather than a mutable family default."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5129,
+      "observation": {
+        "category": "vitamin-b",
+        "offerId": "vitamin-b-hkv-185044",
+        "date": "2026-11-19",
+        "price": 869,
+        "currency": "INR",
+        "sourceUrl": "https://www.hkvitals.com/products/biotin-gummies",
+        "evidenceUrl": "https://www.hkvitals.com/products/biotin-gummies",
+        "kind": "official-live",
+        "matchBasis": "Official HK Vitals SSR reviewData selected numeric variant 185044; explicit pack '60 gummies', unconditional offer_pr INR and isPublish=true/oos=false. Excludes loyalty and coupon rewards.",
+        "variantId": "185044"
+      }
+    },
+    {
+      "order": 5204,
+      "observation": {
+        "category": "vitamin-b",
+        "offerId": "vitamin-b-hkv-185044",
+        "date": "2026-11-20",
+        "price": 869,
+        "currency": "INR",
+        "sourceUrl": "https://www.hkvitals.com/sv/hk-vitals-hair-strength-gummies/SP-99450?navKey=VRNT-185044",
+        "evidenceUrl": "https://www.hkvitals.com/sv/hk-vitals-hair-strength-gummies/SP-99450?navKey=VRNT-185044",
+        "kind": "official-live",
+        "variantId": "185044",
+        "matchBasis": "Fresh official HK Vitals exact legacy selected URL returned published SP-99450 / VRNT-185044 with matching brand, complete quantity/flavour attributes and unconditional INR offer_pr; profile/offer now retain explicit navKey rather than a mutable family default."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 239,
+      "profile": {
+        "form": "Gummy",
+        "source": "Sesbania grandiflora leaf extract (biotin)",
+        "servingUnits": 1,
+        "product": "Hair Strength Gummies",
+        "type": "Sesbania-derived biotin + vitamins and zinc",
+        "subclass": "Hair multivitamin combination",
+        "biotinMcg": 40,
+        "folicAcidMcg": 129.41,
+        "vitaminB12Mcg": 1,
+        "vitaminB6Mg": 0.25,
+        "vitaminCMg": 11.25,
+        "vitaminEMg": 10,
+        "zincMg": 1,
+        "mineralBasis": "elemental",
+        "energyPerServing": 6.56,
+        "additionalIngredients": [
+          {
+            "name": "Vitamin A",
+            "amount": 300,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Iodine",
+            "amount": 21,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Myo-inositol",
+            "amount": 2.5,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "basis": "Official panel per one gummy (3.5 g): biotin 40 mcg from Sesbania extract, folic acid 129.41 mcg, B12 1 mcg, B6 0.25 mg, C 11.25 mg, E 10 mg and zinc 1 mg; energy 6.56 kcal.",
+        "notes": "Biotin amount is explicitly declared as 40 mcg; the separate 10,000 mcg extract amount is not treated as biotin. Contains 1 g total sugars per gummy despite 0 g added sugars. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+        "brand": "HK Vitals",
+        "id": "vitamin-b-hkv-185044",
+        "packCount": 60,
+        "flavour": "Strawberry",
+        "nutritionUrl": "https://img10.hkrtcdn.com/47219/prd_4721879-HK-Vitals-Hair-Strength-Gummies-60-gummies-Strawberry_o.jpg",
+        "labelSources": [
+          "https://www.hkvitals.com/products/biotin-gummies",
+          "https://img10.hkrtcdn.com/47219/prd_4721879-HK-Vitals-Hair-Strength-Gummies-60-gummies-Strawberry_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "packaging": "Single retail pack (60 units)",
+        "sourceVariantId": "185044",
+        "sourceProductId": "99450",
+        "declaredNutrients": [
+          "vitaminB6Mg",
+          "biotinMcg",
+          "folicAcidMcg",
+          "vitaminB12Mcg"
+        ],
+        "category": "vitamin-b",
+        "kind": "hk-product",
+        "base": "https://www.hkvitals.com",
+        "handle": "biotin-gummies",
+        "productUrl": "https://www.hkvitals.com/sv/hk-vitals-hair-strength-gummies/SP-99450?navKey=VRNT-185044",
+        "variantUrl": "https://www.hkvitals.com/sv/hk-vitals-hair-strength-gummies/SP-99450?navKey=VRNT-185044",
+        "variantId": "185044",
+        "productId": 99450,
+        "sourceBrand": "HK Vitals",
+        "variantAttributes": {
+          "fn-att-quant": "60 gummies",
+          "spc-att-flvr": "Strawberry"
+        }
+      }
+    }
+  ]
+}

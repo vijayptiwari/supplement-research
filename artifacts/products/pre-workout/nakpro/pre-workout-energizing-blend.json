@@ -1,0 +1,254 @@
+{
+  "schemaVersion": 1,
+  "category": "pre-workout",
+  "brand": "NAKPRO",
+  "product": "Pre-Workout Energizing Blend",
+  "variants": [
+    {
+      "order": 4,
+      "offer": {
+        "brand": "NAKPRO",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-11-19",
+        "flavour": "Blueberry",
+        "product": "Pre-Workout Energizing Blend",
+        "form": "Powder",
+        "type": "Caffeinated multi-ingredient",
+        "subclass": "Creatine + amino acids + caffeine",
+        "grams": 100,
+        "servingGrams": 5,
+        "caffeineMg": 100,
+        "caffeineAnhydrousMg": null,
+        "citrullineMg": 1200,
+        "betaAlanineMg": 1000,
+        "creatineMg": 1200,
+        "arginineMg": 200,
+        "energyPerServing": 2.64,
+        "stimulantStatus": "Contains caffeine",
+        "declaredNutrients": [
+          "caffeineMg",
+          "citrullineMg",
+          "betaAlanineMg",
+          "creatineMg",
+          "arginineMg"
+        ],
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0237/4497/0832/files/02_833bb133-2f8a-47c3-842e-2e30ec531e5c.png?v=1746927038",
+        "basis": "Official Blueberry pouch panel gives one heaping scoop (5 g), creatine monohydrate 1.2 g, L-citrulline 1.2 g, beta-alanine 1 g, L-arginine 0.2 g, acetyl cysteine 0.2 g, caffeine 0.1 g and energy 2.64 kcal. Exact chosen net 100 g or 250 g pack comes from variant selection.",
+        "notes": "The same-flavour published pouch profile is used across the selected pack weights. Caffeine is a declared 100 mg ingredient, with no unquantified botanical caffeine source listed. Caffeine anhydrous specifically is not stated. The label also includes N-acetyl-L-cysteine 200 mg, kept as a separate ingredient. Manufacturer exercise instructions are not personal intake advice.",
+        "additionalIngredients": [
+          {
+            "name": "N-acetyl-L-cysteine",
+            "amount": 200,
+            "unit": "mg",
+            "basis": "per 5 g label serving"
+          }
+        ],
+        "packCount": null,
+        "servingUnits": null,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0237/4497/0832/files/02_833bb133-2f8a-47c3-842e-2e30ec531e5c.png?v=1746927038"
+        ],
+        "id": "pre-workout-39948840861776",
+        "price": 332,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://nakpro.com/products/nakpro-pre-workout-supplement-powder?variant=39948840861776"
+      }
+    },
+    {
+      "order": 5,
+      "offer": {
+        "brand": "NAKPRO",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-11-19",
+        "flavour": "Blueberry",
+        "product": "Pre-Workout Energizing Blend",
+        "form": "Powder",
+        "type": "Caffeinated multi-ingredient",
+        "subclass": "Creatine + amino acids + caffeine",
+        "grams": 250,
+        "servingGrams": 5,
+        "caffeineMg": 100,
+        "caffeineAnhydrousMg": null,
+        "citrullineMg": 1200,
+        "betaAlanineMg": 1000,
+        "creatineMg": 1200,
+        "arginineMg": 200,
+        "energyPerServing": 2.64,
+        "stimulantStatus": "Contains caffeine",
+        "declaredNutrients": [
+          "caffeineMg",
+          "citrullineMg",
+          "betaAlanineMg",
+          "creatineMg",
+          "arginineMg"
+        ],
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0237/4497/0832/files/02_833bb133-2f8a-47c3-842e-2e30ec531e5c.png?v=1746927038",
+        "basis": "Official Blueberry pouch panel gives one heaping scoop (5 g), creatine monohydrate 1.2 g, L-citrulline 1.2 g, beta-alanine 1 g, L-arginine 0.2 g, acetyl cysteine 0.2 g, caffeine 0.1 g and energy 2.64 kcal. Exact chosen net 100 g or 250 g pack comes from variant selection.",
+        "notes": "The same-flavour published pouch profile is used across the selected pack weights. Caffeine is a declared 100 mg ingredient, with no unquantified botanical caffeine source listed. Caffeine anhydrous specifically is not stated. The label also includes N-acetyl-L-cysteine 200 mg, kept as a separate ingredient. Manufacturer exercise instructions are not personal intake advice.",
+        "additionalIngredients": [
+          {
+            "name": "N-acetyl-L-cysteine",
+            "amount": 200,
+            "unit": "mg",
+            "basis": "per 5 g label serving"
+          }
+        ],
+        "packCount": null,
+        "servingUnits": null,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0237/4497/0832/files/02_833bb133-2f8a-47c3-842e-2e30ec531e5c.png?v=1746927038"
+        ],
+        "id": "pre-workout-39948840894544",
+        "price": 760,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://nakpro.com/products/nakpro-pre-workout-supplement-powder?variant=39948840894544"
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 4046,
+      "observation": {
+        "category": "pre-workout",
+        "offerId": "pre-workout-39948840861776",
+        "date": "2026-11-19",
+        "price": 332,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-pre-workout-supplement-powder?variant=39948840861776",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "39948840861776",
+        "matchBasis": "Official public Shopify feed fetched 2026-11-19; exact variant ID and unconditional price matched. INR currency confirmed in the live official product HTML. Net pack, serving and ingredient basis use the specific referenced manufacturer label."
+      }
+    },
+    {
+      "order": 4047,
+      "observation": {
+        "category": "pre-workout",
+        "offerId": "pre-workout-39948840894544",
+        "date": "2026-11-19",
+        "price": 760,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-pre-workout-supplement-powder?variant=39948840894544",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "39948840894544",
+        "matchBasis": "Official public Shopify feed fetched 2026-11-19; exact variant ID and unconditional price matched. INR currency confirmed in the live official product HTML. Net pack, serving and ingredient basis use the specific referenced manufacturer label."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 181,
+      "profile": {
+        "category": "pre-workout",
+        "brand": "NAKPRO",
+        "base": "https://nakpro.com",
+        "handle": "nakpro-pre-workout-supplement-powder",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-11-19",
+        "variantIds": [
+          "39948840861776"
+        ],
+        "flavour": "Blueberry",
+        "product": "Pre-Workout Energizing Blend",
+        "form": "Powder",
+        "type": "Caffeinated multi-ingredient",
+        "subclass": "Creatine + amino acids + caffeine",
+        "grams": 100,
+        "servingGrams": 5,
+        "caffeineMg": 100,
+        "caffeineAnhydrousMg": null,
+        "citrullineMg": 1200,
+        "betaAlanineMg": 1000,
+        "creatineMg": 1200,
+        "arginineMg": 200,
+        "energyPerServing": 2.64,
+        "stimulantStatus": "Contains caffeine",
+        "declaredNutrients": [
+          "caffeineMg",
+          "citrullineMg",
+          "betaAlanineMg",
+          "creatineMg",
+          "arginineMg"
+        ],
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0237/4497/0832/files/02_833bb133-2f8a-47c3-842e-2e30ec531e5c.png?v=1746927038",
+        "basis": "Official Blueberry pouch panel gives one heaping scoop (5 g), creatine monohydrate 1.2 g, L-citrulline 1.2 g, beta-alanine 1 g, L-arginine 0.2 g, acetyl cysteine 0.2 g, caffeine 0.1 g and energy 2.64 kcal. Exact chosen net 100 g or 250 g pack comes from variant selection.",
+        "notes": "The same-flavour published pouch profile is used across the selected pack weights. Caffeine is a declared 100 mg ingredient, with no unquantified botanical caffeine source listed. Caffeine anhydrous specifically is not stated. The label also includes N-acetyl-L-cysteine 200 mg, kept as a separate ingredient. Manufacturer exercise instructions are not personal intake advice.",
+        "additionalIngredients": [
+          {
+            "name": "N-acetyl-L-cysteine",
+            "amount": 200,
+            "unit": "mg",
+            "basis": "per 5 g label serving"
+          }
+        ],
+        "packCount": null,
+        "servingUnits": null,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0237/4497/0832/files/02_833bb133-2f8a-47c3-842e-2e30ec531e5c.png?v=1746927038"
+        ],
+        "id": "pre-workout-39948840861776"
+      }
+    },
+    {
+      "order": 182,
+      "profile": {
+        "category": "pre-workout",
+        "brand": "NAKPRO",
+        "base": "https://nakpro.com",
+        "handle": "nakpro-pre-workout-supplement-powder",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-11-19",
+        "variantIds": [
+          "39948840894544"
+        ],
+        "flavour": "Blueberry",
+        "product": "Pre-Workout Energizing Blend",
+        "form": "Powder",
+        "type": "Caffeinated multi-ingredient",
+        "subclass": "Creatine + amino acids + caffeine",
+        "grams": 250,
+        "servingGrams": 5,
+        "caffeineMg": 100,
+        "caffeineAnhydrousMg": null,
+        "citrullineMg": 1200,
+        "betaAlanineMg": 1000,
+        "creatineMg": 1200,
+        "arginineMg": 200,
+        "energyPerServing": 2.64,
+        "stimulantStatus": "Contains caffeine",
+        "declaredNutrients": [
+          "caffeineMg",
+          "citrullineMg",
+          "betaAlanineMg",
+          "creatineMg",
+          "arginineMg"
+        ],
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0237/4497/0832/files/02_833bb133-2f8a-47c3-842e-2e30ec531e5c.png?v=1746927038",
+        "basis": "Official Blueberry pouch panel gives one heaping scoop (5 g), creatine monohydrate 1.2 g, L-citrulline 1.2 g, beta-alanine 1 g, L-arginine 0.2 g, acetyl cysteine 0.2 g, caffeine 0.1 g and energy 2.64 kcal. Exact chosen net 100 g or 250 g pack comes from variant selection.",
+        "notes": "The same-flavour published pouch profile is used across the selected pack weights. Caffeine is a declared 100 mg ingredient, with no unquantified botanical caffeine source listed. Caffeine anhydrous specifically is not stated. The label also includes N-acetyl-L-cysteine 200 mg, kept as a separate ingredient. Manufacturer exercise instructions are not personal intake advice.",
+        "additionalIngredients": [
+          {
+            "name": "N-acetyl-L-cysteine",
+            "amount": 200,
+            "unit": "mg",
+            "basis": "per 5 g label serving"
+          }
+        ],
+        "packCount": null,
+        "servingUnits": null,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0237/4497/0832/files/02_833bb133-2f8a-47c3-842e-2e30ec531e5c.png?v=1746927038"
+        ],
+        "id": "pre-workout-39948840894544"
+      }
+    }
+  ]
+}

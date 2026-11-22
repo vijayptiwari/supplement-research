@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "category": "betaine",
+  "brand": "HealthyHey",
+  "product": "TMG 600 mg + Vitamin B12 2.2 mcg",
+  "variants": [
+    {
+      "order": 0,
+      "offer": {
+        "brand": "HealthyHey",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-11-17",
+        "packCount": 60,
+        "servingUnits": 1,
+        "servingGrams": null,
+        "grams": null,
+        "flavour": "Unflavoured",
+        "product": "TMG 600 mg + Vitamin B12 2.2 mcg",
+        "form": "Capsule",
+        "type": "Betaine (TMG)",
+        "subclass": "Trimethylglycine with vitamin B12",
+        "betaineMg": 600,
+        "betaineHclMg": null,
+        "vitaminB12Mcg": 2.2,
+        "energyPerServing": 0,
+        "declaredNutrients": [
+          "betaineMg",
+          "vitaminB12Mcg"
+        ],
+        "basis": "Official 60-capsule back label and current page table agree: one capsule (0.83 g) provides 600 mg betaine (N,N,N-trimethylglycine) and 2.2 mcg vitamin B12.",
+        "notes": "TMG formulation; not betaine hydrochloride. This exact 60-capsule variant is sold out at the quoted listed price.",
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-nutrition-capsules-tmg-trimethylglycine-with-vitamin-b12-60-vegetable-capsules-1177239885.png?v=1780890656"
+        ],
+        "searchAliases": [
+          "TMG",
+          "trimethylglycine",
+          "betaine anhydrous"
+        ],
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-nutrition-capsules-tmg-trimethylglycine-with-vitamin-b12-60-vegetable-capsules-1177239885.png?v=1780890656",
+        "id": "betaine-49569691238685",
+        "price": 809,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://healthyhey.com/products/tmg-trimethylglycine-with-vitamin-b12-600mg-serving-60-vegetable-capsules?variant=49569691238685",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://healthyhey.com/products/tmg-trimethylglycine-with-vitamin-b12-600mg-serving-60-vegetable-capsules?variant=49569691238685",
+          "evidenceUrl": "https://healthyhey.com/products/tmg-trimethylglycine-with-vitamin-b12-600mg-serving-60-vegetable-capsules.json",
+          "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3840,
+      "observation": {
+        "category": "betaine",
+        "offerId": "betaine-49569691238685",
+        "date": "2026-11-17",
+        "price": 809,
+        "currency": "INR",
+        "sourceUrl": "https://healthyhey.com/products/tmg-trimethylglycine-with-vitamin-b12-600mg-serving-60-vegetable-capsules?variant=49569691238685",
+        "evidenceUrl": "https://healthyhey.com/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "49569691238685",
+        "matchBasis": "Official public Shopify feed fetched 2026-11-17; exact variant ID, unconditional listed single-pack price and stock matched. Retail net quantity and serving use the official label, not shipping weight."
+      }
+    },
+    {
+      "order": 4034,
+      "observation": {
+        "category": "betaine",
+        "offerId": "betaine-49569691238685",
+        "date": "2026-11-19",
+        "price": 809,
+        "currency": "INR",
+        "sourceUrl": "https://healthyhey.com/products/tmg-trimethylglycine-with-vitamin-b12-600mg-serving-60-vegetable-capsules?variant=49569691238685",
+        "evidenceUrl": "https://healthyhey.com/products/tmg-trimethylglycine-with-vitamin-b12-600mg-serving-60-vegetable-capsules.json",
+        "kind": "official-live",
+        "variantId": "49569691238685",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 124,
+      "profile": {
+        "category": "betaine",
+        "brand": "HealthyHey",
+        "base": "https://healthyhey.com",
+        "handle": "tmg-trimethylglycine-with-vitamin-b12-600mg-serving-60-vegetable-capsules",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-11-17",
+        "variantIds": [
+          "49569691238685"
+        ],
+        "packCount": 60,
+        "servingUnits": 1,
+        "servingGrams": null,
+        "grams": null,
+        "flavour": "Unflavoured",
+        "product": "TMG 600 mg + Vitamin B12 2.2 mcg",
+        "form": "Capsule",
+        "type": "Betaine (TMG)",
+        "subclass": "Trimethylglycine with vitamin B12",
+        "betaineMg": 600,
+        "betaineHclMg": null,
+        "vitaminB12Mcg": 2.2,
+        "energyPerServing": 0,
+        "declaredNutrients": [
+          "betaineMg",
+          "vitaminB12Mcg"
+        ],
+        "basis": "Official 60-capsule back label and current page table agree: one capsule (0.83 g) provides 600 mg betaine (N,N,N-trimethylglycine) and 2.2 mcg vitamin B12.",
+        "notes": "TMG formulation; not betaine hydrochloride. This exact 60-capsule variant is sold out at the quoted listed price.",
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-nutrition-capsules-tmg-trimethylglycine-with-vitamin-b12-60-vegetable-capsules-1177239885.png?v=1780890656"
+        ],
+        "searchAliases": [
+          "TMG",
+          "trimethylglycine",
+          "betaine anhydrous"
+        ],
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-nutrition-capsules-tmg-trimethylglycine-with-vitamin-b12-60-vegetable-capsules-1177239885.png?v=1780890656"
+      }
+    }
+  ]
+}

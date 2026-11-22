@@ -1,0 +1,209 @@
+{
+  "schemaVersion": 1,
+  "category": "magnesium",
+  "brand": "Naturaltein",
+  "product": "Magnesium Glycinate 1200 mg",
+  "variants": [
+    {
+      "order": 5,
+      "offer": {
+        "brand": "Naturaltein",
+        "product": "Magnesium Glycinate 1200 mg",
+        "form": "Tablet",
+        "type": "Bisglycinate",
+        "subclass": "Chelated",
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official product listing; only explicitly verified label amounts are recorded.",
+        "notes": "Current title says 1200 mg magnesium glycinate; another displayed older bottle says 1100 mg ingredient and 150 mg elemental magnesium per serving. Serving and elemental quantity are withheld for this current listing.",
+        "id": "magnesium-43324740042835",
+        "packCount": 30,
+        "price": 349,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://naturaltein.in/products/100-pure-magnesium-glycinate-pro?variant=43324740042835",
+        "nutritionUrl": "https://naturaltein.in/products/100-pure-magnesium-glycinate-pro",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-10-29",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://naturaltein.in/products/100-pure-magnesium-glycinate-pro?variant=43324740042835",
+          "evidenceUrl": "https://naturaltein.in/products/100-pure-magnesium-glycinate-pro.json",
+          "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+        }
+      }
+    },
+    {
+      "order": 6,
+      "offer": {
+        "brand": "Naturaltein",
+        "product": "Magnesium Glycinate 1200 mg",
+        "form": "Tablet",
+        "type": "Bisglycinate",
+        "subclass": "Chelated",
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official product listing; only explicitly verified label amounts are recorded.",
+        "notes": "Current title says 1200 mg magnesium glycinate; another displayed older bottle says 1100 mg ingredient and 150 mg elemental magnesium per serving. Serving and elemental quantity are withheld for this current listing.",
+        "id": "magnesium-43324740075603",
+        "packCount": 60,
+        "price": 549,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://naturaltein.in/products/100-pure-magnesium-glycinate-pro?variant=43324740075603",
+        "nutritionUrl": "https://naturaltein.in/products/100-pure-magnesium-glycinate-pro",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-10-29",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://naturaltein.in/products/100-pure-magnesium-glycinate-pro?variant=43324740075603",
+          "evidenceUrl": "https://naturaltein.in/products/100-pure-magnesium-glycinate-pro.json",
+          "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+        }
+      }
+    },
+    {
+      "order": 7,
+      "offer": {
+        "brand": "Naturaltein",
+        "product": "Magnesium Glycinate 1200 mg",
+        "form": "Tablet",
+        "type": "Bisglycinate",
+        "subclass": "Chelated",
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official product listing; only explicitly verified label amounts are recorded.",
+        "notes": "Current title says 1200 mg magnesium glycinate; another displayed older bottle says 1100 mg ingredient and 150 mg elemental magnesium per serving. Serving and elemental quantity are withheld for this current listing.",
+        "id": "magnesium-43324740108371",
+        "packCount": 120,
+        "price": 749,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://naturaltein.in/products/100-pure-magnesium-glycinate-pro?variant=43324740108371",
+        "nutritionUrl": "https://naturaltein.in/products/100-pure-magnesium-glycinate-pro",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-10-29",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://naturaltein.in/products/100-pure-magnesium-glycinate-pro?variant=43324740108371",
+          "evidenceUrl": "https://naturaltein.in/products/100-pure-magnesium-glycinate-pro.json",
+          "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3727,
+      "observation": {
+        "category": "magnesium",
+        "offerId": "magnesium-43324740042835",
+        "date": "2026-10-29",
+        "price": 349,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/100-pure-magnesium-glycinate-pro?variant=43324740042835",
+        "evidenceUrl": "https://naturaltein.in/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "43324740042835"
+      }
+    },
+    {
+      "order": 3728,
+      "observation": {
+        "category": "magnesium",
+        "offerId": "magnesium-43324740075603",
+        "date": "2026-10-29",
+        "price": 549,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/100-pure-magnesium-glycinate-pro?variant=43324740075603",
+        "evidenceUrl": "https://naturaltein.in/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "43324740075603"
+      }
+    },
+    {
+      "order": 3729,
+      "observation": {
+        "category": "magnesium",
+        "offerId": "magnesium-43324740108371",
+        "date": "2026-10-29",
+        "price": 749,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/100-pure-magnesium-glycinate-pro?variant=43324740108371",
+        "evidenceUrl": "https://naturaltein.in/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "43324740108371"
+      }
+    },
+    {
+      "order": 3910,
+      "observation": {
+        "category": "magnesium",
+        "offerId": "magnesium-43324740042835",
+        "date": "2026-11-19",
+        "price": 349,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/100-pure-magnesium-glycinate-pro?variant=43324740042835",
+        "evidenceUrl": "https://naturaltein.in/products/100-pure-magnesium-glycinate-pro.json",
+        "kind": "official-live",
+        "variantId": "43324740042835",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
+    },
+    {
+      "order": 3911,
+      "observation": {
+        "category": "magnesium",
+        "offerId": "magnesium-43324740075603",
+        "date": "2026-11-19",
+        "price": 549,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/100-pure-magnesium-glycinate-pro?variant=43324740075603",
+        "evidenceUrl": "https://naturaltein.in/products/100-pure-magnesium-glycinate-pro.json",
+        "kind": "official-live",
+        "variantId": "43324740075603",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
+    },
+    {
+      "order": 3912,
+      "observation": {
+        "category": "magnesium",
+        "offerId": "magnesium-43324740108371",
+        "date": "2026-11-19",
+        "price": 749,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/100-pure-magnesium-glycinate-pro?variant=43324740108371",
+        "evidenceUrl": "https://naturaltein.in/products/100-pure-magnesium-glycinate-pro.json",
+        "kind": "official-live",
+        "variantId": "43324740108371",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 22,
+      "profile": {
+        "category": "magnesium",
+        "brand": "Naturaltein",
+        "base": "https://naturaltein.in",
+        "handle": "100-pure-magnesium-glycinate-pro",
+        "product": "Magnesium Glycinate 1200 mg",
+        "form": "Tablet",
+        "type": "Bisglycinate",
+        "subclass": "Chelated",
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official product listing; only explicitly verified label amounts are recorded.",
+        "notes": "Current title says 1200 mg magnesium glycinate; another displayed older bottle says 1100 mg ingredient and 150 mg elemental magnesium per serving. Serving and elemental quantity are withheld for this current listing."
+      }
+    }
+  ]
+}

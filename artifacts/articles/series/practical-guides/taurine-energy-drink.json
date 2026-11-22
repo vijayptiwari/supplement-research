@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "order": 64,
+  "article": {
+    "id": "taurine-energy-drink",
+    "category": "taurine",
+    "series": "practical-guides",
+    "title": "Taurine is not an energy drink: how to separate ingredient effects",
+    "summary": "A drink’s caffeine, sugar, other ingredients and full formulation make attribution a different problem from isolated taurine research.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "Taurine appears on energy-drink labels so frequently that its name can become shorthand for stimulation. The association is misleading. A drink is a mixture, and the effect of that mixture cannot automatically be assigned to a single familiar ingredient. Isolated taurine has also been studied under different exercise conditions. Keeping these questions separate helps readers evaluate a performance claim, a safety claim and the actual contents of a product without borrowing evidence between them.",
+    "sections": [
+      {
+        "id": "not-caffeine",
+        "title": "Familiar co-location does not mean the same mechanism",
+        "body": "Caffeine and taurine are different substances with different physiological roles. Feeling more alert after a caffeinated drink does not establish that taurine produced the effect. A small study designed to examine independent and combined ingredients found a reaction-time effect associated with caffeine, without establishing an independent taurine advantage for that test. That is a more informative design than comparing a complete energy drink with water. It still remains a specific behavioural outcome in a small sample, not a verdict on every possible taurine application.",
+        "sourceIds": [
+          "pe-taurine-caffeine-reaction-2013",
+          "caffeine-position"
+        ]
+      },
+      {
+        "id": "attribution",
+        "title": "Ask what the comparison actually isolated",
+        "body": "A study of an energy drink can answer a useful question about that drink, but several ingredients may change together. To attribute a result to taurine, the experimental design must separate taurine from those other changes. A caffeine-matched or multi-arm comparison may answer a different question from a simple placebo comparison. Check which one was used before accepting an ingredient-specific explanation. The same rule applies in reverse: an isolated-taurine trial cannot establish the effectiveness or safety of a commercial mixture containing stimulants and other actives.",
+        "sourceIds": [
+          "pe-taurine-caffeine-reaction-2013",
+          "preworkout-review"
+        ]
+      },
+      {
+        "id": "exercise-example",
+        "title": "A sport-specific result is narrower than an all-purpose energy claim",
+        "body": "A small crossover experiment in trained runners reported an improvement in a particular running-time trial after isolated taurine. That finding concerns a specified intervention, trained participants and one task. It does not show that all taurine drinks improve alertness, resistance training or long-term health. Broader exercise results are variable, making a single favourable experiment insufficient for a universal claim. The useful question is whether the tested intervention and endpoint match the intended use, rather than whether an ingredient has ever appeared in a positive study.",
+        "sourceIds": [
+          "pe-taurine-running-2013",
+          "taurine-meta"
+        ]
+      },
+      {
+        "id": "coingestion",
+        "title": "Combining two ingredients does not guarantee additive benefits",
+        "body": "It is tempting to assume that two ingredients with separate rationales must work better together. A recent exercise-in-heat study of caffeine and taurine co-ingestion did not find an ergogenic effect in its tested conditions, despite changes in some physiological demands. Such a result should be retained alongside more favourable individual-ingredient studies. It does not establish that every combination is ineffective. It does show why arithmetic addition of claimed benefits is not a substitute for a relevant study of the combination and the actual outcome.",
+        "sourceIds": [
+          "pe-taurine-caffeine-heat-2025"
+        ]
+      },
+      {
+        "id": "label-inventory",
+        "title": "Read the complete container and serving",
+        "body": "Check whether the declaration applies to one serving or a larger bottle, and distinguish taurine amount from caffeine and other ingredients. A sugar-free claim answers a sugar question; it does not establish stimulant exposure, medical suitability or exercise effectiveness. Likewise, a taurine figure cannot be used as a proxy for the overall drink’s potency. Keep unknown botanical caffeine or undisclosed blend amounts visible when comparing products. The aim is a clear inventory of what the person would consume, not a single combined active-milligram score.",
+        "sourceIds": [
+          "supplement-quality-ods",
+          "caffeine-fda"
+        ]
+      },
+      {
+        "id": "safety-transfer",
+        "title": "Do not transfer a safety conclusion between different formulations",
+        "body": "A short study of isolated taurine does not establish indefinite safety for every multi-ingredient drink. A concern raised by a complex drink also cannot automatically identify taurine as the cause. Read the composition, exposure and participant context of the evidence. Medical conditions, medicines, pregnancy and childhood require advice appropriate to the actual product and person. New or concerning symptoms should be assessed rather than accepted as evidence that the formulation is potent. An ingredient list does not replace that review with a blanket safe or unsafe category.",
+        "sourceIds": [
+          "taurine-exercise",
+          "caffeine-fda",
+          "preworkout-dryscoop"
+        ]
+      },
+      {
+        "id": "value-check",
+        "title": "Pay for a purpose you can describe honestly",
+        "body": "If convenience, flavour or a familiar routine is the reason for choosing a drink, keep that preference separate from a claim of proven taurine benefit. For a taurine-specific purpose, compare transparent isolated formulations with relevant evidence rather than assuming a more complex drink is superior. Review caffeine and other overlapping products before adding another purchase. A lower price per declared milligram can compare composition on a matching basis, but it cannot demonstrate a useful outcome. The option of no additional product remains part of an informed choice.",
+        "sourceIds": [
+          "supplement-quality-ods",
+          "taurine-meta",
+          "preworkout-review"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "pe-taurine-caffeine-reaction-2013",
+      "caffeine-position",
+      "preworkout-review",
+      "pe-taurine-running-2013",
+      "taurine-meta",
+      "pe-taurine-caffeine-heat-2025",
+      "supplement-quality-ods",
+      "caffeine-fda",
+      "taurine-exercise",
+      "preworkout-dryscoop"
+    ]
+  }
+}

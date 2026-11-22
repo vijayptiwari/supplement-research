@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "category": "ashwagandha",
+  "brand": "Carbamide Forte",
+  "product": "KSM-66 Ashwagandha",
+  "variants": [
+    {
+      "order": 7,
+      "offer": {
+        "brand": "Carbamide Forte",
+        "product": "KSM-66 Ashwagandha",
+        "form": "Tablet",
+        "type": "Root extract",
+        "subclass": "KSM-66",
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official product listing; only explicitly verified label amounts are recorded.",
+        "notes": "Conflicting quantity evidence: current title says 1500 mg, while a displayed bottle composition says 600 mg per tablet. Active mass and active-content costs are withheld pending consistent current label evidence.",
+        "packCount": 60,
+        "withanolidesPct": 5,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/CopyofB0DV951LZK.PT09.jpg?v=1772788795"
+        ],
+        "id": "ashwagandha-42615614406769",
+        "price": 615,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://www.carbamideforte.com/products/carbamide-forte-ashwagandha-ksm66-1500-mg-i-ashwagandha-supplements-ksm-66-support-stress-management-muscle-recovery-i-ashvagandha-tablets-for-men-women-60-tablets?variant=42615614406769",
+        "nutritionUrl": "https://www.carbamideforte.com/products/carbamide-forte-ashwagandha-ksm66-1500-mg-i-ashwagandha-supplements-ksm-66-support-stress-management-muscle-recovery-i-ashvagandha-tablets-for-men-women-60-tablets",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-10-29",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.carbamideforte.com/products/carbamide-forte-ashwagandha-ksm66-1500-mg-i-ashwagandha-supplements-ksm-66-support-stress-management-muscle-recovery-i-ashvagandha-tablets-for-men-women-60-tablets?variant=42615614406769",
+          "evidenceUrl": "https://www.carbamideforte.com/products/carbamide-forte-ashwagandha-ksm66-1500-mg-i-ashwagandha-supplements-ksm-66-support-stress-management-muscle-recovery-i-ashvagandha-tablets-for-men-women-60-tablets.json",
+          "matchBasis": "Official public Shopify product; exact variant ID 42615614406769 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3700,
+      "observation": {
+        "category": "ashwagandha",
+        "offerId": "ashwagandha-42615614406769",
+        "date": "2026-10-29",
+        "price": 615,
+        "currency": "INR",
+        "sourceUrl": "https://www.carbamideforte.com/products/carbamide-forte-ashwagandha-ksm66-1500-mg-i-ashwagandha-supplements-ksm-66-support-stress-management-muscle-recovery-i-ashvagandha-tablets-for-men-women-60-tablets?variant=42615614406769",
+        "evidenceUrl": "https://www.carbamideforte.com/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "42615614406769"
+      }
+    },
+    {
+      "order": 3851,
+      "observation": {
+        "category": "ashwagandha",
+        "offerId": "ashwagandha-42615614406769",
+        "date": "2026-11-19",
+        "price": 615,
+        "currency": "INR",
+        "sourceUrl": "https://www.carbamideforte.com/products/carbamide-forte-ashwagandha-ksm66-1500-mg-i-ashwagandha-supplements-ksm-66-support-stress-management-muscle-recovery-i-ashvagandha-tablets-for-men-women-60-tablets?variant=42615614406769",
+        "evidenceUrl": "https://www.carbamideforte.com/products/carbamide-forte-ashwagandha-ksm66-1500-mg-i-ashwagandha-supplements-ksm-66-support-stress-management-muscle-recovery-i-ashvagandha-tablets-for-men-women-60-tablets.json",
+        "kind": "official-live",
+        "variantId": "42615614406769",
+        "matchBasis": "Official public Shopify product; exact variant ID 42615614406769 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 4,
+      "profile": {
+        "category": "ashwagandha",
+        "brand": "Carbamide Forte",
+        "base": "https://www.carbamideforte.com",
+        "handle": "carbamide-forte-ashwagandha-ksm66-1500-mg-i-ashwagandha-supplements-ksm-66-support-stress-management-muscle-recovery-i-ashvagandha-tablets-for-men-women-60-tablets",
+        "product": "KSM-66 Ashwagandha",
+        "form": "Tablet",
+        "type": "Root extract",
+        "subclass": "KSM-66",
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official product listing; only explicitly verified label amounts are recorded.",
+        "notes": "Conflicting quantity evidence: current title says 1500 mg, while a displayed bottle composition says 600 mg per tablet. Active mass and active-content costs are withheld pending consistent current label evidence.",
+        "packCount": 60,
+        "withanolidesPct": 5,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/CopyofB0DV951LZK.PT09.jpg?v=1772788795"
+        ]
+      }
+    }
+  ]
+}

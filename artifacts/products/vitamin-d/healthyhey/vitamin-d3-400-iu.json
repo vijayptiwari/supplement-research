@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "category": "vitamin-d",
+  "brand": "HealthyHey",
+  "product": "Vitamin D3 400 IU",
+  "variants": [
+    {
+      "order": 0,
+      "offer": {
+        "brand": "HealthyHey",
+        "product": "Vitamin D3 400 IU",
+        "form": "Capsule",
+        "type": "D3 (cholecalciferol)",
+        "subclass": "Single vitamin",
+        "servingUnits": 1,
+        "source": "Lichen",
+        "basis": "Official description states 400 IU cholecalciferol per capsule and 120 vegetable capsules per bottle.",
+        "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities.",
+        "packCount": 120,
+        "vitaminDIu": 400,
+        "id": "vitamin-d-44683684217117",
+        "price": 769,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://healthyhey.com/products/healthyhey-vegan-vitamin-d3-natural-plant-based-non-gmo-gluten-free-400-iu-120-veg-capsules?variant=44683684217117",
+        "nutritionUrl": "https://healthyhey.com/products/healthyhey-vegan-vitamin-d3-natural-plant-based-non-gmo-gluten-free-400-iu-120-veg-capsules",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-10-29",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://healthyhey.com/products/healthyhey-vegan-vitamin-d3-natural-plant-based-non-gmo-gluten-free-400-iu-120-veg-capsules?variant=44683684217117",
+          "evidenceUrl": "https://healthyhey.com/products/healthyhey-vegan-vitamin-d3-natural-plant-based-non-gmo-gluten-free-400-iu-120-veg-capsules.json",
+          "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3717,
+      "observation": {
+        "category": "vitamin-d",
+        "offerId": "vitamin-d-44683684217117",
+        "date": "2026-10-29",
+        "price": 681,
+        "currency": "INR",
+        "sourceUrl": "https://healthyhey.com/products/healthyhey-vegan-vitamin-d3-natural-plant-based-non-gmo-gluten-free-400-iu-120-veg-capsules?variant=44683684217117",
+        "evidenceUrl": "https://healthyhey.com/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "44683684217117"
+      }
+    },
+    {
+      "order": 3900,
+      "observation": {
+        "category": "vitamin-d",
+        "offerId": "vitamin-d-44683684217117",
+        "date": "2026-11-19",
+        "price": 769,
+        "currency": "INR",
+        "sourceUrl": "https://healthyhey.com/products/healthyhey-vegan-vitamin-d3-natural-plant-based-non-gmo-gluten-free-400-iu-120-veg-capsules?variant=44683684217117",
+        "evidenceUrl": "https://healthyhey.com/products/healthyhey-vegan-vitamin-d3-natural-plant-based-non-gmo-gluten-free-400-iu-120-veg-capsules.json",
+        "kind": "official-live",
+        "variantId": "44683684217117",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 16,
+      "profile": {
+        "category": "vitamin-d",
+        "brand": "HealthyHey",
+        "base": "https://healthyhey.com",
+        "handle": "healthyhey-vegan-vitamin-d3-natural-plant-based-non-gmo-gluten-free-400-iu-120-veg-capsules",
+        "product": "Vitamin D3 400 IU",
+        "form": "Capsule",
+        "type": "D3 (cholecalciferol)",
+        "subclass": "Single vitamin",
+        "servingUnits": 1,
+        "source": "Lichen",
+        "basis": "Official description states 400 IU cholecalciferol per capsule and 120 vegetable capsules per bottle.",
+        "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities.",
+        "packCount": 120,
+        "vitaminDIu": 400
+      }
+    }
+  ]
+}

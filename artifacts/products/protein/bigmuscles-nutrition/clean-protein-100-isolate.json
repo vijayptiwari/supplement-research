@@ -1,0 +1,255 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "BigMuscles Nutrition",
+  "product": "Clean Protein | 100% ISOLATE",
+  "variants": [
+    {
+      "order": 648,
+      "offer": {
+        "id": 648,
+        "brand": "BigMuscles Nutrition",
+        "product": "Clean Protein | 100% ISOLATE",
+        "type": "Whey — isolate",
+        "flavour": "Malai Kulfi",
+        "kg": 1,
+        "price": 5999,
+        "stock": "In stock",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey isolate",
+        "energy": null,
+        "url": "https://www.bigmusclesnutrition.com/products/clean-protein-100-isolate?variant=43856372138083",
+        "nutritionUrl": "https://www.bigmusclesnutrition.com/products/clean-protein-100-isolate?variant=43856372138083",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.bigmusclesnutrition.com/products/clean-protein-100-isolate?variant=43856372138083",
+          "evidenceUrl": "https://www.bigmusclesnutrition.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 649,
+      "offer": {
+        "id": 649,
+        "brand": "BigMuscles Nutrition",
+        "product": "Clean Protein | 100% ISOLATE",
+        "type": "Whey — isolate",
+        "flavour": "Malai Kulfi",
+        "kg": 2,
+        "price": 10999,
+        "stock": "In stock",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey isolate",
+        "energy": null,
+        "url": "https://www.bigmusclesnutrition.com/products/clean-protein-100-isolate?variant=43856372203619",
+        "nutritionUrl": "https://www.bigmusclesnutrition.com/products/clean-protein-100-isolate?variant=43856372203619",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.bigmusclesnutrition.com/products/clean-protein-100-isolate?variant=43856372203619",
+          "evidenceUrl": "https://www.bigmusclesnutrition.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 650,
+      "offer": {
+        "id": 650,
+        "brand": "BigMuscles Nutrition",
+        "product": "Clean Protein | 100% ISOLATE",
+        "type": "Whey — isolate",
+        "flavour": "Rich Chocolate",
+        "kg": 1,
+        "price": 5999,
+        "stock": "Sold out",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey isolate",
+        "energy": null,
+        "url": "https://www.bigmusclesnutrition.com/products/clean-protein-100-isolate?variant=43856372105315",
+        "nutritionUrl": "https://www.bigmusclesnutrition.com/products/clean-protein-100-isolate?variant=43856372105315",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.bigmusclesnutrition.com/products/clean-protein-100-isolate?variant=43856372105315",
+          "evidenceUrl": "https://www.bigmusclesnutrition.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 651,
+      "offer": {
+        "id": 651,
+        "brand": "BigMuscles Nutrition",
+        "product": "Clean Protein | 100% ISOLATE",
+        "type": "Whey — isolate",
+        "flavour": "Rich Chocolate",
+        "kg": 2,
+        "price": 10999,
+        "stock": "Sold out",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey isolate",
+        "energy": null,
+        "url": "https://www.bigmusclesnutrition.com/products/clean-protein-100-isolate?variant=43856372170851",
+        "nutritionUrl": "https://www.bigmusclesnutrition.com/products/clean-protein-100-isolate?variant=43856372170851",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.bigmusclesnutrition.com/products/clean-protein-100-isolate?variant=43856372170851",
+          "evidenceUrl": "https://www.bigmusclesnutrition.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 2837,
+      "observation": {
+        "category": "protein",
+        "offerId": 648,
+        "date": "2026-10-25",
+        "price": 5999,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/clean-protein-100-isolate?variant=43856372138083",
+        "evidenceUrl": "https://www.bigmusclesnutrition.com/products/clean-protein-100-isolate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "43856372138083"
+      }
+    },
+    {
+      "order": 2838,
+      "observation": {
+        "category": "protein",
+        "offerId": 649,
+        "date": "2026-10-25",
+        "price": 10999,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/clean-protein-100-isolate?variant=43856372203619",
+        "evidenceUrl": "https://www.bigmusclesnutrition.com/products/clean-protein-100-isolate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "43856372203619"
+      }
+    },
+    {
+      "order": 2839,
+      "observation": {
+        "category": "protein",
+        "offerId": 650,
+        "date": "2026-10-25",
+        "price": 5999,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/clean-protein-100-isolate?variant=43856372105315",
+        "evidenceUrl": "https://www.bigmusclesnutrition.com/products/clean-protein-100-isolate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "43856372105315"
+      }
+    },
+    {
+      "order": 2840,
+      "observation": {
+        "category": "protein",
+        "offerId": 651,
+        "date": "2026-10-25",
+        "price": 10999,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/clean-protein-100-isolate?variant=43856372170851",
+        "evidenceUrl": "https://www.bigmusclesnutrition.com/products/clean-protein-100-isolate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "43856372170851"
+      }
+    },
+    {
+      "order": 4695,
+      "observation": {
+        "category": "protein",
+        "offerId": 648,
+        "date": "2026-11-19",
+        "price": 5999,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/clean-protein-100-isolate?variant=43856372138083",
+        "evidenceUrl": "https://www.bigmusclesnutrition.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "43856372138083"
+      }
+    },
+    {
+      "order": 4696,
+      "observation": {
+        "category": "protein",
+        "offerId": 649,
+        "date": "2026-11-19",
+        "price": 10999,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/clean-protein-100-isolate?variant=43856372203619",
+        "evidenceUrl": "https://www.bigmusclesnutrition.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "43856372203619"
+      }
+    },
+    {
+      "order": 4697,
+      "observation": {
+        "category": "protein",
+        "offerId": 650,
+        "date": "2026-11-19",
+        "price": 5999,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/clean-protein-100-isolate?variant=43856372105315",
+        "evidenceUrl": "https://www.bigmusclesnutrition.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "43856372105315"
+      }
+    },
+    {
+      "order": 4698,
+      "observation": {
+        "category": "protein",
+        "offerId": 651,
+        "date": "2026-11-19",
+        "price": 10999,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/clean-protein-100-isolate?variant=43856372170851",
+        "evidenceUrl": "https://www.bigmusclesnutrition.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "43856372170851"
+      }
+    }
+  ],
+  "refreshSources": []
+}

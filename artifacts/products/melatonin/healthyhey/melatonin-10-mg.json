@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "category": "melatonin",
+  "brand": "HealthyHey",
+  "product": "Melatonin 10 mg",
+  "variants": [
+    {
+      "order": 3,
+      "offer": {
+        "brand": "HealthyHey",
+        "product": "Melatonin 10 mg",
+        "form": "Capsule",
+        "type": "Melatonin",
+        "subclass": "Release profile not specified",
+        "packCount": 120,
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official 120-capsule listing uses an mg-strength selector (2, 3, 5, 10), not pack counts. The one-capsule serving basis is stated in product usage information.",
+        "notes": "Strength is selected explicitly. Release profile is not verified. Price and stock for 3, 5 and 10 mg retain their dated 2026-10-29 official-feed observation.",
+        "labelChecked": "2026-10-31",
+        "melatoninMg": 10,
+        "id": "melatonin-44687644033309",
+        "price": 599,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://healthyhey.com/products/healthyhey-nutrition-melatonin-10mg-pack-of-120-vegetable-capsules-promotes-sleep-and-relaxation-10mg?variant=44687644033309",
+        "nutritionUrl": "https://healthyhey.com/products/healthyhey-nutrition-melatonin-10mg-pack-of-120-vegetable-capsules-promotes-sleep-and-relaxation-10mg",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://healthyhey.com/products/healthyhey-nutrition-melatonin-10mg-pack-of-120-vegetable-capsules-promotes-sleep-and-relaxation-10mg?variant=44687644033309",
+          "evidenceUrl": "https://healthyhey.com/products/healthyhey-nutrition-melatonin-10mg-pack-of-120-vegetable-capsules-promotes-sleep-and-relaxation-10mg.json",
+          "matchBasis": "Official public Shopify product; exact variant ID 44687644033309 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3754,
+      "observation": {
+        "category": "melatonin",
+        "offerId": "melatonin-44687644033309",
+        "date": "2026-10-29",
+        "price": 599,
+        "currency": "INR",
+        "sourceUrl": "https://healthyhey.com/products/healthyhey-nutrition-melatonin-10mg-pack-of-120-vegetable-capsules-promotes-sleep-and-relaxation-10mg?variant=44687644033309",
+        "evidenceUrl": "https://healthyhey.com/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "44687644033309"
+      }
+    },
+    {
+      "order": 3877,
+      "observation": {
+        "category": "melatonin",
+        "offerId": "melatonin-44687644033309",
+        "date": "2026-11-19",
+        "price": 599,
+        "currency": "INR",
+        "sourceUrl": "https://healthyhey.com/products/healthyhey-nutrition-melatonin-10mg-pack-of-120-vegetable-capsules-promotes-sleep-and-relaxation-10mg?variant=44687644033309",
+        "evidenceUrl": "https://healthyhey.com/products/healthyhey-nutrition-melatonin-10mg-pack-of-120-vegetable-capsules-promotes-sleep-and-relaxation-10mg.json",
+        "kind": "official-live",
+        "variantId": "44687644033309",
+        "matchBasis": "Official public Shopify product; exact variant ID 44687644033309 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 44,
+      "profile": {
+        "category": "melatonin",
+        "brand": "HealthyHey",
+        "base": "https://healthyhey.com",
+        "handle": "healthyhey-nutrition-melatonin-10mg-pack-of-120-vegetable-capsules-promotes-sleep-and-relaxation-10mg",
+        "product": "Melatonin 10 mg",
+        "form": "Capsule",
+        "type": "Melatonin",
+        "subclass": "Release profile not specified",
+        "packCount": 120,
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official 120-capsule listing uses an mg-strength selector (2, 3, 5, 10), not pack counts. The one-capsule serving basis is stated in product usage information.",
+        "notes": "Strength is selected explicitly. Release profile is not verified. Price and stock for 3, 5 and 10 mg retain their dated 2026-10-29 official-feed observation.",
+        "labelChecked": "2026-10-31",
+        "melatoninMg": 10,
+        "variantTitles": [
+          "10"
+        ],
+        "numericVariantIsCount": false
+      }
+    }
+  ]
+}

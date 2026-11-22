@@ -1,9 +1,17 @@
 """Evidence-only audit. Never estimates prices or infers history from today's MRP."""
 import concurrent.futures,datetime,hashlib,json,pathlib,re,urllib.parse,urllib.request,collections,sys,gzip,zlib
 sys.stdout.reconfigure(encoding='utf-8')
-ROOT=pathlib.Path(__file__).resolve().parents[1];OUT=ROOT/'outputs/quarter_audit_20261025';OUT.mkdir(parents=True,exist_ok=True)
+ROOT=pathlib.Path(__file__).resolve().parents[1];OUT=ROOT/'outputs/quarter_audit_20261025'
 CHECKED='2026-10-25';START='20260701';END='20260930'
-DATA={k:json.loads((ROOT/'docs/data'/f).read_text(encoding='utf-8')) for k,f in [('protein','catalog.json'),('creatine','creatine.json')]}
+try:
+ from artifact_bridge import artifact_workspace
+except ModuleNotFoundError:
+ from scripts.artifact_bridge import artifact_workspace
+
+def load_data(root=None):
+ # Importing the archive parsers must not read a stale generated data copy.
+ with artifact_workspace(root or ROOT,writable=False) as work:
+  return {k:json.loads((work/'docs/data'/f).read_text(encoding='utf-8')) for k,f in [('protein','catalog.json'),('creatine','creatine.json')]}
 def canonical(url):
  p=urllib.parse.urlsplit(url);return urllib.parse.urlunsplit((p.scheme,p.netloc,p.path.rstrip('/'),'',''))
 def get(url,timeout=25):
@@ -18,7 +26,7 @@ def get(url,timeout=25):
   elif res.headers.get('Content-Encoding')=='deflate':body=zlib.decompress(body)
   return body.decode('utf-8','replace')
 def save_raw(url,text):
- name=hashlib.sha256(url.encode()).hexdigest()+'.txt';(OUT/'responses').mkdir(exist_ok=True);(OUT/'responses'/name).write_text(text,encoding='utf-8');return name
+ name=hashlib.sha256(url.encode()).hexdigest()+'.txt';(OUT/'responses').mkdir(parents=True,exist_ok=True);(OUT/'responses'/name).write_text(text,encoding='utf-8');return name
 def cdx(domain):
  params=dict(url=domain+'/*',output='json',fl='timestamp,original',from_=START,to=END,limit='10000')
  params['from']=params.pop('from_');url='https://web.archive.org/cdx/search/cdx?'+urllib.parse.urlencode(params)+'&filter=statuscode:200&filter=mimetype:text/html'
@@ -26,13 +34,13 @@ def cdx(domain):
   raw=get(url,40);rows=json.loads(raw);return dict(domain=domain,url=url,rows=rows[1:],evidence=save_raw(url,raw),truncated=len(rows)>=10001)
  except Exception as e:return dict(domain=domain,url=url,rows=[],error=str(e))
 def archive_discovery():
- domains=sorted({urllib.parse.urlsplit(r['url']).netloc for d in DATA.values() for r in d['offers']})
+ domains=sorted({urllib.parse.urlsplit(r['url']).netloc for d in load_data().values() for r in d['offers']})
  results=list(concurrent.futures.ThreadPoolExecutor(max_workers=8).map(cdx,domains))
  (OUT/'archive_index.json').write_text(json.dumps(results),encoding='utf-8')
  print('Archive indices',[(r['domain'],len(r['rows']),r.get('error')) for r in results],flush=True)
 def groups():
  result=collections.defaultdict(list)
- for cat,d in DATA.items():
+ for cat,d in load_data().items():
   for r in d['offers']:result[canonical(r['url'])].append((cat,r))
  return result
 def live(base):
@@ -49,7 +57,7 @@ def live_discovery():
  result=list(concurrent.futures.ThreadPoolExecutor(max_workers=12).map(live,groups()))
  (OUT/'live_sources.json').write_text(json.dumps(result),encoding='utf-8');print('Live bases',len(result),'successful',sum('error' not in x for x in result),flush=True)
 def selected_live():
- urls=sorted({r['url'] for d in DATA.values() for r in d['offers'] if '/products/' not in urllib.parse.urlsplit(r['url']).path})
+ urls=sorted({r['url'] for d in load_data().values() for r in d['offers'] if '/products/' not in urllib.parse.urlsplit(r['url']).path})
  def run(url):
   try:
    raw=get(url);return dict(url=url,evidence=save_raw(url,raw),checked=CHECKED)
@@ -96,6 +104,7 @@ def archive_retry():
  retried=list(concurrent.futures.ThreadPoolExecutor(max_workers=6).map(run,pending));by_base={s['base']:s for s in retried}
  result=[by_base.get(s['base'],s) for s in sources];path.write_text(json.dumps(result),encoding='utf-8');print('Public replay captures retrieved',sum('error' not in x for x in result),flush=True)
 if __name__=='__main__':
+ OUT.mkdir(parents=True,exist_ok=True)
  if '--archives' in sys.argv:archive_discovery()
  if '--live' in sys.argv:live_discovery()
  if '--fetch-archives' in sys.argv:archive_fetch()

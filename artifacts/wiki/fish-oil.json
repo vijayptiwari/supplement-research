@@ -1,0 +1,303 @@
+{
+  "schemaVersion": 1,
+  "order": 3,
+  "category": {
+    "id": "fish-oil",
+    "label": "Fish Oil",
+    "file": "fish-oil.json",
+    "page": "fish-oil.html",
+    "measurement": "units",
+    "mainNutrient": "epaDhaMg",
+    "referenceQuantity": 1000,
+    "referenceUnit": "mg",
+    "compoundLabel": "EPA+DHA",
+    "nutrientFields": [
+      {
+        "key": "epaDhaMg",
+        "label": "EPA + DHA",
+        "unit": "mg",
+        "table": true
+      },
+      {
+        "key": "epaMg",
+        "label": "EPA",
+        "unit": "mg",
+        "table": true
+      },
+      {
+        "key": "dhaMg",
+        "label": "DHA",
+        "unit": "mg",
+        "table": true
+      },
+      {
+        "key": "fishOilMg",
+        "label": "Total fish oil",
+        "unit": "mg",
+        "table": false
+      }
+    ],
+    "comparisonNote": "EPA+DHA and total fish-oil mass are recorded separately. Compare the chemical form and actual label serving alongside cost.",
+    "searchAliases": [
+      "fishoil",
+      "omega3",
+      "omega 3"
+    ]
+  },
+  "catalog": {
+    "checked": "2026-11-20",
+    "category": "fish-oil"
+  },
+  "guide": {
+    "id": "fish-oil-guide",
+    "category": "fish-oil",
+    "title": "Fish oil: EPA+DHA, outcomes and the prescription distinction",
+    "summary": "Total fish-oil mass is not the same as the amount of EPA and DHA. More oil does not by itself establish greater benefit.",
+    "evidence": "Omega-3 research differs by population and preparation. VITAL did not show a significant reduction in its primary cardiovascular or cancer outcomes with the tested marine omega-3 supplement.",
+    "limitations": "Specific prescription formulations, high-risk patients and treatment of high triglycerides address different questions from routine retail supplementation.",
+    "catalogReading": "Use verified EPA+DHA per label serving and cost per common active amount. Keep total oil, chemical form, serving count and stock status visible.",
+    "safety": "Discuss use with a clinician when taking anticoagulants or considering high doses. High-dose trials have raised atrial-fibrillation concerns in some settings.",
+    "sourceIds": [
+      "omega-overview",
+      "omega-vital",
+      "food-omega3",
+      "food-allergens",
+      "supplement-quality-ods"
+    ],
+    "reviewed": "2026-11-18",
+    "author": "Supplement Research editorial synthesis",
+    "bodySteps": [
+      "Digestion releases fatty acids from dietary oils.",
+      "Intestinal cells package absorbed fats into transport particles that reach the circulation through lymph.",
+      "EPA and DHA enter tissue lipids and cell membranes and contribute to signalling pathways."
+    ],
+    "bodySources": [
+      "omega-overview"
+    ],
+    "treatment": "Prescription omega-3 medicines can treat high triglycerides under medical care. Retail fish oil is not an interchangeable prescription or a cure for heart disease.",
+    "whoMayBenefit": "People with a clinician-established indication; those with low fish intake can first review food and suitable alternative omega-3 sources.",
+    "routineUse": "No blanket recommendation that every healthy adult needs fish-oil capsules. Dietary context and the clinical goal matter.",
+    "sectionSources": [
+      "omega-overview",
+      "omega-vital"
+    ],
+    "buyingGuide": {
+      "whoCanConsider": [
+        "Adults with persistently low oily-fish intake who are reviewing options for dietary EPA and DHA.",
+        "People for whom food changes are impractical and a suitable clearly labelled product meets an assessed nutritional preference."
+      ],
+      "whoShouldReview": [
+        "Fish allergy requires product-specific suitability review.",
+        "Anticoagulant use or a history of atrial fibrillation warrants discussion before supplementation, particularly stronger products.",
+        "High triglycerides or cardiovascular disease needs medical assessment; ordinary retail fish oil does not substitute for prescription treatment."
+      ],
+      "foodSummary": "Oily fish supplies EPA and DHA directly. Plant omega-3 foods mainly provide ALA, whose conversion to EPA and DHA is limited.",
+      "foods": [
+        {
+          "name": "Atlantic farmed salmon, cooked",
+          "relationship": "direct",
+          "detail": "Calculated sum of EPA 0.59 g and DHA 1.24 g in the same source serving.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": null,
+          "amounts": [
+            {
+              "nutrient": "EPA + DHA",
+              "min": 1.83,
+              "max": null,
+              "unit": "g",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "3 ounces"
+              },
+              "sourceIds": [
+                "omega-overview"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Sardines, canned in tomato sauce, drained",
+          "relationship": "direct",
+          "detail": "Calculated sum of EPA 0.45 g and DHA 0.74 g.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": null,
+          "amounts": [
+            {
+              "nutrient": "EPA + DHA",
+              "min": 1.19,
+              "max": null,
+              "unit": "g",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "3 ounces"
+              },
+              "sourceIds": [
+                "omega-overview"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Chia seeds",
+          "relationship": "different-form",
+          "detail": "ALA is a different fatty acid. Its mass must not be added to an EPA+DHA supplement total.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": null,
+          "amounts": [
+            {
+              "nutrient": "ALA (not EPA + DHA)",
+              "min": 5.06,
+              "max": null,
+              "unit": "g",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "1 ounce"
+              },
+              "sourceIds": [
+                "omega-overview"
+              ]
+            }
+          ]
+        }
+      ],
+      "foodSourceIds": [
+        "food-omega3",
+        "omega-overview"
+      ],
+      "value": {
+        "routineScore": 2,
+        "targetedScore": 3,
+        "targetedUse": "Reviewing an EPA/DHA source when oily-fish intake stays low and dietary change is impractical.",
+        "reason": "A dietary gap can justify consideration, but routine retail fish oil has not consistently prevented major cardiovascular events in generally healthy adults.",
+        "worthWhen": [
+          "Actual EPA+DHA and label servings are declared.",
+          "Dietary context and relevant medicines have been considered."
+        ],
+        "skipWhen": [
+          "The purchase assumes guaranteed heart-disease prevention.",
+          "Only total fish-oil mass is offered as evidence of strength."
+        ],
+        "evidence": "mixed",
+        "scope": "Retail nutritional comparison only; prescription omega-3 indications and formulations require separate evidence and care.",
+        "sourceIds": [
+          "omega-overview",
+          "omega-vital",
+          "food-omega3",
+          "food-allergens"
+        ]
+      },
+      "reviewed": "2026-11-18",
+      "practices": {
+        "dos": [
+          {
+            "title": "Find EPA and DHA",
+            "detail": "Use verified EPA+DHA per label serving and units per serving to compare meaningful active-content costs."
+          },
+          {
+            "title": "Check diet and overlap",
+            "detail": "Review fish intake, other omega-3 products and relevant medicines before adding another product."
+          }
+        ],
+        "donts": [
+          {
+            "title": "Don't compare total oil alone",
+            "detail": "A large fish-oil headline does not establish the EPA+DHA amount delivered by a serving."
+          },
+          {
+            "title": "Don't substitute for a prescription",
+            "detail": "Retail fish oil is not interchangeable with a condition-specific prescription omega-3 medicine."
+          }
+        ],
+        "sourceIds": [
+          "omega-overview",
+          "omega-vital"
+        ]
+      }
+    },
+    "intakeGuide": {
+      "kind": "no-established-target",
+      "summary": "There is no established US adult RDA for EPA+DHA. The ALA reference is a different omega-3 and must not become a fish-oil target.",
+      "targets": [],
+      "limits": [],
+      "notes": [
+        "No automatic dose increase is assigned for training frequency or experience."
+      ],
+      "sourceIds": [
+        "omega-overview",
+        "omega-vital"
+      ],
+      "reviewed": "2026-11-17"
+    },
+    "medicalGuide": {
+      "summary": "Condition-specific evidence, separate from sports benefits and purchase priority.",
+      "conditions": [
+        {
+          "condition": "High triglycerides",
+          "level": "established",
+          "findings": "Prescription omega-3 medicines have a clinical role. Retail fish oil is not interchangeable; the exact prescription formulation and indication matter.",
+          "limits": "Prescription omega-3 medicines can treat high triglycerides under medical care. Retail fish oil is not an interchangeable prescription or a cure for heart disease.",
+          "sourceIds": [
+            "omega-overview",
+            "omega-vital"
+          ]
+        },
+        {
+          "condition": "General cardiovascular prevention",
+          "level": "mixed",
+          "findings": "Benefits vary by population and formulation; results from a specific prescription cannot be transferred to every fish-oil capsule.",
+          "limits": "Prescription omega-3 medicines can treat high triglycerides under medical care. Retail fish oil is not an interchangeable prescription or a cure for heart disease.",
+          "sourceIds": [
+            "omega-overview",
+            "omega-vital"
+          ]
+        }
+      ],
+      "reviewed": "2026-11-17"
+    },
+    "pathway": {
+      "title": "From oil digestion to EPA and DHA in tissues",
+      "summary": "EPA and DHA travel through normal fat digestion and lipoprotein transport before contributing to tissue lipids and signalling pathways.",
+      "tracks": [
+        {
+          "label": "Fat digestion and tissue delivery",
+          "steps": [
+            {
+              "label": "Digestion releases oil breakdown products",
+              "detail": "Intestinal digestion hydrolyses dietary oils into fatty acids and other absorbable lipid products.",
+              "compartment": "Intestine",
+              "icon": "digest"
+            },
+            {
+              "label": "Micelles deliver fats for absorption",
+              "detail": "Bile-containing micelles help lipid digestion products reach and enter intestinal cells.",
+              "compartment": "Intestine",
+              "icon": "molecule"
+            },
+            {
+              "label": "Chylomicrons enter lymph then blood",
+              "detail": "Intestinal cells package absorbed fats into chylomicrons, which reach the circulation through lymph.",
+              "compartment": "Lymph / blood",
+              "icon": "blood"
+            },
+            {
+              "label": "Tissues incorporate EPA and DHA",
+              "detail": "EPA and DHA enter tissue lipids; omega-3s contribute to membranes and the production of signalling molecules.",
+              "compartment": "Tissues",
+              "icon": "cell"
+            }
+          ]
+        }
+      ],
+      "caveat": "A membrane or signalling role does not prove that every fish-oil product prevents disease. EPA and DHA content matters more than total oil mass.",
+      "sourceIds": [
+        "omega-overview"
+      ]
+    }
+  }
+}

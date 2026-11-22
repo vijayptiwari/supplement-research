@@ -1,0 +1,500 @@
+{
+  "schemaVersion": 1,
+  "category": "vitamin-b",
+  "brand": "HK Vitals",
+  "product": "Multivitamin Women with Soya-Isoflavone, Lycopene & Ginseng",
+  "variants": [
+    {
+      "order": 26,
+      "offer": {
+        "form": "Tablet",
+        "source": "Not specified",
+        "servingUnits": 1,
+        "product": "Multivitamin Women with Soya-Isoflavone, Lycopene & Ginseng",
+        "type": "B-vitamin / Vitamin C / mineral combination",
+        "subclass": "Multivitamin with soy isoflavones and ginseng",
+        "vitaminB1Mg": 1.4,
+        "vitaminB2Mg": 1.9,
+        "vitaminB3Mg": 11,
+        "vitaminB6Mg": 1.9,
+        "biotinMcg": 40,
+        "vitaminB12Mcg": 2.2,
+        "vitaminCMg": 65,
+        "vitaminDMcg": 15,
+        "vitaminEMg": 10,
+        "folicAcidMcg": 129.41,
+        "calciumMg": 100,
+        "magnesiumMg": 44,
+        "zincMg": 13.2,
+        "mineralBasis": "elemental",
+        "additionalIngredients": [
+          {
+            "name": "Vitamin A",
+            "amount": 840,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Iron",
+            "amount": 29,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Manganese",
+            "amount": 1.6,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Copper",
+            "amount": 0.68,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Iodine",
+            "amount": 56,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Selenium",
+            "amount": 40,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Soya-isoflavone",
+            "amount": 50,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Panax ginseng root extract (10% ginsenoside)",
+            "amount": 42.5,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Lycopene",
+            "amount": 0.3,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "basis": "Official panel per one tablet (1.15 g): B1 1.4 mg, B2 1.9 mg, B3 11 mg, B6 1.9 mg, biotin 40 mcg, B12 2.2 mcg, C 65 mg, D2 15 mcg and folic acid 129.41 mcg; mineral nutrient amounts are recorded separately.",
+        "notes": "This is the conventional Multivitamin Women formula, distinct from Bi-Layer Multivitamin+ Women. Contains Vitamin D2; B5 is not declared on the panel and is not assumed zero. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+        "brand": "HK Vitals",
+        "id": "vitamin-b-hkv-185644",
+        "packCount": 60,
+        "flavour": "Unflavoured",
+        "price": 419,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://www.hkvitals.com/sv/hk-vitals-multivitamin-women-with-soya-isoflavone-lycopene-n-ginseng/SP-99742?navKey=VRNT-185644",
+        "nutritionUrl": "https://img10.hkrtcdn.com/47219/prd_4721839-HK-Vitals-Multivitamin-Women-with-SoyaIsoflavone-Lycopene-Ginseng-60-tablets-Unflavoured_o.jpg",
+        "labelSources": [
+          "https://www.hkvitals.com/sv/hk-vitals-multivitamin-women-with-soya-isoflavone-lycopene-n-ginseng/SP-99742?navKey=VRNT-185644",
+          "https://img10.hkrtcdn.com/47219/prd_4721839-HK-Vitals-Multivitamin-Women-with-SoyaIsoflavone-Lycopene-Ginseng-60-tablets-Unflavoured_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "packaging": "Single retail pack (60 units)",
+        "sourceVariantId": "185644",
+        "sourceProductId": "99742",
+        "declaredNutrients": [
+          "vitaminB1Mg",
+          "vitaminB2Mg",
+          "vitaminB3Mg",
+          "vitaminB6Mg",
+          "biotinMcg",
+          "folicAcidMcg",
+          "vitaminB12Mcg"
+        ]
+      }
+    },
+    {
+      "order": 27,
+      "offer": {
+        "form": "Tablet",
+        "source": "Not specified",
+        "servingUnits": 1,
+        "product": "Multivitamin Women with Soya-Isoflavone, Lycopene & Ginseng",
+        "type": "B-vitamin / Vitamin C / mineral combination",
+        "subclass": "Multivitamin with soy isoflavones and ginseng",
+        "vitaminB1Mg": 1.4,
+        "vitaminB2Mg": 1.9,
+        "vitaminB3Mg": 11,
+        "vitaminB6Mg": 1.9,
+        "biotinMcg": 40,
+        "vitaminB12Mcg": 2.2,
+        "vitaminCMg": 65,
+        "vitaminDMcg": 15,
+        "vitaminEMg": 10,
+        "folicAcidMcg": 129.41,
+        "calciumMg": 100,
+        "magnesiumMg": 44,
+        "zincMg": 13.2,
+        "mineralBasis": "elemental",
+        "additionalIngredients": [
+          {
+            "name": "Vitamin A",
+            "amount": 840,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Iron",
+            "amount": 29,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Manganese",
+            "amount": 1.6,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Copper",
+            "amount": 0.68,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Iodine",
+            "amount": 56,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Selenium",
+            "amount": 40,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Soya-isoflavone",
+            "amount": 50,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Panax ginseng root extract (10% ginsenoside)",
+            "amount": 42.5,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Lycopene",
+            "amount": 0.3,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "basis": "Official panel per one tablet (1.15 g): B1 1.4 mg, B2 1.9 mg, B3 11 mg, B6 1.9 mg, biotin 40 mcg, B12 2.2 mcg, C 65 mg, D2 15 mcg and folic acid 129.41 mcg; mineral nutrient amounts are recorded separately.",
+        "notes": "This is the conventional Multivitamin Women formula, distinct from Bi-Layer Multivitamin+ Women. Contains Vitamin D2; B5 is not declared on the panel and is not assumed zero. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+        "brand": "HK Vitals",
+        "id": "vitamin-b-hkv-185646",
+        "packCount": 90,
+        "flavour": "Unflavoured",
+        "price": 539,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://www.hkvitals.com/sv/hk-vitals-multivitamin-women-with-soya-isoflavone-lycopene-n-ginseng/SP-99742?navKey=VRNT-185646",
+        "nutritionUrl": "https://img10.hkrtcdn.com/47219/prd_4721839-HK-Vitals-Multivitamin-Women-with-SoyaIsoflavone-Lycopene-Ginseng-60-tablets-Unflavoured_o.jpg",
+        "labelSources": [
+          "https://www.hkvitals.com/sv/hk-vitals-multivitamin-women-with-soya-isoflavone-lycopene-n-ginseng/SP-99742?navKey=VRNT-185646",
+          "https://img10.hkrtcdn.com/47219/prd_4721839-HK-Vitals-Multivitamin-Women-with-SoyaIsoflavone-Lycopene-Ginseng-60-tablets-Unflavoured_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "packaging": "Single retail pack (90 units)",
+        "sourceVariantId": "185646",
+        "sourceProductId": "99742",
+        "declaredNutrients": [
+          "vitaminB1Mg",
+          "vitaminB2Mg",
+          "vitaminB3Mg",
+          "vitaminB6Mg",
+          "biotinMcg",
+          "folicAcidMcg",
+          "vitaminB12Mcg"
+        ]
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5155,
+      "observation": {
+        "category": "vitamin-b",
+        "offerId": "vitamin-b-hkv-185644",
+        "date": "2026-11-19",
+        "price": 419,
+        "currency": "INR",
+        "sourceUrl": "https://www.hkvitals.com/sv/hk-vitals-multivitamin-women-with-soya-isoflavone-lycopene-n-ginseng/SP-99742?navKey=VRNT-185644",
+        "evidenceUrl": "https://www.hkvitals.com/sv/hk-vitals-multivitamin-women-with-soya-isoflavone-lycopene-n-ginseng/SP-99742?navKey=VRNT-185644",
+        "kind": "official-live",
+        "matchBasis": "Official HK Vitals SSR reviewData selected numeric variant 185644; explicit pack '60 tablet(s)', unconditional offer_pr INR and isPublish=true/oos=false. Excludes loyalty and coupon rewards.",
+        "variantId": "185644"
+      }
+    },
+    {
+      "order": 5158,
+      "observation": {
+        "category": "vitamin-b",
+        "offerId": "vitamin-b-hkv-185646",
+        "date": "2026-11-19",
+        "price": 539,
+        "currency": "INR",
+        "sourceUrl": "https://www.hkvitals.com/sv/hk-vitals-multivitamin-women-with-soya-isoflavone-lycopene-n-ginseng/SP-99742?navKey=VRNT-185646",
+        "evidenceUrl": "https://www.hkvitals.com/sv/hk-vitals-multivitamin-women-with-soya-isoflavone-lycopene-n-ginseng/SP-99742?navKey=VRNT-185646",
+        "kind": "official-live",
+        "matchBasis": "Official HK Vitals SSR reviewData selected numeric variant 185646; explicit pack '90 tablet(s)', unconditional offer_pr INR and isPublish=true/oos=false. Excludes loyalty and coupon rewards.",
+        "variantId": "185646"
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 265,
+      "profile": {
+        "form": "Tablet",
+        "source": "Not specified",
+        "servingUnits": 1,
+        "product": "Multivitamin Women with Soya-Isoflavone, Lycopene & Ginseng",
+        "type": "B-vitamin / Vitamin C / mineral combination",
+        "subclass": "Multivitamin with soy isoflavones and ginseng",
+        "vitaminB1Mg": 1.4,
+        "vitaminB2Mg": 1.9,
+        "vitaminB3Mg": 11,
+        "vitaminB6Mg": 1.9,
+        "biotinMcg": 40,
+        "vitaminB12Mcg": 2.2,
+        "vitaminCMg": 65,
+        "vitaminDMcg": 15,
+        "vitaminEMg": 10,
+        "folicAcidMcg": 129.41,
+        "calciumMg": 100,
+        "magnesiumMg": 44,
+        "zincMg": 13.2,
+        "mineralBasis": "elemental",
+        "additionalIngredients": [
+          {
+            "name": "Vitamin A",
+            "amount": 840,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Iron",
+            "amount": 29,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Manganese",
+            "amount": 1.6,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Copper",
+            "amount": 0.68,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Iodine",
+            "amount": 56,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Selenium",
+            "amount": 40,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Soya-isoflavone",
+            "amount": 50,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Panax ginseng root extract (10% ginsenoside)",
+            "amount": 42.5,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Lycopene",
+            "amount": 0.3,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "basis": "Official panel per one tablet (1.15 g): B1 1.4 mg, B2 1.9 mg, B3 11 mg, B6 1.9 mg, biotin 40 mcg, B12 2.2 mcg, C 65 mg, D2 15 mcg and folic acid 129.41 mcg; mineral nutrient amounts are recorded separately.",
+        "notes": "This is the conventional Multivitamin Women formula, distinct from Bi-Layer Multivitamin+ Women. Contains Vitamin D2; B5 is not declared on the panel and is not assumed zero. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+        "brand": "HK Vitals",
+        "id": "vitamin-b-hkv-185644",
+        "packCount": 60,
+        "flavour": "Unflavoured",
+        "nutritionUrl": "https://img10.hkrtcdn.com/47219/prd_4721839-HK-Vitals-Multivitamin-Women-with-SoyaIsoflavone-Lycopene-Ginseng-60-tablets-Unflavoured_o.jpg",
+        "labelSources": [
+          "https://www.hkvitals.com/sv/hk-vitals-multivitamin-women-with-soya-isoflavone-lycopene-n-ginseng/SP-99742?navKey=VRNT-185644",
+          "https://img10.hkrtcdn.com/47219/prd_4721839-HK-Vitals-Multivitamin-Women-with-SoyaIsoflavone-Lycopene-Ginseng-60-tablets-Unflavoured_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "packaging": "Single retail pack (60 units)",
+        "sourceVariantId": "185644",
+        "sourceProductId": "99742",
+        "declaredNutrients": [
+          "vitaminB1Mg",
+          "vitaminB2Mg",
+          "vitaminB3Mg",
+          "vitaminB6Mg",
+          "biotinMcg",
+          "folicAcidMcg",
+          "vitaminB12Mcg"
+        ],
+        "category": "vitamin-b",
+        "kind": "hk-product",
+        "base": "https://www.hkvitals.com",
+        "handle": "multivitamin-women-soya-isoflavone-lycopene-ginseng",
+        "productUrl": "https://www.hkvitals.com/sv/hk-vitals-multivitamin-women-with-soya-isoflavone-lycopene-n-ginseng/SP-99742?navKey=VRNT-185644",
+        "variantUrl": "https://www.hkvitals.com/sv/hk-vitals-multivitamin-women-with-soya-isoflavone-lycopene-n-ginseng/SP-99742?navKey=VRNT-185644",
+        "variantId": "185644",
+        "productId": 99742,
+        "sourceBrand": "HK Vitals",
+        "variantAttributes": {
+          "fn-att-quant": "60 tablet(s)",
+          "spc-att-flvr": "Unflavoured"
+        }
+      }
+    },
+    {
+      "order": 268,
+      "profile": {
+        "form": "Tablet",
+        "source": "Not specified",
+        "servingUnits": 1,
+        "product": "Multivitamin Women with Soya-Isoflavone, Lycopene & Ginseng",
+        "type": "B-vitamin / Vitamin C / mineral combination",
+        "subclass": "Multivitamin with soy isoflavones and ginseng",
+        "vitaminB1Mg": 1.4,
+        "vitaminB2Mg": 1.9,
+        "vitaminB3Mg": 11,
+        "vitaminB6Mg": 1.9,
+        "biotinMcg": 40,
+        "vitaminB12Mcg": 2.2,
+        "vitaminCMg": 65,
+        "vitaminDMcg": 15,
+        "vitaminEMg": 10,
+        "folicAcidMcg": 129.41,
+        "calciumMg": 100,
+        "magnesiumMg": 44,
+        "zincMg": 13.2,
+        "mineralBasis": "elemental",
+        "additionalIngredients": [
+          {
+            "name": "Vitamin A",
+            "amount": 840,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Iron",
+            "amount": 29,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Manganese",
+            "amount": 1.6,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Copper",
+            "amount": 0.68,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Iodine",
+            "amount": 56,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Selenium",
+            "amount": 40,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Soya-isoflavone",
+            "amount": 50,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Panax ginseng root extract (10% ginsenoside)",
+            "amount": 42.5,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Lycopene",
+            "amount": 0.3,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "basis": "Official panel per one tablet (1.15 g): B1 1.4 mg, B2 1.9 mg, B3 11 mg, B6 1.9 mg, biotin 40 mcg, B12 2.2 mcg, C 65 mg, D2 15 mcg and folic acid 129.41 mcg; mineral nutrient amounts are recorded separately.",
+        "notes": "This is the conventional Multivitamin Women formula, distinct from Bi-Layer Multivitamin+ Women. Contains Vitamin D2; B5 is not declared on the panel and is not assumed zero. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+        "brand": "HK Vitals",
+        "id": "vitamin-b-hkv-185646",
+        "packCount": 90,
+        "flavour": "Unflavoured",
+        "nutritionUrl": "https://img10.hkrtcdn.com/47219/prd_4721839-HK-Vitals-Multivitamin-Women-with-SoyaIsoflavone-Lycopene-Ginseng-60-tablets-Unflavoured_o.jpg",
+        "labelSources": [
+          "https://www.hkvitals.com/sv/hk-vitals-multivitamin-women-with-soya-isoflavone-lycopene-n-ginseng/SP-99742?navKey=VRNT-185646",
+          "https://img10.hkrtcdn.com/47219/prd_4721839-HK-Vitals-Multivitamin-Women-with-SoyaIsoflavone-Lycopene-Ginseng-60-tablets-Unflavoured_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "packaging": "Single retail pack (90 units)",
+        "sourceVariantId": "185646",
+        "sourceProductId": "99742",
+        "declaredNutrients": [
+          "vitaminB1Mg",
+          "vitaminB2Mg",
+          "vitaminB3Mg",
+          "vitaminB6Mg",
+          "biotinMcg",
+          "folicAcidMcg",
+          "vitaminB12Mcg"
+        ],
+        "category": "vitamin-b",
+        "kind": "hk-product",
+        "base": "https://www.hkvitals.com",
+        "handle": "multivitamin-women-soya-isoflavone-lycopene-ginseng",
+        "productUrl": "https://www.hkvitals.com/sv/hk-vitals-multivitamin-women-with-soya-isoflavone-lycopene-n-ginseng/SP-99742?navKey=VRNT-185646",
+        "variantUrl": "https://www.hkvitals.com/sv/hk-vitals-multivitamin-women-with-soya-isoflavone-lycopene-n-ginseng/SP-99742?navKey=VRNT-185646",
+        "variantId": "185646",
+        "productId": 99742,
+        "sourceBrand": "HK Vitals",
+        "variantAttributes": {
+          "fn-att-quant": "90 tablet(s)",
+          "spc-att-flvr": "Unflavoured"
+        }
+      }
+    }
+  ]
+}

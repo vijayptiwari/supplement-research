@@ -1,0 +1,255 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "BigMuscles Nutrition",
+  "product": "Zero Whey Protein",
+  "variants": [
+    {
+      "order": 721,
+      "offer": {
+        "id": 721,
+        "brand": "BigMuscles Nutrition",
+        "product": "Zero Whey Protein",
+        "type": "Whey — blend",
+        "flavour": "Cafe Latte",
+        "kg": 1,
+        "price": 3599,
+        "stock": "Sold out",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://www.bigmusclesnutrition.com/products/zero?variant=31849491562595",
+        "nutritionUrl": "https://www.bigmusclesnutrition.com/products/zero?variant=31849491562595",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.bigmusclesnutrition.com/products/zero?variant=31849491562595",
+          "evidenceUrl": "https://www.bigmusclesnutrition.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 722,
+      "offer": {
+        "id": 722,
+        "brand": "BigMuscles Nutrition",
+        "product": "Zero Whey Protein",
+        "type": "Whey — blend",
+        "flavour": "Cafe Latte",
+        "kg": 2,
+        "price": 6199,
+        "stock": "Sold out",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://www.bigmusclesnutrition.com/products/zero?variant=31849491595363",
+        "nutritionUrl": "https://www.bigmusclesnutrition.com/products/zero?variant=31849491595363",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.bigmusclesnutrition.com/products/zero?variant=31849491595363",
+          "evidenceUrl": "https://www.bigmusclesnutrition.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 723,
+      "offer": {
+        "id": 723,
+        "brand": "BigMuscles Nutrition",
+        "product": "Zero Whey Protein",
+        "type": "Whey — blend",
+        "flavour": "Rich Chocolate",
+        "kg": 1,
+        "price": 3599,
+        "stock": "In stock",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://www.bigmusclesnutrition.com/products/zero?variant=31849491660899",
+        "nutritionUrl": "https://www.bigmusclesnutrition.com/products/zero?variant=31849491660899",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.bigmusclesnutrition.com/products/zero?variant=31849491660899",
+          "evidenceUrl": "https://www.bigmusclesnutrition.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 724,
+      "offer": {
+        "id": 724,
+        "brand": "BigMuscles Nutrition",
+        "product": "Zero Whey Protein",
+        "type": "Whey — blend",
+        "flavour": "Rich Chocolate",
+        "kg": 2,
+        "price": 6199,
+        "stock": "In stock",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://www.bigmusclesnutrition.com/products/zero?variant=31849491693667",
+        "nutritionUrl": "https://www.bigmusclesnutrition.com/products/zero?variant=31849491693667",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.bigmusclesnutrition.com/products/zero?variant=31849491693667",
+          "evidenceUrl": "https://www.bigmusclesnutrition.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 2910,
+      "observation": {
+        "category": "protein",
+        "offerId": 721,
+        "date": "2026-10-25",
+        "price": 3559,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/zero?variant=31849491562595",
+        "evidenceUrl": "https://www.bigmusclesnutrition.com/products/zero.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "31849491562595"
+      }
+    },
+    {
+      "order": 2911,
+      "observation": {
+        "category": "protein",
+        "offerId": 722,
+        "date": "2026-10-25",
+        "price": 6799,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/zero?variant=31849491595363",
+        "evidenceUrl": "https://www.bigmusclesnutrition.com/products/zero.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "31849491595363"
+      }
+    },
+    {
+      "order": 2912,
+      "observation": {
+        "category": "protein",
+        "offerId": 723,
+        "date": "2026-10-25",
+        "price": 3599,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/zero?variant=31849491660899",
+        "evidenceUrl": "https://www.bigmusclesnutrition.com/products/zero.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "31849491660899"
+      }
+    },
+    {
+      "order": 2913,
+      "observation": {
+        "category": "protein",
+        "offerId": 724,
+        "date": "2026-10-25",
+        "price": 6799,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/zero?variant=31849491693667",
+        "evidenceUrl": "https://www.bigmusclesnutrition.com/products/zero.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "31849491693667"
+      }
+    },
+    {
+      "order": 4768,
+      "observation": {
+        "category": "protein",
+        "offerId": 721,
+        "date": "2026-11-19",
+        "price": 3599,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/zero?variant=31849491562595",
+        "evidenceUrl": "https://www.bigmusclesnutrition.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "31849491562595"
+      }
+    },
+    {
+      "order": 4769,
+      "observation": {
+        "category": "protein",
+        "offerId": 722,
+        "date": "2026-11-19",
+        "price": 6199,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/zero?variant=31849491595363",
+        "evidenceUrl": "https://www.bigmusclesnutrition.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "31849491595363"
+      }
+    },
+    {
+      "order": 4770,
+      "observation": {
+        "category": "protein",
+        "offerId": 723,
+        "date": "2026-11-19",
+        "price": 3599,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/zero?variant=31849491660899",
+        "evidenceUrl": "https://www.bigmusclesnutrition.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "31849491660899"
+      }
+    },
+    {
+      "order": 4771,
+      "observation": {
+        "category": "protein",
+        "offerId": 724,
+        "date": "2026-11-19",
+        "price": 6199,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/zero?variant=31849491693667",
+        "evidenceUrl": "https://www.bigmusclesnutrition.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "31849491693667"
+      }
+    }
+  ],
+  "refreshSources": []
+}

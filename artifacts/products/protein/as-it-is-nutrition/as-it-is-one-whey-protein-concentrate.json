@@ -1,0 +1,439 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "AS-IT-IS Nutrition",
+  "product": "AS-IT-IS ONE Whey Protein Concentrate",
+  "variants": [
+    {
+      "order": 100,
+      "offer": {
+        "id": 100,
+        "brand": "AS-IT-IS Nutrition",
+        "product": "AS-IT-IS ONE Whey Protein Concentrate",
+        "type": "Whey — concentrate",
+        "flavour": "Unflavoured",
+        "kg": 1,
+        "price": 3299,
+        "stock": "In stock",
+        "protein": 80,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey concentrate",
+        "energy": 402.85714285714283,
+        "url": "https://asitisnutrition.com/products/best-whey-protein-concentrate-in-india?variant=7266686435379",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0005/5335/3267/files/AS-IT-IS_ONE_RPD_250_back-min.jpg?v=1770979243",
+        "basis": "28g protein / 35g serving; product FAQ",
+        "notes": "Brand product-page serving basis; flavour-specific label values may vary. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-matched label kcal per serving / brand serving g × 100",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://asitisnutrition.com/products/best-whey-protein-concentrate-in-india?variant=7266686435379",
+          "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 101,
+      "offer": {
+        "id": 101,
+        "brand": "AS-IT-IS Nutrition",
+        "product": "AS-IT-IS ONE Whey Protein Concentrate",
+        "type": "Whey — concentrate",
+        "flavour": "Unflavoured",
+        "kg": 2,
+        "price": 6512,
+        "stock": "In stock",
+        "protein": 80,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey concentrate",
+        "energy": 402.85714285714283,
+        "url": "https://asitisnutrition.com/products/best-whey-protein-concentrate-in-india?variant=18614626811955",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0005/5335/3267/files/AS-IT-IS_ONE_RPD_250_back-min.jpg?v=1770979243",
+        "basis": "28g protein / 35g serving; product FAQ",
+        "notes": "Brand product-page serving basis; flavour-specific label values may vary. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-matched label kcal per serving / brand serving g × 100",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://asitisnutrition.com/products/best-whey-protein-concentrate-in-india?variant=18614626811955",
+          "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 336,
+      "observation": {
+        "category": "protein",
+        "offerId": 100,
+        "date": "2024-06-21",
+        "price": 1699,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/best-whey-protein-concentrate-in-india?variant=7266686435379",
+        "evidenceUrl": "https://web.archive.org/web/20240621163016id_/https://asitisnutrition.com/products/best-whey-protein-concentrate-in-india?variant=18614626811955",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "7266686435379",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 337,
+      "observation": {
+        "category": "protein",
+        "offerId": 101,
+        "date": "2024-06-21",
+        "price": 3349,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/best-whey-protein-concentrate-in-india?variant=18614626811955",
+        "evidenceUrl": "https://web.archive.org/web/20240621163016id_/https://asitisnutrition.com/products/best-whey-protein-concentrate-in-india?variant=18614626811955",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "18614626811955",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 338,
+      "observation": {
+        "category": "protein",
+        "offerId": 100,
+        "date": "2024-09-17",
+        "price": 1891,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/best-whey-protein-concentrate-in-india?variant=7266686435379",
+        "evidenceUrl": "https://web.archive.org/web/20240917061842id_/https://asitisnutrition.com/products/best-whey-protein-concentrate-in-india",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "7266686435379",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 339,
+      "observation": {
+        "category": "protein",
+        "offerId": 101,
+        "date": "2024-09-17",
+        "price": 3677,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/best-whey-protein-concentrate-in-india?variant=18614626811955",
+        "evidenceUrl": "https://web.archive.org/web/20240917061842id_/https://asitisnutrition.com/products/best-whey-protein-concentrate-in-india",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "18614626811955",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 340,
+      "observation": {
+        "category": "protein",
+        "offerId": 100,
+        "date": "2024-12-13",
+        "price": 1891,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/best-whey-protein-concentrate-in-india?variant=7266686435379",
+        "evidenceUrl": "https://web.archive.org/web/20241213031257id_/https://asitisnutrition.com/products/best-whey-protein-concentrate-in-india",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "7266686435379",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 341,
+      "observation": {
+        "category": "protein",
+        "offerId": 101,
+        "date": "2024-12-13",
+        "price": 3677,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/best-whey-protein-concentrate-in-india?variant=18614626811955",
+        "evidenceUrl": "https://web.archive.org/web/20241213031257id_/https://asitisnutrition.com/products/best-whey-protein-concentrate-in-india",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "18614626811955",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 342,
+      "observation": {
+        "category": "protein",
+        "offerId": 100,
+        "date": "2025-03-19",
+        "price": 1891,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/best-whey-protein-concentrate-in-india?variant=7266686435379",
+        "evidenceUrl": "https://web.archive.org/web/20250319133307id_/https://asitisnutrition.com/products/best-whey-protein-concentrate-in-india",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "7266686435379",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 343,
+      "observation": {
+        "category": "protein",
+        "offerId": 101,
+        "date": "2025-03-19",
+        "price": 3677,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/best-whey-protein-concentrate-in-india?variant=18614626811955",
+        "evidenceUrl": "https://web.archive.org/web/20250319133307id_/https://asitisnutrition.com/products/best-whey-protein-concentrate-in-india",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "18614626811955",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 344,
+      "observation": {
+        "category": "protein",
+        "offerId": 100,
+        "date": "2025-06-24",
+        "price": 2093,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/best-whey-protein-concentrate-in-india?variant=7266686435379",
+        "evidenceUrl": "https://web.archive.org/web/20250624100010id_/https://asitisnutrition.com/products/best-whey-protein-concentrate-in-india?variant=18614626811955",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "7266686435379",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 345,
+      "observation": {
+        "category": "protein",
+        "offerId": 101,
+        "date": "2025-06-24",
+        "price": 4154,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/best-whey-protein-concentrate-in-india?variant=18614626811955",
+        "evidenceUrl": "https://web.archive.org/web/20250624100010id_/https://asitisnutrition.com/products/best-whey-protein-concentrate-in-india?variant=18614626811955",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "18614626811955",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 346,
+      "observation": {
+        "category": "protein",
+        "offerId": 100,
+        "date": "2025-09-13",
+        "price": 2093,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/best-whey-protein-concentrate-in-india?variant=7266686435379",
+        "evidenceUrl": "https://web.archive.org/web/20250913074425id_/https://asitisnutrition.com/products/best-whey-protein-concentrate-in-india?variant=41272751423539",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "7266686435379",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 347,
+      "observation": {
+        "category": "protein",
+        "offerId": 101,
+        "date": "2025-09-13",
+        "price": 4154,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/best-whey-protein-concentrate-in-india?variant=18614626811955",
+        "evidenceUrl": "https://web.archive.org/web/20250913074425id_/https://asitisnutrition.com/products/best-whey-protein-concentrate-in-india?variant=41272751423539",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "18614626811955",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 348,
+      "observation": {
+        "category": "protein",
+        "offerId": 100,
+        "date": "2025-10-13",
+        "price": 1926,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/best-whey-protein-concentrate-in-india?variant=7266686435379",
+        "evidenceUrl": "https://web.archive.org/web/20251013223552id_/https://asitisnutrition.com/products/best-whey-protein-concentrate-in-india?variant=8455126417459",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "7266686435379",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 349,
+      "observation": {
+        "category": "protein",
+        "offerId": 101,
+        "date": "2025-10-13",
+        "price": 3821,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/best-whey-protein-concentrate-in-india?variant=18614626811955",
+        "evidenceUrl": "https://web.archive.org/web/20251013223552id_/https://asitisnutrition.com/products/best-whey-protein-concentrate-in-india?variant=8455126417459",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "18614626811955",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 350,
+      "observation": {
+        "category": "protein",
+        "offerId": 100,
+        "date": "2026-01-11",
+        "price": 2093,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/best-whey-protein-concentrate-in-india?variant=7266686435379",
+        "evidenceUrl": "https://web.archive.org/web/20260111191355id_/https://asitisnutrition.com/products/best-whey-protein-concentrate-in-india",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "7266686435379",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 351,
+      "observation": {
+        "category": "protein",
+        "offerId": 101,
+        "date": "2026-01-11",
+        "price": 4132,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/best-whey-protein-concentrate-in-india?variant=18614626811955",
+        "evidenceUrl": "https://web.archive.org/web/20260111191355id_/https://asitisnutrition.com/products/best-whey-protein-concentrate-in-india",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "18614626811955",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 352,
+      "observation": {
+        "category": "protein",
+        "offerId": 100,
+        "date": "2026-09-26",
+        "price": 3299,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/best-whey-protein-concentrate-in-india?variant=7266686435379",
+        "evidenceUrl": "https://web.archive.org/web/20260926062818id_/https://asitisnutrition.com/products/best-whey-protein-concentrate-in-india",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "7266686435379",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 353,
+      "observation": {
+        "category": "protein",
+        "offerId": 101,
+        "date": "2026-09-26",
+        "price": 6512,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/best-whey-protein-concentrate-in-india?variant=18614626811955",
+        "evidenceUrl": "https://web.archive.org/web/20260926062818id_/https://asitisnutrition.com/products/best-whey-protein-concentrate-in-india",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "18614626811955",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived variant flavour differs from current listing; not comparable."
+      }
+    },
+    {
+      "order": 2289,
+      "observation": {
+        "category": "protein",
+        "offerId": 100,
+        "date": "2026-10-25",
+        "price": 3299,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/best-whey-protein-concentrate-in-india?variant=7266686435379",
+        "evidenceUrl": "https://asitisnutrition.com/products/best-whey-protein-concentrate-in-india.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "7266686435379"
+      }
+    },
+    {
+      "order": 2290,
+      "observation": {
+        "category": "protein",
+        "offerId": 101,
+        "date": "2026-10-25",
+        "price": 6512,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/best-whey-protein-concentrate-in-india?variant=18614626811955",
+        "evidenceUrl": "https://asitisnutrition.com/products/best-whey-protein-concentrate-in-india.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "18614626811955"
+      }
+    },
+    {
+      "order": 4148,
+      "observation": {
+        "category": "protein",
+        "offerId": 100,
+        "date": "2026-11-19",
+        "price": 3299,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/best-whey-protein-concentrate-in-india?variant=7266686435379",
+        "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "7266686435379"
+      }
+    },
+    {
+      "order": 4149,
+      "observation": {
+        "category": "protein",
+        "offerId": 101,
+        "date": "2026-11-19",
+        "price": 6512,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/best-whey-protein-concentrate-in-india?variant=18614626811955",
+        "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "18614626811955"
+      }
+    }
+  ],
+  "refreshSources": []
+}

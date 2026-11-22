@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "category": "fish-oil",
+  "brand": "Muscle Nectar",
+  "product": "Omega-3 Fish Oil 600 mg EPA+DHA",
+  "variants": [
+    {
+      "order": 0,
+      "offer": {
+        "brand": "Muscle Nectar",
+        "product": "Omega-3 Fish Oil 600 mg EPA+DHA",
+        "form": "Softgel",
+        "type": "Triglyceride (TG)",
+        "subclass": "Fish oil",
+        "servingUnits": 2,
+        "source": "Sardine",
+        "basis": "Official product facts specify 600 mg combined EPA+DHA per 2-softgel serving. Individual EPA/DHA split is not inferred.",
+        "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities.",
+        "epaDhaMg": 600,
+        "id": "fish-oil-47009702412514",
+        "packCount": 60,
+        "price": 499,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://musclenectar.com/products/omega-3-tg-600mg-epa-dha?variant=47009702412514",
+        "nutritionUrl": "https://musclenectar.com/products/omega-3-tg-600mg-epa-dha",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-10-29",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://musclenectar.com/products/omega-3-tg-600mg-epa-dha?variant=47009702412514",
+          "evidenceUrl": "https://musclenectar.com/products/omega-3-tg-600mg-epa-dha.json",
+          "matchBasis": "Official public Shopify product; exact variant ID 47009702412514 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+        }
+      }
+    },
+    {
+      "order": 1,
+      "offer": {
+        "brand": "Muscle Nectar",
+        "product": "Omega-3 Fish Oil 600 mg EPA+DHA",
+        "form": "Softgel",
+        "type": "Triglyceride (TG)",
+        "subclass": "Fish oil",
+        "servingUnits": 2,
+        "source": "Sardine",
+        "basis": "Official product facts specify 600 mg combined EPA+DHA per 2-softgel serving. Individual EPA/DHA split is not inferred.",
+        "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities.",
+        "epaDhaMg": 600,
+        "id": "fish-oil-45457810260194",
+        "packCount": 120,
+        "price": 899,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://musclenectar.com/products/omega-3-tg-600mg-epa-dha?variant=45457810260194",
+        "nutritionUrl": "https://musclenectar.com/products/omega-3-tg-600mg-epa-dha",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-10-29",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://musclenectar.com/products/omega-3-tg-600mg-epa-dha?variant=45457810260194",
+          "evidenceUrl": "https://musclenectar.com/products/omega-3-tg-600mg-epa-dha.json",
+          "matchBasis": "Official public Shopify product; exact variant ID 45457810260194 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3703,
+      "observation": {
+        "category": "fish-oil",
+        "offerId": "fish-oil-47009702412514",
+        "date": "2026-10-29",
+        "price": 499,
+        "currency": "INR",
+        "sourceUrl": "https://musclenectar.com/products/omega-3-tg-600mg-epa-dha?variant=47009702412514",
+        "evidenceUrl": "https://musclenectar.com/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "47009702412514"
+      }
+    },
+    {
+      "order": 3704,
+      "observation": {
+        "category": "fish-oil",
+        "offerId": "fish-oil-45457810260194",
+        "date": "2026-10-29",
+        "price": 899,
+        "currency": "INR",
+        "sourceUrl": "https://musclenectar.com/products/omega-3-tg-600mg-epa-dha?variant=45457810260194",
+        "evidenceUrl": "https://musclenectar.com/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "45457810260194"
+      }
+    },
+    {
+      "order": 3854,
+      "observation": {
+        "category": "fish-oil",
+        "offerId": "fish-oil-47009702412514",
+        "date": "2026-11-19",
+        "price": 499,
+        "currency": "INR",
+        "sourceUrl": "https://musclenectar.com/products/omega-3-tg-600mg-epa-dha?variant=47009702412514",
+        "evidenceUrl": "https://musclenectar.com/products/omega-3-tg-600mg-epa-dha.json",
+        "kind": "official-live",
+        "variantId": "47009702412514",
+        "matchBasis": "Official public Shopify product; exact variant ID 47009702412514 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+      }
+    },
+    {
+      "order": 3855,
+      "observation": {
+        "category": "fish-oil",
+        "offerId": "fish-oil-45457810260194",
+        "date": "2026-11-19",
+        "price": 899,
+        "currency": "INR",
+        "sourceUrl": "https://musclenectar.com/products/omega-3-tg-600mg-epa-dha?variant=45457810260194",
+        "evidenceUrl": "https://musclenectar.com/products/omega-3-tg-600mg-epa-dha.json",
+        "kind": "official-live",
+        "variantId": "45457810260194",
+        "matchBasis": "Official public Shopify product; exact variant ID 45457810260194 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 7,
+      "profile": {
+        "category": "fish-oil",
+        "brand": "Muscle Nectar",
+        "base": "https://musclenectar.com",
+        "handle": "omega-3-tg-600mg-epa-dha",
+        "product": "Omega-3 Fish Oil 600 mg EPA+DHA",
+        "form": "Softgel",
+        "type": "Triglyceride (TG)",
+        "subclass": "Fish oil",
+        "servingUnits": 2,
+        "source": "Sardine",
+        "basis": "Official product facts specify 600 mg combined EPA+DHA per 2-softgel serving. Individual EPA/DHA split is not inferred.",
+        "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities.",
+        "epaDhaMg": 600
+      }
+    }
+  ]
+}

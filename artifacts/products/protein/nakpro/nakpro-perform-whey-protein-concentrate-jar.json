@@ -1,0 +1,483 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "NAKPRO",
+  "product": "Nakpro Perform Whey Protein Concentrate (jar)",
+  "variants": [
+    {
+      "order": 413,
+      "offer": {
+        "id": 413,
+        "brand": "NAKPRO",
+        "product": "Nakpro Perform Whey Protein Concentrate (jar)",
+        "type": "Whey — concentrate",
+        "flavour": "Chocolate",
+        "kg": 1,
+        "price": 2299,
+        "stock": "Sold out",
+        "protein": 65,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey concentrate",
+        "energy": 411.4285714285714,
+        "url": "https://nakpro.com/products/nakpro-whey-protein-powder-perform?variant=40889597100112",
+        "nutritionUrl": "https://nakpro.com/products/nakpro-whey-protein-powder-perform?variant=40889597100112",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Label/table protein differs from the existing catalog basis. Existing indicative protein % retained; verify exact pack. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Brand flavour-group table, per-serving kcal / serving g × 100",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/nakpro-whey-protein-powder-perform?variant=40889597100112",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 414,
+      "offer": {
+        "id": 414,
+        "brand": "NAKPRO",
+        "product": "Nakpro Perform Whey Protein Concentrate (jar)",
+        "type": "Whey — concentrate",
+        "flavour": "Rose Milk",
+        "kg": 1,
+        "price": 2099,
+        "stock": "Sold out",
+        "protein": 65,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey concentrate",
+        "energy": 411.4285714285714,
+        "url": "https://nakpro.com/products/nakpro-whey-protein-powder-perform?variant=42440796209232",
+        "nutritionUrl": "https://nakpro.com/products/nakpro-whey-protein-powder-perform?variant=42440796209232",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Label/table protein differs from the existing catalog basis. Existing indicative protein % retained; verify exact pack. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Brand flavour-group table, per-serving kcal / serving g × 100",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/nakpro-whey-protein-powder-perform?variant=42440796209232",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 415,
+      "offer": {
+        "id": 415,
+        "brand": "NAKPRO",
+        "product": "Nakpro Perform Whey Protein Concentrate (jar)",
+        "type": "Whey — concentrate",
+        "flavour": "Unflavored",
+        "kg": 1,
+        "price": 2299,
+        "stock": "In stock",
+        "protein": 65,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey concentrate",
+        "energy": 417.14285714285717,
+        "url": "https://nakpro.com/products/nakpro-whey-protein-powder-perform?variant=41056602423376",
+        "nutritionUrl": "https://nakpro.com/products/nakpro-whey-protein-powder-perform?variant=41056602423376",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Label/table protein differs from the existing catalog basis. Existing indicative protein % retained; verify exact pack. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Brand flavour-group table, per-serving kcal / serving g × 100",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/nakpro-whey-protein-powder-perform?variant=41056602423376",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 839,
+      "observation": {
+        "category": "protein",
+        "offerId": 413,
+        "date": "2024-11-13",
+        "price": 1699,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-whey-protein-powder-perform?variant=40889597100112",
+        "evidenceUrl": "https://web.archive.org/web/20241113142531id_/https://nakpro.com/products/nakpro-whey-protein-powder-perform?variant=32691532857424",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40889597100112",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 867,
+      "observation": {
+        "category": "protein",
+        "offerId": 413,
+        "date": "2025-03-24",
+        "price": 1699,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-whey-protein-powder-perform?variant=40889597100112",
+        "evidenceUrl": "https://web.archive.org/web/20250324234059id_/https://nakpro.com/products/nakpro-whey-protein-powder-perform",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40889597100112",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 868,
+      "observation": {
+        "category": "protein",
+        "offerId": 415,
+        "date": "2025-03-24",
+        "price": 1699,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-whey-protein-powder-perform?variant=41056602423376",
+        "evidenceUrl": "https://web.archive.org/web/20250324234059id_/https://nakpro.com/products/nakpro-whey-protein-powder-perform",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "41056602423376",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 896,
+      "observation": {
+        "category": "protein",
+        "offerId": 413,
+        "date": "2025-06-28",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-whey-protein-powder-perform?variant=40889597100112",
+        "evidenceUrl": "https://web.archive.org/web/20250628072147id_/https://nakpro.com/products/nakpro-whey-protein-powder-perform?variant=40214713368656",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40889597100112",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 897,
+      "observation": {
+        "category": "protein",
+        "offerId": 415,
+        "date": "2025-06-28",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-whey-protein-powder-perform?variant=41056602423376",
+        "evidenceUrl": "https://web.archive.org/web/20250628072147id_/https://nakpro.com/products/nakpro-whey-protein-powder-perform?variant=40214713368656",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "41056602423376",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 925,
+      "observation": {
+        "category": "protein",
+        "offerId": 413,
+        "date": "2025-07-28",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-whey-protein-powder-perform?variant=40889597100112",
+        "evidenceUrl": "https://web.archive.org/web/20250728172017id_/https://nakpro.com/products/nakpro-whey-protein-powder-perform",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40889597100112",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 926,
+      "observation": {
+        "category": "protein",
+        "offerId": 415,
+        "date": "2025-07-28",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-whey-protein-powder-perform?variant=41056602423376",
+        "evidenceUrl": "https://web.archive.org/web/20250728172017id_/https://nakpro.com/products/nakpro-whey-protein-powder-perform",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "41056602423376",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 954,
+      "observation": {
+        "category": "protein",
+        "offerId": 413,
+        "date": "2025-10-17",
+        "price": 1655,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-whey-protein-powder-perform?variant=40889597100112",
+        "evidenceUrl": "https://web.archive.org/web/20251017144312id_/https://nakpro.com/products/nakpro-whey-protein-powder-perform",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40889597100112",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 955,
+      "observation": {
+        "category": "protein",
+        "offerId": 415,
+        "date": "2025-10-17",
+        "price": 1655,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-whey-protein-powder-perform?variant=41056602423376",
+        "evidenceUrl": "https://web.archive.org/web/20251017144312id_/https://nakpro.com/products/nakpro-whey-protein-powder-perform",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "41056602423376",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 983,
+      "observation": {
+        "category": "protein",
+        "offerId": 413,
+        "date": "2026-03-20",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-whey-protein-powder-perform?variant=40889597100112",
+        "evidenceUrl": "https://web.archive.org/web/20260320164548id_/https://nakpro.com/products/nakpro-whey-protein-powder-perform?pr_prod_strat=e5_desc&pr_rec_id=54980abc6&pr_rec_pid=4742748471376&pr_ref_pid=4742740148304&pr_seq=uniform",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40889597100112",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 984,
+      "observation": {
+        "category": "protein",
+        "offerId": 415,
+        "date": "2026-03-20",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-whey-protein-powder-perform?variant=41056602423376",
+        "evidenceUrl": "https://web.archive.org/web/20260320164548id_/https://nakpro.com/products/nakpro-whey-protein-powder-perform?pr_prod_strat=e5_desc&pr_rec_id=54980abc6&pr_rec_pid=4742748471376&pr_ref_pid=4742740148304&pr_seq=uniform",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "41056602423376",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1015,
+      "observation": {
+        "category": "protein",
+        "offerId": 413,
+        "date": "2026-08-04",
+        "price": 2099,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-whey-protein-powder-perform?variant=40889597100112",
+        "evidenceUrl": "https://web.archive.org/web/20260804200929id_/https://nakpro.com/products/nakpro-whey-protein-powder-perform",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40889597100112",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1016,
+      "observation": {
+        "category": "protein",
+        "offerId": 414,
+        "date": "2026-08-04",
+        "price": 999,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-whey-protein-powder-perform?variant=42440796209232",
+        "evidenceUrl": "https://web.archive.org/web/20260804200929id_/https://nakpro.com/products/nakpro-whey-protein-powder-perform",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42440796209232",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived unavailable quote implies over 100% change; corroboration required before using as a baseline."
+      }
+    },
+    {
+      "order": 1017,
+      "observation": {
+        "category": "protein",
+        "offerId": 415,
+        "date": "2026-08-04",
+        "price": 2099,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-whey-protein-powder-perform?variant=41056602423376",
+        "evidenceUrl": "https://web.archive.org/web/20260804200929id_/https://nakpro.com/products/nakpro-whey-protein-powder-perform",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "41056602423376",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2602,
+      "observation": {
+        "category": "protein",
+        "offerId": 413,
+        "date": "2026-10-25",
+        "price": 2299,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-whey-protein-powder-perform?variant=40889597100112",
+        "evidenceUrl": "https://nakpro.com/products/nakpro-whey-protein-powder-perform.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "40889597100112"
+      }
+    },
+    {
+      "order": 2603,
+      "observation": {
+        "category": "protein",
+        "offerId": 414,
+        "date": "2026-10-25",
+        "price": 2099,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-whey-protein-powder-perform?variant=42440796209232",
+        "evidenceUrl": "https://nakpro.com/products/nakpro-whey-protein-powder-perform.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "42440796209232"
+      }
+    },
+    {
+      "order": 2604,
+      "observation": {
+        "category": "protein",
+        "offerId": 415,
+        "date": "2026-10-25",
+        "price": 2299,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-whey-protein-powder-perform?variant=41056602423376",
+        "evidenceUrl": "https://nakpro.com/products/nakpro-whey-protein-powder-perform.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "41056602423376"
+      }
+    },
+    {
+      "order": 3282,
+      "observation": {
+        "category": "protein",
+        "offerId": 413,
+        "date": "2026-08-04",
+        "price": 2099,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-whey-protein-powder-perform?variant=40889597100112",
+        "evidenceUrl": "https://web.archive.org/web/20260804200929/https://nakpro.com/products/nakpro-whey-protein-powder-perform",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40889597100112",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3283,
+      "observation": {
+        "category": "protein",
+        "offerId": 414,
+        "date": "2026-08-04",
+        "price": 999,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-whey-protein-powder-perform?variant=42440796209232",
+        "evidenceUrl": "https://web.archive.org/web/20260804200929/https://nakpro.com/products/nakpro-whey-protein-powder-perform",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42440796209232",
+        "qualityStatus": "excluded",
+        "exclusionReason": "Archived unavailable quote implies over 100% change; corroboration required before using as a baseline."
+      }
+    },
+    {
+      "order": 3284,
+      "observation": {
+        "category": "protein",
+        "offerId": 415,
+        "date": "2026-08-04",
+        "price": 2099,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-whey-protein-powder-perform?variant=41056602423376",
+        "evidenceUrl": "https://web.archive.org/web/20260804200929/https://nakpro.com/products/nakpro-whey-protein-powder-perform",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "41056602423376",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 4460,
+      "observation": {
+        "category": "protein",
+        "offerId": 413,
+        "date": "2026-11-19",
+        "price": 2299,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-whey-protein-powder-perform?variant=40889597100112",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "40889597100112"
+      }
+    },
+    {
+      "order": 4461,
+      "observation": {
+        "category": "protein",
+        "offerId": 414,
+        "date": "2026-11-19",
+        "price": 2099,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-whey-protein-powder-perform?variant=42440796209232",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "42440796209232"
+      }
+    },
+    {
+      "order": 4462,
+      "observation": {
+        "category": "protein",
+        "offerId": 415,
+        "date": "2026-11-19",
+        "price": 2299,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-whey-protein-powder-perform?variant=41056602423376",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "41056602423376"
+      }
+    }
+  ],
+  "refreshSources": []
+}

@@ -1,0 +1,714 @@
+{
+  "schemaVersion": 1,
+  "category": "folic-acid",
+  "brand": "HK Vitals",
+  "product": "Multivitamin with Zinc & Vitamin C",
+  "variants": [
+    {
+      "order": 11,
+      "offer": {
+        "form": "Tablet",
+        "source": "Not specified",
+        "servingUnits": 1,
+        "product": "Multivitamin with Zinc & Vitamin C",
+        "type": "B-vitamin / Vitamin C / mineral combination",
+        "subclass": "Multivitamin with taurine and ginseng",
+        "vitaminB1Mg": 1.17,
+        "vitaminB2Mg": 1.9,
+        "vitaminB3Mg": 8.25,
+        "vitaminB5Mg": 0.4,
+        "vitaminB6Mg": 1.43,
+        "biotinMcg": 40,
+        "vitaminB12Mcg": 2.2,
+        "vitaminCMg": 65,
+        "vitaminDMcg": 7.5,
+        "vitaminEMg": 8,
+        "folicAcidMcg": 110,
+        "magnesiumMg": 7.03,
+        "zincMg": 5.49,
+        "taurineMg": 500,
+        "mineralBasis": "elemental",
+        "additionalIngredients": [
+          {
+            "name": "Vitamin A",
+            "amount": 840,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Iron",
+            "amount": 12.79,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Manganese",
+            "amount": 1.4,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Copper",
+            "amount": 0.59,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Iodine",
+            "amount": 93.34,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Chromium",
+            "amount": 33,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Selenium",
+            "amount": 10,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Soya protein hydrolysate",
+            "amount": 186.5,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Panax ginseng root extract (10% ginsenoside)",
+            "amount": 120,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "basis": "Official panel per one tablet (1.40 g): each B vitamin is recorded separately; Vitamin C 65 mg, folic acid 110 mcg, biotin 40 mcg and Vitamin D2 7.5 mcg.",
+        "notes": "This is a multivitamin combination, not a standalone C or B-complex product. The structured page trait says zinc 17 mg, but the detailed current panel says zinc 5.49 mg; the panel is used and this conflict is retained. Contains Vitamin D2, not D3. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+        "brand": "HK Vitals",
+        "id": "folic-acid-hkv-185014",
+        "packCount": 60,
+        "flavour": "Unflavoured",
+        "price": 399,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://www.hkvitals.com/sv/hk-vitals-multivitamin-with-zinc-n-vitamin-c/SP-99430?navKey=VRNT-185014",
+        "nutritionUrl": "https://img2.hkrtcdn.com/40250/prd_4024901-HK-Vitals-Multivitamin-with-Zinc-Vitamin-C-60-tablets-Unflavoured_o.jpg",
+        "labelSources": [
+          "https://www.hkvitals.com/sv/hk-vitals-multivitamin-with-zinc-n-vitamin-c/SP-99430?navKey=VRNT-185014",
+          "https://img2.hkrtcdn.com/40250/prd_4024901-HK-Vitals-Multivitamin-with-Zinc-Vitamin-C-60-tablets-Unflavoured_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "packaging": "Single retail pack (60 units)",
+        "sourceVariantId": "185014",
+        "sourceProductId": "99430",
+        "declaredNutrients": [
+          "folicAcidMcg"
+        ]
+      }
+    },
+    {
+      "order": 12,
+      "offer": {
+        "form": "Tablet",
+        "source": "Not specified",
+        "servingUnits": 1,
+        "product": "Multivitamin with Zinc & Vitamin C",
+        "type": "B-vitamin / Vitamin C / mineral combination",
+        "subclass": "Multivitamin with taurine and ginseng",
+        "vitaminB1Mg": 1.17,
+        "vitaminB2Mg": 1.9,
+        "vitaminB3Mg": 8.25,
+        "vitaminB5Mg": 0.4,
+        "vitaminB6Mg": 1.43,
+        "biotinMcg": 40,
+        "vitaminB12Mcg": 2.2,
+        "vitaminCMg": 65,
+        "vitaminDMcg": 7.5,
+        "vitaminEMg": 8,
+        "folicAcidMcg": 110,
+        "magnesiumMg": 7.03,
+        "zincMg": 5.49,
+        "taurineMg": 500,
+        "mineralBasis": "elemental",
+        "additionalIngredients": [
+          {
+            "name": "Vitamin A",
+            "amount": 840,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Iron",
+            "amount": 12.79,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Manganese",
+            "amount": 1.4,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Copper",
+            "amount": 0.59,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Iodine",
+            "amount": 93.34,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Chromium",
+            "amount": 33,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Selenium",
+            "amount": 10,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Soya protein hydrolysate",
+            "amount": 186.5,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Panax ginseng root extract (10% ginsenoside)",
+            "amount": 120,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "basis": "Official panel per one tablet (1.40 g): each B vitamin is recorded separately; Vitamin C 65 mg, folic acid 110 mcg, biotin 40 mcg and Vitamin D2 7.5 mcg.",
+        "notes": "This is a multivitamin combination, not a standalone C or B-complex product. The structured page trait says zinc 17 mg, but the detailed current panel says zinc 5.49 mg; the panel is used and this conflict is retained. Contains Vitamin D2, not D3. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+        "brand": "HK Vitals",
+        "id": "folic-acid-hkv-250147",
+        "packCount": 30,
+        "flavour": "Unflavoured",
+        "price": 289,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://www.hkvitals.com/sv/hk-vitals-multivitamin-with-zinc-n-vitamin-c/SP-99430?navKey=VRNT-250147",
+        "nutritionUrl": "https://img2.hkrtcdn.com/40250/prd_4024901-HK-Vitals-Multivitamin-with-Zinc-Vitamin-C-60-tablets-Unflavoured_o.jpg",
+        "labelSources": [
+          "https://www.hkvitals.com/sv/hk-vitals-multivitamin-with-zinc-n-vitamin-c/SP-99430?navKey=VRNT-250147",
+          "https://img2.hkrtcdn.com/40250/prd_4024901-HK-Vitals-Multivitamin-with-Zinc-Vitamin-C-60-tablets-Unflavoured_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "packaging": "Single retail pack (30 units)",
+        "sourceVariantId": "250147",
+        "sourceProductId": "99430",
+        "declaredNutrients": [
+          "folicAcidMcg"
+        ]
+      }
+    },
+    {
+      "order": 13,
+      "offer": {
+        "form": "Tablet",
+        "source": "Not specified",
+        "servingUnits": 1,
+        "product": "Multivitamin with Zinc & Vitamin C",
+        "type": "B-vitamin / Vitamin C / mineral combination",
+        "subclass": "Multivitamin with taurine and ginseng",
+        "vitaminB1Mg": 1.17,
+        "vitaminB2Mg": 1.9,
+        "vitaminB3Mg": 8.25,
+        "vitaminB5Mg": 0.4,
+        "vitaminB6Mg": 1.43,
+        "biotinMcg": 40,
+        "vitaminB12Mcg": 2.2,
+        "vitaminCMg": 65,
+        "vitaminDMcg": 7.5,
+        "vitaminEMg": 8,
+        "folicAcidMcg": 110,
+        "magnesiumMg": 7.03,
+        "zincMg": 5.49,
+        "taurineMg": 500,
+        "mineralBasis": "elemental",
+        "additionalIngredients": [
+          {
+            "name": "Vitamin A",
+            "amount": 840,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Iron",
+            "amount": 12.79,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Manganese",
+            "amount": 1.4,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Copper",
+            "amount": 0.59,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Iodine",
+            "amount": 93.34,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Chromium",
+            "amount": 33,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Selenium",
+            "amount": 10,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Soya protein hydrolysate",
+            "amount": 186.5,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Panax ginseng root extract (10% ginsenoside)",
+            "amount": 120,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "basis": "Official panel per one tablet (1.40 g): each B vitamin is recorded separately; Vitamin C 65 mg, folic acid 110 mcg, biotin 40 mcg and Vitamin D2 7.5 mcg.",
+        "notes": "This is a multivitamin combination, not a standalone C or B-complex product. The structured page trait says zinc 17 mg, but the detailed current panel says zinc 5.49 mg; the panel is used and this conflict is retained. Contains Vitamin D2, not D3. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+        "brand": "HK Vitals",
+        "id": "folic-acid-hkv-185534",
+        "packCount": 90,
+        "flavour": "Unflavoured",
+        "price": 539,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://www.hkvitals.com/sv/hk-vitals-multivitamin-with-zinc-n-vitamin-c/SP-99430?navKey=VRNT-185534",
+        "nutritionUrl": "https://img2.hkrtcdn.com/40250/prd_4024901-HK-Vitals-Multivitamin-with-Zinc-Vitamin-C-60-tablets-Unflavoured_o.jpg",
+        "labelSources": [
+          "https://www.hkvitals.com/sv/hk-vitals-multivitamin-with-zinc-n-vitamin-c/SP-99430?navKey=VRNT-185534",
+          "https://img2.hkrtcdn.com/40250/prd_4024901-HK-Vitals-Multivitamin-with-Zinc-Vitamin-C-60-tablets-Unflavoured_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "packaging": "Single retail pack (90 units)",
+        "sourceVariantId": "185534",
+        "sourceProductId": "99430",
+        "declaredNutrients": [
+          "folicAcidMcg"
+        ]
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5136,
+      "observation": {
+        "category": "folic-acid",
+        "offerId": "folic-acid-hkv-185014",
+        "date": "2026-11-19",
+        "price": 399,
+        "currency": "INR",
+        "sourceUrl": "https://www.hkvitals.com/sv/hk-vitals-multivitamin-with-zinc-n-vitamin-c/SP-99430?navKey=VRNT-185014",
+        "evidenceUrl": "https://www.hkvitals.com/sv/hk-vitals-multivitamin-with-zinc-n-vitamin-c/SP-99430?navKey=VRNT-185014",
+        "kind": "official-live",
+        "matchBasis": "Official HK Vitals SSR reviewData selected numeric variant 185014; explicit pack '60 tablet(s)', unconditional offer_pr INR and isPublish=true/oos=false. Excludes loyalty and coupon rewards.",
+        "variantId": "185014"
+      }
+    },
+    {
+      "order": 5139,
+      "observation": {
+        "category": "folic-acid",
+        "offerId": "folic-acid-hkv-250147",
+        "date": "2026-11-19",
+        "price": 289,
+        "currency": "INR",
+        "sourceUrl": "https://www.hkvitals.com/sv/hk-vitals-multivitamin-with-zinc-n-vitamin-c/SP-99430?navKey=VRNT-250147",
+        "evidenceUrl": "https://www.hkvitals.com/sv/hk-vitals-multivitamin-with-zinc-n-vitamin-c/SP-99430?navKey=VRNT-250147",
+        "kind": "official-live",
+        "matchBasis": "Official HK Vitals SSR reviewData selected numeric variant 250147; explicit pack '30 tablet(s)', unconditional offer_pr INR and isPublish=true/oos=false. Excludes loyalty and coupon rewards.",
+        "variantId": "250147"
+      }
+    },
+    {
+      "order": 5142,
+      "observation": {
+        "category": "folic-acid",
+        "offerId": "folic-acid-hkv-185534",
+        "date": "2026-11-19",
+        "price": 539,
+        "currency": "INR",
+        "sourceUrl": "https://www.hkvitals.com/sv/hk-vitals-multivitamin-with-zinc-n-vitamin-c/SP-99430?navKey=VRNT-185534",
+        "evidenceUrl": "https://www.hkvitals.com/sv/hk-vitals-multivitamin-with-zinc-n-vitamin-c/SP-99430?navKey=VRNT-185534",
+        "kind": "official-live",
+        "matchBasis": "Official HK Vitals SSR reviewData selected numeric variant 185534; explicit pack '90 tablet(s)', unconditional offer_pr INR and isPublish=true/oos=false. Excludes loyalty and coupon rewards.",
+        "variantId": "185534"
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 246,
+      "profile": {
+        "form": "Tablet",
+        "source": "Not specified",
+        "servingUnits": 1,
+        "product": "Multivitamin with Zinc & Vitamin C",
+        "type": "B-vitamin / Vitamin C / mineral combination",
+        "subclass": "Multivitamin with taurine and ginseng",
+        "vitaminB1Mg": 1.17,
+        "vitaminB2Mg": 1.9,
+        "vitaminB3Mg": 8.25,
+        "vitaminB5Mg": 0.4,
+        "vitaminB6Mg": 1.43,
+        "biotinMcg": 40,
+        "vitaminB12Mcg": 2.2,
+        "vitaminCMg": 65,
+        "vitaminDMcg": 7.5,
+        "vitaminEMg": 8,
+        "folicAcidMcg": 110,
+        "magnesiumMg": 7.03,
+        "zincMg": 5.49,
+        "taurineMg": 500,
+        "mineralBasis": "elemental",
+        "additionalIngredients": [
+          {
+            "name": "Vitamin A",
+            "amount": 840,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Iron",
+            "amount": 12.79,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Manganese",
+            "amount": 1.4,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Copper",
+            "amount": 0.59,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Iodine",
+            "amount": 93.34,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Chromium",
+            "amount": 33,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Selenium",
+            "amount": 10,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Soya protein hydrolysate",
+            "amount": 186.5,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Panax ginseng root extract (10% ginsenoside)",
+            "amount": 120,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "basis": "Official panel per one tablet (1.40 g): each B vitamin is recorded separately; Vitamin C 65 mg, folic acid 110 mcg, biotin 40 mcg and Vitamin D2 7.5 mcg.",
+        "notes": "This is a multivitamin combination, not a standalone C or B-complex product. The structured page trait says zinc 17 mg, but the detailed current panel says zinc 5.49 mg; the panel is used and this conflict is retained. Contains Vitamin D2, not D3. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+        "brand": "HK Vitals",
+        "id": "folic-acid-hkv-185014",
+        "packCount": 60,
+        "flavour": "Unflavoured",
+        "nutritionUrl": "https://img2.hkrtcdn.com/40250/prd_4024901-HK-Vitals-Multivitamin-with-Zinc-Vitamin-C-60-tablets-Unflavoured_o.jpg",
+        "labelSources": [
+          "https://www.hkvitals.com/sv/hk-vitals-multivitamin-with-zinc-n-vitamin-c/SP-99430?navKey=VRNT-185014",
+          "https://img2.hkrtcdn.com/40250/prd_4024901-HK-Vitals-Multivitamin-with-Zinc-Vitamin-C-60-tablets-Unflavoured_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "packaging": "Single retail pack (60 units)",
+        "sourceVariantId": "185014",
+        "sourceProductId": "99430",
+        "declaredNutrients": [
+          "folicAcidMcg"
+        ],
+        "category": "folic-acid",
+        "kind": "hk-product",
+        "base": "https://www.hkvitals.com",
+        "handle": "multivitamin-zinc-vitamin-c",
+        "productUrl": "https://www.hkvitals.com/sv/hk-vitals-multivitamin-with-zinc-n-vitamin-c/SP-99430?navKey=VRNT-185014",
+        "variantUrl": "https://www.hkvitals.com/sv/hk-vitals-multivitamin-with-zinc-n-vitamin-c/SP-99430?navKey=VRNT-185014",
+        "variantId": "185014",
+        "productId": 99430,
+        "sourceBrand": "HK Vitals",
+        "variantAttributes": {
+          "fn-att-quant": "60 tablet(s)",
+          "spc-att-flvr": "Unflavoured"
+        }
+      }
+    },
+    {
+      "order": 249,
+      "profile": {
+        "form": "Tablet",
+        "source": "Not specified",
+        "servingUnits": 1,
+        "product": "Multivitamin with Zinc & Vitamin C",
+        "type": "B-vitamin / Vitamin C / mineral combination",
+        "subclass": "Multivitamin with taurine and ginseng",
+        "vitaminB1Mg": 1.17,
+        "vitaminB2Mg": 1.9,
+        "vitaminB3Mg": 8.25,
+        "vitaminB5Mg": 0.4,
+        "vitaminB6Mg": 1.43,
+        "biotinMcg": 40,
+        "vitaminB12Mcg": 2.2,
+        "vitaminCMg": 65,
+        "vitaminDMcg": 7.5,
+        "vitaminEMg": 8,
+        "folicAcidMcg": 110,
+        "magnesiumMg": 7.03,
+        "zincMg": 5.49,
+        "taurineMg": 500,
+        "mineralBasis": "elemental",
+        "additionalIngredients": [
+          {
+            "name": "Vitamin A",
+            "amount": 840,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Iron",
+            "amount": 12.79,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Manganese",
+            "amount": 1.4,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Copper",
+            "amount": 0.59,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Iodine",
+            "amount": 93.34,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Chromium",
+            "amount": 33,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Selenium",
+            "amount": 10,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Soya protein hydrolysate",
+            "amount": 186.5,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Panax ginseng root extract (10% ginsenoside)",
+            "amount": 120,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "basis": "Official panel per one tablet (1.40 g): each B vitamin is recorded separately; Vitamin C 65 mg, folic acid 110 mcg, biotin 40 mcg and Vitamin D2 7.5 mcg.",
+        "notes": "This is a multivitamin combination, not a standalone C or B-complex product. The structured page trait says zinc 17 mg, but the detailed current panel says zinc 5.49 mg; the panel is used and this conflict is retained. Contains Vitamin D2, not D3. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+        "brand": "HK Vitals",
+        "id": "folic-acid-hkv-250147",
+        "packCount": 30,
+        "flavour": "Unflavoured",
+        "nutritionUrl": "https://img2.hkrtcdn.com/40250/prd_4024901-HK-Vitals-Multivitamin-with-Zinc-Vitamin-C-60-tablets-Unflavoured_o.jpg",
+        "labelSources": [
+          "https://www.hkvitals.com/sv/hk-vitals-multivitamin-with-zinc-n-vitamin-c/SP-99430?navKey=VRNT-250147",
+          "https://img2.hkrtcdn.com/40250/prd_4024901-HK-Vitals-Multivitamin-with-Zinc-Vitamin-C-60-tablets-Unflavoured_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "packaging": "Single retail pack (30 units)",
+        "sourceVariantId": "250147",
+        "sourceProductId": "99430",
+        "declaredNutrients": [
+          "folicAcidMcg"
+        ],
+        "category": "folic-acid",
+        "kind": "hk-product",
+        "base": "https://www.hkvitals.com",
+        "handle": "multivitamin-zinc-vitamin-c",
+        "productUrl": "https://www.hkvitals.com/sv/hk-vitals-multivitamin-with-zinc-n-vitamin-c/SP-99430?navKey=VRNT-250147",
+        "variantUrl": "https://www.hkvitals.com/sv/hk-vitals-multivitamin-with-zinc-n-vitamin-c/SP-99430?navKey=VRNT-250147",
+        "variantId": "250147",
+        "productId": 99430,
+        "sourceBrand": "HK Vitals",
+        "variantAttributes": {
+          "fn-att-quant": "30 tablet(s)",
+          "spc-att-flvr": "Unflavoured"
+        }
+      }
+    },
+    {
+      "order": 252,
+      "profile": {
+        "form": "Tablet",
+        "source": "Not specified",
+        "servingUnits": 1,
+        "product": "Multivitamin with Zinc & Vitamin C",
+        "type": "B-vitamin / Vitamin C / mineral combination",
+        "subclass": "Multivitamin with taurine and ginseng",
+        "vitaminB1Mg": 1.17,
+        "vitaminB2Mg": 1.9,
+        "vitaminB3Mg": 8.25,
+        "vitaminB5Mg": 0.4,
+        "vitaminB6Mg": 1.43,
+        "biotinMcg": 40,
+        "vitaminB12Mcg": 2.2,
+        "vitaminCMg": 65,
+        "vitaminDMcg": 7.5,
+        "vitaminEMg": 8,
+        "folicAcidMcg": 110,
+        "magnesiumMg": 7.03,
+        "zincMg": 5.49,
+        "taurineMg": 500,
+        "mineralBasis": "elemental",
+        "additionalIngredients": [
+          {
+            "name": "Vitamin A",
+            "amount": 840,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Iron",
+            "amount": 12.79,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Manganese",
+            "amount": 1.4,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Copper",
+            "amount": 0.59,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Iodine",
+            "amount": 93.34,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Chromium",
+            "amount": 33,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Selenium",
+            "amount": 10,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Soya protein hydrolysate",
+            "amount": 186.5,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Panax ginseng root extract (10% ginsenoside)",
+            "amount": 120,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "basis": "Official panel per one tablet (1.40 g): each B vitamin is recorded separately; Vitamin C 65 mg, folic acid 110 mcg, biotin 40 mcg and Vitamin D2 7.5 mcg.",
+        "notes": "This is a multivitamin combination, not a standalone C or B-complex product. The structured page trait says zinc 17 mg, but the detailed current panel says zinc 5.49 mg; the panel is used and this conflict is retained. Contains Vitamin D2, not D3. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+        "brand": "HK Vitals",
+        "id": "folic-acid-hkv-185534",
+        "packCount": 90,
+        "flavour": "Unflavoured",
+        "nutritionUrl": "https://img2.hkrtcdn.com/40250/prd_4024901-HK-Vitals-Multivitamin-with-Zinc-Vitamin-C-60-tablets-Unflavoured_o.jpg",
+        "labelSources": [
+          "https://www.hkvitals.com/sv/hk-vitals-multivitamin-with-zinc-n-vitamin-c/SP-99430?navKey=VRNT-185534",
+          "https://img2.hkrtcdn.com/40250/prd_4024901-HK-Vitals-Multivitamin-with-Zinc-Vitamin-C-60-tablets-Unflavoured_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "packaging": "Single retail pack (90 units)",
+        "sourceVariantId": "185534",
+        "sourceProductId": "99430",
+        "declaredNutrients": [
+          "folicAcidMcg"
+        ],
+        "category": "folic-acid",
+        "kind": "hk-product",
+        "base": "https://www.hkvitals.com",
+        "handle": "multivitamin-zinc-vitamin-c",
+        "productUrl": "https://www.hkvitals.com/sv/hk-vitals-multivitamin-with-zinc-n-vitamin-c/SP-99430?navKey=VRNT-185534",
+        "variantUrl": "https://www.hkvitals.com/sv/hk-vitals-multivitamin-with-zinc-n-vitamin-c/SP-99430?navKey=VRNT-185534",
+        "variantId": "185534",
+        "productId": 99430,
+        "sourceBrand": "HK Vitals",
+        "variantAttributes": {
+          "fn-att-quant": "90 tablet(s)",
+          "spc-att-flvr": "Unflavoured"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "category": "biotin",
+  "brand": "Naturaltein",
+  "product": "Sea Buckthorn + Biotin Gummies",
+  "variants": [
+    {
+      "order": 2,
+      "offer": {
+        "brand": "Naturaltein",
+        "product": "Sea Buckthorn + Biotin Gummies",
+        "form": "Gummy",
+        "type": "Biotin + sea buckthorn",
+        "subclass": "Gummy blend",
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official page states 40 mcg biotin per gummy and one gummy as the stated usage serving. Exact variants contain 30 or 60 gummies.",
+        "notes": "The 500 mg sea buckthorn extract is separate from the 40 mcg biotin payload. Ingredient quantities do not establish hair-growth benefit.",
+        "labelChecked": "2026-10-31",
+        "biotinMcg": 40,
+        "id": "biotin-44499512000595",
+        "packCount": 30,
+        "price": 699,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://naturaltein.in/products/sea-buckthorn-biotin-gummies?variant=44499512000595",
+        "nutritionUrl": "https://naturaltein.in/products/sea-buckthorn-biotin-gummies",
+        "flavour": "Flavour not verified",
+        "packaging": "Single retail pack",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://naturaltein.in/products/sea-buckthorn-biotin-gummies?variant=44499512000595",
+          "evidenceUrl": "https://naturaltein.in/products/sea-buckthorn-biotin-gummies.json",
+          "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+        }
+      }
+    },
+    {
+      "order": 3,
+      "offer": {
+        "brand": "Naturaltein",
+        "product": "Sea Buckthorn + Biotin Gummies",
+        "form": "Gummy",
+        "type": "Biotin + sea buckthorn",
+        "subclass": "Gummy blend",
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official page states 40 mcg biotin per gummy and one gummy as the stated usage serving. Exact variants contain 30 or 60 gummies.",
+        "notes": "The 500 mg sea buckthorn extract is separate from the 40 mcg biotin payload. Ingredient quantities do not establish hair-growth benefit.",
+        "labelChecked": "2026-10-31",
+        "biotinMcg": 40,
+        "id": "biotin-44499512033363",
+        "packCount": 60,
+        "price": 1299,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://naturaltein.in/products/sea-buckthorn-biotin-gummies?variant=44499512033363",
+        "nutritionUrl": "https://naturaltein.in/products/sea-buckthorn-biotin-gummies",
+        "flavour": "Flavour not verified",
+        "packaging": "Single retail pack",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://naturaltein.in/products/sea-buckthorn-biotin-gummies?variant=44499512033363",
+          "evidenceUrl": "https://naturaltein.in/products/sea-buckthorn-biotin-gummies.json",
+          "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3766,
+      "observation": {
+        "category": "biotin",
+        "offerId": "biotin-44499512000595",
+        "date": "2026-10-31",
+        "price": 699,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/sea-buckthorn-biotin-gummies?variant=44499512000595",
+        "evidenceUrl": "https://naturaltein.in/products/sea-buckthorn-biotin-gummies.json",
+        "kind": "official-live",
+        "variantId": "44499512000595",
+        "matchBasis": "Official Shopify product JSON exact variant ID; single-pack count verified. Availability separately checked against exact-variant official HTML structured data where available."
+      }
+    },
+    {
+      "order": 3767,
+      "observation": {
+        "category": "biotin",
+        "offerId": "biotin-44499512033363",
+        "date": "2026-10-31",
+        "price": 1299,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/sea-buckthorn-biotin-gummies?variant=44499512033363",
+        "evidenceUrl": "https://naturaltein.in/products/sea-buckthorn-biotin-gummies.json",
+        "kind": "official-live",
+        "variantId": "44499512033363",
+        "matchBasis": "Official Shopify product JSON exact variant ID; single-pack count verified. Availability separately checked against exact-variant official HTML structured data where available."
+      }
+    },
+    {
+      "order": 3923,
+      "observation": {
+        "category": "biotin",
+        "offerId": "biotin-44499512000595",
+        "date": "2026-11-19",
+        "price": 699,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/sea-buckthorn-biotin-gummies?variant=44499512000595",
+        "evidenceUrl": "https://naturaltein.in/products/sea-buckthorn-biotin-gummies.json",
+        "kind": "official-live",
+        "variantId": "44499512000595",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
+    },
+    {
+      "order": 3924,
+      "observation": {
+        "category": "biotin",
+        "offerId": "biotin-44499512033363",
+        "date": "2026-11-19",
+        "price": 1299,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/sea-buckthorn-biotin-gummies?variant=44499512033363",
+        "evidenceUrl": "https://naturaltein.in/products/sea-buckthorn-biotin-gummies.json",
+        "kind": "official-live",
+        "variantId": "44499512033363",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 54,
+      "profile": {
+        "category": "biotin",
+        "brand": "Naturaltein",
+        "base": "https://naturaltein.in",
+        "handle": "sea-buckthorn-biotin-gummies",
+        "product": "Sea Buckthorn + Biotin Gummies",
+        "form": "Gummy",
+        "type": "Biotin + sea buckthorn",
+        "subclass": "Gummy blend",
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official page states 40 mcg biotin per gummy and one gummy as the stated usage serving. Exact variants contain 30 or 60 gummies.",
+        "notes": "The 500 mg sea buckthorn extract is separate from the 40 mcg biotin payload. Ingredient quantities do not establish hair-growth benefit.",
+        "labelChecked": "2026-10-31",
+        "biotinMcg": 40
+      }
+    }
+  ]
+}

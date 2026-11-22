@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "order": 55,
+  "article": {
+    "id": "bcaa-recovery-claims",
+    "category": "bcaa",
+    "series": "practical-guides",
+    "title": "BCAAs for soreness and fasted training: which claims survive a closer look?",
+    "summary": "Separate discomfort, muscle-damage markers and later performance before buying a recovery drink.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "Recovery is used to describe several different things: feeling less sore, restoring strength, replenishing fuel, repairing tissue and adapting to training. A study showing one of those outcomes does not automatically prove the others. BCAA marketing often groups them together, particularly around fasted sessions or a difficult leg day. The useful approach is to identify which problem exists, examine the relevant experiment and check whether ordinary nutrition already addresses it.",
+    "sections": [
+      {
+        "id": "soreness-is-one-outcome",
+        "title": "Less soreness is not a complete recovery score",
+        "body": "A person can feel sore yet perform normally, or feel comfortable while a performance measure remains reduced. Blood markers, perceived soreness and force tests therefore answer different questions. If a product advertises recovery, find out which of these was actually measured and over what period. A questionnaire result after one unusual exercise bout cannot establish more productive training over a season. Equally, a genuine improvement in comfort may matter to a user without being presented as proof of muscle growth or repaired structural damage.",
+        "sourceIds": [
+          "pe-bcaa-soreness-2012",
+          "pe-bcaa-recovery-2017"
+        ]
+      },
+      {
+        "id": "read-damage-protocols",
+        "title": "Understand the exercise that produced the finding",
+        "body": "A small placebo-controlled study in resistance-trained men reported favourable changes in selected soreness, damage and function measures after a deliberately damaging exercise protocol. That is a specific experiment, not a prediction for every regular training session. Examine how demanding or unfamiliar the exercise was and how the participants were fed. The closer an advertisement moves from that controlled setting to a promise of effortless recovery after any workout, the more evidence is missing. An ingredient may be investigated usefully without becoming an obligatory daily recovery product.",
+        "sourceIds": [
+          "pe-bcaa-soreness-2012"
+        ]
+      },
+      {
+        "id": "mixed-recovery",
+        "title": "Check the complete pattern instead of a favourable marker",
+        "body": "Another small trial reported advantages in selected strength, jump and soreness measures after a hypertrophy exercise session. Such experiments can produce different patterns across perceived soreness, muscle function and biochemical markers. Read the original results rather than accepting a headline that treats recovery as a single variable. A study does not establish universal benefit merely because one measure changes, and absence of a detected difference in a small study is not proof of exact equivalence. The decision should reflect the particular outcome and the uncertainty around it.",
+        "sourceIds": [
+          "pe-bcaa-recovery-2017"
+        ]
+      },
+      {
+        "id": "fasted-does-not-diagnose",
+        "title": "Training before a meal does not diagnose a BCAA requirement",
+        "body": "A fasted session describes meal timing; it does not establish that the body uniquely needs three amino acids from a supplement. Consider the previous meal, the next meal and the total diet. An amino-acid drink also changes the nutritional exposure, regardless of whether someone chooses to describe it as compatible with a personal fasting practice. A study of protein immediately before versus after exercise cannot settle every fasting arrangement. Avoid turning a marketing window into an emergency or treating a drink as a substitute for planning recovery meals.",
+        "sourceIds": [
+          "protein-timing-schoenfeld-2017",
+          "food-performance-amino-acids"
+        ]
+      },
+      {
+        "id": "dietary-gap",
+        "title": "Check energy and complete protein before adding a subset",
+        "body": "A BCAA product cannot supply all the essential amino acids missing from an inadequate overall diet. Food, a suitable complete protein and other nutrition considerations may address a wider problem than an isolated subset. That does not mean every athlete needs powder, or that every food has identical composition. It means the existing intake needs assessment before an extra category is purchased. If recovery repeatedly feels poor, consider the training programme, rest and overall nutrition instead of assuming that a higher BCAA ratio is the missing solution.",
+        "sourceIds": [
+          "food-performance-protein",
+          "food-performance-amino-acids",
+          "exercise"
+        ]
+      },
+      {
+        "id": "track-relevant-change",
+        "title": "Choose an outcome that would matter in practice",
+        "body": "If a healthy adult elects to assess an optional product, define the intended outcome before interpreting day-to-day changes. Comfort, repeated training performance and tolerability are different observations. Changes in sleep, exercise novelty or training volume can also affect the result, making an uncontrolled personal comparison uncertain. A recovery claim should be judged over a relevant period rather than by taste or an immediate sensation. Persistent pain, marked weakness or symptoms suggesting injury warrant assessment; they should not be absorbed into a supplement experiment.",
+        "sourceIds": [
+          "pe-bcaa-soreness-2012",
+          "exercise"
+        ]
+      },
+      {
+        "id": "worth-paying",
+        "title": "A recovery premium needs more than a familiar ingredient",
+        "body": "Compare the full declared serving, co-ingredients, existing amino-acid overlap and quality documentation, then weigh the strength of the evidence against the price. A sport-specific routine with adequate food does not automatically benefit from another flavoured BCAA product. A small acute physiological effect does not by itself establish useful extra long-term progress. It is reasonable to value convenience while describing the reason honestly. When the purchase depends on guaranteed muscle protection or a compulsory fasted-workout rule, the claim is stronger than the supporting evidence.",
+        "sourceIds": [
+          "bcaa-trial",
+          "supplement-quality-ods",
+          "food-performance-protein"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "pe-bcaa-soreness-2012",
+      "pe-bcaa-recovery-2017",
+      "protein-timing-schoenfeld-2017",
+      "food-performance-amino-acids",
+      "food-performance-protein",
+      "exercise",
+      "bcaa-trial",
+      "supplement-quality-ods"
+    ]
+  }
+}

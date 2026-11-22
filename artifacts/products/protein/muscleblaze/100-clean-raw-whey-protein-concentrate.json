@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "MuscleBlaze",
+  "product": "100% Clean Raw Whey Protein Concentrate",
+  "variants": [
+    {
+      "order": 230,
+      "offer": {
+        "id": 230,
+        "brand": "MuscleBlaze",
+        "product": "100% Clean Raw Whey Protein Concentrate",
+        "type": "Whey — concentrate",
+        "flavour": "Unflavoured",
+        "kg": 1,
+        "price": 3499,
+        "stock": "In stock",
+        "protein": 80,
+        "scoop": 30,
+        "serving": 30,
+        "subclass": "Whey concentrate",
+        "energy": 395,
+        "url": "https://www.muscleblaze.com/sv/muscleblaze-100-clean-raw-whey-protein-concentrate/SP-40454?navKey=VRNT-77192",
+        "nutritionUrl": "https://www.muscleblaze.com/sv/muscleblaze-100-clean-raw-whey-protein-concentrate/SP-40454?navKey=VRNT-77192",
+        "basis": "Exact variant nutrition table, protein per 100g",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Exact page nutrition table, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-100-clean-raw-whey-protein-concentrate/SP-40454?navKey=VRNT-77192",
+          "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-100-clean-raw-whey-protein-concentrate/SP-40454?navKey=VRNT-77192",
+          "matchBasis": "Official selected product schema SKU matches exact navigation key"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 493,
+      "observation": {
+        "category": "protein",
+        "offerId": 230,
+        "date": "2026-08-08",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-100-clean-raw-whey-protein-concentrate/SP-40454?navKey=VRNT-77192",
+        "evidenceUrl": "https://web.archive.org/web/20260808101136id_/https://www.muscleblaze.com/sv/muscleblaze-100-clean-raw-whey-protein-concentrate/SP-40454?navKey=VRNT-77192",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "VRNT-77192",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2419,
+      "observation": {
+        "category": "protein",
+        "offerId": 230,
+        "date": "2026-10-25",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-100-clean-raw-whey-protein-concentrate/SP-40454?navKey=VRNT-77192",
+        "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-100-clean-raw-whey-protein-concentrate/SP-40454?navKey=VRNT-77192",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "VRNT-77192"
+      }
+    },
+    {
+      "order": 4278,
+      "observation": {
+        "category": "protein",
+        "offerId": 230,
+        "date": "2026-11-19",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-100-clean-raw-whey-protein-concentrate/SP-40454?navKey=VRNT-77192",
+        "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-100-clean-raw-whey-protein-concentrate/SP-40454?navKey=VRNT-77192",
+        "kind": "official-live",
+        "matchBasis": "Official selected product schema SKU matches exact navigation key",
+        "variantId": "VRNT-77192"
+      }
+    }
+  ],
+  "refreshSources": []
+}

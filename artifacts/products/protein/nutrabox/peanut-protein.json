@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "Nutrabox",
+  "product": "Peanut Protein",
+  "variants": [
+    {
+      "order": 587,
+      "offer": {
+        "id": 587,
+        "brand": "Nutrabox",
+        "product": "Peanut Protein",
+        "type": "Plant — pea",
+        "flavour": "Chocolate",
+        "kg": 1,
+        "price": 1799,
+        "stock": "In stock",
+        "protein": 69.44444444444444,
+        "scoop": 36,
+        "serving": 36,
+        "subclass": "Plant concentrate / powder",
+        "energy": null,
+        "url": "https://nutrabox.in/products/best-vegan-protein-powder-for-weight-loss?variant=45807370043566",
+        "nutritionUrl": "https://nutrabox.in/products/best-vegan-protein-powder-for-weight-loss?variant=45807370043566",
+        "basis": "25g protein / 36g scoop; brand description",
+        "notes": "Brand product-page serving basis; flavour-specific label values may vary. Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nutrabox.in/products/best-vegan-protein-powder-for-weight-loss?variant=45807370043566",
+          "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 2776,
+      "observation": {
+        "category": "protein",
+        "offerId": 587,
+        "date": "2026-10-25",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/best-vegan-protein-powder-for-weight-loss?variant=45807370043566",
+        "evidenceUrl": "https://nutrabox.in/products/best-vegan-protein-powder-for-weight-loss.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "45807370043566"
+      }
+    },
+    {
+      "order": 4634,
+      "observation": {
+        "category": "protein",
+        "offerId": 587,
+        "date": "2026-11-19",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/best-vegan-protein-powder-for-weight-loss?variant=45807370043566",
+        "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "45807370043566"
+      }
+    }
+  ],
+  "refreshSources": []
+}

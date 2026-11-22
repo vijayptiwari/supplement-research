@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "category": "vitamin-b",
+  "brand": "HealthyHey",
+  "product": "Vitamin B1 Thiamine",
+  "variants": [
+    {
+      "order": 3,
+      "offer": {
+        "brand": "HealthyHey",
+        "product": "Vitamin B1 Thiamine",
+        "form": "Capsule",
+        "type": "Thiamine mononitrate (B1)",
+        "subclass": "Individual B vitamin",
+        "packCount": 120,
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official product listing states 120 capsules and one-capsule directions. A front-label thiamine-mononitrate mass is not substituted for verified vitamin B1 content.",
+        "notes": "Vitamin B1 amount remains unverified; chemical salt mass is not assumed to be the active vitamin equivalent. Current product JSON does not establish stock; availability should be confirmed.",
+        "labelChecked": "2026-10-31",
+        "declaredNutrients": [
+          "vitaminB1Mg"
+        ],
+        "flavour": "Unflavoured",
+        "vitaminB1Mg": null,
+        "vitaminB2Mg": null,
+        "vitaminB3Mg": null,
+        "vitaminB5Mg": null,
+        "vitaminB6Mg": null,
+        "biotinMcg": null,
+        "vitaminB12Mcg": null,
+        "folicAcidMcg": null,
+        "folateMcgDfe": null,
+        "methylfolateMcg": null,
+        "id": "vitamin-b-44683676385565",
+        "price": 549,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-b1-thiamine-120-veg-capsules?variant=44683676385565",
+        "nutritionUrl": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-b1-thiamine-120-veg-capsules",
+        "packaging": "Single retail pack",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-b1-thiamine-120-veg-capsules?variant=44683676385565",
+          "evidenceUrl": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-b1-thiamine-120-veg-capsules.json",
+          "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3783,
+      "observation": {
+        "category": "vitamin-b",
+        "offerId": "vitamin-b-44683676385565",
+        "date": "2026-10-31",
+        "price": 483,
+        "currency": "INR",
+        "sourceUrl": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-b1-thiamine-120-veg-capsules?variant=44683676385565",
+        "evidenceUrl": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-b1-thiamine-120-veg-capsules.json",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify product variant ID, price and single retail-pack count verified; quantities come from separately cited label evidence.",
+        "variantId": "44683676385565"
+      }
+    },
+    {
+      "order": 3939,
+      "observation": {
+        "category": "vitamin-b",
+        "offerId": "vitamin-b-44683676385565",
+        "date": "2026-11-19",
+        "price": 549,
+        "currency": "INR",
+        "sourceUrl": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-b1-thiamine-120-veg-capsules?variant=44683676385565",
+        "evidenceUrl": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-b1-thiamine-120-veg-capsules.json",
+        "kind": "official-live",
+        "variantId": "44683676385565",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 67,
+      "profile": {
+        "category": "vitamin-b",
+        "brand": "HealthyHey",
+        "base": "https://healthyhey.com",
+        "handle": "healthyhey-nutrition-vitamin-b1-thiamine-120-veg-capsules",
+        "product": "Vitamin B1 Thiamine",
+        "form": "Capsule",
+        "type": "Thiamine mononitrate (B1)",
+        "subclass": "Individual B vitamin",
+        "packCount": 120,
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official product listing states 120 capsules and one-capsule directions. A front-label thiamine-mononitrate mass is not substituted for verified vitamin B1 content.",
+        "notes": "Vitamin B1 amount remains unverified; chemical salt mass is not assumed to be the active vitamin equivalent.",
+        "labelChecked": "2026-10-31",
+        "declaredNutrients": [
+          "vitaminB1Mg"
+        ],
+        "flavour": "Unflavoured",
+        "vitaminB1Mg": null,
+        "vitaminB2Mg": null,
+        "vitaminB3Mg": null,
+        "vitaminB5Mg": null,
+        "vitaminB6Mg": null,
+        "biotinMcg": null,
+        "vitaminB12Mcg": null,
+        "folicAcidMcg": null,
+        "folateMcgDfe": null,
+        "methylfolateMcg": null
+      }
+    }
+  ]
+}

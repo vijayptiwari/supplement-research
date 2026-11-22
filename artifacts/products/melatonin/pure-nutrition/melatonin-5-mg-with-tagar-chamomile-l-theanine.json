@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "category": "melatonin",
+  "brand": "Pure Nutrition",
+  "product": "Melatonin 5 mg with Tagar, Chamomile & L-Theanine",
+  "variants": [
+    {
+      "order": 9,
+      "offer": {
+        "brand": "Pure Nutrition",
+        "product": "Melatonin 5 mg with Tagar, Chamomile & L-Theanine",
+        "form": "Tablet",
+        "type": "Melatonin + botanicals + amino acids",
+        "subclass": "Multi-ingredient blend",
+        "packCount": 120,
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official description says each tablet combines the ingredients, including melatonin 5 mg. Usage states one tablet; product title states 120 tablets.",
+        "notes": "Contains additional botanicals, amino acids and vitamin B6. The visible page contains both Sold out and Add to cart text; stock should be confirmed.",
+        "labelChecked": "2026-10-31",
+        "melatoninMg": 5,
+        "id": "melatonin-48545853800702",
+        "price": 593,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://purenutrition.in/products/pure-nutrition-melatonin-with-tagar-chamomile-l-theanine-120-veg-tablets-copy?variant=48545853800702",
+        "nutritionUrl": "https://purenutrition.in/products/pure-nutrition-melatonin-with-tagar-chamomile-l-theanine-120-veg-tablets-copy",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://purenutrition.in/products/pure-nutrition-melatonin-with-tagar-chamomile-l-theanine-120-veg-tablets-copy?variant=48545853800702",
+          "evidenceUrl": "https://purenutrition.in/products/pure-nutrition-melatonin-with-tagar-chamomile-l-theanine-120-veg-tablets-copy.json",
+          "matchBasis": "Official public Shopify product; exact variant ID 48545853800702 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3760,
+      "observation": {
+        "category": "melatonin",
+        "offerId": "melatonin-48545853800702",
+        "date": "2026-10-29",
+        "price": 593,
+        "currency": "INR",
+        "sourceUrl": "https://purenutrition.in/products/pure-nutrition-melatonin-with-tagar-chamomile-l-theanine-120-veg-tablets-copy?variant=48545853800702",
+        "evidenceUrl": "https://purenutrition.in/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "48545853800702"
+      }
+    },
+    {
+      "order": 3883,
+      "observation": {
+        "category": "melatonin",
+        "offerId": "melatonin-48545853800702",
+        "date": "2026-11-19",
+        "price": 593,
+        "currency": "INR",
+        "sourceUrl": "https://purenutrition.in/products/pure-nutrition-melatonin-with-tagar-chamomile-l-theanine-120-veg-tablets-copy?variant=48545853800702",
+        "evidenceUrl": "https://purenutrition.in/products/pure-nutrition-melatonin-with-tagar-chamomile-l-theanine-120-veg-tablets-copy.json",
+        "kind": "official-live",
+        "variantId": "48545853800702",
+        "matchBasis": "Official public Shopify product; exact variant ID 48545853800702 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 50,
+      "profile": {
+        "category": "melatonin",
+        "brand": "Pure Nutrition",
+        "base": "https://purenutrition.in",
+        "handle": "pure-nutrition-melatonin-with-tagar-chamomile-l-theanine-120-veg-tablets-copy",
+        "product": "Melatonin 5 mg with Tagar, Chamomile & L-Theanine",
+        "form": "Tablet",
+        "type": "Melatonin + botanicals + amino acids",
+        "subclass": "Multi-ingredient blend",
+        "packCount": 120,
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official description says each tablet combines the ingredients, including melatonin 5 mg. Usage states one tablet; product title states 120 tablets.",
+        "notes": "Contains additional botanicals, amino acids and vitamin B6. The visible page contains both Sold out and Add to cart text; stock should be confirmed.",
+        "labelChecked": "2026-10-31",
+        "melatoninMg": 5
+      }
+    }
+  ]
+}

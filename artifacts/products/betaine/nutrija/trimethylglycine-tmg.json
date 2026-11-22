@@ -1,0 +1,200 @@
+{
+  "schemaVersion": 1,
+  "category": "betaine",
+  "brand": "NutriJa",
+  "product": "Trimethylglycine (TMG)",
+  "variants": [
+    {
+      "order": 2,
+      "offer": {
+        "brand": "NutriJa",
+        "product": "Trimethylglycine (TMG)",
+        "form": "Powder",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "packCount": null,
+        "servingUnits": null,
+        "grams": 100,
+        "flavour": "Unflavoured",
+        "labelChecked": "2026-11-19",
+        "nutritionUrl": "https://nutrija.com/trimethylglycine-tmg",
+        "labelSources": [
+          "https://nutrija.com/trimethylglycine-tmg"
+        ],
+        "energyPerServing": null,
+        "servingGrams": 1,
+        "type": "Betaine anhydrous (TMG)",
+        "subclass": "Single ingredient trimethylglycine powder",
+        "betaineMg": 1000,
+        "betaineHclMg": null,
+        "basis": "Official supplement-facts table states 1/2 teaspoon (1000 mg), with 1000 mg trimethylglycine (betaine anhydrous) per serving. Net weight comes from the selected size option.",
+        "notes": "TMG/betaine anhydrous is not betaine HCl. An old linked certificate or protein nitrogen assay is not used as proof of current TMG potency. Energy is unverified. Official exact child finalPrice is published inclusive of tax in INR, but child-level availability is absent from public configurable data; stock must be confirmed.",
+        "declaredNutrients": [
+          "betaineMg"
+        ],
+        "id": "betaine-nutrija-136",
+        "price": 450.01,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://nutrija.com/trimethylglycine-tmg?super_attribute%5B140%5D=8"
+      }
+    },
+    {
+      "order": 3,
+      "offer": {
+        "brand": "NutriJa",
+        "product": "Trimethylglycine (TMG)",
+        "form": "Powder",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "packCount": null,
+        "servingUnits": null,
+        "grams": 250,
+        "flavour": "Unflavoured",
+        "labelChecked": "2026-11-19",
+        "nutritionUrl": "https://nutrija.com/trimethylglycine-tmg",
+        "labelSources": [
+          "https://nutrija.com/trimethylglycine-tmg"
+        ],
+        "energyPerServing": null,
+        "servingGrams": 1,
+        "type": "Betaine anhydrous (TMG)",
+        "subclass": "Single ingredient trimethylglycine powder",
+        "betaineMg": 1000,
+        "betaineHclMg": null,
+        "basis": "Official supplement-facts table states 1/2 teaspoon (1000 mg), with 1000 mg trimethylglycine (betaine anhydrous) per serving. Net weight comes from the selected size option.",
+        "notes": "TMG/betaine anhydrous is not betaine HCl. An old linked certificate or protein nitrogen assay is not used as proof of current TMG potency. Energy is unverified. Official exact child finalPrice is published inclusive of tax in INR, but child-level availability is absent from public configurable data; stock must be confirmed.",
+        "declaredNutrients": [
+          "betaineMg"
+        ],
+        "id": "betaine-nutrija-1786",
+        "price": 1013.04,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://nutrija.com/trimethylglycine-tmg?super_attribute%5B140%5D=12"
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 4054,
+      "observation": {
+        "category": "betaine",
+        "offerId": "betaine-nutrija-136",
+        "date": "2026-11-19",
+        "price": 450.01,
+        "currency": "INR",
+        "sourceUrl": "https://nutrija.com/trimethylglycine-tmg?super_attribute%5B140%5D=8",
+        "evidenceUrl": "https://nutrija.com/trimethylglycine-tmg",
+        "kind": "official-live",
+        "variantId": "136",
+        "matchBasis": "Official Magento Product.Config fetched 2026-11-19; all exact size/flavour attribute option intersections identify one child ID; that child finalPrice is positive and tax-inclusive in the INR rupee template. Child stock not exposed and not inferred."
+      }
+    },
+    {
+      "order": 4055,
+      "observation": {
+        "category": "betaine",
+        "offerId": "betaine-nutrija-1786",
+        "date": "2026-11-19",
+        "price": 1013.04,
+        "currency": "INR",
+        "sourceUrl": "https://nutrija.com/trimethylglycine-tmg?super_attribute%5B140%5D=12",
+        "evidenceUrl": "https://nutrija.com/trimethylglycine-tmg",
+        "kind": "official-live",
+        "variantId": "1786",
+        "matchBasis": "Official Magento Product.Config fetched 2026-11-19; all exact size/flavour attribute option intersections identify one child ID; that child finalPrice is positive and tax-inclusive in the INR rupee template. Child stock not exposed and not inferred."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 189,
+      "profile": {
+        "category": "betaine",
+        "brand": "NutriJa",
+        "base": "https://nutrija.com",
+        "kind": "magento-configurable",
+        "productUrl": "https://nutrija.com/trimethylglycine-tmg",
+        "variantId": "136",
+        "variantIds": [
+          "136"
+        ],
+        "variantOptions": {
+          "140": "8"
+        },
+        "cacheKey": "nutrija-betaine",
+        "product": "Trimethylglycine (TMG)",
+        "form": "Powder",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "packCount": null,
+        "servingUnits": null,
+        "grams": 100,
+        "flavour": "Unflavoured",
+        "labelChecked": "2026-11-19",
+        "nutritionUrl": "https://nutrija.com/trimethylglycine-tmg",
+        "labelSources": [
+          "https://nutrija.com/trimethylglycine-tmg"
+        ],
+        "energyPerServing": null,
+        "servingGrams": 1,
+        "type": "Betaine anhydrous (TMG)",
+        "subclass": "Single ingredient trimethylglycine powder",
+        "betaineMg": 1000,
+        "betaineHclMg": null,
+        "basis": "Official supplement-facts table states 1/2 teaspoon (1000 mg), with 1000 mg trimethylglycine (betaine anhydrous) per serving. Net weight comes from the selected size option.",
+        "notes": "TMG/betaine anhydrous is not betaine HCl. An old linked certificate or protein nitrogen assay is not used as proof of current TMG potency. Energy is unverified. Official exact child finalPrice is published inclusive of tax in INR, but child-level availability is absent from public configurable data; stock must be confirmed.",
+        "declaredNutrients": [
+          "betaineMg"
+        ],
+        "variantUrl": "https://nutrija.com/trimethylglycine-tmg?super_attribute%5B140%5D=8",
+        "id": "betaine-nutrija-136"
+      }
+    },
+    {
+      "order": 190,
+      "profile": {
+        "category": "betaine",
+        "brand": "NutriJa",
+        "base": "https://nutrija.com",
+        "kind": "magento-configurable",
+        "productUrl": "https://nutrija.com/trimethylglycine-tmg",
+        "variantId": "1786",
+        "variantIds": [
+          "1786"
+        ],
+        "variantOptions": {
+          "140": "12"
+        },
+        "cacheKey": "nutrija-betaine",
+        "product": "Trimethylglycine (TMG)",
+        "form": "Powder",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "packCount": null,
+        "servingUnits": null,
+        "grams": 250,
+        "flavour": "Unflavoured",
+        "labelChecked": "2026-11-19",
+        "nutritionUrl": "https://nutrija.com/trimethylglycine-tmg",
+        "labelSources": [
+          "https://nutrija.com/trimethylglycine-tmg"
+        ],
+        "energyPerServing": null,
+        "servingGrams": 1,
+        "type": "Betaine anhydrous (TMG)",
+        "subclass": "Single ingredient trimethylglycine powder",
+        "betaineMg": 1000,
+        "betaineHclMg": null,
+        "basis": "Official supplement-facts table states 1/2 teaspoon (1000 mg), with 1000 mg trimethylglycine (betaine anhydrous) per serving. Net weight comes from the selected size option.",
+        "notes": "TMG/betaine anhydrous is not betaine HCl. An old linked certificate or protein nitrogen assay is not used as proof of current TMG potency. Energy is unverified. Official exact child finalPrice is published inclusive of tax in INR, but child-level availability is absent from public configurable data; stock must be confirmed.",
+        "declaredNutrients": [
+          "betaineMg"
+        ],
+        "variantUrl": "https://nutrija.com/trimethylglycine-tmg?super_attribute%5B140%5D=12",
+        "id": "betaine-nutrija-1786"
+      }
+    }
+  ]
+}

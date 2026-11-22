@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "category": "creatine",
+  "brand": "Wellbeing Nutrition",
+  "product": "Creatine Monohydrate",
+  "variants": [
+    {
+      "order": 179,
+      "offer": {
+        "id": "cr-179",
+        "brand": "Wellbeing Nutrition",
+        "product": "Creatine Monohydrate",
+        "type": "Monohydrate",
+        "subclass": "Micronized",
+        "grade": "Not specified",
+        "formulation": "With taurine",
+        "packaging": "Standard pack",
+        "flavour": "Unflavoured",
+        "grams": 100,
+        "kg": 0.1,
+        "price": 549,
+        "stock": "In stock",
+        "creatine": 90.90909090909092,
+        "scoop": 3.3,
+        "serving": 3.3,
+        "creatineServing": 3,
+        "energy": 0,
+        "url": "https://wellbeingnutrition.com/products/creatine-monohydrate-unflavored?variant=40976650076240",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0240/2942/9840/files/BOP_b8231213-2d66-4139-a664-8fcde2b3b0cc.jpg?v=1764746597",
+        "basis": "Official product label, visually verified: named creatine compound quantity; per100g stated or calculated from serving.",
+        "notes": "Contains 300mg taurine as well as monohydrate. Verified label establishes the serving weight. 3g monohydrate and 0.3g taurine per approximate 3.3g scoop.",
+        "energyBasis": "Official label per100g energy or serving kcal × 100 / serving grams.",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://wellbeingnutrition.com/products/creatine-monohydrate-unflavored?variant=40976650076240",
+          "evidenceUrl": "https://wellbeingnutrition.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3172,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-179",
+        "date": "2026-10-25",
+        "price": 494,
+        "currency": "INR",
+        "sourceUrl": "https://wellbeingnutrition.com/products/creatine-monohydrate-unflavored?variant=40976650076240",
+        "evidenceUrl": "https://wellbeingnutrition.com/products/creatine-monohydrate-unflavored.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "40976650076240"
+      }
+    },
+    {
+      "order": 5032,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-179",
+        "date": "2026-11-19",
+        "price": 549,
+        "currency": "INR",
+        "sourceUrl": "https://wellbeingnutrition.com/products/creatine-monohydrate-unflavored?variant=40976650076240",
+        "evidenceUrl": "https://wellbeingnutrition.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "40976650076240"
+      }
+    }
+  ],
+  "refreshSources": []
+}

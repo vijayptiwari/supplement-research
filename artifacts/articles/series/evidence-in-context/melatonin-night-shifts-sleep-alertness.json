@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "order": 13,
+  "article": {
+    "id": "melatonin-night-shifts-sleep-alertness",
+    "category": "melatonin",
+    "series": "evidence-in-context",
+    "title": "Melatonin for night shifts: better sleep is not the same as safer alertness",
+    "summary": "Shift-worker trials measure several different problems. Current guidance and contrasting field studies explain why a daytime sleep aid is not a solution for every overnight worker.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "A night worker may need help sleeping after work, staying alert during work, or returning to nighttime sleep on days off. Those are three different goals. A single instruction to take melatonin for shifts hides the distinction, and may ignore the drive home, childcare and a rotating roster. The human evidence is more useful when those details stay visible. Some experiments found better sleep measures; others found little benefit, and better sleep did not consistently translate into better performance on the next shift. The question is how melatonin fits a defined sleep problem, rather than whether it can make an inconvenient work schedule biologically harmless.",
+    "sections": [
+      {
+        "id": "two-jobs-for-melatonin",
+        "title": "Sleep promotion and clock shifting are related but different",
+        "body": "Melatonin is a signal associated with biological night. An external preparation can promote sleepiness and, depending on timing, influence the circadian clock. A person sleeping after a night shift is therefore not asking the same question as someone taking a product before their usual nighttime bedtime. The same clock time can also mean different biological times for different people. That is why a label's serving size cannot supply a universal schedule for rotating workers. A real plan needs the pattern of work and sleep as well as the intended goal. Increasing the amount because one attempt did not help ignores the possibility that timing, sleep opportunity or the underlying problem was the main issue.",
+        "sourceIds": [
+          "melatonin-overview",
+          "synth-melatonin-aasm-shift-guideline-2026"
+        ]
+      },
+      {
+        "id": "current-guideline",
+        "title": "The 2026 guideline is conditional, rather than a blanket endorsement",
+        "body": "The AASM's 2026 shift-work-disorder guideline conditionally suggests melatonin for selected sleep disturbances, including daytime sleep after a night shift and the transition back to nighttime sleep. The certainty of evidence differs by question and is low or very low for these uses. Conditional means the patient's circumstances and preferences matter; it is not a recommendation that all shift workers take the product. The guideline also separates sleep disturbance from excessive sleepiness and circadian adaptation. This structure is useful for readers because it prevents a limited sleep recommendation from becoming a claim about alertness, accident prevention or long-term protection from the health consequences of night work. A symptom-targeted option can be reasonable while those larger outcomes remain unproven.",
+        "sourceIds": [
+          "synth-melatonin-aasm-shift-guideline-2026",
+          "synth-melatonin-aasm-shift-review-2026"
+        ]
+      },
+      {
+        "id": "small-nurse-trial",
+        "title": "In nurses, more sleep did not establish better performance",
+        "body": "A small crossover experiment in twelve night-shift nurses examined morning melatonin, with and without reduced sunlight exposure. Sleep time increased modestly, but the changes in night alertness were limited and performance tests did not show a clear improvement. The study is valuable precisely because it measured both sleep and later function. It demonstrates why one cannot assume the second from the first. It was also very small and used short observation periods, so it cannot predict an individual worker's response or establish a safe driving window. A headline that says melatonin helps night workers would lose the most useful information: which part of their problem appeared to improve, and which part did not.",
+        "sourceIds": [
+          "synth-melatonin-nurses-2002"
+        ]
+      },
+      {
+        "id": "null-emergency-trial",
+        "title": "Emergency physicians did not get the same reassuring result",
+        "body": "A randomized double-blind crossover study in fifteen emergency physicians tested melatonin after consecutive night shifts. It found no clear benefit for the measured sleep, tiredness or neuropsychological outcomes. A negative trial of this size does not prove that no worker can benefit, but it deserves space alongside positive studies. The work pattern, population and opportunity for sleep can change the result. A hospital shift is also more complex than a quiet laboratory sleep period. Reading the field trials together supports a modest expectation: some people may obtain a sleep-related benefit in the appropriate setting, while a reliable improvement in recovery and on-duty function has not been demonstrated across all real-world work patterns.",
+        "sourceIds": [
+          "synth-melatonin-emergency-1998",
+          "synth-melatonin-nurses-2002"
+        ]
+      },
+      {
+        "id": "positive-field-trial-context",
+        "title": "Even a positive field trial needs its sleep period identified",
+        "body": "A later crossover field trial selected shift workers who had difficulty falling asleep. Thirty-nine participants completed the short study periods. Melatonin improved sleep-onset latency and sleep efficiency, while total sleep time and wakefulness after sleep onset did not clearly improve. Importantly, the study assessed nighttime sleep in shift workers; it should not be described as direct proof of better daytime sleep after every overnight shift. The distinction seems small until someone uses the result to choose a schedule. Shift worker is a description of employment, not a complete description of the sleep intervention. A useful article should identify whether the experiment concerned daytime recovery, nighttime sleep between work periods, or a planned nap before work.",
+        "sourceIds": [
+          "synth-melatonin-shift-field-2016"
+        ]
+      },
+      {
+        "id": "safety-sensitive-work",
+        "title": "A sleep-promoting effect can create a competing safety problem",
+        "body": "An intervention intended to make someone sleepy needs particular care around driving, machinery and work that demands sustained attention. The current guideline explicitly recognises possible temporary sleepiness and impaired performance with melatonin. This is not a reason to dismiss its sleep effects; it is a reason to consider when those effects occur and whether protected sleep time is available. A commute after a night shift, responsibility for a child, or an unexpected call back to work changes the decision. There is no universal interval in these studies that guarantees safety for every preparation and person. A plan that improves a sleep measure while leaving someone impaired at the wrong time has not solved the practical problem.",
+        "sourceIds": [
+          "synth-melatonin-aasm-shift-guideline-2026",
+          "melatonin-overview"
+        ]
+      },
+      {
+        "id": "formulation-and-quality",
+        "title": "A trial ingredient and a shop product may not provide the same exposure",
+        "body": "Analytical studies of sampled commercial melatonin products have found substantial disagreement between labelled and measured content. One Canadian study also detected serotonin in some products; a separate US gummy survey found label discrepancies. These studies do not establish the composition of every Indian product, but they show why an exact number on a label is not always sufficient evidence of exact exposure. Release characteristics and additional sedating ingredients can further complicate the comparison. When evaluating a product, look for transparent formulation and credible quality documentation for that product. A larger serving or a blend marketed as stronger does not establish a more appropriate option for a worker whose main problem is the alignment of sleep and work.",
+        "sourceIds": [
+          "well-melatonin-quality",
+          "well-melatonin-gummies",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "broader-work-plan",
+        "title": "Start with the roster, the symptom and the sleep opportunity",
+        "body": "Before choosing a product, identify what is failing: insufficient time available for sleep, inability to sleep during that time, excessive sleepiness at work, or another condition such as sleep apnoea. A supplement cannot create protected time in a schedule. The AASM review evaluates sleep, light, behavioural and other approaches separately, and notes that long-term health outcomes need more study. Persistent or hazardous sleepiness warrants a clinical assessment, especially if symptoms are being covered with repeated sedatives and stimulants. Melatonin may be one targeted tool in a wider plan. Its value is best judged against the specific problem it can plausibly improve, rather than the promise that a night worker can buy normal recovery in a bottle.",
+        "sourceIds": [
+          "synth-melatonin-aasm-shift-guideline-2026",
+          "synth-melatonin-aasm-shift-review-2026",
+          "melatonin-overview"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "melatonin-overview",
+      "synth-melatonin-aasm-shift-guideline-2026",
+      "synth-melatonin-aasm-shift-review-2026",
+      "synth-melatonin-nurses-2002",
+      "synth-melatonin-emergency-1998",
+      "synth-melatonin-shift-field-2016",
+      "well-melatonin-quality",
+      "well-melatonin-gummies",
+      "supplement-quality-ods"
+    ],
+    "evidenceNotes": [
+      {
+        "finding": "Morning melatonin modestly increased sleep but did not clearly improve measured night-shift performance.",
+        "sourceIds": [
+          "synth-melatonin-nurses-2002"
+        ],
+        "design": "Small repeated crossover field experiment.",
+        "population": "Twelve night-shift nurses.",
+        "outcome": "Sleep duration, alertness and performance tests.",
+        "limits": "Very small sample and short periods; no reliable individual accident-risk or driving-safety estimate."
+      },
+      {
+        "finding": "A physician field trial did not demonstrate improved recovery from night-shift work.",
+        "sourceIds": [
+          "synth-melatonin-emergency-1998"
+        ],
+        "design": "Randomized double-blind placebo-controlled crossover study.",
+        "population": "Fifteen emergency physicians working consecutive night shifts.",
+        "outcome": "Sleep quality, tiredness and neuropsychological measures.",
+        "limits": "Small occupational sample and a specific schedule; does not exclude benefit in other sleep contexts."
+      }
+    ]
+  }
+}

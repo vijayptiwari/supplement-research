@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "Muscle Nectar",
+  "product": "Raw Whey Protein Concentrate - 24g Protein with Digestive Enzymes",
+  "variants": [
+    {
+      "order": 227,
+      "offer": {
+        "id": 227,
+        "brand": "Muscle Nectar",
+        "product": "Raw Whey Protein Concentrate - 24g Protein with Digestive Enzymes",
+        "type": "Whey — concentrate",
+        "flavour": "Unflavoured",
+        "kg": 1,
+        "price": 2899,
+        "stock": "In stock",
+        "protein": 80,
+        "scoop": 30,
+        "serving": 30,
+        "subclass": "Whey concentrate",
+        "energy": null,
+        "url": "https://musclenectar.com/products/raw-whey-protein-concentrate-24g-protein-digestive-enzymes?variant=42046177050850",
+        "nutritionUrl": "https://musclenectar.com/products/raw-whey-protein-concentrate-24g-protein-digestive-enzymes?variant=42046177050850",
+        "basis": "24g protein / 30g serving; brand description",
+        "notes": "Brand product-page serving basis; flavour-specific label values may vary. Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://musclenectar.com/products/raw-whey-protein-concentrate-24g-protein-digestive-enzymes?variant=42046177050850",
+          "evidenceUrl": "https://musclenectar.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 228,
+      "offer": {
+        "id": 228,
+        "brand": "Muscle Nectar",
+        "product": "Raw Whey Protein Concentrate - 24g Protein with Digestive Enzymes",
+        "type": "Whey — concentrate",
+        "flavour": "Unflavoured",
+        "kg": 2,
+        "price": 5699,
+        "stock": "In stock",
+        "protein": 80,
+        "scoop": 30,
+        "serving": 30,
+        "subclass": "Whey concentrate",
+        "energy": null,
+        "url": "https://musclenectar.com/products/raw-whey-protein-concentrate-24g-protein-digestive-enzymes?variant=48062396793058",
+        "nutritionUrl": "https://musclenectar.com/products/raw-whey-protein-concentrate-24g-protein-digestive-enzymes?variant=48062396793058",
+        "basis": "24g protein / 30g serving; brand description",
+        "notes": "Brand product-page serving basis; flavour-specific label values may vary. Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://musclenectar.com/products/raw-whey-protein-concentrate-24g-protein-digestive-enzymes?variant=48062396793058",
+          "evidenceUrl": "https://musclenectar.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 229,
+      "offer": {
+        "id": 229,
+        "brand": "Muscle Nectar",
+        "product": "Raw Whey Protein Concentrate - 24g Protein with Digestive Enzymes",
+        "type": "Whey — concentrate",
+        "flavour": "Unflavoured",
+        "kg": 4,
+        "price": 11299,
+        "stock": "In stock",
+        "protein": 80,
+        "scoop": 30,
+        "serving": 30,
+        "subclass": "Whey concentrate",
+        "energy": null,
+        "url": "https://musclenectar.com/products/raw-whey-protein-concentrate-24g-protein-digestive-enzymes?variant=48062400168162",
+        "nutritionUrl": "https://musclenectar.com/products/raw-whey-protein-concentrate-24g-protein-digestive-enzymes?variant=48062400168162",
+        "basis": "24g protein / 30g serving; brand description",
+        "notes": "Brand product-page serving basis; flavour-specific label values may vary. Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://musclenectar.com/products/raw-whey-protein-concentrate-24g-protein-digestive-enzymes?variant=48062400168162",
+          "evidenceUrl": "https://musclenectar.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 2416,
+      "observation": {
+        "category": "protein",
+        "offerId": 227,
+        "date": "2026-10-25",
+        "price": 2899,
+        "currency": "INR",
+        "sourceUrl": "https://musclenectar.com/products/raw-whey-protein-concentrate-24g-protein-digestive-enzymes?variant=42046177050850",
+        "evidenceUrl": "https://musclenectar.com/products/raw-whey-protein-concentrate-24g-protein-digestive-enzymes.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "42046177050850"
+      }
+    },
+    {
+      "order": 2417,
+      "observation": {
+        "category": "protein",
+        "offerId": 228,
+        "date": "2026-10-25",
+        "price": 5749,
+        "currency": "INR",
+        "sourceUrl": "https://musclenectar.com/products/raw-whey-protein-concentrate-24g-protein-digestive-enzymes?variant=48062396793058",
+        "evidenceUrl": "https://musclenectar.com/products/raw-whey-protein-concentrate-24g-protein-digestive-enzymes.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "48062396793058"
+      }
+    },
+    {
+      "order": 2418,
+      "observation": {
+        "category": "protein",
+        "offerId": 229,
+        "date": "2026-10-25",
+        "price": 11449,
+        "currency": "INR",
+        "sourceUrl": "https://musclenectar.com/products/raw-whey-protein-concentrate-24g-protein-digestive-enzymes?variant=48062400168162",
+        "evidenceUrl": "https://musclenectar.com/products/raw-whey-protein-concentrate-24g-protein-digestive-enzymes.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "48062400168162"
+      }
+    },
+    {
+      "order": 4275,
+      "observation": {
+        "category": "protein",
+        "offerId": 227,
+        "date": "2026-11-19",
+        "price": 2899,
+        "currency": "INR",
+        "sourceUrl": "https://musclenectar.com/products/raw-whey-protein-concentrate-24g-protein-digestive-enzymes?variant=42046177050850",
+        "evidenceUrl": "https://musclenectar.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "42046177050850"
+      }
+    },
+    {
+      "order": 4276,
+      "observation": {
+        "category": "protein",
+        "offerId": 228,
+        "date": "2026-11-19",
+        "price": 5699,
+        "currency": "INR",
+        "sourceUrl": "https://musclenectar.com/products/raw-whey-protein-concentrate-24g-protein-digestive-enzymes?variant=48062396793058",
+        "evidenceUrl": "https://musclenectar.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "48062396793058"
+      }
+    },
+    {
+      "order": 4277,
+      "observation": {
+        "category": "protein",
+        "offerId": 229,
+        "date": "2026-11-19",
+        "price": 11299,
+        "currency": "INR",
+        "sourceUrl": "https://musclenectar.com/products/raw-whey-protein-concentrate-24g-protein-digestive-enzymes?variant=48062400168162",
+        "evidenceUrl": "https://musclenectar.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "48062400168162"
+      }
+    }
+  ],
+  "refreshSources": []
+}

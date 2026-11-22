@@ -1,0 +1,192 @@
+{
+  "schemaVersion": 1,
+  "category": "bcaa",
+  "brand": "MuscleBlaze",
+  "product": "BCAA Pro (7 g BCAA)",
+  "variants": [
+    {
+      "order": 8,
+      "offer": {
+        "id": "bcaa-hk-78301",
+        "brand": "MuscleBlaze",
+        "product": "BCAA Pro (7 g BCAA)",
+        "form": "Powder",
+        "type": "BCAA 2:1:1",
+        "subclass": "BCAA + glutamine + citrulline malate",
+        "flavour": "Watermelon",
+        "packaging": "Single retail pack",
+        "price": 2099,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://www.muscleblaze.com/sv/muscleblaze-bcaa-pro-essential-amino-acids/SP-43236?navKey=VRNT-78301",
+        "nutritionUrl": "https://img6.hkrtcdn.com/30269/prd_3026865-MuscleBlaze-BCAA-Pro-Essential-Amino-Acids-0.99-lb-30-Servings-Watermelon_o.jpg",
+        "labelSources": [
+          "https://www.muscleblaze.com/sv/muscleblaze-bcaa-pro-essential-amino-acids/SP-43236?navKey=VRNT-78301",
+          "https://img6.hkrtcdn.com/30269/prd_3026865-MuscleBlaze-BCAA-Pro-Essential-Amino-Acids-0.99-lb-30-Servings-Watermelon_o.jpg",
+          "https://img8.hkrtcdn.com/30269/prd_3026857-MuscleBlaze-BCAA-Pro-Essential-Amino-Acids-0.99-lb-30-Servings-Watermelon_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "78301",
+        "sourceProductId": "43236",
+        "source": "Not specified",
+        "notes": "This 450 g legacy formulation has a 15 g serving. It is kept separate from the 240 g BCAA PRO + ELECTROLYTES formulation (8 g serving/5 g BCAA).",
+        "basis": "Exact official brand selected variant. The linked current product gallery nutrition panel was individually reviewed; amounts are per stated label serving. Product claims are manufacturer declarations, not independent assay results.",
+        "energyPerServing": 6.8,
+        "bcaaMg": 7000,
+        "leucineMg": 3500,
+        "isoleucineMg": 1750,
+        "valineMg": 1750,
+        "grams": 450,
+        "packCount": null,
+        "servingGrams": 15,
+        "additionalIngredients": [
+          {
+            "name": "L-glutamine",
+            "amount": 2500,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "L-citrulline DL-malate",
+            "amount": 1000,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "Electrolyte compound blend",
+            "amount": 1168,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "Sodium",
+            "amount": 232,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "Potassium",
+            "amount": 182,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          }
+        ],
+        "declaredNutrients": [
+          "bcaaMg",
+          "leucineMg",
+          "isoleucineMg",
+          "valineMg"
+        ]
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5179,
+      "observation": {
+        "category": "bcaa",
+        "offerId": "bcaa-hk-78301",
+        "date": "2026-11-19",
+        "price": 2099,
+        "currency": "INR",
+        "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-bcaa-pro-essential-amino-acids/SP-43236?navKey=VRNT-78301",
+        "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-bcaa-pro-essential-amino-acids/SP-43236?navKey=VRNT-78301",
+        "kind": "official-live",
+        "variantId": "78301",
+        "matchBasis": "Official selected numeric variant 78301 and SP-43236 matched to exact flavour/pack attributes; unconditional INR offer_pr, is_published=true and variant oos checked; no coupon or loyalty prices."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 288,
+      "profile": {
+        "id": "bcaa-hk-78301",
+        "brand": "MuscleBlaze",
+        "product": "BCAA Pro (7 g BCAA)",
+        "form": "Powder",
+        "type": "BCAA 2:1:1",
+        "subclass": "BCAA + glutamine + citrulline malate",
+        "flavour": "Watermelon",
+        "packaging": "Single retail pack",
+        "currency": "INR",
+        "nutritionUrl": "https://img6.hkrtcdn.com/30269/prd_3026865-MuscleBlaze-BCAA-Pro-Essential-Amino-Acids-0.99-lb-30-Servings-Watermelon_o.jpg",
+        "labelSources": [
+          "https://www.muscleblaze.com/sv/muscleblaze-bcaa-pro-essential-amino-acids/SP-43236?navKey=VRNT-78301",
+          "https://img6.hkrtcdn.com/30269/prd_3026865-MuscleBlaze-BCAA-Pro-Essential-Amino-Acids-0.99-lb-30-Servings-Watermelon_o.jpg",
+          "https://img8.hkrtcdn.com/30269/prd_3026857-MuscleBlaze-BCAA-Pro-Essential-Amino-Acids-0.99-lb-30-Servings-Watermelon_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "source": "Not specified",
+        "notes": "This 450 g legacy formulation has a 15 g serving. It is kept separate from the 240 g BCAA PRO + ELECTROLYTES formulation (8 g serving/5 g BCAA).",
+        "basis": "Exact official brand selected variant. The linked current product gallery nutrition panel was individually reviewed; amounts are per stated label serving. Product claims are manufacturer declarations, not independent assay results.",
+        "energyPerServing": 6.8,
+        "bcaaMg": 7000,
+        "leucineMg": 3500,
+        "isoleucineMg": 1750,
+        "valineMg": 1750,
+        "grams": 450,
+        "packCount": null,
+        "servingGrams": 15,
+        "additionalIngredients": [
+          {
+            "name": "L-glutamine",
+            "amount": 2500,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "L-citrulline DL-malate",
+            "amount": 1000,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "Electrolyte compound blend",
+            "amount": 1168,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "Sodium",
+            "amount": 232,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "Potassium",
+            "amount": 182,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          }
+        ],
+        "declaredNutrients": [
+          "bcaaMg",
+          "leucineMg",
+          "isoleucineMg",
+          "valineMg"
+        ],
+        "category": "bcaa",
+        "kind": "hk-product",
+        "base": "https://www.muscleblaze.com",
+        "productUrl": "https://www.muscleblaze.com/sv/muscleblaze-bcaa-pro-essential-amino-acids/SP-43236?navKey=VRNT-78301",
+        "variantUrl": "https://www.muscleblaze.com/sv/muscleblaze-bcaa-pro-essential-amino-acids/SP-43236?navKey=VRNT-78301",
+        "variantId": "78301",
+        "productId": "43236",
+        "sourceBrand": "MuscleBlaze",
+        "variantAttributes": {
+          "sn-bca-flv": "Watermelon",
+          "gen-pro-siz": "0.99 lb",
+          "sn-ser-pack": "30 Servings"
+        },
+        "cacheKey": "hk-performance-78301",
+        "packSizeLabel": "0.99 lb",
+        "netWeightEvidenceUrl": "https://img8.hkrtcdn.com/30269/prd_3026857-MuscleBlaze-BCAA-Pro-Essential-Amino-Acids-0.99-lb-30-Servings-Watermelon_o.jpg",
+        "netWeightEvidenceGrams": 450,
+        "netWeightEvidenceChecked": "2026-11-19"
+      }
+    }
+  ]
+}

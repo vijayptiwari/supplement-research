@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 1,
+  "category": "eaa",
+  "brand": "MuscleBlaze",
+  "product": "EAA 6000",
+  "variants": [
+    {
+      "order": 7,
+      "offer": {
+        "id": "eaa-hk-232239",
+        "brand": "MuscleBlaze",
+        "product": "EAA 6000",
+        "form": "Powder",
+        "type": "Nine-amino-acid mixture",
+        "subclass": "EAA + electrolytes",
+        "flavour": "Lemonade",
+        "packaging": "Single retail pack",
+        "price": 1119,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://www.muscleblaze.com/sv/muscleblaze-eaa-6000/SP-120129?navKey=VRNT-232239",
+        "nutritionUrl": "https://img4.hkrtcdn.com/29755/prd_2975493-MuscleBlaze-EAA-6000-Lemonade-0.55-lb-25-Servings_o.jpg",
+        "labelSources": [
+          "https://www.muscleblaze.com/sv/muscleblaze-eaa-6000/SP-120129?navKey=VRNT-232239",
+          "https://img4.hkrtcdn.com/29755/prd_2975493-MuscleBlaze-EAA-6000-Lemonade-0.55-lb-25-Servings_o.jpg",
+          "https://img2.hkrtcdn.com/29756/prd_2975501-MuscleBlaze-EAA-6000-Lemonade-0.55-lb-25-Servings_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "232239",
+        "sourceProductId": "120129",
+        "source": "Not specified",
+        "notes": "Marketing names an 6,000 mg EAA dose, but the nine individual amino-acid amounts on the current panel sum to 6,100 mg including DL-methionine. Total EAA payload therefore remains unknown pending clarification; clearly declared BCAA components remain recorded. Ratio claims do not establish an assay.",
+        "basis": "Exact official brand selected variant. The linked current product gallery nutrition panel was individually reviewed; amounts are per stated label serving. Product claims are manufacturer declarations, not independent assay results.",
+        "energyPerServing": 7.75,
+        "eaaMg": null,
+        "bcaaMg": 5000,
+        "leucineMg": 2500,
+        "isoleucineMg": 1250,
+        "valineMg": 1250,
+        "grams": 250,
+        "packCount": null,
+        "servingGrams": 10.5,
+        "additionalIngredients": [
+          {
+            "name": "L-lysine",
+            "amount": 300,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "L-threonine",
+            "amount": 300,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "L-phenylalanine",
+            "amount": 150,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "L-histidine",
+            "amount": 100,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "L-tryptophan",
+            "amount": 100,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "DL-methionine",
+            "amount": 50,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "Coconut water powder",
+            "amount": 300,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "Electrolyte compound blend",
+            "amount": 500,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "BioPerine black pepper extract",
+            "amount": 5,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          }
+        ],
+        "declaredNutrients": [
+          "eaaMg",
+          "bcaaMg",
+          "leucineMg",
+          "isoleucineMg",
+          "valineMg"
+        ]
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5183,
+      "observation": {
+        "category": "eaa",
+        "offerId": "eaa-hk-232239",
+        "date": "2026-11-19",
+        "price": 1119,
+        "currency": "INR",
+        "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-eaa-6000/SP-120129?navKey=VRNT-232239",
+        "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-eaa-6000/SP-120129?navKey=VRNT-232239",
+        "kind": "official-live",
+        "variantId": "232239",
+        "matchBasis": "Official selected numeric variant 232239 and SP-120129 matched to exact flavour/pack attributes; unconditional INR offer_pr, is_published=true and variant oos checked; no coupon or loyalty prices."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 292,
+      "profile": {
+        "id": "eaa-hk-232239",
+        "brand": "MuscleBlaze",
+        "product": "EAA 6000",
+        "form": "Powder",
+        "type": "Nine-amino-acid mixture",
+        "subclass": "EAA + electrolytes",
+        "flavour": "Lemonade",
+        "packaging": "Single retail pack",
+        "currency": "INR",
+        "nutritionUrl": "https://img4.hkrtcdn.com/29755/prd_2975493-MuscleBlaze-EAA-6000-Lemonade-0.55-lb-25-Servings_o.jpg",
+        "labelSources": [
+          "https://www.muscleblaze.com/sv/muscleblaze-eaa-6000/SP-120129?navKey=VRNT-232239",
+          "https://img4.hkrtcdn.com/29755/prd_2975493-MuscleBlaze-EAA-6000-Lemonade-0.55-lb-25-Servings_o.jpg",
+          "https://img2.hkrtcdn.com/29756/prd_2975501-MuscleBlaze-EAA-6000-Lemonade-0.55-lb-25-Servings_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "source": "Not specified",
+        "notes": "Marketing names an 6,000 mg EAA dose, but the nine individual amino-acid amounts on the current panel sum to 6,100 mg including DL-methionine. Total EAA payload therefore remains unknown pending clarification; clearly declared BCAA components remain recorded. Ratio claims do not establish an assay.",
+        "basis": "Exact official brand selected variant. The linked current product gallery nutrition panel was individually reviewed; amounts are per stated label serving. Product claims are manufacturer declarations, not independent assay results.",
+        "energyPerServing": 7.75,
+        "eaaMg": null,
+        "bcaaMg": 5000,
+        "leucineMg": 2500,
+        "isoleucineMg": 1250,
+        "valineMg": 1250,
+        "grams": 250,
+        "packCount": null,
+        "servingGrams": 10.5,
+        "additionalIngredients": [
+          {
+            "name": "L-lysine",
+            "amount": 300,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "L-threonine",
+            "amount": 300,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "L-phenylalanine",
+            "amount": 150,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "L-histidine",
+            "amount": 100,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "L-tryptophan",
+            "amount": 100,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "DL-methionine",
+            "amount": 50,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "Coconut water powder",
+            "amount": 300,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "Electrolyte compound blend",
+            "amount": 500,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "BioPerine black pepper extract",
+            "amount": 5,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          }
+        ],
+        "declaredNutrients": [
+          "eaaMg",
+          "bcaaMg",
+          "leucineMg",
+          "isoleucineMg",
+          "valineMg"
+        ],
+        "category": "eaa",
+        "kind": "hk-product",
+        "base": "https://www.muscleblaze.com",
+        "productUrl": "https://www.muscleblaze.com/sv/muscleblaze-eaa-6000/SP-120129?navKey=VRNT-232239",
+        "variantUrl": "https://www.muscleblaze.com/sv/muscleblaze-eaa-6000/SP-120129?navKey=VRNT-232239",
+        "variantId": "232239",
+        "productId": "120129",
+        "sourceBrand": "MuscleBlaze",
+        "variantAttributes": {
+          "sn-bca-flv": "Lemonade",
+          "gen-pro-siz": "0.55 lb",
+          "sn-ser-pack": "23 Servings"
+        },
+        "cacheKey": "hk-performance-232239",
+        "packSizeLabel": "0.55 lb",
+        "netWeightEvidenceUrl": "https://img2.hkrtcdn.com/29756/prd_2975501-MuscleBlaze-EAA-6000-Lemonade-0.55-lb-25-Servings_o.jpg",
+        "netWeightEvidenceGrams": 250,
+        "netWeightEvidenceChecked": "2026-11-19"
+      }
+    }
+  ]
+}

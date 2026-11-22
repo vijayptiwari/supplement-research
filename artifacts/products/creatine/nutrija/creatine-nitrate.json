@@ -1,0 +1,449 @@
+{
+  "schemaVersion": 1,
+  "category": "creatine",
+  "brand": "NutriJa",
+  "product": "Creatine Nitrate",
+  "variants": [
+    {
+      "order": 173,
+      "offer": {
+        "id": "cr-173",
+        "brand": "NutriJa",
+        "product": "Creatine Nitrate",
+        "type": "Nitrate",
+        "subclass": "Not specified",
+        "grade": "Not specified",
+        "formulation": "Single ingredient",
+        "packaging": "Standard pack",
+        "flavour": "Unflavoured",
+        "grams": 100,
+        "kg": 0.1,
+        "price": 787.51,
+        "stock": "Listed; confirm stock",
+        "creatine": 100,
+        "scoop": null,
+        "serving": 2,
+        "creatineServing": 2,
+        "energy": null,
+        "url": "https://nutrija.com/creatine-nitrate",
+        "nutritionUrl": "https://nutrija.com/creatine-nitrate",
+        "basis": "Official supplement facts: 2g of the named creatine compound in a 2g serving.",
+        "notes": "Exact child finalPrice used, including paise; headline price is rounded. Select the stated pack size on the source page. Compound mass includes the HCl/nitrate portion; not free-creatine mass. Brand separately describes nitrate as 67% creatine and 33% nitrate.",
+        "energyBasis": "",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nutrija.com/creatine-nitrate",
+          "evidenceUrl": "https://nutrija.com/creatine-nitrate",
+          "matchBasis": "Official Magento size option matched to child product finalPrice; tax-inclusive INR configuration"
+        }
+      }
+    },
+    {
+      "order": 174,
+      "offer": {
+        "id": "cr-174",
+        "brand": "NutriJa",
+        "product": "Creatine Nitrate",
+        "type": "Nitrate",
+        "subclass": "Not specified",
+        "grade": "Not specified",
+        "formulation": "Single ingredient",
+        "packaging": "Standard pack",
+        "flavour": "Unflavoured",
+        "grams": 200,
+        "kg": 0.2,
+        "price": 1590.06,
+        "stock": "Listed; confirm stock",
+        "creatine": 100,
+        "scoop": null,
+        "serving": 2,
+        "creatineServing": 2,
+        "energy": null,
+        "url": "https://nutrija.com/creatine-nitrate",
+        "nutritionUrl": "https://nutrija.com/creatine-nitrate",
+        "basis": "Official supplement facts: 2g of the named creatine compound in a 2g serving.",
+        "notes": "Exact child finalPrice used, including paise; headline price is rounded. Select the stated pack size on the source page. Compound mass includes the HCl/nitrate portion; not free-creatine mass. Brand separately describes nitrate as 67% creatine and 33% nitrate.",
+        "energyBasis": "",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nutrija.com/creatine-nitrate",
+          "evidenceUrl": "https://nutrija.com/creatine-nitrate",
+          "matchBasis": "Official Magento size option matched to child product finalPrice; tax-inclusive INR configuration"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 2162,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-173",
+        "date": "2023-12-16",
+        "price": 699.95,
+        "currency": "INR",
+        "sourceUrl": "https://nutrija.com/creatine-nitrate",
+        "evidenceUrl": "https://web.archive.org/web/20231216161245/https://nutrija.com/creatine-nitrate",
+        "kind": "official-archive",
+        "matchBasis": "Exact configured pack weight and child finalPrice",
+        "variantId": "186",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2163,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-174",
+        "date": "2023-12-16",
+        "price": 1272.85,
+        "currency": "INR",
+        "sourceUrl": "https://nutrija.com/creatine-nitrate",
+        "evidenceUrl": "https://web.archive.org/web/20231216161245/https://nutrija.com/creatine-nitrate",
+        "kind": "official-archive",
+        "matchBasis": "Exact configured pack weight and child finalPrice",
+        "variantId": "187",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2164,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-173",
+        "date": "2024-04-21",
+        "price": 699.95,
+        "currency": "INR",
+        "sourceUrl": "https://nutrija.com/creatine-nitrate",
+        "evidenceUrl": "https://web.archive.org/web/20240421121531id_/https://nutrija.com/creatine-nitrate",
+        "kind": "official-archive",
+        "matchBasis": "Exact configured pack weight and child finalPrice",
+        "variantId": "186",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2165,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-174",
+        "date": "2024-04-21",
+        "price": 1272.89,
+        "currency": "INR",
+        "sourceUrl": "https://nutrija.com/creatine-nitrate",
+        "evidenceUrl": "https://web.archive.org/web/20240421121531id_/https://nutrija.com/creatine-nitrate",
+        "kind": "official-archive",
+        "matchBasis": "Exact configured pack weight and child finalPrice",
+        "variantId": "187",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2166,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-173",
+        "date": "2024-08-11",
+        "price": 629.96,
+        "currency": "INR",
+        "sourceUrl": "https://nutrija.com/creatine-nitrate",
+        "evidenceUrl": "https://web.archive.org/web/20240811095119id_/https://nutrija.com/creatine-nitrate",
+        "kind": "official-archive",
+        "matchBasis": "Exact configured pack weight and child finalPrice",
+        "variantId": "186",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2167,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-174",
+        "date": "2024-08-11",
+        "price": 1131.47,
+        "currency": "INR",
+        "sourceUrl": "https://nutrija.com/creatine-nitrate",
+        "evidenceUrl": "https://web.archive.org/web/20240811095119id_/https://nutrija.com/creatine-nitrate",
+        "kind": "official-archive",
+        "matchBasis": "Exact configured pack weight and child finalPrice",
+        "variantId": "187",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2168,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-173",
+        "date": "2024-11-01",
+        "price": 699.95,
+        "currency": "INR",
+        "sourceUrl": "https://nutrija.com/creatine-nitrate",
+        "evidenceUrl": "https://web.archive.org/web/20241101235031id_/https://nutrija.com/creatine-nitrate",
+        "kind": "official-archive",
+        "matchBasis": "Exact configured pack weight and child finalPrice",
+        "variantId": "186",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2169,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-174",
+        "date": "2024-11-01",
+        "price": 1272.92,
+        "currency": "INR",
+        "sourceUrl": "https://nutrija.com/creatine-nitrate",
+        "evidenceUrl": "https://web.archive.org/web/20241101235031id_/https://nutrija.com/creatine-nitrate",
+        "kind": "official-archive",
+        "matchBasis": "Exact configured pack weight and child finalPrice",
+        "variantId": "187",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2170,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-173",
+        "date": "2025-03-17",
+        "price": 629.96,
+        "currency": "INR",
+        "sourceUrl": "https://nutrija.com/creatine-nitrate",
+        "evidenceUrl": "https://web.archive.org/web/20250317184513id_/https://nutrija.com/creatine-nitrate",
+        "kind": "official-archive",
+        "matchBasis": "Exact configured pack weight and child finalPrice",
+        "variantId": "186",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2171,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-174",
+        "date": "2025-03-17",
+        "price": 1272.96,
+        "currency": "INR",
+        "sourceUrl": "https://nutrija.com/creatine-nitrate",
+        "evidenceUrl": "https://web.archive.org/web/20250317184513id_/https://nutrija.com/creatine-nitrate",
+        "kind": "official-archive",
+        "matchBasis": "Exact configured pack weight and child finalPrice",
+        "variantId": "187",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2172,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-173",
+        "date": "2025-06-17",
+        "price": 699.95,
+        "currency": "INR",
+        "sourceUrl": "https://nutrija.com/creatine-nitrate",
+        "evidenceUrl": "https://web.archive.org/web/20250617181448id_/https://nutrija.com/creatine-nitrate",
+        "kind": "official-archive",
+        "matchBasis": "Exact configured pack weight and child finalPrice",
+        "variantId": "186",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2173,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-174",
+        "date": "2025-06-17",
+        "price": 1432.08,
+        "currency": "INR",
+        "sourceUrl": "https://nutrija.com/creatine-nitrate",
+        "evidenceUrl": "https://web.archive.org/web/20250617181448id_/https://nutrija.com/creatine-nitrate",
+        "kind": "official-archive",
+        "matchBasis": "Exact configured pack weight and child finalPrice",
+        "variantId": "187",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2174,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-173",
+        "date": "2025-10-15",
+        "price": 699.96,
+        "currency": "INR",
+        "sourceUrl": "https://nutrija.com/creatine-nitrate",
+        "evidenceUrl": "https://web.archive.org/web/20251015154356id_/https://nutrija.com/creatine-nitrate",
+        "kind": "official-archive",
+        "matchBasis": "Exact configured pack weight and child finalPrice",
+        "variantId": "186",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2175,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-174",
+        "date": "2025-10-15",
+        "price": 1432.1,
+        "currency": "INR",
+        "sourceUrl": "https://nutrija.com/creatine-nitrate",
+        "evidenceUrl": "https://web.archive.org/web/20251015154356id_/https://nutrija.com/creatine-nitrate",
+        "kind": "official-archive",
+        "matchBasis": "Exact configured pack weight and child finalPrice",
+        "variantId": "187",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2176,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-173",
+        "date": "2026-01-21",
+        "price": 699.97,
+        "currency": "INR",
+        "sourceUrl": "https://nutrija.com/creatine-nitrate",
+        "evidenceUrl": "https://web.archive.org/web/20260121200258id_/https://nutrija.com/creatine-nitrate",
+        "kind": "official-archive",
+        "matchBasis": "Exact configured pack weight and child finalPrice",
+        "variantId": "186",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2177,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-174",
+        "date": "2026-01-21",
+        "price": 1432.12,
+        "currency": "INR",
+        "sourceUrl": "https://nutrija.com/creatine-nitrate",
+        "evidenceUrl": "https://web.archive.org/web/20260121200258id_/https://nutrija.com/creatine-nitrate",
+        "kind": "official-archive",
+        "matchBasis": "Exact configured pack weight and child finalPrice",
+        "variantId": "187",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2178,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-173",
+        "date": "2026-05-17",
+        "price": 787.48,
+        "currency": "INR",
+        "sourceUrl": "https://nutrija.com/creatine-nitrate",
+        "evidenceUrl": "https://web.archive.org/web/20260517000505id_/https://nutrija.com/creatine-nitrate",
+        "kind": "official-archive",
+        "matchBasis": "Exact configured pack weight and child finalPrice",
+        "variantId": "186",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2179,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-174",
+        "date": "2026-05-17",
+        "price": 1590.91,
+        "currency": "INR",
+        "sourceUrl": "https://nutrija.com/creatine-nitrate",
+        "evidenceUrl": "https://web.archive.org/web/20260517000505id_/https://nutrija.com/creatine-nitrate",
+        "kind": "official-archive",
+        "matchBasis": "Exact configured pack weight and child finalPrice",
+        "variantId": "187",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3166,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-173",
+        "date": "2026-10-25",
+        "price": 700.01,
+        "currency": "INR",
+        "sourceUrl": "https://nutrija.com/creatine-nitrate",
+        "evidenceUrl": "https://nutrija.com/creatine-nitrate",
+        "kind": "official-live",
+        "matchBasis": "Exact configured pack weight and child finalPrice",
+        "variantId": "186"
+      }
+    },
+    {
+      "order": 3167,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-174",
+        "date": "2026-10-25",
+        "price": 1413.39,
+        "currency": "INR",
+        "sourceUrl": "https://nutrija.com/creatine-nitrate",
+        "evidenceUrl": "https://nutrija.com/creatine-nitrate",
+        "kind": "official-live",
+        "matchBasis": "Exact configured pack weight and child finalPrice",
+        "variantId": "187"
+      }
+    },
+    {
+      "order": 5026,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-173",
+        "date": "2026-11-19",
+        "price": 787.51,
+        "currency": "INR",
+        "sourceUrl": "https://nutrija.com/creatine-nitrate",
+        "evidenceUrl": "https://nutrija.com/creatine-nitrate",
+        "kind": "official-live",
+        "matchBasis": "Official Magento size option matched to child product finalPrice; tax-inclusive INR configuration",
+        "variantId": "186"
+      }
+    },
+    {
+      "order": 5027,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-174",
+        "date": "2026-11-19",
+        "price": 1590.06,
+        "currency": "INR",
+        "sourceUrl": "https://nutrija.com/creatine-nitrate",
+        "evidenceUrl": "https://nutrija.com/creatine-nitrate",
+        "kind": "official-live",
+        "matchBasis": "Official Magento size option matched to child product finalPrice; tax-inclusive INR configuration",
+        "variantId": "187"
+      }
+    }
+  ],
+  "refreshSources": []
+}

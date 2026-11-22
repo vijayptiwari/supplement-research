@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "Isopure",
+  "product": "Zero Carb Whey Protein Isolate",
+  "variants": [
+    {
+      "order": 177,
+      "offer": {
+        "id": 177,
+        "brand": "Isopure",
+        "product": "Zero Carb Whey Protein Isolate",
+        "type": "Whey — isolate",
+        "flavour": "Unflavoured",
+        "kg": 1,
+        "price": 9099,
+        "stock": "In stock",
+        "protein": 90,
+        "scoop": 28,
+        "serving": 28,
+        "subclass": "Whey isolate",
+        "energy": 369,
+        "url": "https://www.optimumnutrition.co.in/products/isopure-zero-carb-protein-220lbs1kg-unflavoured-1151055?variant=46454502195426",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0738/8649/9042/files/089094026141_9_f6ed0a8f-b59d-4b84-b15d-79522544598c.jpg?v=1784782921",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Previously missing protein % added from flavour-matched panel; linked cost recalculates. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-matched label image, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.optimumnutrition.co.in/products/isopure-zero-carb-protein-220lbs1kg-unflavoured-1151055?variant=46454502195426",
+          "evidenceUrl": "https://www.optimumnutrition.co.in/products.json?limit=250&page=1",
+          "matchBasis": "Single official variant and explicit product net pack"
+        }
+      }
+    },
+    {
+      "order": 178,
+      "offer": {
+        "id": 178,
+        "brand": "Isopure",
+        "product": "Zero Carb Whey Protein Isolate",
+        "type": "Whey — isolate",
+        "flavour": "Unflavoured",
+        "kg": 2,
+        "price": 16999,
+        "stock": "In stock",
+        "protein": null,
+        "scoop": 28,
+        "serving": null,
+        "subclass": "Whey isolate",
+        "energy": 369,
+        "url": "https://www.optimumnutrition.co.in/products/isopure-zero-carb-protein-2-kg-unflavoured?variant=47722382000354",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0738/8649/9042/files/089094026141_9_f6ed0a8f-b59d-4b84-b15d-79522544598c.jpg?v=1784782921",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "  Protein percentage not verified. Scoop uses the same product/flavour 1kg label; this pack was not independently confirmed. Energy uses the same product/flavour 1kg label; this pack was not independently confirmed.",
+        "energyBasis": "Flavour-matched label image, stated kcal per 100g; same-flavour different pack",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.optimumnutrition.co.in/products/isopure-zero-carb-protein-2-kg-unflavoured?variant=47722382000354",
+          "evidenceUrl": "https://www.optimumnutrition.co.in/products.json?limit=250&page=1",
+          "matchBasis": "Single official variant and explicit product net pack"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 2366,
+      "observation": {
+        "category": "protein",
+        "offerId": 177,
+        "date": "2026-10-25",
+        "price": 7999,
+        "currency": "INR",
+        "sourceUrl": "https://www.optimumnutrition.co.in/products/isopure-zero-carb-protein-220lbs1kg-unflavoured-1151055",
+        "evidenceUrl": "https://www.optimumnutrition.co.in/products/isopure-zero-carb-protein-220lbs1kg-unflavoured-1151055.json",
+        "kind": "official-live",
+        "matchBasis": "Official single-variant product",
+        "variantId": "46454502195426"
+      }
+    },
+    {
+      "order": 2367,
+      "observation": {
+        "category": "protein",
+        "offerId": 178,
+        "date": "2026-10-25",
+        "price": 15499,
+        "currency": "INR",
+        "sourceUrl": "https://www.optimumnutrition.co.in/products/isopure-zero-carb-protein-2-kg-unflavoured",
+        "evidenceUrl": "https://www.optimumnutrition.co.in/products/isopure-zero-carb-protein-2-kg-unflavoured.json",
+        "kind": "official-live",
+        "matchBasis": "Official single-variant product",
+        "variantId": "47722382000354"
+      }
+    },
+    {
+      "order": 3505,
+      "observation": {
+        "category": "protein",
+        "offerId": 177,
+        "date": "2025-10-28",
+        "price": 5057,
+        "currency": "INR",
+        "sourceUrl": "https://www.optimumnutrition.co.in/products/isopure-zero-carb-protein-220lbs1kg-unflavoured-1151055",
+        "evidenceUrl": "https://web.archive.org/web/20251028132727id_/https://www.optimumnutrition.co.in/products/isopure-zero-carb-protein-220lbs1kg-unflavoured-1151055?srsltid=AfmBOorkKq71eOwp1U9AtwKc2R7xeUUfRoBdRaVUxTbzAh-KBek-rag8",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "46454502195426",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 4225,
+      "observation": {
+        "category": "protein",
+        "offerId": 177,
+        "date": "2026-11-19",
+        "price": 9099,
+        "currency": "INR",
+        "sourceUrl": "https://www.optimumnutrition.co.in/products/isopure-zero-carb-protein-220lbs1kg-unflavoured-1151055?variant=46454502195426",
+        "evidenceUrl": "https://www.optimumnutrition.co.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Single official variant and explicit product net pack",
+        "variantId": "46454502195426"
+      }
+    },
+    {
+      "order": 4226,
+      "observation": {
+        "category": "protein",
+        "offerId": 178,
+        "date": "2026-11-19",
+        "price": 16999,
+        "currency": "INR",
+        "sourceUrl": "https://www.optimumnutrition.co.in/products/isopure-zero-carb-protein-2-kg-unflavoured?variant=47722382000354",
+        "evidenceUrl": "https://www.optimumnutrition.co.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Single official variant and explicit product net pack",
+        "variantId": "47722382000354"
+      }
+    }
+  ],
+  "refreshSources": []
+}

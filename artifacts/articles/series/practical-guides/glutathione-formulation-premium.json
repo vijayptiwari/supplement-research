@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "order": 42,
+  "article": {
+    "id": "glutathione-formulation-premium",
+    "category": "glutathione",
+    "series": "practical-guides",
+    "title": "Before paying for liposomal glutathione: five evidence questions",
+    "summary": "Separate ingredient identity, delivery claims, blood measurements and actual clinical value when comparing oral formulations.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "Glutathione labels can describe the molecule, its chemical modification, a delivery system or a blend of ingredients. These are different layers of information. Reduced glutathione in a capsule is not the same label question as a liposomal carrier, and a cysteine-containing precursor is not measured glutathione mass. A premium becomes meaningful only when it connects an identified preparation to a relevant benefit. Use these questions to assess that connection without assuming either that all oral products are useless or that every newer format is better.",
+    "sections": [
+      {
+        "id": "identity",
+        "title": "Question one: what ingredient is actually being counted?",
+        "body": "Glutathione is made from glutamate, cysteine and glycine. A blend may also supply separate amino acids, vitamin C or other ingredients, but their masses do not become glutathione merely because they are associated with antioxidant biology. Check the named ingredient and its quantity per full label serving. Keep a chemical-form description distinct from the total blend. If the label basis is unclear, the honest result is an unresolved amount rather than a precise-looking calculation assembled from unrelated components.",
+        "sourceIds": [
+          "gsh-metabolism",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "delivery",
+        "title": "Question two: what does the delivery claim establish?",
+        "body": "Liposomal describes a carrier approach, not a new universal health endpoint. A product must still demonstrate that the finished formulation supplies what it claims under its storage and use conditions. The presence of a carrier term does not by itself establish better tissue exposure, longer-lasting effects or clinical superiority. Compare any cited experiment with the actual product: a supplier ingredient, an experimental preparation and a finished retail pack can be different interventions even when the same technology word appears on all three.",
+        "sourceIds": [
+          "well-gsh-lipo",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "lipo-study",
+        "title": "What a small liposomal study can tell us",
+        "body": "An exploratory human study of liposomal glutathione reported increases in selected body stores and immune-related markers. It was small and did not establish a broad clinical-outcome advantage over conventional oral glutathione. Such a study can support further investigation of a specified preparation, but it is not a head-to-head verdict on every delivery system. Read the design, comparator and disclosed commercial involvement before treating a measured marker as proof that the entire liposomal category deserves a higher price.",
+        "sourceIds": [
+          "well-gsh-lipo"
+        ]
+      },
+      {
+        "id": "ordinary-oral",
+        "title": "Conventional oral findings are not a simple absorption story",
+        "body": "A six-month randomized study of oral glutathione reported increases in measured stores, whereas a shorter study did not improve its measured oxidative-stress outcomes. Different durations, measurements and participants can contribute to different results. This makes the blanket claim that swallowed glutathione can never change a human measurement too absolute. It also makes the opposite claim, that any increase establishes better health, unjustified. The outcome and the exact intervention remain central to interpreting each trial.",
+        "sourceIds": [
+          "gsh-stores",
+          "gsh-oxidative"
+        ]
+      },
+      {
+        "id": "endpoint",
+        "title": "Question three: was the advertised benefit measured?",
+        "body": "A change in blood glutathione is not automatically a reduction in illness, a meaningful cosmetic change or a long-term anti-ageing effect. Identify the endpoint that matters to the proposed purchase and locate it in the actual trial report. When the trial measured only a biomarker, retain that boundary in the conclusion. A plausible pathway can explain why researchers asked the question, but cannot supply a clinical result that the experiment did not measure. This is especially important for broad detox or immune-boosting claims.",
+        "sourceIds": [
+          "gsh-stores",
+          "well-gsh-lipo",
+          "gsh-metabolism"
+        ]
+      },
+      {
+        "id": "comparison",
+        "title": "Question four: is the premium comparison fair?",
+        "body": "A convincing superiority claim needs a comparison that separates formulation from other differences. If one study used a longer duration, a different population and a different amount than another, their results cannot establish a delivery-system ranking by simple juxtaposition. Ask for a direct human comparison measuring the relevant outcome with the proposed products. In the absence of that evidence, a buyer can still choose a preferred format for practicality, but should identify the premium as convenience or uncertainty rather than proven clinical superiority.",
+        "sourceIds": [
+          "well-gsh-lipo",
+          "gsh-stores"
+        ]
+      },
+      {
+        "id": "price",
+        "title": "Question five: what does the cost calculation actually mean?",
+        "body": "Compare the complete serving, declared glutathione amount and usable servings within a clearly specified form. Do not use the weight of a liposomal mixture or all ingredients in a beauty blend as the active glutathione denominator. Price per declared milligram is transparent arithmetic, not a bioavailability-adjusted value unless suitable measurements establish the adjustment. A larger amount also is not automatically the better purchase. Value depends on a relevant purpose, credible evidence, tolerability and what else the expenditure displaces.",
+        "sourceIds": [
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "stop-boundaries",
+        "title": "Keep oral evidence and medical care separate",
+        "body": "The oral studies discussed here do not validate intravenous use or a treatment claim for liver disease, cancer or another illness. Small studies also cannot establish safety for indefinite use, pregnancy, breastfeeding or children. Review the full formula, medicines and relevant conditions with an appropriate professional when needed. The practical endpoint of this audit may be to defer the purchase because the benefit is unclear. That is a useful evidence-based decision, rather than a failure to find the most technologically impressive pack.",
+        "sourceIds": [
+          "gsh-stores",
+          "gsh-skin",
+          "supplement-quality-ods"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "gsh-metabolism",
+      "supplement-quality-ods",
+      "well-gsh-lipo",
+      "gsh-stores",
+      "gsh-oxidative",
+      "gsh-skin"
+    ]
+  }
+}

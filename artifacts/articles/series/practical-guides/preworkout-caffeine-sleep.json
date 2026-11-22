@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "order": 59,
+  "article": {
+    "id": "preworkout-caffeine-sleep",
+    "category": "pre-workout",
+    "series": "practical-guides",
+    "title": "The hidden cost of a late pre-workout: caffeine, sleep and overlapping products",
+    "summary": "An energetic session can still be a poor trade if the formulation undermines the recovery that follows.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "A pre-workout can feel effective long before its wider costs become obvious. The immediate question is how training feels; the later questions include sleep, tolerability and total stimulant exposure from the rest of the day. Those are linked buying decisions. This article explains how to examine a caffeine-containing routine without converting a general adult benchmark into a personal target or assuming that every unpleasant effect is a sign of a powerful product.",
+    "sections": [
+      {
+        "id": "inventory-first",
+        "title": "Start with all caffeine sources, not just the new scoop",
+        "body": "Coffee, tea, energy drinks and other products may already contribute caffeine before a pre-workout is added. A product may also list caffeine-containing botanical ingredients without supplying a complete caffeine total. Count known contributions on a consistent full-serving basis and retain unknown contributions as gaps. Do not treat an incomplete subtotal as a verified daily total. A stack review is most useful when it shows what is missing, rather than silently interpreting an undisclosed ingredient or a second serving as zero.",
+        "sourceIds": [
+          "caffeine-fda",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "benchmark-not-target",
+        "title": "A general benchmark is not an amount to aim for",
+        "body": "Official adult caffeine guidance describes a broad population context and notes differences in sensitivity. It is not a training prescription or proof that every combination below a number is appropriate. Medicines, health conditions and individual reactions can change the decision, and the guidance should not be generalized to children or pregnancy. A smaller labelled serving can still matter when combined with other sources. The relevant question is the person’s entire exposure and response, not whether a marketing claim remains beneath a familiar headline threshold.",
+        "sourceIds": [
+          "caffeine-fda"
+        ]
+      },
+      {
+        "id": "sleep-trial",
+        "title": "Amount and timing both affect the sleep question",
+        "body": "A randomized crossover study in men compared different caffeine amounts at several intervals before bedtime. The larger amount affected later sleep even when taken well before bed, while the smaller amount produced a different pattern in that sample. This does not establish a universal safe cutoff or guarantee an identical result in women or every caffeine user. It demonstrates why amount and timing must be considered together. Being able to fall asleep also does not establish that all objective sleep measures are unaffected.",
+        "sourceIds": [
+          "pe-caffeine-sleep-2025"
+        ]
+      },
+      {
+        "id": "tradeoffs",
+        "title": "Feeling more alert does not measure the full training trade",
+        "body": "Stimulation can change how a session feels, but a useful evaluation also considers the recovery period. A single exciting workout is not a controlled test of long-term progress, particularly if training volume, food or sleep changed at the same time. Research on caffeine can support selected exercise outcomes without validating every finished pre-workout or every schedule. If a routine repeatedly trades later rest for an immediate sensation, that trade deserves attention rather than automatically being solved with another product for sleep.",
+        "sourceIds": [
+          "caffeine-position",
+          "pe-caffeine-sleep-2025",
+          "preworkout-review"
+        ]
+      },
+      {
+        "id": "tingling-and-energy",
+        "title": "Separate caffeine from other noticeable ingredients",
+        "body": "Tingling associated with beta-alanine is not the same effect as caffeine-related alertness, and neither proves that a full mixture improves a useful training outcome. Beta-alanine’s carnosine rationale involves repeated exposure over time, while some pre-workout users judge a product within minutes. That mismatch can encourage unnecessary serving increases. Read each ingredient’s role separately and do not use the intensity of a sensation to estimate label accuracy. A lack of a dramatic feeling does not create a reason to escalate an uncertain formulation.",
+        "sourceIds": [
+          "beta-alanine-position",
+          "pe-ba-slow-release-2012",
+          "preworkout-review"
+        ]
+      },
+      {
+        "id": "safety-and-preparation",
+        "title": "Avoid shortcuts that add risk without answering the effectiveness question",
+        "body": "Swallowing dry pre-workout powder can introduce choking and inhalation risks; it is not a scientifically established way to improve the product’s value. Likewise, stacking several stimulant products to overcome fatigue does not identify why fatigue is present. New palpitations, troubling anxiety or other concerning symptoms warrant appropriate assessment rather than being accepted as a normal measure of potency. Review the exact ingredients with relevant professional support when health conditions or medicines are involved. Marketing phrases such as extreme or advanced do not change that requirement.",
+        "sourceIds": [
+          "preworkout-dryscoop",
+          "caffeine-fda"
+        ]
+      },
+      {
+        "id": "decision-and-review",
+        "title": "Make the optional purchase easier to reassess",
+        "body": "Record why the product is being considered, what it actually supplies and what outcome would justify its cost. Compare a simpler, transparent option with a complex blend when both would address the same goal. Keep the full-serving price, existing caffeine exposure, training time and sleep observations together. Product testing can support composition evidence but cannot guarantee a personally worthwhile result. Choosing a different schedule, a stimulant-free approach with realistic expectations, or no pre-workout can all be informed outcomes rather than failures to complete a stack.",
+        "sourceIds": [
+          "supplement-quality-ods",
+          "preworkout-review",
+          "pe-caffeine-sleep-2025"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "caffeine-fda",
+      "supplement-quality-ods",
+      "pe-caffeine-sleep-2025",
+      "caffeine-position",
+      "preworkout-review",
+      "beta-alanine-position",
+      "pe-ba-slow-release-2012",
+      "preworkout-dryscoop"
+    ]
+  }
+}

@@ -1,0 +1,621 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "Fuel One",
+  "product": "Whey Max",
+  "variants": [
+    {
+      "order": 761,
+      "offer": {
+        "id": 761,
+        "brand": "Fuel One",
+        "product": "Whey Max",
+        "type": "Whey + fermented yeast",
+        "flavour": "Cafe Mocha",
+        "kg": 1,
+        "price": 2499,
+        "stock": "In stock",
+        "protein": 75,
+        "scoop": 36,
+        "serving": 36,
+        "subclass": "Mixed source (whey + yeast)",
+        "energy": 419.83,
+        "url": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-245593",
+        "nutritionUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-245593",
+        "basis": "Exact variant nutrition table, protein per 100g",
+        "notes": "Stock not independently confirmed; offer listed on official page. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Exact page nutrition table, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-245593",
+          "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-245593",
+          "matchBasis": "Official selected product schema SKU matches exact navigation key"
+        }
+      }
+    },
+    {
+      "order": 762,
+      "offer": {
+        "id": 762,
+        "brand": "Fuel One",
+        "product": "Whey Max",
+        "type": "Whey + fermented yeast",
+        "flavour": "Chocolate",
+        "kg": 1,
+        "price": 2499,
+        "stock": "In stock",
+        "protein": 75,
+        "scoop": 36,
+        "serving": 36,
+        "subclass": "Mixed source (whey + yeast)",
+        "energy": 423.39,
+        "url": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-233369",
+        "nutritionUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-233369",
+        "basis": "Exact variant nutrition table, protein per 100g",
+        "notes": "Stock not independently confirmed; offer listed on official page. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Exact page nutrition table, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-233369",
+          "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-233369",
+          "matchBasis": "Official selected product schema SKU matches exact navigation key"
+        }
+      }
+    },
+    {
+      "order": 763,
+      "offer": {
+        "id": 763,
+        "brand": "Fuel One",
+        "product": "Whey Max",
+        "type": "Whey + fermented yeast",
+        "flavour": "Chocolate",
+        "kg": 2,
+        "price": 4899,
+        "stock": "In stock",
+        "protein": 75,
+        "scoop": 36,
+        "serving": 36,
+        "subclass": "Mixed source (whey + yeast)",
+        "energy": 423.39,
+        "url": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-285219",
+        "nutritionUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-285219",
+        "basis": "Exact variant nutrition table, protein per 100g",
+        "notes": "Stock not independently confirmed; offer listed on official page. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Exact page nutrition table, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-285219",
+          "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-285219",
+          "matchBasis": "Official selected product schema SKU matches exact navigation key"
+        }
+      }
+    },
+    {
+      "order": 764,
+      "offer": {
+        "id": 764,
+        "brand": "Fuel One",
+        "product": "Whey Max",
+        "type": "Whey + fermented yeast",
+        "flavour": "Chocolate Hazelnut",
+        "kg": 1,
+        "price": 2499,
+        "stock": "In stock",
+        "protein": 75,
+        "scoop": 36,
+        "serving": 36,
+        "subclass": "Mixed source (whey + yeast)",
+        "energy": 413.23,
+        "url": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-250807",
+        "nutritionUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-250807",
+        "basis": "Exact variant nutrition table, protein per 100g",
+        "notes": "Stock not independently confirmed; offer listed on official page. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Exact page nutrition table, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-250807",
+          "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-250807",
+          "matchBasis": "Official selected product schema SKU matches exact navigation key"
+        }
+      }
+    },
+    {
+      "order": 765,
+      "offer": {
+        "id": 765,
+        "brand": "Fuel One",
+        "product": "Whey Max",
+        "type": "Whey + fermented yeast",
+        "flavour": "Cold Coffee",
+        "kg": 1,
+        "price": 2499,
+        "stock": "In stock",
+        "protein": 75,
+        "scoop": 36,
+        "serving": 36,
+        "subclass": "Mixed source (whey + yeast)",
+        "energy": 407.22,
+        "url": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-269523",
+        "nutritionUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-269523",
+        "basis": "Exact variant nutrition table, protein per 100g",
+        "notes": "Stock not independently confirmed; offer listed on official page. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Exact page nutrition table, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-269523",
+          "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-269523",
+          "matchBasis": "Official selected product schema SKU matches exact navigation key"
+        }
+      }
+    },
+    {
+      "order": 766,
+      "offer": {
+        "id": 766,
+        "brand": "Fuel One",
+        "product": "Whey Max",
+        "type": "Whey + fermented yeast",
+        "flavour": "Kesar Thandai",
+        "kg": 1,
+        "price": 2499,
+        "stock": "In stock",
+        "protein": 75,
+        "scoop": 36,
+        "serving": 36,
+        "subclass": "Mixed source (whey + yeast)",
+        "energy": 419.86,
+        "url": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-267291",
+        "nutritionUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-267291",
+        "basis": "Exact variant nutrition table, protein per 100g",
+        "notes": "Stock not independently confirmed; offer listed on official page. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Exact page nutrition table, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-267291",
+          "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-267291",
+          "matchBasis": "Official selected product schema SKU matches exact navigation key"
+        }
+      }
+    },
+    {
+      "order": 767,
+      "offer": {
+        "id": 767,
+        "brand": "Fuel One",
+        "product": "Whey Max",
+        "type": "Whey + fermented yeast",
+        "flavour": "Mango",
+        "kg": 1,
+        "price": 2499,
+        "stock": "In stock",
+        "protein": 75,
+        "scoop": 36,
+        "serving": 36,
+        "subclass": "Mixed source (whey + yeast)",
+        "energy": 422,
+        "url": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-237759",
+        "nutritionUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-237759",
+        "basis": "Exact variant nutrition table, protein per 100g",
+        "notes": "Stock not independently confirmed; offer listed on official page. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Exact page nutrition table, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-237759",
+          "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-237759",
+          "matchBasis": "Official selected product schema SKU matches exact navigation key"
+        }
+      }
+    },
+    {
+      "order": 768,
+      "offer": {
+        "id": 768,
+        "brand": "Fuel One",
+        "product": "Whey Max",
+        "type": "Whey + fermented yeast",
+        "flavour": "Rich Chocolate",
+        "kg": 1,
+        "price": 2499,
+        "stock": "In stock",
+        "protein": 75,
+        "scoop": 36,
+        "serving": 36,
+        "subclass": "Mixed source (whey + yeast)",
+        "energy": 413.69,
+        "url": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-266115",
+        "nutritionUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-266115",
+        "basis": "Exact variant nutrition table, protein per 100g",
+        "notes": "Stock not independently confirmed; offer listed on official page. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Exact page nutrition table, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-266115",
+          "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-266115",
+          "matchBasis": "Official selected product schema SKU matches exact navigation key"
+        }
+      }
+    },
+    {
+      "order": 769,
+      "offer": {
+        "id": 769,
+        "brand": "Fuel One",
+        "product": "Whey Max",
+        "type": "Whey + fermented yeast",
+        "flavour": "Triple Chocolate",
+        "kg": 1,
+        "price": 2499,
+        "stock": "In stock",
+        "protein": 75,
+        "scoop": 36,
+        "serving": 36,
+        "subclass": "Mixed source (whey + yeast)",
+        "energy": 414.92,
+        "url": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-258883",
+        "nutritionUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-258883",
+        "basis": "Exact variant nutrition table, protein per 100g",
+        "notes": "Stock not independently confirmed; offer listed on official page. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Exact page nutrition table, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-258883",
+          "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-258883",
+          "matchBasis": "Official selected product schema SKU matches exact navigation key"
+        }
+      }
+    },
+    {
+      "order": 770,
+      "offer": {
+        "id": 770,
+        "brand": "Fuel One",
+        "product": "Whey Max",
+        "type": "Whey + fermented yeast",
+        "flavour": "Vanilla",
+        "kg": 1,
+        "price": 2499,
+        "stock": "In stock",
+        "protein": 75,
+        "scoop": 36,
+        "serving": 36,
+        "subclass": "Mixed source (whey + yeast)",
+        "energy": 414.28,
+        "url": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-249367",
+        "nutritionUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-249367",
+        "basis": "Exact variant nutrition table, protein per 100g",
+        "notes": "Stock not independently confirmed; offer listed on official page. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Exact page nutrition table, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-249367",
+          "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-249367",
+          "matchBasis": "Official selected product schema SKU matches exact navigation key"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 2950,
+      "observation": {
+        "category": "protein",
+        "offerId": 761,
+        "date": "2026-10-25",
+        "price": 2799,
+        "currency": "INR",
+        "sourceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-245593",
+        "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-245593",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "VRNT-245593"
+      }
+    },
+    {
+      "order": 2951,
+      "observation": {
+        "category": "protein",
+        "offerId": 762,
+        "date": "2026-10-25",
+        "price": 2799,
+        "currency": "INR",
+        "sourceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-233369",
+        "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-233369",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "VRNT-233369"
+      }
+    },
+    {
+      "order": 2952,
+      "observation": {
+        "category": "protein",
+        "offerId": 763,
+        "date": "2026-10-25",
+        "price": 5499,
+        "currency": "INR",
+        "sourceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-285219",
+        "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-285219",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "VRNT-285219"
+      }
+    },
+    {
+      "order": 2953,
+      "observation": {
+        "category": "protein",
+        "offerId": 764,
+        "date": "2026-10-25",
+        "price": 2799,
+        "currency": "INR",
+        "sourceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-250807",
+        "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-250807",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "VRNT-250807"
+      }
+    },
+    {
+      "order": 2954,
+      "observation": {
+        "category": "protein",
+        "offerId": 765,
+        "date": "2026-10-25",
+        "price": 2799,
+        "currency": "INR",
+        "sourceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-269523",
+        "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-269523",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "VRNT-269523"
+      }
+    },
+    {
+      "order": 2955,
+      "observation": {
+        "category": "protein",
+        "offerId": 766,
+        "date": "2026-10-25",
+        "price": 2799,
+        "currency": "INR",
+        "sourceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-267291",
+        "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-267291",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "VRNT-267291"
+      }
+    },
+    {
+      "order": 2956,
+      "observation": {
+        "category": "protein",
+        "offerId": 767,
+        "date": "2026-10-25",
+        "price": 2799,
+        "currency": "INR",
+        "sourceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-237759",
+        "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-237759",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "VRNT-237759"
+      }
+    },
+    {
+      "order": 2957,
+      "observation": {
+        "category": "protein",
+        "offerId": 768,
+        "date": "2026-10-25",
+        "price": 2799,
+        "currency": "INR",
+        "sourceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-266115",
+        "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-266115",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "VRNT-266115"
+      }
+    },
+    {
+      "order": 2958,
+      "observation": {
+        "category": "protein",
+        "offerId": 769,
+        "date": "2026-10-25",
+        "price": 2799,
+        "currency": "INR",
+        "sourceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-258883",
+        "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-258883",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "VRNT-258883"
+      }
+    },
+    {
+      "order": 2959,
+      "observation": {
+        "category": "protein",
+        "offerId": 770,
+        "date": "2026-10-25",
+        "price": 2799,
+        "currency": "INR",
+        "sourceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-249367",
+        "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-249367",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "VRNT-249367"
+      }
+    },
+    {
+      "order": 4808,
+      "observation": {
+        "category": "protein",
+        "offerId": 761,
+        "date": "2026-11-19",
+        "price": 2499,
+        "currency": "INR",
+        "sourceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-245593",
+        "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-245593",
+        "kind": "official-live",
+        "matchBasis": "Official selected product schema SKU matches exact navigation key",
+        "variantId": "VRNT-245593"
+      }
+    },
+    {
+      "order": 4809,
+      "observation": {
+        "category": "protein",
+        "offerId": 762,
+        "date": "2026-11-19",
+        "price": 2499,
+        "currency": "INR",
+        "sourceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-233369",
+        "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-233369",
+        "kind": "official-live",
+        "matchBasis": "Official selected product schema SKU matches exact navigation key",
+        "variantId": "VRNT-233369"
+      }
+    },
+    {
+      "order": 4810,
+      "observation": {
+        "category": "protein",
+        "offerId": 763,
+        "date": "2026-11-19",
+        "price": 4899,
+        "currency": "INR",
+        "sourceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-285219",
+        "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-285219",
+        "kind": "official-live",
+        "matchBasis": "Official selected product schema SKU matches exact navigation key",
+        "variantId": "VRNT-285219"
+      }
+    },
+    {
+      "order": 4811,
+      "observation": {
+        "category": "protein",
+        "offerId": 764,
+        "date": "2026-11-19",
+        "price": 2499,
+        "currency": "INR",
+        "sourceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-250807",
+        "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-250807",
+        "kind": "official-live",
+        "matchBasis": "Official selected product schema SKU matches exact navigation key",
+        "variantId": "VRNT-250807"
+      }
+    },
+    {
+      "order": 4812,
+      "observation": {
+        "category": "protein",
+        "offerId": 765,
+        "date": "2026-11-19",
+        "price": 2499,
+        "currency": "INR",
+        "sourceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-269523",
+        "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-269523",
+        "kind": "official-live",
+        "matchBasis": "Official selected product schema SKU matches exact navigation key",
+        "variantId": "VRNT-269523"
+      }
+    },
+    {
+      "order": 4813,
+      "observation": {
+        "category": "protein",
+        "offerId": 766,
+        "date": "2026-11-19",
+        "price": 2499,
+        "currency": "INR",
+        "sourceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-267291",
+        "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-267291",
+        "kind": "official-live",
+        "matchBasis": "Official selected product schema SKU matches exact navigation key",
+        "variantId": "VRNT-267291"
+      }
+    },
+    {
+      "order": 4814,
+      "observation": {
+        "category": "protein",
+        "offerId": 767,
+        "date": "2026-11-19",
+        "price": 2499,
+        "currency": "INR",
+        "sourceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-237759",
+        "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-237759",
+        "kind": "official-live",
+        "matchBasis": "Official selected product schema SKU matches exact navigation key",
+        "variantId": "VRNT-237759"
+      }
+    },
+    {
+      "order": 4815,
+      "observation": {
+        "category": "protein",
+        "offerId": 768,
+        "date": "2026-11-19",
+        "price": 2499,
+        "currency": "INR",
+        "sourceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-266115",
+        "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-266115",
+        "kind": "official-live",
+        "matchBasis": "Official selected product schema SKU matches exact navigation key",
+        "variantId": "VRNT-266115"
+      }
+    },
+    {
+      "order": 4816,
+      "observation": {
+        "category": "protein",
+        "offerId": 769,
+        "date": "2026-11-19",
+        "price": 2499,
+        "currency": "INR",
+        "sourceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-258883",
+        "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-258883",
+        "kind": "official-live",
+        "matchBasis": "Official selected product schema SKU matches exact navigation key",
+        "variantId": "VRNT-258883"
+      }
+    },
+    {
+      "order": 4817,
+      "observation": {
+        "category": "protein",
+        "offerId": 770,
+        "date": "2026-11-19",
+        "price": 2499,
+        "currency": "INR",
+        "sourceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-249367",
+        "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-whey-max/SP-122555?navKey=VRNT-249367",
+        "kind": "official-live",
+        "matchBasis": "Official selected product schema SKU matches exact navigation key",
+        "variantId": "VRNT-249367"
+      }
+    }
+  ],
+  "refreshSources": []
+}

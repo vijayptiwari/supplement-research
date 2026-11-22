@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "category": "vitamin-d",
+  "brand": "Carbamide Forte",
+  "product": "Vitamin D3 + K2 from Lichen",
+  "variants": [
+    {
+      "order": 4,
+      "offer": {
+        "brand": "Carbamide Forte",
+        "product": "Vitamin D3 + K2 from Lichen",
+        "form": "Tablet",
+        "type": "D3 (cholecalciferol)",
+        "subclass": "D3 + K2",
+        "servingUnits": null,
+        "source": "Lichen",
+        "basis": "Official product listing; only explicitly verified label amounts are recorded.",
+        "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities.",
+        "packCount": 60,
+        "id": "vitamin-d-43057772953713",
+        "price": 274,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://www.carbamideforte.com/products/vitamin-d3-k2-supplement-veg-d3-lichen-60-tablets?variant=43057772953713",
+        "nutritionUrl": "https://www.carbamideforte.com/products/vitamin-d3-k2-supplement-veg-d3-lichen-60-tablets",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-10-29",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.carbamideforte.com/products/vitamin-d3-k2-supplement-veg-d3-lichen-60-tablets?variant=43057772953713",
+          "evidenceUrl": "https://www.carbamideforte.com/products/vitamin-d3-k2-supplement-veg-d3-lichen-60-tablets.json",
+          "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3721,
+      "observation": {
+        "category": "vitamin-d",
+        "offerId": "vitamin-d-43057772953713",
+        "date": "2026-10-29",
+        "price": 274,
+        "currency": "INR",
+        "sourceUrl": "https://www.carbamideforte.com/products/vitamin-d3-k2-supplement-veg-d3-lichen-60-tablets?variant=43057772953713",
+        "evidenceUrl": "https://www.carbamideforte.com/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "43057772953713"
+      }
+    },
+    {
+      "order": 3904,
+      "observation": {
+        "category": "vitamin-d",
+        "offerId": "vitamin-d-43057772953713",
+        "date": "2026-11-19",
+        "price": 274,
+        "currency": "INR",
+        "sourceUrl": "https://www.carbamideforte.com/products/vitamin-d3-k2-supplement-veg-d3-lichen-60-tablets?variant=43057772953713",
+        "evidenceUrl": "https://www.carbamideforte.com/products/vitamin-d3-k2-supplement-veg-d3-lichen-60-tablets.json",
+        "kind": "official-live",
+        "variantId": "43057772953713",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 20,
+      "profile": {
+        "category": "vitamin-d",
+        "brand": "Carbamide Forte",
+        "base": "https://www.carbamideforte.com",
+        "handle": "vitamin-d3-k2-supplement-veg-d3-lichen-60-tablets",
+        "product": "Vitamin D3 + K2 from Lichen",
+        "form": "Tablet",
+        "type": "D3 (cholecalciferol)",
+        "subclass": "D3 + K2",
+        "servingUnits": null,
+        "source": "Lichen",
+        "basis": "Official product listing; only explicitly verified label amounts are recorded.",
+        "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities.",
+        "packCount": 60
+      }
+    }
+  ]
+}

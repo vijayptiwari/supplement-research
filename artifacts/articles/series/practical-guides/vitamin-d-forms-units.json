@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "order": 24,
+  "article": {
+    "id": "vitamin-d-forms-units",
+    "category": "vitamin-d",
+    "series": "practical-guides",
+    "title": "D2, D3 and activated vitamin D: similar names, different decisions",
+    "summary": "Learn which labels describe ordinary nutritional vitamin D, which describe medicines, and why the unit and schedule matter as much as the form.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "A shelf can place cholecalciferol, ergocalciferol and products with activated-vitamin terminology close together. That does not make them alternative strengths of the same everyday supplement. The useful comparison separates ingredient identity, delivery format, amount and purpose. Before choosing a price winner, establish which of those questions the label actually answers. A preparation used to manage a diagnosed disorder should not enter a routine nutrition comparison simply because its name contains vitamin D.",
+    "sections": [
+      {
+        "id": "identity",
+        "title": "Start with the ingredient rather than the front-panel number",
+        "body": "D2 is ergocalciferol and D3 is cholecalciferol. They are nutritional forms that must be processed before the main active hormone is formed. A softgel, spray, drop or sachet describes delivery, rather than a new vitamin. Write down both layers: the named ingredient and the way it is supplied. This prevents comparisons such as calling a spray a different chemical form, or assuming a large sachet contains a different vitamin merely because the package looks medicinal.",
+        "sourceIds": [
+          "d-overview"
+        ]
+      },
+      {
+        "id": "d2-d3",
+        "title": "What a D3 advantage in blood status does and does not establish",
+        "body": "In a twelve-week UK food-fortification trial, D3 increased total circulating 25-hydroxyvitamin D more than D2 in the studied South Asian and white European women. This is relevant evidence about maintaining a status marker under those conditions. It does not establish that every D3 brand prevents fractures, that D2 is inactive, or that a larger blood response is always the best clinical outcome. Keep the population, amount, food vehicle and measured endpoint attached to the result.",
+        "sourceIds": [
+          "nutrients-d2-d3-trial"
+        ]
+      },
+      {
+        "id": "source",
+        "title": "Source preference is a separate label check",
+        "body": "D3 can have different source origins, while D2 is commonly associated with fungal sources. A chemical name alone does not certify that an entire product meets a vegan, vegetarian or allergy requirement: capsule shells and other ingredients also matter. Ask for a clear source declaration when it affects your decision. A source preference can be a valid reason to choose a product without becoming a claim that its clinical effect is superior. Do not infer certification from a leaf illustration.",
+        "sourceIds": [
+          "d-overview",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "activated",
+        "title": "Calcifediol and calcitriol need their own clinical context",
+        "body": "The metabolic sequence explains the naming confusion: the liver forms 25-hydroxyvitamin D, also called calcifediol or calcidiol, while further activation produces calcitriol. Calcitriol is also a prescription medicine for specified calcium, kidney or parathyroid problems. Its label cannot be compared with an ordinary D3 bottle by simply selecting a larger or smaller number. A prescription and its monitoring plan are part of the intervention. A retail comparison should never substitute one of these preparations for another.",
+        "sourceIds": [
+          "d-overview",
+          "nutrients-calcitriol-medline"
+        ]
+      },
+      {
+        "id": "units",
+        "title": "Convert units only when the ingredient basis is clear",
+        "body": "For ordinary nutritional D2 or D3, one microgram corresponds to forty international units. That is a unit relationship, not an absorption multiplier. Confirm whether a figure applies to one drop, one tablet or the complete serving, and keep the original label available. Do not extend this simple arithmetic into an exchange rule for activated medicines. A correct conversion with the wrong ingredient or serving basis still produces a misleading comparison. The catalog keeps verified amounts and unknown inputs separate.",
+        "sourceIds": [
+          "d-overview",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "schedule",
+        "title": "A high-strength pack is not a daily instruction",
+        "body": "A bottle or sachet may be intended for a particular prescribed schedule. The printed amount per unit does not state how often it should be taken by every buyer. Calculate pack servings only after the label basis is clear, and keep a prescribed schedule distinct from a general dietary reference. A convenient weekly package can be relevant within a clinical plan, but its convenience does not prove that intermittent large doses outperform a different schedule or are suitable for self-treatment.",
+        "sourceIds": [
+          "nutrients-d-guideline-2024",
+          "d-overview"
+        ]
+      },
+      {
+        "id": "coingredients",
+        "title": "Check the rest of a bone-health formula",
+        "body": "Vitamin D can be included in calcium tablets, ZMC products, multivitamins and other combinations. Reading only the standalone D bottle misses those contributions. Record the same nutrient once on a consistent unit basis, then review the other ingredients independently. Calcium mass does not become vitamin D potency, and adding several bone-health products is not automatically a more complete plan. A clinician or pharmacist can review the whole list when treatment, medicines or abnormal calcium results are involved.",
+        "sourceIds": [
+          "d-overview",
+          "ca-overview",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "decision",
+        "title": "Choose a form for a reason you can explain",
+        "body": "A useful decision can be stated plainly: a specified nutritional need, a suitable ingredient and delivery format, a clear amount, and a credible source for the label. Compare like preparations on that basis. Pay for a relevant feature such as acceptable ingredients or practical administration rather than an undefined promise of activation or superior potency. If the need is uncertain, understanding the label is still valuable even when the final decision is to seek assessment or buy nothing.",
+        "sourceIds": [
+          "supplement-quality-ods",
+          "nutrients-d-guideline-2024"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "d-overview",
+      "nutrients-d2-d3-trial",
+      "supplement-quality-ods",
+      "nutrients-calcitriol-medline",
+      "nutrients-d-guideline-2024",
+      "ca-overview"
+    ]
+  }
+}

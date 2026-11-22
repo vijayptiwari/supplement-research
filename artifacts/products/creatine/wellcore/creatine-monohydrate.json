@@ -1,0 +1,905 @@
+{
+  "schemaVersion": 1,
+  "category": "creatine",
+  "brand": "Wellcore",
+  "product": "Creatine Monohydrate",
+  "variants": [
+    {
+      "order": 180,
+      "offer": {
+        "id": "cr-180",
+        "brand": "Wellcore",
+        "product": "Creatine Monohydrate",
+        "type": "Monohydrate",
+        "subclass": "Micronized",
+        "grade": "Not specified",
+        "formulation": "Flavoured",
+        "packaging": "Standard pack",
+        "flavour": "Fruit Fusion",
+        "grams": 122,
+        "kg": 0.122,
+        "price": 610,
+        "stock": "In stock",
+        "creatine": 81.08108108108108,
+        "scoop": 3.7,
+        "serving": 3.7,
+        "creatineServing": 3,
+        "energy": 0,
+        "url": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-122g-33-servings-lab-tested-fruit-fusion-supports-athletic-performance-and-power?variant=46168063770876",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0233/6459/9885/files/NI_33Serv_FruitFusionCREATINE_LISTING_WELLCORE_WELLVERSED_2.png?v=1730139784",
+        "basis": "Official product label, visually verified: named creatine compound quantity; per100g stated or calculated from serving.",
+        "notes": "Same product/flavour label used across both pack sizes.",
+        "energyBasis": "Official label per100g energy or serving kcal × 100 / serving grams.",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-122g-33-servings-lab-tested-fruit-fusion-supports-athletic-performance-and-power?variant=46168063770876",
+          "evidenceUrl": "https://wellversed.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 181,
+      "offer": {
+        "id": "cr-181",
+        "brand": "Wellcore",
+        "product": "Creatine Monohydrate",
+        "type": "Monohydrate",
+        "subclass": "Micronized",
+        "grade": "Not specified",
+        "formulation": "Flavoured",
+        "packaging": "Standard pack",
+        "flavour": "Fruit Fusion",
+        "grams": 307,
+        "kg": 0.307,
+        "price": 1188,
+        "stock": "In stock",
+        "creatine": 81.08108108108108,
+        "scoop": 3.7,
+        "serving": 3.7,
+        "creatineServing": 3,
+        "energy": 0,
+        "url": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-307g-83-servings-lab-tested-fruit-fusion-supports-athletic-performance-and-power?variant=46168510923004",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0233/6459/9885/files/NI_33Serv_FruitFusionCREATINE_LISTING_WELLCORE_WELLVERSED_2.png?v=1730139784",
+        "basis": "Official product label, visually verified: named creatine compound quantity; per100g stated or calculated from serving.",
+        "notes": "Same product/flavour label used across both pack sizes.",
+        "energyBasis": "Official label per100g energy or serving kcal × 100 / serving grams.",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-307g-83-servings-lab-tested-fruit-fusion-supports-athletic-performance-and-power?variant=46168510923004",
+          "evidenceUrl": "https://wellversed.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 182,
+      "offer": {
+        "id": "cr-182",
+        "brand": "Wellcore",
+        "product": "Creatine Monohydrate",
+        "type": "Monohydrate",
+        "subclass": "Micronized",
+        "grade": "Not specified",
+        "formulation": "Flavoured",
+        "packaging": "Standard pack",
+        "flavour": "Kiwi Kick",
+        "grams": 122,
+        "kg": 0.122,
+        "price": 610,
+        "stock": "In stock",
+        "creatine": 81.08108108108108,
+        "scoop": 3.7,
+        "serving": 3.7,
+        "creatineServing": 3,
+        "energy": 0,
+        "url": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-kiwi-kick-122g-33-servings-rapid-absorption-enhanced-muscle-strength-power-fast-recovery-increased-muscle-mass-1?variant=47196032532732",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0233/6459/9885/files/ELI-3-2_KK33servings_Creatine_Listing_Wellcore.png?v=1748154115",
+        "basis": "Official product label, visually verified: named creatine compound quantity; per100g stated or calculated from serving.",
+        "notes": "Same product/flavour label used across both pack sizes.",
+        "energyBasis": "Official label per100g energy or serving kcal × 100 / serving grams.",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-kiwi-kick-122g-33-servings-rapid-absorption-enhanced-muscle-strength-power-fast-recovery-increased-muscle-mass-1?variant=47196032532732",
+          "evidenceUrl": "https://wellversed.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 183,
+      "offer": {
+        "id": "cr-183",
+        "brand": "Wellcore",
+        "product": "Creatine Monohydrate",
+        "type": "Monohydrate",
+        "subclass": "Micronized",
+        "grade": "Not specified",
+        "formulation": "Flavoured",
+        "packaging": "Standard pack",
+        "flavour": "Kiwi Kick",
+        "grams": 307,
+        "kg": 0.307,
+        "price": 1188,
+        "stock": "In stock",
+        "creatine": 81.08108108108108,
+        "scoop": 3.7,
+        "serving": 3.7,
+        "creatineServing": 3,
+        "energy": 0,
+        "url": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-kiwi-kick-307-83-servings-rapid-absorption-enhanced-muscle-strength-power-fast-recovery-increased-muscle-mass?variant=47195986100476",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0233/6459/9885/files/ELI-3-2_KK33servings_Creatine_Listing_Wellcore.png?v=1748154115",
+        "basis": "Official product label, visually verified: named creatine compound quantity; per100g stated or calculated from serving.",
+        "notes": "Same product/flavour label used across both pack sizes.",
+        "energyBasis": "Official label per100g energy or serving kcal × 100 / serving grams.",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-kiwi-kick-307-83-servings-rapid-absorption-enhanced-muscle-strength-power-fast-recovery-increased-muscle-mass?variant=47195986100476",
+          "evidenceUrl": "https://wellversed.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 184,
+      "offer": {
+        "id": "cr-184",
+        "brand": "Wellcore",
+        "product": "Creatine Monohydrate",
+        "type": "Monohydrate",
+        "subclass": "Micronized",
+        "grade": "Not specified",
+        "formulation": "Flavoured",
+        "packaging": "Standard pack",
+        "flavour": "Lemon Lime",
+        "grams": 149,
+        "kg": 0.149,
+        "price": 610,
+        "stock": "In stock",
+        "creatine": 66.66666666666666,
+        "scoop": 4.5,
+        "serving": 4.5,
+        "creatineServing": 3,
+        "energy": 0,
+        "url": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-149g-33-servings-lemon-lime?variant=48942464073980",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0233/6459/9885/files/Left_LL83servings_Creatine_Listing_Wellcore.jpg?v=1775804194",
+        "basis": "Official product label, visually verified: named creatine compound quantity; per100g stated or calculated from serving.",
+        "notes": "374g label used for same product/flavour in both pack sizes.",
+        "energyBasis": "Official label per100g energy or serving kcal × 100 / serving grams.",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-149g-33-servings-lemon-lime?variant=48942464073980",
+          "evidenceUrl": "https://wellversed.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 185,
+      "offer": {
+        "id": "cr-185",
+        "brand": "Wellcore",
+        "product": "Creatine Monohydrate",
+        "type": "Monohydrate",
+        "subclass": "Micronized",
+        "grade": "Not specified",
+        "formulation": "Flavoured",
+        "packaging": "Standard pack",
+        "flavour": "Lemon Lime",
+        "grams": 374,
+        "kg": 0.374,
+        "price": 1188,
+        "stock": "In stock",
+        "creatine": 66.66666666666666,
+        "scoop": 4.5,
+        "serving": 4.5,
+        "creatineServing": 3,
+        "energy": 0,
+        "url": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-374g-83-servings-lemon-lime?variant=48942462566652",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0233/6459/9885/files/Left_LL83servings_Creatine_Listing_Wellcore.jpg?v=1775804194",
+        "basis": "Official product label, visually verified: named creatine compound quantity; per100g stated or calculated from serving.",
+        "notes": "374g label used for same product/flavour in both pack sizes.",
+        "energyBasis": "Official label per100g energy or serving kcal × 100 / serving grams.",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-374g-83-servings-lemon-lime?variant=48942462566652",
+          "evidenceUrl": "https://wellversed.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 186,
+      "offer": {
+        "id": "cr-186",
+        "brand": "Wellcore",
+        "product": "Creatine Monohydrate",
+        "type": "Monohydrate",
+        "subclass": "Micronized",
+        "grade": "Not specified",
+        "formulation": "Flavoured",
+        "packaging": "Standard pack",
+        "flavour": "Tropical Tango",
+        "grams": 122,
+        "kg": 0.122,
+        "price": 610,
+        "stock": "In stock",
+        "creatine": 81.08108108108108,
+        "scoop": 3.7,
+        "serving": 3.7,
+        "creatineServing": 3,
+        "energy": 0,
+        "url": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-122g-33-servings-lab-tested-tropical-tango-supports-athletic-performance-and-power?variant=46167639490812",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0233/6459/9885/files/NI_33Serv_TropicalTangoCREATINE_LISTING_WELLCORE_WELLVERSED_61e8d26d-93c5-4be5-af6c-ee8cfdd40226.png?v=1730139739",
+        "basis": "Official product label, visually verified: named creatine compound quantity; per100g stated or calculated from serving.",
+        "notes": "Same product/flavour label used across both pack sizes.",
+        "energyBasis": "Official label per100g energy or serving kcal × 100 / serving grams.",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-122g-33-servings-lab-tested-tropical-tango-supports-athletic-performance-and-power?variant=46167639490812",
+          "evidenceUrl": "https://wellversed.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 187,
+      "offer": {
+        "id": "cr-187",
+        "brand": "Wellcore",
+        "product": "Creatine Monohydrate",
+        "type": "Monohydrate",
+        "subclass": "Micronized",
+        "grade": "Not specified",
+        "formulation": "Flavoured",
+        "packaging": "Standard pack",
+        "flavour": "Tropical Tango",
+        "grams": 307,
+        "kg": 0.307,
+        "price": 1188,
+        "stock": "In stock",
+        "creatine": 81.08108108108108,
+        "scoop": 3.7,
+        "serving": 3.7,
+        "creatineServing": 3,
+        "energy": 0,
+        "url": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-307g-83servings-lab-tested-tropical-tango-supports-athletic-performance-and-power?variant=46167757979900",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0233/6459/9885/files/NI_33Serv_TropicalTangoCREATINE_LISTING_WELLCORE_WELLVERSED_61e8d26d-93c5-4be5-af6c-ee8cfdd40226.png?v=1730139739",
+        "basis": "Official product label, visually verified: named creatine compound quantity; per100g stated or calculated from serving.",
+        "notes": "Same product/flavour label used across both pack sizes.",
+        "energyBasis": "Official label per100g energy or serving kcal × 100 / serving grams.",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-307g-83servings-lab-tested-tropical-tango-supports-athletic-performance-and-power?variant=46167757979900",
+          "evidenceUrl": "https://wellversed.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 188,
+      "offer": {
+        "id": "cr-188",
+        "brand": "Wellcore",
+        "product": "Creatine Monohydrate",
+        "type": "Monohydrate",
+        "subclass": "Micronized",
+        "grade": "Not specified",
+        "formulation": "With antioxidant",
+        "packaging": "Standard pack",
+        "flavour": "Unflavoured",
+        "grams": 100,
+        "kg": 0.1,
+        "price": 610,
+        "stock": "In stock",
+        "creatine": 100,
+        "scoop": 3,
+        "serving": 3,
+        "creatineServing": 3,
+        "energy": 0,
+        "url": "https://wellversed.in/products/wellcore-micronised-creatine-monohydrate-100g-33-servings-100-pure-creatine-unflavored-supports-athletic-performance-and-power?variant=44264495186172",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0233/6459/9885/files/Left___Unflavoured-83servings___Creatine___Revamp-Listing___Wellcore.jpg?v=1787577862",
+        "basis": "Official product label, visually verified: named creatine compound quantity; per100g stated or calculated from serving.",
+        "notes": "Label includes antioxidant INS300. 3g compound / approx. 3g serving is rounded, not a 100% purity assay.",
+        "energyBasis": "Official label per100g energy or serving kcal × 100 / serving grams.",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://wellversed.in/products/wellcore-micronised-creatine-monohydrate-100g-33-servings-100-pure-creatine-unflavored-supports-athletic-performance-and-power?variant=44264495186172",
+          "evidenceUrl": "https://wellversed.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 189,
+      "offer": {
+        "id": "cr-189",
+        "brand": "Wellcore",
+        "product": "Creatine Monohydrate",
+        "type": "Monohydrate",
+        "subclass": "Micronized",
+        "grade": "Not specified",
+        "formulation": "With antioxidant",
+        "packaging": "Standard pack",
+        "flavour": "Unflavoured",
+        "grams": 250,
+        "kg": 0.25,
+        "price": 1188,
+        "stock": "In stock",
+        "creatine": 100,
+        "scoop": 3,
+        "serving": 3,
+        "creatineServing": 3,
+        "energy": 0,
+        "url": "https://wellversed.in/products/wellcore-micronised-creatine-monohydrate-250g-83-servings-100-pure-creatine-unflavored-supports-athletic-performance-and-power?variant=47189202043132",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0233/6459/9885/files/Left___Unflavoured-83servings___Creatine___Revamp-Listing___Wellcore.jpg?v=1787577862",
+        "basis": "Official product label, visually verified: named creatine compound quantity; per100g stated or calculated from serving.",
+        "notes": "Label includes antioxidant INS300. 3g compound / approx. 3g serving is rounded, not a 100% purity assay.",
+        "energyBasis": "Official label per100g energy or serving kcal × 100 / serving grams.",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://wellversed.in/products/wellcore-micronised-creatine-monohydrate-250g-83-servings-100-pure-creatine-unflavored-supports-athletic-performance-and-power?variant=47189202043132",
+          "evidenceUrl": "https://wellversed.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 190,
+      "offer": {
+        "id": "cr-190",
+        "brand": "Wellcore",
+        "product": "Creatine Monohydrate",
+        "type": "Monohydrate",
+        "subclass": "Micronized",
+        "grade": "Not specified",
+        "formulation": "Flavoured",
+        "packaging": "Standard pack",
+        "flavour": "Watermelon Wave",
+        "grams": 122,
+        "kg": 0.122,
+        "price": 610,
+        "stock": "In stock",
+        "creatine": 81.08108108108108,
+        "scoop": 3.7,
+        "serving": 3.7,
+        "creatineServing": 3,
+        "energy": 0,
+        "url": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-watermelon-wave-122g-33-servings?variant=48289470611708",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0233/6459/9885/files/Left_WW33servings_Creatine_Listing_Wellcore_2.png?v=1766990522",
+        "basis": "Official product label, visually verified: named creatine compound quantity; per100g stated or calculated from serving.",
+        "notes": "Same product/flavour label used across both pack sizes.",
+        "energyBasis": "Official label per100g energy or serving kcal × 100 / serving grams.",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-watermelon-wave-122g-33-servings?variant=48289470611708",
+          "evidenceUrl": "https://wellversed.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 191,
+      "offer": {
+        "id": "cr-191",
+        "brand": "Wellcore",
+        "product": "Creatine Monohydrate",
+        "type": "Monohydrate",
+        "subclass": "Micronized",
+        "grade": "Not specified",
+        "formulation": "Flavoured",
+        "packaging": "Standard pack",
+        "flavour": "Watermelon Wave",
+        "grams": 307,
+        "kg": 0.307,
+        "price": 1188,
+        "stock": "In stock",
+        "creatine": 81.08108108108108,
+        "scoop": 3.7,
+        "serving": 3.7,
+        "creatineServing": 3,
+        "energy": 0,
+        "url": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-watermelon-wave-307g-83-servings?variant=48289467498748",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0233/6459/9885/files/Left_WW33servings_Creatine_Listing_Wellcore_2.png?v=1766990522",
+        "basis": "Official product label, visually verified: named creatine compound quantity; per100g stated or calculated from serving.",
+        "notes": "Same product/flavour label used across both pack sizes.",
+        "energyBasis": "Official label per100g energy or serving kcal × 100 / serving grams.",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-watermelon-wave-307g-83-servings?variant=48289467498748",
+          "evidenceUrl": "https://wellversed.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 2184,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-180",
+        "date": "2024-08-15",
+        "price": 599,
+        "currency": "INR",
+        "sourceUrl": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-122g-33-servings-lab-tested-fruit-fusion-supports-athletic-performance-and-power?variant=46168063770876",
+        "evidenceUrl": "https://web.archive.org/web/20240815015932id_/https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-122g-33-servings-lab-tested-fruit-fusion-supports-athletic-performance-and-power",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "46168063770876",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2185,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-180",
+        "date": "2025-08-15",
+        "price": 599,
+        "currency": "INR",
+        "sourceUrl": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-122g-33-servings-lab-tested-fruit-fusion-supports-athletic-performance-and-power?variant=46168063770876",
+        "evidenceUrl": "https://web.archive.org/web/20250815145029id_/https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-122g-33-servings-lab-tested-fruit-fusion-supports-athletic-performance-and-power",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "46168063770876",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2186,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-181",
+        "date": "2025-03-18",
+        "price": 1199,
+        "currency": "INR",
+        "sourceUrl": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-307g-83-servings-lab-tested-fruit-fusion-supports-athletic-performance-and-power?variant=46168510923004",
+        "evidenceUrl": "https://web.archive.org/web/20250318180302id_/https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-307g-83-servings-lab-tested-fruit-fusion-supports-athletic-performance-and-power",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "46168510923004",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2187,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-187",
+        "date": "2025-05-17",
+        "price": 1199,
+        "currency": "INR",
+        "sourceUrl": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-307g-83servings-lab-tested-tropical-tango-supports-athletic-performance-and-power?variant=46167757979900",
+        "evidenceUrl": "https://web.archive.org/web/20250517121343id_/https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-307g-83servings-lab-tested-tropical-tango-supports-athletic-performance-and-power",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "46167757979900",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2188,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-188",
+        "date": "2024-11-12",
+        "price": 599,
+        "currency": "INR",
+        "sourceUrl": "https://wellversed.in/products/wellcore-micronised-creatine-monohydrate-100g-33-servings-100-pure-creatine-unflavored-supports-athletic-performance-and-power?variant=44264495186172",
+        "evidenceUrl": "https://web.archive.org/web/20241112161641id_/https://wellversed.in/products/wellcore-micronised-creatine-monohydrate-100g-33-servings-100-pure-creatine-unflavored-supports-athletic-performance-and-power",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "44264495186172",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3173,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-180",
+        "date": "2026-10-25",
+        "price": 610,
+        "currency": "INR",
+        "sourceUrl": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-122g-33-servings-lab-tested-fruit-fusion-supports-athletic-performance-and-power?variant=46168063770876",
+        "evidenceUrl": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-122g-33-servings-lab-tested-fruit-fusion-supports-athletic-performance-and-power.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "46168063770876"
+      }
+    },
+    {
+      "order": 3174,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-181",
+        "date": "2026-10-25",
+        "price": 1188,
+        "currency": "INR",
+        "sourceUrl": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-307g-83-servings-lab-tested-fruit-fusion-supports-athletic-performance-and-power?variant=46168510923004",
+        "evidenceUrl": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-307g-83-servings-lab-tested-fruit-fusion-supports-athletic-performance-and-power.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "46168510923004"
+      }
+    },
+    {
+      "order": 3175,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-182",
+        "date": "2026-10-25",
+        "price": 610,
+        "currency": "INR",
+        "sourceUrl": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-kiwi-kick-122g-33-servings-rapid-absorption-enhanced-muscle-strength-power-fast-recovery-increased-muscle-mass-1?variant=47196032532732",
+        "evidenceUrl": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-kiwi-kick-122g-33-servings-rapid-absorption-enhanced-muscle-strength-power-fast-recovery-increased-muscle-mass-1.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "47196032532732"
+      }
+    },
+    {
+      "order": 3176,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-183",
+        "date": "2026-10-25",
+        "price": 1188,
+        "currency": "INR",
+        "sourceUrl": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-kiwi-kick-307-83-servings-rapid-absorption-enhanced-muscle-strength-power-fast-recovery-increased-muscle-mass?variant=47195986100476",
+        "evidenceUrl": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-kiwi-kick-307-83-servings-rapid-absorption-enhanced-muscle-strength-power-fast-recovery-increased-muscle-mass.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "47195986100476"
+      }
+    },
+    {
+      "order": 3177,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-184",
+        "date": "2026-10-25",
+        "price": 610,
+        "currency": "INR",
+        "sourceUrl": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-149g-33-servings-lemon-lime?variant=48942464073980",
+        "evidenceUrl": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-149g-33-servings-lemon-lime.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "48942464073980"
+      }
+    },
+    {
+      "order": 3178,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-185",
+        "date": "2026-10-25",
+        "price": 1188,
+        "currency": "INR",
+        "sourceUrl": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-374g-83-servings-lemon-lime?variant=48942462566652",
+        "evidenceUrl": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-374g-83-servings-lemon-lime.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "48942462566652"
+      }
+    },
+    {
+      "order": 3179,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-186",
+        "date": "2026-10-25",
+        "price": 610,
+        "currency": "INR",
+        "sourceUrl": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-122g-33-servings-lab-tested-tropical-tango-supports-athletic-performance-and-power?variant=46167639490812",
+        "evidenceUrl": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-122g-33-servings-lab-tested-tropical-tango-supports-athletic-performance-and-power.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "46167639490812"
+      }
+    },
+    {
+      "order": 3180,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-187",
+        "date": "2026-10-25",
+        "price": 1188,
+        "currency": "INR",
+        "sourceUrl": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-307g-83servings-lab-tested-tropical-tango-supports-athletic-performance-and-power?variant=46167757979900",
+        "evidenceUrl": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-307g-83servings-lab-tested-tropical-tango-supports-athletic-performance-and-power.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "46167757979900"
+      }
+    },
+    {
+      "order": 3181,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-188",
+        "date": "2026-10-25",
+        "price": 610,
+        "currency": "INR",
+        "sourceUrl": "https://wellversed.in/products/wellcore-micronised-creatine-monohydrate-100g-33-servings-100-pure-creatine-unflavored-supports-athletic-performance-and-power?variant=44264495186172",
+        "evidenceUrl": "https://wellversed.in/products/wellcore-micronised-creatine-monohydrate-100g-33-servings-100-pure-creatine-unflavored-supports-athletic-performance-and-power.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "44264495186172"
+      }
+    },
+    {
+      "order": 3182,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-189",
+        "date": "2026-10-25",
+        "price": 1188,
+        "currency": "INR",
+        "sourceUrl": "https://wellversed.in/products/wellcore-micronised-creatine-monohydrate-250g-83-servings-100-pure-creatine-unflavored-supports-athletic-performance-and-power?variant=47189202043132",
+        "evidenceUrl": "https://wellversed.in/products/wellcore-micronised-creatine-monohydrate-250g-83-servings-100-pure-creatine-unflavored-supports-athletic-performance-and-power.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "47189202043132"
+      }
+    },
+    {
+      "order": 3183,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-190",
+        "date": "2026-10-25",
+        "price": 610,
+        "currency": "INR",
+        "sourceUrl": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-watermelon-wave-122g-33-servings?variant=48289470611708",
+        "evidenceUrl": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-watermelon-wave-122g-33-servings.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "48289470611708"
+      }
+    },
+    {
+      "order": 3184,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-191",
+        "date": "2026-10-25",
+        "price": 1188,
+        "currency": "INR",
+        "sourceUrl": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-watermelon-wave-307g-83-servings?variant=48289467498748",
+        "evidenceUrl": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-watermelon-wave-307g-83-servings.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "48289467498748"
+      }
+    },
+    {
+      "order": 3694,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-187",
+        "date": "2025-04-27",
+        "price": 1199,
+        "currency": "INR",
+        "sourceUrl": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-307g-83servings-lab-tested-tropical-tango-supports-athletic-performance-and-power?variant=46167757979900",
+        "evidenceUrl": "https://web.archive.org/web/20250427184658id_/https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-307g-83servings-lab-tested-tropical-tango-supports-athletic-performance-and-power",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "46167757979900",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 5033,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-180",
+        "date": "2026-11-19",
+        "price": 610,
+        "currency": "INR",
+        "sourceUrl": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-122g-33-servings-lab-tested-fruit-fusion-supports-athletic-performance-and-power?variant=46168063770876",
+        "evidenceUrl": "https://wellversed.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "46168063770876"
+      }
+    },
+    {
+      "order": 5034,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-181",
+        "date": "2026-11-19",
+        "price": 1188,
+        "currency": "INR",
+        "sourceUrl": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-307g-83-servings-lab-tested-fruit-fusion-supports-athletic-performance-and-power?variant=46168510923004",
+        "evidenceUrl": "https://wellversed.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "46168510923004"
+      }
+    },
+    {
+      "order": 5035,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-182",
+        "date": "2026-11-19",
+        "price": 610,
+        "currency": "INR",
+        "sourceUrl": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-kiwi-kick-122g-33-servings-rapid-absorption-enhanced-muscle-strength-power-fast-recovery-increased-muscle-mass-1?variant=47196032532732",
+        "evidenceUrl": "https://wellversed.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "47196032532732"
+      }
+    },
+    {
+      "order": 5036,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-183",
+        "date": "2026-11-19",
+        "price": 1188,
+        "currency": "INR",
+        "sourceUrl": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-kiwi-kick-307-83-servings-rapid-absorption-enhanced-muscle-strength-power-fast-recovery-increased-muscle-mass?variant=47195986100476",
+        "evidenceUrl": "https://wellversed.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "47195986100476"
+      }
+    },
+    {
+      "order": 5037,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-184",
+        "date": "2026-11-19",
+        "price": 610,
+        "currency": "INR",
+        "sourceUrl": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-149g-33-servings-lemon-lime?variant=48942464073980",
+        "evidenceUrl": "https://wellversed.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "48942464073980"
+      }
+    },
+    {
+      "order": 5038,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-185",
+        "date": "2026-11-19",
+        "price": 1188,
+        "currency": "INR",
+        "sourceUrl": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-374g-83-servings-lemon-lime?variant=48942462566652",
+        "evidenceUrl": "https://wellversed.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "48942462566652"
+      }
+    },
+    {
+      "order": 5039,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-186",
+        "date": "2026-11-19",
+        "price": 610,
+        "currency": "INR",
+        "sourceUrl": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-122g-33-servings-lab-tested-tropical-tango-supports-athletic-performance-and-power?variant=46167639490812",
+        "evidenceUrl": "https://wellversed.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "46167639490812"
+      }
+    },
+    {
+      "order": 5040,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-187",
+        "date": "2026-11-19",
+        "price": 1188,
+        "currency": "INR",
+        "sourceUrl": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-307g-83servings-lab-tested-tropical-tango-supports-athletic-performance-and-power?variant=46167757979900",
+        "evidenceUrl": "https://wellversed.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "46167757979900"
+      }
+    },
+    {
+      "order": 5041,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-188",
+        "date": "2026-11-19",
+        "price": 610,
+        "currency": "INR",
+        "sourceUrl": "https://wellversed.in/products/wellcore-micronised-creatine-monohydrate-100g-33-servings-100-pure-creatine-unflavored-supports-athletic-performance-and-power?variant=44264495186172",
+        "evidenceUrl": "https://wellversed.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "44264495186172"
+      }
+    },
+    {
+      "order": 5042,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-189",
+        "date": "2026-11-19",
+        "price": 1188,
+        "currency": "INR",
+        "sourceUrl": "https://wellversed.in/products/wellcore-micronised-creatine-monohydrate-250g-83-servings-100-pure-creatine-unflavored-supports-athletic-performance-and-power?variant=47189202043132",
+        "evidenceUrl": "https://wellversed.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "47189202043132"
+      }
+    },
+    {
+      "order": 5043,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-190",
+        "date": "2026-11-19",
+        "price": 610,
+        "currency": "INR",
+        "sourceUrl": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-watermelon-wave-122g-33-servings?variant=48289470611708",
+        "evidenceUrl": "https://wellversed.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "48289470611708"
+      }
+    },
+    {
+      "order": 5044,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-191",
+        "date": "2026-11-19",
+        "price": 1188,
+        "currency": "INR",
+        "sourceUrl": "https://wellversed.in/products/wellcore-pure-micronised-creatine-monohydrate-watermelon-wave-307g-83-servings?variant=48289467498748",
+        "evidenceUrl": "https://wellversed.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "48289467498748"
+      }
+    }
+  ],
+  "refreshSources": []
+}

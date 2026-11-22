@@ -1,0 +1,249 @@
+{
+  "schemaVersion": 1,
+  "category": "vitamin-b",
+  "brand": "HK Vitals",
+  "product": "Multivitamin Gummies",
+  "variants": [
+    {
+      "order": 29,
+      "offer": {
+        "form": "Gummy",
+        "source": "Not specified",
+        "servingUnits": 1,
+        "product": "Multivitamin Gummies",
+        "type": "Vitamin / mineral combination with lichen D3",
+        "subclass": "Gummy multivitamin with K2",
+        "vitaminB3Mg": 11,
+        "vitaminB5Mg": 5,
+        "vitaminB6Mg": 1.9,
+        "biotinMcg": 40,
+        "folicAcidMcg": null,
+        "vitaminB12Mcg": 2.2,
+        "vitaminCMg": 65,
+        "vitaminDMcg": 15,
+        "vitaminK2Mcg": 55,
+        "vitaminEMg": 10,
+        "zincMg": 13.2,
+        "mineralBasis": "elemental",
+        "energyPerServing": 7.83,
+        "additionalIngredients": [
+          {
+            "name": "Vitamin B9 (chemical form and DFE basis unverified)",
+            "amount": 129.41,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Vitamin A",
+            "amount": 840,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Iron",
+            "amount": 10,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Manganese",
+            "amount": 4,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Selenium",
+            "amount": 40,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Lycopene",
+            "amount": 10,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Grape seed extract",
+            "amount": 10,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "basis": "Official panel per one gummy (3.5 g): B3 11 mg, B5 5 mg, B6 1.9 mg, B12 2.2 mcg, biotin 40 mcg, C 65 mg, lichen D3 15 mcg and K2 55 mcg; energy 7.83 kcal.",
+        "notes": "The panel names Vitamin B9 129.41 mcg without chemical form or DFE basis. It is not assigned to folic-acid or methylfolate cost calculations. Vitamin D3 is explicitly identified as cholecalciferol from lichen. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+        "brand": "HK Vitals",
+        "id": "vitamin-b-hkv-211458",
+        "packCount": 60,
+        "flavour": "Orange",
+        "price": 639,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://www.hkvitals.com/sv/hk-vitals-multivitamin-gummies/SP-112692?navKey=VRNT-211458",
+        "nutritionUrl": "https://img2.hkrtcdn.com/41488/prd_4148761-HK-Vitals-Multivitamin-Gummies-60-gummies-Orange_o.jpg",
+        "labelSources": [
+          "https://www.hkvitals.com/products/multivitamin-gummies",
+          "https://img2.hkrtcdn.com/41488/prd_4148761-HK-Vitals-Multivitamin-Gummies-60-gummies-Orange_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "packaging": "Single retail pack (60 units)",
+        "sourceVariantId": "211458",
+        "sourceProductId": "112692",
+        "declaredNutrients": [
+          "vitaminB3Mg",
+          "vitaminB5Mg",
+          "vitaminB6Mg",
+          "biotinMcg",
+          "folicAcidMcg",
+          "vitaminB12Mcg"
+        ],
+        "lastPriceReview": {
+          "checked": "2026-11-20",
+          "sourceUrl": "https://www.hkvitals.com/sv/hk-vitals-multivitamin-gummies/SP-112692?navKey=VRNT-211458",
+          "evidenceUrl": "https://www.hkvitals.com/sv/hk-vitals-multivitamin-gummies/SP-112692?navKey=VRNT-211458",
+          "matchBasis": "Fresh official HK Vitals exact legacy selected URL returned published SP-112692 / VRNT-211458 with matching brand, complete quantity/flavour attributes and unconditional INR offer_pr; profile/offer now retain explicit navKey rather than a mutable family default."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5163,
+      "observation": {
+        "category": "vitamin-b",
+        "offerId": "vitamin-b-hkv-211458",
+        "date": "2026-11-19",
+        "price": 639,
+        "currency": "INR",
+        "sourceUrl": "https://www.hkvitals.com/products/multivitamin-gummies",
+        "evidenceUrl": "https://www.hkvitals.com/products/multivitamin-gummies",
+        "kind": "official-live",
+        "matchBasis": "Official HK Vitals SSR reviewData selected numeric variant 211458; explicit pack '60 gummies', unconditional offer_pr INR and isPublish=true/oos=false. Excludes loyalty and coupon rewards.",
+        "variantId": "211458"
+      }
+    },
+    {
+      "order": 5209,
+      "observation": {
+        "category": "vitamin-b",
+        "offerId": "vitamin-b-hkv-211458",
+        "date": "2026-11-20",
+        "price": 639,
+        "currency": "INR",
+        "sourceUrl": "https://www.hkvitals.com/sv/hk-vitals-multivitamin-gummies/SP-112692?navKey=VRNT-211458",
+        "evidenceUrl": "https://www.hkvitals.com/sv/hk-vitals-multivitamin-gummies/SP-112692?navKey=VRNT-211458",
+        "kind": "official-live",
+        "variantId": "211458",
+        "matchBasis": "Fresh official HK Vitals exact legacy selected URL returned published SP-112692 / VRNT-211458 with matching brand, complete quantity/flavour attributes and unconditional INR offer_pr; profile/offer now retain explicit navKey rather than a mutable family default."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 273,
+      "profile": {
+        "form": "Gummy",
+        "source": "Not specified",
+        "servingUnits": 1,
+        "product": "Multivitamin Gummies",
+        "type": "Vitamin / mineral combination with lichen D3",
+        "subclass": "Gummy multivitamin with K2",
+        "vitaminB3Mg": 11,
+        "vitaminB5Mg": 5,
+        "vitaminB6Mg": 1.9,
+        "biotinMcg": 40,
+        "folicAcidMcg": null,
+        "vitaminB12Mcg": 2.2,
+        "vitaminCMg": 65,
+        "vitaminDMcg": 15,
+        "vitaminK2Mcg": 55,
+        "vitaminEMg": 10,
+        "zincMg": 13.2,
+        "mineralBasis": "elemental",
+        "energyPerServing": 7.83,
+        "additionalIngredients": [
+          {
+            "name": "Vitamin B9 (chemical form and DFE basis unverified)",
+            "amount": 129.41,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Vitamin A",
+            "amount": 840,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Iron",
+            "amount": 10,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Manganese",
+            "amount": 4,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Selenium",
+            "amount": 40,
+            "unit": "mcg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Lycopene",
+            "amount": 10,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Grape seed extract",
+            "amount": 10,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "basis": "Official panel per one gummy (3.5 g): B3 11 mg, B5 5 mg, B6 1.9 mg, B12 2.2 mcg, biotin 40 mcg, C 65 mg, lichen D3 15 mcg and K2 55 mcg; energy 7.83 kcal.",
+        "notes": "The panel names Vitamin B9 129.41 mcg without chemical form or DFE basis. It is not assigned to folic-acid or methylfolate cost calculations. Vitamin D3 is explicitly identified as cholecalciferol from lichen. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+        "brand": "HK Vitals",
+        "id": "vitamin-b-hkv-211458",
+        "packCount": 60,
+        "flavour": "Orange",
+        "nutritionUrl": "https://img2.hkrtcdn.com/41488/prd_4148761-HK-Vitals-Multivitamin-Gummies-60-gummies-Orange_o.jpg",
+        "labelSources": [
+          "https://www.hkvitals.com/products/multivitamin-gummies",
+          "https://img2.hkrtcdn.com/41488/prd_4148761-HK-Vitals-Multivitamin-Gummies-60-gummies-Orange_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "packaging": "Single retail pack (60 units)",
+        "sourceVariantId": "211458",
+        "sourceProductId": "112692",
+        "declaredNutrients": [
+          "vitaminB3Mg",
+          "vitaminB5Mg",
+          "vitaminB6Mg",
+          "biotinMcg",
+          "folicAcidMcg",
+          "vitaminB12Mcg"
+        ],
+        "category": "vitamin-b",
+        "kind": "hk-product",
+        "base": "https://www.hkvitals.com",
+        "handle": "multivitamin-gummies",
+        "productUrl": "https://www.hkvitals.com/sv/hk-vitals-multivitamin-gummies/SP-112692?navKey=VRNT-211458",
+        "variantUrl": "https://www.hkvitals.com/sv/hk-vitals-multivitamin-gummies/SP-112692?navKey=VRNT-211458",
+        "variantId": "211458",
+        "productId": 112692,
+        "sourceBrand": "HK Vitals",
+        "variantAttributes": {
+          "fn-att-quant": "60 gummies",
+          "spc-att-flvr": "Orange"
+        }
+      }
+    }
+  ]
+}

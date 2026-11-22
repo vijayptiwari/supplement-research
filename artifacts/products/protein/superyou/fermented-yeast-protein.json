@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "SuperYou",
+  "product": "Fermented Yeast Protein",
+  "variants": [
+    {
+      "order": 790,
+      "offer": {
+        "id": 790,
+        "brand": "SuperYou",
+        "product": "Fermented Yeast Protein",
+        "type": "Fermented yeast",
+        "flavour": "Chocolate",
+        "kg": 1,
+        "price": 1999,
+        "stock": "In stock",
+        "protein": 67,
+        "scoop": 36,
+        "serving": 36,
+        "subclass": "Fermented yeast",
+        "energy": 344.63,
+        "url": "https://superyou.in/products/chocolate-protein-powder?variant=50150697140514",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0902/2590/1858/files/1kg_Chocolate_NI_1.jpg?v=1789130392",
+        "basis": "Exact flavour nutrition label, stated protein per 100g",
+        "notes": "Use stated per-100g value. Some label serving-size headers conflict (33g versus 36g). Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Visually checked label, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://superyou.in/products/chocolate-protein-powder?variant=50150697140514",
+          "evidenceUrl": "https://superyou.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 791,
+      "offer": {
+        "id": 791,
+        "brand": "SuperYou",
+        "product": "Fermented Yeast Protein",
+        "type": "Fermented yeast",
+        "flavour": "Kesar Badam",
+        "kg": 1,
+        "price": 1999,
+        "stock": "In stock",
+        "protein": 66.67,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Fermented yeast",
+        "energy": 389.46,
+        "url": "https://superyou.in/products/kesar-badam-fermented-yeast-protein-1kg-jar?variant=51782365872418",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0902/2590/1858/files/KesarBadam_ECOM_1kg_NI.jpg?v=1789455579",
+        "basis": "Exact flavour nutrition label, stated protein per 100g",
+        "notes": "Use stated per-100g value. Some label serving-size headers conflict (33g versus 36g). Label has conflicting 33g/36g serving headers; scoop omitted. Label has conflicting 33g/36g serving headers; scoop omitted. Per-100g figures retained. Scoop weight not verified.",
+        "energyBasis": "Visually checked label, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://superyou.in/products/kesar-badam-fermented-yeast-protein-1kg-jar?variant=51782365872418",
+          "evidenceUrl": "https://superyou.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 792,
+      "offer": {
+        "id": 792,
+        "brand": "SuperYou",
+        "product": "Fermented Yeast Protein",
+        "type": "Fermented yeast",
+        "flavour": "Unflavoured",
+        "kg": 1,
+        "price": 1899,
+        "stock": "In stock",
+        "protein": 81.9,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Fermented yeast",
+        "energy": 405.98,
+        "url": "https://superyou.in/products/unflavoured-1-kg-fermented-yeast-protein?variant=50313999843618",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0902/2590/1858/files/Artboard3_6.jpg?v=1789455450",
+        "basis": "Exact flavour nutrition label, stated protein per 100g",
+        "notes": "Use stated per-100g value. Some label serving-size headers conflict (33g versus 36g). Label has conflicting 33g/36g serving headers; scoop omitted. Label has conflicting 33g/36g serving headers; scoop omitted. Per-100g figures retained. Scoop weight not verified.",
+        "energyBasis": "Visually checked label, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://superyou.in/products/unflavoured-1-kg-fermented-yeast-protein?variant=50313999843618",
+          "evidenceUrl": "https://superyou.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 2979,
+      "observation": {
+        "category": "protein",
+        "offerId": 790,
+        "date": "2026-10-25",
+        "price": 2199,
+        "currency": "INR",
+        "sourceUrl": "https://superyou.in/products/chocolate-protein-powder?variant=50150697140514",
+        "evidenceUrl": "https://superyou.in/products/chocolate-protein-powder.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "50150697140514"
+      }
+    },
+    {
+      "order": 2980,
+      "observation": {
+        "category": "protein",
+        "offerId": 791,
+        "date": "2026-10-25",
+        "price": 2199,
+        "currency": "INR",
+        "sourceUrl": "https://superyou.in/products/kesar-badam-fermented-yeast-protein-1kg-jar?variant=51782365872418",
+        "evidenceUrl": "https://superyou.in/products/kesar-badam-fermented-yeast-protein-1kg-jar.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "51782365872418"
+      }
+    },
+    {
+      "order": 2981,
+      "observation": {
+        "category": "protein",
+        "offerId": 792,
+        "date": "2026-10-25",
+        "price": 2099,
+        "currency": "INR",
+        "sourceUrl": "https://superyou.in/products/unflavoured-1-kg-fermented-yeast-protein?variant=50313999843618",
+        "evidenceUrl": "https://superyou.in/products/unflavoured-1-kg-fermented-yeast-protein.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "50313999843618"
+      }
+    },
+    {
+      "order": 4837,
+      "observation": {
+        "category": "protein",
+        "offerId": 790,
+        "date": "2026-11-19",
+        "price": 1999,
+        "currency": "INR",
+        "sourceUrl": "https://superyou.in/products/chocolate-protein-powder?variant=50150697140514",
+        "evidenceUrl": "https://superyou.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "50150697140514"
+      }
+    },
+    {
+      "order": 4838,
+      "observation": {
+        "category": "protein",
+        "offerId": 791,
+        "date": "2026-11-19",
+        "price": 1999,
+        "currency": "INR",
+        "sourceUrl": "https://superyou.in/products/kesar-badam-fermented-yeast-protein-1kg-jar?variant=51782365872418",
+        "evidenceUrl": "https://superyou.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "51782365872418"
+      }
+    },
+    {
+      "order": 4839,
+      "observation": {
+        "category": "protein",
+        "offerId": 792,
+        "date": "2026-11-19",
+        "price": 1899,
+        "currency": "INR",
+        "sourceUrl": "https://superyou.in/products/unflavoured-1-kg-fermented-yeast-protein?variant=50313999843618",
+        "evidenceUrl": "https://superyou.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "50313999843618"
+      }
+    }
+  ],
+  "refreshSources": []
+}

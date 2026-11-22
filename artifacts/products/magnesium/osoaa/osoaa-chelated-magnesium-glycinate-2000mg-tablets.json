@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "category": "magnesium",
+  "brand": "OSOAA",
+  "product": "OSOAA Chelated Magnesium Glycinate 2000mg Tablets",
+  "variants": [
+    {
+      "order": 22,
+      "offer": {
+        "id": "magnesium-nb-7575427",
+        "brand": "OSOAA",
+        "product": "OSOAA Chelated Magnesium Glycinate 2000mg Tablets",
+        "flavour": "Unflavoured",
+        "packaging": "Bottle",
+        "source": "Not specified",
+        "price": 359,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://nutrabay.com/product/osoaa-chelated-magnesium-glycinate-2000mg-tablets-high-absorption-magnesium-supplement/?pId=9516100&vId=7575427",
+        "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-OSA-1007-01-1789215832.jpg",
+        "labelSources": [
+          "https://nutrabay.com/product/osoaa-chelated-magnesium-glycinate-2000mg-tablets-high-absorption-magnesium-supplement/?pId=9516100&vId=7575427",
+          "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-OSA-1007-01-1789215832.jpg"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "retailer",
+        "sourceVariantId": "7575427",
+        "sourceProductId": "9516100",
+        "sourceSku": "NB-OSA-1007-01",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+        "notes": "Panel declares 2000 mg magnesium bisglycinate (22%) equivalent to 440 mg elemental magnesium per two tablets. Use the elemental amount, not 2000 mg, for magnesium totals.",
+        "retailer": "Nutrabay",
+        "form": "Tablet",
+        "servingUnits": 2,
+        "type": "Magnesium bisglycinate",
+        "subclass": "22% elemental magnesium declaration",
+        "magnesiumCompoundMg": 2000,
+        "magnesiumMg": 440,
+        "mineralBasis": "elemental",
+        "energyPerServing": 0.8,
+        "declaredNutrients": [
+          "magnesiumMg",
+          "magnesiumCompoundMg"
+        ],
+        "packCount": 60
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5293,
+      "observation": {
+        "category": "magnesium",
+        "offerId": "magnesium-nb-7575427",
+        "date": "2026-11-20",
+        "price": 359,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabay.com/product/osoaa-chelated-magnesium-glycinate-2000mg-tablets-high-absorption-magnesium-supplement/?pId=9516100&vId=7575427",
+        "evidenceUrl": "https://nutrabay.com/product/osoaa-chelated-magnesium-glycinate-2000mg-tablets-high-absorption-magnesium-supplement/?pId=9516100&vId=7575427",
+        "kind": "official-live",
+        "variantId": "7575427",
+        "matchBasis": "Nutrabay selected live product 9516100, variant 7575427, SKU NB-OSA-1007-01; complete selected attributes, ordinary INR sale_price, stock and actual net pack verified. Label amounts independently read from this selected gallery."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 377,
+      "profile": {
+        "id": "magnesium-nb-7575427",
+        "brand": "OSOAA",
+        "product": "OSOAA Chelated Magnesium Glycinate 2000mg Tablets",
+        "flavour": "Unflavoured",
+        "packaging": "Bottle",
+        "source": "Not specified",
+        "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-OSA-1007-01-1789215832.jpg",
+        "labelSources": [
+          "https://nutrabay.com/product/osoaa-chelated-magnesium-glycinate-2000mg-tablets-high-absorption-magnesium-supplement/?pId=9516100&vId=7575427",
+          "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-OSA-1007-01-1789215832.jpg"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "retailer",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+        "notes": "Panel declares 2000 mg magnesium bisglycinate (22%) equivalent to 440 mg elemental magnesium per two tablets. Use the elemental amount, not 2000 mg, for magnesium totals.",
+        "retailer": "Nutrabay",
+        "form": "Tablet",
+        "servingUnits": 2,
+        "type": "Magnesium bisglycinate",
+        "subclass": "22% elemental magnesium declaration",
+        "magnesiumCompoundMg": 2000,
+        "magnesiumMg": 440,
+        "mineralBasis": "elemental",
+        "energyPerServing": 0.8,
+        "declaredNutrients": [
+          "magnesiumMg",
+          "magnesiumCompoundMg"
+        ],
+        "packCount": 60,
+        "category": "magnesium",
+        "kind": "nutrabay-product",
+        "base": "https://nutrabay.com",
+        "productUrl": "https://nutrabay.com/product/osoaa-chelated-magnesium-glycinate-2000mg-tablets-high-absorption-magnesium-supplement/?pId=9516100&vId=7575427",
+        "variantUrl": "https://nutrabay.com/product/osoaa-chelated-magnesium-glycinate-2000mg-tablets-high-absorption-magnesium-supplement/?pId=9516100&vId=7575427",
+        "variantId": "7575427",
+        "productId": "9516100",
+        "variantSku": "NB-OSA-1007-01",
+        "variantAttributes": {
+          "pa_pack-size": "60"
+        },
+        "cacheKey": "nutrabay-7575427",
+        "allowRetailMultipack": true
+      }
+    }
+  ]
+}

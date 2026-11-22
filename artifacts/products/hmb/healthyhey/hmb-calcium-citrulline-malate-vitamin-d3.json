@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "category": "hmb",
+  "brand": "HealthyHey",
+  "product": "HMB Calcium + Citrulline Malate + Vitamin D3",
+  "variants": [
+    {
+      "order": 0,
+      "offer": {
+        "brand": "HealthyHey",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-11-17",
+        "packCount": null,
+        "servingUnits": null,
+        "servingGrams": 6.6,
+        "grams": 100,
+        "flavour": "Lemon",
+        "product": "HMB Calcium + Citrulline Malate + Vitamin D3",
+        "form": "Powder",
+        "type": "Calcium HMB blend",
+        "subclass": "Calcium HMB salt with citrulline malate and vitamin D3",
+        "hmbMg": null,
+        "calciumHmbMg": 3000,
+        "hmbFreeAcidMg": null,
+        "citrullineMalateMg": 3000,
+        "vitaminDMcg": 15,
+        "energyPerServing": 21.12,
+        "declaredNutrients": [
+          "calciumHmbMg",
+          "citrullineMalateMg",
+          "vitaminDMcg"
+        ],
+        "basis": "Official back label states 2 scoops (6.6 g), 3000 mg calcium hydroxyl methyl butyrate (CaHMB), 3000 mg L-citrulline DL-malate and 15 mcg vitamin D3 per serving; label net weight is 100 g.",
+        "notes": "CaHMB is the declared calcium salt mass. Free HMB payload and free L-citrulline payload are not specified and are not inferred. The product is a blend. Approximate 15 servings is not used as the cost divisor.",
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-sports-powder-hmb-calcium-supports-strength-endurance-muscle-recovery-hydroxyl-methyl-butyrate-powder-lemon-flavour-100g-1241353301.png?v=1780891339"
+        ],
+        "searchAliases": [
+          "calcium HMB",
+          "CaHMB"
+        ],
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-sports-powder-hmb-calcium-supports-strength-endurance-muscle-recovery-hydroxyl-methyl-butyrate-powder-lemon-flavour-100g-1241353301.png?v=1780891339",
+        "id": "hmb-46067580993821",
+        "price": 989,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://healthyhey.com/products/hmb-calcium-hydroxyl-methyl-butyrate-powder-lemon-flavour-100g?variant=46067580993821",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://healthyhey.com/products/hmb-calcium-hydroxyl-methyl-butyrate-powder-lemon-flavour-100g?variant=46067580993821",
+          "evidenceUrl": "https://healthyhey.com/products/hmb-calcium-hydroxyl-methyl-butyrate-powder-lemon-flavour-100g.json",
+          "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3842,
+      "observation": {
+        "category": "hmb",
+        "offerId": "hmb-46067580993821",
+        "date": "2026-11-17",
+        "price": 989,
+        "currency": "INR",
+        "sourceUrl": "https://healthyhey.com/products/hmb-calcium-hydroxyl-methyl-butyrate-powder-lemon-flavour-100g?variant=46067580993821",
+        "evidenceUrl": "https://healthyhey.com/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "46067580993821",
+        "matchBasis": "Official public Shopify feed fetched 2026-11-17; exact variant ID, unconditional listed single-pack price and stock matched. Retail net quantity and serving use the official label, not shipping weight."
+      }
+    },
+    {
+      "order": 4036,
+      "observation": {
+        "category": "hmb",
+        "offerId": "hmb-46067580993821",
+        "date": "2026-11-19",
+        "price": 989,
+        "currency": "INR",
+        "sourceUrl": "https://healthyhey.com/products/hmb-calcium-hydroxyl-methyl-butyrate-powder-lemon-flavour-100g?variant=46067580993821",
+        "evidenceUrl": "https://healthyhey.com/products/hmb-calcium-hydroxyl-methyl-butyrate-powder-lemon-flavour-100g.json",
+        "kind": "official-live",
+        "variantId": "46067580993821",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 126,
+      "profile": {
+        "category": "hmb",
+        "brand": "HealthyHey",
+        "base": "https://healthyhey.com",
+        "handle": "hmb-calcium-hydroxyl-methyl-butyrate-powder-lemon-flavour-100g",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-11-17",
+        "variantIds": [
+          "46067580993821"
+        ],
+        "packCount": null,
+        "servingUnits": null,
+        "servingGrams": 6.6,
+        "grams": 100,
+        "flavour": "Lemon",
+        "product": "HMB Calcium + Citrulline Malate + Vitamin D3",
+        "form": "Powder",
+        "type": "Calcium HMB blend",
+        "subclass": "Calcium HMB salt with citrulline malate and vitamin D3",
+        "hmbMg": null,
+        "calciumHmbMg": 3000,
+        "hmbFreeAcidMg": null,
+        "citrullineMalateMg": 3000,
+        "vitaminDMcg": 15,
+        "energyPerServing": 21.12,
+        "declaredNutrients": [
+          "calciumHmbMg",
+          "citrullineMalateMg",
+          "vitaminDMcg"
+        ],
+        "basis": "Official back label states 2 scoops (6.6 g), 3000 mg calcium hydroxyl methyl butyrate (CaHMB), 3000 mg L-citrulline DL-malate and 15 mcg vitamin D3 per serving; label net weight is 100 g.",
+        "notes": "CaHMB is the declared calcium salt mass. Free HMB payload and free L-citrulline payload are not specified and are not inferred. The product is a blend. Approximate 15 servings is not used as the cost divisor.",
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-sports-powder-hmb-calcium-supports-strength-endurance-muscle-recovery-hydroxyl-methyl-butyrate-powder-lemon-flavour-100g-1241353301.png?v=1780891339"
+        ],
+        "searchAliases": [
+          "calcium HMB",
+          "CaHMB"
+        ],
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-sports-powder-hmb-calcium-supports-strength-endurance-muscle-recovery-hydroxyl-methyl-butyrate-powder-lemon-flavour-100g-1241353301.png?v=1780891339"
+      }
+    }
+  ]
+}

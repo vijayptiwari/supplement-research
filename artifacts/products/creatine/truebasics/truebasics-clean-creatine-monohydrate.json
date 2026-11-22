@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "category": "creatine",
+  "brand": "TrueBasics",
+  "product": "TrueBasics Clean Creatine Monohydrate",
+  "variants": [
+    {
+      "order": 194,
+      "offer": {
+        "id": "cr-194",
+        "brand": "TrueBasics",
+        "product": "TrueBasics Clean Creatine Monohydrate",
+        "type": "Monohydrate",
+        "subclass": "Micronized",
+        "grade": "Clean Label Project",
+        "formulation": "Flavoured powder",
+        "packaging": "Sachets",
+        "flavour": "Citrus",
+        "grams": 120,
+        "kg": 0.12,
+        "price": 649,
+        "stock": "Listed; confirm stock",
+        "creatine": 75,
+        "scoop": 4,
+        "serving": 4,
+        "creatineServing": 3,
+        "energy": null,
+        "url": "https://www.truebasics.com/sv/truebasics-clean-creatine-monohydrate/SP-140031",
+        "nutritionUrl": "https://www.truebasics.com/sv/truebasics-clean-creatine-monohydrate/SP-140031",
+        "basis": "3g pure creatine monohydrate per 4g single-serve sachet (30 sachets pack).",
+        "notes": "Single-serve travel sachets with zero added sugar and citrus flavouring.",
+        "energyBasis": "",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "stockReview": {
+          "checked": "2026-11-19",
+          "status": "Not reverified",
+          "basis": "The exact current variant could not be matched. Earlier price evidence date retained."
+        }
+      }
+    },
+    {
+      "order": 195,
+      "offer": {
+        "id": "cr-195",
+        "brand": "TrueBasics",
+        "product": "TrueBasics Clean Creatine Monohydrate",
+        "type": "Monohydrate",
+        "subclass": "Micronized",
+        "grade": "Clean Label Project",
+        "formulation": "Flavoured powder",
+        "packaging": "Sachets",
+        "flavour": "Citrus",
+        "grams": 240,
+        "kg": 0.24,
+        "price": 1198,
+        "stock": "In stock",
+        "creatine": 75,
+        "scoop": 4,
+        "serving": 4,
+        "creatineServing": 3,
+        "energy": null,
+        "url": "https://www.truebasics.com/pk/clean-creatine-monohydrate-citrus-60-sachets-pack?navKey=PA-133869",
+        "nutritionUrl": "https://www.truebasics.com/pk/clean-creatine-monohydrate-citrus-60-sachets-pack?navKey=PA-133869",
+        "basis": "3g pure creatine monohydrate per 4g single-serve sachet (60 sachets pack).",
+        "notes": "Single-serve travel sachets with zero added sugar and citrus flavouring.",
+        "energyBasis": "",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.truebasics.com/pk/clean-creatine-monohydrate-citrus-60-sachets-pack?navKey=PA-133869",
+          "evidenceUrl": "https://www.truebasics.com/pk/clean-creatine-monohydrate-citrus-60-sachets-pack?navKey=PA-133869",
+          "matchBasis": "Official selected product schema SKU matches exact navigation key"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5047,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-195",
+        "date": "2026-11-19",
+        "price": 1198,
+        "currency": "INR",
+        "sourceUrl": "https://www.truebasics.com/pk/clean-creatine-monohydrate-citrus-60-sachets-pack?navKey=PA-133869",
+        "evidenceUrl": "https://www.truebasics.com/pk/clean-creatine-monohydrate-citrus-60-sachets-pack?navKey=PA-133869",
+        "kind": "official-live",
+        "matchBasis": "Official selected product schema SKU matches exact navigation key",
+        "variantId": "VRNT-133869"
+      }
+    }
+  ],
+  "refreshSources": []
+}

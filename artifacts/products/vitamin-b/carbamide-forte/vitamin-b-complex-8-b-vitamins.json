@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "category": "vitamin-b",
+  "brand": "Carbamide Forte",
+  "product": "Vitamin B-Complex (8 B Vitamins)",
+  "variants": [
+    {
+      "order": 5,
+      "offer": {
+        "brand": "Carbamide Forte",
+        "product": "Vitamin B-Complex (8 B Vitamins)",
+        "form": "Tablet",
+        "type": "B-complex (mixed vitamin forms)",
+        "subclass": "Full B-vitamin combination",
+        "packCount": 120,
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official supplement-facts image states serving size 1 tablet, 120 tablets; each vitamin amount is transcribed separately.",
+        "notes": "The 50 mg product-title wording is not treated as the amount of any individual B vitamin and no total B-vitamin mass is calculated.",
+        "labelChecked": "2026-10-31",
+        "declaredNutrients": [
+          "vitaminB1Mg",
+          "vitaminB2Mg",
+          "vitaminB3Mg",
+          "vitaminB5Mg",
+          "vitaminB6Mg",
+          "biotinMcg",
+          "vitaminB12Mcg",
+          "folicAcidMcg"
+        ],
+        "flavour": "Unflavoured",
+        "vitaminB1Mg": 1.8,
+        "vitaminB2Mg": 2.5,
+        "vitaminB3Mg": 18,
+        "vitaminB5Mg": 5,
+        "vitaminB6Mg": 2.4,
+        "biotinMcg": 40,
+        "vitaminB12Mcg": 2.2,
+        "folicAcidMcg": 176.47,
+        "folateMcgDfe": null,
+        "methylfolateMcg": null,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/VITAMIN_B_COMPLEX.cdr.jpg_1.jpg?v=1789731538"
+        ],
+        "id": "vitamin-b-42690407596145",
+        "price": 499,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://mycf.in/products/carbamide-forte-vitamin-b-complex-tablets-100-rda-for-b-vitamins-with-b1-b2-b3-b5-b6-b9-vitamin-b12-vitamin-b-complex-supplements-for-women-men-120-vegetarian-tablets?variant=42690407596145",
+        "nutritionUrl": "https://mycf.in/products/carbamide-forte-vitamin-b-complex-tablets-100-rda-for-b-vitamins-with-b1-b2-b3-b5-b6-b9-vitamin-b12-vitamin-b-complex-supplements-for-women-men-120-vegetarian-tablets",
+        "packaging": "Single retail pack",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://mycf.in/products/carbamide-forte-vitamin-b-complex-tablets-100-rda-for-b-vitamins-with-b1-b2-b3-b5-b6-b9-vitamin-b12-vitamin-b-complex-supplements-for-women-men-120-vegetarian-tablets?variant=42690407596145",
+          "evidenceUrl": "https://mycf.in/products/carbamide-forte-vitamin-b-complex-tablets-100-rda-for-b-vitamins-with-b1-b2-b3-b5-b6-b9-vitamin-b12-vitamin-b-complex-supplements-for-women-men-120-vegetarian-tablets.json",
+          "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3785,
+      "observation": {
+        "category": "vitamin-b",
+        "offerId": "vitamin-b-42690407596145",
+        "date": "2026-10-31",
+        "price": 499,
+        "currency": "INR",
+        "sourceUrl": "https://mycf.in/products/carbamide-forte-vitamin-b-complex-tablets-100-rda-for-b-vitamins-with-b1-b2-b3-b5-b6-b9-vitamin-b12-vitamin-b-complex-supplements-for-women-men-120-vegetarian-tablets?variant=42690407596145",
+        "evidenceUrl": "https://mycf.in/products/carbamide-forte-vitamin-b-complex-tablets-100-rda-for-b-vitamins-with-b1-b2-b3-b5-b6-b9-vitamin-b12-vitamin-b-complex-supplements-for-women-men-120-vegetarian-tablets.json",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify product variant ID, price and single retail-pack count verified; quantities come from separately cited label evidence.",
+        "variantId": "42690407596145"
+      }
+    },
+    {
+      "order": 3941,
+      "observation": {
+        "category": "vitamin-b",
+        "offerId": "vitamin-b-42690407596145",
+        "date": "2026-11-19",
+        "price": 499,
+        "currency": "INR",
+        "sourceUrl": "https://mycf.in/products/carbamide-forte-vitamin-b-complex-tablets-100-rda-for-b-vitamins-with-b1-b2-b3-b5-b6-b9-vitamin-b12-vitamin-b-complex-supplements-for-women-men-120-vegetarian-tablets?variant=42690407596145",
+        "evidenceUrl": "https://mycf.in/products/carbamide-forte-vitamin-b-complex-tablets-100-rda-for-b-vitamins-with-b1-b2-b3-b5-b6-b9-vitamin-b12-vitamin-b-complex-supplements-for-women-men-120-vegetarian-tablets.json",
+        "kind": "official-live",
+        "variantId": "42690407596145",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 69,
+      "profile": {
+        "category": "vitamin-b",
+        "brand": "Carbamide Forte",
+        "base": "https://mycf.in",
+        "handle": "carbamide-forte-vitamin-b-complex-tablets-100-rda-for-b-vitamins-with-b1-b2-b3-b5-b6-b9-vitamin-b12-vitamin-b-complex-supplements-for-women-men-120-vegetarian-tablets",
+        "product": "Vitamin B-Complex (8 B Vitamins)",
+        "form": "Tablet",
+        "type": "B-complex (mixed vitamin forms)",
+        "subclass": "Full B-vitamin combination",
+        "packCount": 120,
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official supplement-facts image states serving size 1 tablet, 120 tablets; each vitamin amount is transcribed separately.",
+        "notes": "The 50 mg product-title wording is not treated as the amount of any individual B vitamin and no total B-vitamin mass is calculated.",
+        "labelChecked": "2026-10-31",
+        "declaredNutrients": [
+          "vitaminB1Mg",
+          "vitaminB2Mg",
+          "vitaminB3Mg",
+          "vitaminB5Mg",
+          "vitaminB6Mg",
+          "biotinMcg",
+          "vitaminB12Mcg",
+          "folicAcidMcg"
+        ],
+        "flavour": "Unflavoured",
+        "vitaminB1Mg": 1.8,
+        "vitaminB2Mg": 2.5,
+        "vitaminB3Mg": 18,
+        "vitaminB5Mg": 5,
+        "vitaminB6Mg": 2.4,
+        "biotinMcg": 40,
+        "vitaminB12Mcg": 2.2,
+        "folicAcidMcg": 176.47,
+        "folateMcgDfe": null,
+        "methylfolateMcg": null,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/VITAMIN_B_COMPLEX.cdr.jpg_1.jpg?v=1789731538"
+        ],
+        "variantTitles": [
+          "Pack of 1"
+        ]
+      }
+    }
+  ]
+}

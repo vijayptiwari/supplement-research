@@ -1,0 +1,887 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "NAKPRO",
+  "product": "Nakpro Platinum ISO Zero Whey Protein Isolate",
+  "variants": [
+    {
+      "order": 422,
+      "offer": {
+        "id": 422,
+        "brand": "NAKPRO",
+        "product": "Nakpro Platinum ISO Zero Whey Protein Isolate",
+        "type": "Whey — isolate",
+        "flavour": "Chocolate",
+        "kg": 1,
+        "price": 4999,
+        "stock": "In stock",
+        "protein": 89,
+        "scoop": 34,
+        "serving": 34,
+        "subclass": "Whey isolate",
+        "energy": 370.5882352941177,
+        "url": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938598858832",
+        "nutritionUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938598858832",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Brand flavour-group table, per-serving kcal / serving g × 100",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938598858832",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 423,
+      "offer": {
+        "id": 423,
+        "brand": "NAKPRO",
+        "product": "Nakpro Platinum ISO Zero Whey Protein Isolate",
+        "type": "Whey — isolate",
+        "flavour": "Chocolate",
+        "kg": 2,
+        "price": 9898,
+        "stock": "Sold out",
+        "protein": 89,
+        "scoop": 34,
+        "serving": 34,
+        "subclass": "Whey isolate",
+        "energy": 370.5882352941177,
+        "url": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938598891600",
+        "nutritionUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938598891600",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Brand flavour-group table, per-serving kcal / serving g × 100",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938598891600",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 424,
+      "offer": {
+        "id": 424,
+        "brand": "NAKPRO",
+        "product": "Nakpro Platinum ISO Zero Whey Protein Isolate",
+        "type": "Whey — isolate",
+        "flavour": "Double Rich Chocolate",
+        "kg": 1,
+        "price": 4999,
+        "stock": "In stock",
+        "protein": 89,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey isolate",
+        "energy": null,
+        "url": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938598957136",
+        "nutritionUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938598957136",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop weight not verified. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938598957136",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 425,
+      "offer": {
+        "id": 425,
+        "brand": "NAKPRO",
+        "product": "Nakpro Platinum ISO Zero Whey Protein Isolate",
+        "type": "Whey — isolate",
+        "flavour": "Double Rich Chocolate",
+        "kg": 2,
+        "price": 9898,
+        "stock": "Sold out",
+        "protein": 89,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey isolate",
+        "energy": null,
+        "url": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938598989904",
+        "nutritionUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938598989904",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop weight not verified. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938598989904",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 426,
+      "offer": {
+        "id": 426,
+        "brand": "NAKPRO",
+        "product": "Nakpro Platinum ISO Zero Whey Protein Isolate",
+        "type": "Whey — isolate",
+        "flavour": "Malai Kulfi",
+        "kg": 1,
+        "price": 4999,
+        "stock": "In stock",
+        "protein": 89,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey isolate",
+        "energy": null,
+        "url": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938599022672",
+        "nutritionUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938599022672",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop weight not verified. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938599022672",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 427,
+      "offer": {
+        "id": 427,
+        "brand": "NAKPRO",
+        "product": "Nakpro Platinum ISO Zero Whey Protein Isolate",
+        "type": "Whey — isolate",
+        "flavour": "Malai Kulfi",
+        "kg": 2,
+        "price": 9898,
+        "stock": "Sold out",
+        "protein": 89,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey isolate",
+        "energy": null,
+        "url": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938599055440",
+        "nutritionUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938599055440",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop weight not verified. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938599055440",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 1051,
+      "observation": {
+        "category": "protein",
+        "offerId": 422,
+        "date": "2024-11-01",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938598858832",
+        "evidenceUrl": "https://web.archive.org/web/20241101223729/https://nakpro.com/products/platinum-iso-zero-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40938598858832",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1052,
+      "observation": {
+        "category": "protein",
+        "offerId": 423,
+        "date": "2024-11-01",
+        "price": 6899,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938598891600",
+        "evidenceUrl": "https://web.archive.org/web/20241101223729/https://nakpro.com/products/platinum-iso-zero-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40938598891600",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1053,
+      "observation": {
+        "category": "protein",
+        "offerId": 424,
+        "date": "2024-11-01",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938598957136",
+        "evidenceUrl": "https://web.archive.org/web/20241101223729/https://nakpro.com/products/platinum-iso-zero-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40938598957136",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1054,
+      "observation": {
+        "category": "protein",
+        "offerId": 425,
+        "date": "2024-11-01",
+        "price": 6899,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938598989904",
+        "evidenceUrl": "https://web.archive.org/web/20241101223729/https://nakpro.com/products/platinum-iso-zero-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40938598989904",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1055,
+      "observation": {
+        "category": "protein",
+        "offerId": 426,
+        "date": "2024-11-01",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938599022672",
+        "evidenceUrl": "https://web.archive.org/web/20241101223729/https://nakpro.com/products/platinum-iso-zero-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40938599022672",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1056,
+      "observation": {
+        "category": "protein",
+        "offerId": 427,
+        "date": "2024-11-01",
+        "price": 6899,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938599055440",
+        "evidenceUrl": "https://web.archive.org/web/20241101223729/https://nakpro.com/products/platinum-iso-zero-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40938599055440",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1057,
+      "observation": {
+        "category": "protein",
+        "offerId": 422,
+        "date": "2025-02-15",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938598858832",
+        "evidenceUrl": "https://web.archive.org/web/20250215063527/https://nakpro.com/products/platinum-iso-zero-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40938598858832",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1058,
+      "observation": {
+        "category": "protein",
+        "offerId": 423,
+        "date": "2025-02-15",
+        "price": 6899,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938598891600",
+        "evidenceUrl": "https://web.archive.org/web/20250215063527/https://nakpro.com/products/platinum-iso-zero-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40938598891600",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1059,
+      "observation": {
+        "category": "protein",
+        "offerId": 424,
+        "date": "2025-02-15",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938598957136",
+        "evidenceUrl": "https://web.archive.org/web/20250215063527/https://nakpro.com/products/platinum-iso-zero-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40938598957136",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1060,
+      "observation": {
+        "category": "protein",
+        "offerId": 425,
+        "date": "2025-02-15",
+        "price": 6899,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938598989904",
+        "evidenceUrl": "https://web.archive.org/web/20250215063527/https://nakpro.com/products/platinum-iso-zero-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40938598989904",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1061,
+      "observation": {
+        "category": "protein",
+        "offerId": 426,
+        "date": "2025-02-15",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938599022672",
+        "evidenceUrl": "https://web.archive.org/web/20250215063527/https://nakpro.com/products/platinum-iso-zero-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40938599022672",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1062,
+      "observation": {
+        "category": "protein",
+        "offerId": 427,
+        "date": "2025-02-15",
+        "price": 6899,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938599055440",
+        "evidenceUrl": "https://web.archive.org/web/20250215063527/https://nakpro.com/products/platinum-iso-zero-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40938599055440",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1063,
+      "observation": {
+        "category": "protein",
+        "offerId": 422,
+        "date": "2025-08-07",
+        "price": 3599,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938598858832",
+        "evidenceUrl": "https://web.archive.org/web/20250807231411/https://nakpro.com/products/platinum-iso-zero-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40938598858832",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1064,
+      "observation": {
+        "category": "protein",
+        "offerId": 423,
+        "date": "2025-08-07",
+        "price": 7099,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938598891600",
+        "evidenceUrl": "https://web.archive.org/web/20250807231411/https://nakpro.com/products/platinum-iso-zero-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40938598891600",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1065,
+      "observation": {
+        "category": "protein",
+        "offerId": 424,
+        "date": "2025-08-07",
+        "price": 3599,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938598957136",
+        "evidenceUrl": "https://web.archive.org/web/20250807231411/https://nakpro.com/products/platinum-iso-zero-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40938598957136",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1066,
+      "observation": {
+        "category": "protein",
+        "offerId": 425,
+        "date": "2025-08-07",
+        "price": 7099,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938598989904",
+        "evidenceUrl": "https://web.archive.org/web/20250807231411/https://nakpro.com/products/platinum-iso-zero-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40938598989904",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1067,
+      "observation": {
+        "category": "protein",
+        "offerId": 426,
+        "date": "2025-08-07",
+        "price": 3599,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938599022672",
+        "evidenceUrl": "https://web.archive.org/web/20250807231411/https://nakpro.com/products/platinum-iso-zero-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40938599022672",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1068,
+      "observation": {
+        "category": "protein",
+        "offerId": 427,
+        "date": "2025-08-07",
+        "price": 7099,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938599055440",
+        "evidenceUrl": "https://web.archive.org/web/20250807231411/https://nakpro.com/products/platinum-iso-zero-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40938599055440",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1069,
+      "observation": {
+        "category": "protein",
+        "offerId": 422,
+        "date": "2025-12-17",
+        "price": 3419,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938598858832",
+        "evidenceUrl": "https://web.archive.org/web/20251217000337/https://nakpro.com/products/platinum-iso-zero-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40938598858832",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1070,
+      "observation": {
+        "category": "protein",
+        "offerId": 423,
+        "date": "2025-12-17",
+        "price": 6744,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938598891600",
+        "evidenceUrl": "https://web.archive.org/web/20251217000337/https://nakpro.com/products/platinum-iso-zero-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40938598891600",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1071,
+      "observation": {
+        "category": "protein",
+        "offerId": 424,
+        "date": "2025-12-17",
+        "price": 3419,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938598957136",
+        "evidenceUrl": "https://web.archive.org/web/20251217000337/https://nakpro.com/products/platinum-iso-zero-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40938598957136",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1072,
+      "observation": {
+        "category": "protein",
+        "offerId": 425,
+        "date": "2025-12-17",
+        "price": 6744,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938598989904",
+        "evidenceUrl": "https://web.archive.org/web/20251217000337/https://nakpro.com/products/platinum-iso-zero-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40938598989904",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1073,
+      "observation": {
+        "category": "protein",
+        "offerId": 426,
+        "date": "2025-12-17",
+        "price": 3419,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938599022672",
+        "evidenceUrl": "https://web.archive.org/web/20251217000337/https://nakpro.com/products/platinum-iso-zero-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40938599022672",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1074,
+      "observation": {
+        "category": "protein",
+        "offerId": 427,
+        "date": "2025-12-17",
+        "price": 6744,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938599055440",
+        "evidenceUrl": "https://web.archive.org/web/20251217000337/https://nakpro.com/products/platinum-iso-zero-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40938599055440",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1075,
+      "observation": {
+        "category": "protein",
+        "offerId": 422,
+        "date": "2026-03-20",
+        "price": 3999,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938598858832",
+        "evidenceUrl": "https://web.archive.org/web/20260320164201/https://nakpro.com/products/platinum-iso-zero-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40938598858832",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1076,
+      "observation": {
+        "category": "protein",
+        "offerId": 423,
+        "date": "2026-03-20",
+        "price": 7898,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938598891600",
+        "evidenceUrl": "https://web.archive.org/web/20260320164201/https://nakpro.com/products/platinum-iso-zero-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40938598891600",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1077,
+      "observation": {
+        "category": "protein",
+        "offerId": 424,
+        "date": "2026-03-20",
+        "price": 3999,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938598957136",
+        "evidenceUrl": "https://web.archive.org/web/20260320164201/https://nakpro.com/products/platinum-iso-zero-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40938598957136",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1078,
+      "observation": {
+        "category": "protein",
+        "offerId": 425,
+        "date": "2026-03-20",
+        "price": 7898,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938598989904",
+        "evidenceUrl": "https://web.archive.org/web/20260320164201/https://nakpro.com/products/platinum-iso-zero-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40938598989904",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1079,
+      "observation": {
+        "category": "protein",
+        "offerId": 426,
+        "date": "2026-03-20",
+        "price": 3999,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938599022672",
+        "evidenceUrl": "https://web.archive.org/web/20260320164201/https://nakpro.com/products/platinum-iso-zero-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40938599022672",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1080,
+      "observation": {
+        "category": "protein",
+        "offerId": 427,
+        "date": "2026-03-20",
+        "price": 7898,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938599055440",
+        "evidenceUrl": "https://web.archive.org/web/20260320164201/https://nakpro.com/products/platinum-iso-zero-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40938599055440",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2611,
+      "observation": {
+        "category": "protein",
+        "offerId": 422,
+        "date": "2026-10-25",
+        "price": 4999,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938598858832",
+        "evidenceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "40938598858832"
+      }
+    },
+    {
+      "order": 2612,
+      "observation": {
+        "category": "protein",
+        "offerId": 423,
+        "date": "2026-10-25",
+        "price": 9898,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938598891600",
+        "evidenceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "40938598891600"
+      }
+    },
+    {
+      "order": 2613,
+      "observation": {
+        "category": "protein",
+        "offerId": 424,
+        "date": "2026-10-25",
+        "price": 4999,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938598957136",
+        "evidenceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "40938598957136"
+      }
+    },
+    {
+      "order": 2614,
+      "observation": {
+        "category": "protein",
+        "offerId": 425,
+        "date": "2026-10-25",
+        "price": 9898,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938598989904",
+        "evidenceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "40938598989904"
+      }
+    },
+    {
+      "order": 2615,
+      "observation": {
+        "category": "protein",
+        "offerId": 426,
+        "date": "2026-10-25",
+        "price": 4999,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938599022672",
+        "evidenceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "40938599022672"
+      }
+    },
+    {
+      "order": 2616,
+      "observation": {
+        "category": "protein",
+        "offerId": 427,
+        "date": "2026-10-25",
+        "price": 9898,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938599055440",
+        "evidenceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "40938599055440"
+      }
+    },
+    {
+      "order": 4469,
+      "observation": {
+        "category": "protein",
+        "offerId": 422,
+        "date": "2026-11-19",
+        "price": 4999,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938598858832",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "40938598858832"
+      }
+    },
+    {
+      "order": 4470,
+      "observation": {
+        "category": "protein",
+        "offerId": 423,
+        "date": "2026-11-19",
+        "price": 9898,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938598891600",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "40938598891600"
+      }
+    },
+    {
+      "order": 4471,
+      "observation": {
+        "category": "protein",
+        "offerId": 424,
+        "date": "2026-11-19",
+        "price": 4999,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938598957136",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "40938598957136"
+      }
+    },
+    {
+      "order": 4472,
+      "observation": {
+        "category": "protein",
+        "offerId": 425,
+        "date": "2026-11-19",
+        "price": 9898,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938598989904",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "40938598989904"
+      }
+    },
+    {
+      "order": 4473,
+      "observation": {
+        "category": "protein",
+        "offerId": 426,
+        "date": "2026-11-19",
+        "price": 4999,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938599022672",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "40938599022672"
+      }
+    },
+    {
+      "order": 4474,
+      "observation": {
+        "category": "protein",
+        "offerId": 427,
+        "date": "2026-11-19",
+        "price": 9898,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/platinum-iso-zero-whey-protein?variant=40938599055440",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "40938599055440"
+      }
+    }
+  ],
+  "refreshSources": []
+}

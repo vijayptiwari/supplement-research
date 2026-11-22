@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "category": "creatine",
+  "brand": "Foodstrong",
+  "product": "Micronised Creatine Monohydrate With Electrolytes",
+  "variants": [
+    {
+      "order": 220,
+      "offer": {
+        "id": "creatine-foodstrong-45572670619878",
+        "brand": "Foodstrong",
+        "product": "Micronised Creatine Monohydrate With Electrolytes",
+        "flavour": "Unflavoured",
+        "packaging": "Jar",
+        "source": "Not specified",
+        "price": 399,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://foodstrong.in/products/creatine?variant=45572670619878",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0430/7986/0381/files/CREATINE-SOP-BOP.jpg?v=1748151145",
+        "labelSources": [
+          "https://foodstrong.in/products/creatine?variant=45572670619878",
+          "https://cdn.shopify.com/s/files/1/0430/7986/0381/files/CREATINE-SOP-BOP.jpg?v=1748151145"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "45572670619878",
+        "form": "Powder",
+        "basis": "Exact manufacturer product and retail pack, ordinary INR listed price and selected stock reviewed on 20 November 2026. Label amounts are manufacturer declarations, not independent assay results. Trustified is used for discovery; a report on a different batch or formulation does not certify this offer.",
+        "notes": "Actual100g retail jar. The back panel states a3.3g heap scoop containing3g creatine monohydrate,77.5mg sodium and51.9mg potassium. Concentration90.91% is calculated from3g/3.3g, not from the contradictory100g creatine per100 g column or100% pure-creatine marketing. Label energy is0kcal. Front/how-to graphics round the scoop to3g; the detailed panel serving is retained. Marketing mentions magnesium, but the reviewed panel and ingredients only quantify sodium and potassium; magnesium is unknown. Superior absorption is not assumed.",
+        "grams": 100,
+        "kg": 0.1,
+        "type": "Monohydrate",
+        "subclass": "Micronized + electrolytes",
+        "grade": "Not specified",
+        "formulation": "Creatine and electrolyte blend",
+        "creatine": 90.90909090909092,
+        "scoop": 3.3,
+        "creatineServing": 3,
+        "energy": 0,
+        "requiresProductReview": true,
+        "productReviewReason": "The label per100 g creatine figure conflicts with its3g creatine per3.3g electrolyte serving; verify current composition before stack inclusion.",
+        "additionalIngredients": [
+          {
+            "name": "Sodium",
+            "amount": 77.5,
+            "unit": "mg",
+            "basis": "per3.3g label serving"
+          },
+          {
+            "name": "Potassium",
+            "amount": 51.9,
+            "unit": "mg",
+            "basis": "per3.3g label serving"
+          }
+        ]
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5331,
+      "observation": {
+        "category": "creatine",
+        "offerId": "creatine-foodstrong-45572670619878",
+        "date": "2026-11-20",
+        "price": 399,
+        "currency": "INR",
+        "sourceUrl": "https://foodstrong.in/products/creatine?variant=45572670619878",
+        "evidenceUrl": "https://foodstrong.in/products/creatine.json",
+        "kind": "official-live",
+        "variantId": "45572670619878",
+        "matchBasis": "Official Shopify exact variant ID 45572670619878; actual net pack in product title and selected pack gallery, ordinary INR selling price and variant stock reviewed."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 414,
+      "profile": {
+        "id": "creatine-foodstrong-45572670619878",
+        "brand": "Foodstrong",
+        "product": "Micronised Creatine Monohydrate With Electrolytes",
+        "flavour": "Unflavoured",
+        "packaging": "Jar",
+        "source": "Not specified",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0430/7986/0381/files/CREATINE-SOP-BOP.jpg?v=1748151145",
+        "labelSources": [
+          "https://foodstrong.in/products/creatine?variant=45572670619878",
+          "https://cdn.shopify.com/s/files/1/0430/7986/0381/files/CREATINE-SOP-BOP.jpg?v=1748151145"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "form": "Powder",
+        "basis": "Exact manufacturer product and retail pack, ordinary INR listed price and selected stock reviewed on 20 November 2026. Label amounts are manufacturer declarations, not independent assay results. Trustified is used for discovery; a report on a different batch or formulation does not certify this offer.",
+        "notes": "Actual100g retail jar. The back panel states a3.3g heap scoop containing3g creatine monohydrate,77.5mg sodium and51.9mg potassium. Concentration90.91% is calculated from3g/3.3g, not from the contradictory100g creatine per100 g column or100% pure-creatine marketing. Label energy is0kcal. Front/how-to graphics round the scoop to3g; the detailed panel serving is retained. Marketing mentions magnesium, but the reviewed panel and ingredients only quantify sodium and potassium; magnesium is unknown. Superior absorption is not assumed.",
+        "grams": 100,
+        "kg": 0.1,
+        "type": "Monohydrate",
+        "subclass": "Micronized + electrolytes",
+        "grade": "Not specified",
+        "formulation": "Creatine and electrolyte blend",
+        "creatine": 90.90909090909092,
+        "scoop": 3.3,
+        "creatineServing": 3,
+        "energy": 0,
+        "requiresProductReview": true,
+        "productReviewReason": "The label per100 g creatine figure conflicts with its3g creatine per3.3g electrolyte serving; verify current composition before stack inclusion.",
+        "additionalIngredients": [
+          {
+            "name": "Sodium",
+            "amount": 77.5,
+            "unit": "mg",
+            "basis": "per3.3g label serving"
+          },
+          {
+            "name": "Potassium",
+            "amount": 51.9,
+            "unit": "mg",
+            "basis": "per3.3g label serving"
+          }
+        ],
+        "category": "creatine",
+        "kind": "shopify",
+        "base": "https://foodstrong.in",
+        "handle": "creatine",
+        "variantIds": [
+          "45572670619878"
+        ],
+        "cacheKey": "foodstrong-45572670619878"
+      }
+    }
+  ]
+}

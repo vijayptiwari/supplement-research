@@ -1,0 +1,302 @@
+{
+  "schemaVersion": 1,
+  "order": 14,
+  "category": {
+    "id": "l-carnitine",
+    "label": "L-Carnitine",
+    "file": "l-carnitine.json",
+    "page": "l-carnitine.html",
+    "measurement": "units",
+    "supportsPowder": true,
+    "mainNutrient": "carnitineMg",
+    "referenceQuantity": 1000,
+    "referenceUnit": "mg",
+    "compoundLabel": "labelled L-carnitine",
+    "nutrientFields": [
+      {
+        "key": "carnitineMg",
+        "label": "L-carnitine",
+        "unit": "mg",
+        "table": true
+      },
+      {
+        "key": "carnitineCompoundMg",
+        "label": "Carnitine compound / derivative",
+        "unit": "mg",
+        "table": true,
+        "costQuantity": 1000
+      }
+    ],
+    "comparisonNote": "Free L-carnitine, L-carnitine L-tartrate and acetyl-L-carnitine are separate profiles. Compound mass is not converted into free L-carnitine. The compound-cost comparison applies within the same stated chemical form; fat transport biology does not establish a fat-loss benefit.",
+    "searchAliases": [
+      "carnitine",
+      "l carnitine"
+    ]
+  },
+  "catalog": {
+    "checked": "2026-11-20",
+    "category": "l-carnitine"
+  },
+  "guide": {
+    "id": "l-carnitine-guide",
+    "category": "l-carnitine",
+    "title": "L-carnitine: fat transport versus fat-loss marketing",
+    "summary": "Carnitine helps normal energy metabolism. Its role in moving fatty acids does not mean a drink or tablet will rapidly burn body fat.",
+    "evidence": "A 37-trial meta-analysis found a small average body-weight reduction, without significant overall changes in waist circumference or body-fat percentage. Studies do not show a guaranteed response, and exercise-performance findings vary.",
+    "limitations": "Populations, formulations and accompanying interventions differ. A small average weight change is not proof of rapid fat loss, and findings for L-carnitine cannot automatically be transferred to acetyl-L-carnitine or a blend.",
+    "catalogReading": "Distinguish declared L-carnitine from the full mass of L-carnitine L-tartrate, acetyl-L-carnitine or another compound. Compare the same basis and keep the amount of liquid or powder, label servings and added ingredients visible.",
+    "safety": "Possible effects include nausea, cramps, diarrhoea and a fishy body odour. Kidney disease, seizure disorders and medicines need individual review. A clinician should manage deficiency or drug-related treatment; retail products are not interchangeable with a prescribed plan.",
+    "sourceIds": [
+      "carnitine-overview",
+      "carnitine-weight",
+      "carnitine-physiology",
+      "supplement-quality-ods"
+    ],
+    "reviewed": "2026-11-18",
+    "author": "Supplement Research editorial synthesis",
+    "bodySteps": [
+      "The body makes carnitine from amino-acid precursors and also obtains it from food. Oral supplements add to this supply, but absorption does not guarantee extra delivery to muscle.",
+      "Carnitine helps shuttle long-chain fatty acids into mitochondria, where they can be used to make energy.",
+      "Most body carnitine is held in muscle and heart; the kidneys regulate circulating amounts. More labelled carnitine is not a direct measure of more body-fat loss."
+    ],
+    "bodySources": [
+      "carnitine-overview",
+      "carnitine-physiology"
+    ],
+    "treatment": "Clinicians use carnitine for certain established deficiency states. That is distinct from treating obesity, fatigue or a heart condition with a marketed fat-burner product.",
+    "whoMayBenefit": "People with diagnosed primary or secondary deficiency may need supervised replacement. For someone considering weight management, assess the broader nutrition and activity plan rather than assuming a fat-transport role identifies a deficiency.",
+    "routineUse": "Healthy people generally synthesize enough carnitine, including those eating vegetarian diets. A supplement is not an automatic requirement for fat loss or training; reassess the reason and measured outcome before continuing.",
+    "sectionSources": [
+      "carnitine-overview",
+      "carnitine-weight",
+      "carnitine-physiology"
+    ],
+    "searchAliases": [
+      "lclt",
+      "alcar",
+      "acetyl l carnitine"
+    ],
+    "buyingGuide": {
+      "whoCanConsider": [
+        "Adults discussing a diagnosed carnitine deficiency with a clinician may need a medically selected replacement; this is separate from sports-product shopping.",
+        "Adults reviewing a weight-management claim can consider the small average effects reported in trials alongside the wider nutrition and activity plan."
+      ],
+      "whoShouldReview": [
+        "People with kidney disease, a seizure disorder, or medicines affecting carnitine need individual advice.",
+        "People already prescribed carnitine should review any retail product with their treating clinician rather than substitute forms themselves.",
+        "Children and people who are pregnant or breastfeeding should not select an adult fat-loss product without professional guidance."
+      ],
+      "foodSummary": "Meat, fish, poultry and dairy provide carnitine. Healthy people generally synthesize sufficient carnitine too; a vegetarian diet alone does not establish a deficiency.",
+      "foods": [
+        {
+          "name": "Chicken breast, cooked",
+          "relationship": "direct",
+          "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": null,
+          "amounts": [
+            {
+              "nutrient": "Carnitine",
+              "min": 2,
+              "max": 4,
+              "unit": "mg",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "3 ounces"
+              },
+              "sourceIds": [
+                "carnitine-overview"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Whole milk",
+          "relationship": "direct",
+          "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": null,
+          "amounts": [
+            {
+              "nutrient": "Carnitine",
+              "min": 8,
+              "max": null,
+              "unit": "mg",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "1 cup"
+              },
+              "sourceIds": [
+                "carnitine-overview"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Codfish, cooked",
+          "relationship": "direct",
+          "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": null,
+          "amounts": [
+            {
+              "nutrient": "Carnitine",
+              "min": 3,
+              "max": 5,
+              "unit": "mg",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "3 ounces"
+              },
+              "sourceIds": [
+                "carnitine-overview"
+              ]
+            }
+          ]
+        }
+      ],
+      "foodSourceIds": [
+        "carnitine-overview",
+        "carnitine-physiology"
+      ],
+      "value": {
+        "routineScore": 1,
+        "targetedScore": 2,
+        "targetedUse": "An adult considering an optional adjunct to a structured weight-management plan, without a diagnosed carnitine deficiency.",
+        "reason": "Trials show a small average weight effect with variable results, not rapid or guaranteed fat burning. A normal role in fat transport does not make extra carnitine a routine need.",
+        "worthWhen": [
+          "The goal and time frame are realistic, and the decision is made within an established nutrition and activity plan.",
+          "The exact form and declared L-carnitine basis are known, rather than substituting full tartrate or acetyl-compound mass."
+        ],
+        "skipWhen": [
+          "It is being bought as a shortcut to fat loss or because meat avoidance is assumed to prove deficiency.",
+          "The buyer expects an immediate energy effect or the same outcome from every carnitine compound."
+        ],
+        "evidence": "mixed",
+        "scope": "This score covers healthy-adult fitness and weight-management purchases. It does not rate prescribed replacement for a diagnosed deficiency or assume all carnitine forms are equivalent.",
+        "sourceIds": [
+          "carnitine-overview",
+          "carnitine-weight",
+          "carnitine-physiology"
+        ]
+      },
+      "reviewed": "2026-11-18",
+      "practices": {
+        "dos": [
+          {
+            "title": "Identify the exact chemical form",
+            "detail": "Separate L-carnitine, L-carnitine L-tartrate and acetyl-L-carnitine, using the same declared basis for comparisons."
+          },
+          {
+            "title": "Keep the goal realistic",
+            "detail": "Consider any purchase within an established food and activity plan, with a clear purpose and time frame."
+          }
+        ],
+        "donts": [
+          {
+            "title": "Don't substitute full derivative weight",
+            "detail": "A tartrate or acetyl-compound headline is not automatically a verified free L-carnitine amount."
+          },
+          {
+            "title": "Don't buy a fat-loss shortcut",
+            "detail": "Meat avoidance does not prove deficiency, and a fitness product is not interchangeable with prescribed deficiency treatment."
+          }
+        ],
+        "sourceIds": [
+          "carnitine-overview",
+          "carnitine-weight",
+          "carnitine-physiology"
+        ]
+      }
+    },
+    "intakeGuide": {
+      "kind": "no-established-target",
+      "summary": "Healthy adults ordinarily synthesize enough carnitine. There is no established dietary reference intake; prescription deficiency treatment is a separate use.",
+      "targets": [],
+      "limits": [],
+      "notes": [
+        "No automatic dose increase is assigned for training frequency or experience."
+      ],
+      "sourceIds": [
+        "carnitine-overview",
+        "carnitine-weight",
+        "carnitine-physiology"
+      ],
+      "reviewed": "2026-11-17"
+    },
+    "medicalGuide": {
+      "summary": "Condition-specific evidence, separate from sports benefits and purchase priority.",
+      "conditions": [
+        {
+          "condition": "Primary and selected secondary carnitine deficiency",
+          "level": "established",
+          "findings": "Condition-specific clinical replacement is distinct from taking a marketed fat burner or substituting another carnitine form.",
+          "limits": "Clinicians use carnitine for certain established deficiency states. That is distinct from treating obesity, fatigue or a heart condition with a marketed fat-burner product.",
+          "sourceIds": [
+            "carnitine-overview",
+            "carnitine-weight",
+            "carnitine-physiology"
+          ]
+        },
+        {
+          "condition": "Obesity or persistent fatigue",
+          "level": "insufficient",
+          "findings": "Fitness products are not established treatment for obesity or an unexplained cause of fatigue.",
+          "limits": "Clinicians use carnitine for certain established deficiency states. That is distinct from treating obesity, fatigue or a heart condition with a marketed fat-burner product.",
+          "sourceIds": [
+            "carnitine-overview",
+            "carnitine-weight",
+            "carnitine-physiology"
+          ]
+        }
+      ],
+      "reviewed": "2026-11-17"
+    },
+    "pathway": {
+      "title": "The mitochondrial carnitine shuttle",
+      "summary": "Carnitine carries long-chain fatty-acid groups across the inner mitochondrial membrane. It is a transport system within energy metabolism.",
+      "tracks": [
+        {
+          "label": "Long-chain fatty-acid transport inside cells",
+          "steps": [
+            {
+              "label": "Fatty acids attach to CoA",
+              "detail": "Activated long-chain fatty acids are present as fatty acyl-CoA outside the inner mitochondrial membrane.",
+              "compartment": "Cells",
+              "icon": "molecule"
+            },
+            {
+              "label": "CPT1 transfers the acyl group",
+              "detail": "Carnitine receives the fatty-acid group, producing acylcarnitine for the shuttle.",
+              "compartment": "Mitochondrial membrane",
+              "icon": "cell"
+            },
+            {
+              "label": "Acylcarnitine crosses the inner membrane",
+              "detail": "A transporter moves acylcarnitine into the mitochondrial matrix while exchanging free carnitine.",
+              "compartment": "Mitochondrial membrane",
+              "icon": "signal"
+            },
+            {
+              "label": "CPT2 restores fatty acyl-CoA",
+              "detail": "The fatty-acid group returns to CoA for beta-oxidation; carnitine is released for reuse.",
+              "compartment": "Mitochondria",
+              "icon": "energy"
+            }
+          ]
+        }
+      ],
+      "caveat": "Absorbing supplemental carnitine does not guarantee more carnitine in muscle or faster fat oxidation. This transport role does not mean a product causes weight loss.",
+      "sourceIds": [
+        "carnitine-physiology",
+        "carnitine-overview"
+      ]
+    }
+  }
+}

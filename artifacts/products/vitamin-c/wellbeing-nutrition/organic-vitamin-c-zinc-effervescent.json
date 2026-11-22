@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "category": "vitamin-c",
+  "brand": "Wellbeing Nutrition",
+  "product": "Organic Vitamin C + Zinc Effervescent",
+  "variants": [
+    {
+      "order": 9,
+      "offer": {
+        "id": "vitamin-c-39598792933456",
+        "brand": "Wellbeing Nutrition",
+        "product": "Organic Vitamin C + Zinc Effervescent",
+        "form": "Tablet",
+        "type": "Vitamin C with natural immunity blend",
+        "subclass": "Effervescent combination",
+        "flavour": "Zesty Orange",
+        "source": "Mixed botanical/added vitamin formulation",
+        "packCount": 32,
+        "servingUnits": 1,
+        "price": 798,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://wellbeingnutrition.com/products/organic-vitamin-c-and-zinc-tablets?variant=39598792933456",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0240/2942/9840/files/image_10_1_be03de2a-e962-49e6-8167-3ed3ebe256ff.jpg?v=1768976189",
+        "labelSources": [
+          "https://wellbeingnutrition.com/products/organic-vitamin-c-and-zinc-tablets",
+          "https://cdn.shopify.com/s/files/1/0240/2942/9840/files/image_10_1_be03de2a-e962-49e6-8167-3ed3ebe256ff.jpg?v=1768976189"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Official nutrition facts: one4.1g tablet contains80mg vitamin C,12mg elemental zinc and1000mg natural immunity blend;16tablets per tube. Exact listed packs of2/4/6 tubes contain32/64/96tablets.",
+        "notes": "The1000mg front claim is blend mass, not vitamin C. Prices are the explicit listed retail multipack variants, not a synthetic multiplication of one tube price.",
+        "packaging": "Brand-listed retail pack (32 tablets)",
+        "vitaminCMg": 80,
+        "zincMg": 12,
+        "energyPerServing": 13.9,
+        "mineralBasis": "elemental"
+      }
+    },
+    {
+      "order": 10,
+      "offer": {
+        "id": "vitamin-c-39609581535312",
+        "brand": "Wellbeing Nutrition",
+        "product": "Organic Vitamin C + Zinc Effervescent",
+        "form": "Tablet",
+        "type": "Vitamin C with natural immunity blend",
+        "subclass": "Effervescent combination",
+        "flavour": "Zesty Orange",
+        "source": "Mixed botanical/added vitamin formulation",
+        "packCount": 64,
+        "servingUnits": 1,
+        "price": 1596,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://wellbeingnutrition.com/products/organic-vitamin-c-and-zinc-tablets?variant=39609581535312",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0240/2942/9840/files/image_10_1_be03de2a-e962-49e6-8167-3ed3ebe256ff.jpg?v=1768976189",
+        "labelSources": [
+          "https://wellbeingnutrition.com/products/organic-vitamin-c-and-zinc-tablets",
+          "https://cdn.shopify.com/s/files/1/0240/2942/9840/files/image_10_1_be03de2a-e962-49e6-8167-3ed3ebe256ff.jpg?v=1768976189"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Official nutrition facts: one4.1g tablet contains80mg vitamin C,12mg elemental zinc and1000mg natural immunity blend;16tablets per tube. Exact listed packs of2/4/6 tubes contain32/64/96tablets.",
+        "notes": "The1000mg front claim is blend mass, not vitamin C. Prices are the explicit listed retail multipack variants, not a synthetic multiplication of one tube price.",
+        "packaging": "Brand-listed retail pack (64 tablets)",
+        "vitaminCMg": 80,
+        "zincMg": 12,
+        "energyPerServing": 13.9,
+        "mineralBasis": "elemental"
+      }
+    },
+    {
+      "order": 11,
+      "offer": {
+        "id": "vitamin-c-39609581731920",
+        "brand": "Wellbeing Nutrition",
+        "product": "Organic Vitamin C + Zinc Effervescent",
+        "form": "Tablet",
+        "type": "Vitamin C with natural immunity blend",
+        "subclass": "Effervescent combination",
+        "flavour": "Zesty Orange",
+        "source": "Mixed botanical/added vitamin formulation",
+        "packCount": 96,
+        "servingUnits": 1,
+        "price": 2394,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://wellbeingnutrition.com/products/organic-vitamin-c-and-zinc-tablets?variant=39609581731920",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0240/2942/9840/files/image_10_1_be03de2a-e962-49e6-8167-3ed3ebe256ff.jpg?v=1768976189",
+        "labelSources": [
+          "https://wellbeingnutrition.com/products/organic-vitamin-c-and-zinc-tablets",
+          "https://cdn.shopify.com/s/files/1/0240/2942/9840/files/image_10_1_be03de2a-e962-49e6-8167-3ed3ebe256ff.jpg?v=1768976189"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Official nutrition facts: one4.1g tablet contains80mg vitamin C,12mg elemental zinc and1000mg natural immunity blend;16tablets per tube. Exact listed packs of2/4/6 tubes contain32/64/96tablets.",
+        "notes": "The1000mg front claim is blend mass, not vitamin C. Prices are the explicit listed retail multipack variants, not a synthetic multiplication of one tube price.",
+        "packaging": "Brand-listed retail pack (96 tablets)",
+        "vitaminCMg": 80,
+        "zincMg": 12,
+        "energyPerServing": 13.9,
+        "mineralBasis": "elemental"
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3972,
+      "observation": {
+        "category": "vitamin-c",
+        "offerId": "vitamin-c-39598792933456",
+        "date": "2026-11-19",
+        "price": 798,
+        "currency": "INR",
+        "sourceUrl": "https://wellbeingnutrition.com/products/organic-vitamin-c-and-zinc-tablets?variant=39598792933456",
+        "evidenceUrl": "https://wellbeingnutrition.com/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "39598792933456",
+        "matchBasis": "Official public Shopify feed exact variant ID and explicitly listed retail count; unconditional INR variant price. Label serving and payload independently checked against official label panel."
+      }
+    },
+    {
+      "order": 3973,
+      "observation": {
+        "category": "vitamin-c",
+        "offerId": "vitamin-c-39609581535312",
+        "date": "2026-11-19",
+        "price": 1596,
+        "currency": "INR",
+        "sourceUrl": "https://wellbeingnutrition.com/products/organic-vitamin-c-and-zinc-tablets?variant=39609581535312",
+        "evidenceUrl": "https://wellbeingnutrition.com/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "39609581535312",
+        "matchBasis": "Official public Shopify feed exact variant ID and explicitly listed retail count; unconditional INR variant price. Label serving and payload independently checked against official label panel."
+      }
+    },
+    {
+      "order": 3974,
+      "observation": {
+        "category": "vitamin-c",
+        "offerId": "vitamin-c-39609581731920",
+        "date": "2026-11-19",
+        "price": 2394,
+        "currency": "INR",
+        "sourceUrl": "https://wellbeingnutrition.com/products/organic-vitamin-c-and-zinc-tablets?variant=39609581731920",
+        "evidenceUrl": "https://wellbeingnutrition.com/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "39609581731920",
+        "matchBasis": "Official public Shopify feed exact variant ID and explicitly listed retail count; unconditional INR variant price. Label serving and payload independently checked against official label panel."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 156,
+      "profile": {
+        "brand": "Wellbeing Nutrition",
+        "product": "Organic Vitamin C + Zinc Effervescent",
+        "form": "Tablet",
+        "type": "Vitamin C with natural immunity blend",
+        "subclass": "Effervescent combination",
+        "flavour": "Zesty Orange",
+        "source": "Mixed botanical/added vitamin formulation",
+        "packCount": 32,
+        "servingUnits": 1,
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0240/2942/9840/files/image_10_1_be03de2a-e962-49e6-8167-3ed3ebe256ff.jpg?v=1768976189",
+        "labelSources": [
+          "https://wellbeingnutrition.com/products/organic-vitamin-c-and-zinc-tablets",
+          "https://cdn.shopify.com/s/files/1/0240/2942/9840/files/image_10_1_be03de2a-e962-49e6-8167-3ed3ebe256ff.jpg?v=1768976189"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Official nutrition facts: one4.1g tablet contains80mg vitamin C,12mg elemental zinc and1000mg natural immunity blend;16tablets per tube. Exact listed packs of2/4/6 tubes contain32/64/96tablets.",
+        "notes": "The1000mg front claim is blend mass, not vitamin C. Prices are the explicit listed retail multipack variants, not a synthetic multiplication of one tube price.",
+        "packaging": "Brand-listed retail pack (32 tablets)",
+        "vitaminCMg": 80,
+        "zincMg": 12,
+        "energyPerServing": 13.9,
+        "mineralBasis": "elemental",
+        "category": "vitamin-c",
+        "base": "https://wellbeingnutrition.com",
+        "handle": "organic-vitamin-c-and-zinc-tablets",
+        "variantIds": [
+          39598792933456
+        ],
+        "allowRetailMultipack": true,
+        "id": "vitamin-c-39598792933456"
+      }
+    },
+    {
+      "order": 157,
+      "profile": {
+        "brand": "Wellbeing Nutrition",
+        "product": "Organic Vitamin C + Zinc Effervescent",
+        "form": "Tablet",
+        "type": "Vitamin C with natural immunity blend",
+        "subclass": "Effervescent combination",
+        "flavour": "Zesty Orange",
+        "source": "Mixed botanical/added vitamin formulation",
+        "packCount": 64,
+        "servingUnits": 1,
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0240/2942/9840/files/image_10_1_be03de2a-e962-49e6-8167-3ed3ebe256ff.jpg?v=1768976189",
+        "labelSources": [
+          "https://wellbeingnutrition.com/products/organic-vitamin-c-and-zinc-tablets",
+          "https://cdn.shopify.com/s/files/1/0240/2942/9840/files/image_10_1_be03de2a-e962-49e6-8167-3ed3ebe256ff.jpg?v=1768976189"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Official nutrition facts: one4.1g tablet contains80mg vitamin C,12mg elemental zinc and1000mg natural immunity blend;16tablets per tube. Exact listed packs of2/4/6 tubes contain32/64/96tablets.",
+        "notes": "The1000mg front claim is blend mass, not vitamin C. Prices are the explicit listed retail multipack variants, not a synthetic multiplication of one tube price.",
+        "packaging": "Brand-listed retail pack (64 tablets)",
+        "vitaminCMg": 80,
+        "zincMg": 12,
+        "energyPerServing": 13.9,
+        "mineralBasis": "elemental",
+        "category": "vitamin-c",
+        "base": "https://wellbeingnutrition.com",
+        "handle": "organic-vitamin-c-and-zinc-tablets",
+        "variantIds": [
+          39609581535312
+        ],
+        "allowRetailMultipack": true,
+        "id": "vitamin-c-39609581535312"
+      }
+    },
+    {
+      "order": 158,
+      "profile": {
+        "brand": "Wellbeing Nutrition",
+        "product": "Organic Vitamin C + Zinc Effervescent",
+        "form": "Tablet",
+        "type": "Vitamin C with natural immunity blend",
+        "subclass": "Effervescent combination",
+        "flavour": "Zesty Orange",
+        "source": "Mixed botanical/added vitamin formulation",
+        "packCount": 96,
+        "servingUnits": 1,
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0240/2942/9840/files/image_10_1_be03de2a-e962-49e6-8167-3ed3ebe256ff.jpg?v=1768976189",
+        "labelSources": [
+          "https://wellbeingnutrition.com/products/organic-vitamin-c-and-zinc-tablets",
+          "https://cdn.shopify.com/s/files/1/0240/2942/9840/files/image_10_1_be03de2a-e962-49e6-8167-3ed3ebe256ff.jpg?v=1768976189"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Official nutrition facts: one4.1g tablet contains80mg vitamin C,12mg elemental zinc and1000mg natural immunity blend;16tablets per tube. Exact listed packs of2/4/6 tubes contain32/64/96tablets.",
+        "notes": "The1000mg front claim is blend mass, not vitamin C. Prices are the explicit listed retail multipack variants, not a synthetic multiplication of one tube price.",
+        "packaging": "Brand-listed retail pack (96 tablets)",
+        "vitaminCMg": 80,
+        "zincMg": 12,
+        "energyPerServing": 13.9,
+        "mineralBasis": "elemental",
+        "category": "vitamin-c",
+        "base": "https://wellbeingnutrition.com",
+        "handle": "organic-vitamin-c-and-zinc-tablets",
+        "variantIds": [
+          39609581731920
+        ],
+        "allowRetailMultipack": true,
+        "id": "vitamin-c-39609581731920"
+      }
+    }
+  ]
+}

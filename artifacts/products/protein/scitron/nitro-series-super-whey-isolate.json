@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "Scitron",
+  "product": "Nitro Series Super Whey Isolate",
+  "variants": [
+    {
+      "order": 829,
+      "offer": {
+        "id": "pr-scitron-41748060995737",
+        "brand": "Scitron",
+        "product": "Nitro Series Super Whey Isolate",
+        "type": "Whey — isolate",
+        "subclass": "Whey isolate (declared primary source)",
+        "flavour": "Double Rich Chocolate",
+        "kg": 2,
+        "protein": 72.72727272727273,
+        "scoop": 33,
+        "serving": 33,
+        "energy": 394,
+        "basis": "Exact flavour nutrition panel: 24 g protein per 33 g scoop; 72.73 g protein/100 g after label rounding. Energy is directly declared per 100 g.",
+        "energyBasis": "Official exact-flavour nutrition panel per 100 g",
+        "notes": "The official product description identifies whey isolate as the primary protein source. Product naming does not establish 100% protein concentration, hydrolysis, absorption superiority or laboratory purity. The declared 24 g/33 g basis is used for compound-cost calculations.",
+        "price": 8099,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://scitron.com/products/buy-nitro-series-super-whey-isolate?variant=41748060995737",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0591/3156/0089/files/Copy_of_Scitron_Super_Whey_isolate_R4_jpg.jpg?v=1789046504",
+        "labelChecked": "2026-11-19",
+        "checked": "2026-11-19",
+        "labelSources": [
+          "https://scitron.com/products/buy-nitro-series-super-whey-isolate?variant=41748060995737",
+          "https://cdn.shopify.com/s/files/1/0591/3156/0089/files/Copy_of_Scitron_Super_Whey_isolate_R4_jpg.jpg?v=1789046504"
+        ],
+        "grams": 2000
+      }
+    },
+    {
+      "order": 830,
+      "offer": {
+        "id": "pr-scitron-41772698599577",
+        "brand": "Scitron",
+        "product": "Nitro Series Super Whey Isolate",
+        "type": "Whey — isolate",
+        "subclass": "Whey isolate (declared primary source)",
+        "flavour": "Mocha",
+        "kg": 2,
+        "protein": 72.72727272727273,
+        "scoop": 33,
+        "serving": 33,
+        "energy": 391,
+        "basis": "Exact flavour nutrition panel: 24 g protein per 33 g scoop; 72.73 g protein/100 g after label rounding. Energy is directly declared per 100 g.",
+        "energyBasis": "Official exact-flavour nutrition panel per 100 g",
+        "notes": "The official product description identifies whey isolate as the primary protein source. Product naming does not establish 100% protein concentration, hydrolysis, absorption superiority or laboratory purity. The declared 24 g/33 g basis is used for compound-cost calculations.",
+        "price": 8099,
+        "currency": "INR",
+        "stock": "Sold out",
+        "url": "https://scitron.com/products/buy-nitro-series-super-whey-isolate?variant=41772698599577",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0591/3156/0089/files/Mocha_4.jpg?v=1789046665",
+        "labelChecked": "2026-11-19",
+        "checked": "2026-11-19",
+        "labelSources": [
+          "https://scitron.com/products/buy-nitro-series-super-whey-isolate?variant=41772698599577",
+          "https://cdn.shopify.com/s/files/1/0591/3156/0089/files/Mocha_4.jpg?v=1789046665"
+        ],
+        "grams": 2000
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5068,
+      "observation": {
+        "category": "protein",
+        "offerId": "pr-scitron-41748060995737",
+        "date": "2026-11-19",
+        "price": 8099,
+        "currency": "INR",
+        "sourceUrl": "https://scitron.com/products/buy-nitro-series-super-whey-isolate?variant=41748060995737",
+        "evidenceUrl": "https://scitron.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "variantId": "41748060995737",
+        "matchBasis": "Official public Shopify feed exact variant ID, named net retail pack and flavour; unconditional price and stock matched. Shipping grams are not used."
+      }
+    },
+    {
+      "order": 5069,
+      "observation": {
+        "category": "protein",
+        "offerId": "pr-scitron-41772698599577",
+        "date": "2026-11-19",
+        "price": 8099,
+        "currency": "INR",
+        "sourceUrl": "https://scitron.com/products/buy-nitro-series-super-whey-isolate?variant=41772698599577",
+        "evidenceUrl": "https://scitron.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "variantId": "41772698599577",
+        "matchBasis": "Official public Shopify feed exact variant ID, named net retail pack and flavour; unconditional price and stock matched. Shipping grams are not used."
+      }
+    }
+  ],
+  "refreshSources": []
+}

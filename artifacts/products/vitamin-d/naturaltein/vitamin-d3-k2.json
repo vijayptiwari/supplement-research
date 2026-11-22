@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "category": "vitamin-d",
+  "brand": "Naturaltein",
+  "product": "Vitamin D3 + K2",
+  "variants": [
+    {
+      "order": 2,
+      "offer": {
+        "brand": "Naturaltein",
+        "product": "Vitamin D3 + K2",
+        "form": "Tablet",
+        "type": "D3 (cholecalciferol)",
+        "subclass": "D3 + K2",
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official product listing; only explicitly verified label amounts are recorded.",
+        "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities.",
+        "id": "vitamin-d-42577543168083",
+        "packCount": 60,
+        "price": 399,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://naturaltein.in/products/vitamin-d3k2?variant=42577543168083",
+        "nutritionUrl": "https://naturaltein.in/products/vitamin-d3k2",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-10-29",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://naturaltein.in/products/vitamin-d3k2?variant=42577543168083",
+          "evidenceUrl": "https://naturaltein.in/products/vitamin-d3k2.json",
+          "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3719,
+      "observation": {
+        "category": "vitamin-d",
+        "offerId": "vitamin-d-42577543168083",
+        "date": "2026-10-29",
+        "price": 399,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/vitamin-d3k2?variant=42577543168083",
+        "evidenceUrl": "https://naturaltein.in/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "42577543168083"
+      }
+    },
+    {
+      "order": 3902,
+      "observation": {
+        "category": "vitamin-d",
+        "offerId": "vitamin-d-42577543168083",
+        "date": "2026-11-19",
+        "price": 399,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/vitamin-d3k2?variant=42577543168083",
+        "evidenceUrl": "https://naturaltein.in/products/vitamin-d3k2.json",
+        "kind": "official-live",
+        "variantId": "42577543168083",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 18,
+      "profile": {
+        "category": "vitamin-d",
+        "brand": "Naturaltein",
+        "base": "https://naturaltein.in",
+        "handle": "vitamin-d3k2",
+        "product": "Vitamin D3 + K2",
+        "form": "Tablet",
+        "type": "D3 (cholecalciferol)",
+        "subclass": "D3 + K2",
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official product listing; only explicitly verified label amounts are recorded.",
+        "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities."
+      }
+    }
+  ]
+}

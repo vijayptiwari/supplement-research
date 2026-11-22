@@ -1,0 +1,240 @@
+{
+  "schemaVersion": 1,
+  "category": "collagen",
+  "brand": "Isopure",
+  "product": "Isopure Collagen Peptides",
+  "variants": [
+    {
+      "order": 25,
+      "offer": {
+        "id": "collagen-nb-8144042",
+        "brand": "Isopure",
+        "product": "Isopure Collagen Peptides",
+        "flavour": "Unflavored",
+        "packaging": "Jar",
+        "source": "Marine fish and chicken",
+        "price": 1829,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://nutrabay.com/product/isopure-collagen-peptides/?pId=1502808&vId=8144042",
+        "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/variant-29595-image_7-Isopure_Collagen_Peptides__250_gm_055_Lb_Unflavored.jpg",
+        "labelSources": [
+          "https://nutrabay.com/product/isopure-collagen-peptides/?pId=1502808&vId=8144042",
+          "https://cdn2.nutrabay.com/uploads/variant/images/variant-29595-image_7-Isopure_Collagen_Peptides__250_gm_055_Lb_Unflavored.jpg"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "retailer",
+        "sourceVariantId": "8144042",
+        "sourceProductId": "1502808",
+        "sourceSku": "NB-ISO-1006-01",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+        "notes": "Hydrolysed marine peptides 12 g and undenatured chicken type II ingredient 40 mg are different materials with separate costs. Protein mass 10 g is not substituted for peptide mass. Contains fish; may contain milk/nuts.",
+        "retailer": "Nutrabay",
+        "form": "Powder",
+        "servingGrams": 12.1,
+        "type": "Hydrolysed marine peptides + native type II",
+        "subclass": "Marine/chicken combination",
+        "collagenTypes": "I,II,III (label claims)",
+        "collagenPeptidesMg": 12000,
+        "nativeTypeIIMg": 40,
+        "biotinMcg": 40,
+        "vitaminEMg": 10,
+        "energyPerServing": 42,
+        "declaredNutrients": [
+          "collagenPeptidesMg",
+          "nativeTypeIIMg",
+          "vitaminEMg",
+          "biotinMcg"
+        ],
+        "grams": 250,
+        "packCount": null
+      }
+    },
+    {
+      "order": 26,
+      "offer": {
+        "id": "collagen-nb-3052114",
+        "brand": "Isopure",
+        "product": "Isopure Collagen Peptides",
+        "flavour": "Pink Guava",
+        "packaging": "Jar",
+        "source": "Marine fish",
+        "price": 1699,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://nutrabay.com/product/isopure-collagen-peptides/?pId=1502808&vId=3052114",
+        "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-ISO-1006-02-1791316091.jpg",
+        "labelSources": [
+          "https://nutrabay.com/product/isopure-collagen-peptides/?pId=1502808&vId=3052114",
+          "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-ISO-1006-02-1791316091.jpg"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "retailer",
+        "sourceVariantId": "3052114",
+        "sourceProductId": "1502808",
+        "sourceSku": "NB-ISO-1006-02",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+        "notes": "Pink Guava is a different 5.8 g serving formula: marine peptides 5 g, not the 12 g peptide/native-II combination in the unflavoured pack. Contains fish and possible milk/soy/nut/gluten traces. Conflict: detail table rounds weight to 0.17 kg; selected 174 g option and the bottle front establish actual net grams. No price is scaled.",
+        "retailer": "Nutrabay",
+        "form": "Powder",
+        "servingGrams": 5.8,
+        "type": "Hydrolysed marine collagen peptides",
+        "subclass": "Marine peptides + biotin/vitamin E",
+        "collagenTypes": "I,III (label claims)",
+        "collagenPeptidesMg": 5000,
+        "biotinMcg": 40,
+        "vitaminEMg": 10,
+        "energyPerServing": 20.6,
+        "declaredNutrients": [
+          "collagenPeptidesMg",
+          "vitaminEMg",
+          "biotinMcg"
+        ],
+        "grams": 174,
+        "packCount": null
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5286,
+      "observation": {
+        "category": "collagen",
+        "offerId": "collagen-nb-8144042",
+        "date": "2026-11-20",
+        "price": 1829,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabay.com/product/isopure-collagen-peptides/?pId=1502808&vId=8144042",
+        "evidenceUrl": "https://nutrabay.com/product/isopure-collagen-peptides/?pId=1502808&vId=8144042",
+        "kind": "official-live",
+        "variantId": "8144042",
+        "matchBasis": "Nutrabay selected live product 1502808, variant 8144042, SKU NB-ISO-1006-01; complete selected attributes, ordinary INR sale_price, stock and actual net pack verified. Label amounts independently read from this selected gallery."
+      }
+    },
+    {
+      "order": 5287,
+      "observation": {
+        "category": "collagen",
+        "offerId": "collagen-nb-3052114",
+        "date": "2026-11-20",
+        "price": 1699,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabay.com/product/isopure-collagen-peptides/?pId=1502808&vId=3052114",
+        "evidenceUrl": "https://nutrabay.com/product/isopure-collagen-peptides/?pId=1502808&vId=3052114",
+        "kind": "official-live",
+        "variantId": "3052114",
+        "matchBasis": "Nutrabay selected live product 1502808, variant 3052114, SKU NB-ISO-1006-02; complete selected attributes, ordinary INR sale_price, stock and actual net pack verified. Label amounts independently read from this selected gallery."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 370,
+      "profile": {
+        "id": "collagen-nb-8144042",
+        "brand": "Isopure",
+        "product": "Isopure Collagen Peptides",
+        "flavour": "Unflavored",
+        "packaging": "Jar",
+        "source": "Marine fish and chicken",
+        "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/variant-29595-image_7-Isopure_Collagen_Peptides__250_gm_055_Lb_Unflavored.jpg",
+        "labelSources": [
+          "https://nutrabay.com/product/isopure-collagen-peptides/?pId=1502808&vId=8144042",
+          "https://cdn2.nutrabay.com/uploads/variant/images/variant-29595-image_7-Isopure_Collagen_Peptides__250_gm_055_Lb_Unflavored.jpg"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "retailer",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+        "notes": "Hydrolysed marine peptides 12 g and undenatured chicken type II ingredient 40 mg are different materials with separate costs. Protein mass 10 g is not substituted for peptide mass. Contains fish; may contain milk/nuts.",
+        "retailer": "Nutrabay",
+        "form": "Powder",
+        "servingGrams": 12.1,
+        "type": "Hydrolysed marine peptides + native type II",
+        "subclass": "Marine/chicken combination",
+        "collagenTypes": "I,II,III (label claims)",
+        "collagenPeptidesMg": 12000,
+        "nativeTypeIIMg": 40,
+        "biotinMcg": 40,
+        "vitaminEMg": 10,
+        "energyPerServing": 42,
+        "declaredNutrients": [
+          "collagenPeptidesMg",
+          "nativeTypeIIMg",
+          "vitaminEMg",
+          "biotinMcg"
+        ],
+        "grams": 250,
+        "packCount": null,
+        "category": "collagen",
+        "kind": "nutrabay-product",
+        "base": "https://nutrabay.com",
+        "productUrl": "https://nutrabay.com/product/isopure-collagen-peptides/?pId=1502808&vId=8144042",
+        "variantUrl": "https://nutrabay.com/product/isopure-collagen-peptides/?pId=1502808&vId=8144042",
+        "variantId": "8144042",
+        "productId": "1502808",
+        "variantSku": "NB-ISO-1006-01",
+        "variantAttributes": {
+          "pa_flavour": "Unflavored",
+          "pa_weight": "250 g (0.55 lb)"
+        },
+        "cacheKey": "nutrabay-8144042",
+        "allowRetailMultipack": true
+      }
+    },
+    {
+      "order": 371,
+      "profile": {
+        "id": "collagen-nb-3052114",
+        "brand": "Isopure",
+        "product": "Isopure Collagen Peptides",
+        "flavour": "Pink Guava",
+        "packaging": "Jar",
+        "source": "Marine fish",
+        "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-ISO-1006-02-1791316091.jpg",
+        "labelSources": [
+          "https://nutrabay.com/product/isopure-collagen-peptides/?pId=1502808&vId=3052114",
+          "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-ISO-1006-02-1791316091.jpg"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "retailer",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+        "notes": "Pink Guava is a different 5.8 g serving formula: marine peptides 5 g, not the 12 g peptide/native-II combination in the unflavoured pack. Contains fish and possible milk/soy/nut/gluten traces. Conflict: detail table rounds weight to 0.17 kg; selected 174 g option and the bottle front establish actual net grams. No price is scaled.",
+        "retailer": "Nutrabay",
+        "form": "Powder",
+        "servingGrams": 5.8,
+        "type": "Hydrolysed marine collagen peptides",
+        "subclass": "Marine peptides + biotin/vitamin E",
+        "collagenTypes": "I,III (label claims)",
+        "collagenPeptidesMg": 5000,
+        "biotinMcg": 40,
+        "vitaminEMg": 10,
+        "energyPerServing": 20.6,
+        "declaredNutrients": [
+          "collagenPeptidesMg",
+          "vitaminEMg",
+          "biotinMcg"
+        ],
+        "grams": 174,
+        "packCount": null,
+        "category": "collagen",
+        "kind": "nutrabay-product",
+        "base": "https://nutrabay.com",
+        "productUrl": "https://nutrabay.com/product/isopure-collagen-peptides/?pId=1502808&vId=3052114",
+        "variantUrl": "https://nutrabay.com/product/isopure-collagen-peptides/?pId=1502808&vId=3052114",
+        "variantId": "3052114",
+        "productId": "1502808",
+        "variantSku": "NB-ISO-1006-02",
+        "variantAttributes": {
+          "pa_flavour": "Pink Guava",
+          "pa_weight": "174 g (0.38 lb)"
+        },
+        "cacheKey": "nutrabay-3052114",
+        "allowRetailMultipack": true,
+        "specWeightIsRounded": true,
+        "netWeightEvidenceUrl": "https://cdn2.nutrabay.com/uploads/variant/images/featured_image-NB-ISO-1006-02-1791316049.jpg",
+        "netWeightEvidenceGrams": 174,
+        "netWeightEvidenceChecked": "2026-11-20"
+      }
+    }
+  ]
+}

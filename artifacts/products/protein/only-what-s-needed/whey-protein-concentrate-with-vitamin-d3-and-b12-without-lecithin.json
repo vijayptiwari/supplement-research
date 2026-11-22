@@ -1,0 +1,142 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "Only What's Needed",
+  "product": "Whey Protein Concentrate with Vitamin D3 and B12 (without lecithin)",
+  "variants": [
+    {
+      "order": 873,
+      "offer": {
+        "id": "protein-own-ownapp-00012",
+        "brand": "Only What's Needed",
+        "product": "Whey Protein Concentrate with Vitamin D3 and B12 (without lecithin)",
+        "flavour": "Unflavoured",
+        "packaging": "Pouch",
+        "source": "Not specified",
+        "price": 3399,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://onlywhatsneeded.in/product/whey-unflavoured-1kg",
+        "nutritionUrl": "https://i.mscwlns.co/media/misc/pdp_rcl/whey-unflavoured-1kg/flat%20bottom%20Unflavoured_without%20soy%20-09_hh57qq.jpg?tr=w-800",
+        "labelSources": [
+          "https://onlywhatsneeded.in/product/whey-unflavoured-1kg",
+          "https://i.mscwlns.co/media/misc/pdp_rcl/whey-unflavoured-1kg/flat%20bottom%20Unflavoured_without%20soy%20-09_hh57qq.jpg?tr=w-800"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "sourceSku": "OWNAPP.00012",
+        "sourceVariantId": "OWNAPP.00012",
+        "form": "Powder",
+        "kg": 1,
+        "type": "Whey",
+        "subclass": "Whey concentrate + vitamins D3/B12",
+        "protein": 76.47,
+        "scoop": 34,
+        "serving": 34,
+        "energy": 398.44,
+        "basis": "Exact official retail pack and ordinary INR listed price reviewed on 20 November 2026. Nutrition values are manufacturer declarations, not independent assay results. Trustified was used for discovery; a report on another batch or product does not certify this listing.",
+        "notes": "Exact manufacturer SKU OWNAPP.00012 and product URL were matched to the explicit ProductGroup variant. Current unflavoured formula declares 76.47 g protein/100g and a 34 g scoop, enriched with 1.13 mcg vitamin B12 and 7.73 mcg vitamin D3 per scoop. Those added nutrients must be included when reviewing a combined stack. Contains milk; formula is sold without added lecithin. Actual 1 kg retail pack. Unrelated copied hair-loss metadata in the website state was ignored; only matching product name,SKU,variant and reviewed panel were used.",
+        "allergens": [
+          "Milk"
+        ],
+        "requiresProductReview": true,
+        "productReviewReason": "Fortified whey contains vitamins D3 and B12; review cumulative micronutrient exposure before stack inclusion.",
+        "additionalIngredients": [
+          {
+            "name": "Vitamin D3",
+            "amount": 7.73,
+            "unit": "mcg",
+            "basis": "per 34 g label serving"
+          },
+          {
+            "name": "Vitamin B12",
+            "amount": 1.13,
+            "unit": "mcg",
+            "basis": "per 34 g label serving"
+          }
+        ]
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5313,
+      "observation": {
+        "category": "protein",
+        "offerId": "protein-own-ownapp-00012",
+        "date": "2026-11-20",
+        "price": 3399,
+        "currency": "INR",
+        "sourceUrl": "https://onlywhatsneeded.in/product/whey-unflavoured-1kg",
+        "evidenceUrl": "https://onlywhatsneeded.in/product/whey-unflavoured-1kg-mix",
+        "kind": "official-live",
+        "variantId": "OWNAPP.00012",
+        "matchBasis": "Official ProductGroup exact SKU, variantURL and explicit reviewed variant name 26g Whey Protein Concentrate | 1Kg Pack | Unflavoured (without lecithin); net pack weight cross-checked against selected product page, ordinary INR listed price and stock. Structured weight is absent; strict reviewed-weight fallback is required."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 396,
+      "profile": {
+        "id": "protein-own-ownapp-00012",
+        "brand": "Only What's Needed",
+        "product": "Whey Protein Concentrate with Vitamin D3 and B12 (without lecithin)",
+        "flavour": "Unflavoured",
+        "packaging": "Pouch",
+        "source": "Not specified",
+        "nutritionUrl": "https://i.mscwlns.co/media/misc/pdp_rcl/whey-unflavoured-1kg/flat%20bottom%20Unflavoured_without%20soy%20-09_hh57qq.jpg?tr=w-800",
+        "labelSources": [
+          "https://onlywhatsneeded.in/product/whey-unflavoured-1kg",
+          "https://i.mscwlns.co/media/misc/pdp_rcl/whey-unflavoured-1kg/flat%20bottom%20Unflavoured_without%20soy%20-09_hh57qq.jpg?tr=w-800"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "form": "Powder",
+        "kg": 1,
+        "type": "Whey",
+        "subclass": "Whey concentrate + vitamins D3/B12",
+        "protein": 76.47,
+        "scoop": 34,
+        "serving": 34,
+        "energy": 398.44,
+        "basis": "Exact official retail pack and ordinary INR listed price reviewed on 20 November 2026. Nutrition values are manufacturer declarations, not independent assay results. Trustified was used for discovery; a report on another batch or product does not certify this listing.",
+        "notes": "Exact manufacturer SKU OWNAPP.00012 and product URL were matched to the explicit ProductGroup variant. Current unflavoured formula declares 76.47 g protein/100g and a 34 g scoop, enriched with 1.13 mcg vitamin B12 and 7.73 mcg vitamin D3 per scoop. Those added nutrients must be included when reviewing a combined stack. Contains milk; formula is sold without added lecithin. Actual 1 kg retail pack. Unrelated copied hair-loss metadata in the website state was ignored; only matching product name,SKU,variant and reviewed panel were used.",
+        "allergens": [
+          "Milk"
+        ],
+        "requiresProductReview": true,
+        "productReviewReason": "Fortified whey contains vitamins D3 and B12; review cumulative micronutrient exposure before stack inclusion.",
+        "additionalIngredients": [
+          {
+            "name": "Vitamin D3",
+            "amount": 7.73,
+            "unit": "mcg",
+            "basis": "per 34 g label serving"
+          },
+          {
+            "name": "Vitamin B12",
+            "amount": 1.13,
+            "unit": "mcg",
+            "basis": "per 34 g label serving"
+          }
+        ],
+        "category": "protein",
+        "kind": "jsonld",
+        "base": "https://onlywhatsneeded.in",
+        "productUrl": "https://onlywhatsneeded.in/product/whey-unflavoured-1kg-mix",
+        "variantUrl": "https://onlywhatsneeded.in/product/whey-unflavoured-1kg",
+        "variantSku": "OWNAPP.00012",
+        "variantId": "OWNAPP.00012",
+        "variantName": "26g Whey Protein Concentrate | 1Kg Pack | Unflavoured (without lecithin)",
+        "cacheKey": "own-whey-unflavoured-1kg",
+        "grams": 1000,
+        "netWeightEvidenceUrl": "https://onlywhatsneeded.in/product/whey-unflavoured-1kg",
+        "netWeightEvidenceGrams": 1000,
+        "netWeightEvidenceChecked": "2026-11-20",
+        "netWeightEvidenceTitle": "26g Whey Protein Concentrate | 1Kg Pack | Unflavoured (without lecithin)",
+        "allowRetailMultipack": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "category": "vitamin-d",
+  "brand": "INLIFE",
+  "product": "Vitamin D3 5000 IU Cholecalciferol",
+  "variants": [
+    {
+      "order": 6,
+      "offer": {
+        "id": "vitamin-d-47755208261797",
+        "brand": "INLIFE",
+        "product": "Vitamin D3 5000 IU Cholecalciferol",
+        "form": "Softgel",
+        "type": "Cholecalciferol (D3)",
+        "subclass": "Oil-based softgel",
+        "flavour": "Unflavoured",
+        "source": "Not specified",
+        "packCount": 60,
+        "servingUnits": 1,
+        "price": 449,
+        "currency": "INR",
+        "stock": "Sold out",
+        "url": "https://inlifehealthcare.com/products/vitamin-d3-5000-iu?variant=47755208261797",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/Supplement_facts_a617e0b7-2f2e-4552-9c2c-19c942b7e841.webp?v=1782812703",
+        "labelSources": [
+          "https://inlifehealthcare.com/products/vitamin-d3-5000-iu",
+          "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/Supplement_facts_a617e0b7-2f2e-4552-9c2c-19c942b7e841.webp?v=1782812703"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Official composition panel: each softgel contains 5000 IU (125 micrograms) cholecalciferol in coconut oil. Net retail count is 60 softgels.",
+        "notes": "High-strength label amount is not a daily-intake recommendation; the label specifies use as directed by a physician.",
+        "packaging": "Brand-listed retail pack (60 softgels)",
+        "vitaminDIu": 5000,
+        "vitaminDMcg": 125
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3955,
+      "observation": {
+        "category": "vitamin-d",
+        "offerId": "vitamin-d-47755208261797",
+        "date": "2026-11-19",
+        "price": 449,
+        "currency": "INR",
+        "sourceUrl": "https://inlifehealthcare.com/products/vitamin-d3-5000-iu?variant=47755208261797",
+        "evidenceUrl": "https://inlifehealthcare.com/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "47755208261797",
+        "matchBasis": "Official public Shopify feed exact variant ID and explicitly listed retail count; unconditional INR variant price. Label serving and payload independently checked against official label panel."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 139,
+      "profile": {
+        "brand": "INLIFE",
+        "product": "Vitamin D3 5000 IU Cholecalciferol",
+        "form": "Softgel",
+        "type": "Cholecalciferol (D3)",
+        "subclass": "Oil-based softgel",
+        "flavour": "Unflavoured",
+        "source": "Not specified",
+        "packCount": 60,
+        "servingUnits": 1,
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/Supplement_facts_a617e0b7-2f2e-4552-9c2c-19c942b7e841.webp?v=1782812703",
+        "labelSources": [
+          "https://inlifehealthcare.com/products/vitamin-d3-5000-iu",
+          "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/Supplement_facts_a617e0b7-2f2e-4552-9c2c-19c942b7e841.webp?v=1782812703"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Official composition panel: each softgel contains 5000 IU (125 micrograms) cholecalciferol in coconut oil. Net retail count is 60 softgels.",
+        "notes": "High-strength label amount is not a daily-intake recommendation; the label specifies use as directed by a physician.",
+        "packaging": "Brand-listed retail pack (60 softgels)",
+        "vitaminDIu": 5000,
+        "vitaminDMcg": 125,
+        "category": "vitamin-d",
+        "base": "https://inlifehealthcare.com",
+        "handle": "vitamin-d3-5000-iu",
+        "variantIds": [
+          47755208261797
+        ],
+        "allowRetailMultipack": true,
+        "id": "vitamin-d-47755208261797"
+      }
+    }
+  ]
+}

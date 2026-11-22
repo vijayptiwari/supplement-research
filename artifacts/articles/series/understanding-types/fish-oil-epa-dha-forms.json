@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "order": 40,
+  "article": {
+    "id": "fish-oil-epa-dha-forms",
+    "category": "fish-oil",
+    "series": "understanding-types",
+    "title": "Fish-oil labels: EPA, DHA, oil forms and the real serving",
+    "summary": "Separate the source of an oil, its chemical form and its active-content arithmetic before judging a premium.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "A large fish-oil number on a bottle does not tell you how much EPA and DHA it supplies. A source name such as krill or algae adds another layer, while terms such as triglyceride and ethyl ester describe chemical form. These labels can answer different practical questions, but they are often collapsed into one claim of superior absorption. Start by identifying what is actually in the complete serving. Then compare forms on their own evidence rather than assuming that the most expensive source or fastest blood response produces the best health outcome.",
+    "sections": [
+      {
+        "id": "active-content",
+        "title": "Separate oil mass from EPA and DHA",
+        "body": "Total fish oil includes components other than EPA and DHA. If a clearly documented full serving contains 180 mg EPA and 120 mg DHA, it supplies 300 mg EPA+DHA even if the oil mass is 1,000 mg. These are illustrative quantities for reading a label, not a suggested intake. Do not add the EPA+DHA total to its components again. When one component is undisclosed, retain that gap instead of inventing a split from a generic fish-oil profile.",
+        "sourceIds": [
+          "omega-overview",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "serving-arithmetic",
+        "title": "Count complete servings before comparing cost",
+        "body": "A bottle with 60 capsules provides 30 full servings when its label serving is two capsules. A price divided by capsule count answers a different question from price per verified EPA+DHA amount. Both can be useful if their bases are clear. Compare the exact variant, ingredient declaration and observed price date, since flavours or pack versions may differ. Arithmetic creates a transparent comparison of declared content; it does not independently confirm that content or make two formulations clinically equivalent.",
+        "sourceIds": [
+          "supplement-quality-ods",
+          "omega-overview"
+        ]
+      },
+      {
+        "id": "absorption-vs-outcome",
+        "title": "An absorption difference is not the end of the comparison",
+        "body": "Chemical form and meal context can affect uptake. However, a higher short-term concentration in blood does not itself establish fewer cardiovascular events, better cognition or superior joint comfort. An outcome claim needs an appropriate human comparison using the relevant formulation and population. It is reasonable to pay for tolerability, dietary fit or convenience. It is a separate decision to pay for a promised health advantage, which needs evidence beyond a statement that one form is more bioavailable.",
+        "sourceIds": [
+          "omega-overview",
+          "omega-vital"
+        ]
+      }
+    ],
+    "forms": [
+      {
+        "name": "Fish-derived EPA and DHA",
+        "kind": "ingredient",
+        "description": "Fish oil can supply the two long-chain omega-3s in different proportions and concentrations. Total oil is not the same measure as EPA+DHA.",
+        "metabolism": "Fat digestion and transport make the fatty acids available for incorporation into tissue lipids and other metabolic uses.",
+        "evidence": "The presence of EPA and DHA provides biological relevance but does not validate every retail preparation or health claim.",
+        "value": "Compare verified EPA and DHA in the complete serving, with source, allergens and ingredient documentation visible.",
+        "sourceIds": [
+          "omega-overview"
+        ]
+      },
+      {
+        "name": "Triglyceride and re-esterified triglyceride oils",
+        "kind": "ingredient",
+        "description": "These terms describe how fatty acids are associated in the oil, rather than a separate required nutrient.",
+        "metabolism": "Digestion releases absorbable lipid products. The chemical form can influence exposure, alongside food and formulation.",
+        "evidence": "A form-related uptake result does not establish that every triglyceride-labelled product improves clinical outcomes more than another form.",
+        "value": "Request evidence relevant to the actual premium. Keep EPA+DHA quantity and finished-product quality separate from the form adjective.",
+        "sourceIds": [
+          "omega-overview"
+        ]
+      },
+      {
+        "name": "Ethyl-ester preparations",
+        "kind": "ingredient",
+        "description": "Ethyl ester describes a chemical form used in some concentrated oils and prescription preparations. It is not automatically a sign of poor quality.",
+        "metabolism": "The preparation still requires digestive handling; exposure depends on more than the front-label term alone.",
+        "evidence": "A successful prescription EPA trial cannot certify an unrelated retail ethyl-ester mixture or establish equivalence across products.",
+        "value": "Compare actual ingredients and indications; neither universal rejection nor automatic prescription equivalence follows from the form name.",
+        "sourceIds": [
+          "omega-overview",
+          "well-omega-reduce-it"
+        ]
+      },
+      {
+        "name": "Algal EPA or DHA oils",
+        "kind": "ingredient",
+        "description": "Algal sources can supply long-chain omega-3s directly. Which fatty acids and amounts are present depends on the product.",
+        "metabolism": "EPA and DHA remain distinct from the plant omega-3 ALA; a plant-origin label does not identify their actual quantities.",
+        "evidence": "Source suitability and measured content are useful questions, while outcome evidence remains formulation- and population-specific.",
+        "value": "Check EPA and DHA separately, the complete formula and dietary certification where relevant instead of assuming every algal oil has both.",
+        "sourceIds": [
+          "omega-overview",
+          "food-omega3"
+        ]
+      },
+      {
+        "name": "Softgels",
+        "kind": "delivery",
+        "description": "A softgel packages oil in counted units. Capsule size and the number of units are not active-content measurements.",
+        "metabolism": "The shell delivers a specified formulation that then undergoes fat digestion and transport.",
+        "evidence": "A format does not establish purity, oxidation status or better outcomes without relevant documentation.",
+        "value": "Calculate full servings and EPA+DHA cost, and review shell ingredients and source-related allergy information.",
+        "sourceIds": [
+          "supplement-quality-ods",
+          "food-allergens"
+        ]
+      },
+      {
+        "name": "Liquids and flavoured oils",
+        "kind": "delivery",
+        "description": "A liquid changes measuring and storage practicality. The stated spoon or millilitre serving is the basis for its declarations.",
+        "metabolism": "The supplied fatty acids follow normal lipid handling; a liquid format does not bypass the need for accurate ingredient information.",
+        "evidence": "Convenience and palatability can affect use, but neither is proof of a clinical advantage over a well-specified softgel.",
+        "value": "Check the measuring basis, servings per bottle, storage instructions and full ingredient list before comparing convenience premiums.",
+        "sourceIds": [
+          "omega-overview",
+          "supplement-quality-ods"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "omega-overview",
+      "supplement-quality-ods",
+      "omega-vital",
+      "well-omega-reduce-it",
+      "food-omega3",
+      "food-allergens"
+    ]
+  }
+}

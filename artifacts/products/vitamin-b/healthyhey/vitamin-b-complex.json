@@ -1,0 +1,212 @@
+{
+  "schemaVersion": 1,
+  "category": "vitamin-b",
+  "brand": "HealthyHey",
+  "product": "Vitamin B-Complex",
+  "variants": [
+    {
+      "order": 0,
+      "offer": {
+        "brand": "HealthyHey",
+        "product": "Vitamin B-Complex",
+        "form": "Capsule",
+        "type": "B-complex (forms not verified)",
+        "subclass": "Full B-vitamin combination",
+        "packCount": 60,
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official product description lists all eight B vitamins and a one-capsule serving; exact numeric nutrient amounts have not been verified.",
+        "notes": "The 60 and 90 choices are capsule counts. Shared product-page directions are recorded; nutrient quantities remain unknown for both packs. Current product JSON does not establish stock; availability should be confirmed.",
+        "labelChecked": "2026-10-31",
+        "declaredNutrients": [
+          "vitaminB1Mg",
+          "vitaminB2Mg",
+          "vitaminB3Mg",
+          "vitaminB5Mg",
+          "vitaminB6Mg",
+          "biotinMcg",
+          "vitaminB12Mcg",
+          "folicAcidMcg"
+        ],
+        "flavour": "Unflavoured",
+        "vitaminB1Mg": null,
+        "vitaminB2Mg": null,
+        "vitaminB3Mg": null,
+        "vitaminB5Mg": null,
+        "vitaminB6Mg": null,
+        "biotinMcg": null,
+        "vitaminB12Mcg": null,
+        "folicAcidMcg": null,
+        "folateMcgDfe": null,
+        "methylfolateMcg": null,
+        "id": "vitamin-b-44683783602461",
+        "price": 1389,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-b-complex-60-vegetable-capsules?variant=44683783602461",
+        "nutritionUrl": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-b-complex-60-vegetable-capsules",
+        "packaging": "Single retail pack",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-b-complex-60-vegetable-capsules?variant=44683783602461",
+          "evidenceUrl": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-b-complex-60-vegetable-capsules.json",
+          "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+        }
+      }
+    },
+    {
+      "order": 1,
+      "offer": {
+        "brand": "HealthyHey",
+        "product": "Vitamin B-Complex",
+        "form": "Capsule",
+        "type": "B-complex (forms not verified)",
+        "subclass": "Full B-vitamin combination",
+        "packCount": 90,
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official product description lists all eight B vitamins and a one-capsule serving; exact numeric nutrient amounts have not been verified.",
+        "notes": "The 60 and 90 choices are capsule counts. Shared product-page directions are recorded; nutrient quantities remain unknown for both packs. Current product JSON does not establish stock; availability should be confirmed.",
+        "labelChecked": "2026-10-31",
+        "declaredNutrients": [
+          "vitaminB1Mg",
+          "vitaminB2Mg",
+          "vitaminB3Mg",
+          "vitaminB5Mg",
+          "vitaminB6Mg",
+          "biotinMcg",
+          "vitaminB12Mcg",
+          "folicAcidMcg"
+        ],
+        "flavour": "Unflavoured",
+        "vitaminB1Mg": null,
+        "vitaminB2Mg": null,
+        "vitaminB3Mg": null,
+        "vitaminB5Mg": null,
+        "vitaminB6Mg": null,
+        "biotinMcg": null,
+        "vitaminB12Mcg": null,
+        "folicAcidMcg": null,
+        "folateMcgDfe": null,
+        "methylfolateMcg": null,
+        "id": "vitamin-b-44683783635229",
+        "price": 1969,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-b-complex-60-vegetable-capsules?variant=44683783635229",
+        "nutritionUrl": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-b-complex-60-vegetable-capsules",
+        "packaging": "Single retail pack",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-b-complex-60-vegetable-capsules?variant=44683783635229",
+          "evidenceUrl": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-b-complex-60-vegetable-capsules.json",
+          "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3780,
+      "observation": {
+        "category": "vitamin-b",
+        "offerId": "vitamin-b-44683783602461",
+        "date": "2026-10-31",
+        "price": 1389,
+        "currency": "INR",
+        "sourceUrl": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-b-complex-60-vegetable-capsules?variant=44683783602461",
+        "evidenceUrl": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-b-complex-60-vegetable-capsules.json",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify product variant ID, price and single retail-pack count verified; quantities come from separately cited label evidence.",
+        "variantId": "44683783602461"
+      }
+    },
+    {
+      "order": 3781,
+      "observation": {
+        "category": "vitamin-b",
+        "offerId": "vitamin-b-44683783635229",
+        "date": "2026-10-31",
+        "price": 1969,
+        "currency": "INR",
+        "sourceUrl": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-b-complex-60-vegetable-capsules?variant=44683783635229",
+        "evidenceUrl": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-b-complex-60-vegetable-capsules.json",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify product variant ID, price and single retail-pack count verified; quantities come from separately cited label evidence.",
+        "variantId": "44683783635229"
+      }
+    },
+    {
+      "order": 3936,
+      "observation": {
+        "category": "vitamin-b",
+        "offerId": "vitamin-b-44683783602461",
+        "date": "2026-11-19",
+        "price": 1389,
+        "currency": "INR",
+        "sourceUrl": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-b-complex-60-vegetable-capsules?variant=44683783602461",
+        "evidenceUrl": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-b-complex-60-vegetable-capsules.json",
+        "kind": "official-live",
+        "variantId": "44683783602461",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
+    },
+    {
+      "order": 3937,
+      "observation": {
+        "category": "vitamin-b",
+        "offerId": "vitamin-b-44683783635229",
+        "date": "2026-11-19",
+        "price": 1969,
+        "currency": "INR",
+        "sourceUrl": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-b-complex-60-vegetable-capsules?variant=44683783635229",
+        "evidenceUrl": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-b-complex-60-vegetable-capsules.json",
+        "kind": "official-live",
+        "variantId": "44683783635229",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 65,
+      "profile": {
+        "category": "vitamin-b",
+        "brand": "HealthyHey",
+        "base": "https://healthyhey.com",
+        "handle": "healthyhey-nutrition-vitamin-b-complex-60-vegetable-capsules",
+        "product": "Vitamin B-Complex",
+        "form": "Capsule",
+        "type": "B-complex (forms not verified)",
+        "subclass": "Full B-vitamin combination",
+        "packCount": 60,
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official product description lists all eight B vitamins and a one-capsule serving; exact numeric nutrient amounts have not been verified.",
+        "notes": "The 60 and 90 choices are capsule counts. Shared product-page directions are recorded; nutrient quantities remain unknown for both packs.",
+        "labelChecked": "2026-10-31",
+        "declaredNutrients": [
+          "vitaminB1Mg",
+          "vitaminB2Mg",
+          "vitaminB3Mg",
+          "vitaminB5Mg",
+          "vitaminB6Mg",
+          "biotinMcg",
+          "vitaminB12Mcg",
+          "folicAcidMcg"
+        ],
+        "flavour": "Unflavoured",
+        "vitaminB1Mg": null,
+        "vitaminB2Mg": null,
+        "vitaminB3Mg": null,
+        "vitaminB5Mg": null,
+        "vitaminB6Mg": null,
+        "biotinMcg": null,
+        "vitaminB12Mcg": null,
+        "folicAcidMcg": null,
+        "folateMcgDfe": null,
+        "methylfolateMcg": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "order": 31,
+  "article": {
+    "id": "biotin-blood-tests-labels",
+    "category": "biotin",
+    "series": "practical-guides",
+    "title": "Biotin and blood tests: the label detail to disclose before an investigation",
+    "summary": "Learn how assay interference differs from disease, why one stopping interval does not fit every test and where biotin can hide in a stack.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "A vitamin marketed for hair can matter during an investigation that has nothing to do with hair. The issue is not simply whether a supplement feels gentle or whether it is water-soluble. Some laboratory methods use chemistry that is vulnerable to biotin exposure, which can change the reported result. The useful response is accurate disclosure and coordination with the testing team, rather than panic, secrecy or a universal instruction to stop every product for the same number of hours.",
+    "sections": [
+      {
+        "id": "assay",
+        "title": "Interference changes a measurement, not necessarily the body",
+        "body": "A laboratory assay is a method for measuring a substance in a sample. Biotin can interfere with certain assay designs so that the reported value does not accurately represent the person's state. This differs from a genuine rise or fall in the biological quantity being investigated. A surprising result can therefore require discussion of both the clinical picture and the method used. A supplement history is part of that interpretation; it is not an alternative diagnosis that a consumer should apply independently to dismiss an abnormal report.",
+        "sourceIds": [
+          "biotin-lab",
+          "biotin-overview"
+        ]
+      },
+      {
+        "id": "important-tests",
+        "title": "Why the consequence can be clinically important",
+        "body": "FDA communications highlight the concern that susceptible troponin tests can produce falsely low results in the presence of biotin. Troponin is used in evaluating possible heart injury, so a misleading result can affect an important clinical decision. Other susceptible assays can also be affected. The direction and magnitude of the problem depend on the test design and exposure, rather than following one simple rule that every result becomes high or low. Recognising that dependence is more useful than memorising a misleading universal slogan.",
+        "sourceIds": [
+          "biotin-lab"
+        ]
+      },
+      {
+        "id": "inventory",
+        "title": "Look beyond the bottle called biotin",
+        "body": "Biotin may appear in a B-complex, a multivitamin, hair gummies and other combination formulas. Read the ingredient panels rather than relying on the product's category name. Record the amount per complete serving, the number of units actually used and when it was last taken. Photographs of the exact products can make the conversation with the testing team easier. An incomplete list can miss overlapping exposures, while a front-panel blend total may not reveal the amount of biotin itself.",
+        "sourceIds": [
+          "biotin-overview",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "units",
+        "title": "Milligrams and micrograms can conceal a large difference",
+        "body": "One milligram equals one thousand micrograms. A change in the unit can therefore make two label numbers look more similar than their actual amounts. Keep the original units with the declaration, then use a consistent basis if arithmetic is necessary. Do not count an amount printed in two equivalent units as two separate contributions. Equally, do not guess an undeclared biotin amount from the weight of a B-complex blend. Reliable disclosure is better than a precise-looking total built from unverified assumptions.",
+        "sourceIds": [
+          "biotin-overview",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "instructions",
+        "title": "Ask for instructions specific to the planned test",
+        "body": "There is no single stopping interval that reliably fits every test, laboratory platform, exposure and person. Tell the requesting clinician and laboratory about the actual products before the blood draw and follow their instructions. A standard internet washout rule may fail to address the method used, and stopping a prescribed treatment without discussion creates a different risk. A written record of the plan can help when several clinics or laboratories are involved. The laboratory team can also decide whether an alternative assay or repeat measurement is appropriate.",
+        "sourceIds": [
+          "biotin-lab",
+          "biotin-overview"
+        ]
+      },
+      {
+        "id": "urgent",
+        "title": "Do not delay urgent assessment to complete a supplement interval",
+        "body": "If urgent symptoms require medical attention, disclose recent biotin use promptly rather than waiting at home to satisfy an internet stopping rule. The treating team needs the timing and product information so it can interpret tests within the clinical situation. A possible interference is not reassurance that a symptom is harmless, and it is not a reason to ignore medical advice. The practical safety action is communication with the people making the decision, not trying to manage an urgent investigation through a retail supplement routine.",
+        "sourceIds": [
+          "biotin-lab"
+        ]
+      },
+      {
+        "id": "unexpected",
+        "title": "What to do with an unexpected result",
+        "body": "Keep the original report and tell the clinician about the biotin history, especially if the numbers do not seem to fit the reason for testing. Avoid changing several supplements or medicines and then trying to interpret the next result without a record of what changed. Do not diagnose yourself from a single value, but do not assume biotin explains every abnormality either. The clinician and laboratory can assess whether interference is plausible and whether further testing or a different measurement approach is needed.",
+        "sourceIds": [
+          "biotin-lab",
+          "biotin-overview"
+        ]
+      },
+      {
+        "id": "buying",
+        "title": "Bring the testing burden into the value calculation",
+        "body": "A beauty supplement's price is not its only practical cost. Consider whether there is a demonstrated reason to use it, whether the label is clear enough to disclose, and whether it complicates ongoing investigations. A lower cost per microgram cannot establish a useful cosmetic effect or remove assay concerns. Keeping an accurate supplement list is a reusable habit across medical care. The informed choice may be a targeted, supervised treatment, a simpler formula or no additional biotin purchase when a relevant need has not been established.",
+        "sourceIds": [
+          "supplement-quality-ods",
+          "biotin-overview"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "biotin-lab",
+      "biotin-overview",
+      "supplement-quality-ods"
+    ]
+  }
+}

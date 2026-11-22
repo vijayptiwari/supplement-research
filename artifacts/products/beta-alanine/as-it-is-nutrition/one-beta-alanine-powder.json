@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "category": "beta-alanine",
+  "brand": "AS-IT-IS Nutrition",
+  "product": "ONE Beta-Alanine Powder",
+  "variants": [
+    {
+      "order": 0,
+      "offer": {
+        "brand": "AS-IT-IS Nutrition",
+        "product": "ONE Beta-Alanine Powder",
+        "form": "Powder",
+        "type": "Beta-alanine",
+        "subclass": "Single amino acid",
+        "source": "Not specified",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "grams": 250,
+        "servingGrams": 2.5,
+        "basis": "Official title and single-ingredient description specify 2.5 g beta-alanine per serving; exact selected pack is 250 g.",
+        "notes": "The label serving is used for comparison only; it is not an individualized dose recommendation.",
+        "labelChecked": "2026-11-17",
+        "betaAlanineMg": 2500,
+        "energyPerServing": null,
+        "labelSources": [
+          "https://asitisnutrition.com/products/beta-alanine-powder-supplement"
+        ],
+        "id": "beta-alanine-8571090993203",
+        "price": 663,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://asitisnutrition.com/products/beta-alanine-powder-supplement?variant=8571090993203",
+        "nutritionUrl": "https://asitisnutrition.com/products/beta-alanine-powder-supplement",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://asitisnutrition.com/products/beta-alanine-powder-supplement?variant=8571090993203",
+          "evidenceUrl": "https://asitisnutrition.com/products/beta-alanine-powder-supplement.json",
+          "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3827,
+      "observation": {
+        "category": "beta-alanine",
+        "offerId": "beta-alanine-8571090993203",
+        "date": "2026-11-17",
+        "price": 663,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/beta-alanine-powder-supplement?variant=8571090993203",
+        "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Direct official same-day source; exact retail variant and weight. Member, prepaid and coupon discounts excluded.",
+        "variantId": "8571090993203"
+      }
+    },
+    {
+      "order": 4026,
+      "observation": {
+        "category": "beta-alanine",
+        "offerId": "beta-alanine-8571090993203",
+        "date": "2026-11-19",
+        "price": 663,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/beta-alanine-powder-supplement?variant=8571090993203",
+        "evidenceUrl": "https://asitisnutrition.com/products/beta-alanine-powder-supplement.json",
+        "kind": "official-live",
+        "variantId": "8571090993203",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 111,
+      "profile": {
+        "category": "beta-alanine",
+        "brand": "AS-IT-IS Nutrition",
+        "base": "https://asitisnutrition.com",
+        "handle": "beta-alanine-powder-supplement",
+        "product": "ONE Beta-Alanine Powder",
+        "form": "Powder",
+        "type": "Beta-alanine",
+        "subclass": "Single amino acid",
+        "source": "Not specified",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "grams": 250,
+        "servingGrams": 2.5,
+        "basis": "Official title and single-ingredient description specify 2.5 g beta-alanine per serving; exact selected pack is 250 g.",
+        "notes": "The label serving is used for comparison only; it is not an individualized dose recommendation.",
+        "labelChecked": "2026-11-17",
+        "variantIds": [
+          "8571090993203"
+        ],
+        "betaAlanineMg": 2500,
+        "energyPerServing": null,
+        "labelSources": [
+          "https://asitisnutrition.com/products/beta-alanine-powder-supplement"
+        ]
+      }
+    }
+  ]
+}

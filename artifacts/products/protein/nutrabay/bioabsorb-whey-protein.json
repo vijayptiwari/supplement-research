@@ -1,0 +1,375 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "Nutrabay",
+  "product": "BioAbsorb Whey Protein",
+  "variants": [
+    {
+      "order": 840,
+      "offer": {
+        "id": "protein-nb-6919061",
+        "brand": "Nutrabay",
+        "product": "BioAbsorb Whey Protein",
+        "flavour": "Milk Chocolate",
+        "packaging": "Jar",
+        "source": "Not specified",
+        "price": 3899,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://nutrabay.com/product/nutrabay-bioabsorb-whey-protein?pId=8042444&vId=6919061",
+        "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1096-06-1790321417.png",
+        "labelSources": [
+          "https://nutrabay.com/product/nutrabay-bioabsorb-whey-protein?pId=8042444&vId=6919061",
+          "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1096-06-1790321417.png"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "6919061",
+        "sourceProductId": "8042444",
+        "sourceSku": "NB-NUT-1096-06",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results. Per 100 g: protein 72.75 g; energy 381.03 kcal; gram serving 36 g.",
+        "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Probiotic CFU are label claims, not a verified live count at consumption. Advertising about enhanced absorption has not been adopted as comparative efficacy evidence. Label allergen declaration: contains milk and may contain soy.",
+        "form": "Powder",
+        "kg": 1,
+        "protein": 72.75,
+        "scoop": 36,
+        "serving": 36,
+        "energy": 381.03,
+        "type": "Whey",
+        "subclass": "Whey concentrate + probiotic/enzyme blend",
+        "additionalIngredients": [
+          {
+            "name": "Digestive enzyme blend",
+            "amount": 150,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Probiotic blend",
+            "amount": 50000000000,
+            "unit": "CFU",
+            "basis": "per label serving"
+          }
+        ]
+      }
+    },
+    {
+      "order": 841,
+      "offer": {
+        "id": "protein-nb-6457758",
+        "brand": "Nutrabay",
+        "product": "BioAbsorb Whey Protein",
+        "flavour": "Milk Chocolate",
+        "packaging": "Jar",
+        "source": "Not specified",
+        "price": 6699,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://nutrabay.com/product/nutrabay-bioabsorb-whey-protein?pId=8042444&vId=6457758",
+        "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1096-11-1790321822.png",
+        "labelSources": [
+          "https://nutrabay.com/product/nutrabay-bioabsorb-whey-protein?pId=8042444&vId=6457758",
+          "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1096-11-1790321822.png"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "6457758",
+        "sourceProductId": "8042444",
+        "sourceSku": "NB-NUT-1096-11",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results. Per 100 g: protein 72.75 g; energy 381.03 kcal; gram serving 36 g.",
+        "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Probiotic CFU are label claims, not a verified live count at consumption. Advertising about enhanced absorption has not been adopted as comparative efficacy evidence. Label allergen declaration: contains milk and may contain soy.",
+        "form": "Powder",
+        "kg": 2,
+        "protein": 72.75,
+        "scoop": 36,
+        "serving": 36,
+        "energy": 381.03,
+        "type": "Whey",
+        "subclass": "Whey concentrate + probiotic/enzyme blend",
+        "additionalIngredients": [
+          {
+            "name": "Digestive enzyme blend",
+            "amount": 150,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Probiotic blend",
+            "amount": 50000000000,
+            "unit": "CFU",
+            "basis": "per label serving"
+          }
+        ]
+      }
+    },
+    {
+      "order": 842,
+      "offer": {
+        "id": "protein-nb-9310886",
+        "brand": "Nutrabay",
+        "product": "BioAbsorb Whey Protein",
+        "flavour": "Dark Chocolate (naturally Sweetened)",
+        "packaging": "Jar",
+        "source": "Not specified",
+        "price": 3859,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://nutrabay.com/product/nutrabay-bioabsorb-whey-protein?pId=8042444&vId=9310886",
+        "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1096-10-1790320793.png",
+        "labelSources": [
+          "https://nutrabay.com/product/nutrabay-bioabsorb-whey-protein?pId=8042444&vId=9310886",
+          "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1096-10-1790320793.png"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "9310886",
+        "sourceProductId": "8042444",
+        "sourceSku": "NB-NUT-1096-10",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results. Per 100 g: protein 71.65 g; energy 384.7 kcal; gram serving 37 g.",
+        "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Probiotic CFU are label claims, not a verified live count at consumption. Advertising about enhanced absorption has not been adopted as comparative efficacy evidence. Label allergen declaration: contains milk and may contain soy.",
+        "form": "Powder",
+        "kg": 1,
+        "protein": 71.65,
+        "scoop": 37,
+        "serving": 37,
+        "energy": 384.7,
+        "type": "Whey",
+        "subclass": "Whey concentrate + probiotic/enzyme blend",
+        "additionalIngredients": [
+          {
+            "name": "Digestive enzyme blend",
+            "amount": 150,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Probiotic blend",
+            "amount": 50000000000,
+            "unit": "CFU",
+            "basis": "per label serving"
+          }
+        ]
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5226,
+      "observation": {
+        "category": "protein",
+        "offerId": "protein-nb-6919061",
+        "date": "2026-11-20",
+        "price": 3899,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabay.com/product/nutrabay-bioabsorb-whey-protein?pId=8042444&vId=6919061",
+        "evidenceUrl": "https://nutrabay.com/product/nutrabay-bioabsorb-whey-protein?pId=8042444&vId=6919061",
+        "kind": "official-live",
+        "variantId": "6919061",
+        "matchBasis": "Nutrabay selected live product 8042444, variant 6919061, SKU NB-NUT-1096-06; complete selected attributes, ordinary INR sale_price, stock and actual net pack verified. Label amounts independently read from this selected gallery."
+      }
+    },
+    {
+      "order": 5227,
+      "observation": {
+        "category": "protein",
+        "offerId": "protein-nb-6457758",
+        "date": "2026-11-20",
+        "price": 6699,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabay.com/product/nutrabay-bioabsorb-whey-protein?pId=8042444&vId=6457758",
+        "evidenceUrl": "https://nutrabay.com/product/nutrabay-bioabsorb-whey-protein?pId=8042444&vId=6457758",
+        "kind": "official-live",
+        "variantId": "6457758",
+        "matchBasis": "Nutrabay selected live product 8042444, variant 6457758, SKU NB-NUT-1096-11; complete selected attributes, ordinary INR sale_price, stock and actual net pack verified. Label amounts independently read from this selected gallery."
+      }
+    },
+    {
+      "order": 5228,
+      "observation": {
+        "category": "protein",
+        "offerId": "protein-nb-9310886",
+        "date": "2026-11-20",
+        "price": 3859,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabay.com/product/nutrabay-bioabsorb-whey-protein?pId=8042444&vId=9310886",
+        "evidenceUrl": "https://nutrabay.com/product/nutrabay-bioabsorb-whey-protein?pId=8042444&vId=9310886",
+        "kind": "official-live",
+        "variantId": "9310886",
+        "matchBasis": "Nutrabay selected live product 8042444, variant 9310886, SKU NB-NUT-1096-10; complete selected attributes, ordinary INR sale_price, stock and actual net pack verified. Label amounts independently read from this selected gallery."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 311,
+      "profile": {
+        "id": "protein-nb-6919061",
+        "brand": "Nutrabay",
+        "product": "BioAbsorb Whey Protein",
+        "flavour": "Milk Chocolate",
+        "packaging": "Jar",
+        "source": "Not specified",
+        "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1096-06-1790321417.png",
+        "labelSources": [
+          "https://nutrabay.com/product/nutrabay-bioabsorb-whey-protein?pId=8042444&vId=6919061",
+          "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1096-06-1790321417.png"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results. Per 100 g: protein 72.75 g; energy 381.03 kcal; gram serving 36 g.",
+        "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Probiotic CFU are label claims, not a verified live count at consumption. Advertising about enhanced absorption has not been adopted as comparative efficacy evidence. Label allergen declaration: contains milk and may contain soy.",
+        "form": "Powder",
+        "kg": 1,
+        "protein": 72.75,
+        "scoop": 36,
+        "serving": 36,
+        "energy": 381.03,
+        "type": "Whey",
+        "subclass": "Whey concentrate + probiotic/enzyme blend",
+        "additionalIngredients": [
+          {
+            "name": "Digestive enzyme blend",
+            "amount": 150,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Probiotic blend",
+            "amount": 50000000000,
+            "unit": "CFU",
+            "basis": "per label serving"
+          }
+        ],
+        "category": "protein",
+        "kind": "nutrabay-product",
+        "base": "https://nutrabay.com",
+        "productUrl": "https://nutrabay.com/product/nutrabay-bioabsorb-whey-protein?pId=8042444&vId=6919061",
+        "variantUrl": "https://nutrabay.com/product/nutrabay-bioabsorb-whey-protein?pId=8042444&vId=6919061",
+        "variantId": "6919061",
+        "productId": "8042444",
+        "variantSku": "NB-NUT-1096-06",
+        "variantAttributes": {
+          "pa_flavour": "Milk Chocolate",
+          "pa_weight": "1 kg (2.2 lb)"
+        },
+        "cacheKey": "nutrabay-6919061",
+        "allowRetailMultipack": true,
+        "grams": 1000
+      }
+    },
+    {
+      "order": 312,
+      "profile": {
+        "id": "protein-nb-6457758",
+        "brand": "Nutrabay",
+        "product": "BioAbsorb Whey Protein",
+        "flavour": "Milk Chocolate",
+        "packaging": "Jar",
+        "source": "Not specified",
+        "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1096-11-1790321822.png",
+        "labelSources": [
+          "https://nutrabay.com/product/nutrabay-bioabsorb-whey-protein?pId=8042444&vId=6457758",
+          "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1096-11-1790321822.png"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results. Per 100 g: protein 72.75 g; energy 381.03 kcal; gram serving 36 g.",
+        "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Probiotic CFU are label claims, not a verified live count at consumption. Advertising about enhanced absorption has not been adopted as comparative efficacy evidence. Label allergen declaration: contains milk and may contain soy.",
+        "form": "Powder",
+        "kg": 2,
+        "protein": 72.75,
+        "scoop": 36,
+        "serving": 36,
+        "energy": 381.03,
+        "type": "Whey",
+        "subclass": "Whey concentrate + probiotic/enzyme blend",
+        "additionalIngredients": [
+          {
+            "name": "Digestive enzyme blend",
+            "amount": 150,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Probiotic blend",
+            "amount": 50000000000,
+            "unit": "CFU",
+            "basis": "per label serving"
+          }
+        ],
+        "category": "protein",
+        "kind": "nutrabay-product",
+        "base": "https://nutrabay.com",
+        "productUrl": "https://nutrabay.com/product/nutrabay-bioabsorb-whey-protein?pId=8042444&vId=6457758",
+        "variantUrl": "https://nutrabay.com/product/nutrabay-bioabsorb-whey-protein?pId=8042444&vId=6457758",
+        "variantId": "6457758",
+        "productId": "8042444",
+        "variantSku": "NB-NUT-1096-11",
+        "variantAttributes": {
+          "pa_flavour": "Milk Chocolate",
+          "pa_weight": "2 kg (4.4 lb)"
+        },
+        "cacheKey": "nutrabay-6457758",
+        "allowRetailMultipack": true,
+        "grams": 2000
+      }
+    },
+    {
+      "order": 313,
+      "profile": {
+        "id": "protein-nb-9310886",
+        "brand": "Nutrabay",
+        "product": "BioAbsorb Whey Protein",
+        "flavour": "Dark Chocolate (naturally Sweetened)",
+        "packaging": "Jar",
+        "source": "Not specified",
+        "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1096-10-1790320793.png",
+        "labelSources": [
+          "https://nutrabay.com/product/nutrabay-bioabsorb-whey-protein?pId=8042444&vId=9310886",
+          "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1096-10-1790320793.png"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results. Per 100 g: protein 71.65 g; energy 384.7 kcal; gram serving 37 g.",
+        "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Probiotic CFU are label claims, not a verified live count at consumption. Advertising about enhanced absorption has not been adopted as comparative efficacy evidence. Label allergen declaration: contains milk and may contain soy.",
+        "form": "Powder",
+        "kg": 1,
+        "protein": 71.65,
+        "scoop": 37,
+        "serving": 37,
+        "energy": 384.7,
+        "type": "Whey",
+        "subclass": "Whey concentrate + probiotic/enzyme blend",
+        "additionalIngredients": [
+          {
+            "name": "Digestive enzyme blend",
+            "amount": 150,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Probiotic blend",
+            "amount": 50000000000,
+            "unit": "CFU",
+            "basis": "per label serving"
+          }
+        ],
+        "category": "protein",
+        "kind": "nutrabay-product",
+        "base": "https://nutrabay.com",
+        "productUrl": "https://nutrabay.com/product/nutrabay-bioabsorb-whey-protein?pId=8042444&vId=9310886",
+        "variantUrl": "https://nutrabay.com/product/nutrabay-bioabsorb-whey-protein?pId=8042444&vId=9310886",
+        "variantId": "9310886",
+        "productId": "8042444",
+        "variantSku": "NB-NUT-1096-10",
+        "variantAttributes": {
+          "pa_flavour": "Dark Chocolate (naturally Sweetened)",
+          "pa_weight": "1 kg (2.2 lb)"
+        },
+        "cacheKey": "nutrabay-9310886",
+        "allowRetailMultipack": true,
+        "grams": 1000
+      }
+    }
+  ]
+}

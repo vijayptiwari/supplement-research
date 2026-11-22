@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "category": "bcaa",
+  "brand": "Naturaltein",
+  "product": "Clean BCAA (e+) BOOST",
+  "variants": [
+    {
+      "order": 3,
+      "offer": {
+        "brand": "Naturaltein",
+        "product": "Clean BCAA (e+) BOOST",
+        "form": "Powder",
+        "type": "BCAA 2:1:1",
+        "subclass": "BCAA + electrolytes + vitamins",
+        "source": "Plant fermentation (brand claim)",
+        "packaging": "Single retail pack",
+        "packCount": null,
+        "servingUnits": null,
+        "servingGrams": 15,
+        "labelChecked": "2026-11-17",
+        "basis": "Current official front label states 300 g and the back label states 15 g per serving, with 2.5 g leucine, 1.25 g isoleucine and 1.25 g valine. BCAA total is the sum of these declared same-serving components.",
+        "notes": "Energy is withheld because the pictured kcal row prints a gram unit for its value. Botanical/fermentation origin is a manufacturer statement, not independent certification.",
+        "grams": 300,
+        "flavour": "Orange",
+        "bcaaMg": 5000,
+        "leucineMg": 2500,
+        "isoleucineMg": 1250,
+        "valineMg": 1250,
+        "taurineMg": 150,
+        "energyPerServing": null,
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0634/8868/8211/files/1920x1920_1.webp?v=1751449106",
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0634/8868/8211/files/16-1_9682a4bb-ca00-48ab-84fd-0b0327a22d73.webp?v=1742363213",
+          "https://cdn.shopify.com/s/files/1/0634/8868/8211/files/1920x1920_1.webp?v=1751449106",
+          "https://cdn.shopify.com/s/files/1/0634/8868/8211/files/16-3_d973a1f9-448e-4ead-96ec-914bbb084bca.webp?v=1751449106"
+        ],
+        "id": "bcaa-42577621090387",
+        "price": 1068,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://naturaltein.in/products/clean-bcaa-supplement-orange-flavour?variant=42577621090387",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://naturaltein.in/products/clean-bcaa-supplement-orange-flavour?variant=42577621090387",
+          "evidenceUrl": "https://naturaltein.in/products/clean-bcaa-supplement-orange-flavour.json",
+          "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3814,
+      "observation": {
+        "category": "bcaa",
+        "offerId": "bcaa-42577621090387",
+        "date": "2026-11-17",
+        "price": 1068,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/clean-bcaa-supplement-orange-flavour?variant=42577621090387",
+        "evidenceUrl": "https://naturaltein.in/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "42577621090387",
+        "matchBasis": "Official Shopify public feed fetched 2026-11-17; exact variant ID, unconditional single-pack price, size/flavour and availability matched."
+      }
+    },
+    {
+      "order": 4008,
+      "observation": {
+        "category": "bcaa",
+        "offerId": "bcaa-42577621090387",
+        "date": "2026-11-19",
+        "price": 1068,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/clean-bcaa-supplement-orange-flavour?variant=42577621090387",
+        "evidenceUrl": "https://naturaltein.in/products/clean-bcaa-supplement-orange-flavour.json",
+        "kind": "official-live",
+        "variantId": "42577621090387",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 98,
+      "profile": {
+        "category": "bcaa",
+        "brand": "Naturaltein",
+        "base": "https://naturaltein.in",
+        "handle": "clean-bcaa-supplement-orange-flavour",
+        "product": "Clean BCAA (e+) BOOST",
+        "form": "Powder",
+        "type": "BCAA 2:1:1",
+        "subclass": "BCAA + electrolytes + vitamins",
+        "source": "Plant fermentation (brand claim)",
+        "packaging": "Single retail pack",
+        "packCount": null,
+        "servingUnits": null,
+        "servingGrams": 15,
+        "labelChecked": "2026-11-17",
+        "variantIds": [
+          "42577621090387"
+        ],
+        "basis": "Current official front label states 300 g and the back label states 15 g per serving, with 2.5 g leucine, 1.25 g isoleucine and 1.25 g valine. BCAA total is the sum of these declared same-serving components.",
+        "notes": "Energy is withheld because the pictured kcal row prints a gram unit for its value. Botanical/fermentation origin is a manufacturer statement, not independent certification.",
+        "grams": 300,
+        "flavour": "Orange",
+        "bcaaMg": 5000,
+        "leucineMg": 2500,
+        "isoleucineMg": 1250,
+        "valineMg": 1250,
+        "taurineMg": 150,
+        "energyPerServing": null,
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0634/8868/8211/files/1920x1920_1.webp?v=1751449106",
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0634/8868/8211/files/16-1_9682a4bb-ca00-48ab-84fd-0b0327a22d73.webp?v=1742363213",
+          "https://cdn.shopify.com/s/files/1/0634/8868/8211/files/1920x1920_1.webp?v=1751449106",
+          "https://cdn.shopify.com/s/files/1/0634/8868/8211/files/16-3_d973a1f9-448e-4ead-96ec-914bbb084bca.webp?v=1751449106"
+        ]
+      }
+    }
+  ]
+}

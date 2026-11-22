@@ -1,0 +1,629 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "AS-IT-IS Nutrition",
+  "product": "AS-IT-IS ATOM Nitro Whey with Creasure®",
+  "variants": [
+    {
+      "order": 8,
+      "offer": {
+        "id": 8,
+        "brand": "AS-IT-IS Nutrition",
+        "product": "AS-IT-IS ATOM Nitro Whey with Creasure®",
+        "type": "Whey — blend",
+        "flavour": "Classic Vanilla",
+        "kg": 1,
+        "price": 3479,
+        "stock": "In stock",
+        "protein": 73.33333333333333,
+        "scoop": 30,
+        "serving": 45,
+        "subclass": "Whey blend",
+        "energy": 353.3333333333333,
+        "url": "https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42980652580915",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0005/5335/3267/files/ATOM_NITRO_WHEY_1KG_Classic_Vanilla_COMMON_POUCH_SIDE_GUSSET_WITH_COMPLETE_INFORMATION_1_5aa37901-b03b-45c4-aae2-4666d0a00df5.jpg?v=1781768643",
+        "basis": "33g protein / 45g serving; product FAQ",
+        "notes": "Brand product-page serving basis; flavour-specific label values may vary. 45g serving = 1.5 scoops; one scoop = 30g.",
+        "energyBasis": "Flavour-matched label kcal per serving / brand serving g × 100",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42980652580915",
+          "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 9,
+      "offer": {
+        "id": 9,
+        "brand": "AS-IT-IS Nutrition",
+        "product": "AS-IT-IS ATOM Nitro Whey with Creasure®",
+        "type": "Whey — blend",
+        "flavour": "Double Rich Chocolate",
+        "kg": 1,
+        "price": 3479,
+        "stock": "In stock",
+        "protein": 73.33333333333333,
+        "scoop": 30,
+        "serving": 45,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42503709491251",
+        "nutritionUrl": "https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42503709491251",
+        "basis": "33g protein / 45g serving; product FAQ",
+        "notes": "Brand product-page serving basis; flavour-specific label values may vary. 45g serving = 1.5 scoops; one scoop = 30g. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42503709491251",
+          "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 10,
+      "offer": {
+        "id": 10,
+        "brand": "AS-IT-IS Nutrition",
+        "product": "AS-IT-IS ATOM Nitro Whey with Creasure®",
+        "type": "Whey — blend",
+        "flavour": "Double Rich Chocolate",
+        "kg": 2,
+        "price": 6696,
+        "stock": "In stock",
+        "protein": 73.33333333333333,
+        "scoop": 30,
+        "serving": 45,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42592116342835",
+        "nutritionUrl": "https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42592116342835",
+        "basis": "33g protein / 45g serving; product FAQ",
+        "notes": "Brand product-page serving basis; flavour-specific label values may vary. 45g serving = 1.5 scoops; one scoop = 30g. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42592116342835",
+          "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 11,
+      "offer": {
+        "id": 11,
+        "brand": "AS-IT-IS Nutrition",
+        "product": "AS-IT-IS ATOM Nitro Whey with Creasure®",
+        "type": "Whey — blend",
+        "flavour": "Kesar Kulfi",
+        "kg": 1,
+        "price": 3479,
+        "stock": "In stock",
+        "protein": 73.33333333333333,
+        "scoop": 30,
+        "serving": 45,
+        "subclass": "Whey blend",
+        "energy": 353.3333333333333,
+        "url": "https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42956141527091",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0005/5335/3267/files/ATOM_NITRO_WHEY_1KG_KESAR_KULFI_COMMON_POUCH_SIDE_GUSSET_WITH_COMPLETE_INFORMATION.jpg?v=1782287216",
+        "basis": "33g protein / 45g serving; product FAQ",
+        "notes": "Brand product-page serving basis; flavour-specific label values may vary. 45g serving = 1.5 scoops; one scoop = 30g.",
+        "energyBasis": "Flavour-matched label kcal per serving / brand serving g × 100",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42956141527091",
+          "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 2197,
+      "observation": {
+        "category": "protein",
+        "offerId": 8,
+        "date": "2026-10-25",
+        "price": 3479,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42980652580915",
+        "evidenceUrl": "https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "42980652580915"
+      }
+    },
+    {
+      "order": 2198,
+      "observation": {
+        "category": "protein",
+        "offerId": 9,
+        "date": "2026-10-25",
+        "price": 3479,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42503709491251",
+        "evidenceUrl": "https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "42503709491251"
+      }
+    },
+    {
+      "order": 2199,
+      "observation": {
+        "category": "protein",
+        "offerId": 10,
+        "date": "2026-10-25",
+        "price": 6696,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42592116342835",
+        "evidenceUrl": "https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "42592116342835"
+      }
+    },
+    {
+      "order": 2200,
+      "observation": {
+        "category": "protein",
+        "offerId": 11,
+        "date": "2026-10-25",
+        "price": 3479,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42956141527091",
+        "evidenceUrl": "https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "42956141527091"
+      }
+    },
+    {
+      "order": 3445,
+      "observation": {
+        "category": "protein",
+        "offerId": 9,
+        "date": "2024-12-06",
+        "price": 2229,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42503709491251",
+        "evidenceUrl": "https://web.archive.org/web/20241206143217id_/https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42503709491251",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42503709491251",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3446,
+      "observation": {
+        "category": "protein",
+        "offerId": 10,
+        "date": "2024-12-06",
+        "price": 4190,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42592116342835",
+        "evidenceUrl": "https://web.archive.org/web/20241206143217id_/https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42503709491251",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42592116342835",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3447,
+      "observation": {
+        "category": "protein",
+        "offerId": 8,
+        "date": "2025-03-16",
+        "price": 2095,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42980652580915",
+        "evidenceUrl": "https://web.archive.org/web/20250316102224id_/https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42956141527091",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42980652580915",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3448,
+      "observation": {
+        "category": "protein",
+        "offerId": 9,
+        "date": "2025-03-16",
+        "price": 2229,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42503709491251",
+        "evidenceUrl": "https://web.archive.org/web/20250316102224id_/https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42956141527091",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42503709491251",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3449,
+      "observation": {
+        "category": "protein",
+        "offerId": 10,
+        "date": "2025-03-16",
+        "price": 4190,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42592116342835",
+        "evidenceUrl": "https://web.archive.org/web/20250316102224id_/https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42956141527091",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42592116342835",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3450,
+      "observation": {
+        "category": "protein",
+        "offerId": 11,
+        "date": "2025-03-16",
+        "price": 2229,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42956141527091",
+        "evidenceUrl": "https://web.archive.org/web/20250316102224id_/https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42956141527091",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42956141527091",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3451,
+      "observation": {
+        "category": "protein",
+        "offerId": 8,
+        "date": "2025-06-23",
+        "price": 2453,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42980652580915",
+        "evidenceUrl": "https://web.archive.org/web/20250623164257id_/https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42980652580915",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3452,
+      "observation": {
+        "category": "protein",
+        "offerId": 9,
+        "date": "2025-06-23",
+        "price": 2453,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42503709491251",
+        "evidenceUrl": "https://web.archive.org/web/20250623164257id_/https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42503709491251",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3453,
+      "observation": {
+        "category": "protein",
+        "offerId": 10,
+        "date": "2025-06-23",
+        "price": 4721,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42592116342835",
+        "evidenceUrl": "https://web.archive.org/web/20250623164257id_/https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42592116342835",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3454,
+      "observation": {
+        "category": "protein",
+        "offerId": 11,
+        "date": "2025-06-23",
+        "price": 2453,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42956141527091",
+        "evidenceUrl": "https://web.archive.org/web/20250623164257id_/https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42956141527091",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3455,
+      "observation": {
+        "category": "protein",
+        "offerId": 8,
+        "date": "2025-09-03",
+        "price": 2330,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42980652580915",
+        "evidenceUrl": "https://web.archive.org/web/20250903014125id_/https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42503709491251",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42980652580915",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3456,
+      "observation": {
+        "category": "protein",
+        "offerId": 9,
+        "date": "2025-09-03",
+        "price": 2330,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42503709491251",
+        "evidenceUrl": "https://web.archive.org/web/20250903014125id_/https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42503709491251",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42503709491251",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3457,
+      "observation": {
+        "category": "protein",
+        "offerId": 10,
+        "date": "2025-09-03",
+        "price": 4484,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42592116342835",
+        "evidenceUrl": "https://web.archive.org/web/20250903014125id_/https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42503709491251",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42592116342835",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3458,
+      "observation": {
+        "category": "protein",
+        "offerId": 11,
+        "date": "2025-09-03",
+        "price": 2330,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42956141527091",
+        "evidenceUrl": "https://web.archive.org/web/20250903014125id_/https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42503709491251",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42956141527091",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3459,
+      "observation": {
+        "category": "protein",
+        "offerId": 8,
+        "date": "2025-12-03",
+        "price": 2300,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42980652580915",
+        "evidenceUrl": "https://web.archive.org/web/20251203004140id_/https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42503709491251",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42980652580915",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3460,
+      "observation": {
+        "category": "protein",
+        "offerId": 9,
+        "date": "2025-12-03",
+        "price": 2300,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42503709491251",
+        "evidenceUrl": "https://web.archive.org/web/20251203004140id_/https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42503709491251",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42503709491251",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3461,
+      "observation": {
+        "category": "protein",
+        "offerId": 10,
+        "date": "2025-12-03",
+        "price": 4428,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42592116342835",
+        "evidenceUrl": "https://web.archive.org/web/20251203004140id_/https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42503709491251",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42592116342835",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3462,
+      "observation": {
+        "category": "protein",
+        "offerId": 11,
+        "date": "2025-12-03",
+        "price": 2300,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42956141527091",
+        "evidenceUrl": "https://web.archive.org/web/20251203004140id_/https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42503709491251",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42956141527091",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3463,
+      "observation": {
+        "category": "protein",
+        "offerId": 8,
+        "date": "2026-04-08",
+        "price": 2737,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42980652580915",
+        "evidenceUrl": "https://web.archive.org/web/20260408064252id_/https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=43846845169715",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42980652580915",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3464,
+      "observation": {
+        "category": "protein",
+        "offerId": 9,
+        "date": "2026-04-08",
+        "price": 2737,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42503709491251",
+        "evidenceUrl": "https://web.archive.org/web/20260408064252id_/https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=43846845169715",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42503709491251",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3465,
+      "observation": {
+        "category": "protein",
+        "offerId": 10,
+        "date": "2026-04-08",
+        "price": 5269,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42592116342835",
+        "evidenceUrl": "https://web.archive.org/web/20260408064252id_/https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=43846845169715",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42592116342835",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3466,
+      "observation": {
+        "category": "protein",
+        "offerId": 11,
+        "date": "2026-04-08",
+        "price": 2737,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42956141527091",
+        "evidenceUrl": "https://web.archive.org/web/20260408064252id_/https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=43846845169715",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42956141527091",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 4066,
+      "observation": {
+        "category": "protein",
+        "offerId": 8,
+        "date": "2026-11-19",
+        "price": 3479,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42980652580915",
+        "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "42980652580915"
+      }
+    },
+    {
+      "order": 4067,
+      "observation": {
+        "category": "protein",
+        "offerId": 9,
+        "date": "2026-11-19",
+        "price": 3479,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42503709491251",
+        "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "42503709491251"
+      }
+    },
+    {
+      "order": 4068,
+      "observation": {
+        "category": "protein",
+        "offerId": 10,
+        "date": "2026-11-19",
+        "price": 6696,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42592116342835",
+        "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "42592116342835"
+      }
+    },
+    {
+      "order": 4069,
+      "observation": {
+        "category": "protein",
+        "offerId": 11,
+        "date": "2026-11-19",
+        "price": 3479,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa?variant=42956141527091",
+        "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "42956141527091"
+      }
+    }
+  ],
+  "refreshSources": []
+}

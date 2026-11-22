@@ -1,0 +1,191 @@
+{
+  "schemaVersion": 1,
+  "order": 73,
+  "article": {
+    "id": "collagen-types",
+    "category": "collagen",
+    "series": "understanding-types",
+    "title": "Collagen types explained: peptides, gelatin, native type II and source labels",
+    "summary": "Learn which differences concern processing, which describe an animal source, and which are delivery formats before comparing claims or prices.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "A collagen label can combine several independent descriptions: marine, type I, hydrolysed, powder and skin support. They do not answer the same question. Start with the specified ingredient and processing, then read the source and serving, and finally the format. Clinical comparisons need to preserve those distinctions. This guide explains how to read the category; it does not assign a personal dose or assume that every product under one label has the same peptide profile.",
+    "sections": [
+      {
+        "id": "layered-labels",
+        "title": "Read processing, source and type as separate layers",
+        "body": "Hydrolysis describes breakdown into smaller fragments; fish or bovine describes a source. A numbered collagen family in native tissue is not a shipping address after ingestion. Human absorption work used identified hydrolysates and measured selected circulating fragments. Keep the product specification visible instead of assuming that a long combination of source and type words proves better tissue targeting.",
+        "sourceIds": [
+          "collagen-absorption-iwai-2005"
+        ]
+      },
+      {
+        "id": "potency",
+        "title": "Potency needs a stated outcome",
+        "body": "For skin, ask whether a particular preparation improved a relevant measure against placebo. An eight-week trial in women reported better elasticity with specific peptides, while some other skin measures did not improve significantly. That is more precise than declaring a percentage of universal anti-ageing potency. For joint or exercise questions, the comparison must use their own outcomes; a skin measurement cannot supply the answer.",
+        "sourceIds": [
+          "collagen-editorial-skin-rct"
+        ]
+      },
+      {
+        "id": "skin-evidence-limits",
+        "title": "Keep the quality of skin evidence visible",
+        "body": "Positive studies should be considered alongside evidence that tests how robust those results are. A 2025 skin-trial analysis found pooled improvements, but no significant benefits within its higher-quality or non-pharmaceutical-company-funded subgroups. Those analyses have their own limits and do not prove every effect is zero. They do lower confidence in treating a premium peptide, marine source or convenient format as a reliably effective anti-ageing intervention.",
+        "sourceIds": [
+          "collagen-skin-meta-2025"
+        ]
+      },
+      {
+        "id": "amounts",
+        "title": "Keep grams of hydrolysate separate from native ingredient amounts",
+        "body": "Hydrolysate and native type II research should not be compared by choosing the largest mass. The native ingredient is studied at a very different amount and with a proposed gut immune mechanism, rather than simply as bulk protein. Verify whether a label reports the full source material, collagen content or an active native fraction before interpreting its number. A disease claim still requires condition-specific assessment.",
+        "sourceIds": [
+          "collagen-editorial-native-ii"
+        ]
+      },
+      {
+        "id": "quality-and-price",
+        "title": "Compare a specified product before a discount",
+        "body": "Match the ingredient, full serving and intended use. Price per gram can compare the declared amount of comparable hydrolysates, but cannot make native type II, a vitamin blend and bulk peptides equivalent interventions. For unit products, calculate how many capsules or gummies make the whole serving. Quality documentation should identify its scope and the actual product; it is not proof of effectiveness.",
+        "sourceIds": [
+          "supplement-quality-ods"
+        ]
+      }
+    ],
+    "forms": [
+      {
+        "name": "Hydrolysed collagen peptides",
+        "kind": "ingredient",
+        "description": "Collagen processed into smaller peptide mixtures. Hydrolysates can differ in source and peptide distribution, even when the front labels look similar.",
+        "metabolism": "Digestive processing yields amino acids and smaller peptides; selected hydroxyproline-containing fragments have been measured in human blood.",
+        "evidence": "Skin and joint trials concern particular preparations. A circulating peptide does not establish a universal clinical effect.",
+        "value": "Check declared collagen grams, preparation identity and the relevant trial rather than treating peptide size alone as an outcome score.",
+        "sourceIds": [
+          "collagen-absorption-iwai-2005",
+          "collagen-editorial-skin-rct",
+          "comparison-collagen-joint-clark-2008"
+        ]
+      },
+      {
+        "name": "Gelatin",
+        "kind": "ingredient",
+        "description": "A collagen-derived material with different physical properties from many readily dissolving hydrolysates. Gelatin and hydrolysate names should not be treated as one finished formulation.",
+        "metabolism": "Digestion supplies amino acids and peptides; its use in a food does not bypass ordinary protein digestion.",
+        "evidence": "Exercise experiments have examined vitamin C-enriched gelatin using biochemical markers. These are not trials proving healed tendons or prevented injury.",
+        "value": "Assess preparation and cooking practicality. A functional-food ingredient can be useful without inheriting every collagen-peptide marketing claim.",
+        "sourceIds": [
+          "collagen-gelatin-shaw-2017",
+          "digestion"
+        ]
+      },
+      {
+        "name": "Native or undenatured type II collagen",
+        "kind": "ingredient",
+        "description": "A preparation intended to retain native type II characteristics, distinct from hydrolysed type II material. The specific ingredient and standardisation matter.",
+        "metabolism": "A gut-associated immune-tolerance route is proposed; this is different from viewing it solely as a large nutritional amino-acid supply. The symptom trial does not prove that causal mechanism.",
+        "evidence": "One six-month trial reported knee osteoarthritis symptom improvements. It did not show cartilage regrowth.",
+        "value": "Preserve the exact ingredient and label basis. Do not rank it against hydrolysate grams as if the interventions were identical.",
+        "sourceIds": [
+          "collagen-editorial-native-ii"
+        ]
+      },
+      {
+        "name": "Bovine or porcine source labels",
+        "kind": "ingredient",
+        "description": "These identify cattle or pig origin, not one universal peptide profile, serving strength or outcome. A source may be relevant to dietary and cultural preferences.",
+        "metabolism": "The final preparation still undergoes digestive handling. Native source and subsequent processing are separate characteristics.",
+        "evidence": "Human absorption and clinical findings apply to the specific materials tested; neither animal name alone establishes better skin or joint results.",
+        "value": "Require source disclosure and an identified preparation. Ethical or dietary fit is a valid choice criterion, separate from an efficacy premium.",
+        "sourceIds": [
+          "collagen-editorial-sources",
+          "collagen-editorial-skin-rct"
+        ]
+      },
+      {
+        "name": "Marine or fish-derived collagen",
+        "kind": "ingredient",
+        "description": "A source category that can include different fish tissues and processing methods. Marine is not itself a standardised clinical ingredient.",
+        "metabolism": "One small human experiment found source-dependent circulating peptide profiles after fish and porcine hydrolysates.",
+        "evidence": "That experiment did not measure skin or joint outcomes and cannot establish that every marine product is more effective.",
+        "value": "Compare the specified preparation, serving and quality evidence. Treat fish-allergy suitability as a separate question.",
+        "sourceIds": [
+          "collagen-editorial-sources",
+          "food-allergens"
+        ]
+      },
+      {
+        "name": "Multi-type or multi-source collagen blends",
+        "kind": "ingredient",
+        "description": "Mixtures may combine numbered collagen descriptions, animal sources or preparations. More names do not disclose the proportion or condition of each component.",
+        "metabolism": "Hydrolysed fractions and a truly native type II ingredient should not be assumed to share one mechanism merely because both occur in a blend.",
+        "evidence": "A result for a single defined ingredient does not validate an undisclosed mixture or prove that additional types improve the outcome.",
+        "value": "Look for component amounts and processing. Without them, a blend total cannot verify how much of a relevant preparation is supplied.",
+        "sourceIds": [
+          "collagen-editorial-native-ii",
+          "comparison-collagen-joint-clark-2008"
+        ]
+      },
+      {
+        "name": "Plant-based collagen builders",
+        "kind": "ingredient",
+        "description": "Products sold as builders may supply nutrients or amino acids intended to support normal synthesis. The label must establish whether any actual collagen ingredient is present.",
+        "metabolism": "A nutrient such as vitamin C can support the body making collagen; this is different from consuming collagen peptides.",
+        "evidence": "A biological precursor role does not transfer the clinical evidence of a tested collagen preparation to a new plant blend.",
+        "value": "Assess the stated nutrient need and ingredient amounts rather than pricing an undefined builder blend as equivalent collagen grams.",
+        "sourceIds": [
+          "c-overview",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "name": "Powder",
+        "kind": "delivery",
+        "description": "A delivery format that can supply peptides, gelatin or a multi-ingredient mixture. Scoop mass includes everything in the formulation.",
+        "metabolism": "The underlying preparation determines the relevant digestive or proposed biological route; the word powder is not a new mechanism.",
+        "evidence": "Ingredient evidence must match the powder actually supplied; the format alone does not certify its content or outcomes.",
+        "value": "Compare full label servings and declared collagen amount, keeping flavours and added ingredients in view.",
+        "sourceIds": [
+          "comparison-collagen-joint-clark-2008",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "name": "Capsules or tablets",
+        "kind": "delivery",
+        "description": "Counted units can be convenient, but one capsule need not equal a full serving or the amount used in a study.",
+        "metabolism": "A capsule supplies its specified ingredient. Packaging does not turn hydrolysed material into native type II or vice versa.",
+        "evidence": "Evidence follows the ingredient and delivered regimen; it does not establish a capsule-wide advantage.",
+        "value": "Read the full serving count and ingredient basis before estimating pack duration. A milligram native ingredient is not the same comparison as bulk peptide grams.",
+        "sourceIds": [
+          "collagen-editorial-native-ii",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "name": "Gummies and ready-to-drink products",
+        "kind": "delivery",
+        "description": "Prepared formats add a matrix, flavouring and sometimes other active ingredients. Convenience and clinical superiority are separate claims.",
+        "metabolism": "A small human study found similar amino-acid increases after equivalent amounts of several collagen formulations.",
+        "evidence": "Its procollagen-marker results were variable and not statistically significant. It did not establish better long-term skin, joint or injury outcomes for a gummy.",
+        "value": "Use the complete serving, declared collagen amount and added ingredients when assessing convenience and cost.",
+        "sourceIds": [
+          "collagen-gelatin-lis-2019"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "collagen-absorption-iwai-2005",
+      "collagen-editorial-skin-rct",
+      "collagen-editorial-native-ii",
+      "supplement-quality-ods",
+      "comparison-collagen-joint-clark-2008",
+      "collagen-gelatin-shaw-2017",
+      "digestion",
+      "collagen-editorial-sources",
+      "food-allergens",
+      "c-overview",
+      "collagen-gelatin-lis-2019",
+      "collagen-skin-meta-2025"
+    ]
+  }
+}

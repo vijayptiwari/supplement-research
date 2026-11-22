@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "category": "fish-oil",
+  "brand": "Muscle Nectar",
+  "product": "Triple Strength Fish Oil TG",
+  "variants": [
+    {
+      "order": 2,
+      "offer": {
+        "brand": "Muscle Nectar",
+        "product": "Triple Strength Fish Oil TG",
+        "form": "Softgel",
+        "type": "Triglyceride (TG)",
+        "subclass": "Fish oil",
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official product listing; only explicitly verified label amounts are recorded.",
+        "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities.",
+        "packCount": 60,
+        "id": "fish-oil-46554371096802",
+        "price": 799,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://musclenectar.com/products/triple-strength-purified-omega-3-fish-oil-tg-form?variant=46554371096802",
+        "nutritionUrl": "https://musclenectar.com/products/triple-strength-purified-omega-3-fish-oil-tg-form",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-10-29",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://musclenectar.com/products/triple-strength-purified-omega-3-fish-oil-tg-form?variant=46554371096802",
+          "evidenceUrl": "https://musclenectar.com/products/triple-strength-purified-omega-3-fish-oil-tg-form.json",
+          "matchBasis": "Official public Shopify product; exact variant ID 46554371096802 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+        }
+      }
+    },
+    {
+      "order": 3,
+      "offer": {
+        "brand": "Muscle Nectar",
+        "product": "Triple Strength Fish Oil TG",
+        "form": "Softgel",
+        "type": "Triglyceride (TG)",
+        "subclass": "Fish oil",
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official product listing; only explicitly verified label amounts are recorded.",
+        "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities.",
+        "packCount": 120,
+        "id": "fish-oil-46554371129570",
+        "price": 1499,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://musclenectar.com/products/triple-strength-purified-omega-3-fish-oil-tg-form?variant=46554371129570",
+        "nutritionUrl": "https://musclenectar.com/products/triple-strength-purified-omega-3-fish-oil-tg-form",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-10-29",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://musclenectar.com/products/triple-strength-purified-omega-3-fish-oil-tg-form?variant=46554371129570",
+          "evidenceUrl": "https://musclenectar.com/products/triple-strength-purified-omega-3-fish-oil-tg-form.json",
+          "matchBasis": "Official public Shopify product; exact variant ID 46554371129570 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3705,
+      "observation": {
+        "category": "fish-oil",
+        "offerId": "fish-oil-46554371096802",
+        "date": "2026-10-29",
+        "price": 799,
+        "currency": "INR",
+        "sourceUrl": "https://musclenectar.com/products/triple-strength-purified-omega-3-fish-oil-tg-form?variant=46554371096802",
+        "evidenceUrl": "https://musclenectar.com/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "46554371096802"
+      }
+    },
+    {
+      "order": 3706,
+      "observation": {
+        "category": "fish-oil",
+        "offerId": "fish-oil-46554371129570",
+        "date": "2026-10-29",
+        "price": 1499,
+        "currency": "INR",
+        "sourceUrl": "https://musclenectar.com/products/triple-strength-purified-omega-3-fish-oil-tg-form?variant=46554371129570",
+        "evidenceUrl": "https://musclenectar.com/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "46554371129570"
+      }
+    },
+    {
+      "order": 3856,
+      "observation": {
+        "category": "fish-oil",
+        "offerId": "fish-oil-46554371096802",
+        "date": "2026-11-19",
+        "price": 799,
+        "currency": "INR",
+        "sourceUrl": "https://musclenectar.com/products/triple-strength-purified-omega-3-fish-oil-tg-form?variant=46554371096802",
+        "evidenceUrl": "https://musclenectar.com/products/triple-strength-purified-omega-3-fish-oil-tg-form.json",
+        "kind": "official-live",
+        "variantId": "46554371096802",
+        "matchBasis": "Official public Shopify product; exact variant ID 46554371096802 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+      }
+    },
+    {
+      "order": 3857,
+      "observation": {
+        "category": "fish-oil",
+        "offerId": "fish-oil-46554371129570",
+        "date": "2026-11-19",
+        "price": 1499,
+        "currency": "INR",
+        "sourceUrl": "https://musclenectar.com/products/triple-strength-purified-omega-3-fish-oil-tg-form?variant=46554371129570",
+        "evidenceUrl": "https://musclenectar.com/products/triple-strength-purified-omega-3-fish-oil-tg-form.json",
+        "kind": "official-live",
+        "variantId": "46554371129570",
+        "matchBasis": "Official public Shopify product; exact variant ID 46554371129570 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 8,
+      "profile": {
+        "category": "fish-oil",
+        "brand": "Muscle Nectar",
+        "base": "https://musclenectar.com",
+        "handle": "triple-strength-purified-omega-3-fish-oil-tg-form",
+        "product": "Triple Strength Fish Oil TG",
+        "form": "Softgel",
+        "type": "Triglyceride (TG)",
+        "subclass": "Fish oil",
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official product listing; only explicitly verified label amounts are recorded.",
+        "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities.",
+        "packCount": 60
+      }
+    }
+  ]
+}

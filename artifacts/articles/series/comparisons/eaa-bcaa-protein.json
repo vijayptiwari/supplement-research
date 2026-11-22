@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "order": 70,
+  "article": {
+    "id": "eaa-bcaa-protein",
+    "category": "protein",
+    "relatedCategories": [
+      "eaa",
+      "bcaa"
+    ],
+    "series": "comparisons",
+    "title": "EAA vs BCAA vs protein: what overlaps, what differs, and what is worth buying",
+    "summary": "Understand why these are overlapping sources of amino acids, how to read the evidence, and when an extra amino-acid product may add little to an adequate diet.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "A scoop of protein, an EAA drink and a BCAA drink are often sold as three separate steps in a muscle-building stack. They overlap much more than that picture suggests. The useful starting question is what the whole diet already supplies and what problem an additional product is meant to solve. Ingredient names, rapid absorption and a laboratory response each answer a different question from long-term progress. This comparison explains those distinctions without assigning every reader a supplement or a dose.",
+    "sections": [
+      {
+        "id": "three-names-one-hierarchy",
+        "title": "BCAAs are part of EAAs, and complete protein supplies both",
+        "body": "The nine essential amino acids are histidine, isoleucine, leucine, lysine, methionine, phenylalanine, threonine, tryptophan and valine. Essential means that the body must obtain them from the diet. BCAA refers to three members of that set: leucine, isoleucine and valine. An EAA product is intended to supply all nine; a BCAA product supplies only that subset unless its label adds others. A complete protein source provides the essential amino acids in a suitable pattern, alongside other amino acids. These are overlapping contributions, not three independent nutritional needs that automatically require three purchases.",
+        "sourceIds": [
+          "food-performance-amino-acids",
+          "food-performance-protein"
+        ]
+      },
+      {
+        "id": "digestion-and-muscle",
+        "title": "Protein is digested; free amino acids skip that initial breakdown",
+        "body": "Intact protein must first be broken into smaller peptides and amino acids. These building blocks are then absorbed and made available to tissues. Free amino-acid mixtures need less initial protein breakdown, but arriving sooner does not establish a better training outcome. Leucine helps regulate muscle-building signals, while the other essential amino acids also provide material for making new proteins. A strong signal cannot make a missing building block appear. In a human feeding experiment, adding leucine or other essential amino acids to a small whey serving changed the response, but the complete whey treatment sustained the post-exercise response differently.",
+        "sourceIds": [
+          "digestion",
+          "comparison-eaa-leucine-churchward-2012"
+        ]
+      },
+      {
+        "id": "what-bcaa-trial-shows",
+        "title": "BCAAs can change an acute response without proving extra long-term gains",
+        "body": "Calling BCAAs biologically inactive would be inaccurate. In a small crossover experiment in ten trained young men, a BCAA drink increased muscle protein synthesis over the next few hours compared with a placebo. The experiment did not include a same-day whey or complete-EAA treatment, and did not measure months of strength or muscle growth. It therefore cannot tell us that adding BCAAs to an already adequate diet beats food, complete protein or EAAs. A mechanistic effect is a starting point for further questions, not a finished comparison of products or a reason to ignore the missing essential amino acids.",
+        "sourceIds": [
+          "bcaa-trial"
+        ]
+      },
+      {
+        "id": "when-eaa-may-fit",
+        "title": "EAA formulations deserve a specific use case, not a universal upgrade claim",
+        "body": "A complete EAA mixture supplies a broader essential-amino-acid set than BCAAs alone. Some formulations have been investigated when food intake is constrained. In a short energy-deficit crossover study, EAA-enriched whey improved whole-body protein balance relative to the comparison treatments, while mixed-muscle protein synthesis did not differ. That was a particular EAA-plus-whey formulation in ten adults, not proof that every EAA drink outperforms a protein meal. Whole-body balance, muscle synthesis and long-term functional outcomes are distinct measurements. Clinical use also requires assessment of the underlying nutrition problem; a retail tub is not a treatment plan.",
+        "sourceIds": [
+          "eaa-deficit-trial"
+        ]
+      },
+      {
+        "id": "food-and-plant-options",
+        "title": "Ordinary food and well-planned plant diets can supply the same essentials",
+        "body": "Dairy, eggs, fish, meat, soy foods, pulses and other foods contribute dietary protein. Their amino-acid patterns and digestibility differ, so the amount and variety in the whole diet matter. In a training study with protein intake matched, young men eating a plant-based diet with soy supplementation improved measured muscle and strength outcomes without a detected difference from the mixed-diet whey group. This does not make every plant serving interchangeable. It does show why plant-based eating should not automatically trigger an additional EAA or BCAA purchase. Review the actual diet and ingredient rather than treating the plant label as a deficiency diagnosis.",
+        "sourceIds": [
+          "food-protein",
+          "food-protein-vegetarian",
+          "protein-plant-diet-hevia-2021",
+          "protein-amino-acids-gorissen-2018"
+        ]
+      },
+      {
+        "id": "fasting-and-timing",
+        "title": "Training fasted does not automatically make BCAAs compulsory",
+        "body": "The nutritional context includes the previous meal, the next meal, total intake and the reason for fasting. A fasted workout alone does not identify a unique need for three amino acids. An amino-acid drink also changes the nutritional exposure, so a physiological question about training is different from a personal or religious definition of fasting. A small trial comparing protein immediately before versus after resistance training found similar measured adaptations; it did not test every fasting arrangement. Plan a tolerable way to meet the day's nutrition needs rather than treating a marketed workout window as an emergency or assuming BCAAs replace recovery meals.",
+        "sourceIds": [
+          "protein-timing-schoenfeld-2017",
+          "food-performance-amino-acids"
+        ]
+      },
+      {
+        "id": "which-problem-to-solve",
+        "title": "Choose the nutritional problem before choosing the container",
+        "body": "When meals leave a protein shortfall, first consider an appropriate food or a clearly specified protein product. When ordinary food volume, appetite or a specialized nutrition plan limits intake, an amino-acid formulation may warrant a more focused review. When protein intake is already adequate and varied, an additional BCAA product needs evidence of a relevant extra benefit; a larger leucine ratio is not that evidence by itself. None of these choices replaces adequate energy intake or a progressive training programme. Not buying an overlapping product is a useful outcome when no clear gap or evidence-supported purpose has been identified.",
+        "sourceIds": [
+          "exercise",
+          "food-protein",
+          "comparison-eaa-leucine-churchward-2012"
+        ]
+      },
+      {
+        "id": "price-and-overlap",
+        "title": "Compare declared amounts without pretending they have equal effects",
+        "body": "For a protein powder, distinguish net powder mass from labelled protein grams. For an amino-acid blend, inspect the individual amino-acid amounts, the complete serving and the number of servings. Do not count the BCAAs inside an EAA total as a second independent quantity, or add the EAA content of a protein serving again as if it were extra protein. A cheaper gram of BCAA is not an equivalent substitute for a gram of complete protein or a complete EAA mixture. Price arithmetic helps compare like formulations; it cannot turn different amino-acid profiles into equal clinical or training value.",
+        "sourceIds": [
+          "food-performance-protein",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "safety-and-next-step",
+        "title": "A sensible shortlist starts with tolerance, restrictions and an actual need",
+        "body": "Check allergens, added stimulants and other ingredients as carefully as the amino-acid headline. A fruit-flavoured EAA or BCAA product is not automatically a simple ingredient, and a whey isolate is still milk-derived. Anyone with a medically restricted protein intake, kidney disease or another condition affecting nutrition needs an appropriate clinical plan; healthy exercise studies do not override it. Avoid using symptoms as proof of an amino-acid deficiency. Use the linked guides to review food intake and product evidence, then decide whether one product addresses a real requirement before stacking several overlapping ones.",
+        "sourceIds": [
+          "food-allergens",
+          "food-kidney-diet",
+          "supplement-quality-ods"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "food-performance-amino-acids",
+      "food-performance-protein",
+      "digestion",
+      "comparison-eaa-leucine-churchward-2012",
+      "bcaa-trial",
+      "eaa-deficit-trial",
+      "food-protein",
+      "food-protein-vegetarian",
+      "protein-plant-diet-hevia-2021",
+      "protein-amino-acids-gorissen-2018",
+      "protein-timing-schoenfeld-2017",
+      "exercise",
+      "supplement-quality-ods",
+      "food-allergens",
+      "food-kidney-diet"
+    ],
+    "comparison": {
+      "title": "Three products, overlapping amino-acid contributions",
+      "columns": [
+        {
+          "key": "supplies",
+          "label": "What it supplies"
+        },
+        {
+          "key": "role",
+          "label": "Where it may fit"
+        },
+        {
+          "key": "limits",
+          "label": "Main limitation"
+        },
+        {
+          "key": "value",
+          "label": "Value check"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Complete protein",
+          "values": {
+            "supplies": "All nine essential amino acids, including BCAAs, plus other amino acids.",
+            "role": "Review an assessed dietary protein gap; food can also supply it.",
+            "limits": "Source, amino-acid profile, preparation, tolerance and total intake affect its contribution.",
+            "value": "Compare labelled protein grams, allergens, quality evidence and cost within a suitable source."
+          },
+          "sourceIds": [
+            "food-performance-protein",
+            "food-performance-amino-acids",
+            "supplement-quality-ods"
+          ]
+        },
+        {
+          "label": "EAA mixture",
+          "values": {
+            "supplies": "Intended to supply all nine essential amino acids; inspect individual amounts.",
+            "role": "A specific nutrition context where a complete EAA formulation is relevant.",
+            "limits": "A rapid or acute response does not establish extra long-term gains over an adequate diet.",
+            "value": "Check the complete profile and serving; compare like formulations rather than raw powder weight."
+          },
+          "sourceIds": [
+            "food-performance-amino-acids",
+            "eaa-deficit-trial",
+            "supplement-quality-ods"
+          ]
+        },
+        {
+          "label": "BCAA mixture",
+          "values": {
+            "supplies": "Leucine, isoleucine and valine: three of the nine essential amino acids.",
+            "role": "An optional product requiring a clear reason beyond amino acids already supplied by meals.",
+            "limits": "It omits six essential amino acids; acute signalling does not prove added long-term benefit.",
+            "value": "A larger leucine ratio or cheaper gram is not equivalent to complete protein."
+          },
+          "sourceIds": [
+            "food-performance-amino-acids",
+            "bcaa-trial",
+            "comparison-eaa-leucine-churchward-2012"
+          ]
+        }
+      ]
+    }
+  }
+}

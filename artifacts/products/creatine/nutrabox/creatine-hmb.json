@@ -1,0 +1,362 @@
+{
+  "schemaVersion": 1,
+  "category": "creatine",
+  "brand": "Nutrabox",
+  "product": "Creatine HMB",
+  "variants": [
+    {
+      "order": 165,
+      "offer": {
+        "id": "cr-165",
+        "brand": "Nutrabox",
+        "product": "Creatine HMB",
+        "type": "Monohydrate",
+        "subclass": "Micronized",
+        "grade": "Not specified",
+        "formulation": "With HMB",
+        "packaging": "Standard pack",
+        "flavour": "Cola",
+        "grams": 300,
+        "kg": 0.3,
+        "price": 999,
+        "stock": "In stock",
+        "creatine": 46.15384615384615,
+        "scoop": null,
+        "serving": 6.5,
+        "creatineServing": 3,
+        "energy": null,
+        "url": "https://nutrabox.in/products/creatine-hmb?variant=44202531553454",
+        "nutritionUrl": "https://nutrabox.in/products/creatine-hmb?variant=44202531553454",
+        "basis": "Brand: 3g creatine monohydrate plus 3g HMB in a 6.5g serving.",
+        "notes": "HMB is a co-ingredient; chemical creatine type remains monohydrate. Scoop weight not stated.",
+        "energyBasis": "",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nutrabox.in/products/creatine-hmb?variant=44202531553454",
+          "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 166,
+      "offer": {
+        "id": "cr-166",
+        "brand": "Nutrabox",
+        "product": "Creatine HMB",
+        "type": "Monohydrate",
+        "subclass": "Micronized",
+        "grade": "Not specified",
+        "formulation": "With HMB",
+        "packaging": "Standard pack",
+        "flavour": "Green Apple",
+        "grams": 300,
+        "kg": 0.3,
+        "price": 999,
+        "stock": "In stock",
+        "creatine": 46.15384615384615,
+        "scoop": null,
+        "serving": 6.5,
+        "creatineServing": 3,
+        "energy": null,
+        "url": "https://nutrabox.in/products/creatine-hmb?variant=44202531651758",
+        "nutritionUrl": "https://nutrabox.in/products/creatine-hmb?variant=44202531651758",
+        "basis": "Brand: 3g creatine monohydrate plus 3g HMB in a 6.5g serving.",
+        "notes": "HMB is a co-ingredient; chemical creatine type remains monohydrate. Scoop weight not stated.",
+        "energyBasis": "",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nutrabox.in/products/creatine-hmb?variant=44202531651758",
+          "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 167,
+      "offer": {
+        "id": "cr-167",
+        "brand": "Nutrabox",
+        "product": "Creatine HMB",
+        "type": "Monohydrate",
+        "subclass": "Micronized",
+        "grade": "Not specified",
+        "formulation": "With HMB",
+        "packaging": "Standard pack",
+        "flavour": "Orange",
+        "grams": 300,
+        "kg": 0.3,
+        "price": 999,
+        "stock": "In stock",
+        "creatine": 46.15384615384615,
+        "scoop": null,
+        "serving": 6.5,
+        "creatineServing": 3,
+        "energy": null,
+        "url": "https://nutrabox.in/products/creatine-hmb?variant=44202531684526",
+        "nutritionUrl": "https://nutrabox.in/products/creatine-hmb?variant=44202531684526",
+        "basis": "Brand: 3g creatine monohydrate plus 3g HMB in a 6.5g serving.",
+        "notes": "HMB is a co-ingredient; chemical creatine type remains monohydrate. Scoop weight not stated.",
+        "energyBasis": "",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nutrabox.in/products/creatine-hmb?variant=44202531684526",
+          "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 2140,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-165",
+        "date": "2025-05-12",
+        "price": 999,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/creatine-hmb?variant=44202531553454",
+        "evidenceUrl": "https://web.archive.org/web/20250512152316id_/https://nutrabox.in/products/creatine-hmb",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "44202531553454",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2141,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-166",
+        "date": "2025-05-12",
+        "price": 999,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/creatine-hmb?variant=44202531651758",
+        "evidenceUrl": "https://web.archive.org/web/20250512152316id_/https://nutrabox.in/products/creatine-hmb",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "44202531651758",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2142,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-167",
+        "date": "2025-05-12",
+        "price": 999,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/creatine-hmb?variant=44202531684526",
+        "evidenceUrl": "https://web.archive.org/web/20250512152316id_/https://nutrabox.in/products/creatine-hmb",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "44202531684526",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2143,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-165",
+        "date": "2025-09-15",
+        "price": 999,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/creatine-hmb?variant=44202531553454",
+        "evidenceUrl": "https://web.archive.org/web/20250915222903id_/https://nutrabox.in/products/creatine-hmb",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "44202531553454",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2144,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-166",
+        "date": "2025-09-15",
+        "price": 999,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/creatine-hmb?variant=44202531651758",
+        "evidenceUrl": "https://web.archive.org/web/20250915222903id_/https://nutrabox.in/products/creatine-hmb",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "44202531651758",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2145,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-167",
+        "date": "2025-09-15",
+        "price": 999,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/creatine-hmb?variant=44202531684526",
+        "evidenceUrl": "https://web.archive.org/web/20250915222903id_/https://nutrabox.in/products/creatine-hmb",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "44202531684526",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2146,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-165",
+        "date": "2026-03-05",
+        "price": 999,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/creatine-hmb?variant=44202531553454",
+        "evidenceUrl": "https://web.archive.org/web/20260305114028id_/https://nutrabox.in/products/creatine-hmb",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "44202531553454",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2147,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-166",
+        "date": "2026-03-05",
+        "price": 999,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/creatine-hmb?variant=44202531651758",
+        "evidenceUrl": "https://web.archive.org/web/20260305114028id_/https://nutrabox.in/products/creatine-hmb",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "44202531651758",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2148,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-167",
+        "date": "2026-03-05",
+        "price": 999,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/creatine-hmb?variant=44202531684526",
+        "evidenceUrl": "https://web.archive.org/web/20260305114028id_/https://nutrabox.in/products/creatine-hmb",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "44202531684526",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3158,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-165",
+        "date": "2026-10-25",
+        "price": 999,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/creatine-hmb?variant=44202531553454",
+        "evidenceUrl": "https://nutrabox.in/products/creatine-hmb.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "44202531553454"
+      }
+    },
+    {
+      "order": 3159,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-166",
+        "date": "2026-10-25",
+        "price": 999,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/creatine-hmb?variant=44202531651758",
+        "evidenceUrl": "https://nutrabox.in/products/creatine-hmb.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "44202531651758"
+      }
+    },
+    {
+      "order": 3160,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-167",
+        "date": "2026-10-25",
+        "price": 999,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/creatine-hmb?variant=44202531684526",
+        "evidenceUrl": "https://nutrabox.in/products/creatine-hmb.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "44202531684526"
+      }
+    },
+    {
+      "order": 5018,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-165",
+        "date": "2026-11-19",
+        "price": 999,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/creatine-hmb?variant=44202531553454",
+        "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "44202531553454"
+      }
+    },
+    {
+      "order": 5019,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-166",
+        "date": "2026-11-19",
+        "price": 999,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/creatine-hmb?variant=44202531651758",
+        "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "44202531651758"
+      }
+    },
+    {
+      "order": 5020,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-167",
+        "date": "2026-11-19",
+        "price": 999,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/creatine-hmb?variant=44202531684526",
+        "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "44202531684526"
+      }
+    }
+  ],
+  "refreshSources": []
+}

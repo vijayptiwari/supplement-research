@@ -1,0 +1,320 @@
+{
+  "schemaVersion": 1,
+  "category": "eaa",
+  "brand": "Nutrabay",
+  "product": "Nutrabay EAAs with Electrolytes (Essential Amino Acids)",
+  "variants": [
+    {
+      "order": 8,
+      "offer": {
+        "id": "eaa-nb-4588333",
+        "brand": "Nutrabay",
+        "product": "Nutrabay EAAs with Electrolytes (Essential Amino Acids)",
+        "flavour": "Lemon Lime",
+        "packaging": "Jar",
+        "source": "Not specified",
+        "price": 1099,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://nutrabay.com/product/nutrabay-pro-eaas-with-electrolytes-essential-amino-acids/?pId=7318007&vId=4588333",
+        "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1059-01-1776681677.png",
+        "labelSources": [
+          "https://nutrabay.com/product/nutrabay-pro-eaas-with-electrolytes-essential-amino-acids/?pId=7318007&vId=4588333",
+          "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1059-01-1776681677.png"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "4588333",
+        "sourceProductId": "7318007",
+        "sourceSku": "NB-NUT-1059-01",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+        "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Label total EAAs 7 g includes the BCAA subset 4.3 g; never add them together. Ingredients name lysine hydrochloride; this is not a measured free-amino-acid purity assay.",
+        "form": "Powder",
+        "servingGrams": 10,
+        "type": "Essential amino-acid mixture",
+        "subclass": "Nine EAAs + electrolytes",
+        "eaaMg": 7000,
+        "bcaaMg": 4300,
+        "leucineMg": 2130,
+        "isoleucineMg": 850,
+        "valineMg": 1320,
+        "energyPerServing": 12.3,
+        "additionalIngredients": [
+          {
+            "name": "Electrolyte ingredients (declared mixture)",
+            "amount": 900,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Sodium",
+            "amount": 180,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Potassium",
+            "amount": 156.9,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "declaredNutrients": [
+          "eaaMg",
+          "bcaaMg",
+          "leucineMg",
+          "isoleucineMg",
+          "valineMg"
+        ],
+        "grams": 250,
+        "packCount": null
+      }
+    },
+    {
+      "order": 9,
+      "offer": {
+        "id": "eaa-nb-5019049",
+        "brand": "Nutrabay",
+        "product": "Nutrabay EAAs with Electrolytes (Essential Amino Acids)",
+        "flavour": "Lychee Crush",
+        "packaging": "Jar",
+        "source": "Not specified",
+        "price": 1099,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://nutrabay.com/product/nutrabay-pro-eaas-with-electrolytes-essential-amino-acids/?pId=7318007&vId=5019049",
+        "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1059-02-1776681832.png",
+        "labelSources": [
+          "https://nutrabay.com/product/nutrabay-pro-eaas-with-electrolytes-essential-amino-acids/?pId=7318007&vId=5019049",
+          "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1059-02-1776681832.png"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "5019049",
+        "sourceProductId": "7318007",
+        "sourceSku": "NB-NUT-1059-02",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+        "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Label total EAAs 7 g includes the BCAA subset 4.3 g; never add them together. Ingredients name lysine hydrochloride; this is not a measured free-amino-acid purity assay.",
+        "form": "Powder",
+        "servingGrams": 10,
+        "type": "Essential amino-acid mixture",
+        "subclass": "Nine EAAs + electrolytes",
+        "eaaMg": 7000,
+        "bcaaMg": 4300,
+        "leucineMg": 2130,
+        "isoleucineMg": 850,
+        "valineMg": 1320,
+        "energyPerServing": 12.3,
+        "additionalIngredients": [
+          {
+            "name": "Electrolyte ingredients (declared mixture)",
+            "amount": 900,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Sodium",
+            "amount": 180,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Potassium",
+            "amount": 156.9,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "declaredNutrients": [
+          "eaaMg",
+          "bcaaMg",
+          "leucineMg",
+          "isoleucineMg",
+          "valineMg"
+        ],
+        "grams": 250,
+        "packCount": null
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5261,
+      "observation": {
+        "category": "eaa",
+        "offerId": "eaa-nb-4588333",
+        "date": "2026-11-20",
+        "price": 1099,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabay.com/product/nutrabay-pro-eaas-with-electrolytes-essential-amino-acids/?pId=7318007&vId=4588333",
+        "evidenceUrl": "https://nutrabay.com/product/nutrabay-pro-eaas-with-electrolytes-essential-amino-acids/?pId=7318007&vId=4588333",
+        "kind": "official-live",
+        "variantId": "4588333",
+        "matchBasis": "Nutrabay selected live product 7318007, variant 4588333, SKU NB-NUT-1059-01; complete selected attributes, ordinary INR sale_price, stock and actual net pack verified. Label amounts independently read from this selected gallery."
+      }
+    },
+    {
+      "order": 5262,
+      "observation": {
+        "category": "eaa",
+        "offerId": "eaa-nb-5019049",
+        "date": "2026-11-20",
+        "price": 1099,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabay.com/product/nutrabay-pro-eaas-with-electrolytes-essential-amino-acids/?pId=7318007&vId=5019049",
+        "evidenceUrl": "https://nutrabay.com/product/nutrabay-pro-eaas-with-electrolytes-essential-amino-acids/?pId=7318007&vId=5019049",
+        "kind": "official-live",
+        "variantId": "5019049",
+        "matchBasis": "Nutrabay selected live product 7318007, variant 5019049, SKU NB-NUT-1059-02; complete selected attributes, ordinary INR sale_price, stock and actual net pack verified. Label amounts independently read from this selected gallery."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 346,
+      "profile": {
+        "id": "eaa-nb-4588333",
+        "brand": "Nutrabay",
+        "product": "Nutrabay EAAs with Electrolytes (Essential Amino Acids)",
+        "flavour": "Lemon Lime",
+        "packaging": "Jar",
+        "source": "Not specified",
+        "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1059-01-1776681677.png",
+        "labelSources": [
+          "https://nutrabay.com/product/nutrabay-pro-eaas-with-electrolytes-essential-amino-acids/?pId=7318007&vId=4588333",
+          "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1059-01-1776681677.png"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+        "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Label total EAAs 7 g includes the BCAA subset 4.3 g; never add them together. Ingredients name lysine hydrochloride; this is not a measured free-amino-acid purity assay.",
+        "form": "Powder",
+        "servingGrams": 10,
+        "type": "Essential amino-acid mixture",
+        "subclass": "Nine EAAs + electrolytes",
+        "eaaMg": 7000,
+        "bcaaMg": 4300,
+        "leucineMg": 2130,
+        "isoleucineMg": 850,
+        "valineMg": 1320,
+        "energyPerServing": 12.3,
+        "additionalIngredients": [
+          {
+            "name": "Electrolyte ingredients (declared mixture)",
+            "amount": 900,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Sodium",
+            "amount": 180,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Potassium",
+            "amount": 156.9,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "declaredNutrients": [
+          "eaaMg",
+          "bcaaMg",
+          "leucineMg",
+          "isoleucineMg",
+          "valineMg"
+        ],
+        "grams": 250,
+        "packCount": null,
+        "category": "eaa",
+        "kind": "nutrabay-product",
+        "base": "https://nutrabay.com",
+        "productUrl": "https://nutrabay.com/product/nutrabay-pro-eaas-with-electrolytes-essential-amino-acids/?pId=7318007&vId=4588333",
+        "variantUrl": "https://nutrabay.com/product/nutrabay-pro-eaas-with-electrolytes-essential-amino-acids/?pId=7318007&vId=4588333",
+        "variantId": "4588333",
+        "productId": "7318007",
+        "variantSku": "NB-NUT-1059-01",
+        "variantAttributes": {
+          "pa_flavour": "Lemon Lime",
+          "pa_weight": "250 g (0.55 lb)"
+        },
+        "cacheKey": "nutrabay-4588333",
+        "allowRetailMultipack": true
+      }
+    },
+    {
+      "order": 347,
+      "profile": {
+        "id": "eaa-nb-5019049",
+        "brand": "Nutrabay",
+        "product": "Nutrabay EAAs with Electrolytes (Essential Amino Acids)",
+        "flavour": "Lychee Crush",
+        "packaging": "Jar",
+        "source": "Not specified",
+        "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1059-02-1776681832.png",
+        "labelSources": [
+          "https://nutrabay.com/product/nutrabay-pro-eaas-with-electrolytes-essential-amino-acids/?pId=7318007&vId=5019049",
+          "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1059-02-1776681832.png"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+        "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Label total EAAs 7 g includes the BCAA subset 4.3 g; never add them together. Ingredients name lysine hydrochloride; this is not a measured free-amino-acid purity assay.",
+        "form": "Powder",
+        "servingGrams": 10,
+        "type": "Essential amino-acid mixture",
+        "subclass": "Nine EAAs + electrolytes",
+        "eaaMg": 7000,
+        "bcaaMg": 4300,
+        "leucineMg": 2130,
+        "isoleucineMg": 850,
+        "valineMg": 1320,
+        "energyPerServing": 12.3,
+        "additionalIngredients": [
+          {
+            "name": "Electrolyte ingredients (declared mixture)",
+            "amount": 900,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Sodium",
+            "amount": 180,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Potassium",
+            "amount": 156.9,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "declaredNutrients": [
+          "eaaMg",
+          "bcaaMg",
+          "leucineMg",
+          "isoleucineMg",
+          "valineMg"
+        ],
+        "grams": 250,
+        "packCount": null,
+        "category": "eaa",
+        "kind": "nutrabay-product",
+        "base": "https://nutrabay.com",
+        "productUrl": "https://nutrabay.com/product/nutrabay-pro-eaas-with-electrolytes-essential-amino-acids/?pId=7318007&vId=5019049",
+        "variantUrl": "https://nutrabay.com/product/nutrabay-pro-eaas-with-electrolytes-essential-amino-acids/?pId=7318007&vId=5019049",
+        "variantId": "5019049",
+        "productId": "7318007",
+        "variantSku": "NB-NUT-1059-02",
+        "variantAttributes": {
+          "pa_flavour": "Lychee Crush",
+          "pa_weight": "250 g (0.55 lb)"
+        },
+        "cacheKey": "nutrabay-5019049",
+        "allowRetailMultipack": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,602 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "Mille",
+  "product": "Fermented Yeast Protein",
+  "variants": [
+    {
+      "order": 860,
+      "offer": {
+        "id": "protein-mille-50623013290181",
+        "brand": "Mille",
+        "product": "Fermented Yeast Protein",
+        "flavour": "Dark Chocolate",
+        "packaging": "Pouch",
+        "source": "Not specified",
+        "price": 2975,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://livemille.com/products/dark-chocolate-protein?variant=50623013290181",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0618/0857/4661/files/9_a09a7e16-8684-4050-ae4e-255d633b21a9.jpg?v=1792153516",
+        "labelSources": [
+          "https://livemille.com/products/dark-chocolate-protein?variant=50623013290181",
+          "https://cdn.shopify.com/s/files/1/0618/0857/4661/files/9_a09a7e16-8684-4050-ae4e-255d633b21a9.jpg?v=1792153516"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "50623013290181",
+        "form": "Powder",
+        "basis": "Exact official retail pack and ordinary INR listed price reviewed on 20 November 2026. Nutrition values are manufacturer declarations, not independent assay results. Trustified was used for discovery; a report on another batch or product does not certify this listing.",
+        "notes": "Current official nutrition table declares 63.6 g protein and 360 kcal per 100 g; approximately 38 g scoop/serving. Label servings-per-pack of13 refers to 500 g gallery artwork and is not used to infer net mass of selected 1/2 kg variant. Front 24 g/25 g/31 g figures are rounded; the explicit per 100 g composition is used. No equivalence to whey digestibility or clinical outcomes is assumed. Ingredients include coffee powder; caffeine quantity is not declared. Coffee Hazelnut is a flavour name; the displayed ingredient list does not specify hazelnut mass. Review total caffeine and relevant allergens before use.",
+        "kg": 1,
+        "type": "Yeast",
+        "subclass": "Fermented yeast protein",
+        "protein": 63.6,
+        "scoop": 38,
+        "serving": 38,
+        "energy": 360,
+        "requiresProductReview": true,
+        "productReviewReason": "Contains coffee powder without a declared caffeine amount; review stimulant exposure before stack inclusion.",
+        "additionalIngredients": [
+          {
+            "name": "Coffee powder",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ]
+      }
+    },
+    {
+      "order": 861,
+      "offer": {
+        "id": "protein-mille-50623013322949",
+        "brand": "Mille",
+        "product": "Fermented Yeast Protein",
+        "flavour": "Dark Chocolate",
+        "packaging": "Pouch",
+        "source": "Not specified",
+        "price": 5499,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://livemille.com/products/dark-chocolate-protein?variant=50623013322949",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0618/0857/4661/files/9_a09a7e16-8684-4050-ae4e-255d633b21a9.jpg?v=1792153516",
+        "labelSources": [
+          "https://livemille.com/products/dark-chocolate-protein?variant=50623013322949",
+          "https://cdn.shopify.com/s/files/1/0618/0857/4661/files/9_a09a7e16-8684-4050-ae4e-255d633b21a9.jpg?v=1792153516"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "50623013322949",
+        "form": "Powder",
+        "basis": "Exact official retail pack and ordinary INR listed price reviewed on 20 November 2026. Nutrition values are manufacturer declarations, not independent assay results. Trustified was used for discovery; a report on another batch or product does not certify this listing.",
+        "notes": "Current official nutrition table declares 63.6 g protein and 360 kcal per 100 g; approximately 38 g scoop/serving. Label servings-per-pack of13 refers to 500 g gallery artwork and is not used to infer net mass of selected 1/2 kg variant. Front 24 g/25 g/31 g figures are rounded; the explicit per 100 g composition is used. No equivalence to whey digestibility or clinical outcomes is assumed. Ingredients include coffee powder; caffeine quantity is not declared. Coffee Hazelnut is a flavour name; the displayed ingredient list does not specify hazelnut mass. Review total caffeine and relevant allergens before use.",
+        "kg": 2,
+        "type": "Yeast",
+        "subclass": "Fermented yeast protein",
+        "protein": 63.6,
+        "scoop": 38,
+        "serving": 38,
+        "energy": 360,
+        "requiresProductReview": true,
+        "productReviewReason": "Contains coffee powder without a declared caffeine amount; review stimulant exposure before stack inclusion.",
+        "additionalIngredients": [
+          {
+            "name": "Coffee powder",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ]
+      }
+    },
+    {
+      "order": 862,
+      "offer": {
+        "id": "protein-mille-50595783672005",
+        "brand": "Mille",
+        "product": "Fermented Yeast Protein",
+        "flavour": "Unflavoured",
+        "packaging": "Pouch",
+        "source": "Not specified",
+        "price": 2805,
+        "currency": "INR",
+        "stock": "Sold out",
+        "url": "https://livemille.com/products/unflavoured-protein?variant=50595783672005",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0618/0857/4661/files/10_24557df1-5d01-4e6b-b6b7-adc44cffe60e.jpg?v=1795076566",
+        "labelSources": [
+          "https://livemille.com/products/unflavoured-protein?variant=50595783672005",
+          "https://cdn.shopify.com/s/files/1/0618/0857/4661/files/10_24557df1-5d01-4e6b-b6b7-adc44cffe60e.jpg?v=1795076566"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "50595783672005",
+        "form": "Powder",
+        "basis": "Exact official retail pack and ordinary INR listed price reviewed on 20 November 2026. Nutrition values are manufacturer declarations, not independent assay results. Trustified was used for discovery; a report on another batch or product does not certify this listing.",
+        "notes": "Current official nutrition table declares 80.5 g protein and 358 kcal per 100 g; approximately 38 g scoop/serving. Label servings-per-pack of13 refers to 500 g gallery artwork and is not used to infer net mass of selected 1/2 kg variant. Front 24 g/25 g/31 g figures are rounded; the explicit per 100 g composition is used. No equivalence to whey digestibility or clinical outcomes is assumed.",
+        "kg": 1,
+        "type": "Yeast",
+        "subclass": "Fermented yeast protein",
+        "protein": 80.5,
+        "scoop": 38,
+        "serving": 38,
+        "energy": 358
+      }
+    },
+    {
+      "order": 863,
+      "offer": {
+        "id": "protein-mille-50595783704773",
+        "brand": "Mille",
+        "product": "Fermented Yeast Protein",
+        "flavour": "Unflavoured",
+        "packaging": "Pouch",
+        "source": "Not specified",
+        "price": 5099,
+        "currency": "INR",
+        "stock": "Sold out",
+        "url": "https://livemille.com/products/unflavoured-protein?variant=50595783704773",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0618/0857/4661/files/10_24557df1-5d01-4e6b-b6b7-adc44cffe60e.jpg?v=1795076566",
+        "labelSources": [
+          "https://livemille.com/products/unflavoured-protein?variant=50595783704773",
+          "https://cdn.shopify.com/s/files/1/0618/0857/4661/files/10_24557df1-5d01-4e6b-b6b7-adc44cffe60e.jpg?v=1795076566"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "50595783704773",
+        "form": "Powder",
+        "basis": "Exact official retail pack and ordinary INR listed price reviewed on 20 November 2026. Nutrition values are manufacturer declarations, not independent assay results. Trustified was used for discovery; a report on another batch or product does not certify this listing.",
+        "notes": "Current official nutrition table declares 80.5 g protein and 358 kcal per 100 g; approximately 38 g scoop/serving. Label servings-per-pack of13 refers to 500 g gallery artwork and is not used to infer net mass of selected 1/2 kg variant. Front 24 g/25 g/31 g figures are rounded; the explicit per 100 g composition is used. No equivalence to whey digestibility or clinical outcomes is assumed.",
+        "kg": 2,
+        "type": "Yeast",
+        "subclass": "Fermented yeast protein",
+        "protein": 80.5,
+        "scoop": 38,
+        "serving": 38,
+        "energy": 358
+      }
+    },
+    {
+      "order": 864,
+      "offer": {
+        "id": "protein-mille-50595854614725",
+        "brand": "Mille",
+        "product": "Fermented Yeast Protein",
+        "flavour": "Coffee Hazelnut",
+        "packaging": "Pouch",
+        "source": "Not specified",
+        "price": 2975,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://livemille.com/products/coffee-hazelnut?variant=50595854614725",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0618/0857/4661/files/9_2c2d2a91-4ca1-4acb-b2c7-1e23404f8f3f.jpg?v=1792155496",
+        "labelSources": [
+          "https://livemille.com/products/coffee-hazelnut?variant=50595854614725",
+          "https://cdn.shopify.com/s/files/1/0618/0857/4661/files/9_2c2d2a91-4ca1-4acb-b2c7-1e23404f8f3f.jpg?v=1792155496"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "50595854614725",
+        "form": "Powder",
+        "basis": "Exact official retail pack and ordinary INR listed price reviewed on 20 November 2026. Nutrition values are manufacturer declarations, not independent assay results. Trustified was used for discovery; a report on another batch or product does not certify this listing.",
+        "notes": "Current official nutrition table declares 64.5 g protein and 366 kcal per 100 g; approximately 38 g scoop/serving. Label servings-per-pack of13 refers to 500 g gallery artwork and is not used to infer net mass of selected 1/2 kg variant. Front 24 g/25 g/31 g figures are rounded; the explicit per 100 g composition is used. No equivalence to whey digestibility or clinical outcomes is assumed. Ingredients include coffee powder; caffeine quantity is not declared. Coffee Hazelnut is a flavour name; the displayed ingredient list does not specify hazelnut mass. Review total caffeine and relevant allergens before use.",
+        "kg": 1,
+        "type": "Yeast",
+        "subclass": "Fermented yeast protein",
+        "protein": 64.5,
+        "scoop": 38,
+        "serving": 38,
+        "energy": 366,
+        "requiresProductReview": true,
+        "productReviewReason": "Contains coffee powder without a declared caffeine amount; review stimulant exposure before stack inclusion.",
+        "additionalIngredients": [
+          {
+            "name": "Coffee powder",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ]
+      }
+    },
+    {
+      "order": 865,
+      "offer": {
+        "id": "protein-mille-50705816387781",
+        "brand": "Mille",
+        "product": "Fermented Yeast Protein",
+        "flavour": "Coffee Hazelnut",
+        "packaging": "Pouch",
+        "source": "Not specified",
+        "price": 5299,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://livemille.com/products/coffee-hazelnut?variant=50705816387781",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0618/0857/4661/files/9_2c2d2a91-4ca1-4acb-b2c7-1e23404f8f3f.jpg?v=1792155496",
+        "labelSources": [
+          "https://livemille.com/products/coffee-hazelnut?variant=50705816387781",
+          "https://cdn.shopify.com/s/files/1/0618/0857/4661/files/9_2c2d2a91-4ca1-4acb-b2c7-1e23404f8f3f.jpg?v=1792155496"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "50705816387781",
+        "form": "Powder",
+        "basis": "Exact official retail pack and ordinary INR listed price reviewed on 20 November 2026. Nutrition values are manufacturer declarations, not independent assay results. Trustified was used for discovery; a report on another batch or product does not certify this listing.",
+        "notes": "Current official nutrition table declares 64.5 g protein and 366 kcal per 100 g; approximately 38 g scoop/serving. Label servings-per-pack of13 refers to 500 g gallery artwork and is not used to infer net mass of selected 1/2 kg variant. Front 24 g/25 g/31 g figures are rounded; the explicit per 100 g composition is used. No equivalence to whey digestibility or clinical outcomes is assumed. Ingredients include coffee powder; caffeine quantity is not declared. Coffee Hazelnut is a flavour name; the displayed ingredient list does not specify hazelnut mass. Review total caffeine and relevant allergens before use.",
+        "kg": 2,
+        "type": "Yeast",
+        "subclass": "Fermented yeast protein",
+        "protein": 64.5,
+        "scoop": 38,
+        "serving": 38,
+        "energy": 366,
+        "requiresProductReview": true,
+        "productReviewReason": "Contains coffee powder without a declared caffeine amount; review stimulant exposure before stack inclusion.",
+        "additionalIngredients": [
+          {
+            "name": "Coffee powder",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ]
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5298,
+      "observation": {
+        "category": "protein",
+        "offerId": "protein-mille-50623013290181",
+        "date": "2026-11-20",
+        "price": 2975,
+        "currency": "INR",
+        "sourceUrl": "https://livemille.com/products/dark-chocolate-protein?variant=50623013290181",
+        "evidenceUrl": "https://livemille.com/products/dark-chocolate-protein.json",
+        "kind": "official-live",
+        "variantId": "50623013290181",
+        "matchBasis": "Official Shopify exact variant ID 50623013290181; selected pack title 1 Kg and actual net grams, ordinary listed INR price and variant stock reviewed."
+      }
+    },
+    {
+      "order": 5299,
+      "observation": {
+        "category": "protein",
+        "offerId": "protein-mille-50623013322949",
+        "date": "2026-11-20",
+        "price": 5499,
+        "currency": "INR",
+        "sourceUrl": "https://livemille.com/products/dark-chocolate-protein?variant=50623013322949",
+        "evidenceUrl": "https://livemille.com/products/dark-chocolate-protein.json",
+        "kind": "official-live",
+        "variantId": "50623013322949",
+        "matchBasis": "Official Shopify exact variant ID 50623013322949; selected pack title 2 Kg and actual net grams, ordinary listed INR price and variant stock reviewed."
+      }
+    },
+    {
+      "order": 5300,
+      "observation": {
+        "category": "protein",
+        "offerId": "protein-mille-50595783672005",
+        "date": "2026-11-20",
+        "price": 2805,
+        "currency": "INR",
+        "sourceUrl": "https://livemille.com/products/unflavoured-protein?variant=50595783672005",
+        "evidenceUrl": "https://livemille.com/products/unflavoured-protein.json",
+        "kind": "official-live",
+        "variantId": "50595783672005",
+        "matchBasis": "Official Shopify exact variant ID 50595783672005; selected pack title 1 Kg and actual net grams, ordinary listed INR price and variant stock reviewed."
+      }
+    },
+    {
+      "order": 5301,
+      "observation": {
+        "category": "protein",
+        "offerId": "protein-mille-50595783704773",
+        "date": "2026-11-20",
+        "price": 5099,
+        "currency": "INR",
+        "sourceUrl": "https://livemille.com/products/unflavoured-protein?variant=50595783704773",
+        "evidenceUrl": "https://livemille.com/products/unflavoured-protein.json",
+        "kind": "official-live",
+        "variantId": "50595783704773",
+        "matchBasis": "Official Shopify exact variant ID 50595783704773; selected pack title 2 Kg and actual net grams, ordinary listed INR price and variant stock reviewed."
+      }
+    },
+    {
+      "order": 5302,
+      "observation": {
+        "category": "protein",
+        "offerId": "protein-mille-50595854614725",
+        "date": "2026-11-20",
+        "price": 2975,
+        "currency": "INR",
+        "sourceUrl": "https://livemille.com/products/coffee-hazelnut?variant=50595854614725",
+        "evidenceUrl": "https://livemille.com/products/coffee-hazelnut.json",
+        "kind": "official-live",
+        "variantId": "50595854614725",
+        "matchBasis": "Official Shopify exact variant ID 50595854614725; selected pack title 1 Kg and actual net grams, ordinary listed INR price and variant stock reviewed."
+      }
+    },
+    {
+      "order": 5303,
+      "observation": {
+        "category": "protein",
+        "offerId": "protein-mille-50705816387781",
+        "date": "2026-11-20",
+        "price": 5299,
+        "currency": "INR",
+        "sourceUrl": "https://livemille.com/products/coffee-hazelnut?variant=50705816387781",
+        "evidenceUrl": "https://livemille.com/products/coffee-hazelnut.json",
+        "kind": "official-live",
+        "variantId": "50705816387781",
+        "matchBasis": "Official Shopify exact variant ID 50705816387781; selected pack title 2 Kg and actual net grams, ordinary listed INR price and variant stock reviewed."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 381,
+      "profile": {
+        "id": "protein-mille-50623013290181",
+        "brand": "Mille",
+        "product": "Fermented Yeast Protein",
+        "flavour": "Dark Chocolate",
+        "packaging": "Pouch",
+        "source": "Not specified",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0618/0857/4661/files/9_a09a7e16-8684-4050-ae4e-255d633b21a9.jpg?v=1792153516",
+        "labelSources": [
+          "https://livemille.com/products/dark-chocolate-protein?variant=50623013290181",
+          "https://cdn.shopify.com/s/files/1/0618/0857/4661/files/9_a09a7e16-8684-4050-ae4e-255d633b21a9.jpg?v=1792153516"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "form": "Powder",
+        "basis": "Exact official retail pack and ordinary INR listed price reviewed on 20 November 2026. Nutrition values are manufacturer declarations, not independent assay results. Trustified was used for discovery; a report on another batch or product does not certify this listing.",
+        "notes": "Current official nutrition table declares 63.6 g protein and 360 kcal per 100 g; approximately 38 g scoop/serving. Label servings-per-pack of13 refers to 500 g gallery artwork and is not used to infer net mass of selected 1/2 kg variant. Front 24 g/25 g/31 g figures are rounded; the explicit per 100 g composition is used. No equivalence to whey digestibility or clinical outcomes is assumed. Ingredients include coffee powder; caffeine quantity is not declared. Coffee Hazelnut is a flavour name; the displayed ingredient list does not specify hazelnut mass. Review total caffeine and relevant allergens before use.",
+        "kg": 1,
+        "type": "Yeast",
+        "subclass": "Fermented yeast protein",
+        "protein": 63.6,
+        "scoop": 38,
+        "serving": 38,
+        "energy": 360,
+        "requiresProductReview": true,
+        "productReviewReason": "Contains coffee powder without a declared caffeine amount; review stimulant exposure before stack inclusion.",
+        "additionalIngredients": [
+          {
+            "name": "Coffee powder",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "category": "protein",
+        "kind": "shopify",
+        "base": "https://livemille.com",
+        "handle": "dark-chocolate-protein",
+        "variantIds": [
+          "50623013290181"
+        ],
+        "cacheKey": "mille-50623013290181",
+        "grams": 1000
+      }
+    },
+    {
+      "order": 382,
+      "profile": {
+        "id": "protein-mille-50623013322949",
+        "brand": "Mille",
+        "product": "Fermented Yeast Protein",
+        "flavour": "Dark Chocolate",
+        "packaging": "Pouch",
+        "source": "Not specified",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0618/0857/4661/files/9_a09a7e16-8684-4050-ae4e-255d633b21a9.jpg?v=1792153516",
+        "labelSources": [
+          "https://livemille.com/products/dark-chocolate-protein?variant=50623013322949",
+          "https://cdn.shopify.com/s/files/1/0618/0857/4661/files/9_a09a7e16-8684-4050-ae4e-255d633b21a9.jpg?v=1792153516"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "form": "Powder",
+        "basis": "Exact official retail pack and ordinary INR listed price reviewed on 20 November 2026. Nutrition values are manufacturer declarations, not independent assay results. Trustified was used for discovery; a report on another batch or product does not certify this listing.",
+        "notes": "Current official nutrition table declares 63.6 g protein and 360 kcal per 100 g; approximately 38 g scoop/serving. Label servings-per-pack of13 refers to 500 g gallery artwork and is not used to infer net mass of selected 1/2 kg variant. Front 24 g/25 g/31 g figures are rounded; the explicit per 100 g composition is used. No equivalence to whey digestibility or clinical outcomes is assumed. Ingredients include coffee powder; caffeine quantity is not declared. Coffee Hazelnut is a flavour name; the displayed ingredient list does not specify hazelnut mass. Review total caffeine and relevant allergens before use.",
+        "kg": 2,
+        "type": "Yeast",
+        "subclass": "Fermented yeast protein",
+        "protein": 63.6,
+        "scoop": 38,
+        "serving": 38,
+        "energy": 360,
+        "requiresProductReview": true,
+        "productReviewReason": "Contains coffee powder without a declared caffeine amount; review stimulant exposure before stack inclusion.",
+        "additionalIngredients": [
+          {
+            "name": "Coffee powder",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "category": "protein",
+        "kind": "shopify",
+        "base": "https://livemille.com",
+        "handle": "dark-chocolate-protein",
+        "variantIds": [
+          "50623013322949"
+        ],
+        "cacheKey": "mille-50623013322949",
+        "grams": 2000
+      }
+    },
+    {
+      "order": 383,
+      "profile": {
+        "id": "protein-mille-50595783672005",
+        "brand": "Mille",
+        "product": "Fermented Yeast Protein",
+        "flavour": "Unflavoured",
+        "packaging": "Pouch",
+        "source": "Not specified",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0618/0857/4661/files/10_24557df1-5d01-4e6b-b6b7-adc44cffe60e.jpg?v=1795076566",
+        "labelSources": [
+          "https://livemille.com/products/unflavoured-protein?variant=50595783672005",
+          "https://cdn.shopify.com/s/files/1/0618/0857/4661/files/10_24557df1-5d01-4e6b-b6b7-adc44cffe60e.jpg?v=1795076566"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "form": "Powder",
+        "basis": "Exact official retail pack and ordinary INR listed price reviewed on 20 November 2026. Nutrition values are manufacturer declarations, not independent assay results. Trustified was used for discovery; a report on another batch or product does not certify this listing.",
+        "notes": "Current official nutrition table declares 80.5 g protein and 358 kcal per 100 g; approximately 38 g scoop/serving. Label servings-per-pack of13 refers to 500 g gallery artwork and is not used to infer net mass of selected 1/2 kg variant. Front 24 g/25 g/31 g figures are rounded; the explicit per 100 g composition is used. No equivalence to whey digestibility or clinical outcomes is assumed.",
+        "kg": 1,
+        "type": "Yeast",
+        "subclass": "Fermented yeast protein",
+        "protein": 80.5,
+        "scoop": 38,
+        "serving": 38,
+        "energy": 358,
+        "category": "protein",
+        "kind": "shopify",
+        "base": "https://livemille.com",
+        "handle": "unflavoured-protein",
+        "variantIds": [
+          "50595783672005"
+        ],
+        "cacheKey": "mille-50595783672005",
+        "grams": 1000
+      }
+    },
+    {
+      "order": 384,
+      "profile": {
+        "id": "protein-mille-50595783704773",
+        "brand": "Mille",
+        "product": "Fermented Yeast Protein",
+        "flavour": "Unflavoured",
+        "packaging": "Pouch",
+        "source": "Not specified",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0618/0857/4661/files/10_24557df1-5d01-4e6b-b6b7-adc44cffe60e.jpg?v=1795076566",
+        "labelSources": [
+          "https://livemille.com/products/unflavoured-protein?variant=50595783704773",
+          "https://cdn.shopify.com/s/files/1/0618/0857/4661/files/10_24557df1-5d01-4e6b-b6b7-adc44cffe60e.jpg?v=1795076566"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "form": "Powder",
+        "basis": "Exact official retail pack and ordinary INR listed price reviewed on 20 November 2026. Nutrition values are manufacturer declarations, not independent assay results. Trustified was used for discovery; a report on another batch or product does not certify this listing.",
+        "notes": "Current official nutrition table declares 80.5 g protein and 358 kcal per 100 g; approximately 38 g scoop/serving. Label servings-per-pack of13 refers to 500 g gallery artwork and is not used to infer net mass of selected 1/2 kg variant. Front 24 g/25 g/31 g figures are rounded; the explicit per 100 g composition is used. No equivalence to whey digestibility or clinical outcomes is assumed.",
+        "kg": 2,
+        "type": "Yeast",
+        "subclass": "Fermented yeast protein",
+        "protein": 80.5,
+        "scoop": 38,
+        "serving": 38,
+        "energy": 358,
+        "category": "protein",
+        "kind": "shopify",
+        "base": "https://livemille.com",
+        "handle": "unflavoured-protein",
+        "variantIds": [
+          "50595783704773"
+        ],
+        "cacheKey": "mille-50595783704773",
+        "grams": 2000
+      }
+    },
+    {
+      "order": 385,
+      "profile": {
+        "id": "protein-mille-50595854614725",
+        "brand": "Mille",
+        "product": "Fermented Yeast Protein",
+        "flavour": "Coffee Hazelnut",
+        "packaging": "Pouch",
+        "source": "Not specified",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0618/0857/4661/files/9_2c2d2a91-4ca1-4acb-b2c7-1e23404f8f3f.jpg?v=1792155496",
+        "labelSources": [
+          "https://livemille.com/products/coffee-hazelnut?variant=50595854614725",
+          "https://cdn.shopify.com/s/files/1/0618/0857/4661/files/9_2c2d2a91-4ca1-4acb-b2c7-1e23404f8f3f.jpg?v=1792155496"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "form": "Powder",
+        "basis": "Exact official retail pack and ordinary INR listed price reviewed on 20 November 2026. Nutrition values are manufacturer declarations, not independent assay results. Trustified was used for discovery; a report on another batch or product does not certify this listing.",
+        "notes": "Current official nutrition table declares 64.5 g protein and 366 kcal per 100 g; approximately 38 g scoop/serving. Label servings-per-pack of13 refers to 500 g gallery artwork and is not used to infer net mass of selected 1/2 kg variant. Front 24 g/25 g/31 g figures are rounded; the explicit per 100 g composition is used. No equivalence to whey digestibility or clinical outcomes is assumed. Ingredients include coffee powder; caffeine quantity is not declared. Coffee Hazelnut is a flavour name; the displayed ingredient list does not specify hazelnut mass. Review total caffeine and relevant allergens before use.",
+        "kg": 1,
+        "type": "Yeast",
+        "subclass": "Fermented yeast protein",
+        "protein": 64.5,
+        "scoop": 38,
+        "serving": 38,
+        "energy": 366,
+        "requiresProductReview": true,
+        "productReviewReason": "Contains coffee powder without a declared caffeine amount; review stimulant exposure before stack inclusion.",
+        "additionalIngredients": [
+          {
+            "name": "Coffee powder",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "category": "protein",
+        "kind": "shopify",
+        "base": "https://livemille.com",
+        "handle": "coffee-hazelnut",
+        "variantIds": [
+          "50595854614725"
+        ],
+        "cacheKey": "mille-50595854614725",
+        "grams": 1000
+      }
+    },
+    {
+      "order": 386,
+      "profile": {
+        "id": "protein-mille-50705816387781",
+        "brand": "Mille",
+        "product": "Fermented Yeast Protein",
+        "flavour": "Coffee Hazelnut",
+        "packaging": "Pouch",
+        "source": "Not specified",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0618/0857/4661/files/9_2c2d2a91-4ca1-4acb-b2c7-1e23404f8f3f.jpg?v=1792155496",
+        "labelSources": [
+          "https://livemille.com/products/coffee-hazelnut?variant=50705816387781",
+          "https://cdn.shopify.com/s/files/1/0618/0857/4661/files/9_2c2d2a91-4ca1-4acb-b2c7-1e23404f8f3f.jpg?v=1792155496"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "form": "Powder",
+        "basis": "Exact official retail pack and ordinary INR listed price reviewed on 20 November 2026. Nutrition values are manufacturer declarations, not independent assay results. Trustified was used for discovery; a report on another batch or product does not certify this listing.",
+        "notes": "Current official nutrition table declares 64.5 g protein and 366 kcal per 100 g; approximately 38 g scoop/serving. Label servings-per-pack of13 refers to 500 g gallery artwork and is not used to infer net mass of selected 1/2 kg variant. Front 24 g/25 g/31 g figures are rounded; the explicit per 100 g composition is used. No equivalence to whey digestibility or clinical outcomes is assumed. Ingredients include coffee powder; caffeine quantity is not declared. Coffee Hazelnut is a flavour name; the displayed ingredient list does not specify hazelnut mass. Review total caffeine and relevant allergens before use.",
+        "kg": 2,
+        "type": "Yeast",
+        "subclass": "Fermented yeast protein",
+        "protein": 64.5,
+        "scoop": 38,
+        "serving": 38,
+        "energy": 366,
+        "requiresProductReview": true,
+        "productReviewReason": "Contains coffee powder without a declared caffeine amount; review stimulant exposure before stack inclusion.",
+        "additionalIngredients": [
+          {
+            "name": "Coffee powder",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "category": "protein",
+        "kind": "shopify",
+        "base": "https://livemille.com",
+        "handle": "coffee-hazelnut",
+        "variantIds": [
+          "50705816387781"
+        ],
+        "cacheKey": "mille-50705816387781",
+        "grams": 2000
+      }
+    }
+  ]
+}

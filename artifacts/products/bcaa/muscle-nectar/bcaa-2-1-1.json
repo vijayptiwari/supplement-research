@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "category": "bcaa",
+  "brand": "Muscle Nectar",
+  "product": "BCAA 2:1:1",
+  "variants": [
+    {
+      "order": 2,
+      "offer": {
+        "brand": "Muscle Nectar",
+        "product": "BCAA 2:1:1",
+        "form": "Powder",
+        "type": "BCAA 2:1:1",
+        "subclass": "BCAA + vitamins",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "packCount": null,
+        "servingUnits": null,
+        "servingGrams": 7.5,
+        "labelChecked": "2026-11-17",
+        "basis": "Official current product-family description states 7.5 g (two heaping scoops) and 5 g BCAA per serving with 2.5/1.25/1.25 g leucine/isoleucine/valine. Exact selected Lemon pack is 250 g.",
+        "notes": "The current manufacturer product-family nutrition table is used for the selected Lemon variant; separate flavour-specific testing is not claimed.",
+        "grams": 250,
+        "flavour": "Lemon",
+        "bcaaMg": 5000,
+        "leucineMg": 2500,
+        "isoleucineMg": 1250,
+        "valineMg": 1250,
+        "energyPerServing": 0,
+        "id": "bcaa-37845800911041",
+        "price": 599,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://musclenectar.com/products/muscle-nectar-bcaa-2-1-1?variant=37845800911041",
+        "nutritionUrl": "https://musclenectar.com/products/muscle-nectar-bcaa-2-1-1",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://musclenectar.com/products/muscle-nectar-bcaa-2-1-1?variant=37845800911041",
+          "evidenceUrl": "https://musclenectar.com/products/muscle-nectar-bcaa-2-1-1.json",
+          "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3813,
+      "observation": {
+        "category": "bcaa",
+        "offerId": "bcaa-37845800911041",
+        "date": "2026-11-17",
+        "price": 599,
+        "currency": "INR",
+        "sourceUrl": "https://musclenectar.com/products/muscle-nectar-bcaa-2-1-1?variant=37845800911041",
+        "evidenceUrl": "https://musclenectar.com/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "37845800911041",
+        "matchBasis": "Official Shopify public feed fetched 2026-11-17; exact variant ID, unconditional single-pack price, size/flavour and availability matched."
+      }
+    },
+    {
+      "order": 4007,
+      "observation": {
+        "category": "bcaa",
+        "offerId": "bcaa-37845800911041",
+        "date": "2026-11-19",
+        "price": 599,
+        "currency": "INR",
+        "sourceUrl": "https://musclenectar.com/products/muscle-nectar-bcaa-2-1-1?variant=37845800911041",
+        "evidenceUrl": "https://musclenectar.com/products/muscle-nectar-bcaa-2-1-1.json",
+        "kind": "official-live",
+        "variantId": "37845800911041",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 97,
+      "profile": {
+        "category": "bcaa",
+        "brand": "Muscle Nectar",
+        "base": "https://musclenectar.com",
+        "handle": "muscle-nectar-bcaa-2-1-1",
+        "product": "BCAA 2:1:1",
+        "form": "Powder",
+        "type": "BCAA 2:1:1",
+        "subclass": "BCAA + vitamins",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "packCount": null,
+        "servingUnits": null,
+        "servingGrams": 7.5,
+        "labelChecked": "2026-11-17",
+        "variantIds": [
+          "37845800911041"
+        ],
+        "basis": "Official current product-family description states 7.5 g (two heaping scoops) and 5 g BCAA per serving with 2.5/1.25/1.25 g leucine/isoleucine/valine. Exact selected Lemon pack is 250 g.",
+        "notes": "The current manufacturer product-family nutrition table is used for the selected Lemon variant; separate flavour-specific testing is not claimed.",
+        "grams": 250,
+        "flavour": "Lemon",
+        "bcaaMg": 5000,
+        "leucineMg": 2500,
+        "isoleucineMg": 1250,
+        "valineMg": 1250,
+        "energyPerServing": 0
+      }
+    }
+  ]
+}

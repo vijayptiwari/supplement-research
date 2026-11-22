@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "category": "citrulline",
+  "brand": "NAKPRO",
+  "product": "L-Citrulline Powder",
+  "variants": [
+    {
+      "order": 7,
+      "offer": {
+        "brand": "NAKPRO",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-11-19",
+        "flavour": "Unflavoured",
+        "product": "L-Citrulline Powder",
+        "form": "Powder",
+        "type": "L-Citrulline",
+        "subclass": "Single ingredient powder",
+        "grams": 100,
+        "servingGrams": 2,
+        "citrullineMg": 2000,
+        "citrullineMalateMg": null,
+        "energyPerServing": 0,
+        "declaredNutrients": [
+          "citrullineMg"
+        ],
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0237/4497/0832/files/02_unflavoured_4b7d71b4-7e62-4e84-b8b8-5946a4ad80f3.jpg?v=1777117839",
+        "basis": "Exact Unflavoured 100 g pouch panel states one heaping scoop (2 g), zero labelled energy and 2 g of the named ingredient per serving.",
+        "notes": "Free L-citrulline and citrulline DL-malate compound are separate forms. No malate-to-free-citrulline conversion is applied; the ratio does not establish an equivalent clinical quantity.",
+        "packCount": null,
+        "servingUnits": null,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0237/4497/0832/files/02_unflavoured_4b7d71b4-7e62-4e84-b8b8-5946a4ad80f3.jpg?v=1777117839"
+        ],
+        "id": "citrulline-41877870837840",
+        "price": 294,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://nakpro.com/products/nakpro-l-citrulline-powder?variant=41877870837840"
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 4048,
+      "observation": {
+        "category": "citrulline",
+        "offerId": "citrulline-41877870837840",
+        "date": "2026-11-19",
+        "price": 294,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-l-citrulline-powder?variant=41877870837840",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "41877870837840",
+        "matchBasis": "Official public Shopify feed fetched 2026-11-19; exact variant ID and unconditional price matched. INR currency confirmed in the live official product HTML. Net pack, serving and ingredient basis use the specific referenced manufacturer label."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 183,
+      "profile": {
+        "category": "citrulline",
+        "brand": "NAKPRO",
+        "base": "https://nakpro.com",
+        "handle": "nakpro-l-citrulline-powder",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-11-19",
+        "variantIds": [
+          "41877870837840"
+        ],
+        "flavour": "Unflavoured",
+        "product": "L-Citrulline Powder",
+        "form": "Powder",
+        "type": "L-Citrulline",
+        "subclass": "Single ingredient powder",
+        "grams": 100,
+        "servingGrams": 2,
+        "citrullineMg": 2000,
+        "citrullineMalateMg": null,
+        "energyPerServing": 0,
+        "declaredNutrients": [
+          "citrullineMg"
+        ],
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0237/4497/0832/files/02_unflavoured_4b7d71b4-7e62-4e84-b8b8-5946a4ad80f3.jpg?v=1777117839",
+        "basis": "Exact Unflavoured 100 g pouch panel states one heaping scoop (2 g), zero labelled energy and 2 g of the named ingredient per serving.",
+        "notes": "Free L-citrulline and citrulline DL-malate compound are separate forms. No malate-to-free-citrulline conversion is applied; the ratio does not establish an equivalent clinical quantity.",
+        "packCount": null,
+        "servingUnits": null,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0237/4497/0832/files/02_unflavoured_4b7d71b4-7e62-4e84-b8b8-5946a4ad80f3.jpg?v=1777117839"
+        ],
+        "id": "citrulline-41877870837840"
+      }
+    }
+  ]
+}

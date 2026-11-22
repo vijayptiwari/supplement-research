@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "category": "fish-oil",
+  "brand": "One Science Nutrition",
+  "product": "Omega 3 Fish Oil",
+  "variants": [
+    {
+      "order": 24,
+      "offer": {
+        "id": "fish-oil-osn-51394762768704",
+        "brand": "One Science Nutrition",
+        "form": "Softgel",
+        "flavour": "Unflavoured",
+        "packaging": "Bottle",
+        "source": "Not specified",
+        "price": 900,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://onesciencenutrition.in/products/one-science-nutrition-omega-3-fish-oil-60capsules?variant=51394762768704",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0952/0483/5648/files/Back_2c93f39c-f393-410e-96da-00d317756a8c.png?v=1771328259",
+        "labelSources": [
+          "https://onesciencenutrition.in/products/one-science-nutrition-omega-3-fish-oil-60capsules?variant=51394762768704",
+          "https://onesciencenutrition.in/products/one-science-nutrition-omega-3-fish-oil-60capsules.json",
+          "https://cdn.shopify.com/s/files/1/0952/0483/5648/files/Back_2c93f39c-f393-410e-96da-00d317756a8c.png?v=1771328259"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "51394762768704",
+        "sourceProductId": "10009040781632",
+        "basis": "Official India brand-store product, exact Shopify variant and published composition panel reviewed. Nutrient inputs are label declarations rather than independent assays. Exact net grams or retail-unit count is verified without scaling a different pack.",
+        "product": "Omega 3 Fish Oil",
+        "packCount": 60,
+        "servingUnits": 1,
+        "type": "Fish oil; lipid ester form not specified",
+        "subclass": "Concentrated EPA+DHA",
+        "fishOilMg": 1000,
+        "epaMg": 360,
+        "dhaMg": 240,
+        "energyPerServing": 10,
+        "declaredNutrients": [
+          "fishOilMg",
+          "epaMg",
+          "dhaMg"
+        ],
+        "notes": "The actual bottle panel declares 1000 mg fish oil, 360 mg EPA, 240 mg DHA and 35 mg other omega-3 fatty acids per softgel. Only EPA+DHA is used for the comparable active payload; other omega-3 is not reassigned. Contains fish and gelatin; triglyceride versus ethyl-ester form is not established."
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5319,
+      "observation": {
+        "category": "fish-oil",
+        "offerId": "fish-oil-osn-51394762768704",
+        "date": "2026-11-20",
+        "price": 900,
+        "currency": "INR",
+        "sourceUrl": "https://onesciencenutrition.in/products/one-science-nutrition-omega-3-fish-oil-60capsules?variant=51394762768704",
+        "evidenceUrl": "https://onesciencenutrition.in/products/one-science-nutrition-omega-3-fish-oil-60capsules.json",
+        "kind": "official-live",
+        "variantId": "51394762768704",
+        "matchBasis": "Official India Shopify product feed: exact product and variant ID, flavour and documented actual net weight/count; ordinary INR variant price and boolean availability checked."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 402,
+      "profile": {
+        "id": "fish-oil-osn-51394762768704",
+        "brand": "One Science Nutrition",
+        "form": "Softgel",
+        "flavour": "Unflavoured",
+        "packaging": "Bottle",
+        "source": "Not specified",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0952/0483/5648/files/Back_2c93f39c-f393-410e-96da-00d317756a8c.png?v=1771328259",
+        "labelSources": [
+          "https://onesciencenutrition.in/products/one-science-nutrition-omega-3-fish-oil-60capsules?variant=51394762768704",
+          "https://onesciencenutrition.in/products/one-science-nutrition-omega-3-fish-oil-60capsules.json",
+          "https://cdn.shopify.com/s/files/1/0952/0483/5648/files/Back_2c93f39c-f393-410e-96da-00d317756a8c.png?v=1771328259"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "basis": "Official India brand-store product, exact Shopify variant and published composition panel reviewed. Nutrient inputs are label declarations rather than independent assays. Exact net grams or retail-unit count is verified without scaling a different pack.",
+        "product": "Omega 3 Fish Oil",
+        "packCount": 60,
+        "servingUnits": 1,
+        "type": "Fish oil; lipid ester form not specified",
+        "subclass": "Concentrated EPA+DHA",
+        "fishOilMg": 1000,
+        "epaMg": 360,
+        "dhaMg": 240,
+        "energyPerServing": 10,
+        "declaredNutrients": [
+          "fishOilMg",
+          "epaMg",
+          "dhaMg"
+        ],
+        "notes": "The actual bottle panel declares 1000 mg fish oil, 360 mg EPA, 240 mg DHA and 35 mg other omega-3 fatty acids per softgel. Only EPA+DHA is used for the comparable active payload; other omega-3 is not reassigned. Contains fish and gelatin; triglyceride versus ethyl-ester form is not established.",
+        "category": "fish-oil",
+        "kind": "shopify",
+        "base": "https://onesciencenutrition.in",
+        "handle": "one-science-nutrition-omega-3-fish-oil-60capsules",
+        "variantIds": [
+          "51394762768704"
+        ],
+        "cacheKey": "osn-51394762768704"
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "category": "fish-oil",
+  "brand": "HK Vitals",
+  "product": "Triple Strength Omega-3 Fish Oil 1150 mg",
+  "variants": [
+    {
+      "order": 18,
+      "offer": {
+        "id": "fish-oil-hkv-259099",
+        "brand": "HK Vitals",
+        "product": "Triple Strength Omega-3 Fish Oil 1150 mg",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "source": "Not specified",
+        "labelChecked": "2026-11-20",
+        "price": 939,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://www.hkvitals.com/sv/hk-vitals-triple-strength-omega-3-fish-oil-1150-mg/SP-132775?navKey=VRNT-259099",
+        "nutritionUrl": "https://img2.hkrtcdn.com/38845/prd_3884481-HK-Vitals-Triple-Strength-Omega3-Fish-Oil-1150-mg-60-capsules_o.jpg",
+        "labelSources": [
+          "https://www.hkvitals.com/sv/hk-vitals-triple-strength-omega-3-fish-oil-1150-mg/SP-132775?navKey=VRNT-259099",
+          "https://img2.hkrtcdn.com/38845/prd_3884481-HK-Vitals-Triple-Strength-Omega3-Fish-Oil-1150-mg-60-capsules_o.jpg"
+        ],
+        "sourceType": "manufacturer",
+        "sourceVariantId": "259099",
+        "sourceProductId": "132775",
+        "notes": "Exact published pack and unconditional listed price verified from the selected official variant. Label declarations are approximate manufacturer values; no independent potency or efficacy test is inferred. Contains fish and gelatin. No triglyceride-versus-ethyl-ester form is verified.",
+        "form": "Softgel",
+        "packCount": 60,
+        "servingUnits": 1,
+        "type": "Fish oil; lipid form not specified",
+        "subclass": "Concentrated EPA+DHA",
+        "fishOilMg": 1150,
+        "epaMg": 525,
+        "dhaMg": 375,
+        "energyPerServing": 12.81,
+        "basis": "The official panel lists one softgel: fish oil 1150 mg, EPA 525 mg, DHA 375 mg and energy 12.81 kcal. EPA+DHA is calculated from its two stated components. Fish oil mass is not substituted for EPA+DHA."
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5093,
+      "observation": {
+        "category": "fish-oil",
+        "offerId": "fish-oil-hkv-259099",
+        "date": "2026-11-20",
+        "price": 939,
+        "currency": "INR",
+        "sourceUrl": "https://www.hkvitals.com/sv/hk-vitals-triple-strength-omega-3-fish-oil-1150-mg/SP-132775?navKey=VRNT-259099",
+        "evidenceUrl": "https://www.hkvitals.com/sv/hk-vitals-triple-strength-omega-3-fish-oil-1150-mg/SP-132775?navKey=VRNT-259099",
+        "kind": "official-live",
+        "variantId": "259099",
+        "matchBasis": "Official HK Vitals selected published SSR product 132775, exact variant 259099 and all displayed attributes; unconditional offer_pr in INR, count/net weight and oos checked; selected gallery composition reviewed."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 207,
+      "profile": {
+        "id": "fish-oil-hkv-259099",
+        "brand": "HK Vitals",
+        "product": "Triple Strength Omega-3 Fish Oil 1150 mg",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "source": "Not specified",
+        "labelChecked": "2026-11-20",
+        "nutritionUrl": "https://img2.hkrtcdn.com/38845/prd_3884481-HK-Vitals-Triple-Strength-Omega3-Fish-Oil-1150-mg-60-capsules_o.jpg",
+        "labelSources": [
+          "https://www.hkvitals.com/sv/hk-vitals-triple-strength-omega-3-fish-oil-1150-mg/SP-132775?navKey=VRNT-259099",
+          "https://img2.hkrtcdn.com/38845/prd_3884481-HK-Vitals-Triple-Strength-Omega3-Fish-Oil-1150-mg-60-capsules_o.jpg"
+        ],
+        "sourceType": "manufacturer",
+        "notes": "Exact published pack and unconditional listed price verified from the selected official variant. Label declarations are approximate manufacturer values; no independent potency or efficacy test is inferred. Contains fish and gelatin. No triglyceride-versus-ethyl-ester form is verified.",
+        "form": "Softgel",
+        "packCount": 60,
+        "servingUnits": 1,
+        "type": "Fish oil; lipid form not specified",
+        "subclass": "Concentrated EPA+DHA",
+        "fishOilMg": 1150,
+        "epaMg": 525,
+        "dhaMg": 375,
+        "energyPerServing": 12.81,
+        "basis": "The official panel lists one softgel: fish oil 1150 mg, EPA 525 mg, DHA 375 mg and energy 12.81 kcal. EPA+DHA is calculated from its two stated components. Fish oil mass is not substituted for EPA+DHA.",
+        "category": "fish-oil",
+        "kind": "hk-product",
+        "base": "https://www.hkvitals.com",
+        "productUrl": "https://www.hkvitals.com/sv/hk-vitals-triple-strength-omega-3-fish-oil-1150-mg/SP-132775?navKey=VRNT-259099",
+        "variantUrl": "https://www.hkvitals.com/sv/hk-vitals-triple-strength-omega-3-fish-oil-1150-mg/SP-132775?navKey=VRNT-259099",
+        "variantId": "259099",
+        "productId": "132775",
+        "sourceBrand": "HK Vitals",
+        "variantAttributes": {
+          "fn-att-quant": "60 capsules"
+        },
+        "cacheKey": "hkv-259099",
+        "allowRetailMultipack": true
+      }
+    }
+  ]
+}

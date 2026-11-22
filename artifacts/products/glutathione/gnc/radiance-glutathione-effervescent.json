@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "category": "glutathione",
+  "brand": "GNC",
+  "product": "Radiance Glutathione Effervescent",
+  "variants": [
+    {
+      "order": 4,
+      "offer": {
+        "brand": "GNC",
+        "product": "Radiance Glutathione Effervescent",
+        "form": "Tablet",
+        "type": "L-glutathione",
+        "subclass": "Effervescent blend",
+        "packCount": 10,
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official product page explicitly states each effervescent tablet contains 500 mg L-glutathione and 40 mg vitamin C; selected pack is 10 tablets.",
+        "notes": "The official exact variant is sold out; its listed price is retained with that availability.",
+        "labelChecked": "2026-10-31",
+        "glutathioneMg": 500,
+        "flavour": "Orange",
+        "id": "glutathione-52466412421351",
+        "price": 474,
+        "currency": "INR",
+        "stock": "Sold out",
+        "url": "https://www.guardian.in/products/gnc-radiance-glutathione-effervescent-tablets-copy?variant=52466412421351",
+        "nutritionUrl": "https://www.guardian.in/products/gnc-radiance-glutathione-effervescent-tablets-copy",
+        "packaging": "Single retail pack",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.guardian.in/products/gnc-radiance-glutathione-effervescent-tablets-copy?variant=52466412421351",
+          "evidenceUrl": "https://www.guardian.in/products/gnc-radiance-glutathione-effervescent-tablets-copy.json",
+          "matchBasis": "Official public Shopify product; exact variant ID 52466412421351 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3749,
+      "observation": {
+        "category": "glutathione",
+        "offerId": "glutathione-52466412421351",
+        "date": "2026-10-29",
+        "price": 474,
+        "currency": "INR",
+        "sourceUrl": "https://www.guardian.in/products/gnc-radiance-glutathione-effervescent-tablets-copy?variant=52466412421351",
+        "evidenceUrl": "https://www.guardian.in/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "52466412421351"
+      }
+    },
+    {
+      "order": 3872,
+      "observation": {
+        "category": "glutathione",
+        "offerId": "glutathione-52466412421351",
+        "date": "2026-11-19",
+        "price": 474,
+        "currency": "INR",
+        "sourceUrl": "https://www.guardian.in/products/gnc-radiance-glutathione-effervescent-tablets-copy?variant=52466412421351",
+        "evidenceUrl": "https://www.guardian.in/products/gnc-radiance-glutathione-effervescent-tablets-copy.json",
+        "kind": "official-live",
+        "variantId": "52466412421351",
+        "matchBasis": "Official public Shopify product; exact variant ID 52466412421351 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 39,
+      "profile": {
+        "category": "glutathione",
+        "brand": "GNC",
+        "base": "https://www.guardian.in",
+        "handle": "gnc-radiance-glutathione-effervescent-tablets-copy",
+        "product": "Radiance Glutathione Effervescent",
+        "form": "Tablet",
+        "type": "L-glutathione",
+        "subclass": "Effervescent blend",
+        "packCount": 10,
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official product page explicitly states each effervescent tablet contains 500 mg L-glutathione and 40 mg vitamin C; selected pack is 10 tablets.",
+        "notes": "The official exact variant is sold out; its listed price is retained with that availability.",
+        "labelChecked": "2026-10-31",
+        "glutathioneMg": 500,
+        "flavour": "Orange"
+      }
+    }
+  ]
+}

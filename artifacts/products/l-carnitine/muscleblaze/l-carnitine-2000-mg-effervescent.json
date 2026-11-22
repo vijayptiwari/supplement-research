@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "category": "l-carnitine",
+  "brand": "MuscleBlaze",
+  "product": "L-Carnitine 2000 mg Effervescent",
+  "variants": [
+    {
+      "order": 11,
+      "offer": {
+        "id": "l-carnitine-hk-291669",
+        "brand": "MuscleBlaze",
+        "product": "L-Carnitine 2000 mg Effervescent",
+        "form": "Tablet",
+        "type": "L-carnitine L-tartrate",
+        "subclass": "Effervescent carnitine compound",
+        "flavour": "Tangy Orange",
+        "packaging": "Single retail pack",
+        "price": 419,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://www.muscleblaze.com/sv/muscleblaze-l-carnitine-2000mg-effervescent/SP-143461?navKey=VRNT-291669",
+        "nutritionUrl": "https://img10.hkrtcdn.com/46072/prd_4607119-MuscleBlaze-LCarnitine-2000mg-Effervescent-20-tablets-Tangy-Orange_o.jpg",
+        "labelSources": [
+          "https://www.muscleblaze.com/sv/muscleblaze-l-carnitine-2000mg-effervescent/SP-143461?navKey=VRNT-291669",
+          "https://img10.hkrtcdn.com/46072/prd_4607119-MuscleBlaze-LCarnitine-2000mg-Effervescent-20-tablets-Tangy-Orange_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "291669",
+        "sourceProductId": "143461",
+        "source": "Not specified",
+        "notes": "The label specifies L-carnitine L-tartrate, not 2,000 mg free L-carnitine. Ingredient list includes Garcinia cambogia but does not quantify it; it remains an unmodeled exposure.",
+        "basis": "Exact official brand selected variant. The linked current product gallery nutrition panel was individually reviewed; amounts are per stated label serving. Product claims are manufacturer declarations, not independent assay results.",
+        "energyPerServing": 13.31,
+        "carnitineCompoundMg": 2000,
+        "carnitineMg": null,
+        "packCount": 20,
+        "servingUnits": 1,
+        "additionalIngredients": [
+          {
+            "name": "Garcinia cambogia extract",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          }
+        ],
+        "declaredNutrients": [
+          "carnitineCompoundMg",
+          "carnitineMg"
+        ]
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5169,
+      "observation": {
+        "category": "l-carnitine",
+        "offerId": "l-carnitine-hk-291669",
+        "date": "2026-11-19",
+        "price": 419,
+        "currency": "INR",
+        "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-l-carnitine-2000mg-effervescent/SP-143461?navKey=VRNT-291669",
+        "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-l-carnitine-2000mg-effervescent/SP-143461?navKey=VRNT-291669",
+        "kind": "official-live",
+        "variantId": "291669",
+        "matchBasis": "Official selected numeric variant 291669 and SP-143461 matched to exact flavour/pack attributes; unconditional INR offer_pr, is_published=true and variant oos checked; no coupon or loyalty prices."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 279,
+      "profile": {
+        "id": "l-carnitine-hk-291669",
+        "brand": "MuscleBlaze",
+        "product": "L-Carnitine 2000 mg Effervescent",
+        "form": "Tablet",
+        "type": "L-carnitine L-tartrate",
+        "subclass": "Effervescent carnitine compound",
+        "flavour": "Tangy Orange",
+        "packaging": "Single retail pack",
+        "currency": "INR",
+        "nutritionUrl": "https://img10.hkrtcdn.com/46072/prd_4607119-MuscleBlaze-LCarnitine-2000mg-Effervescent-20-tablets-Tangy-Orange_o.jpg",
+        "labelSources": [
+          "https://www.muscleblaze.com/sv/muscleblaze-l-carnitine-2000mg-effervescent/SP-143461?navKey=VRNT-291669",
+          "https://img10.hkrtcdn.com/46072/prd_4607119-MuscleBlaze-LCarnitine-2000mg-Effervescent-20-tablets-Tangy-Orange_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "source": "Not specified",
+        "notes": "The label specifies L-carnitine L-tartrate, not 2,000 mg free L-carnitine. Ingredient list includes Garcinia cambogia but does not quantify it; it remains an unmodeled exposure.",
+        "basis": "Exact official brand selected variant. The linked current product gallery nutrition panel was individually reviewed; amounts are per stated label serving. Product claims are manufacturer declarations, not independent assay results.",
+        "energyPerServing": 13.31,
+        "carnitineCompoundMg": 2000,
+        "carnitineMg": null,
+        "packCount": 20,
+        "servingUnits": 1,
+        "additionalIngredients": [
+          {
+            "name": "Garcinia cambogia extract",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          }
+        ],
+        "declaredNutrients": [
+          "carnitineCompoundMg",
+          "carnitineMg"
+        ],
+        "category": "l-carnitine",
+        "kind": "hk-product",
+        "base": "https://www.muscleblaze.com",
+        "productUrl": "https://www.muscleblaze.com/sv/muscleblaze-l-carnitine-2000mg-effervescent/SP-143461?navKey=VRNT-291669",
+        "variantUrl": "https://www.muscleblaze.com/sv/muscleblaze-l-carnitine-2000mg-effervescent/SP-143461?navKey=VRNT-291669",
+        "variantId": "291669",
+        "productId": "143461",
+        "sourceBrand": "MuscleBlaze",
+        "variantAttributes": {
+          "gen-pro-siz": "20 tablet(s)",
+          "gen-sn-flv": "Tangy Orange"
+        },
+        "cacheKey": "hk-performance-291669"
+      }
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "category": "ashwagandha",
+  "brand": "Organic India",
+  "product": "Ashwagandha Capsules",
+  "variants": [
+    {
+      "order": 4,
+      "offer": {
+        "brand": "Organic India",
+        "product": "Ashwagandha Capsules",
+        "form": "Capsule",
+        "type": "Whole root powder",
+        "subclass": "Whole herb",
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Brand describes whole, sun-dried Ashwagandha root. Extract concentration is not assumed.",
+        "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities.",
+        "id": "ashwagandha-53075513606461",
+        "packCount": 60,
+        "price": 234,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://organicindia.com/products/ashwagandha-capsules?variant=53075513606461",
+        "nutritionUrl": "https://organicindia.com/products/ashwagandha-capsules",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-10-29",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://organicindia.com/products/ashwagandha-capsules?variant=53075513606461",
+          "evidenceUrl": "https://organicindia.com/products/ashwagandha-capsules.json",
+          "matchBasis": "Official public Shopify product; exact variant ID 53075513606461 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+        }
+      }
+    },
+    {
+      "order": 5,
+      "offer": {
+        "brand": "Organic India",
+        "product": "Ashwagandha Capsules",
+        "form": "Capsule",
+        "type": "Whole root powder",
+        "subclass": "Whole herb",
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Brand describes whole, sun-dried Ashwagandha root. Extract concentration is not assumed.",
+        "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities.",
+        "id": "ashwagandha-53075513671997",
+        "packCount": 180,
+        "price": 544,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://organicindia.com/products/ashwagandha-capsules?variant=53075513671997",
+        "nutritionUrl": "https://organicindia.com/products/ashwagandha-capsules",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-10-29",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://organicindia.com/products/ashwagandha-capsules?variant=53075513671997",
+          "evidenceUrl": "https://organicindia.com/products/ashwagandha-capsules.json",
+          "matchBasis": "Official public Shopify product; exact variant ID 53075513671997 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3697,
+      "observation": {
+        "category": "ashwagandha",
+        "offerId": "ashwagandha-53075513606461",
+        "date": "2026-10-29",
+        "price": 255,
+        "currency": "INR",
+        "sourceUrl": "https://organicindia.com/products/ashwagandha-capsules?variant=53075513606461",
+        "evidenceUrl": "https://organicindia.com/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "53075513606461"
+      }
+    },
+    {
+      "order": 3698,
+      "observation": {
+        "category": "ashwagandha",
+        "offerId": "ashwagandha-53075513671997",
+        "date": "2026-10-29",
+        "price": 721,
+        "currency": "INR",
+        "sourceUrl": "https://organicindia.com/products/ashwagandha-capsules?variant=53075513671997",
+        "evidenceUrl": "https://organicindia.com/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "53075513671997"
+      }
+    },
+    {
+      "order": 3848,
+      "observation": {
+        "category": "ashwagandha",
+        "offerId": "ashwagandha-53075513606461",
+        "date": "2026-11-19",
+        "price": 234,
+        "currency": "INR",
+        "sourceUrl": "https://organicindia.com/products/ashwagandha-capsules?variant=53075513606461",
+        "evidenceUrl": "https://organicindia.com/products/ashwagandha-capsules.json",
+        "kind": "official-live",
+        "variantId": "53075513606461",
+        "matchBasis": "Official public Shopify product; exact variant ID 53075513606461 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+      }
+    },
+    {
+      "order": 3849,
+      "observation": {
+        "category": "ashwagandha",
+        "offerId": "ashwagandha-53075513671997",
+        "date": "2026-11-19",
+        "price": 544,
+        "currency": "INR",
+        "sourceUrl": "https://organicindia.com/products/ashwagandha-capsules?variant=53075513671997",
+        "evidenceUrl": "https://organicindia.com/products/ashwagandha-capsules.json",
+        "kind": "official-live",
+        "variantId": "53075513671997",
+        "matchBasis": "Official public Shopify product; exact variant ID 53075513671997 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 2,
+      "profile": {
+        "category": "ashwagandha",
+        "brand": "Organic India",
+        "base": "https://organicindia.com",
+        "handle": "ashwagandha-capsules",
+        "product": "Ashwagandha Capsules",
+        "form": "Capsule",
+        "type": "Whole root powder",
+        "subclass": "Whole herb",
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Brand describes whole, sun-dried Ashwagandha root. Extract concentration is not assumed.",
+        "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities."
+      }
+    }
+  ]
+}

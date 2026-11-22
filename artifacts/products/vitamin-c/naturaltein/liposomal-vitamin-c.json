@@ -1,0 +1,214 @@
+{
+  "schemaVersion": 1,
+  "category": "vitamin-c",
+  "brand": "Naturaltein",
+  "product": "Liposomal Vitamin C",
+  "variants": [
+    {
+      "order": 2,
+      "offer": {
+        "brand": "Naturaltein",
+        "product": "Liposomal Vitamin C",
+        "form": "Tablet",
+        "type": "Ascorbic acid",
+        "subclass": "Liposomal",
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official description explicitly states 80 mg liposomal ascorbic acid per tablet and one tablet as the usage serving. Single-box variants contain 30, 60 or 120 tablets.",
+        "notes": "Liposomal is a manufacturer formulation claim. No absorption multiplier or clinical superiority is assumed.",
+        "labelChecked": "2026-10-31",
+        "vitaminCMg": 80,
+        "id": "vitamin-c-44506245562451",
+        "packCount": 30,
+        "price": 399,
+        "currency": "INR",
+        "stock": "Sold out",
+        "url": "https://naturaltein.in/products/liposomal-vitamin-c?variant=44506245562451",
+        "nutritionUrl": "https://naturaltein.in/products/liposomal-vitamin-c",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://naturaltein.in/products/liposomal-vitamin-c?variant=44506245562451",
+          "evidenceUrl": "https://naturaltein.in/products/liposomal-vitamin-c.json",
+          "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+        }
+      }
+    },
+    {
+      "order": 3,
+      "offer": {
+        "brand": "Naturaltein",
+        "product": "Liposomal Vitamin C",
+        "form": "Tablet",
+        "type": "Ascorbic acid",
+        "subclass": "Liposomal",
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official description explicitly states 80 mg liposomal ascorbic acid per tablet and one tablet as the usage serving. Single-box variants contain 30, 60 or 120 tablets.",
+        "notes": "Liposomal is a manufacturer formulation claim. No absorption multiplier or clinical superiority is assumed.",
+        "labelChecked": "2026-10-31",
+        "vitaminCMg": 80,
+        "id": "vitamin-c-44506245595219",
+        "packCount": 60,
+        "price": 549,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://naturaltein.in/products/liposomal-vitamin-c?variant=44506245595219",
+        "nutritionUrl": "https://naturaltein.in/products/liposomal-vitamin-c",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://naturaltein.in/products/liposomal-vitamin-c?variant=44506245595219",
+          "evidenceUrl": "https://naturaltein.in/products/liposomal-vitamin-c.json",
+          "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+        }
+      }
+    },
+    {
+      "order": 4,
+      "offer": {
+        "brand": "Naturaltein",
+        "product": "Liposomal Vitamin C",
+        "form": "Tablet",
+        "type": "Ascorbic acid",
+        "subclass": "Liposomal",
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official description explicitly states 80 mg liposomal ascorbic acid per tablet and one tablet as the usage serving. Single-box variants contain 30, 60 or 120 tablets.",
+        "notes": "Liposomal is a manufacturer formulation claim. No absorption multiplier or clinical superiority is assumed.",
+        "labelChecked": "2026-10-31",
+        "vitaminCMg": 80,
+        "id": "vitamin-c-44506245627987",
+        "packCount": 120,
+        "price": 899,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://naturaltein.in/products/liposomal-vitamin-c?variant=44506245627987",
+        "nutritionUrl": "https://naturaltein.in/products/liposomal-vitamin-c",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://naturaltein.in/products/liposomal-vitamin-c?variant=44506245627987",
+          "evidenceUrl": "https://naturaltein.in/products/liposomal-vitamin-c.json",
+          "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3772,
+      "observation": {
+        "category": "vitamin-c",
+        "offerId": "vitamin-c-44506245562451",
+        "date": "2026-10-31",
+        "price": 399,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/liposomal-vitamin-c?variant=44506245562451",
+        "evidenceUrl": "https://naturaltein.in/products/liposomal-vitamin-c.json",
+        "kind": "official-live",
+        "variantId": "44506245562451",
+        "matchBasis": "Official Shopify product JSON exact variant ID; single-pack count verified. Availability separately checked against exact-variant official HTML structured data where available."
+      }
+    },
+    {
+      "order": 3773,
+      "observation": {
+        "category": "vitamin-c",
+        "offerId": "vitamin-c-44506245595219",
+        "date": "2026-10-31",
+        "price": 549,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/liposomal-vitamin-c?variant=44506245595219",
+        "evidenceUrl": "https://naturaltein.in/products/liposomal-vitamin-c.json",
+        "kind": "official-live",
+        "variantId": "44506245595219",
+        "matchBasis": "Official Shopify product JSON exact variant ID; single-pack count verified. Availability separately checked against exact-variant official HTML structured data where available."
+      }
+    },
+    {
+      "order": 3774,
+      "observation": {
+        "category": "vitamin-c",
+        "offerId": "vitamin-c-44506245627987",
+        "date": "2026-10-31",
+        "price": 899,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/liposomal-vitamin-c?variant=44506245627987",
+        "evidenceUrl": "https://naturaltein.in/products/liposomal-vitamin-c.json",
+        "kind": "official-live",
+        "variantId": "44506245627987",
+        "matchBasis": "Official Shopify product JSON exact variant ID; single-pack count verified. Availability separately checked against exact-variant official HTML structured data where available."
+      }
+    },
+    {
+      "order": 3929,
+      "observation": {
+        "category": "vitamin-c",
+        "offerId": "vitamin-c-44506245562451",
+        "date": "2026-11-19",
+        "price": 399,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/liposomal-vitamin-c?variant=44506245562451",
+        "evidenceUrl": "https://naturaltein.in/products/liposomal-vitamin-c.json",
+        "kind": "official-live",
+        "variantId": "44506245562451",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
+    },
+    {
+      "order": 3930,
+      "observation": {
+        "category": "vitamin-c",
+        "offerId": "vitamin-c-44506245595219",
+        "date": "2026-11-19",
+        "price": 549,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/liposomal-vitamin-c?variant=44506245595219",
+        "evidenceUrl": "https://naturaltein.in/products/liposomal-vitamin-c.json",
+        "kind": "official-live",
+        "variantId": "44506245595219",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
+    },
+    {
+      "order": 3931,
+      "observation": {
+        "category": "vitamin-c",
+        "offerId": "vitamin-c-44506245627987",
+        "date": "2026-11-19",
+        "price": 899,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/liposomal-vitamin-c?variant=44506245627987",
+        "evidenceUrl": "https://naturaltein.in/products/liposomal-vitamin-c.json",
+        "kind": "official-live",
+        "variantId": "44506245627987",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 59,
+      "profile": {
+        "category": "vitamin-c",
+        "brand": "Naturaltein",
+        "base": "https://naturaltein.in",
+        "handle": "liposomal-vitamin-c",
+        "product": "Liposomal Vitamin C",
+        "form": "Tablet",
+        "type": "Ascorbic acid",
+        "subclass": "Liposomal",
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official description explicitly states 80 mg liposomal ascorbic acid per tablet and one tablet as the usage serving. Single-box variants contain 30, 60 or 120 tablets.",
+        "notes": "Liposomal is a manufacturer formulation claim. No absorption multiplier or clinical superiority is assumed.",
+        "labelChecked": "2026-10-31",
+        "vitaminCMg": 80
+      }
+    }
+  ]
+}

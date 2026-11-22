@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "order": 45,
+  "article": {
+    "id": "melatonin-release-label-quality",
+    "category": "melatonin",
+    "series": "understanding-types",
+    "title": "Melatonin formats: release pattern, complete servings and label quality",
+    "summary": "Compare immediate and prolonged release, gummies, strips and blends without treating format or milligrams as a sleep-quality score.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "Two products declaring the same melatonin amount may not deliver the same exposure over time. Release design, serving instructions and other ingredients can change the intervention. At the same time, a format claim can be mistaken for proof of superior absorption or benefit. Reading the label therefore requires several separate checks: the actual amount per complete serving, the intended release pattern, evidence for the finished formulation and appropriate quality documentation. None of these checks diagnoses the reason for poor sleep, which must remain part of the decision.",
+    "sections": [
+      {
+        "id": "amount-and-units",
+        "title": "Read the complete serving before comparing strength",
+        "body": "A declaration can refer to one tablet, two gummies or another full serving. The number of pieces in a pack is not automatically the number of servings. Calculate usable servings only after that relationship is clear, and keep the amount in each serving separate from the weight of the whole product. This avoids comparing one gummy in one pack with two units in another. The calculation describes labelled content and price, not a recommendation that every reader should take that amount.",
+        "sourceIds": [
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "quality-studies",
+        "title": "What overseas content tests do and do not establish",
+        "body": "Studies of selected Canadian melatonin products and US gummies found substantial differences between measured and declared content in some samples. These were analytical investigations of particular products and lots, not tests of all formats or the Indian catalog. Their useful implication is to ask for credible product-specific composition evidence. They do not justify naming an untested local product as inaccurate, claiming that every gummy is unreliable or assuming that a neat label independently verifies its contents.",
+        "sourceIds": [
+          "well-melatonin-quality",
+          "well-melatonin-gummies"
+        ]
+      },
+      {
+        "id": "price-basis",
+        "title": "Keep cost arithmetic separate from sleep effectiveness",
+        "body": "Cost per declared milligram can compare one dimension of a clearly specified pack. It cannot account for release pattern, actual content uncertainty, a different sleep problem or an unwanted next-day effect. A lower cost per milligram therefore need not identify the better choice. Begin with whether the intervention is relevant, then compare full servings and formulation evidence. A convenience premium can be a personal preference, while a promised clinical premium needs evidence for the actual preparation and outcome.",
+        "sourceIds": [
+          "supplement-quality-ods",
+          "melatonin-overview"
+        ]
+      }
+    ],
+    "forms": [
+      {
+        "name": "Immediate-release preparations",
+        "kind": "delivery",
+        "description": "An immediate-release description indicates an intended release pattern, not a different melatonin molecule or proof of a faster clinical cure.",
+        "metabolism": "Oral melatonin is absorbed and undergoes first-pass liver processing; the resulting exposure depends on the formulation and person.",
+        "evidence": "Clinical usefulness remains condition- and timing-specific. Evidence for a circadian protocol is not a universal insomnia result.",
+        "value": "Match the release description and complete serving to relevant evidence instead of assuming faster always means more useful.",
+        "sourceIds": [
+          "melatonin-metabolism",
+          "melatonin-circadian"
+        ]
+      },
+      {
+        "name": "Prolonged- or modified-release preparations",
+        "kind": "delivery",
+        "description": "These products are designed to alter release over time. The precise design and its documentation matter.",
+        "metabolism": "A longer release profile changes the exposure question; it should not be assumed from a vague long-lasting slogan alone.",
+        "evidence": "One formulation's trial cannot establish equivalence for every product using a similar release adjective.",
+        "value": "Ask for relevant formulation evidence and follow the actual product instructions; do not judge by milligrams alone.",
+        "sourceIds": [
+          "melatonin-overview",
+          "melatonin-insomnia"
+        ]
+      },
+      {
+        "name": "Gummies",
+        "kind": "delivery",
+        "description": "A gummy packages melatonin in an edible format with other ingredients. Its taste does not establish either accurate content or paediatric suitability.",
+        "metabolism": "The product still supplies the declared substance through oral handling; format is not a separate sleep mechanism.",
+        "evidence": "A US analytical study identified label discrepancies in sampled gummies, without testing every brand or Indian product.",
+        "value": "Check full-serving units, credible composition evidence and safe storage out of children's reach, alongside personal suitability.",
+        "sourceIds": [
+          "well-melatonin-gummies",
+          "melatonin-children"
+        ]
+      },
+      {
+        "name": "Oral strips and other fast-dissolving formats",
+        "kind": "delivery",
+        "description": "Dissolving in the mouth describes a physical feature. It does not reveal the entire absorption route or quantify a clinical advantage.",
+        "metabolism": "A claim of faster dissolution must be distinguished from measured exposure and from an actual improvement in a relevant sleep outcome.",
+        "evidence": "The format alone does not establish superior results for insomnia, travel or a diagnosed circadian disorder.",
+        "value": "Treat portability or preference as convenience; request a direct relevant comparison before paying for a superior-outcome claim.",
+        "sourceIds": [
+          "melatonin-overview",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "name": "Multi-ingredient sleep blends",
+        "kind": "ingredient",
+        "description": "A blend can contain melatonin plus herbs, minerals or other substances. Total blend weight does not disclose their individual quantities.",
+        "metabolism": "Several exposures may contribute to effects or interactions, so the mixture cannot be described as melatonin alone.",
+        "evidence": "A study of melatonin cannot isolate the efficacy or safety of a new undisclosed blend.",
+        "value": "Inventory overlap with existing products and read every ingredient before attributing either benefit or drowsiness to one component.",
+        "sourceIds": [
+          "melatonin-overview",
+          "supplement-quality-ods"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "supplement-quality-ods",
+      "well-melatonin-quality",
+      "well-melatonin-gummies",
+      "melatonin-overview",
+      "melatonin-metabolism",
+      "melatonin-circadian",
+      "melatonin-insomnia",
+      "melatonin-children"
+    ]
+  }
+}

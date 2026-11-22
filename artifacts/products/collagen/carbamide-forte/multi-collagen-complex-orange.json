@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "category": "collagen",
+  "brand": "Carbamide Forte",
+  "product": "Multi Collagen Complex Orange",
+  "variants": [
+    {
+      "order": 3,
+      "offer": {
+        "id": "collagen-43032045453425",
+        "brand": "Carbamide Forte",
+        "product": "Multi Collagen Complex Orange",
+        "form": "Powder",
+        "flavour": "Orange",
+        "packaging": "Single retail pack",
+        "source": "Fish,chicken bone broth,eggshell membrane; another peptide source unspecified",
+        "labelChecked": "2026-11-19",
+        "notes": "Individual source/type amounts are not disclosed and are not treated as native type II or single-source peptide equivalents. The aloe and chromium-picolinate basis is ambiguous on the graphic and excluded from modeled totals. Energy remains unknown.",
+        "grams": 200,
+        "packCount": null,
+        "servingGrams": 10,
+        "type": "Hydrolysed multi-collagen complex",
+        "subclass": "Multi-source complex + co-nutrients",
+        "collagenComplexMg": 8000,
+        "vitaminCMg": 32.5,
+        "vitaminEMg": 10,
+        "biotinMcg": 40,
+        "hyaluronicAcidMg": 5,
+        "declaredNutrients": [
+          "collagenComplexMg",
+          "vitaminCMg",
+          "vitaminEMg",
+          "biotinMcg",
+          "hyaluronicAcidMg"
+        ],
+        "collagenTypes": "I,II,III,V,X (label claims)",
+        "basis": "The official facts graphic lists two scoops (10 g): hydrolysed collagen complex 8 g, vitamin C 32.5 mg, vitamin E 10 mg, biotin 40 mcg and hyaluronic acid 5 mg. The orange single-pack front states 200 g.",
+        "price": 799,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://www.carbamideforte.com/products/multi-collagen-powder-with-5-types-of-collagen-peptides-type-i-ii-iii-v-x?variant=43032045453425",
+        "nutritionUrl": "https://www.carbamideforte.com/products/multi-collagen-powder-with-5-types-of-collagen-peptides-type-i-ii-iii-v-x",
+        "labelSources": [
+          "https://www.carbamideforte.com/products/multi-collagen-powder-with-5-types-of-collagen-peptides-type-i-ii-iii-v-x",
+          "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B0DV917YFC.PT01_345cf68d-8d03-4f82-81e4-6e7f81787c66.jpg?v=1772186912",
+          "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B0DV917YFC.PT02_18e86e42-80cf-476f-8f84-187a33cfeae2.jpg?v=1772186912"
+        ]
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3897,
+      "observation": {
+        "category": "collagen",
+        "offerId": "collagen-43032045453425",
+        "date": "2026-11-19",
+        "price": 799,
+        "currency": "INR",
+        "sourceUrl": "https://www.carbamideforte.com/products/multi-collagen-powder-with-5-types-of-collagen-peptides-type-i-ii-iii-v-x?variant=43032045453425",
+        "evidenceUrl": "https://www.carbamideforte.com/products/multi-collagen-powder-with-5-types-of-collagen-peptides-type-i-ii-iii-v-x.json",
+        "kind": "official-live",
+        "variantId": "43032045453425",
+        "matchBasis": "Official exact public Shopify variant ID; unconditional INR price and stock. Net pack quantity and ingredient serving transcribed from official text/panels checked2026-11-19."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 137,
+      "profile": {
+        "brand": "Carbamide Forte",
+        "product": "Multi Collagen Complex Orange",
+        "form": "Powder",
+        "flavour": "Orange",
+        "packaging": "Single retail pack",
+        "source": "Fish,chicken bone broth,eggshell membrane; another peptide source unspecified",
+        "labelChecked": "2026-11-19",
+        "notes": "Individual source/type amounts are not disclosed and are not treated as native type II or single-source peptide equivalents. The aloe and chromium-picolinate basis is ambiguous on the graphic and excluded from modeled totals. Energy remains unknown.",
+        "grams": 200,
+        "packCount": null,
+        "servingGrams": 10,
+        "type": "Hydrolysed multi-collagen complex",
+        "subclass": "Multi-source complex + co-nutrients",
+        "collagenComplexMg": 8000,
+        "vitaminCMg": 32.5,
+        "vitaminEMg": 10,
+        "biotinMcg": 40,
+        "hyaluronicAcidMg": 5,
+        "declaredNutrients": [
+          "collagenComplexMg",
+          "vitaminCMg",
+          "vitaminEMg",
+          "biotinMcg",
+          "hyaluronicAcidMg"
+        ],
+        "collagenTypes": "I,II,III,V,X (label claims)",
+        "basis": "The official facts graphic lists two scoops (10 g): hydrolysed collagen complex 8 g, vitamin C 32.5 mg, vitamin E 10 mg, biotin 40 mcg and hyaluronic acid 5 mg. The orange single-pack front states 200 g.",
+        "nutritionUrl": "https://www.carbamideforte.com/products/multi-collagen-powder-with-5-types-of-collagen-peptides-type-i-ii-iii-v-x",
+        "labelSources": [
+          "https://www.carbamideforte.com/products/multi-collagen-powder-with-5-types-of-collagen-peptides-type-i-ii-iii-v-x",
+          "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B0DV917YFC.PT01_345cf68d-8d03-4f82-81e4-6e7f81787c66.jpg?v=1772186912",
+          "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B0DV917YFC.PT02_18e86e42-80cf-476f-8f84-187a33cfeae2.jpg?v=1772186912"
+        ],
+        "category": "collagen",
+        "base": "https://www.carbamideforte.com",
+        "handle": "multi-collagen-powder-with-5-types-of-collagen-peptides-type-i-ii-iii-v-x",
+        "variantIds": [
+          "43032045453425"
+        ],
+        "numericVariantIsCount": false,
+        "id": "collagen-43032045453425"
+      }
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "category": "vitamin-b",
+  "brand": "Pure Nutrition",
+  "product": "B-Complex (100% RDA)",
+  "variants": [
+    {
+      "order": 8,
+      "offer": {
+        "brand": "Pure Nutrition",
+        "product": "B-Complex (100% RDA)",
+        "form": "Tablet",
+        "type": "B-complex (mixed vitamin forms)",
+        "subclass": "Full B-vitamin combination",
+        "packCount": 120,
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official back-label image states serving size 1 tablet and lists all eight vitamins separately. The 120-tablet pack count comes from the exact product title.",
+        "notes": "Vitamin quantities use the manufacturer label rather than assuming amounts from a 100% RDA claim. All individual vitamin masses remain separate. Price and stock retain the dated 2026-10-29 official-feed observation.",
+        "labelChecked": "2026-10-31",
+        "declaredNutrients": [
+          "vitaminB1Mg",
+          "vitaminB2Mg",
+          "vitaminB3Mg",
+          "vitaminB5Mg",
+          "vitaminB6Mg",
+          "biotinMcg",
+          "vitaminB12Mcg",
+          "folicAcidMcg"
+        ],
+        "flavour": "Unflavoured",
+        "vitaminB1Mg": 1.4,
+        "vitaminB2Mg": 2,
+        "vitaminB3Mg": 14,
+        "vitaminB5Mg": 5,
+        "vitaminB6Mg": 1.9,
+        "biotinMcg": 40,
+        "vitaminB12Mcg": 2.2,
+        "folicAcidMcg": 300,
+        "folateMcgDfe": null,
+        "methylfolateMcg": null,
+        "energyPerServing": 0.08,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0618/9629/4654/files/b-complex120tabsrop.jpg?v=1771307133"
+        ],
+        "id": "vitamin-b-47806799970558",
+        "price": 648.93,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://purenutrition.in/products/pure-nutrition-b-complex-100-rda-of-b-vitamins-energy-immunity-support-120-veg-tablets?variant=47806799970558",
+        "nutritionUrl": "https://purenutrition.in/products/pure-nutrition-b-complex-100-rda-of-b-vitamins-energy-immunity-support-120-veg-tablets",
+        "packaging": "Single retail pack",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://purenutrition.in/products/pure-nutrition-b-complex-100-rda-of-b-vitamins-energy-immunity-support-120-veg-tablets?variant=47806799970558",
+          "evidenceUrl": "https://purenutrition.in/products/pure-nutrition-b-complex-100-rda-of-b-vitamins-energy-immunity-support-120-veg-tablets.json",
+          "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3789,
+      "observation": {
+        "category": "vitamin-b",
+        "offerId": "vitamin-b-47806799970558",
+        "date": "2026-10-29",
+        "price": 648.93,
+        "currency": "INR",
+        "sourceUrl": "https://purenutrition.in/products/pure-nutrition-b-complex-100-rda-of-b-vitamins-energy-immunity-support-120-veg-tablets?variant=47806799970558",
+        "evidenceUrl": "https://purenutrition.in/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify product variant ID, price and single retail-pack count verified; quantities come from separately cited label evidence.",
+        "variantId": "47806799970558"
+      }
+    },
+    {
+      "order": 3944,
+      "observation": {
+        "category": "vitamin-b",
+        "offerId": "vitamin-b-47806799970558",
+        "date": "2026-11-19",
+        "price": 648.93,
+        "currency": "INR",
+        "sourceUrl": "https://purenutrition.in/products/pure-nutrition-b-complex-100-rda-of-b-vitamins-energy-immunity-support-120-veg-tablets?variant=47806799970558",
+        "evidenceUrl": "https://purenutrition.in/products/pure-nutrition-b-complex-100-rda-of-b-vitamins-energy-immunity-support-120-veg-tablets.json",
+        "kind": "official-live",
+        "variantId": "47806799970558",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 73,
+      "profile": {
+        "category": "vitamin-b",
+        "brand": "Pure Nutrition",
+        "base": "https://purenutrition.in",
+        "handle": "pure-nutrition-b-complex-100-rda-of-b-vitamins-energy-immunity-support-120-veg-tablets",
+        "product": "B-Complex (100% RDA)",
+        "form": "Tablet",
+        "type": "B-complex (mixed vitamin forms)",
+        "subclass": "Full B-vitamin combination",
+        "packCount": 120,
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official back-label image states serving size 1 tablet and lists all eight vitamins separately. The 120-tablet pack count comes from the exact product title.",
+        "notes": "Vitamin quantities use the manufacturer label rather than assuming amounts from a 100% RDA claim. All individual vitamin masses remain separate.",
+        "labelChecked": "2026-10-31",
+        "declaredNutrients": [
+          "vitaminB1Mg",
+          "vitaminB2Mg",
+          "vitaminB3Mg",
+          "vitaminB5Mg",
+          "vitaminB6Mg",
+          "biotinMcg",
+          "vitaminB12Mcg",
+          "folicAcidMcg"
+        ],
+        "flavour": "Unflavoured",
+        "vitaminB1Mg": 1.4,
+        "vitaminB2Mg": 2,
+        "vitaminB3Mg": 14,
+        "vitaminB5Mg": 5,
+        "vitaminB6Mg": 1.9,
+        "biotinMcg": 40,
+        "vitaminB12Mcg": 2.2,
+        "folicAcidMcg": 300,
+        "folateMcgDfe": null,
+        "methylfolateMcg": null,
+        "energyPerServing": 0.08,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0618/9629/4654/files/b-complex120tabsrop.jpg?v=1771307133"
+        ]
+      }
+    }
+  ]
+}

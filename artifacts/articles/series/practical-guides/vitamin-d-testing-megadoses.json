@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "order": 25,
+  "article": {
+    "id": "vitamin-d-testing-megadoses",
+    "category": "vitamin-d",
+    "series": "practical-guides",
+    "title": "Vitamin D tests and high-strength packs: when more information changes the purchase",
+    "summary": "Separate screening, diagnosis, ordinary intake and supervised replacement before treating a low result or a stronger pack as a universal instruction.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "A vitamin D decision often begins with a laboratory result, a tired feeling or a recommendation to take the biggest available strength. Those starting points are not interchangeable. Testing can be clinically useful, while routine screening and repeated supplement escalation can also create unnecessary cost. The important question is what decision a test or product is intended to change. This article explains how to keep that purpose visible without turning a website into a diagnostic or dosing service.",
+    "sections": [
+      {
+        "id": "test",
+        "title": "Know which result is being discussed",
+        "body": "The usual circulating marker for vitamin D status is 25-hydroxyvitamin D. It differs from the active hormone, and different tests answer different clinical questions. A value is interpreted alongside the assay, units, history and reason for testing. A screenshot stripped of its reference range and context is a poor starting point for purchasing advice. Keep the original report and discuss an abnormal result with the clinician who can judge what further investigation or treatment is relevant.",
+        "sourceIds": [
+          "d-overview"
+        ]
+      },
+      {
+        "id": "screening",
+        "title": "Screening healthy people differs from investigating a clinical concern",
+        "body": "The Endocrine Society's 2024 prevention guideline suggests against routine 25-hydroxyvitamin D screening in generally healthy adults who have no established testing indication. The recommendation does not say that vitamin D disorders are unimportant or that nobody should be tested. It separates population screening from a test prompted by a clinical problem. A reader with symptoms, a relevant condition or a treatment-monitoring plan should not use a general screening recommendation to cancel appropriate care.",
+        "sourceIds": [
+          "nutrients-d-guideline-2024"
+        ]
+      },
+      {
+        "id": "symptoms",
+        "title": "Fatigue and aches are not a self-diagnosis",
+        "body": "A symptom can be real without identifying its cause. Vitamin D deficiency is one possible clinical issue, but a nonspecific complaint cannot establish the appropriate ingredient, amount or duration of treatment. Buying a high-strength pack first may complicate the later history while leaving the underlying problem unresolved. A useful preparation for an appointment is a clear account of the symptom, its duration, medicines, existing supplements and any actual test results. The nutrient's biological role alone does not close that investigation.",
+        "sourceIds": [
+          "d-overview",
+          "nutrients-d-guideline-2024"
+        ]
+      },
+      {
+        "id": "fractures",
+        "title": "Understand the population behind a negative trial",
+        "body": "The VITAL ancillary fracture trial did not show fewer fractures from vitamin D supplementation in generally healthy midlife and older adults. Participants were not selected for established deficiency, osteoporosis or low bone mass. That boundary matters: it challenges a blanket prevention promise while leaving diagnosis-specific care as a separate question. Neither a positive laboratory change nor a negative general-population result should be stretched into a claim about every clinical group. Ask whether the advertised outcome was actually measured.",
+        "sourceIds": [
+          "d-vital"
+        ]
+      },
+      {
+        "id": "bolus",
+        "title": "A very large dose is not automatically a better prevention strategy",
+        "body": "In a randomized trial of older women, a very large annual oral vitamin D regimen increased falls and fractures rather than improving the intended outcomes. The finding concerns that specific population and schedule; it is not evidence that every prescribed replacement regimen is harmful. It does demonstrate why a long interval and a dramatic dose cannot be justified from convenience alone. Regimen, baseline status and outcome are part of the evidence, not details that can be discarded after choosing the ingredient.",
+        "sourceIds": [
+          "nutrients-d-bolus-2010"
+        ]
+      },
+      {
+        "id": "upper-limit",
+        "title": "A safety ceiling is not a goal",
+        "body": "Reference intakes and upper limits describe different concepts. A general upper limit is not the amount everyone should try to reach, and it does not replace a supervised treatment protocol for a diagnosed need. Vitamin D excess can lead to excessive calcium and other harm. Count overlapping products before comparing strengths, especially when calcium or additional vitamin D is included elsewhere. The website's international intake references are explicitly identified; they are not automatically Indian prescriptions or instructions to self-correct a laboratory result.",
+        "sourceIds": [
+          "d-overview",
+          "ca-overview"
+        ]
+      },
+      {
+        "id": "followup",
+        "title": "A treatment plan needs a review point",
+        "body": "When a clinician recommends replacement, understand the intended schedule, duration, monitoring and what happens afterwards. Keep the actual product label with that plan, particularly when changing brands or delivery formats. Continuing a temporary high-strength regimen indefinitely is a different intervention from the one originally prescribed. Likewise, repeating blood tests without knowing which decision they change may add cost without useful direction. The practical aim is to connect information with a concrete clinical decision rather than accumulate numbers or bottles.",
+        "sourceIds": [
+          "nutrients-d-guideline-2024",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "shopping",
+        "title": "What to check before buying the next pack",
+        "body": "Confirm the ingredient and serving units, the reason for supplementation, other sources already being used, and whether the recorded price matches the exact pack. A low cost per international unit can identify a cheaper way to buy a defined amount; it cannot determine whether that amount is needed. If the label, schedule or clinical purpose is unclear, resolve that uncertainty before treating the strongest pack as the most economical one. Unnecessary excess remains poor value even when the unit price is low.",
+        "sourceIds": [
+          "supplement-quality-ods",
+          "d-overview"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "d-overview",
+      "nutrients-d-guideline-2024",
+      "d-vital",
+      "nutrients-d-bolus-2010",
+      "ca-overview",
+      "supplement-quality-ods"
+    ]
+  }
+}

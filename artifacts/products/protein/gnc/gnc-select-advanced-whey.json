@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "GNC",
+  "product": "GNC SELECT ADVANCED WHEY",
+  "variants": [
+    {
+      "order": 778,
+      "offer": {
+        "id": 778,
+        "brand": "GNC",
+        "product": "GNC SELECT ADVANCED WHEY",
+        "type": "Whey — blend",
+        "flavour": "Chocolate",
+        "kg": 1,
+        "price": 2399,
+        "stock": "In stock",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://gnc.in/products/gnc-select-advanced-whey?variant=51993886425319",
+        "nutritionUrl": "https://gnc.in/products/gnc-select-advanced-whey?variant=51993886425319",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://gnc.in/products/gnc-select-advanced-whey?variant=51993886425319",
+          "evidenceUrl": "https://gnc.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 779,
+      "offer": {
+        "id": 779,
+        "brand": "GNC",
+        "product": "GNC SELECT ADVANCED WHEY",
+        "type": "Whey — blend",
+        "flavour": "Mango",
+        "kg": 1,
+        "price": 2399,
+        "stock": "In stock",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://gnc.in/products/gnc-select-advanced-whey?variant=51993886458087",
+        "nutritionUrl": "https://gnc.in/products/gnc-select-advanced-whey?variant=51993886458087",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://gnc.in/products/gnc-select-advanced-whey?variant=51993886458087",
+          "evidenceUrl": "https://gnc.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 2967,
+      "observation": {
+        "category": "protein",
+        "offerId": 778,
+        "date": "2026-10-25",
+        "price": 2999,
+        "currency": "INR",
+        "sourceUrl": "https://gnc.in/products/gnc-select-advanced-whey?variant=51993886425319",
+        "evidenceUrl": "https://gnc.in/products/gnc-select-advanced-whey.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "51993886425319"
+      }
+    },
+    {
+      "order": 2968,
+      "observation": {
+        "category": "protein",
+        "offerId": 779,
+        "date": "2026-10-25",
+        "price": 2999,
+        "currency": "INR",
+        "sourceUrl": "https://gnc.in/products/gnc-select-advanced-whey?variant=51993886458087",
+        "evidenceUrl": "https://gnc.in/products/gnc-select-advanced-whey.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "51993886458087"
+      }
+    },
+    {
+      "order": 4825,
+      "observation": {
+        "category": "protein",
+        "offerId": 778,
+        "date": "2026-11-19",
+        "price": 2399,
+        "currency": "INR",
+        "sourceUrl": "https://gnc.in/products/gnc-select-advanced-whey?variant=51993886425319",
+        "evidenceUrl": "https://gnc.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "51993886425319"
+      }
+    },
+    {
+      "order": 4826,
+      "observation": {
+        "category": "protein",
+        "offerId": 779,
+        "date": "2026-11-19",
+        "price": 2399,
+        "currency": "INR",
+        "sourceUrl": "https://gnc.in/products/gnc-select-advanced-whey?variant=51993886458087",
+        "evidenceUrl": "https://gnc.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "51993886458087"
+      }
+    }
+  ],
+  "refreshSources": []
+}

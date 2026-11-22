@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 1,
+  "category": "bcaa",
+  "brand": "MuscleBlaze",
+  "product": "BCAA PRO + ELECTROLYTES Assorted Sachets",
+  "variants": [
+    {
+      "order": 11,
+      "offer": {
+        "id": "bcaa-hk-275533",
+        "brand": "MuscleBlaze",
+        "product": "BCAA PRO + ELECTROLYTES Assorted Sachets",
+        "form": "Powder",
+        "type": "BCAA 2:1:1",
+        "subclass": "Six assorted 8 g sachets",
+        "flavour": "Tropical fest, Litchi & Watermelon kool Aid",
+        "packaging": "Single retail pack",
+        "price": 299,
+        "currency": "INR",
+        "stock": "Sold out",
+        "url": "https://www.muscleblaze.com/sv/muscleblaze-bcaa-pro-plus-electrolytes/SP-137725?navKey=VRNT-275533",
+        "nutritionUrl": "https://img6.hkrtcdn.com/41588/prd_4158725-MuscleBlaze-BCAA-PRO-ELECTROLYTES-48-g-6-Servings-Tropical-fest-Litchi-Watermelon-kool-Aid_o.jpg",
+        "labelSources": [
+          "https://www.muscleblaze.com/sv/muscleblaze-bcaa-pro-plus-electrolytes/SP-137725?navKey=VRNT-275533",
+          "https://img6.hkrtcdn.com/41588/prd_4158725-MuscleBlaze-BCAA-PRO-ELECTROLYTES-48-g-6-Servings-Tropical-fest-Litchi-Watermelon-kool-Aid_o.jpg",
+          "https://img4.hkrtcdn.com/41588/prd_4158713-MuscleBlaze-BCAA-PRO-ELECTROLYTES-48-g-6-Servings-Tropical-fest-Litchi-Watermelon-kool-Aid_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "275533",
+        "sourceProductId": "137725",
+        "source": "Not specified",
+        "notes": "One retail box is six sachets: two each Litchi, Tropical Fest and Watermelon Kool Aid. The three flavour panels consistently declare 5 g BCAA per sachet but calories vary; energy is deliberately unknown instead of assigning one flavour to the entire mixed pack. Selected offer is sold out.",
+        "basis": "Exact official brand selected variant. The linked current product gallery nutrition panel was individually reviewed; amounts are per stated label serving. Product claims are manufacturer declarations, not independent assay results.",
+        "energyPerServing": null,
+        "bcaaMg": 5000,
+        "leucineMg": 2500,
+        "isoleucineMg": 1250,
+        "valineMg": 1250,
+        "grams": 48,
+        "packCount": null,
+        "servingGrams": 8,
+        "additionalIngredients": [
+          {
+            "name": "Electrolyte compound blend",
+            "amount": 500,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          }
+        ],
+        "declaredNutrients": [
+          "bcaaMg",
+          "leucineMg",
+          "isoleucineMg",
+          "valineMg"
+        ]
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5184,
+      "observation": {
+        "category": "bcaa",
+        "offerId": "bcaa-hk-275533",
+        "date": "2026-11-19",
+        "price": 299,
+        "currency": "INR",
+        "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-bcaa-pro-plus-electrolytes/SP-137725?navKey=VRNT-275533",
+        "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-bcaa-pro-plus-electrolytes/SP-137725?navKey=VRNT-275533",
+        "kind": "official-live",
+        "variantId": "275533",
+        "matchBasis": "Official selected numeric variant 275533 and SP-137725 matched to exact flavour/pack attributes; unconditional INR offer_pr, is_published=true and variant oos checked; no coupon or loyalty prices."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 293,
+      "profile": {
+        "id": "bcaa-hk-275533",
+        "brand": "MuscleBlaze",
+        "product": "BCAA PRO + ELECTROLYTES Assorted Sachets",
+        "form": "Powder",
+        "type": "BCAA 2:1:1",
+        "subclass": "Six assorted 8 g sachets",
+        "flavour": "Tropical fest, Litchi & Watermelon kool Aid",
+        "packaging": "Single retail pack",
+        "currency": "INR",
+        "nutritionUrl": "https://img6.hkrtcdn.com/41588/prd_4158725-MuscleBlaze-BCAA-PRO-ELECTROLYTES-48-g-6-Servings-Tropical-fest-Litchi-Watermelon-kool-Aid_o.jpg",
+        "labelSources": [
+          "https://www.muscleblaze.com/sv/muscleblaze-bcaa-pro-plus-electrolytes/SP-137725?navKey=VRNT-275533",
+          "https://img6.hkrtcdn.com/41588/prd_4158725-MuscleBlaze-BCAA-PRO-ELECTROLYTES-48-g-6-Servings-Tropical-fest-Litchi-Watermelon-kool-Aid_o.jpg",
+          "https://img4.hkrtcdn.com/41588/prd_4158713-MuscleBlaze-BCAA-PRO-ELECTROLYTES-48-g-6-Servings-Tropical-fest-Litchi-Watermelon-kool-Aid_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "source": "Not specified",
+        "notes": "One retail box is six sachets: two each Litchi, Tropical Fest and Watermelon Kool Aid. The three flavour panels consistently declare 5 g BCAA per sachet but calories vary; energy is deliberately unknown instead of assigning one flavour to the entire mixed pack. Selected offer is sold out.",
+        "basis": "Exact official brand selected variant. The linked current product gallery nutrition panel was individually reviewed; amounts are per stated label serving. Product claims are manufacturer declarations, not independent assay results.",
+        "energyPerServing": null,
+        "bcaaMg": 5000,
+        "leucineMg": 2500,
+        "isoleucineMg": 1250,
+        "valineMg": 1250,
+        "grams": 48,
+        "packCount": null,
+        "servingGrams": 8,
+        "additionalIngredients": [
+          {
+            "name": "Electrolyte compound blend",
+            "amount": 500,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          }
+        ],
+        "declaredNutrients": [
+          "bcaaMg",
+          "leucineMg",
+          "isoleucineMg",
+          "valineMg"
+        ],
+        "category": "bcaa",
+        "kind": "hk-product",
+        "base": "https://www.muscleblaze.com",
+        "productUrl": "https://www.muscleblaze.com/sv/muscleblaze-bcaa-pro-plus-electrolytes/SP-137725?navKey=VRNT-275533",
+        "variantUrl": "https://www.muscleblaze.com/sv/muscleblaze-bcaa-pro-plus-electrolytes/SP-137725?navKey=VRNT-275533",
+        "variantId": "275533",
+        "productId": "137725",
+        "sourceBrand": "MuscleBlaze",
+        "variantAttributes": {
+          "sn-bca-flv": "Tropical fest, Litchi & Watermelon kool Aid",
+          "gen-pro-siz": "48 g",
+          "sn-ser-pack": "6 Servings"
+        },
+        "cacheKey": "hk-performance-275533",
+        "packSizeLabel": "48 g",
+        "netWeightEvidenceUrl": "https://img4.hkrtcdn.com/41588/prd_4158713-MuscleBlaze-BCAA-PRO-ELECTROLYTES-48-g-6-Servings-Tropical-fest-Litchi-Watermelon-kool-Aid_o.jpg",
+        "netWeightEvidenceGrams": 48,
+        "netWeightEvidenceChecked": "2026-11-19"
+      }
+    }
+  ]
+}

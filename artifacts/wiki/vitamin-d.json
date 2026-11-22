@@ -1,0 +1,346 @@
+{
+  "schemaVersion": 1,
+  "order": 4,
+  "category": {
+    "id": "vitamin-d",
+    "label": "Vitamin D",
+    "file": "vitamin-d.json",
+    "page": "vitamin-d.html",
+    "measurement": "units",
+    "mainNutrient": "vitaminDIu",
+    "referenceQuantity": 1000,
+    "referenceUnit": "IU",
+    "compoundLabel": "Vitamin D",
+    "nutrientFields": [
+      {
+        "key": "vitaminDIu",
+        "label": "Vitamin D",
+        "unit": "IU",
+        "table": true
+      },
+      {
+        "key": "vitaminDMcg",
+        "label": "Vitamin D",
+        "unit": "µg",
+        "table": true
+      },
+      {
+        "key": "vitaminK2Mcg",
+        "label": "Vitamin K2",
+        "unit": "µg",
+        "table": true
+      }
+    ],
+    "comparisonNote": "Vitamin D amounts use IU with micrograms shown alongside (1 µg = 40 IU). Strength comparisons do not specify intake frequency.",
+    "searchAliases": [
+      "vitamind",
+      "vit d"
+    ]
+  },
+  "catalog": {
+    "checked": "2026-11-20",
+    "category": "vitamin-d"
+  },
+  "guide": {
+    "id": "vitamin-d-guide",
+    "category": "vitamin-d",
+    "title": "Vitamin D: deficiency treatment versus routine supplementation",
+    "summary": "Strength is a unit of amount, not a promise of improved health. The reason for taking vitamin D matters.",
+    "evidence": "Vitamin D supports calcium regulation and bone health. In generally healthy adults not selected for deficiency, the VITAL fracture study did not demonstrate fewer fractures from supplementation.",
+    "limitations": "This finding should not be generalized to treatment of diagnosed deficiency or specific bone disorders. A high-strength product is not automatically a better choice.",
+    "catalogReading": "The catalog shows IU and micrograms together: 1 microgram equals 40 IU. Read the serving size and intended product directions; the comparison unit is not a recommended daily amount.",
+    "safety": "Excess vitamin D can cause harm, including high blood calcium. Consider existing prescriptions and other supplements before combining products.",
+    "sourceIds": [
+      "d-overview",
+      "d-vital",
+      "food-vitamin-d",
+      "supplement-quality-ods"
+    ],
+    "reviewed": "2026-11-18",
+    "author": "Supplement Research editorial synthesis",
+    "bodySteps": [
+      "The intestine absorbs vitamin D from food or supplements; skin can also produce it after UVB exposure.",
+      "The liver converts it to 25-hydroxyvitamin D, the main blood marker of status.",
+      "The kidneys produce its active hormone form, which helps regulate calcium absorption and bone mineral balance."
+    ],
+    "bodySources": [
+      "d-overview"
+    ],
+    "treatment": "Correcting vitamin D deficiency can treat deficiency-related rickets or osteomalacia. It is not a general cure for fatigue, cancer or infections.",
+    "whoMayBenefit": "People with established deficiency or malabsorption may need treatment. Some groups have routine preventive guidance, including breastfed infants; a pediatric clinician should guide this, not adult catalog strengths.",
+    "routineUse": "Some people need ongoing supplementation, but the indication and plan differ. A higher-risk group is not proof of an individual deficiency.",
+    "sectionSources": [
+      "d-overview",
+      "d-vital"
+    ],
+    "buyingGuide": {
+      "whoCanConsider": [
+        "Adults with diagnosed deficiency following an individualized treatment plan.",
+        "People with malabsorption or another recognized risk factor who need assessment of vitamin D intake and status."
+      ],
+      "whoShouldReview": [
+        "Kidney disease, hyperparathyroidism or high blood calcium requires medical review.",
+        "Thiazide use, strong products or overlapping calcium/vitamin D supplements needs a total-intake check."
+      ],
+      "foodSummary": "Few foods naturally provide much vitamin D. Fortified foods can contribute; fortification varies by product and country.",
+      "foods": [
+        {
+          "name": "Sockeye salmon, cooked",
+          "relationship": "direct",
+          "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": null,
+          "amounts": [
+            {
+              "nutrient": "Vitamin D",
+              "min": 14.2,
+              "max": null,
+              "unit": "µg",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "3 ounces"
+              },
+              "sourceIds": [
+                "d-overview"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "White mushrooms, raw, sliced, UV-exposed",
+          "relationship": "direct",
+          "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": null,
+          "amounts": [
+            {
+              "nutrient": "Vitamin D",
+              "min": 9.2,
+              "max": null,
+              "unit": "µg",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "½ cup"
+              },
+              "sourceIds": [
+                "d-overview"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Milk, 2%, vitamin D fortified",
+          "relationship": "direct",
+          "detail": "US reference fortified milk; do not assume an Indian milk product has this fortification. Check its label.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": null,
+          "amounts": [
+            {
+              "nutrient": "Vitamin D",
+              "min": 2.9,
+              "max": null,
+              "unit": "µg",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "1 cup"
+              },
+              "sourceIds": [
+                "d-overview"
+              ]
+            }
+          ]
+        }
+      ],
+      "foodSourceIds": [
+        "food-vitamin-d",
+        "d-overview"
+      ],
+      "value": {
+        "routineScore": 1,
+        "targetedScore": 5,
+        "targetedUse": "Clinician-guided correction of an established vitamin D deficiency.",
+        "reason": "Treating deficiency has a strong rationale. Extra supplementation has not shown the same benefit in generally healthy, adequately supplied adults.",
+        "worthWhen": [
+          "There is an established need and an appropriate treatment plan.",
+          "Strength, frequency and overlapping sources have been reviewed."
+        ],
+        "skipWhen": [
+          "A strong product is chosen solely for general wellness.",
+          "Adequate status is assumed to improve further with escalating intake."
+        ],
+        "evidence": "strong",
+        "scope": "Targeted rating concerns deficiency treatment. Population-specific preventive guidance and high-strength retail products need separate assessment.",
+        "sourceIds": [
+          "d-overview",
+          "d-vital"
+        ]
+      },
+      "reviewed": "2026-11-18",
+      "practices": {
+        "dos": [
+          {
+            "title": "Confirm the reason for use",
+            "detail": "An established need and appropriate care plan matter more than choosing the strongest pack."
+          },
+          {
+            "title": "Check strength and frequency",
+            "detail": "Read IU, micrograms and product directions, then review vitamin D already present in other products."
+          }
+        ],
+        "donts": [
+          {
+            "title": "Don't mistake a comparison for a dose",
+            "detail": "The catalog's common comparison amount is a price calculation, not your daily intake instruction."
+          },
+          {
+            "title": "Don't escalate for general wellness",
+            "detail": "Adequate status does not imply that progressively higher intake gives more benefit; excess can cause harm."
+          }
+        ],
+        "sourceIds": [
+          "d-overview",
+          "d-vital"
+        ]
+      }
+    },
+    "intakeGuide": {
+      "kind": "daily-target",
+      "summary": "Meet the age- and sex-specific total dietary reference. A reference intake is not the same as a supplemental dose or deficiency-treatment regimen.",
+      "targets": [
+        {
+          "key": "vitaminDMcg",
+          "label": "Vitamin D",
+          "min": 15,
+          "max": null,
+          "unit": "µg",
+          "basis": "total-daily",
+          "perKg": false,
+          "profileIds": [
+            "everyday",
+            "general-fitness",
+            "strength-power",
+            "hypertrophy",
+            "endurance",
+            "hybrid"
+          ],
+          "sex": "any",
+          "minAge": 19,
+          "maxAge": 70,
+          "referenceType": "RDA",
+          "notes": "600 IU/day from total intake.",
+          "sourceIds": [
+            "d-overview"
+          ]
+        },
+        {
+          "key": "vitaminDMcg",
+          "label": "Vitamin D",
+          "min": 20,
+          "max": null,
+          "unit": "µg",
+          "basis": "total-daily",
+          "perKg": false,
+          "profileIds": [
+            "everyday",
+            "general-fitness",
+            "strength-power",
+            "hypertrophy",
+            "endurance",
+            "hybrid"
+          ],
+          "sex": "any",
+          "minAge": 71,
+          "maxAge": null,
+          "referenceType": "RDA",
+          "notes": "800 IU/day from total intake.",
+          "sourceIds": [
+            "d-overview"
+          ]
+        }
+      ],
+      "limits": [
+        {
+          "key": "vitaminDMcg",
+          "label": "Vitamin D UL",
+          "max": 100,
+          "unit": "µg",
+          "basis": "total-daily",
+          "minAge": 19,
+          "maxAge": null,
+          "notes": "4,000 IU/day total intake. A ceiling, not a target; medical replacement regimens require supervision.",
+          "sourceIds": [
+            "d-overview"
+          ]
+        }
+      ],
+      "notes": [
+        "No automatic dose increase is assigned for training frequency or experience."
+      ],
+      "sourceIds": [
+        "d-overview"
+      ],
+      "reviewed": "2026-11-17"
+    },
+    "medicalGuide": {
+      "summary": "Condition-specific evidence, separate from sports benefits and purchase priority.",
+      "conditions": [
+        {
+          "condition": "Vitamin D deficiency / osteomalacia",
+          "level": "established",
+          "findings": "Correcting deficiency is indicated; treatment and monitoring depend on the diagnosis. Routine high-dose use is not justified by this indication.",
+          "limits": "Correcting vitamin D deficiency can treat deficiency-related rickets or osteomalacia. It is not a general cure for fatigue, cancer or infections.",
+          "sourceIds": [
+            "d-overview",
+            "d-vital"
+          ]
+        }
+      ],
+      "reviewed": "2026-11-17"
+    },
+    "pathway": {
+      "title": "Vitamin D activation: intestine, liver and kidney",
+      "summary": "Food and supplements supply vitamin D; skin can also make it after UVB exposure. The main endocrine activation route then involves liver and kidney.",
+      "tracks": [
+        {
+          "label": "The main activation and signalling route",
+          "steps": [
+            {
+              "label": "Dietary vitamin D is absorbed",
+              "detail": "Vitamin D from food or supplements is absorbed in the intestine; the skin provides an additional source.",
+              "compartment": "Intestine / skin",
+              "icon": "digest"
+            },
+            {
+              "label": "Liver produces circulating 25(OH)D",
+              "detail": "Liver hydroxylation forms 25(OH)D, the principal circulating marker used to assess vitamin D status.",
+              "compartment": "Liver",
+              "icon": "liver"
+            },
+            {
+              "label": "Kidney forms the active hormone",
+              "detail": "A second hydroxylation, primarily in the kidney, produces 1,25(OH)₂D, also called calcitriol.",
+              "compartment": "Kidney",
+              "icon": "kidney"
+            },
+            {
+              "label": "Calcitriol regulates calcium and phosphate",
+              "detail": "Active vitamin D promotes intestinal calcium absorption and helps maintain mineral balance needed for bone.",
+              "compartment": "Intestine / bone",
+              "icon": "bone"
+            }
+          ]
+        }
+      ],
+      "caveat": "This simplified endocrine route does not show every tissue's vitamin D metabolism. Higher supplement doses do not necessarily improve outcomes and can cause harm.",
+      "sourceIds": [
+        "d-overview"
+      ]
+    }
+  }
+}

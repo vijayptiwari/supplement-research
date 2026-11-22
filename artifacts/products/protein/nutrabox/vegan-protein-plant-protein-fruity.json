@@ -1,0 +1,571 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "Nutrabox",
+  "product": "Vegan Protein (Plant Protein Fruity)",
+  "variants": [
+    {
+      "order": 604,
+      "offer": {
+        "id": 604,
+        "brand": "Nutrabox",
+        "product": "Vegan Protein (Plant Protein Fruity)",
+        "type": "Plant — pea + rice",
+        "flavour": "Black Currant",
+        "kg": 1,
+        "price": 1399,
+        "stock": "In stock",
+        "protein": 75.75757575757575,
+        "scoop": 33,
+        "serving": 33,
+        "subclass": "Plant blend (pea + rice)",
+        "energy": null,
+        "url": "https://nutrabox.in/products/best-vegan-protein-powder?variant=43808200655022",
+        "nutritionUrl": "https://nutrabox.in/products/best-vegan-protein-powder?variant=43808200655022",
+        "basis": "25g protein / 33g scoop; brand description",
+        "notes": "Brand product-page serving basis; flavour-specific label values may vary. Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nutrabox.in/products/best-vegan-protein-powder?variant=43808200655022",
+          "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 605,
+      "offer": {
+        "id": 605,
+        "brand": "Nutrabox",
+        "product": "Vegan Protein (Plant Protein Fruity)",
+        "type": "Plant — pea + rice",
+        "flavour": "Guava",
+        "kg": 1,
+        "price": 1399,
+        "stock": "In stock",
+        "protein": 75.75757575757575,
+        "scoop": 33,
+        "serving": 33,
+        "subclass": "Plant blend (pea + rice)",
+        "energy": null,
+        "url": "https://nutrabox.in/products/best-vegan-protein-powder?variant=43808200622254",
+        "nutritionUrl": "https://nutrabox.in/products/best-vegan-protein-powder?variant=43808200622254",
+        "basis": "25g protein / 33g scoop; brand description",
+        "notes": "Brand product-page serving basis; flavour-specific label values may vary. Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nutrabox.in/products/best-vegan-protein-powder?variant=43808200622254",
+          "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 606,
+      "offer": {
+        "id": 606,
+        "brand": "Nutrabox",
+        "product": "Vegan Protein (Plant Protein Fruity)",
+        "type": "Plant — pea + rice",
+        "flavour": "Orange",
+        "kg": 1,
+        "price": 1399,
+        "stock": "In stock",
+        "protein": 75.75757575757575,
+        "scoop": 33,
+        "serving": 33,
+        "subclass": "Plant blend (pea + rice)",
+        "energy": null,
+        "url": "https://nutrabox.in/products/best-vegan-protein-powder?variant=43808201539758",
+        "nutritionUrl": "https://nutrabox.in/products/best-vegan-protein-powder?variant=43808201539758",
+        "basis": "25g protein / 33g scoop; brand description",
+        "notes": "Brand product-page serving basis; flavour-specific label values may vary. Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nutrabox.in/products/best-vegan-protein-powder?variant=43808201539758",
+          "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 607,
+      "offer": {
+        "id": 607,
+        "brand": "Nutrabox",
+        "product": "Vegan Protein (Plant Protein Fruity)",
+        "type": "Plant — pea + rice",
+        "flavour": "Raw Mango",
+        "kg": 1,
+        "price": 1399,
+        "stock": "In stock",
+        "protein": 75.75757575757575,
+        "scoop": 33,
+        "serving": 33,
+        "subclass": "Plant blend (pea + rice)",
+        "energy": null,
+        "url": "https://nutrabox.in/products/best-vegan-protein-powder?variant=43808201506990",
+        "nutritionUrl": "https://nutrabox.in/products/best-vegan-protein-powder?variant=43808201506990",
+        "basis": "25g protein / 33g scoop; brand description",
+        "notes": "Brand product-page serving basis; flavour-specific label values may vary. Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nutrabox.in/products/best-vegan-protein-powder?variant=43808201506990",
+          "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 608,
+      "offer": {
+        "id": 608,
+        "brand": "Nutrabox",
+        "product": "Vegan Protein (Plant Protein Fruity)",
+        "type": "Plant — pea + rice",
+        "flavour": "Watermelon",
+        "kg": 1,
+        "price": 1399,
+        "stock": "In stock",
+        "protein": 75.75757575757575,
+        "scoop": 33,
+        "serving": 33,
+        "subclass": "Plant blend (pea + rice)",
+        "energy": null,
+        "url": "https://nutrabox.in/products/best-vegan-protein-powder?variant=43808201474222",
+        "nutritionUrl": "https://nutrabox.in/products/best-vegan-protein-powder?variant=43808201474222",
+        "basis": "25g protein / 33g scoop; brand description",
+        "notes": "Brand product-page serving basis; flavour-specific label values may vary. Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nutrabox.in/products/best-vegan-protein-powder?variant=43808201474222",
+          "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 1549,
+      "observation": {
+        "category": "protein",
+        "offerId": 604,
+        "date": "2026-03-05",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/best-vegan-protein-powder?variant=43808200655022",
+        "evidenceUrl": "https://web.archive.org/web/20260305104905id_/https://nutrabox.in/products/best-vegan-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "43808200655022",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1550,
+      "observation": {
+        "category": "protein",
+        "offerId": 605,
+        "date": "2026-03-05",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/best-vegan-protein-powder?variant=43808200622254",
+        "evidenceUrl": "https://web.archive.org/web/20260305104905id_/https://nutrabox.in/products/best-vegan-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "43808200622254",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1551,
+      "observation": {
+        "category": "protein",
+        "offerId": 606,
+        "date": "2026-03-05",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/best-vegan-protein-powder?variant=43808201539758",
+        "evidenceUrl": "https://web.archive.org/web/20260305104905id_/https://nutrabox.in/products/best-vegan-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "43808201539758",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1552,
+      "observation": {
+        "category": "protein",
+        "offerId": 607,
+        "date": "2026-03-05",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/best-vegan-protein-powder?variant=43808201506990",
+        "evidenceUrl": "https://web.archive.org/web/20260305104905id_/https://nutrabox.in/products/best-vegan-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "43808201506990",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1553,
+      "observation": {
+        "category": "protein",
+        "offerId": 608,
+        "date": "2026-03-05",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/best-vegan-protein-powder?variant=43808201474222",
+        "evidenceUrl": "https://web.archive.org/web/20260305104905id_/https://nutrabox.in/products/best-vegan-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "43808201474222",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1554,
+      "observation": {
+        "category": "protein",
+        "offerId": 604,
+        "date": "2026-06-06",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/best-vegan-protein-powder?variant=43808200655022",
+        "evidenceUrl": "https://web.archive.org/web/20260606133730id_/https://nutrabox.in/products/best-vegan-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "43808200655022",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1555,
+      "observation": {
+        "category": "protein",
+        "offerId": 605,
+        "date": "2026-06-06",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/best-vegan-protein-powder?variant=43808200622254",
+        "evidenceUrl": "https://web.archive.org/web/20260606133730id_/https://nutrabox.in/products/best-vegan-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "43808200622254",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1556,
+      "observation": {
+        "category": "protein",
+        "offerId": 606,
+        "date": "2026-06-06",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/best-vegan-protein-powder?variant=43808201539758",
+        "evidenceUrl": "https://web.archive.org/web/20260606133730id_/https://nutrabox.in/products/best-vegan-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "43808201539758",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1557,
+      "observation": {
+        "category": "protein",
+        "offerId": 607,
+        "date": "2026-06-06",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/best-vegan-protein-powder?variant=43808201506990",
+        "evidenceUrl": "https://web.archive.org/web/20260606133730id_/https://nutrabox.in/products/best-vegan-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "43808201506990",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1558,
+      "observation": {
+        "category": "protein",
+        "offerId": 608,
+        "date": "2026-06-06",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/best-vegan-protein-powder?variant=43808201474222",
+        "evidenceUrl": "https://web.archive.org/web/20260606133730id_/https://nutrabox.in/products/best-vegan-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "43808201474222",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2793,
+      "observation": {
+        "category": "protein",
+        "offerId": 604,
+        "date": "2026-10-25",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/best-vegan-protein-powder?variant=43808200655022",
+        "evidenceUrl": "https://nutrabox.in/products/best-vegan-protein-powder.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "43808200655022"
+      }
+    },
+    {
+      "order": 2794,
+      "observation": {
+        "category": "protein",
+        "offerId": 605,
+        "date": "2026-10-25",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/best-vegan-protein-powder?variant=43808200622254",
+        "evidenceUrl": "https://nutrabox.in/products/best-vegan-protein-powder.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "43808200622254"
+      }
+    },
+    {
+      "order": 2795,
+      "observation": {
+        "category": "protein",
+        "offerId": 606,
+        "date": "2026-10-25",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/best-vegan-protein-powder?variant=43808201539758",
+        "evidenceUrl": "https://nutrabox.in/products/best-vegan-protein-powder.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "43808201539758"
+      }
+    },
+    {
+      "order": 2796,
+      "observation": {
+        "category": "protein",
+        "offerId": 607,
+        "date": "2026-10-25",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/best-vegan-protein-powder?variant=43808201506990",
+        "evidenceUrl": "https://nutrabox.in/products/best-vegan-protein-powder.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "43808201506990"
+      }
+    },
+    {
+      "order": 2797,
+      "observation": {
+        "category": "protein",
+        "offerId": 608,
+        "date": "2026-10-25",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/best-vegan-protein-powder?variant=43808201474222",
+        "evidenceUrl": "https://nutrabox.in/products/best-vegan-protein-powder.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "43808201474222"
+      }
+    },
+    {
+      "order": 3520,
+      "observation": {
+        "category": "protein",
+        "offerId": 604,
+        "date": "2026-05-19",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/best-vegan-protein-powder?variant=43808200655022",
+        "evidenceUrl": "https://web.archive.org/web/20260519124734id_/https://nutrabox.in/products/best-vegan-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "43808200655022",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3521,
+      "observation": {
+        "category": "protein",
+        "offerId": 605,
+        "date": "2026-05-19",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/best-vegan-protein-powder?variant=43808200622254",
+        "evidenceUrl": "https://web.archive.org/web/20260519124734id_/https://nutrabox.in/products/best-vegan-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "43808200622254",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3522,
+      "observation": {
+        "category": "protein",
+        "offerId": 606,
+        "date": "2026-05-19",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/best-vegan-protein-powder?variant=43808201539758",
+        "evidenceUrl": "https://web.archive.org/web/20260519124734id_/https://nutrabox.in/products/best-vegan-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "43808201539758",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3523,
+      "observation": {
+        "category": "protein",
+        "offerId": 607,
+        "date": "2026-05-19",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/best-vegan-protein-powder?variant=43808201506990",
+        "evidenceUrl": "https://web.archive.org/web/20260519124734id_/https://nutrabox.in/products/best-vegan-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "43808201506990",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3524,
+      "observation": {
+        "category": "protein",
+        "offerId": 608,
+        "date": "2026-05-19",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/best-vegan-protein-powder?variant=43808201474222",
+        "evidenceUrl": "https://web.archive.org/web/20260519124734id_/https://nutrabox.in/products/best-vegan-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "43808201474222",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 4651,
+      "observation": {
+        "category": "protein",
+        "offerId": 604,
+        "date": "2026-11-19",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/best-vegan-protein-powder?variant=43808200655022",
+        "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "43808200655022"
+      }
+    },
+    {
+      "order": 4652,
+      "observation": {
+        "category": "protein",
+        "offerId": 605,
+        "date": "2026-11-19",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/best-vegan-protein-powder?variant=43808200622254",
+        "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "43808200622254"
+      }
+    },
+    {
+      "order": 4653,
+      "observation": {
+        "category": "protein",
+        "offerId": 606,
+        "date": "2026-11-19",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/best-vegan-protein-powder?variant=43808201539758",
+        "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "43808201539758"
+      }
+    },
+    {
+      "order": 4654,
+      "observation": {
+        "category": "protein",
+        "offerId": 607,
+        "date": "2026-11-19",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/best-vegan-protein-powder?variant=43808201506990",
+        "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "43808201506990"
+      }
+    },
+    {
+      "order": 4655,
+      "observation": {
+        "category": "protein",
+        "offerId": 608,
+        "date": "2026-11-19",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/best-vegan-protein-powder?variant=43808201474222",
+        "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "43808201474222"
+      }
+    }
+  ],
+  "refreshSources": []
+}

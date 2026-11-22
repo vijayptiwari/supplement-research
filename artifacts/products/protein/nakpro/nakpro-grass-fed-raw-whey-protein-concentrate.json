@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "NAKPRO",
+  "product": "Nakpro Grass Fed Raw Whey Protein Concentrate",
+  "variants": [
+    {
+      "order": 294,
+      "offer": {
+        "id": 294,
+        "brand": "NAKPRO",
+        "product": "Nakpro Grass Fed Raw Whey Protein Concentrate",
+        "type": "Whey — concentrate",
+        "flavour": "Unflavoured",
+        "kg": 1,
+        "price": 3099,
+        "stock": "In stock",
+        "protein": 80,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey concentrate",
+        "energy": 403,
+        "url": "https://nakpro.com/products/raw-grass-fed-whey-protein-concentrate?variant=41989028118608",
+        "nutritionUrl": "https://nakpro.com/products/raw-grass-fed-whey-protein-concentrate?variant=41989028118608",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Brand flavour-group table, per-serving kcal / serving g × 100",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/raw-grass-fed-whey-protein-concentrate?variant=41989028118608",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 295,
+      "offer": {
+        "id": 295,
+        "brand": "NAKPRO",
+        "product": "Nakpro Grass Fed Raw Whey Protein Concentrate",
+        "type": "Whey — concentrate",
+        "flavour": "Unflavoured",
+        "kg": 2,
+        "price": 6098,
+        "stock": "In stock",
+        "protein": 80,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey concentrate",
+        "energy": 403,
+        "url": "https://nakpro.com/products/raw-grass-fed-whey-protein-concentrate?variant=41989028151376",
+        "nutritionUrl": "https://nakpro.com/products/raw-grass-fed-whey-protein-concentrate?variant=41989028151376",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Brand flavour-group table, per-serving kcal / serving g × 100",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/raw-grass-fed-whey-protein-concentrate?variant=41989028151376",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 673,
+      "observation": {
+        "category": "protein",
+        "offerId": 294,
+        "date": "2026-08-01",
+        "price": 2949,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/raw-grass-fed-whey-protein-concentrate?variant=41989028118608",
+        "evidenceUrl": "https://web.archive.org/web/20260801192807id_/https://nakpro.com/products/raw-grass-fed-whey-protein-concentrate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "41989028118608",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 674,
+      "observation": {
+        "category": "protein",
+        "offerId": 295,
+        "date": "2026-08-01",
+        "price": 5798,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/raw-grass-fed-whey-protein-concentrate?variant=41989028151376",
+        "evidenceUrl": "https://web.archive.org/web/20260801192807id_/https://nakpro.com/products/raw-grass-fed-whey-protein-concentrate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "41989028151376",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2483,
+      "observation": {
+        "category": "protein",
+        "offerId": 294,
+        "date": "2026-10-25",
+        "price": 3099,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/raw-grass-fed-whey-protein-concentrate?variant=41989028118608",
+        "evidenceUrl": "https://nakpro.com/products/raw-grass-fed-whey-protein-concentrate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "41989028118608"
+      }
+    },
+    {
+      "order": 2484,
+      "observation": {
+        "category": "protein",
+        "offerId": 295,
+        "date": "2026-10-25",
+        "price": 6098,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/raw-grass-fed-whey-protein-concentrate?variant=41989028151376",
+        "evidenceUrl": "https://nakpro.com/products/raw-grass-fed-whey-protein-concentrate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "41989028151376"
+      }
+    },
+    {
+      "order": 4341,
+      "observation": {
+        "category": "protein",
+        "offerId": 294,
+        "date": "2026-11-19",
+        "price": 3099,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/raw-grass-fed-whey-protein-concentrate?variant=41989028118608",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "41989028118608"
+      }
+    },
+    {
+      "order": 4342,
+      "observation": {
+        "category": "protein",
+        "offerId": 295,
+        "date": "2026-11-19",
+        "price": 6098,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/raw-grass-fed-whey-protein-concentrate?variant=41989028151376",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "41989028151376"
+      }
+    }
+  ],
+  "refreshSources": []
+}

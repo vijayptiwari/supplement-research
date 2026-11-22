@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "category": "collagen",
+  "brand": "Nutrova",
+  "product": "Poultry Collagen Peptides + Vitamin C",
+  "variants": [
+    {
+      "order": 0,
+      "offer": {
+        "id": "collagen-42667417108651",
+        "brand": "Nutrova",
+        "product": "Poultry Collagen Peptides + Vitamin C",
+        "form": "Powder",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "source": "Poultry",
+        "labelChecked": "2026-11-19",
+        "notes": "The panel describes 30 servings while the current retail option says 300 g. The rounded serving claim is not used to infer a different net weight. Label amounts are approximate manufacturer declarations.",
+        "grams": 300,
+        "packCount": null,
+        "servingGrams": 10.2,
+        "type": "Hydrolysed collagen peptides",
+        "subclass": "Poultry peptides + vitamin C",
+        "collagenPeptidesMg": 10120,
+        "vitaminCMg": 80,
+        "energyPerServing": 41.1,
+        "declaredNutrients": [
+          "collagenPeptidesMg",
+          "vitaminCMg"
+        ],
+        "collagenTypes": "Not specified",
+        "basis": "The official panel lists two scoops (10.2 g), collagen peptides 10.12 g, vitamin C 80 mg and energy 41.1 kcal per serving. Calculated pack servings use the explicitly listed 300 g retail pack divided by 10.2 g.",
+        "price": 3120,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://nutrova.com/products/nutrova-collagen-peptides?variant=42667417108651",
+        "nutritionUrl": "https://nutrova.com/products/nutrova-collagen-peptides",
+        "labelSources": [
+          "https://nutrova.com/products/nutrova-collagen-peptides",
+          "https://cdn.shopify.com/s/files/1/0561/9253/2651/files/Nutrova_NCP_nutritional-info_09092024.jpg?v=1727866489"
+        ]
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3894,
+      "observation": {
+        "category": "collagen",
+        "offerId": "collagen-42667417108651",
+        "date": "2026-11-19",
+        "price": 3120,
+        "currency": "INR",
+        "sourceUrl": "https://nutrova.com/products/nutrova-collagen-peptides?variant=42667417108651",
+        "evidenceUrl": "https://nutrova.com/products/nutrova-collagen-peptides.json",
+        "kind": "official-live",
+        "variantId": "42667417108651",
+        "matchBasis": "Official exact public Shopify variant ID; unconditional INR price and stock. Net pack quantity and ingredient serving transcribed from official text/panels checked2026-11-19."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 134,
+      "profile": {
+        "brand": "Nutrova",
+        "product": "Poultry Collagen Peptides + Vitamin C",
+        "form": "Powder",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "source": "Poultry",
+        "labelChecked": "2026-11-19",
+        "notes": "The panel describes 30 servings while the current retail option says 300 g. The rounded serving claim is not used to infer a different net weight. Label amounts are approximate manufacturer declarations.",
+        "grams": 300,
+        "packCount": null,
+        "servingGrams": 10.2,
+        "type": "Hydrolysed collagen peptides",
+        "subclass": "Poultry peptides + vitamin C",
+        "collagenPeptidesMg": 10120,
+        "vitaminCMg": 80,
+        "energyPerServing": 41.1,
+        "declaredNutrients": [
+          "collagenPeptidesMg",
+          "vitaminCMg"
+        ],
+        "collagenTypes": "Not specified",
+        "basis": "The official panel lists two scoops (10.2 g), collagen peptides 10.12 g, vitamin C 80 mg and energy 41.1 kcal per serving. Calculated pack servings use the explicitly listed 300 g retail pack divided by 10.2 g.",
+        "nutritionUrl": "https://nutrova.com/products/nutrova-collagen-peptides",
+        "labelSources": [
+          "https://nutrova.com/products/nutrova-collagen-peptides",
+          "https://cdn.shopify.com/s/files/1/0561/9253/2651/files/Nutrova_NCP_nutritional-info_09092024.jpg?v=1727866489"
+        ],
+        "category": "collagen",
+        "base": "https://nutrova.com",
+        "handle": "nutrova-collagen-peptides",
+        "variantIds": [
+          "42667417108651"
+        ],
+        "numericVariantIsCount": false,
+        "id": "collagen-42667417108651"
+      }
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "category": "pre-workout",
+  "brand": "MuscleBlaze",
+  "product": "PRE Workout 200 Xtreme",
+  "variants": [
+    {
+      "order": 7,
+      "offer": {
+        "id": "pre-workout-hk-200194",
+        "brand": "MuscleBlaze",
+        "product": "PRE Workout 200 Xtreme",
+        "form": "Powder",
+        "type": "Caffeinated multi-ingredient",
+        "subclass": "Citrulline malate + beta-alanine + theanine",
+        "flavour": "Fruit Punch",
+        "packaging": "Single retail pack",
+        "price": 549,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://www.muscleblaze.com/sv/muscleblaze-pre-workout-200-xtreme/SP-107096?navKey=VRNT-200194",
+        "nutritionUrl": "https://img6.hkrtcdn.com/37800/prd_3779915-MuscleBlaze-PRE-Workout-200-Xtreme-0.22-lb-Fruit-Punch_o.jpg",
+        "labelSources": [
+          "https://www.muscleblaze.com/sv/muscleblaze-pre-workout-200-xtreme/SP-107096?navKey=VRNT-200194",
+          "https://img6.hkrtcdn.com/37800/prd_3779915-MuscleBlaze-PRE-Workout-200-Xtreme-0.22-lb-Fruit-Punch_o.jpg",
+          "https://img4.hkrtcdn.com/37799/prd_3779883-MuscleBlaze-PRE-Workout-200-Xtreme-0.22-lb-Fruit-Punch_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "200194",
+        "sourceProductId": "107096",
+        "source": "Not specified",
+        "notes": "Front graphics abbreviate citrulline; the actual panel specifies citrulline DL-malate. Free citrulline is not inferred.",
+        "basis": "Exact official brand selected variant. The linked current product gallery nutrition panel was individually reviewed; amounts are per stated label serving. Product claims are manufacturer declarations, not independent assay results.",
+        "energyPerServing": 2.4,
+        "caffeineMg": 200,
+        "citrullineMalateMg": 3000,
+        "betaAlanineMg": 2000,
+        "grams": 100,
+        "packCount": null,
+        "servingGrams": 6.5,
+        "additionalIngredients": [
+          {
+            "name": "L-theanine",
+            "amount": 200,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          }
+        ],
+        "declaredNutrients": [
+          "caffeineMg",
+          "citrullineMalateMg",
+          "betaAlanineMg"
+        ],
+        "stimulantStatus": "Contains caffeine"
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5174,
+      "observation": {
+        "category": "pre-workout",
+        "offerId": "pre-workout-hk-200194",
+        "date": "2026-11-19",
+        "price": 549,
+        "currency": "INR",
+        "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-pre-workout-200-xtreme/SP-107096?navKey=VRNT-200194",
+        "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-pre-workout-200-xtreme/SP-107096?navKey=VRNT-200194",
+        "kind": "official-live",
+        "variantId": "200194",
+        "matchBasis": "Official selected numeric variant 200194 and SP-107096 matched to exact flavour/pack attributes; unconditional INR offer_pr, is_published=true and variant oos checked; no coupon or loyalty prices."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 284,
+      "profile": {
+        "id": "pre-workout-hk-200194",
+        "brand": "MuscleBlaze",
+        "product": "PRE Workout 200 Xtreme",
+        "form": "Powder",
+        "type": "Caffeinated multi-ingredient",
+        "subclass": "Citrulline malate + beta-alanine + theanine",
+        "flavour": "Fruit Punch",
+        "packaging": "Single retail pack",
+        "currency": "INR",
+        "nutritionUrl": "https://img6.hkrtcdn.com/37800/prd_3779915-MuscleBlaze-PRE-Workout-200-Xtreme-0.22-lb-Fruit-Punch_o.jpg",
+        "labelSources": [
+          "https://www.muscleblaze.com/sv/muscleblaze-pre-workout-200-xtreme/SP-107096?navKey=VRNT-200194",
+          "https://img6.hkrtcdn.com/37800/prd_3779915-MuscleBlaze-PRE-Workout-200-Xtreme-0.22-lb-Fruit-Punch_o.jpg",
+          "https://img4.hkrtcdn.com/37799/prd_3779883-MuscleBlaze-PRE-Workout-200-Xtreme-0.22-lb-Fruit-Punch_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "source": "Not specified",
+        "notes": "Front graphics abbreviate citrulline; the actual panel specifies citrulline DL-malate. Free citrulline is not inferred.",
+        "basis": "Exact official brand selected variant. The linked current product gallery nutrition panel was individually reviewed; amounts are per stated label serving. Product claims are manufacturer declarations, not independent assay results.",
+        "energyPerServing": 2.4,
+        "caffeineMg": 200,
+        "citrullineMalateMg": 3000,
+        "betaAlanineMg": 2000,
+        "grams": 100,
+        "packCount": null,
+        "servingGrams": 6.5,
+        "additionalIngredients": [
+          {
+            "name": "L-theanine",
+            "amount": 200,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          }
+        ],
+        "declaredNutrients": [
+          "caffeineMg",
+          "citrullineMalateMg",
+          "betaAlanineMg"
+        ],
+        "category": "pre-workout",
+        "kind": "hk-product",
+        "base": "https://www.muscleblaze.com",
+        "productUrl": "https://www.muscleblaze.com/sv/muscleblaze-pre-workout-200-xtreme/SP-107096?navKey=VRNT-200194",
+        "variantUrl": "https://www.muscleblaze.com/sv/muscleblaze-pre-workout-200-xtreme/SP-107096?navKey=VRNT-200194",
+        "variantId": "200194",
+        "productId": "107096",
+        "sourceBrand": "MuscleBlaze",
+        "variantAttributes": {
+          "gen-pro-siz": "0.22 lb",
+          "gen-sn-flv": "Fruit Punch"
+        },
+        "cacheKey": "hk-performance-200194",
+        "packSizeLabel": "0.22 lb",
+        "netWeightEvidenceUrl": "https://img4.hkrtcdn.com/37799/prd_3779883-MuscleBlaze-PRE-Workout-200-Xtreme-0.22-lb-Fruit-Punch_o.jpg",
+        "netWeightEvidenceGrams": 100,
+        "netWeightEvidenceChecked": "2026-11-19",
+        "stimulantStatus": "Contains caffeine"
+      }
+    }
+  ]
+}

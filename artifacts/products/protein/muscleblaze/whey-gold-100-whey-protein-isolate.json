@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "MuscleBlaze",
+  "product": "Whey Gold 100% Whey Protein Isolate",
+  "variants": [
+    {
+      "order": 251,
+      "offer": {
+        "id": 251,
+        "brand": "MuscleBlaze",
+        "product": "Whey Gold 100% Whey Protein Isolate",
+        "type": "Whey — isolate",
+        "flavour": "Gourmet Vanilla",
+        "kg": 2,
+        "price": 11337,
+        "stock": "In stock",
+        "protein": 83.5,
+        "scoop": 36,
+        "serving": 36,
+        "subclass": "Whey isolate",
+        "energy": 388.7,
+        "url": "https://www.muscleblaze.com/sv/muscleblaze-whey-gold-100-whey-protein-isolate/SP-43113?navKey=VRNT-134517",
+        "nutritionUrl": "https://www.muscleblaze.com/sv/muscleblaze-whey-gold-100-whey-protein-isolate/SP-43113?navKey=VRNT-134517",
+        "basis": "Exact variant nutrition table, protein per 100g",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Exact page nutrition table, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-whey-gold-100-whey-protein-isolate/SP-43113?navKey=VRNT-134517",
+          "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-whey-gold-100-whey-protein-isolate/SP-43113?navKey=VRNT-134517",
+          "matchBasis": "Official selected product schema SKU matches exact navigation key"
+        }
+      }
+    },
+    {
+      "order": 252,
+      "offer": {
+        "id": 252,
+        "brand": "MuscleBlaze",
+        "product": "Whey Gold 100% Whey Protein Isolate",
+        "type": "Whey — isolate",
+        "flavour": "Rich Milk Chocolate",
+        "kg": 2,
+        "price": 12739,
+        "stock": "In stock",
+        "protein": 82,
+        "scoop": 36.5,
+        "serving": 36.5,
+        "subclass": "Whey isolate",
+        "energy": 385.86,
+        "url": "https://www.muscleblaze.com/sv/muscleblaze-whey-gold-100-whey-protein-isolate/SP-43113?navKey=VRNT-78029",
+        "nutritionUrl": "https://www.muscleblaze.com/sv/muscleblaze-whey-gold-100-whey-protein-isolate/SP-43113?navKey=VRNT-78029",
+        "basis": "Exact variant nutrition table, protein per 100g",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Exact page nutrition table, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-whey-gold-100-whey-protein-isolate/SP-43113?navKey=VRNT-78029",
+          "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-whey-gold-100-whey-protein-isolate/SP-43113?navKey=VRNT-78029",
+          "matchBasis": "Official selected product schema SKU matches exact navigation key"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 498,
+      "observation": {
+        "category": "protein",
+        "offerId": 252,
+        "date": "2026-08-08",
+        "price": 12459,
+        "currency": "INR",
+        "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-whey-gold-100-whey-protein-isolate/SP-43113?navKey=VRNT-78029",
+        "evidenceUrl": "https://web.archive.org/web/20260808101003id_/https://www.muscleblaze.com/sv/muscleblaze-whey-gold-100-whey-protein-isolate/SP-43113?navKey=VRNT-78029",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "VRNT-78029",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2440,
+      "observation": {
+        "category": "protein",
+        "offerId": 251,
+        "date": "2026-10-25",
+        "price": 11337,
+        "currency": "INR",
+        "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-whey-gold-100-whey-protein-isolate/SP-43113?navKey=VRNT-134517",
+        "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-whey-gold-100-whey-protein-isolate/SP-43113?navKey=VRNT-134517",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "VRNT-134517"
+      }
+    },
+    {
+      "order": 2441,
+      "observation": {
+        "category": "protein",
+        "offerId": 252,
+        "date": "2026-10-25",
+        "price": 12739,
+        "currency": "INR",
+        "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-whey-gold-100-whey-protein-isolate/SP-43113?navKey=VRNT-78029",
+        "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-whey-gold-100-whey-protein-isolate/SP-43113?navKey=VRNT-78029",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "VRNT-78029"
+      }
+    },
+    {
+      "order": 4299,
+      "observation": {
+        "category": "protein",
+        "offerId": 251,
+        "date": "2026-11-19",
+        "price": 11337,
+        "currency": "INR",
+        "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-whey-gold-100-whey-protein-isolate/SP-43113?navKey=VRNT-134517",
+        "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-whey-gold-100-whey-protein-isolate/SP-43113?navKey=VRNT-134517",
+        "kind": "official-live",
+        "matchBasis": "Official selected product schema SKU matches exact navigation key",
+        "variantId": "VRNT-134517"
+      }
+    },
+    {
+      "order": 4300,
+      "observation": {
+        "category": "protein",
+        "offerId": 252,
+        "date": "2026-11-19",
+        "price": 12739,
+        "currency": "INR",
+        "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-whey-gold-100-whey-protein-isolate/SP-43113?navKey=VRNT-78029",
+        "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-whey-gold-100-whey-protein-isolate/SP-43113?navKey=VRNT-78029",
+        "kind": "official-live",
+        "matchBasis": "Official selected product schema SKU matches exact navigation key",
+        "variantId": "VRNT-78029"
+      }
+    }
+  ],
+  "refreshSources": []
+}

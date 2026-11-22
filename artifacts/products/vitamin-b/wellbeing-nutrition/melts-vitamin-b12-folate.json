@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "category": "vitamin-b",
+  "brand": "Wellbeing Nutrition",
+  "product": "Melts Vitamin B12 + Folate",
+  "variants": [
+    {
+      "order": 11,
+      "offer": {
+        "brand": "Wellbeing Nutrition",
+        "product": "Melts Vitamin B12 + Folate",
+        "form": "Oral strip",
+        "type": "B12 + folate (forms not verified)",
+        "subclass": "Vitamin + botanical oral strip",
+        "packCount": 30,
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Current official ingredients text specifies vitamin B12 2.2 mcg, usage is one oral strip and the pack contains 30 strips. The folate form and amount are unverified.",
+        "notes": "The legacy product URL mentions 1500 mcg; the current ingredients description says 2.2 mcg. The current description is recorded with this discrepancy disclosed. Contains botanical co-ingredients; no folate mass or DFE is inferred. Current product JSON does not establish stock; availability should be confirmed.",
+        "labelChecked": "2026-10-31",
+        "declaredNutrients": [
+          "vitaminB12Mcg",
+          "folateMcgDfe"
+        ],
+        "flavour": "Misty Orange Mint",
+        "vitaminB1Mg": null,
+        "vitaminB2Mg": null,
+        "vitaminB3Mg": null,
+        "vitaminB5Mg": null,
+        "vitaminB6Mg": null,
+        "biotinMcg": null,
+        "vitaminB12Mcg": 2.2,
+        "folicAcidMcg": null,
+        "folateMcgDfe": null,
+        "methylfolateMcg": null,
+        "id": "vitamin-b-39520460570704",
+        "price": 649,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://wellbeingnutrition.com/products/melts-vitamin-b12-1500mcg-folate-brahmi-curcumin-oral-strips?variant=39520460570704",
+        "nutritionUrl": "https://wellbeingnutrition.com/products/melts-vitamin-b12-1500mcg-folate-brahmi-curcumin-oral-strips",
+        "packaging": "Single retail pack",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://wellbeingnutrition.com/products/melts-vitamin-b12-1500mcg-folate-brahmi-curcumin-oral-strips?variant=39520460570704",
+          "evidenceUrl": "https://wellbeingnutrition.com/products/melts-vitamin-b12-1500mcg-folate-brahmi-curcumin-oral-strips.json",
+          "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3793,
+      "observation": {
+        "category": "vitamin-b",
+        "offerId": "vitamin-b-39520460570704",
+        "date": "2026-10-31",
+        "price": 649,
+        "currency": "INR",
+        "sourceUrl": "https://wellbeingnutrition.com/products/melts-vitamin-b12-1500mcg-folate-brahmi-curcumin-oral-strips?variant=39520460570704",
+        "evidenceUrl": "https://wellbeingnutrition.com/products/melts-vitamin-b12-1500mcg-folate-brahmi-curcumin-oral-strips.json",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify product variant ID, price and single retail-pack count verified; quantities come from separately cited label evidence.",
+        "variantId": "39520460570704"
+      }
+    },
+    {
+      "order": 3947,
+      "observation": {
+        "category": "vitamin-b",
+        "offerId": "vitamin-b-39520460570704",
+        "date": "2026-11-19",
+        "price": 649,
+        "currency": "INR",
+        "sourceUrl": "https://wellbeingnutrition.com/products/melts-vitamin-b12-1500mcg-folate-brahmi-curcumin-oral-strips?variant=39520460570704",
+        "evidenceUrl": "https://wellbeingnutrition.com/products/melts-vitamin-b12-1500mcg-folate-brahmi-curcumin-oral-strips.json",
+        "kind": "official-live",
+        "variantId": "39520460570704",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 77,
+      "profile": {
+        "category": "vitamin-b",
+        "brand": "Wellbeing Nutrition",
+        "base": "https://wellbeingnutrition.com",
+        "handle": "melts-vitamin-b12-1500mcg-folate-brahmi-curcumin-oral-strips",
+        "product": "Melts Vitamin B12 + Folate",
+        "form": "Oral strip",
+        "type": "B12 + folate (forms not verified)",
+        "subclass": "Vitamin + botanical oral strip",
+        "packCount": 30,
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Current official ingredients text specifies vitamin B12 2.2 mcg, usage is one oral strip and the pack contains 30 strips. The folate form and amount are unverified.",
+        "notes": "The legacy product URL mentions 1500 mcg; the current ingredients description says 2.2 mcg. The current description is recorded with this discrepancy disclosed. Contains botanical co-ingredients; no folate mass or DFE is inferred.",
+        "labelChecked": "2026-10-31",
+        "declaredNutrients": [
+          "vitaminB12Mcg",
+          "folateMcgDfe"
+        ],
+        "flavour": "Misty Orange Mint",
+        "vitaminB1Mg": null,
+        "vitaminB2Mg": null,
+        "vitaminB3Mg": null,
+        "vitaminB5Mg": null,
+        "vitaminB6Mg": null,
+        "biotinMcg": null,
+        "vitaminB12Mcg": 2.2,
+        "folicAcidMcg": null,
+        "folateMcgDfe": null,
+        "methylfolateMcg": null,
+        "variantTitles": [
+          "Pack of 1"
+        ]
+      }
+    }
+  ]
+}

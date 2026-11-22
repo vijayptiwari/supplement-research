@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "Beastlife",
+  "product": "Performance Yeast Whey Protein Blend",
+  "variants": [
+    {
+      "order": 647,
+      "offer": {
+        "id": 647,
+        "brand": "Beastlife",
+        "product": "Performance Yeast Whey Protein Blend",
+        "type": "Whey + fermented yeast",
+        "flavour": "Chocolate",
+        "kg": 1,
+        "price": 2299,
+        "stock": "In stock",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Mixed source (whey + yeast)",
+        "energy": null,
+        "url": "https://beastlife.in/products/performance-whey-protein-blend-chocolate-1kg?variant=48324490920153",
+        "nutritionUrl": "https://beastlife.in/products/performance-whey-protein-blend-chocolate-1kg?variant=48324490920153",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://beastlife.in/products/performance-whey-protein-blend-chocolate-1kg?variant=48324490920153",
+          "evidenceUrl": "https://beastlife.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 2836,
+      "observation": {
+        "category": "protein",
+        "offerId": 647,
+        "date": "2026-10-25",
+        "price": 3598,
+        "currency": "INR",
+        "sourceUrl": "https://beastlife.in/products/performance-whey-protein-blend-chocolate-1kg?variant=48324490920153",
+        "evidenceUrl": "https://beastlife.in/products/performance-whey-protein-blend-chocolate-1kg.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "48324490920153"
+      }
+    },
+    {
+      "order": 4694,
+      "observation": {
+        "category": "protein",
+        "offerId": 647,
+        "date": "2026-11-19",
+        "price": 2299,
+        "currency": "INR",
+        "sourceUrl": "https://beastlife.in/products/performance-whey-protein-blend-chocolate-1kg?variant=48324490920153",
+        "evidenceUrl": "https://beastlife.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "48324490920153"
+      }
+    }
+  ],
+  "refreshSources": []
+}

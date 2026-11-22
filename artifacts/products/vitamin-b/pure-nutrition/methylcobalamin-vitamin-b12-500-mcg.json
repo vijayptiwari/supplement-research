@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "category": "vitamin-b",
+  "brand": "Pure Nutrition",
+  "product": "Methylcobalamin Vitamin B12 500 mcg",
+  "variants": [
+    {
+      "order": 9,
+      "offer": {
+        "brand": "Pure Nutrition",
+        "product": "Methylcobalamin Vitamin B12 500 mcg",
+        "form": "Tablet",
+        "type": "Methylcobalamin (B12)",
+        "subclass": "Individual B vitamin",
+        "packCount": 120,
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official description explicitly says each film-coated tablet contains 500 mcg methylcobalamin and the bottle contains 120 tablets.",
+        "notes": "Labelled quantity is recorded without assuming that a higher strength or a particular B12 form improves outcomes. Current product JSON does not establish stock; availability should be confirmed.",
+        "labelChecked": "2026-10-31",
+        "declaredNutrients": [
+          "vitaminB12Mcg"
+        ],
+        "flavour": "Unflavoured",
+        "vitaminB1Mg": null,
+        "vitaminB2Mg": null,
+        "vitaminB3Mg": null,
+        "vitaminB5Mg": null,
+        "vitaminB6Mg": null,
+        "biotinMcg": null,
+        "vitaminB12Mcg": 500,
+        "folicAcidMcg": null,
+        "folateMcgDfe": null,
+        "methylfolateMcg": null,
+        "id": "vitamin-b-48752119382270",
+        "price": 449,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://purenutrition.in/products/vitamin-b12-500mcg-120-tabs?variant=48752119382270",
+        "nutritionUrl": "https://purenutrition.in/products/vitamin-b12-500mcg-120-tabs",
+        "packaging": "Single retail pack",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://purenutrition.in/products/vitamin-b12-500mcg-120-tabs?variant=48752119382270",
+          "evidenceUrl": "https://purenutrition.in/products/vitamin-b12-500mcg-120-tabs.json",
+          "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3791,
+      "observation": {
+        "category": "vitamin-b",
+        "offerId": "vitamin-b-48752119382270",
+        "date": "2026-10-31",
+        "price": 449,
+        "currency": "INR",
+        "sourceUrl": "https://purenutrition.in/products/vitamin-b12-500mcg-120-tabs?variant=48752119382270",
+        "evidenceUrl": "https://purenutrition.in/products/vitamin-b12-500mcg-120-tabs.json",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify product variant ID, price and single retail-pack count verified; quantities come from separately cited label evidence.",
+        "variantId": "48752119382270"
+      }
+    },
+    {
+      "order": 3945,
+      "observation": {
+        "category": "vitamin-b",
+        "offerId": "vitamin-b-48752119382270",
+        "date": "2026-11-19",
+        "price": 449,
+        "currency": "INR",
+        "sourceUrl": "https://purenutrition.in/products/vitamin-b12-500mcg-120-tabs?variant=48752119382270",
+        "evidenceUrl": "https://purenutrition.in/products/vitamin-b12-500mcg-120-tabs.json",
+        "kind": "official-live",
+        "variantId": "48752119382270",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 75,
+      "profile": {
+        "category": "vitamin-b",
+        "brand": "Pure Nutrition",
+        "base": "https://purenutrition.in",
+        "handle": "vitamin-b12-500mcg-120-tabs",
+        "product": "Methylcobalamin Vitamin B12 500 mcg",
+        "form": "Tablet",
+        "type": "Methylcobalamin (B12)",
+        "subclass": "Individual B vitamin",
+        "packCount": 120,
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official description explicitly says each film-coated tablet contains 500 mcg methylcobalamin and the bottle contains 120 tablets.",
+        "notes": "Labelled quantity is recorded without assuming that a higher strength or a particular B12 form improves outcomes.",
+        "labelChecked": "2026-10-31",
+        "declaredNutrients": [
+          "vitaminB12Mcg"
+        ],
+        "flavour": "Unflavoured",
+        "vitaminB1Mg": null,
+        "vitaminB2Mg": null,
+        "vitaminB3Mg": null,
+        "vitaminB5Mg": null,
+        "vitaminB6Mg": null,
+        "biotinMcg": null,
+        "vitaminB12Mcg": 500,
+        "folicAcidMcg": null,
+        "folateMcgDfe": null,
+        "methylfolateMcg": null
+      }
+    }
+  ]
+}

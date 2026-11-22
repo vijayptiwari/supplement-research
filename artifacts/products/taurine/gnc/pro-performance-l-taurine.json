@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "category": "taurine",
+  "brand": "GNC",
+  "product": "Pro Performance L-Taurine",
+  "variants": [
+    {
+      "order": 2,
+      "offer": {
+        "brand": "GNC",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-11-17",
+        "packCount": null,
+        "servingUnits": null,
+        "servingGrams": 5,
+        "grams": 200,
+        "flavour": "Unflavoured",
+        "product": "Pro Performance L-Taurine",
+        "form": "Powder",
+        "type": "Taurine",
+        "subclass": "Single amino acid",
+        "taurineMg": 5000,
+        "energyPerServing": 0,
+        "declaredNutrients": [
+          "taurineMg"
+        ],
+        "basis": "Official nutrition label states a 5.00 g scoop, 40 servings and L-taurine 5000 mg per serving. Official retail title specifies net 200 g.",
+        "notes": "Pack quantity is the retail 200 g title; the feed shipping-weight field is zero and is not used.",
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0623/9010/8391/files/BOP2_88954ee4-aa79-402d-9b46-1bf5cbff3016.png?v=1791800687"
+        ],
+        "searchAliases": [
+          "l taurine",
+          "taurine powder"
+        ],
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0623/9010/8391/files/BOP2_88954ee4-aa79-402d-9b46-1bf5cbff3016.png?v=1791800687",
+        "id": "taurine-52808104870119",
+        "price": 799,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://www.guardian.in/products/gnc-pro-performance-l-taurine-unflavoured-200-g?variant=52808104870119",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.guardian.in/products/gnc-pro-performance-l-taurine-unflavoured-200-g?variant=52808104870119",
+          "evidenceUrl": "https://www.guardian.in/products/gnc-pro-performance-l-taurine-unflavoured-200-g.json",
+          "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3839,
+      "observation": {
+        "category": "taurine",
+        "offerId": "taurine-52808104870119",
+        "date": "2026-11-17",
+        "price": 799,
+        "currency": "INR",
+        "sourceUrl": "https://www.guardian.in/products/gnc-pro-performance-l-taurine-unflavoured-200-g?variant=52808104870119",
+        "evidenceUrl": "https://www.guardian.in/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "52808104870119",
+        "matchBasis": "Official public Shopify feed fetched 2026-11-17; exact variant ID, unconditional listed single-pack price and stock matched. Retail net quantity and serving use the official label, not shipping weight."
+      }
+    },
+    {
+      "order": 4033,
+      "observation": {
+        "category": "taurine",
+        "offerId": "taurine-52808104870119",
+        "date": "2026-11-19",
+        "price": 799,
+        "currency": "INR",
+        "sourceUrl": "https://www.guardian.in/products/gnc-pro-performance-l-taurine-unflavoured-200-g?variant=52808104870119",
+        "evidenceUrl": "https://www.guardian.in/products/gnc-pro-performance-l-taurine-unflavoured-200-g.json",
+        "kind": "official-live",
+        "variantId": "52808104870119",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 123,
+      "profile": {
+        "category": "taurine",
+        "brand": "GNC",
+        "base": "https://www.guardian.in",
+        "handle": "gnc-pro-performance-l-taurine-unflavoured-200-g",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-11-17",
+        "variantIds": [
+          "52808104870119"
+        ],
+        "packCount": null,
+        "servingUnits": null,
+        "servingGrams": 5,
+        "grams": 200,
+        "flavour": "Unflavoured",
+        "product": "Pro Performance L-Taurine",
+        "form": "Powder",
+        "type": "Taurine",
+        "subclass": "Single amino acid",
+        "taurineMg": 5000,
+        "energyPerServing": 0,
+        "declaredNutrients": [
+          "taurineMg"
+        ],
+        "basis": "Official nutrition label states a 5.00 g scoop, 40 servings and L-taurine 5000 mg per serving. Official retail title specifies net 200 g.",
+        "notes": "Pack quantity is the retail 200 g title; the feed shipping-weight field is zero and is not used.",
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0623/9010/8391/files/BOP2_88954ee4-aa79-402d-9b46-1bf5cbff3016.png?v=1791800687"
+        ],
+        "searchAliases": [
+          "l taurine",
+          "taurine powder"
+        ],
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0623/9010/8391/files/BOP2_88954ee4-aa79-402d-9b46-1bf5cbff3016.png?v=1791800687"
+      }
+    }
+  ]
+}

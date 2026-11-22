@@ -1,7 +1,7 @@
 import {test} from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs/promises';
-import {loadBundle} from '../scripts/build_site.mjs';
+import {loadArtifactSources} from '../scripts/artifact_store.mjs';
 import {applyCatalogResearch} from '../scripts/merge_catalog_research.mjs';
 import {createSnapshot,normalizeOffer,retailerQuoteIssues} from '../docs/model.js';
 import {retailerQuotesMarkup,primarySourceLabel} from '../docs/retailer-quotes.js';
@@ -10,7 +10,7 @@ import {catalogResearchMarkup} from '../docs/catalog-research.js';
 import {recommend} from '../docs/recommender.js';
 import {productReviewMarkup} from '../docs/product-review.js';
 
-const bundle=loadBundle(),read=name=>fs.readFile(new URL('../docs/data/'+name,import.meta.url),'utf8').then(JSON.parse);
+const sources=loadArtifactSources(),bundle=sources.then(s=>s.bundle),read=name=>sources.then(s=>structuredClone(s.legacyDocuments[name]));
 const quote={retailer:'HealthKart',seller:'Bright Lifecare',price:899,currency:'INR',checked:'2026-11-19',sourceUrl:'https://www.healthkart.com/sv/test-product/SP-123?navKey=VRNT-456',variantId:'456',matchBasis:'Exact brand, flavour and net pack size matched to selected variant 456.',stock:'In stock'};
 const money=n=>'₹'+n,num=n=>String(n??'Unknown'),link=(u,t)=>`<a href="${u}">${t}</a>`;
 

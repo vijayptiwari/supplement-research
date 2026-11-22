@@ -1,0 +1,256 @@
+{
+  "schemaVersion": 1,
+  "category": "eaa",
+  "brand": "MuscleBlaze",
+  "product": "EAA 8000",
+  "variants": [
+    {
+      "order": 6,
+      "offer": {
+        "id": "eaa-hk-179988",
+        "brand": "MuscleBlaze",
+        "product": "EAA 8000",
+        "form": "Powder",
+        "type": "Nine-amino-acid mixture",
+        "subclass": "EAA + electrolytes",
+        "flavour": "Razz Lemonade",
+        "packaging": "Single retail pack",
+        "price": 1459,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://www.muscleblaze.com/sv/muscleblaze-eaa-8000/SP-96656?navKey=VRNT-179988",
+        "nutritionUrl": "https://img2.hkrtcdn.com/39216/prd_3921541-MuscleBlaze-EAA-8000-Razz-Lemonade-0.75-lb-25-Servings_o.jpg",
+        "labelSources": [
+          "https://www.muscleblaze.com/sv/muscleblaze-eaa-8000/SP-96656?navKey=VRNT-179988",
+          "https://img2.hkrtcdn.com/39216/prd_3921541-MuscleBlaze-EAA-8000-Razz-Lemonade-0.75-lb-25-Servings_o.jpg",
+          "https://img4.hkrtcdn.com/39216/prd_3921543-MuscleBlaze-EAA-8000-Razz-Lemonade-0.75-lb-25-Servings_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "179988",
+        "sourceProductId": "96656",
+        "source": "Not specified",
+        "notes": "Marketing names an 8,000 mg EAA dose, but the nine individual amino-acid amounts on the current panel sum to 8,700 mg including DL-methionine. Total EAA payload therefore remains unknown pending clarification; clearly declared BCAA components remain recorded. Ratio claims do not establish an assay.",
+        "basis": "Exact official brand selected variant. The linked current product gallery nutrition panel was individually reviewed; amounts are per stated label serving. Product claims are manufacturer declarations, not independent assay results.",
+        "energyPerServing": 8,
+        "eaaMg": null,
+        "bcaaMg": 6000,
+        "leucineMg": 3000,
+        "isoleucineMg": 1500,
+        "valineMg": 1500,
+        "grams": 340,
+        "packCount": null,
+        "servingGrams": 13.5,
+        "additionalIngredients": [
+          {
+            "name": "L-lysine",
+            "amount": 500,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "L-threonine",
+            "amount": 500,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "L-phenylalanine",
+            "amount": 260,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "L-histidine",
+            "amount": 200,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "L-tryptophan",
+            "amount": 150,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "DL-methionine",
+            "amount": 90,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "Coconut water powder",
+            "amount": 300,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "Electrolyte compound blend",
+            "amount": 700,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "BioPerine black pepper extract",
+            "amount": 5,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "L-citrulline DL-malate",
+            "amount": 750,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          }
+        ],
+        "declaredNutrients": [
+          "eaaMg",
+          "bcaaMg",
+          "leucineMg",
+          "isoleucineMg",
+          "valineMg"
+        ]
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5182,
+      "observation": {
+        "category": "eaa",
+        "offerId": "eaa-hk-179988",
+        "date": "2026-11-19",
+        "price": 1459,
+        "currency": "INR",
+        "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-eaa-8000/SP-96656?navKey=VRNT-179988",
+        "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-eaa-8000/SP-96656?navKey=VRNT-179988",
+        "kind": "official-live",
+        "variantId": "179988",
+        "matchBasis": "Official selected numeric variant 179988 and SP-96656 matched to exact flavour/pack attributes; unconditional INR offer_pr, is_published=true and variant oos checked; no coupon or loyalty prices."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 291,
+      "profile": {
+        "id": "eaa-hk-179988",
+        "brand": "MuscleBlaze",
+        "product": "EAA 8000",
+        "form": "Powder",
+        "type": "Nine-amino-acid mixture",
+        "subclass": "EAA + electrolytes",
+        "flavour": "Razz Lemonade",
+        "packaging": "Single retail pack",
+        "currency": "INR",
+        "nutritionUrl": "https://img2.hkrtcdn.com/39216/prd_3921541-MuscleBlaze-EAA-8000-Razz-Lemonade-0.75-lb-25-Servings_o.jpg",
+        "labelSources": [
+          "https://www.muscleblaze.com/sv/muscleblaze-eaa-8000/SP-96656?navKey=VRNT-179988",
+          "https://img2.hkrtcdn.com/39216/prd_3921541-MuscleBlaze-EAA-8000-Razz-Lemonade-0.75-lb-25-Servings_o.jpg",
+          "https://img4.hkrtcdn.com/39216/prd_3921543-MuscleBlaze-EAA-8000-Razz-Lemonade-0.75-lb-25-Servings_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "source": "Not specified",
+        "notes": "Marketing names an 8,000 mg EAA dose, but the nine individual amino-acid amounts on the current panel sum to 8,700 mg including DL-methionine. Total EAA payload therefore remains unknown pending clarification; clearly declared BCAA components remain recorded. Ratio claims do not establish an assay.",
+        "basis": "Exact official brand selected variant. The linked current product gallery nutrition panel was individually reviewed; amounts are per stated label serving. Product claims are manufacturer declarations, not independent assay results.",
+        "energyPerServing": 8,
+        "eaaMg": null,
+        "bcaaMg": 6000,
+        "leucineMg": 3000,
+        "isoleucineMg": 1500,
+        "valineMg": 1500,
+        "grams": 340,
+        "packCount": null,
+        "servingGrams": 13.5,
+        "additionalIngredients": [
+          {
+            "name": "L-lysine",
+            "amount": 500,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "L-threonine",
+            "amount": 500,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "L-phenylalanine",
+            "amount": 260,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "L-histidine",
+            "amount": 200,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "L-tryptophan",
+            "amount": 150,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "DL-methionine",
+            "amount": 90,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "Coconut water powder",
+            "amount": 300,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "Electrolyte compound blend",
+            "amount": 700,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "BioPerine black pepper extract",
+            "amount": 5,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "L-citrulline DL-malate",
+            "amount": 750,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          }
+        ],
+        "declaredNutrients": [
+          "eaaMg",
+          "bcaaMg",
+          "leucineMg",
+          "isoleucineMg",
+          "valineMg"
+        ],
+        "category": "eaa",
+        "kind": "hk-product",
+        "base": "https://www.muscleblaze.com",
+        "productUrl": "https://www.muscleblaze.com/sv/muscleblaze-eaa-8000/SP-96656?navKey=VRNT-179988",
+        "variantUrl": "https://www.muscleblaze.com/sv/muscleblaze-eaa-8000/SP-96656?navKey=VRNT-179988",
+        "variantId": "179988",
+        "productId": "96656",
+        "sourceBrand": "MuscleBlaze",
+        "variantAttributes": {
+          "sn-bca-flv": "Razz Lemonade",
+          "gen-pro-siz": "0.75 lb",
+          "sn-ser-pack": "25 Servings"
+        },
+        "cacheKey": "hk-performance-179988",
+        "packSizeLabel": "0.75 lb",
+        "netWeightEvidenceUrl": "https://img4.hkrtcdn.com/39216/prd_3921543-MuscleBlaze-EAA-8000-Razz-Lemonade-0.75-lb-25-Servings_o.jpg",
+        "netWeightEvidenceGrams": 340,
+        "netWeightEvidenceChecked": "2026-11-19"
+      }
+    }
+  ]
+}

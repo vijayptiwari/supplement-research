@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "category": "creatine",
+  "brand": "Fuel One",
+  "product": "Creatine Monohydrate",
+  "variants": [
+    {
+      "order": 72,
+      "offer": {
+        "id": "cr-72",
+        "brand": "Fuel One",
+        "product": "Creatine Monohydrate",
+        "type": "Monohydrate",
+        "subclass": "Not specified",
+        "grade": "Not specified",
+        "formulation": "Not specified",
+        "packaging": "Standard pack",
+        "flavour": "Unflavoured",
+        "grams": 100,
+        "kg": 0.1,
+        "price": 499,
+        "stock": "In stock",
+        "creatine": null,
+        "scoop": null,
+        "serving": null,
+        "creatineServing": null,
+        "energy": null,
+        "url": "https://www.fuelone.in/sv/fuel-one-creatine-monohydrate/SP-123937?navKey=VRNT-236369",
+        "nutritionUrl": "https://www.fuelone.in/sv/fuel-one-creatine-monohydrate/SP-123937",
+        "basis": "Creatine compound concentration not verified; compound cost omitted.",
+        "notes": "",
+        "energyBasis": "",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.fuelone.in/sv/fuel-one-creatine-monohydrate/SP-123937?navKey=VRNT-236369",
+          "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-creatine-monohydrate/SP-123937",
+          "matchBasis": "Official selected product schema flavour and net pack match"
+        },
+        "retailerQuotes": [
+          {
+            "retailer": "HealthKart",
+            "seller": "Bright Nutricare Private Limited",
+            "price": 499,
+            "currency": "INR",
+            "checked": "2026-11-19",
+            "sourceUrl": "https://www.healthkart.com/sv/fuel-one-creatine-monohydrate/SP-83333?navKey=VRNT-156081",
+            "variantId": "156081",
+            "matchBasis": "HealthKart selected product numeric id 156081, SP-83333, brand, flavour, retail packaging and explicit net gram/kg weight reviewed against current label evidence; unconditional offer_pr excludes loyalty or coupons. Same manufacturer product/flavour/net pack as https://www.fuelone.in/sv/fuel-one-creatine-monohydrate/SP-123937?navKey=VRNT-236369; marketplace has a separate seller SKU. This quote does not replace the primary brand price or establish an archive history.",
+            "stock": "In stock"
+          }
+        ]
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3065,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-72",
+        "date": "2026-10-25",
+        "price": 499,
+        "currency": "INR",
+        "sourceUrl": "https://www.fuelone.in/sv/fuel-one-creatine-monohydrate/SP-123937",
+        "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-creatine-monohydrate/SP-123937",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": null
+      }
+    },
+    {
+      "order": 4925,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-72",
+        "date": "2026-11-19",
+        "price": 499,
+        "currency": "INR",
+        "sourceUrl": "https://www.fuelone.in/sv/fuel-one-creatine-monohydrate/SP-123937?navKey=VRNT-236369",
+        "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-creatine-monohydrate/SP-123937",
+        "kind": "official-live",
+        "matchBasis": "Official selected product schema flavour and net pack match",
+        "variantId": "VRNT-236369"
+      }
+    }
+  ],
+  "refreshSources": []
+}

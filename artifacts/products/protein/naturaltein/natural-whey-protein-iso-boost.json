@@ -1,0 +1,391 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "Naturaltein",
+  "product": "Natural Whey Protein ISO BOOST",
+  "variants": [
+    {
+      "order": 555,
+      "offer": {
+        "id": 555,
+        "brand": "Naturaltein",
+        "product": "Natural Whey Protein ISO BOOST",
+        "type": "Whey — blend",
+        "flavour": "Chocolate",
+        "kg": 1,
+        "price": 4890,
+        "stock": "In stock",
+        "protein": 76,
+        "scoop": 36,
+        "serving": 36,
+        "subclass": "Whey blend",
+        "energy": 386,
+        "url": "https://naturaltein.in/products/whey-protein-iso-boost?variant=42796356370515",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0634/8868/8211/files/ISO_BOOST_CHOCOLATE.webp?v=1761303462",
+        "basis": "Chocolate label: 76g / 100g (27.36g / 36g)",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Visually checked Chocolate label, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://naturaltein.in/products/whey-protein-iso-boost?variant=42796356370515",
+          "evidenceUrl": "https://naturaltein.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 556,
+      "offer": {
+        "id": 556,
+        "brand": "Naturaltein",
+        "product": "Natural Whey Protein ISO BOOST",
+        "type": "Whey — blend",
+        "flavour": "Pista Kulfi",
+        "kg": 1,
+        "price": 4890,
+        "stock": "In stock",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://naturaltein.in/products/whey-protein-iso-boost?variant=42796356436051",
+        "nutritionUrl": "https://naturaltein.in/products/whey-protein-iso-boost?variant=42796356436051",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://naturaltein.in/products/whey-protein-iso-boost?variant=42796356436051",
+          "evidenceUrl": "https://naturaltein.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 557,
+      "offer": {
+        "id": 557,
+        "brand": "Naturaltein",
+        "product": "Natural Whey Protein ISO BOOST",
+        "type": "Whey — blend",
+        "flavour": "Unflavoured",
+        "kg": 1,
+        "price": 4890,
+        "stock": "In stock",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://naturaltein.in/products/whey-protein-iso-boost?variant=42796356567123",
+        "nutritionUrl": "https://naturaltein.in/products/whey-protein-iso-boost?variant=42796356567123",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://naturaltein.in/products/whey-protein-iso-boost?variant=42796356567123",
+          "evidenceUrl": "https://naturaltein.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 558,
+      "offer": {
+        "id": 558,
+        "brand": "Naturaltein",
+        "product": "Natural Whey Protein ISO BOOST",
+        "type": "Whey — blend",
+        "flavour": "Vietnami Coffee",
+        "kg": 1,
+        "price": 4890,
+        "stock": "In stock",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://naturaltein.in/products/whey-protein-iso-boost?variant=42796356501587",
+        "nutritionUrl": "https://naturaltein.in/products/whey-protein-iso-boost?variant=42796356501587",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://naturaltein.in/products/whey-protein-iso-boost?variant=42796356501587",
+          "evidenceUrl": "https://naturaltein.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 2744,
+      "observation": {
+        "category": "protein",
+        "offerId": 555,
+        "date": "2026-10-25",
+        "price": 4890,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-iso-boost?variant=42796356370515",
+        "evidenceUrl": "https://naturaltein.in/products/whey-protein-iso-boost.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "42796356370515"
+      }
+    },
+    {
+      "order": 2745,
+      "observation": {
+        "category": "protein",
+        "offerId": 556,
+        "date": "2026-10-25",
+        "price": 4890,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-iso-boost?variant=42796356436051",
+        "evidenceUrl": "https://naturaltein.in/products/whey-protein-iso-boost.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "42796356436051"
+      }
+    },
+    {
+      "order": 2746,
+      "observation": {
+        "category": "protein",
+        "offerId": 557,
+        "date": "2026-10-25",
+        "price": 4890,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-iso-boost?variant=42796356567123",
+        "evidenceUrl": "https://naturaltein.in/products/whey-protein-iso-boost.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "42796356567123"
+      }
+    },
+    {
+      "order": 2747,
+      "observation": {
+        "category": "protein",
+        "offerId": 558,
+        "date": "2026-10-25",
+        "price": 4890,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-iso-boost?variant=42796356501587",
+        "evidenceUrl": "https://naturaltein.in/products/whey-protein-iso-boost.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "42796356501587"
+      }
+    },
+    {
+      "order": 3371,
+      "observation": {
+        "category": "protein",
+        "offerId": 555,
+        "date": "2026-09-28",
+        "price": 4890,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-iso-boost?variant=42796356370515",
+        "evidenceUrl": "https://web.archive.org/web/20260928144301/https://naturaltein.in/products/whey-protein-iso-boost",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "42796356370515",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3372,
+      "observation": {
+        "category": "protein",
+        "offerId": 556,
+        "date": "2026-09-28",
+        "price": 4890,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-iso-boost?variant=42796356436051",
+        "evidenceUrl": "https://web.archive.org/web/20260928144301/https://naturaltein.in/products/whey-protein-iso-boost",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "42796356436051",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3373,
+      "observation": {
+        "category": "protein",
+        "offerId": 557,
+        "date": "2026-09-28",
+        "price": 4890,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-iso-boost?variant=42796356567123",
+        "evidenceUrl": "https://web.archive.org/web/20260928144301/https://naturaltein.in/products/whey-protein-iso-boost",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "42796356567123",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3374,
+      "observation": {
+        "category": "protein",
+        "offerId": 558,
+        "date": "2026-09-28",
+        "price": 4890,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-iso-boost?variant=42796356501587",
+        "evidenceUrl": "https://web.archive.org/web/20260928144301/https://naturaltein.in/products/whey-protein-iso-boost",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "42796356501587",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3507,
+      "observation": {
+        "category": "protein",
+        "offerId": 555,
+        "date": "2026-08-13",
+        "price": 4690,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-iso-boost?variant=42796356370515",
+        "evidenceUrl": "https://web.archive.org/web/20260813172305id_/https://naturaltein.in/products/whey-protein-iso-boost",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42796356370515",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3508,
+      "observation": {
+        "category": "protein",
+        "offerId": 556,
+        "date": "2026-08-13",
+        "price": 4690,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-iso-boost?variant=42796356436051",
+        "evidenceUrl": "https://web.archive.org/web/20260813172305id_/https://naturaltein.in/products/whey-protein-iso-boost",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42796356436051",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3509,
+      "observation": {
+        "category": "protein",
+        "offerId": 557,
+        "date": "2026-08-13",
+        "price": 4690,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-iso-boost?variant=42796356567123",
+        "evidenceUrl": "https://web.archive.org/web/20260813172305id_/https://naturaltein.in/products/whey-protein-iso-boost",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42796356567123",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3510,
+      "observation": {
+        "category": "protein",
+        "offerId": 558,
+        "date": "2026-08-13",
+        "price": 4690,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-iso-boost?variant=42796356501587",
+        "evidenceUrl": "https://web.archive.org/web/20260813172305id_/https://naturaltein.in/products/whey-protein-iso-boost",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42796356501587",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 4602,
+      "observation": {
+        "category": "protein",
+        "offerId": 555,
+        "date": "2026-11-19",
+        "price": 4890,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-iso-boost?variant=42796356370515",
+        "evidenceUrl": "https://naturaltein.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "42796356370515"
+      }
+    },
+    {
+      "order": 4603,
+      "observation": {
+        "category": "protein",
+        "offerId": 556,
+        "date": "2026-11-19",
+        "price": 4890,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-iso-boost?variant=42796356436051",
+        "evidenceUrl": "https://naturaltein.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "42796356436051"
+      }
+    },
+    {
+      "order": 4604,
+      "observation": {
+        "category": "protein",
+        "offerId": 557,
+        "date": "2026-11-19",
+        "price": 4890,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-iso-boost?variant=42796356567123",
+        "evidenceUrl": "https://naturaltein.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "42796356567123"
+      }
+    },
+    {
+      "order": 4605,
+      "observation": {
+        "category": "protein",
+        "offerId": 558,
+        "date": "2026-11-19",
+        "price": 4890,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-iso-boost?variant=42796356501587",
+        "evidenceUrl": "https://naturaltein.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "42796356501587"
+      }
+    }
+  ],
+  "refreshSources": []
+}

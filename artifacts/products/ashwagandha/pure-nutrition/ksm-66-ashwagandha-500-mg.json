@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "category": "ashwagandha",
+  "brand": "Pure Nutrition",
+  "product": "KSM-66 Ashwagandha 500 mg",
+  "variants": [
+    {
+      "order": 9,
+      "offer": {
+        "brand": "Pure Nutrition",
+        "product": "KSM-66 Ashwagandha 500 mg",
+        "form": "Capsule",
+        "type": "Root extract",
+        "subclass": "KSM-66",
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official text: each capsule contains 500 mg KSM-66 root extract standardized to 5% withanolides; current bottle image states 60 capsules.",
+        "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities.",
+        "packCount": 60,
+        "ashwagandhaMg": 500,
+        "standardizedExtractMg": 500,
+        "withanolidesPct": 5,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0618/9629/4654/files/PNASGK0075.jpg?v=1791803277"
+        ],
+        "id": "ashwagandha-47826519523582",
+        "price": 699,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://purenutrition.in/products/pure-nutrition-ksm-66-ashwagandha-500mg-standardized-root-extract?variant=47826519523582",
+        "nutritionUrl": "https://purenutrition.in/products/pure-nutrition-ksm-66-ashwagandha-500mg-standardized-root-extract",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-10-29",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://purenutrition.in/products/pure-nutrition-ksm-66-ashwagandha-500mg-standardized-root-extract?variant=47826519523582",
+          "evidenceUrl": "https://purenutrition.in/products/pure-nutrition-ksm-66-ashwagandha-500mg-standardized-root-extract.json",
+          "matchBasis": "Official public Shopify product; exact variant ID 47826519523582 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3702,
+      "observation": {
+        "category": "ashwagandha",
+        "offerId": "ashwagandha-47826519523582",
+        "date": "2026-10-29",
+        "price": 699,
+        "currency": "INR",
+        "sourceUrl": "https://purenutrition.in/products/pure-nutrition-ksm-66-ashwagandha-500mg-standardized-root-extract?variant=47826519523582",
+        "evidenceUrl": "https://purenutrition.in/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "47826519523582"
+      }
+    },
+    {
+      "order": 3853,
+      "observation": {
+        "category": "ashwagandha",
+        "offerId": "ashwagandha-47826519523582",
+        "date": "2026-11-19",
+        "price": 699,
+        "currency": "INR",
+        "sourceUrl": "https://purenutrition.in/products/pure-nutrition-ksm-66-ashwagandha-500mg-standardized-root-extract?variant=47826519523582",
+        "evidenceUrl": "https://purenutrition.in/products/pure-nutrition-ksm-66-ashwagandha-500mg-standardized-root-extract.json",
+        "kind": "official-live",
+        "variantId": "47826519523582",
+        "matchBasis": "Official public Shopify product; exact variant ID 47826519523582 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 6,
+      "profile": {
+        "category": "ashwagandha",
+        "brand": "Pure Nutrition",
+        "base": "https://purenutrition.in",
+        "handle": "pure-nutrition-ksm-66-ashwagandha-500mg-standardized-root-extract",
+        "product": "KSM-66 Ashwagandha 500 mg",
+        "form": "Capsule",
+        "type": "Root extract",
+        "subclass": "KSM-66",
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official text: each capsule contains 500 mg KSM-66 root extract standardized to 5% withanolides; current bottle image states 60 capsules.",
+        "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities.",
+        "packCount": 60,
+        "ashwagandhaMg": 500,
+        "standardizedExtractMg": 500,
+        "withanolidesPct": 5,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0618/9629/4654/files/PNASGK0075.jpg?v=1791803277"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "Nutrabox",
+  "product": "Casein Protein",
+  "variants": [
+    {
+      "order": 584,
+      "offer": {
+        "id": 584,
+        "brand": "Nutrabox",
+        "product": "Casein Protein",
+        "type": "Milk — casein",
+        "flavour": "Alphonso Mango",
+        "kg": 1,
+        "price": 2499,
+        "stock": "In stock",
+        "protein": 77.14285714285715,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Micellar casein",
+        "energy": null,
+        "url": "https://nutrabox.in/products/best-casein-protein-in-india?variant=44040696987822",
+        "nutritionUrl": "https://nutrabox.in/products/best-casein-protein-in-india?variant=44040696987822",
+        "basis": "27g protein / 35g scoop; brand description",
+        "notes": "Brand product-page serving basis; flavour-specific label values may vary. Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nutrabox.in/products/best-casein-protein-in-india?variant=44040696987822",
+          "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 585,
+      "offer": {
+        "id": 585,
+        "brand": "Nutrabox",
+        "product": "Casein Protein",
+        "type": "Milk — casein",
+        "flavour": "Chocolate Cake",
+        "kg": 1,
+        "price": 2499,
+        "stock": "Sold out",
+        "protein": 77.14285714285715,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Micellar casein",
+        "energy": null,
+        "url": "https://nutrabox.in/products/best-casein-protein-in-india?variant=44040696889518",
+        "nutritionUrl": "https://nutrabox.in/products/best-casein-protein-in-india?variant=44040696889518",
+        "basis": "27g protein / 35g scoop; brand description",
+        "notes": "Brand product-page serving basis; flavour-specific label values may vary. Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nutrabox.in/products/best-casein-protein-in-india?variant=44040696889518",
+          "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 586,
+      "offer": {
+        "id": 586,
+        "brand": "Nutrabox",
+        "product": "Casein Protein",
+        "type": "Milk — casein",
+        "flavour": "Vanilla Ice Cream",
+        "kg": 1,
+        "price": 2499,
+        "stock": "Sold out",
+        "protein": 77.14285714285715,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Micellar casein",
+        "energy": null,
+        "url": "https://nutrabox.in/products/best-casein-protein-in-india?variant=44040697086126",
+        "nutritionUrl": "https://nutrabox.in/products/best-casein-protein-in-india?variant=44040697086126",
+        "basis": "27g protein / 35g scoop; brand description",
+        "notes": "Brand product-page serving basis; flavour-specific label values may vary. Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nutrabox.in/products/best-casein-protein-in-india?variant=44040697086126",
+          "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 2773,
+      "observation": {
+        "category": "protein",
+        "offerId": 584,
+        "date": "2026-10-25",
+        "price": 2499,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/best-casein-protein-in-india?variant=44040696987822",
+        "evidenceUrl": "https://nutrabox.in/products/best-casein-protein-in-india.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "44040696987822"
+      }
+    },
+    {
+      "order": 2774,
+      "observation": {
+        "category": "protein",
+        "offerId": 585,
+        "date": "2026-10-25",
+        "price": 2499,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/best-casein-protein-in-india?variant=44040696889518",
+        "evidenceUrl": "https://nutrabox.in/products/best-casein-protein-in-india.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "44040696889518"
+      }
+    },
+    {
+      "order": 2775,
+      "observation": {
+        "category": "protein",
+        "offerId": 586,
+        "date": "2026-10-25",
+        "price": 2499,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/best-casein-protein-in-india?variant=44040697086126",
+        "evidenceUrl": "https://nutrabox.in/products/best-casein-protein-in-india.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "44040697086126"
+      }
+    },
+    {
+      "order": 4631,
+      "observation": {
+        "category": "protein",
+        "offerId": 584,
+        "date": "2026-11-19",
+        "price": 2499,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/best-casein-protein-in-india?variant=44040696987822",
+        "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "44040696987822"
+      }
+    },
+    {
+      "order": 4632,
+      "observation": {
+        "category": "protein",
+        "offerId": 585,
+        "date": "2026-11-19",
+        "price": 2499,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/best-casein-protein-in-india?variant=44040696889518",
+        "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "44040696889518"
+      }
+    },
+    {
+      "order": 4633,
+      "observation": {
+        "category": "protein",
+        "offerId": 586,
+        "date": "2026-11-19",
+        "price": 2499,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/best-casein-protein-in-india?variant=44040697086126",
+        "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "44040697086126"
+      }
+    }
+  ],
+  "refreshSources": []
+}

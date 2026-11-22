@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "NAKPRO",
+  "product": "Nakpro Whey Gold Protein Concentrate (jar)",
+  "variants": [
+    {
+      "order": 491,
+      "offer": {
+        "id": 491,
+        "brand": "NAKPRO",
+        "product": "Nakpro Whey Gold Protein Concentrate (jar)",
+        "type": "Whey — concentrate",
+        "flavour": "Unflavored",
+        "kg": 1,
+        "price": 3099,
+        "stock": "Sold out",
+        "protein": 80,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey concentrate",
+        "energy": 401,
+        "url": "https://nakpro.com/products/whey-gold-protein-concentrate?variant=41341789143120",
+        "nutritionUrl": "https://nakpro.com/products/whey-gold-protein-concentrate?variant=41341789143120",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Brand flavour-group table, per-serving kcal / serving g × 100",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/whey-gold-protein-concentrate?variant=41341789143120",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 1195,
+      "observation": {
+        "category": "protein",
+        "offerId": 491,
+        "date": "2025-10-17",
+        "price": 1931,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/whey-gold-protein-concentrate?variant=41341789143120",
+        "evidenceUrl": "https://web.archive.org/web/20251017145447id_/https://nakpro.com/products/whey-gold-protein-concentrate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "41341789143120",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2680,
+      "observation": {
+        "category": "protein",
+        "offerId": 491,
+        "date": "2026-10-25",
+        "price": 3099,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/whey-gold-protein-concentrate?variant=41341789143120",
+        "evidenceUrl": "https://nakpro.com/products/whey-gold-protein-concentrate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "41341789143120"
+      }
+    },
+    {
+      "order": 3335,
+      "observation": {
+        "category": "protein",
+        "offerId": 491,
+        "date": "2026-09-25",
+        "price": 3099,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/whey-gold-protein-concentrate?variant=41341789143120",
+        "evidenceUrl": "https://web.archive.org/web/20260925100543/https://nakpro.com/products/whey-gold-protein-concentrate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "41341789143120",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 4538,
+      "observation": {
+        "category": "protein",
+        "offerId": 491,
+        "date": "2026-11-19",
+        "price": 3099,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/whey-gold-protein-concentrate?variant=41341789143120",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "41341789143120"
+      }
+    }
+  ],
+  "refreshSources": []
+}

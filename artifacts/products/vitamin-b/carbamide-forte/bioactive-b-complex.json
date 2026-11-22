@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "category": "vitamin-b",
+  "brand": "Carbamide Forte",
+  "product": "Bioactive B Complex",
+  "variants": [
+    {
+      "order": 4,
+      "offer": {
+        "brand": "Carbamide Forte",
+        "product": "Bioactive B Complex",
+        "form": "Tablet",
+        "type": "B-complex (bioactive forms claimed)",
+        "subclass": "Multi-ingredient B-vitamin combination",
+        "packCount": 60,
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Exact official product listing and selected single-pack count; only verified label quantities are recorded.",
+        "notes": "The brand claims methylated B vitamins and added choline/inositol. Exact vitamin forms, per-tablet amounts and label serving are unverified; headline blend weight is not a combined B-vitamin strength. Price and stock retain the dated 2026-10-29 official-feed observation.",
+        "labelChecked": "2026-10-31",
+        "declaredNutrients": [
+          "vitaminB1Mg",
+          "vitaminB2Mg",
+          "vitaminB3Mg",
+          "vitaminB5Mg",
+          "vitaminB6Mg",
+          "biotinMcg",
+          "vitaminB12Mcg",
+          "folicAcidMcg"
+        ],
+        "flavour": "Unflavoured",
+        "vitaminB1Mg": null,
+        "vitaminB2Mg": null,
+        "vitaminB3Mg": null,
+        "vitaminB5Mg": null,
+        "vitaminB6Mg": null,
+        "biotinMcg": null,
+        "vitaminB12Mcg": null,
+        "folicAcidMcg": null,
+        "folateMcgDfe": null,
+        "methylfolateMcg": null,
+        "id": "vitamin-b-44320956809329",
+        "price": 349,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://mycf.in/products/novoplex-bio?variant=44320956809329",
+        "nutritionUrl": "https://mycf.in/products/novoplex-bio",
+        "packaging": "Single retail pack",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://mycf.in/products/novoplex-bio?variant=44320956809329",
+          "evidenceUrl": "https://mycf.in/products/novoplex-bio.json",
+          "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3784,
+      "observation": {
+        "category": "vitamin-b",
+        "offerId": "vitamin-b-44320956809329",
+        "date": "2026-10-29",
+        "price": 349,
+        "currency": "INR",
+        "sourceUrl": "https://mycf.in/products/novoplex-bio?variant=44320956809329",
+        "evidenceUrl": "https://www.carbamideforte.com/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify product variant ID, price and single retail-pack count verified; quantities come from separately cited label evidence.",
+        "variantId": "44320956809329"
+      }
+    },
+    {
+      "order": 3940,
+      "observation": {
+        "category": "vitamin-b",
+        "offerId": "vitamin-b-44320956809329",
+        "date": "2026-11-19",
+        "price": 349,
+        "currency": "INR",
+        "sourceUrl": "https://mycf.in/products/novoplex-bio?variant=44320956809329",
+        "evidenceUrl": "https://mycf.in/products/novoplex-bio.json",
+        "kind": "official-live",
+        "variantId": "44320956809329",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 68,
+      "profile": {
+        "category": "vitamin-b",
+        "brand": "Carbamide Forte",
+        "base": "https://mycf.in",
+        "handle": "novoplex-bio",
+        "product": "Bioactive B Complex",
+        "form": "Tablet",
+        "type": "B-complex (bioactive forms claimed)",
+        "subclass": "Multi-ingredient B-vitamin combination",
+        "packCount": 60,
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Exact official product listing and selected single-pack count; only verified label quantities are recorded.",
+        "notes": "The brand claims methylated B vitamins and added choline/inositol. Exact vitamin forms, per-tablet amounts and label serving are unverified; headline blend weight is not a combined B-vitamin strength.",
+        "labelChecked": "2026-10-31",
+        "declaredNutrients": [
+          "vitaminB1Mg",
+          "vitaminB2Mg",
+          "vitaminB3Mg",
+          "vitaminB5Mg",
+          "vitaminB6Mg",
+          "biotinMcg",
+          "vitaminB12Mcg",
+          "folicAcidMcg"
+        ],
+        "flavour": "Unflavoured",
+        "vitaminB1Mg": null,
+        "vitaminB2Mg": null,
+        "vitaminB3Mg": null,
+        "vitaminB5Mg": null,
+        "vitaminB6Mg": null,
+        "biotinMcg": null,
+        "vitaminB12Mcg": null,
+        "folicAcidMcg": null,
+        "folateMcgDfe": null,
+        "methylfolateMcg": null,
+        "variantTitles": [
+          "Pack of 1"
+        ]
+      }
+    }
+  ]
+}

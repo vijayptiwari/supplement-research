@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "order": 21,
+  "article": {
+    "id": "betaalanine-race-not-capacity",
+    "category": "beta-alanine",
+    "series": "evidence-in-context",
+    "title": "Beta-alanine and race day: why more buffering does not guarantee a faster finish",
+    "summary": "Compare an 800-metre result, a 400-metre null finding and a one-hour cycling trial to see how event demands change the value question.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "A supplement that increases muscle carnosine has successfully changed a biological measurement. Whether that change makes you faster is the next question. Beta-alanine is useful for learning this distinction because its mechanism is comparatively clear, yet performance results still depend on the task. An 800-metre race, repeated laboratory contractions and an hour of cycling do not challenge the body in identical ways. Looking at those experiments together turns a broad “high-intensity” claim into a more realistic discussion of what the evidence can contribute to a particular event.",
+    "sections": [
+      {
+        "id": "mechanism",
+        "title": "A plausible mechanism narrows the question rather than ending it",
+        "body": "Beta-alanine can increase muscle carnosine, which contributes to buffering within muscle. That makes certain demanding efforts reasonable research targets, but does not imply that buffering is the limiting factor in every hard activity. “I feel exhausted” is not a diagnosis of insufficient carnosine. A sport may be limited by pacing, skill, power, oxygen delivery or several factors together. Mechanistic information is most useful when it helps researchers choose a relevant test and explains why a result might vary. It becomes misleading when a successful carnosine measurement is presented as proof that every race distance or lifting session will improve.",
+        "sourceIds": [
+          "beta-alanine-position",
+          "pe-ba-carnosine-hill-2007",
+          "context-betaalanine-hour-chung-2014"
+        ]
+      },
+      {
+        "id": "800m",
+        "title": "An 800-metre study provides an actual performance signal",
+        "body": "Ducker and colleagues randomized 18 male recreational club runners to beta-alanine or placebo for 28 days, with duplicate 800-metre track trials before and after. The adjusted analysis favoured beta-alanine for race performance. Unlike an abstract claim about buffering, this measured a recognisable event. The sample was still only nine runners per group, and recreational male club runners do not represent all athletes. It is reasonable to regard this as a promising event-specific finding. It is not reasonable to guarantee the average reported time change to a new runner, an elite competitor or someone racing a different distance.",
+        "sourceIds": [
+          "context-betaalanine-800m-ducker-2013"
+        ]
+      },
+      {
+        "id": "400m",
+        "title": "The trained sprinter experiment prevents an easy rule",
+        "body": "In a separate study of 15 male sprinters, beta-alanine increased muscle carnosine and improved selected fatigue-related laboratory measurements, but did not improve indoor 400-metre race performance. That is especially informative because the mechanism and a laboratory response changed while the event result did not. It challenges a simplistic rule that any brief, intense race must benefit. The finding also does not prove that all 400-metre athletes can never respond: the trial was small and used a particular protocol. Its role in the synthesis is to keep the event endpoint visible rather than allowing a favourable intermediate result to speak for it.",
+        "sourceIds": [
+          "pe-ba-sprinters-2007"
+        ]
+      },
+      {
+        "id": "one-hour",
+        "title": "The hour-long time trial is a useful counterexample",
+        "body": "Chung and colleagues studied 27 well-trained cyclists and triathletes over six weeks. Muscle carnosine increased markedly, but laboratory one-hour cycling time-trial performance did not improve relative to placebo. The result shows why successful loading is not synonymous with successful performance enhancement. It also makes event duration a useful consideration without turning duration into a magic cutoff. An hour-long race can contain surges and a finish, yet that observation alone does not overturn a trial that measured the overall event. Claims about an end sprint require their own evidence rather than being assumed from the presence of high-intensity moments.",
+        "sourceIds": [
+          "context-betaalanine-hour-chung-2014"
+        ]
+      },
+      {
+        "id": "capacity",
+        "title": "Capacity and performance ask different things of an athlete",
+        "body": "A fixed-intensity test to exhaustion asks how long a person can tolerate the prescribed demand. A race or time trial gives the athlete a finish line and permits pacing decisions. Hill and colleagues reported increased cycling capacity alongside carnosine loading, which supports a task-specific physiological effect. It does not mean that the same percentage improvement should appear in a self-paced race. These differences help explain why studies can be informative without agreeing numerically. A catalogue should therefore distinguish “exercise capacity” from “race time,” rather than combining both into a single performance badge that conceals what the participants actually did.",
+        "sourceIds": [
+          "pe-ba-carnosine-hill-2007",
+          "context-betaalanine-800m-ducker-2013",
+          "context-betaalanine-hour-chung-2014"
+        ]
+      },
+      {
+        "id": "synthesis",
+        "title": "Use duration as a clue, not a personal prediction",
+        "body": "A systematic review found a small overall effect with differences across exercise tasks and durations. Such a synthesis can identify where evidence is more promising, but an average is not a tool for predicting an individual’s response from a race duration alone. Training status, study quality and the distinction between capacity and performance remain important. The combination of the 800-metre positive result, the 400-metre null race finding and the one-hour null finding is more useful than selecting one paper to “win.” Together they support a conditional benefit discussion, with the actual event result given more weight than a general mechanistic slogan.",
+        "sourceIds": [
+          "beta-alanine-meta",
+          "context-betaalanine-800m-ducker-2013",
+          "pe-ba-sprinters-2007",
+          "context-betaalanine-hour-chung-2014"
+        ]
+      },
+      {
+        "id": "product-fit",
+        "title": "Choose evidence fit before a tingling sensation",
+        "body": "The studied mechanism involves repeated exposure and carnosine accumulation, so the immediate sensation from a pre-workout is not a test of race readiness. Tingling is a recognised effect, not proof that more buffering or greater benefit has occurred. A label should identify the beta-alanine amount separately from the total blend and from other stimulants. If use is being considered for a demanding competition, formulation tolerability, a realistic preparation period and appropriate product-quality checks matter more than a dramatic first sensation. None of those checks establishes that the event will improve; they simply remove avoidable confusion about what is being bought.",
+        "sourceIds": [
+          "beta-alanine-position",
+          "beta-alanine-safety",
+          "pe-ba-slow-release-2012",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "decision",
+        "title": "What would make it worth the investment for your event?",
+        "body": "Our interpretation is to treat beta-alanine as a specialised optional purchase whose justification depends on relevant performance evidence, rather than a universal gym essential. A clear match to the demands and outcomes of a studied event makes the case more plausible; a carnosine claim alone makes it weaker. Future independent trials should repeat promising event results, include women and different performance levels, and separate meaningful changes from normal race variation. For an individual purchase, the right question is whether the evidence offers enough likely value to justify cost and tolerability after training and nutrition are addressed. An impressive buffer measurement cannot make that judgement on its own.",
+        "sourceIds": [
+          "exercise",
+          "beta-alanine-meta",
+          "context-betaalanine-800m-ducker-2013",
+          "context-betaalanine-hour-chung-2014"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "beta-alanine-position",
+      "pe-ba-carnosine-hill-2007",
+      "context-betaalanine-hour-chung-2014",
+      "context-betaalanine-800m-ducker-2013",
+      "pe-ba-sprinters-2007",
+      "beta-alanine-meta",
+      "beta-alanine-safety",
+      "pe-ba-slow-release-2012",
+      "supplement-quality-ods",
+      "exercise"
+    ],
+    "evidenceNotes": [
+      {
+        "finding": "One small trial found better 800-metre track performance after repeated supplementation.",
+        "sourceIds": [
+          "context-betaalanine-800m-ducker-2013"
+        ],
+        "design": "Twenty-eight-day randomized placebo-controlled trial with duplicate pre/post race tests.",
+        "population": "Eighteen male recreational club runners; nine per group.",
+        "outcome": "Adjusted postsupplementation 800-metre times favoured beta-alanine; blood lactate and pH did not differ significantly.",
+        "limits": "Small event-specific sample. The group result is not an expected personal time gain or evidence for all race distances."
+      },
+      {
+        "finding": "Marked carnosine loading did not improve the one-hour cycling time trial.",
+        "sourceIds": [
+          "context-betaalanine-hour-chung-2014"
+        ],
+        "design": "Six-week randomized placebo-controlled trial with muscle spectroscopy and a laboratory time trial.",
+        "population": "Twenty-seven well-trained cyclists and triathletes.",
+        "outcome": "Muscle carnosine rose substantially without a time-trial performance advantage.",
+        "limits": "A particular longer cycling protocol; does not settle shorter events or every competition format."
+      }
+    ]
+  }
+}

@@ -1,0 +1,2233 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "AS-IT-IS Nutrition",
+  "product": "AS-IT-IS ATOM Beginners Whey Protein",
+  "variants": [
+    {
+      "order": 0,
+      "offer": {
+        "id": 0,
+        "brand": "AS-IT-IS Nutrition",
+        "product": "AS-IT-IS ATOM Beginners Whey Protein",
+        "type": "Whey — blend",
+        "flavour": "Caramelized Banana",
+        "kg": 1,
+        "price": 1296,
+        "stock": "In stock",
+        "protein": 40.54054054054054,
+        "scoop": 37,
+        "serving": 37,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=42588270198835",
+        "nutritionUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=42588270198835",
+        "basis": "15g protein / 37g serving; product instructions",
+        "notes": "Brand product-page serving basis; flavour-specific label values may vary. Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=42588270198835",
+          "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 1,
+      "offer": {
+        "id": 1,
+        "brand": "AS-IT-IS Nutrition",
+        "product": "AS-IT-IS ATOM Beginners Whey Protein",
+        "type": "Whey — blend",
+        "flavour": "Choco Hazel Fusion",
+        "kg": 1,
+        "price": 1296,
+        "stock": "In stock",
+        "protein": 40.54054054054054,
+        "scoop": 37,
+        "serving": 37,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=39937552154675",
+        "nutritionUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=39937552154675",
+        "basis": "15g protein / 37g serving; product instructions",
+        "notes": "Brand product-page serving basis; flavour-specific label values may vary. Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=39937552154675",
+          "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 2,
+      "offer": {
+        "id": 2,
+        "brand": "AS-IT-IS Nutrition",
+        "product": "AS-IT-IS ATOM Beginners Whey Protein",
+        "type": "Whey — blend",
+        "flavour": "Cookies & Cream",
+        "kg": 1,
+        "price": 1296,
+        "stock": "In stock",
+        "protein": 40.54054054054054,
+        "scoop": 37,
+        "serving": 37,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919210557491",
+        "nutritionUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919210557491",
+        "basis": "15g protein / 37g serving; product instructions",
+        "notes": "Brand product-page serving basis; flavour-specific label values may vary. Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919210557491",
+          "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 3,
+      "offer": {
+        "id": 3,
+        "brand": "AS-IT-IS Nutrition",
+        "product": "AS-IT-IS ATOM Beginners Whey Protein",
+        "type": "Whey — blend",
+        "flavour": "Double Rich Chocolate",
+        "kg": 1,
+        "price": 1296,
+        "stock": "In stock",
+        "protein": 40.54054054054054,
+        "scoop": 37,
+        "serving": 37,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43281232986163",
+        "nutritionUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43281232986163",
+        "basis": "15g protein / 37g serving; product instructions",
+        "notes": "Brand product-page serving basis; flavour-specific label values may vary. Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43281232986163",
+          "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 4,
+      "offer": {
+        "id": 4,
+        "brand": "AS-IT-IS Nutrition",
+        "product": "AS-IT-IS ATOM Beginners Whey Protein",
+        "type": "Whey — blend",
+        "flavour": "French Vanilla",
+        "kg": 1,
+        "price": 1296,
+        "stock": "In stock",
+        "protein": 40.54054054054054,
+        "scoop": 37,
+        "serving": 37,
+        "subclass": "Whey blend",
+        "energy": 370.27027027027026,
+        "url": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=42588272558131",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0005/5335/3267/files/ATOM_Beginners_Whey_Protein_French_Vanilla_1kg_Nutrition_Facts_Image_2c9543a7-e443-407f-9422-131a88a8520d.jpg?v=1791437788",
+        "basis": "15g protein / 37g serving; product instructions",
+        "notes": "Brand product-page serving basis; flavour-specific label values may vary. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-matched label kcal per serving / brand serving g × 100",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=42588272558131",
+          "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 5,
+      "offer": {
+        "id": 5,
+        "brand": "AS-IT-IS Nutrition",
+        "product": "AS-IT-IS ATOM Beginners Whey Protein",
+        "type": "Whey — blend",
+        "flavour": "Kesar Kulfi",
+        "kg": 1,
+        "price": 1296,
+        "stock": "In stock",
+        "protein": 40.54054054054054,
+        "scoop": 37,
+        "serving": 37,
+        "subclass": "Whey blend",
+        "energy": 370.27027027027026,
+        "url": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43298796535859",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0005/5335/3267/files/ATOM_Beginners_Whey_Protein_Kesar_Kulfi_1kg_Nutrition_Facts_Image_d288323a-0768-441e-8853-8adce920da08.jpg?v=1791437003",
+        "basis": "15g protein / 37g serving; product instructions",
+        "notes": "Brand product-page serving basis; flavour-specific label values may vary. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-matched label kcal per serving / brand serving g × 100",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43298796535859",
+          "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 6,
+      "offer": {
+        "id": 6,
+        "brand": "AS-IT-IS Nutrition",
+        "product": "AS-IT-IS ATOM Beginners Whey Protein",
+        "type": "Whey — blend",
+        "flavour": "Mango Fusion",
+        "kg": 1,
+        "price": 1296,
+        "stock": "In stock",
+        "protein": 40.54054054054054,
+        "scoop": 37,
+        "serving": 37,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919227203635",
+        "nutritionUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919227203635",
+        "basis": "15g protein / 37g serving; product instructions",
+        "notes": "Brand product-page serving basis; flavour-specific label values may vary. Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919227203635",
+          "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 7,
+      "offer": {
+        "id": 7,
+        "brand": "AS-IT-IS Nutrition",
+        "product": "AS-IT-IS ATOM Beginners Whey Protein",
+        "type": "Whey — blend",
+        "flavour": "Rabri Rasmalai",
+        "kg": 1,
+        "price": 1296,
+        "stock": "In stock",
+        "protein": 40.54054054054054,
+        "scoop": 37,
+        "serving": 37,
+        "subclass": "Whey blend",
+        "energy": 370.27027027027026,
+        "url": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43281291149363",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0005/5335/3267/files/ATOM_Beginners_Whey_Protein_Rabri_Rasmalai_1kg_Nutrition_Facts_Image_63d51865-47e9-496f-8f11-2993cdc9b92b.jpg?v=1791436263",
+        "basis": "15g protein / 37g serving; product instructions",
+        "notes": "Brand product-page serving basis; flavour-specific label values may vary. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-matched label kcal per serving / brand serving g × 100",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43281291149363",
+          "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 0,
+      "observation": {
+        "category": "protein",
+        "offerId": 1,
+        "date": "2023-10-21",
+        "price": 1183,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=39937552154675",
+        "evidenceUrl": "https://web.archive.org/web/20231021152816/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39937552154675",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1,
+      "observation": {
+        "category": "protein",
+        "offerId": 2,
+        "date": "2023-10-21",
+        "price": 1183,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919210557491",
+        "evidenceUrl": "https://web.archive.org/web/20231021152816/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40919210557491",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2,
+      "observation": {
+        "category": "protein",
+        "offerId": 6,
+        "date": "2023-10-21",
+        "price": 1183,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919227203635",
+        "evidenceUrl": "https://web.archive.org/web/20231021152816/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40919227203635",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3,
+      "observation": {
+        "category": "protein",
+        "offerId": 1,
+        "date": "2024-04-20",
+        "price": 1183,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=39937552154675",
+        "evidenceUrl": "https://web.archive.org/web/20240420125855/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39937552154675",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 4,
+      "observation": {
+        "category": "protein",
+        "offerId": 2,
+        "date": "2024-04-20",
+        "price": 1183,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919210557491",
+        "evidenceUrl": "https://web.archive.org/web/20240420125855/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40919210557491",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 5,
+      "observation": {
+        "category": "protein",
+        "offerId": 6,
+        "date": "2024-04-20",
+        "price": 1183,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919227203635",
+        "evidenceUrl": "https://web.archive.org/web/20240420125855/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40919227203635",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 6,
+      "observation": {
+        "category": "protein",
+        "offerId": 1,
+        "date": "2024-08-06",
+        "price": 1183,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=39937552154675",
+        "evidenceUrl": "https://web.archive.org/web/20240806083844/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39937552154675",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 7,
+      "observation": {
+        "category": "protein",
+        "offerId": 2,
+        "date": "2024-08-06",
+        "price": 1183,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919210557491",
+        "evidenceUrl": "https://web.archive.org/web/20240806083844/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40919210557491",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 8,
+      "observation": {
+        "category": "protein",
+        "offerId": 6,
+        "date": "2024-08-06",
+        "price": 1183,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919227203635",
+        "evidenceUrl": "https://web.archive.org/web/20240806083844/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40919227203635",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 9,
+      "observation": {
+        "category": "protein",
+        "offerId": 0,
+        "date": "2025-03-19",
+        "price": 1247,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=42588270198835",
+        "evidenceUrl": "https://web.archive.org/web/20250319134719/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42588270198835",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 10,
+      "observation": {
+        "category": "protein",
+        "offerId": 1,
+        "date": "2025-03-19",
+        "price": 1247,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=39937552154675",
+        "evidenceUrl": "https://web.archive.org/web/20250319134719/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39937552154675",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 11,
+      "observation": {
+        "category": "protein",
+        "offerId": 2,
+        "date": "2025-03-19",
+        "price": 1247,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919210557491",
+        "evidenceUrl": "https://web.archive.org/web/20250319134719/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40919210557491",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 12,
+      "observation": {
+        "category": "protein",
+        "offerId": 4,
+        "date": "2025-03-19",
+        "price": 1247,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=42588272558131",
+        "evidenceUrl": "https://web.archive.org/web/20250319134719/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42588272558131",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 13,
+      "observation": {
+        "category": "protein",
+        "offerId": 6,
+        "date": "2025-03-19",
+        "price": 1247,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919227203635",
+        "evidenceUrl": "https://web.archive.org/web/20250319134719/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40919227203635",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 14,
+      "observation": {
+        "category": "protein",
+        "offerId": 0,
+        "date": "2025-06-27",
+        "price": 1310,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=42588270198835",
+        "evidenceUrl": "https://web.archive.org/web/20250627165540/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42588270198835",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 15,
+      "observation": {
+        "category": "protein",
+        "offerId": 1,
+        "date": "2025-06-27",
+        "price": 1310,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=39937552154675",
+        "evidenceUrl": "https://web.archive.org/web/20250627165540/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39937552154675",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 16,
+      "observation": {
+        "category": "protein",
+        "offerId": 2,
+        "date": "2025-06-27",
+        "price": 1310,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919210557491",
+        "evidenceUrl": "https://web.archive.org/web/20250627165540/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40919210557491",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 17,
+      "observation": {
+        "category": "protein",
+        "offerId": 3,
+        "date": "2025-06-27",
+        "price": 1310,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43281232986163",
+        "evidenceUrl": "https://web.archive.org/web/20250627165540/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "43281232986163",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 18,
+      "observation": {
+        "category": "protein",
+        "offerId": 4,
+        "date": "2025-06-27",
+        "price": 1310,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=42588272558131",
+        "evidenceUrl": "https://web.archive.org/web/20250627165540/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42588272558131",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 19,
+      "observation": {
+        "category": "protein",
+        "offerId": 5,
+        "date": "2025-06-27",
+        "price": 1310,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43298796535859",
+        "evidenceUrl": "https://web.archive.org/web/20250627165540/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "43298796535859",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 20,
+      "observation": {
+        "category": "protein",
+        "offerId": 6,
+        "date": "2025-06-27",
+        "price": 1310,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919227203635",
+        "evidenceUrl": "https://web.archive.org/web/20250627165540/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40919227203635",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 21,
+      "observation": {
+        "category": "protein",
+        "offerId": 7,
+        "date": "2025-06-27",
+        "price": 1310,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43281291149363",
+        "evidenceUrl": "https://web.archive.org/web/20250627165540/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "43281291149363",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 22,
+      "observation": {
+        "category": "protein",
+        "offerId": 0,
+        "date": "2025-09-13",
+        "price": 1310,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=42588270198835",
+        "evidenceUrl": "https://web.archive.org/web/20250913081719/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43281291182131",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42588270198835",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 23,
+      "observation": {
+        "category": "protein",
+        "offerId": 1,
+        "date": "2025-09-13",
+        "price": 1310,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=39937552154675",
+        "evidenceUrl": "https://web.archive.org/web/20250913081719/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43281291182131",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39937552154675",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 24,
+      "observation": {
+        "category": "protein",
+        "offerId": 2,
+        "date": "2025-09-13",
+        "price": 1310,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919210557491",
+        "evidenceUrl": "https://web.archive.org/web/20250913081719/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43281291182131",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40919210557491",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 25,
+      "observation": {
+        "category": "protein",
+        "offerId": 3,
+        "date": "2025-09-13",
+        "price": 1310,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43281232986163",
+        "evidenceUrl": "https://web.archive.org/web/20250913081719/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43281291182131",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "43281232986163",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 26,
+      "observation": {
+        "category": "protein",
+        "offerId": 4,
+        "date": "2025-09-13",
+        "price": 1310,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=42588272558131",
+        "evidenceUrl": "https://web.archive.org/web/20250913081719/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43281291182131",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42588272558131",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 27,
+      "observation": {
+        "category": "protein",
+        "offerId": 5,
+        "date": "2025-09-13",
+        "price": 1310,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43298796535859",
+        "evidenceUrl": "https://web.archive.org/web/20250913081719/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43281291182131",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "43298796535859",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 28,
+      "observation": {
+        "category": "protein",
+        "offerId": 6,
+        "date": "2025-09-13",
+        "price": 1310,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919227203635",
+        "evidenceUrl": "https://web.archive.org/web/20250913081719/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43281291182131",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40919227203635",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 29,
+      "observation": {
+        "category": "protein",
+        "offerId": 7,
+        "date": "2025-09-13",
+        "price": 1310,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43281291149363",
+        "evidenceUrl": "https://web.archive.org/web/20250913081719/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43281291182131",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "43281291149363",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 30,
+      "observation": {
+        "category": "protein",
+        "offerId": 0,
+        "date": "2025-12-04",
+        "price": 1231,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=42588270198835",
+        "evidenceUrl": "https://web.archive.org/web/20251204151107/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=39937552154675",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42588270198835",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 31,
+      "observation": {
+        "category": "protein",
+        "offerId": 1,
+        "date": "2025-12-04",
+        "price": 1231,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=39937552154675",
+        "evidenceUrl": "https://web.archive.org/web/20251204151107/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=39937552154675",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39937552154675",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 32,
+      "observation": {
+        "category": "protein",
+        "offerId": 2,
+        "date": "2025-12-04",
+        "price": 1231,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919210557491",
+        "evidenceUrl": "https://web.archive.org/web/20251204151107/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=39937552154675",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40919210557491",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 33,
+      "observation": {
+        "category": "protein",
+        "offerId": 3,
+        "date": "2025-12-04",
+        "price": 1231,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43281232986163",
+        "evidenceUrl": "https://web.archive.org/web/20251204151107/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=39937552154675",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "43281232986163",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 34,
+      "observation": {
+        "category": "protein",
+        "offerId": 4,
+        "date": "2025-12-04",
+        "price": 1231,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=42588272558131",
+        "evidenceUrl": "https://web.archive.org/web/20251204151107/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=39937552154675",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42588272558131",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 35,
+      "observation": {
+        "category": "protein",
+        "offerId": 5,
+        "date": "2025-12-04",
+        "price": 1231,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43298796535859",
+        "evidenceUrl": "https://web.archive.org/web/20251204151107/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=39937552154675",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "43298796535859",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 36,
+      "observation": {
+        "category": "protein",
+        "offerId": 6,
+        "date": "2025-12-04",
+        "price": 1231,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919227203635",
+        "evidenceUrl": "https://web.archive.org/web/20251204151107/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=39937552154675",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40919227203635",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 37,
+      "observation": {
+        "category": "protein",
+        "offerId": 7,
+        "date": "2025-12-04",
+        "price": 1231,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43281291149363",
+        "evidenceUrl": "https://web.archive.org/web/20251204151107/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=39937552154675",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "43281291149363",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 38,
+      "observation": {
+        "category": "protein",
+        "offerId": 0,
+        "date": "2026-09-01",
+        "price": 1231,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=42588270198835",
+        "evidenceUrl": "https://web.archive.org/web/20260901202934id_/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42588270198835",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 39,
+      "observation": {
+        "category": "protein",
+        "offerId": 1,
+        "date": "2026-09-01",
+        "price": 1231,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=39937552154675",
+        "evidenceUrl": "https://web.archive.org/web/20260901202934id_/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39937552154675",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 40,
+      "observation": {
+        "category": "protein",
+        "offerId": 2,
+        "date": "2026-09-01",
+        "price": 1231,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919210557491",
+        "evidenceUrl": "https://web.archive.org/web/20260901202934id_/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40919210557491",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 41,
+      "observation": {
+        "category": "protein",
+        "offerId": 3,
+        "date": "2026-09-01",
+        "price": 1231,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43281232986163",
+        "evidenceUrl": "https://web.archive.org/web/20260901202934id_/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "43281232986163",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 42,
+      "observation": {
+        "category": "protein",
+        "offerId": 4,
+        "date": "2026-09-01",
+        "price": 1231,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=42588272558131",
+        "evidenceUrl": "https://web.archive.org/web/20260901202934id_/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42588272558131",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 43,
+      "observation": {
+        "category": "protein",
+        "offerId": 5,
+        "date": "2026-09-01",
+        "price": 1231,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43298796535859",
+        "evidenceUrl": "https://web.archive.org/web/20260901202934id_/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "43298796535859",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 44,
+      "observation": {
+        "category": "protein",
+        "offerId": 6,
+        "date": "2026-09-01",
+        "price": 1231,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919227203635",
+        "evidenceUrl": "https://web.archive.org/web/20260901202934id_/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40919227203635",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 45,
+      "observation": {
+        "category": "protein",
+        "offerId": 7,
+        "date": "2026-09-01",
+        "price": 1231,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43281291149363",
+        "evidenceUrl": "https://web.archive.org/web/20260901202934id_/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "43281291149363",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2189,
+      "observation": {
+        "category": "protein",
+        "offerId": 0,
+        "date": "2026-10-25",
+        "price": 1296,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=42588270198835",
+        "evidenceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "42588270198835"
+      }
+    },
+    {
+      "order": 2190,
+      "observation": {
+        "category": "protein",
+        "offerId": 1,
+        "date": "2026-10-25",
+        "price": 1296,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=39937552154675",
+        "evidenceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "39937552154675"
+      }
+    },
+    {
+      "order": 2191,
+      "observation": {
+        "category": "protein",
+        "offerId": 2,
+        "date": "2026-10-25",
+        "price": 1296,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919210557491",
+        "evidenceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "40919210557491"
+      }
+    },
+    {
+      "order": 2192,
+      "observation": {
+        "category": "protein",
+        "offerId": 3,
+        "date": "2026-10-25",
+        "price": 1296,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43281232986163",
+        "evidenceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "43281232986163"
+      }
+    },
+    {
+      "order": 2193,
+      "observation": {
+        "category": "protein",
+        "offerId": 4,
+        "date": "2026-10-25",
+        "price": 1296,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=42588272558131",
+        "evidenceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "42588272558131"
+      }
+    },
+    {
+      "order": 2194,
+      "observation": {
+        "category": "protein",
+        "offerId": 5,
+        "date": "2026-10-25",
+        "price": 1296,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43298796535859",
+        "evidenceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "43298796535859"
+      }
+    },
+    {
+      "order": 2195,
+      "observation": {
+        "category": "protein",
+        "offerId": 6,
+        "date": "2026-10-25",
+        "price": 1296,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919227203635",
+        "evidenceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "40919227203635"
+      }
+    },
+    {
+      "order": 2196,
+      "observation": {
+        "category": "protein",
+        "offerId": 7,
+        "date": "2026-10-25",
+        "price": 1296,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43281291149363",
+        "evidenceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "43281291149363"
+      }
+    },
+    {
+      "order": 3389,
+      "observation": {
+        "category": "protein",
+        "offerId": 1,
+        "date": "2023-10-02",
+        "price": 1183,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=39937552154675",
+        "evidenceUrl": "https://web.archive.org/web/20231002091605id_/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39937552154675",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3390,
+      "observation": {
+        "category": "protein",
+        "offerId": 2,
+        "date": "2023-10-02",
+        "price": 1183,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919210557491",
+        "evidenceUrl": "https://web.archive.org/web/20231002091605id_/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40919210557491",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3391,
+      "observation": {
+        "category": "protein",
+        "offerId": 6,
+        "date": "2023-10-02",
+        "price": 1183,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919227203635",
+        "evidenceUrl": "https://web.archive.org/web/20231002091605id_/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40919227203635",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3392,
+      "observation": {
+        "category": "protein",
+        "offerId": 1,
+        "date": "2024-04-19",
+        "price": 1183,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=39937552154675",
+        "evidenceUrl": "https://web.archive.org/web/20240419034049id_/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39937552154675",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3393,
+      "observation": {
+        "category": "protein",
+        "offerId": 2,
+        "date": "2024-04-19",
+        "price": 1183,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919210557491",
+        "evidenceUrl": "https://web.archive.org/web/20240419034049id_/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40919210557491",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3394,
+      "observation": {
+        "category": "protein",
+        "offerId": 6,
+        "date": "2024-04-19",
+        "price": 1183,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919227203635",
+        "evidenceUrl": "https://web.archive.org/web/20240419034049id_/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40919227203635",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3395,
+      "observation": {
+        "category": "protein",
+        "offerId": 0,
+        "date": "2024-12-05",
+        "price": 1247,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=42588270198835",
+        "evidenceUrl": "https://web.archive.org/web/20241205173240id_/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=42588270198835",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42588270198835",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3396,
+      "observation": {
+        "category": "protein",
+        "offerId": 1,
+        "date": "2024-12-05",
+        "price": 1247,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=39937552154675",
+        "evidenceUrl": "https://web.archive.org/web/20241205173240id_/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=42588270198835",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39937552154675",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3397,
+      "observation": {
+        "category": "protein",
+        "offerId": 2,
+        "date": "2024-12-05",
+        "price": 1247,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919210557491",
+        "evidenceUrl": "https://web.archive.org/web/20241205173240id_/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=42588270198835",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40919210557491",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3398,
+      "observation": {
+        "category": "protein",
+        "offerId": 4,
+        "date": "2024-12-05",
+        "price": 1247,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=42588272558131",
+        "evidenceUrl": "https://web.archive.org/web/20241205173240id_/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=42588270198835",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42588272558131",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3399,
+      "observation": {
+        "category": "protein",
+        "offerId": 6,
+        "date": "2024-12-05",
+        "price": 1247,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919227203635",
+        "evidenceUrl": "https://web.archive.org/web/20241205173240id_/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=42588270198835",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40919227203635",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3400,
+      "observation": {
+        "category": "protein",
+        "offerId": 0,
+        "date": "2025-03-16",
+        "price": 1247,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=42588270198835",
+        "evidenceUrl": "https://web.archive.org/web/20250316102816id_/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919210557491",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42588270198835",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3401,
+      "observation": {
+        "category": "protein",
+        "offerId": 1,
+        "date": "2025-03-16",
+        "price": 1247,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=39937552154675",
+        "evidenceUrl": "https://web.archive.org/web/20250316102816id_/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919210557491",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39937552154675",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3402,
+      "observation": {
+        "category": "protein",
+        "offerId": 2,
+        "date": "2025-03-16",
+        "price": 1247,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919210557491",
+        "evidenceUrl": "https://web.archive.org/web/20250316102816id_/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919210557491",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40919210557491",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3403,
+      "observation": {
+        "category": "protein",
+        "offerId": 4,
+        "date": "2025-03-16",
+        "price": 1247,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=42588272558131",
+        "evidenceUrl": "https://web.archive.org/web/20250316102816id_/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919210557491",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42588272558131",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3404,
+      "observation": {
+        "category": "protein",
+        "offerId": 6,
+        "date": "2025-03-16",
+        "price": 1247,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919227203635",
+        "evidenceUrl": "https://web.archive.org/web/20250316102816id_/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919210557491",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40919227203635",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3405,
+      "observation": {
+        "category": "protein",
+        "offerId": 0,
+        "date": "2025-06-26",
+        "price": 1310,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=42588270198835",
+        "evidenceUrl": "https://web.archive.org/web/20250626123632id_/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=39937552154675",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42588270198835",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3406,
+      "observation": {
+        "category": "protein",
+        "offerId": 1,
+        "date": "2025-06-26",
+        "price": 1310,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=39937552154675",
+        "evidenceUrl": "https://web.archive.org/web/20250626123632id_/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=39937552154675",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39937552154675",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3407,
+      "observation": {
+        "category": "protein",
+        "offerId": 2,
+        "date": "2025-06-26",
+        "price": 1310,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919210557491",
+        "evidenceUrl": "https://web.archive.org/web/20250626123632id_/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=39937552154675",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40919210557491",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3408,
+      "observation": {
+        "category": "protein",
+        "offerId": 3,
+        "date": "2025-06-26",
+        "price": 1310,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43281232986163",
+        "evidenceUrl": "https://web.archive.org/web/20250626123632id_/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=39937552154675",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "43281232986163",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3409,
+      "observation": {
+        "category": "protein",
+        "offerId": 4,
+        "date": "2025-06-26",
+        "price": 1310,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=42588272558131",
+        "evidenceUrl": "https://web.archive.org/web/20250626123632id_/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=39937552154675",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42588272558131",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3410,
+      "observation": {
+        "category": "protein",
+        "offerId": 5,
+        "date": "2025-06-26",
+        "price": 1310,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43298796535859",
+        "evidenceUrl": "https://web.archive.org/web/20250626123632id_/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=39937552154675",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "43298796535859",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3411,
+      "observation": {
+        "category": "protein",
+        "offerId": 6,
+        "date": "2025-06-26",
+        "price": 1310,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919227203635",
+        "evidenceUrl": "https://web.archive.org/web/20250626123632id_/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=39937552154675",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40919227203635",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3412,
+      "observation": {
+        "category": "protein",
+        "offerId": 7,
+        "date": "2025-06-26",
+        "price": 1310,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43281291149363",
+        "evidenceUrl": "https://web.archive.org/web/20250626123632id_/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=39937552154675",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "43281291149363",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3413,
+      "observation": {
+        "category": "protein",
+        "offerId": 0,
+        "date": "2025-09-10",
+        "price": 1310,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=42588270198835",
+        "evidenceUrl": "https://web.archive.org/web/20250910012216id_/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42588270198835",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3414,
+      "observation": {
+        "category": "protein",
+        "offerId": 1,
+        "date": "2025-09-10",
+        "price": 1310,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=39937552154675",
+        "evidenceUrl": "https://web.archive.org/web/20250910012216id_/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39937552154675",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3415,
+      "observation": {
+        "category": "protein",
+        "offerId": 2,
+        "date": "2025-09-10",
+        "price": 1310,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919210557491",
+        "evidenceUrl": "https://web.archive.org/web/20250910012216id_/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40919210557491",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3416,
+      "observation": {
+        "category": "protein",
+        "offerId": 3,
+        "date": "2025-09-10",
+        "price": 1310,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43281232986163",
+        "evidenceUrl": "https://web.archive.org/web/20250910012216id_/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "43281232986163",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3417,
+      "observation": {
+        "category": "protein",
+        "offerId": 4,
+        "date": "2025-09-10",
+        "price": 1310,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=42588272558131",
+        "evidenceUrl": "https://web.archive.org/web/20250910012216id_/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42588272558131",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3418,
+      "observation": {
+        "category": "protein",
+        "offerId": 5,
+        "date": "2025-09-10",
+        "price": 1310,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43298796535859",
+        "evidenceUrl": "https://web.archive.org/web/20250910012216id_/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "43298796535859",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3419,
+      "observation": {
+        "category": "protein",
+        "offerId": 6,
+        "date": "2025-09-10",
+        "price": 1310,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919227203635",
+        "evidenceUrl": "https://web.archive.org/web/20250910012216id_/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40919227203635",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3420,
+      "observation": {
+        "category": "protein",
+        "offerId": 7,
+        "date": "2025-09-10",
+        "price": 1310,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43281291149363",
+        "evidenceUrl": "https://web.archive.org/web/20250910012216id_/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "43281291149363",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3421,
+      "observation": {
+        "category": "protein",
+        "offerId": 0,
+        "date": "2025-12-03",
+        "price": 1231,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=42588270198835",
+        "evidenceUrl": "https://web.archive.org/web/20251203023932id_/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43298796535859",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42588270198835",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3422,
+      "observation": {
+        "category": "protein",
+        "offerId": 1,
+        "date": "2025-12-03",
+        "price": 1231,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=39937552154675",
+        "evidenceUrl": "https://web.archive.org/web/20251203023932id_/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43298796535859",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39937552154675",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3423,
+      "observation": {
+        "category": "protein",
+        "offerId": 2,
+        "date": "2025-12-03",
+        "price": 1231,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919210557491",
+        "evidenceUrl": "https://web.archive.org/web/20251203023932id_/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43298796535859",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40919210557491",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3424,
+      "observation": {
+        "category": "protein",
+        "offerId": 3,
+        "date": "2025-12-03",
+        "price": 1231,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43281232986163",
+        "evidenceUrl": "https://web.archive.org/web/20251203023932id_/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43298796535859",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "43281232986163",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3425,
+      "observation": {
+        "category": "protein",
+        "offerId": 4,
+        "date": "2025-12-03",
+        "price": 1231,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=42588272558131",
+        "evidenceUrl": "https://web.archive.org/web/20251203023932id_/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43298796535859",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42588272558131",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3426,
+      "observation": {
+        "category": "protein",
+        "offerId": 5,
+        "date": "2025-12-03",
+        "price": 1231,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43298796535859",
+        "evidenceUrl": "https://web.archive.org/web/20251203023932id_/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43298796535859",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "43298796535859",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3427,
+      "observation": {
+        "category": "protein",
+        "offerId": 6,
+        "date": "2025-12-03",
+        "price": 1231,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919227203635",
+        "evidenceUrl": "https://web.archive.org/web/20251203023932id_/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43298796535859",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40919227203635",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3428,
+      "observation": {
+        "category": "protein",
+        "offerId": 7,
+        "date": "2025-12-03",
+        "price": 1231,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43281291149363",
+        "evidenceUrl": "https://web.archive.org/web/20251203023932id_/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43298796535859",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "43281291149363",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3429,
+      "observation": {
+        "category": "protein",
+        "offerId": 0,
+        "date": "2026-04-08",
+        "price": 1296,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=42588270198835",
+        "evidenceUrl": "https://web.archive.org/web/20260408091524id_/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43281291149363",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42588270198835",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3430,
+      "observation": {
+        "category": "protein",
+        "offerId": 1,
+        "date": "2026-04-08",
+        "price": 1296,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=39937552154675",
+        "evidenceUrl": "https://web.archive.org/web/20260408091524id_/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43281291149363",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39937552154675",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3431,
+      "observation": {
+        "category": "protein",
+        "offerId": 2,
+        "date": "2026-04-08",
+        "price": 1296,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919210557491",
+        "evidenceUrl": "https://web.archive.org/web/20260408091524id_/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43281291149363",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40919210557491",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3432,
+      "observation": {
+        "category": "protein",
+        "offerId": 3,
+        "date": "2026-04-08",
+        "price": 1296,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43281232986163",
+        "evidenceUrl": "https://web.archive.org/web/20260408091524id_/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43281291149363",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "43281232986163",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3433,
+      "observation": {
+        "category": "protein",
+        "offerId": 4,
+        "date": "2026-04-08",
+        "price": 1296,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=42588272558131",
+        "evidenceUrl": "https://web.archive.org/web/20260408091524id_/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43281291149363",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42588272558131",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3434,
+      "observation": {
+        "category": "protein",
+        "offerId": 5,
+        "date": "2026-04-08",
+        "price": 1296,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43298796535859",
+        "evidenceUrl": "https://web.archive.org/web/20260408091524id_/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43281291149363",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "43298796535859",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3435,
+      "observation": {
+        "category": "protein",
+        "offerId": 6,
+        "date": "2026-04-08",
+        "price": 1296,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919227203635",
+        "evidenceUrl": "https://web.archive.org/web/20260408091524id_/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43281291149363",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40919227203635",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3436,
+      "observation": {
+        "category": "protein",
+        "offerId": 7,
+        "date": "2026-04-08",
+        "price": 1296,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43281291149363",
+        "evidenceUrl": "https://web.archive.org/web/20260408091524id_/https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43281291149363",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "43281291149363",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3437,
+      "observation": {
+        "category": "protein",
+        "offerId": 0,
+        "date": "2026-08-04",
+        "price": 1231,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=42588270198835",
+        "evidenceUrl": "https://web.archive.org/web/20260804201410id_/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42588270198835",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3438,
+      "observation": {
+        "category": "protein",
+        "offerId": 1,
+        "date": "2026-08-04",
+        "price": 1231,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=39937552154675",
+        "evidenceUrl": "https://web.archive.org/web/20260804201410id_/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39937552154675",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3439,
+      "observation": {
+        "category": "protein",
+        "offerId": 2,
+        "date": "2026-08-04",
+        "price": 1231,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919210557491",
+        "evidenceUrl": "https://web.archive.org/web/20260804201410id_/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40919210557491",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3440,
+      "observation": {
+        "category": "protein",
+        "offerId": 3,
+        "date": "2026-08-04",
+        "price": 1231,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43281232986163",
+        "evidenceUrl": "https://web.archive.org/web/20260804201410id_/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "43281232986163",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3441,
+      "observation": {
+        "category": "protein",
+        "offerId": 4,
+        "date": "2026-08-04",
+        "price": 1231,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=42588272558131",
+        "evidenceUrl": "https://web.archive.org/web/20260804201410id_/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "42588272558131",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3442,
+      "observation": {
+        "category": "protein",
+        "offerId": 5,
+        "date": "2026-08-04",
+        "price": 1231,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43298796535859",
+        "evidenceUrl": "https://web.archive.org/web/20260804201410id_/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "43298796535859",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3443,
+      "observation": {
+        "category": "protein",
+        "offerId": 6,
+        "date": "2026-08-04",
+        "price": 1231,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919227203635",
+        "evidenceUrl": "https://web.archive.org/web/20260804201410id_/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40919227203635",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3444,
+      "observation": {
+        "category": "protein",
+        "offerId": 7,
+        "date": "2026-08-04",
+        "price": 1231,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43281291149363",
+        "evidenceUrl": "https://web.archive.org/web/20260804201410id_/https://asitisnutrition.com/products/atom-beginners-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "43281291149363",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 4058,
+      "observation": {
+        "category": "protein",
+        "offerId": 0,
+        "date": "2026-11-19",
+        "price": 1296,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=42588270198835",
+        "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "42588270198835"
+      }
+    },
+    {
+      "order": 4059,
+      "observation": {
+        "category": "protein",
+        "offerId": 1,
+        "date": "2026-11-19",
+        "price": 1296,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=39937552154675",
+        "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "39937552154675"
+      }
+    },
+    {
+      "order": 4060,
+      "observation": {
+        "category": "protein",
+        "offerId": 2,
+        "date": "2026-11-19",
+        "price": 1296,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919210557491",
+        "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "40919210557491"
+      }
+    },
+    {
+      "order": 4061,
+      "observation": {
+        "category": "protein",
+        "offerId": 3,
+        "date": "2026-11-19",
+        "price": 1296,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43281232986163",
+        "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "43281232986163"
+      }
+    },
+    {
+      "order": 4062,
+      "observation": {
+        "category": "protein",
+        "offerId": 4,
+        "date": "2026-11-19",
+        "price": 1296,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=42588272558131",
+        "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "42588272558131"
+      }
+    },
+    {
+      "order": 4063,
+      "observation": {
+        "category": "protein",
+        "offerId": 5,
+        "date": "2026-11-19",
+        "price": 1296,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43298796535859",
+        "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "43298796535859"
+      }
+    },
+    {
+      "order": 4064,
+      "observation": {
+        "category": "protein",
+        "offerId": 6,
+        "date": "2026-11-19",
+        "price": 1296,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=40919227203635",
+        "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "40919227203635"
+      }
+    },
+    {
+      "order": 4065,
+      "observation": {
+        "category": "protein",
+        "offerId": 7,
+        "date": "2026-11-19",
+        "price": 1296,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/atom-beginners-whey-protein?variant=43281291149363",
+        "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "43281291149363"
+      }
+    }
+  ],
+  "refreshSources": []
+}

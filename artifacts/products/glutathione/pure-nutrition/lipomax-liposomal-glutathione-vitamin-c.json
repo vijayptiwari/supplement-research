@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "category": "glutathione",
+  "brand": "Pure Nutrition",
+  "product": "LipoMax Liposomal Glutathione + Vitamin C",
+  "variants": [
+    {
+      "order": 5,
+      "offer": {
+        "brand": "Pure Nutrition",
+        "product": "LipoMax Liposomal Glutathione + Vitamin C",
+        "form": "Tablet",
+        "type": "Liposomal glutathione",
+        "subclass": "Liposomal blend",
+        "packCount": 30,
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official page declares 30 vegetarian tablets and a one-tablet serving; glutathione payload is unresolved.",
+        "notes": "The 580 mg headline is the total active blend. Ingredients say liposomal glutathione 50% - 500 mg plus 80 mg vitamin C. Actual glutathione payload is ambiguous and withheld; neither 580 mg nor 500 mg is treated as pure glutathione.",
+        "labelChecked": "2026-10-31",
+        "glutathioneMg": null,
+        "id": "glutathione-47805018669310",
+        "price": 1229,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://purenutrition.in/products/lipomax-liposomal-glutathione-580mg-with-vitamin-c?variant=47805018669310",
+        "nutritionUrl": "https://purenutrition.in/products/lipomax-liposomal-glutathione-580mg-with-vitamin-c",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://purenutrition.in/products/lipomax-liposomal-glutathione-580mg-with-vitamin-c?variant=47805018669310",
+          "evidenceUrl": "https://purenutrition.in/products/lipomax-liposomal-glutathione-580mg-with-vitamin-c.json",
+          "matchBasis": "Official public Shopify product; exact variant ID 47805018669310 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3750,
+      "observation": {
+        "category": "glutathione",
+        "offerId": "glutathione-47805018669310",
+        "date": "2026-10-29",
+        "price": 1229,
+        "currency": "INR",
+        "sourceUrl": "https://purenutrition.in/products/lipomax-liposomal-glutathione-580mg-with-vitamin-c?variant=47805018669310",
+        "evidenceUrl": "https://purenutrition.in/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "47805018669310"
+      }
+    },
+    {
+      "order": 3873,
+      "observation": {
+        "category": "glutathione",
+        "offerId": "glutathione-47805018669310",
+        "date": "2026-11-19",
+        "price": 1229,
+        "currency": "INR",
+        "sourceUrl": "https://purenutrition.in/products/lipomax-liposomal-glutathione-580mg-with-vitamin-c?variant=47805018669310",
+        "evidenceUrl": "https://purenutrition.in/products/lipomax-liposomal-glutathione-580mg-with-vitamin-c.json",
+        "kind": "official-live",
+        "variantId": "47805018669310",
+        "matchBasis": "Official public Shopify product; exact variant ID 47805018669310 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 40,
+      "profile": {
+        "category": "glutathione",
+        "brand": "Pure Nutrition",
+        "base": "https://purenutrition.in",
+        "handle": "lipomax-liposomal-glutathione-580mg-with-vitamin-c",
+        "product": "LipoMax Liposomal Glutathione + Vitamin C",
+        "form": "Tablet",
+        "type": "Liposomal glutathione",
+        "subclass": "Liposomal blend",
+        "packCount": 30,
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official page declares 30 vegetarian tablets and a one-tablet serving; glutathione payload is unresolved.",
+        "notes": "The 580 mg headline is the total active blend. Ingredients say liposomal glutathione 50% - 500 mg plus 80 mg vitamin C. Actual glutathione payload is ambiguous and withheld; neither 580 mg nor 500 mg is treated as pure glutathione.",
+        "labelChecked": "2026-10-31",
+        "glutathioneMg": null
+      }
+    }
+  ]
+}

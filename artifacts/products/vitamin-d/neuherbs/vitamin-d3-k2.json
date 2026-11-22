@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "category": "vitamin-d",
+  "brand": "Neuherbs",
+  "product": "Vitamin D3 + K2",
+  "variants": [
+    {
+      "order": 7,
+      "offer": {
+        "id": "vitamin-d-47808374964394",
+        "brand": "Neuherbs",
+        "product": "Vitamin D3 + K2",
+        "form": "Tablet",
+        "type": "Lichen-derived cholecalciferol (D3)",
+        "subclass": "D3 + K2 MK-7",
+        "flavour": "Unflavoured",
+        "source": "Lichen",
+        "packCount": 120,
+        "servingUnits": 1,
+        "price": 549,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://neuherbs.com/products/true-vitamin-d3-k2-tablets?variant=47808374964394",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/vitamin_d3_and_k2_tablets_7.webp?v=1794994962",
+        "labelSources": [
+          "https://neuherbs.com/products/true-vitamin-d3-k2-tablets",
+          "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/vitamin_d3_and_k2_tablets_7.webp?v=1794994962"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Official bottle panel: one tablet contains vitamin D3 600 IU and vitamin K2 MK-7 55 micrograms. 120 tablets per exact variant.",
+        "notes": "Lichen origin and MK-7 are manufacturer declarations, not verified absorption or efficacy superiority.",
+        "packaging": "Brand-listed retail pack (120 tablets)",
+        "vitaminDIu": 600,
+        "vitaminK2Mcg": 55,
+        "energyPerServing": 1.63
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3956,
+      "observation": {
+        "category": "vitamin-d",
+        "offerId": "vitamin-d-47808374964394",
+        "date": "2026-11-19",
+        "price": 549,
+        "currency": "INR",
+        "sourceUrl": "https://neuherbs.com/products/true-vitamin-d3-k2-tablets?variant=47808374964394",
+        "evidenceUrl": "https://neuherbs.com/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "47808374964394",
+        "matchBasis": "Official public Shopify feed exact variant ID and explicitly listed retail count; unconditional INR variant price. Label serving and payload independently checked against official label panel."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 140,
+      "profile": {
+        "brand": "Neuherbs",
+        "product": "Vitamin D3 + K2",
+        "form": "Tablet",
+        "type": "Lichen-derived cholecalciferol (D3)",
+        "subclass": "D3 + K2 MK-7",
+        "flavour": "Unflavoured",
+        "source": "Lichen",
+        "packCount": 120,
+        "servingUnits": 1,
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/vitamin_d3_and_k2_tablets_7.webp?v=1794994962",
+        "labelSources": [
+          "https://neuherbs.com/products/true-vitamin-d3-k2-tablets",
+          "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/vitamin_d3_and_k2_tablets_7.webp?v=1794994962"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Official bottle panel: one tablet contains vitamin D3 600 IU and vitamin K2 MK-7 55 micrograms. 120 tablets per exact variant.",
+        "notes": "Lichen origin and MK-7 are manufacturer declarations, not verified absorption or efficacy superiority.",
+        "packaging": "Brand-listed retail pack (120 tablets)",
+        "vitaminDIu": 600,
+        "vitaminK2Mcg": 55,
+        "energyPerServing": 1.63,
+        "category": "vitamin-d",
+        "base": "https://neuherbs.com",
+        "handle": "true-vitamin-d3-k2-tablets",
+        "variantIds": [
+          47808374964394
+        ],
+        "allowRetailMultipack": true,
+        "id": "vitamin-d-47808374964394"
+      }
+    }
+  ]
+}

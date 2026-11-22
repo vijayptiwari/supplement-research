@@ -4,23 +4,23 @@ import {fileURLToPath} from 'node:url';
 import {createHash} from 'node:crypto';
 import {createSnapshot,auditRows,historyRows} from '../docs/model.js';
 import {publishReadableSite} from './publish_readable_site.mjs';
+import {loadArtifactSources} from './artifact_store.mjs';
 const root=fileURLToPath(new URL('../',import.meta.url));
-const read=async file=>JSON.parse(await fs.readFile(path.join(root,'docs/data',file),'utf8'));
-export async function loadBundle(){
- const config=await read('site.json'),categories={};
- for(const c of config.categories)categories[c.id]=await read(c.file);
- const ledger=await read(config.observationsFile);
- return {config,categories,testing:config.testingFile?await read(config.testingFile):null,catalogResearch:config.catalogResearchFile?await read(config.catalogResearchFile):null,research:await read('research.json'),recommender:await read('recommender.json'),brands:await read(config.brandsFile),observations:ledger.observations};
+export async function loadBundle(sourceRoot=root){
+ return (await loadArtifactSources(sourceRoot)).bundle;
 }
-export async function buildSite(destination=path.join(root,'dist')){
- const bundle=await loadBundle(),snapshot=createSnapshot(bundle);
+export async function buildSite(destination=path.join(root,'dist'),{sourceRoot=root}={}){
+ const sources=await loadArtifactSources(sourceRoot),bundle=sources.bundle,snapshot=createSnapshot(bundle);
  if(snapshot.quality.errors.length)throw Error('Dataset validation failed:\n'+snapshot.quality.errors.map(e=>`${e.category}/${e.id} ${e.field}: ${e.message}`).join('\n'));
  await fs.mkdir(destination,{recursive:true});
- await fs.cp(path.join(root,'docs'),destination,{recursive:true});
+ await fs.cp(path.join(sourceRoot,'docs'),destination,{recursive:true});
+ await fs.mkdir(path.join(destination,'data'),{recursive:true});
+ // These are generated public exports, never a second editable source tree.
+ for(const [name,value] of Object.entries(sources.legacyDocuments))await fs.writeFile(path.join(destination,'data',name),JSON.stringify(value));
  // Code and styles change independently of quarterly data. Fingerprint the whole
  // browser module graph so a new entry point cannot reuse an older dependency.
- const assetNames=(await fs.readdir(path.join(root,'docs'))).filter(name=>/\.(js|css)$/.test(name)).sort();
- const assetSources=await Promise.all(assetNames.map(name=>fs.readFile(path.join(root,'docs',name),'utf8')));
+ const assetNames=(await fs.readdir(path.join(sourceRoot,'docs'))).filter(name=>/\.(js|css)$/.test(name)).sort();
+ const assetSources=await Promise.all(assetNames.map(name=>fs.readFile(path.join(sourceRoot,'docs',name),'utf8')));
  const assetVersion=createHash('sha256').update(assetSources.join('\0')).digest('hex').slice(0,16);
  for(let i=0;i<assetNames.length;i++)if(assetNames[i].endsWith('.js'))await fs.writeFile(path.join(destination,assetNames[i]),assetSources[i].replace(/(from\s*['"])(\.\/[\w-]+\.js)(['"])/g,`$1$2?v=${assetVersion}$3`));
  // Only the build owns dist. Remove obsolete content-addressed bundles from previous builds.
@@ -43,7 +43,7 @@ export async function buildSite(destination=path.join(root,'dist')){
  await write('data/'+file,bytes);
  // Publish one small pointer last: clients never combine different dataset revisions.
  await write('data/version.json',{schemaVersion:1,version:hash,file,asOf:snapshot.asOf});
- await publishReadableSite({source:path.join(root,'docs'),destination,snapshot,assetVersion});
+ await publishReadableSite({source:path.join(sourceRoot,'docs'),destination,snapshot,assetVersion});
  console.log(`Built ${snapshot.stats.offers} offers; ${snapshot.stats.verifiedPrices} verified prices; ${snapshot.quality.warnings.length} field warnings. Revision ${hash.slice(0,12)}.`);
  return {snapshot,hash,assetVersion,destination};
 }

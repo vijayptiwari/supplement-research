@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 1,
+  "order": 66,
+  "article": {
+    "id": "protein-myths",
+    "category": "protein",
+    "series": "myth-busters",
+    "title": "10 protein myths that make buying decisions harder",
+    "summary": "What human evidence actually says about kidneys, plant protein, absorption, timing, cooking and the need for a shake.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "Protein marketing often turns a real physiological fact into an absolute rule: faster means better, a larger serving is wasted, or a more expensive ingredient must build more muscle. Those conclusions need evidence of their own. These ten claims separate digestion from muscle growth, ordinary nutrition from disease management, and a convenient food format from a necessary purchase. They concern dietary protein in adults; they are not a personal intake prescription.",
+    "sections": [
+      {
+        "id": "three-different-questions",
+        "title": "Absorbing protein, using amino acids and growing muscle are different questions",
+        "body": "Digestion releases peptides and amino acids; intestinal uptake makes those building blocks available to tissues. They can support proteins throughout the body, not just the muscle trained that day. A laboratory measurement of muscle protein synthesis describes a response over an observation period. Changes in strength or muscle size require longer training studies. Neither measurement, by itself, tells you which commercial tub offers the best value.",
+        "sourceIds": [
+          "digestion",
+          "protein-100g-trommelen-2023",
+          "protein-plant-diet-hevia-2021"
+        ]
+      },
+      {
+        "id": "read-study-boundaries",
+        "title": "Read the boundary around a result",
+        "body": "Look for who participated, what they ate, the amount and type of protein tested, the comparator and the study duration. A result in young trained men cannot settle every question for older adults, women or people with a medical condition. A small study finding no detectable difference is also not proof that all products are equivalent. We retain those boundaries rather than turning a single study into a universal buying rule.",
+        "sourceIds": [
+          "protein-kidney-antonio-2016",
+          "protein-women-nabuco-2018",
+          "protein-rice-joy-2013"
+        ]
+      },
+      {
+        "id": "myths-to-purchase-checks",
+        "title": "Turn the corrections into useful purchase checks",
+        "body": "First establish whether normal meals leave a protein gap. Then compare the declared protein source, protein grams per serving, allergens, tolerability and cost per gram of labelled protein. A printed percentage is a manufacturer declaration until suitable testing supports it. An independent quality check can help assess composition or contaminants; it does not prove that the product produces better muscle gains. The research cited here does not certify any catalog brand or batch.",
+        "sourceIds": [
+          "exercise",
+          "food-protein",
+          "food-allergens",
+          "supplement-quality-ods"
+        ]
+      }
+    ],
+    "myths": [
+      {
+        "claim": "Protein powder inevitably damages the kidneys.",
+        "verdict": "A blanket claim that confuses different health contexts.",
+        "explanation": "A small one-year crossover study in resistance-trained men found no deterioration in measured kidney-function markers during higher-protein periods. That is reassuring within its limits, not proof that unlimited intake is safe for everyone or over a lifetime. Chronic kidney disease is a different situation: protein amount and source may need adjustment, and dialysis can change requirements again. Someone with kidney disease should use their clinical nutrition plan rather than advice extrapolated from healthy gym participants.",
+        "sourceIds": [
+          "protein-kidney-antonio-2016",
+          "food-kidney-diet"
+        ]
+      },
+      {
+        "claim": "Plant protein cannot support muscle growth.",
+        "verdict": "False as a universal claim.",
+        "explanation": "A 12-week study compared habitual vegans using a plant diet plus soy isolate with omnivores using a mixed diet plus whey. With total protein matched, both groups improved muscle measures and strength without detected between-group differences. This supports the feasibility of an adequately planned plant approach. It does not show that every plant powder, serving or low-protein diet performs identically, and the participants were untrained young men.",
+        "sourceIds": [
+          "protein-plant-diet-hevia-2021"
+        ]
+      },
+      {
+        "claim": "An 'incomplete' plant protein contains no useful essential amino acids.",
+        "verdict": "The slogan misrepresents a quantitative issue.",
+        "explanation": "A limiting amino acid is present in a lower proportion relative to a reference requirement; it is not a declaration that the food supplies no useful protein. Analyses show substantial differences among plant isolates, including their leucine, lysine and methionine content. Adequate amounts and dietary variety matter. Complementary sources can improve an amino-acid pattern, but the word 'blend' does not reveal the proportions or prove the finished product's quality.",
+        "sourceIds": [
+          "protein-amino-acids-gorissen-2018",
+          "food-protein-vegetarian"
+        ]
+      },
+      {
+        "claim": "The body can absorb only 30 grams of protein at a time.",
+        "verdict": "False as a fixed absorption ceiling.",
+        "explanation": "Absorption is different from the muscle response measured during a short laboratory window. In a tracer study after exercise, 100 grams of milk protein produced a larger and more prolonged anabolic response than 25 grams over the study's observation period. This directly challenges a universal 30-gram cutoff. It does not establish unlimited benefit, show that one huge meal is optimal, or prescribe a serving size for every person. Digestion can continue for hours after eating.",
+        "sourceIds": [
+          "protein-100g-trommelen-2023",
+          "digestion"
+        ]
+      },
+      {
+        "claim": "Missing a shake within 30 minutes of training wastes the workout.",
+        "verdict": "An unnecessarily narrow rule.",
+        "explanation": "In a ten-week trial in trained men, taking the same protein supplement immediately before versus immediately after training produced similar measured adaptations. The wider diet and the timing of a preceding meal help determine the context. Timing can still be practical, particularly when someone has trained without a recent meal, but the evidence does not justify panic over a missed half-hour deadline. Consistently adequate intake deserves attention before a precise stopwatch ritual.",
+        "sourceIds": [
+          "protein-timing-schoenfeld-2017",
+          "exercise"
+        ]
+      },
+      {
+        "claim": "Whey isolate or hydrolysate is always better than concentrate.",
+        "verdict": "Processing differences do not create a universal winner.",
+        "explanation": "Isolate generally removes more non-protein material, which can be useful when lower lactose or a higher protein concentration is needed. Hydrolysis breaks protein into smaller peptides; it is a different processing step. Those features alone do not establish greater long-term muscle gains at a comparable protein intake. A whey-form training trial did not show a uniform strength advantage for hydrolysate. Compare the finished label and the reason for paying extra; lower lactose also does not make milk protein safe for a milk allergy.",
+        "sourceIds": [
+          "protein-whey-technical-usdec",
+          "protein-whey-hydrolysate-lockwood-2017",
+          "food-allergens"
+        ]
+      },
+      {
+        "claim": "Everyone who exercises needs a protein supplement.",
+        "verdict": "Protein is necessary; a supplement is optional.",
+        "explanation": "Food can supply the protein used for training adaptation. A powder is useful when it conveniently fills an assessed shortfall, suits appetite or makes meals easier to organise. Exercising does not, by itself, demonstrate that normal intake is inadequate. Buying a supplement while displacing nutritious meals or ignoring the training programme can solve the wrong problem. Assess the whole day's food before assuming that a daily scoop is compulsory.",
+        "sourceIds": [
+          "exercise",
+          "food-protein"
+        ]
+      },
+      {
+        "claim": "Cooking destroys protein and makes it useless.",
+        "verdict": "False; the preparation and extent of processing matter.",
+        "explanation": "Changing a protein's structure is not the same as erasing its nutritional value. In a small human study, cooked egg protein was substantially more digestible than raw egg protein. That does not mean every processing method improves every food: a separate milk-protein experiment found that extensive glycation reduced the availability of lysine. Ordinary cooking and deliberately severe processing are different questions. Neither 'raw is always better' nor 'heat never affects quality' is a sound rule.",
+        "sourceIds": [
+          "protein-egg-cooking-evenepoel-1998",
+          "protein-milk-glycation-2025"
+        ]
+      },
+      {
+        "claim": "Protein shakes automatically make women bulky.",
+        "verdict": "A shake does not determine a body shape.",
+        "explanation": "Women also need dietary protein, and muscle adaptations depend on sustained training and the wider diet. A trial in older women found that whey alongside resistance training improved muscle mass, strength and functional outcomes compared with placebo. That is evidence of a possible nutrition-and-training benefit in that population, not evidence of an uncontrollable body transformation. The same label checks apply across sexes; 'for women' branding does not establish a distinct protein requirement or a better product.",
+        "sourceIds": [
+          "protein-women-nabuco-2018",
+          "exercise"
+        ]
+      },
+      {
+        "claim": "A protein shake is inherently better than ordinary protein foods.",
+        "verdict": "Convenience and nutritional superiority are different claims.",
+        "explanation": "Eggs, dairy, pulses, soy foods, fish and meat can contribute protein within a varied diet. Foods also bring other nutrients and different meal characteristics. A human study comparing whole eggs with equal-protein egg whites found different acute muscle-protein-synthesis responses, showing that the food matrix can matter; it did not compare every food with every shake. A powder can be convenient and economical, but being sold as a supplement does not automatically make it a superior replacement for a meal.",
+        "sourceIds": [
+          "food-protein",
+          "food-protein-vegetarian",
+          "protein-whole-eggs-2017"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "digestion",
+      "exercise",
+      "food-protein",
+      "food-protein-vegetarian",
+      "food-kidney-diet",
+      "food-allergens",
+      "supplement-quality-ods",
+      "protein-kidney-antonio-2016",
+      "protein-plant-diet-hevia-2021",
+      "protein-amino-acids-gorissen-2018",
+      "protein-100g-trommelen-2023",
+      "protein-timing-schoenfeld-2017",
+      "protein-whey-technical-usdec",
+      "protein-whey-hydrolysate-lockwood-2017",
+      "protein-egg-cooking-evenepoel-1998",
+      "protein-milk-glycation-2025",
+      "protein-women-nabuco-2018",
+      "protein-whole-eggs-2017",
+      "protein-rice-joy-2013"
+    ]
+  }
+}

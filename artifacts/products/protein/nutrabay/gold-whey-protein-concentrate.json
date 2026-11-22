@@ -1,0 +1,343 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "Nutrabay",
+  "product": "Gold Whey Protein Concentrate",
+  "variants": [
+    {
+      "order": 843,
+      "offer": {
+        "id": "protein-nb-5553131",
+        "brand": "Nutrabay",
+        "product": "Gold Whey Protein Concentrate",
+        "flavour": "Rich Chocolate Creme",
+        "packaging": "Jar",
+        "source": "Not specified",
+        "price": 3349,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://nutrabay.com/product/nutrabay-gold-100-whey-protein-concentrate?pId=6589930&vId=5553131",
+        "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1061-05-1789626007.png",
+        "labelSources": [
+          "https://nutrabay.com/product/nutrabay-gold-100-whey-protein-concentrate?pId=6589930&vId=5553131",
+          "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1061-05-1789626007.png"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "5553131",
+        "sourceProductId": "6589930",
+        "sourceSku": "NB-NUT-1061-05",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results. Per 100 g: protein 71.65 g; energy 400.77 kcal; gram serving 35 g.",
+        "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Label allergen declaration: contains milk and may contain soy.",
+        "form": "Powder",
+        "kg": 1,
+        "protein": 71.65,
+        "scoop": 35,
+        "serving": 35,
+        "energy": 400.77,
+        "type": "Whey",
+        "subclass": "Whey concentrate",
+        "additionalIngredients": [
+          {
+            "name": "Digestive enzyme blend",
+            "amount": 150,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ]
+      }
+    },
+    {
+      "order": 844,
+      "offer": {
+        "id": "protein-nb-7221287",
+        "brand": "Nutrabay",
+        "product": "Gold Whey Protein Concentrate",
+        "flavour": "Vanilla Ice Cream",
+        "packaging": "Jar",
+        "source": "Not specified",
+        "price": 3899,
+        "currency": "INR",
+        "stock": "Sold out",
+        "url": "https://nutrabay.com/product/nutrabay-gold-100-whey-protein-concentrate?pId=6589930&vId=7221287",
+        "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1061-06-1756463526.png",
+        "labelSources": [
+          "https://nutrabay.com/product/nutrabay-gold-100-whey-protein-concentrate?pId=6589930&vId=7221287",
+          "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1061-06-1756463526.png"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "7221287",
+        "sourceProductId": "6589930",
+        "sourceSku": "NB-NUT-1061-06",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results. Per 100 g: protein 72.92 g; energy 381.02 kcal; gram serving 35 g.",
+        "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Label allergen declaration: contains milk and may contain soy.",
+        "form": "Powder",
+        "kg": 1,
+        "protein": 72.92,
+        "scoop": 35,
+        "serving": 35,
+        "energy": 381.02,
+        "type": "Whey",
+        "subclass": "Whey concentrate + vitamins/minerals",
+        "requiresProductReview": true,
+        "productReviewReason": "This fortified protein includes added iron/vitamins/minerals outside the current protein-only totals; review the full formulation and overlap before adding it to a stack.",
+        "additionalIngredients": [
+          {
+            "name": "Added vitamin/mineral formulation including iron",
+            "amount": null,
+            "unit": "label-specific",
+            "basis": "per label serving"
+          }
+        ]
+      }
+    },
+    {
+      "order": 845,
+      "offer": {
+        "id": "protein-nb-7221520",
+        "brand": "Nutrabay",
+        "product": "Gold Whey Protein Concentrate",
+        "flavour": "Rich Chocolate Creme",
+        "packaging": "Jar",
+        "source": "Not specified",
+        "price": 7499,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://nutrabay.com/product/nutrabay-gold-100-whey-protein-concentrate?pId=6589930&vId=7221520",
+        "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1061-09-1756464116.png",
+        "labelSources": [
+          "https://nutrabay.com/product/nutrabay-gold-100-whey-protein-concentrate?pId=6589930&vId=7221520",
+          "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1061-09-1756464116.png"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "7221520",
+        "sourceProductId": "6589930",
+        "sourceSku": "NB-NUT-1061-09",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results. Per 100 g: protein 71.65 g; energy 400.77 kcal; gram serving 35 g.",
+        "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Label allergen declaration: contains milk and may contain soy.",
+        "form": "Powder",
+        "kg": 2,
+        "protein": 71.65,
+        "scoop": 35,
+        "serving": 35,
+        "energy": 400.77,
+        "type": "Whey",
+        "subclass": "Whey concentrate",
+        "additionalIngredients": [
+          {
+            "name": "Digestive enzyme blend",
+            "amount": 150,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ]
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5229,
+      "observation": {
+        "category": "protein",
+        "offerId": "protein-nb-5553131",
+        "date": "2026-11-20",
+        "price": 3349,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabay.com/product/nutrabay-gold-100-whey-protein-concentrate?pId=6589930&vId=5553131",
+        "evidenceUrl": "https://nutrabay.com/product/nutrabay-gold-100-whey-protein-concentrate?pId=6589930&vId=5553131",
+        "kind": "official-live",
+        "variantId": "5553131",
+        "matchBasis": "Nutrabay selected live product 6589930, variant 5553131, SKU NB-NUT-1061-05; complete selected attributes, ordinary INR sale_price, stock and actual net pack verified. Label amounts independently read from this selected gallery."
+      }
+    },
+    {
+      "order": 5230,
+      "observation": {
+        "category": "protein",
+        "offerId": "protein-nb-7221287",
+        "date": "2026-11-20",
+        "price": 3899,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabay.com/product/nutrabay-gold-100-whey-protein-concentrate?pId=6589930&vId=7221287",
+        "evidenceUrl": "https://nutrabay.com/product/nutrabay-gold-100-whey-protein-concentrate?pId=6589930&vId=7221287",
+        "kind": "official-live",
+        "variantId": "7221287",
+        "matchBasis": "Nutrabay selected live product 6589930, variant 7221287, SKU NB-NUT-1061-06; complete selected attributes, ordinary INR sale_price, stock and actual net pack verified. Label amounts independently read from this selected gallery."
+      }
+    },
+    {
+      "order": 5231,
+      "observation": {
+        "category": "protein",
+        "offerId": "protein-nb-7221520",
+        "date": "2026-11-20",
+        "price": 7499,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabay.com/product/nutrabay-gold-100-whey-protein-concentrate?pId=6589930&vId=7221520",
+        "evidenceUrl": "https://nutrabay.com/product/nutrabay-gold-100-whey-protein-concentrate?pId=6589930&vId=7221520",
+        "kind": "official-live",
+        "variantId": "7221520",
+        "matchBasis": "Nutrabay selected live product 6589930, variant 7221520, SKU NB-NUT-1061-09; complete selected attributes, ordinary INR sale_price, stock and actual net pack verified. Label amounts independently read from this selected gallery."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 314,
+      "profile": {
+        "id": "protein-nb-5553131",
+        "brand": "Nutrabay",
+        "product": "Gold Whey Protein Concentrate",
+        "flavour": "Rich Chocolate Creme",
+        "packaging": "Jar",
+        "source": "Not specified",
+        "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1061-05-1789626007.png",
+        "labelSources": [
+          "https://nutrabay.com/product/nutrabay-gold-100-whey-protein-concentrate?pId=6589930&vId=5553131",
+          "https://cdn2.nutrabay.com/uploads/variant/images/image_7-NB-NUT-1061-05-1789626007.png"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results. Per 100 g: protein 71.65 g; energy 400.77 kcal; gram serving 35 g.",
+        "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Label allergen declaration: contains milk and may contain soy.",
+        "form": "Powder",
+        "kg": 1,
+        "protein": 71.65,
+        "scoop": 35,
+        "serving": 35,
+        "energy": 400.77,
+        "type": "Whey",
+        "subclass": "Whey concentrate",
+        "additionalIngredients": [
+          {
+            "name": "Digestive enzyme blend",
+            "amount": 150,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "category": "protein",
+        "kind": "nutrabay-product",
+        "base": "https://nutrabay.com",
+        "productUrl": "https://nutrabay.com/product/nutrabay-gold-100-whey-protein-concentrate?pId=6589930&vId=5553131",
+        "variantUrl": "https://nutrabay.com/product/nutrabay-gold-100-whey-protein-concentrate?pId=6589930&vId=5553131",
+        "variantId": "5553131",
+        "productId": "6589930",
+        "variantSku": "NB-NUT-1061-05",
+        "variantAttributes": {
+          "pa_flavour": "Rich Chocolate Creme",
+          "pa_weight": "1 kg (2.2 lb)"
+        },
+        "cacheKey": "nutrabay-5553131",
+        "allowRetailMultipack": true,
+        "grams": 1000
+      }
+    },
+    {
+      "order": 315,
+      "profile": {
+        "id": "protein-nb-7221287",
+        "brand": "Nutrabay",
+        "product": "Gold Whey Protein Concentrate",
+        "flavour": "Vanilla Ice Cream",
+        "packaging": "Jar",
+        "source": "Not specified",
+        "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1061-06-1756463526.png",
+        "labelSources": [
+          "https://nutrabay.com/product/nutrabay-gold-100-whey-protein-concentrate?pId=6589930&vId=7221287",
+          "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1061-06-1756463526.png"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results. Per 100 g: protein 72.92 g; energy 381.02 kcal; gram serving 35 g.",
+        "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Label allergen declaration: contains milk and may contain soy.",
+        "form": "Powder",
+        "kg": 1,
+        "protein": 72.92,
+        "scoop": 35,
+        "serving": 35,
+        "energy": 381.02,
+        "type": "Whey",
+        "subclass": "Whey concentrate + vitamins/minerals",
+        "requiresProductReview": true,
+        "productReviewReason": "This fortified protein includes added iron/vitamins/minerals outside the current protein-only totals; review the full formulation and overlap before adding it to a stack.",
+        "additionalIngredients": [
+          {
+            "name": "Added vitamin/mineral formulation including iron",
+            "amount": null,
+            "unit": "label-specific",
+            "basis": "per label serving"
+          }
+        ],
+        "category": "protein",
+        "kind": "nutrabay-product",
+        "base": "https://nutrabay.com",
+        "productUrl": "https://nutrabay.com/product/nutrabay-gold-100-whey-protein-concentrate?pId=6589930&vId=7221287",
+        "variantUrl": "https://nutrabay.com/product/nutrabay-gold-100-whey-protein-concentrate?pId=6589930&vId=7221287",
+        "variantId": "7221287",
+        "productId": "6589930",
+        "variantSku": "NB-NUT-1061-06",
+        "variantAttributes": {
+          "pa_flavour": "Vanilla Ice Cream",
+          "pa_weight": "1 kg (2.2 lb)"
+        },
+        "cacheKey": "nutrabay-7221287",
+        "allowRetailMultipack": true,
+        "grams": 1000
+      }
+    },
+    {
+      "order": 316,
+      "profile": {
+        "id": "protein-nb-7221520",
+        "brand": "Nutrabay",
+        "product": "Gold Whey Protein Concentrate",
+        "flavour": "Rich Chocolate Creme",
+        "packaging": "Jar",
+        "source": "Not specified",
+        "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1061-09-1756464116.png",
+        "labelSources": [
+          "https://nutrabay.com/product/nutrabay-gold-100-whey-protein-concentrate?pId=6589930&vId=7221520",
+          "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1061-09-1756464116.png"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results. Per 100 g: protein 71.65 g; energy 400.77 kcal; gram serving 35 g.",
+        "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts. Label allergen declaration: contains milk and may contain soy.",
+        "form": "Powder",
+        "kg": 2,
+        "protein": 71.65,
+        "scoop": 35,
+        "serving": 35,
+        "energy": 400.77,
+        "type": "Whey",
+        "subclass": "Whey concentrate",
+        "additionalIngredients": [
+          {
+            "name": "Digestive enzyme blend",
+            "amount": 150,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "category": "protein",
+        "kind": "nutrabay-product",
+        "base": "https://nutrabay.com",
+        "productUrl": "https://nutrabay.com/product/nutrabay-gold-100-whey-protein-concentrate?pId=6589930&vId=7221520",
+        "variantUrl": "https://nutrabay.com/product/nutrabay-gold-100-whey-protein-concentrate?pId=6589930&vId=7221520",
+        "variantId": "7221520",
+        "productId": "6589930",
+        "variantSku": "NB-NUT-1061-09",
+        "variantAttributes": {
+          "pa_flavour": "Rich Chocolate Creme",
+          "pa_weight": "2 kg (4.4 lb)"
+        },
+        "cacheKey": "nutrabay-7221520",
+        "allowRetailMultipack": true,
+        "grams": 2000
+      }
+    }
+  ]
+}

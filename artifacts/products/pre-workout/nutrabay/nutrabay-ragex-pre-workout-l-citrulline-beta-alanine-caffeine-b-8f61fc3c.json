@@ -1,0 +1,142 @@
+{
+  "schemaVersion": 1,
+  "category": "pre-workout",
+  "brand": "Nutrabay",
+  "product": "Nutrabay RageX Pre-Workout | L-Citrulline, Beta-Alanine, Caffeine & Black Pepper Extract | Energy, Focus & Pump",
+  "variants": [
+    {
+      "order": 14,
+      "offer": {
+        "id": "pre-workout-nb-1701211",
+        "brand": "Nutrabay",
+        "product": "Nutrabay RageX Pre-Workout | L-Citrulline, Beta-Alanine, Caffeine & Black Pepper Extract | Energy, Focus & Pump",
+        "flavour": "Orange",
+        "packaging": "Jar",
+        "source": "Not specified",
+        "price": 1111,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://nutrabay.com/product/nutrabay-ragex-pre-workout-l-citrulline-beta-alanine-caffeine-black-pepper-extract-energy-focus-pump/?pId=5543479&vId=1701211",
+        "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_5-NB-NUT-1095-01-1780030932.png",
+        "labelSources": [
+          "https://nutrabay.com/product/nutrabay-ragex-pre-workout-l-citrulline-beta-alanine-caffeine-black-pepper-extract-energy-focus-pump/?pId=5543479&vId=1701211",
+          "https://cdn2.nutrabay.com/uploads/variant/images/image_5-NB-NUT-1095-01-1780030932.png"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "1701211",
+        "sourceProductId": "5543479",
+        "sourceSku": "NB-NUT-1095-01",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+        "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts.",
+        "form": "Powder",
+        "servingGrams": 12,
+        "type": "Multi-ingredient pre-workout",
+        "subclass": "Citrulline/beta-alanine/caffeine",
+        "stimulantStatus": "Contains caffeine",
+        "caffeineMg": 200,
+        "citrullineMg": 6000,
+        "betaAlanineMg": 4000,
+        "arginineMg": 600,
+        "vitaminB3Mg": 10,
+        "energyPerServing": 2.8,
+        "additionalIngredients": [
+          {
+            "name": "Black pepper extract",
+            "amount": 3,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "declaredNutrients": [
+          "caffeineMg",
+          "citrullineMg",
+          "betaAlanineMg",
+          "arginineMg"
+        ],
+        "grams": 360,
+        "packCount": null
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5296,
+      "observation": {
+        "category": "pre-workout",
+        "offerId": "pre-workout-nb-1701211",
+        "date": "2026-11-20",
+        "price": 1111,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabay.com/product/nutrabay-ragex-pre-workout-l-citrulline-beta-alanine-caffeine-black-pepper-extract-energy-focus-pump/?pId=5543479&vId=1701211",
+        "evidenceUrl": "https://nutrabay.com/product/nutrabay-ragex-pre-workout-l-citrulline-beta-alanine-caffeine-black-pepper-extract-energy-focus-pump/?pId=5543479&vId=1701211",
+        "kind": "official-live",
+        "variantId": "1701211",
+        "matchBasis": "Nutrabay selected live product 5543479, variant 1701211, SKU NB-NUT-1095-01; complete selected attributes, ordinary INR sale_price, stock and actual net pack verified. Label amounts independently read from this selected gallery."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 380,
+      "profile": {
+        "id": "pre-workout-nb-1701211",
+        "brand": "Nutrabay",
+        "product": "Nutrabay RageX Pre-Workout | L-Citrulline, Beta-Alanine, Caffeine & Black Pepper Extract | Energy, Focus & Pump",
+        "flavour": "Orange",
+        "packaging": "Jar",
+        "source": "Not specified",
+        "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_5-NB-NUT-1095-01-1780030932.png",
+        "labelSources": [
+          "https://nutrabay.com/product/nutrabay-ragex-pre-workout-l-citrulline-beta-alanine-caffeine-black-pepper-extract-energy-focus-pump/?pId=5543479&vId=1701211",
+          "https://cdn2.nutrabay.com/uploads/variant/images/image_5-NB-NUT-1095-01-1780030932.png"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+        "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts.",
+        "form": "Powder",
+        "servingGrams": 12,
+        "type": "Multi-ingredient pre-workout",
+        "subclass": "Citrulline/beta-alanine/caffeine",
+        "stimulantStatus": "Contains caffeine",
+        "caffeineMg": 200,
+        "citrullineMg": 6000,
+        "betaAlanineMg": 4000,
+        "arginineMg": 600,
+        "vitaminB3Mg": 10,
+        "energyPerServing": 2.8,
+        "additionalIngredients": [
+          {
+            "name": "Black pepper extract",
+            "amount": 3,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "declaredNutrients": [
+          "caffeineMg",
+          "citrullineMg",
+          "betaAlanineMg",
+          "arginineMg"
+        ],
+        "grams": 360,
+        "packCount": null,
+        "category": "pre-workout",
+        "kind": "nutrabay-product",
+        "base": "https://nutrabay.com",
+        "productUrl": "https://nutrabay.com/product/nutrabay-ragex-pre-workout-l-citrulline-beta-alanine-caffeine-black-pepper-extract-energy-focus-pump/?pId=5543479&vId=1701211",
+        "variantUrl": "https://nutrabay.com/product/nutrabay-ragex-pre-workout-l-citrulline-beta-alanine-caffeine-black-pepper-extract-energy-focus-pump/?pId=5543479&vId=1701211",
+        "variantId": "1701211",
+        "productId": "5543479",
+        "variantSku": "NB-NUT-1095-01",
+        "variantAttributes": {
+          "pa_flavour": "Orange",
+          "pa_weight": "360 g (0.79 lb)"
+        },
+        "cacheKey": "nutrabay-1701211",
+        "allowRetailMultipack": true
+      }
+    }
+  ]
+}

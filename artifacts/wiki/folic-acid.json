@@ -1,0 +1,373 @@
+{
+  "schemaVersion": 1,
+  "order": 12,
+  "category": {
+    "id": "folic-acid",
+    "label": "Folic Acid & Folate",
+    "mainNutrient": "folicAcidMcg",
+    "referenceQuantity": 100,
+    "referenceUnit": "µg",
+    "compoundLabel": "labelled folic acid",
+    "nutrientFields": [
+      {
+        "key": "folicAcidMcg",
+        "label": "Folic acid",
+        "unit": "µg",
+        "table": true,
+        "searchAliases": [
+          "b9",
+          "folic acid"
+        ]
+      },
+      {
+        "key": "methylfolateMcg",
+        "label": "Methylfolate",
+        "unit": "µg",
+        "table": true,
+        "costQuantity": 100,
+        "searchAliases": [
+          "methylfolate",
+          "5 mthf",
+          "5mthf",
+          "l methylfolate"
+        ]
+      },
+      {
+        "key": "folateMcgDfe",
+        "label": "Folate (dietary equivalents)",
+        "unit": "µg DFE",
+        "table": true,
+        "costQuantity": 100,
+        "searchAliases": [
+          "folate",
+          "dfe"
+        ]
+      }
+    ],
+    "comparisonNote": "Folic acid mass, methylfolate mass and dietary folate equivalents (DFE) are recorded separately. No serving, chemical-form or DFE conversion is assumed. The primary reference cost uses only explicitly labelled folic acid; methylfolate and DFE costs, when verified, are separate calculations. Combination products can also contain iron or other ingredients.",
+    "searchAliases": [
+      "folate",
+      "vitamin b9"
+    ],
+    "file": "folic-acid.json",
+    "page": "folic-acid.html",
+    "measurement": "units",
+    "productSearchLabel": "Folate"
+  },
+  "catalog": {
+    "checked": "2026-11-20",
+    "category": "folic-acid"
+  },
+  "guide": {
+    "id": "folic-acid-guide",
+    "category": "folic-acid",
+    "title": "Folic acid and folate: forms, labels and pregnancy planning",
+    "summary": "Folate is vitamin B9. Folic acid, methylfolate and dietary folate equivalents describe different forms or measurement bases.",
+    "evidence": "Folate supports DNA synthesis and cell division. Folic acid before and during early pregnancy helps prevent neural tube defects; CDC identifies folic acid as the form demonstrated to provide this protection.",
+    "limitations": "A methylfolate or active-form claim does not establish the same birth-defect-prevention evidence. A label in micrograms DFE is not the same as micrograms of folic acid. The catalog does not infer a universal conversion across forms.",
+    "catalogReading": "Record folic acid, methylfolate and declared folate DFE separately on the verified label-serving basis. Primary folic-acid costs require an explicit folic acid quantity; methylfolate mass is not relabelled as folic acid. Check prenatal, B-complex and standalone products for overlap.",
+    "safety": "Large amounts of folic acid can correct the anaemia of B12 deficiency while its neurological injury remains unaddressed. Review B12 status when clinically appropriate and discuss medicines, including antifolate or antiseizure treatment, with a clinician. Do not alter prescribed treatment from a catalog comparison.",
+    "sourceIds": [
+      "folate-overview",
+      "folate-prevention",
+      "b-family",
+      "b12-overview",
+      "supplement-quality-ods"
+    ],
+    "reviewed": "2026-11-18",
+    "author": "Supplement Research editorial synthesis",
+    "bodySteps": [
+      "Food folates, folic acid and supplemental 5-MTHF enter the diet in different chemical forms; their label masses do not directly describe identical availability.",
+      "The body uses folate coenzymes to transfer one-carbon groups needed for DNA synthesis and amino-acid metabolism.",
+      "Adequate folate is especially important during rapid cell division. Folic acid prevention before and in early pregnancy addresses a specific developmental risk, not every possible birth defect."
+    ],
+    "bodySources": [
+      "folate-overview",
+      "folate-prevention"
+    ],
+    "treatment": "Folate-deficiency anaemia needs an assessment of its cause and of possible B12 deficiency. Preventing neural tube defects is different from treating an established defect or curing infertility.",
+    "whoMayBenefit": "Women who could become pregnant should follow a folic-acid prevention plan; waiting until pregnancy is recognised can miss part of the relevant period. Confirm the plan with an appropriate clinician, particularly after a previous affected pregnancy or when medicines alter folate requirements.",
+    "routineUse": "This is an important population-specific prevention recommendation, not a universal reason for everyone to buy a folate product. Pregnancy care may require a broader plan. The stack builder provides education and does not select an adult retail strength as a pregnancy prescription.",
+    "sectionSources": [
+      "folate-overview",
+      "folate-prevention",
+      "b-family"
+    ],
+    "buyingGuide": {
+      "whoCanConsider": [
+        "People who could become pregnant should follow a preconception folic-acid prevention plan; waiting until pregnancy is recognised can miss the relevant period.",
+        "People with established folate deficiency after the cause and possible B12 deficiency have been assessed."
+      ],
+      "whoShouldReview": [
+        "A previous neural-tube-defect-affected pregnancy or antiseizure or antifolate medicines calls for an individual clinical plan.",
+        "Unexplained anaemia or neurological symptoms needs assessment, including B12 where appropriate; folic acid alone can leave B12-related nerve injury unaddressed."
+      ],
+      "foodSummary": "Leafy vegetables and pulses supply natural food folate. Folic acid is a different form used in supplements and fortified foods; do not equate food folate or methylfolate with the established folic-acid prevention evidence.",
+      "foods": [
+        {
+          "name": "Spinach, boiled",
+          "relationship": "different-form",
+          "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": null,
+          "amounts": [
+            {
+              "nutrient": "Natural food folate",
+              "min": 131,
+              "max": null,
+              "unit": "µg DFE",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "½ cup"
+              },
+              "sourceIds": [
+                "folate-overview"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Black-eyed peas, boiled",
+          "relationship": "different-form",
+          "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": null,
+          "amounts": [
+            {
+              "nutrient": "Natural food folate",
+              "min": 105,
+              "max": null,
+              "unit": "µg DFE",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "½ cup"
+              },
+              "sourceIds": [
+                "folate-overview"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Asparagus, boiled",
+          "relationship": "different-form",
+          "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": null,
+          "amounts": [
+            {
+              "nutrient": "Natural food folate",
+              "min": 89,
+              "max": null,
+              "unit": "µg DFE",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "4 spears"
+              },
+              "sourceIds": [
+                "folate-overview"
+              ]
+            }
+          ]
+        }
+      ],
+      "foodSourceIds": [
+        "folate-overview",
+        "folate-prevention"
+      ],
+      "value": {
+        "routineScore": 2,
+        "targetedScore": 5,
+        "targetedUse": "Folic-acid prevention before and during early pregnancy for people who could become pregnant.",
+        "reason": "This defined prevention use has a strong evidence base. A blanket folate purchase for an otherwise adequately nourished adult is a different decision.",
+        "worthWhen": [
+          "The product supports an appropriate preconception or pregnancy-care plan and explicitly declares folic acid.",
+          "Folate deficiency has been assessed with attention to B12 and its cause."
+        ],
+        "skipWhen": [
+          "There is no identified gap or prevention indication and it simply duplicates a prenatal, multivitamin or B-complex.",
+          "An active-form marketing claim is being assumed to have identical neural-tube-defect prevention evidence."
+        ],
+        "evidence": "strong",
+        "scope": "Editorial priority for the defined prevention need. It does not select an adult retail strength as a pregnancy prescription, cover every birth defect or replace an individual higher-risk care plan.",
+        "sourceIds": [
+          "folate-overview",
+          "folate-prevention",
+          "b12-overview"
+        ]
+      },
+      "reviewed": "2026-11-18",
+      "practices": {
+        "dos": [
+          {
+            "title": "Keep the folate forms distinct",
+            "detail": "Record explicit folic acid, methylfolate and declared DFE separately before comparing costs or products."
+          },
+          {
+            "title": "Review the wider care plan",
+            "detail": "Check prenatal and B-complex overlap; assessed deficiency or a prevention need requires the appropriate individual context."
+          }
+        ],
+        "donts": [
+          {
+            "title": "Don't relabel an active-form claim",
+            "detail": "Methylfolate mass is not folic acid, and a marketing claim does not establish identical prevention evidence."
+          },
+          {
+            "title": "Don't overlook possible B12 deficiency",
+            "detail": "Folic acid can correct anaemia while B12-related neurological injury remains; do not replace clinical assessment with a catalog choice."
+          }
+        ],
+        "sourceIds": [
+          "folate-overview",
+          "folate-prevention",
+          "b-family"
+        ]
+      }
+    },
+    "intakeGuide": {
+      "kind": "daily-target",
+      "summary": "Meet the age- and sex-specific total dietary reference. A reference intake is not the same as a supplemental dose or deficiency-treatment regimen.",
+      "targets": [
+        {
+          "key": "folateMcgDfe",
+          "label": "Folate",
+          "min": 400,
+          "max": null,
+          "unit": "µg DFE",
+          "basis": "total-daily",
+          "perKg": false,
+          "profileIds": [
+            "everyday",
+            "general-fitness",
+            "strength-power",
+            "hypertrophy",
+            "endurance",
+            "hybrid"
+          ],
+          "sex": "any",
+          "minAge": 19,
+          "maxAge": null,
+          "referenceType": "RDA",
+          "notes": "Dietary folate equivalents, not 400 µg of every synthetic folate form. Preconception folic-acid advice is a separate prevention indication; seek individual advice.",
+          "sourceIds": [
+            "folate-overview"
+          ]
+        }
+      ],
+      "limits": [
+        {
+          "key": "folicAcidMcg",
+          "label": "Synthetic folic acid UL",
+          "max": 1000,
+          "unit": "µg",
+          "basis": "synthetic-folic-acid",
+          "minAge": 19,
+          "maxAge": null,
+          "notes": "From supplements and fortified foods, not natural food folate. DFE and methylfolate mass are not automatically added as folic acid.",
+          "sourceIds": [
+            "folate-overview"
+          ]
+        }
+      ],
+      "notes": [
+        "No automatic dose increase is assigned for training frequency or experience."
+      ],
+      "sourceIds": [
+        "folate-overview"
+      ],
+      "reviewed": "2026-11-17"
+    },
+    "medicalGuide": {
+      "summary": "Condition-specific evidence, separate from sports benefits and purchase priority.",
+      "conditions": [
+        {
+          "condition": "Folate-deficiency anaemia",
+          "level": "established",
+          "findings": "Assess B12 status and the cause; folate can correct anaemia while B12-related neurological injury remains.",
+          "limits": "Folate-deficiency anaemia needs an assessment of its cause and of possible B12 deficiency. Preventing neural tube defects is different from treating an established defect or curing infertility.",
+          "sourceIds": [
+            "folate-overview",
+            "folate-prevention",
+            "b-family"
+          ]
+        },
+        {
+          "condition": "Neural tube defect prevention",
+          "level": "established",
+          "findings": "Periconception folic acid has a prevention role. This is not treatment of an established defect or a claim to cure infertility.",
+          "limits": "Folate-deficiency anaemia needs an assessment of its cause and of possible B12 deficiency. Preventing neural tube defects is different from treating an established defect or curing infertility.",
+          "sourceIds": [
+            "folate-overview",
+            "folate-prevention",
+            "b-family"
+          ]
+        }
+      ],
+      "reviewed": "2026-11-17"
+    },
+    "pathway": {
+      "title": "Folate coenzymes carry one-carbon units",
+      "summary": "Food folate, folic acid and 5-MTHF enter processing differently. Folate coenzymes then serve related, parallel reactions in DNA and amino-acid metabolism.",
+      "tracks": [
+        {
+          "label": "Folate processing and DNA synthesis",
+          "steps": [
+            {
+              "label": "Processing supplies usable folate coenzyme forms",
+              "detail": "Food folates need digestion before absorption; folic acid requires reduction to enter the folate coenzyme pool.",
+              "compartment": "Intestine / cells",
+              "icon": "digest"
+            },
+            {
+              "label": "Folate derivatives carry one carbon units",
+              "detail": "Tetrahydrofolate derivatives transfer single-carbon groups between metabolic reactions.",
+              "compartment": "Cells",
+              "icon": "molecule"
+            },
+            {
+              "label": "Folate reactions supply DNA building blocks",
+              "detail": "Folate-dependent thymidylate formation provides a DNA building block needed for cell division.",
+              "compartment": "Cells",
+              "icon": "cell"
+            }
+          ]
+        },
+        {
+          "label": "The B12-dependent methionine connection",
+          "steps": [
+            {
+              "label": "Methylfolate supplies a transferable methyl group",
+              "detail": "5-MTHF participates in the reaction that converts homocysteine to methionine.",
+              "compartment": "Cells",
+              "icon": "molecule"
+            },
+            {
+              "label": "Methionine synthase also requires B12",
+              "detail": "B12-dependent methionine synthase links folate metabolism with homocysteine conversion.",
+              "compartment": "Cells",
+              "icon": "cell"
+            },
+            {
+              "label": "Methionine supports the methyl donor pool",
+              "detail": "Methionine is used to make S-adenosylmethionine, or SAM, an important methyl donor.",
+              "compartment": "Cells",
+              "icon": "signal"
+            }
+          ]
+        }
+      ],
+      "caveat": "Normal one-carbon metabolism does not prove that extra folate treats unrelated disease. Different folate forms, B12 status and the clinical context matter.",
+      "sourceIds": [
+        "folate-overview",
+        "b12-overview"
+      ]
+    }
+  }
+}

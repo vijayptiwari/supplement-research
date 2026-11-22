@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "order": 62,
+  "article": {
+    "id": "beta-alanine-formulations",
+    "category": "beta-alanine",
+    "series": "understanding-types",
+    "title": "Beta-alanine formats: immediate release, sustained release and blends",
+    "summary": "Understand which differences concern absorption or comfort and which would need separate performance evidence.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "Beta-alanine is sold as a simple powder, a sustained-release preparation and an ingredient in many pre-workouts. These can differ in how they are consumed and how noticeable the immediate sensations are. They should not automatically be ranked by tingling intensity or by a promise that faster absorption means faster muscle gains. This guide separates the underlying ingredient, its delivery system and the quantity information needed for an honest comparison.",
+    "sections": [
+      {
+        "id": "same-ingredient-different-release",
+        "title": "Release characteristics and ingredient identity answer different questions",
+        "body": "An immediate-release preparation and a sustained-release preparation can supply the same underlying beta-alanine while changing its delivery over time. That can be relevant to the absorption profile or tolerability without creating a new muscle-building molecule. Check what the formulation actually declares and whether the release claim has supporting evidence for that preparation. A product’s use of an adjective does not independently verify its behavior. Conversely, a less dramatic sensation is not evidence that the ingredient disappeared or failed to reach the body.",
+        "sourceIds": [
+          "pe-ba-slow-release-2012",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "release-trial",
+        "title": "What the slow-release experiment did and did not show",
+        "body": "A small human trial comparing a beta-alanine solution with a specific slow-release tablet found differences in blood kinetics and reported sensory symptoms. It examined absorption and tolerability, not improved race results or months of training adaptation. That makes it relevant to a comfort-related claim but insufficient for a universal performance premium. Its findings also should not certify every product carrying the same release description. Retain the preparation and endpoint boundaries rather than converting a useful formulation result into a guarantee for the entire category.",
+        "sourceIds": [
+          "pe-ba-slow-release-2012"
+        ]
+      },
+      {
+        "id": "longer-rationale",
+        "title": "Carnosine loading concerns repeated exposure",
+        "body": "Research connecting beta-alanine with muscle carnosine involves supplementation over time, not simply an immediate pre-exercise feeling. A trial that measured muscle carnosine and high-intensity cycling capacity illustrates that distinct time scale. The practical comparison therefore needs the actual beta-alanine content and the intended pattern of use, rather than only a prominent pre-workout scoop. A product can be convenient without matching a studied regimen. The number printed on a serving should be read as a declaration to verify, not as an automatically appropriate personal quantity.",
+        "sourceIds": [
+          "pe-ba-carnosine-hill-2007",
+          "beta-alanine-position"
+        ]
+      },
+      {
+        "id": "price-and-fit",
+        "title": "Price the relevant feature rather than the strongest sensation",
+        "body": "Compare complete-serving cost, disclosed beta-alanine amount, supporting formulation evidence and comfort. If a release system is being sold primarily for tolerability, assess that claim separately from performance. Count beta-alanine already present in other products before considering another source. A quality document can address composition but cannot make an uncertain sporting outcome guaranteed. Relevant medical contexts require review beyond this comparison, and no format establishes unlimited safety. A simple transparent preparation or no additional product may be more appropriate than a premium whose claimed advantage is unclear.",
+        "sourceIds": [
+          "supplement-quality-ods",
+          "beta-alanine-safety",
+          "preworkout-review"
+        ]
+      }
+    ],
+    "forms": [
+      {
+        "name": "Beta-alanine as a disclosed ingredient",
+        "kind": "ingredient",
+        "description": "The named amino acid should have its own complete-serving amount, separate from flavourings and a broader blend total.",
+        "metabolism": "Muscle can use beta-alanine with histidine to form carnosine; the rationale concerns tissue content over time.",
+        "evidence": "Evidence depends on the exercise task and exposure period, rather than the ingredient’s name alone.",
+        "value": "Use a verified quantity and a relevant purpose before comparing prices.",
+        "sourceIds": [
+          "beta-alanine-position",
+          "pe-ba-carnosine-hill-2007"
+        ]
+      },
+      {
+        "name": "Beta-alanine in a multi-ingredient blend",
+        "kind": "ingredient",
+        "description": "A pre-workout may include beta-alanine alongside caffeine and other ingredients with different time courses and purposes.",
+        "metabolism": "An immediate stimulant effect should not be attributed to carnosine loading or treated as proof of beta-alanine action.",
+        "evidence": "Evidence for the full blend cannot isolate the contribution of beta-alanine without an appropriate comparison.",
+        "value": "Identify the amount and existing-product overlap instead of counting the entire blend.",
+        "sourceIds": [
+          "preworkout-review",
+          "beta-alanine-position"
+        ]
+      },
+      {
+        "name": "Immediate-release powder or solution",
+        "kind": "delivery",
+        "description": "A delivery approach that can produce a different exposure pattern from a preparation designed to release the ingredient gradually.",
+        "metabolism": "The absorption profile may affect transient sensations without indicating a larger long-term benefit from the same ingredient.",
+        "evidence": "A strong immediate sensory response is not a validated measure of muscle carnosine or sporting effectiveness.",
+        "value": "Assess comfort and declared content separately; do not use sensation to titrate a serving.",
+        "sourceIds": [
+          "pe-ba-slow-release-2012"
+        ]
+      },
+      {
+        "name": "Sustained-release preparations",
+        "kind": "delivery",
+        "description": "A release-system description requiring evidence for the actual finished preparation rather than reliance on the category name.",
+        "metabolism": "One tested formulation altered blood kinetics and reduced reported symptoms compared with a solution in a small experiment.",
+        "evidence": "Those findings concern delivery and tolerability, not a universal advantage in competition or muscle growth.",
+        "value": "A convenience or comfort premium needs a relevant, formulation-specific justification.",
+        "sourceIds": [
+          "pe-ba-slow-release-2012"
+        ]
+      },
+      {
+        "name": "Ordinary counted capsules or tablets",
+        "kind": "delivery",
+        "description": "Counted units simplify portions, but the amount per unit may be smaller than the full labelled serving.",
+        "metabolism": "A capsule shell alone does not establish sustained release or a distinct biological mechanism for its contents.",
+        "evidence": "Ingredient trials do not establish superiority for every counted product with a different amount or regimen.",
+        "value": "Calculate complete-serving unit count and pack duration, then check the formulation claim.",
+        "sourceIds": [
+          "supplement-quality-ods",
+          "beta-alanine-position"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "pe-ba-slow-release-2012",
+      "supplement-quality-ods",
+      "pe-ba-carnosine-hill-2007",
+      "beta-alanine-position",
+      "beta-alanine-safety",
+      "preworkout-review"
+    ]
+  }
+}

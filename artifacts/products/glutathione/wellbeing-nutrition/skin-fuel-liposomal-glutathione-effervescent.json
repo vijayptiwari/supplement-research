@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "category": "glutathione",
+  "brand": "Wellbeing Nutrition",
+  "product": "Skin Fuel Liposomal Glutathione effervescent",
+  "variants": [
+    {
+      "order": 7,
+      "offer": {
+        "id": "glutathione-39591594164304",
+        "brand": "Wellbeing Nutrition",
+        "product": "Skin Fuel Liposomal Glutathione effervescent",
+        "form": "Tablet",
+        "flavour": "Orange",
+        "packaging": "Pack of2tubes,15tablets each",
+        "source": "Not specified",
+        "labelChecked": "2026-11-19",
+        "notes": "Conflict in the active-versus-material basis: actual glutathione payload stays unknown. Neither 540 mg nor 600 mg is assumed for active-cost calculations. Plant ingredient amounts do not establish actual vitamin C content.",
+        "packCount": 30,
+        "servingUnits": 1,
+        "type": "Liposomal glutathione material",
+        "subclass": "Multi-ingredient effervescent",
+        "glutathioneMg": null,
+        "declaredNutrients": [
+          "glutathioneMg",
+          "vitaminCMg"
+        ],
+        "vitaminCMg": null,
+        "basis": "The official bottle panel lists one 4.3 g tablet per serving and 15 tablets per tube. The exact Pack of 2 contains 30 tablets. It names a 90% liposomal glutathione material at 600 mg, whereas marketing describes 600 mg glutathione.",
+        "price": 1798,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://wellbeingnutrition.com/products/glutathione-skin-fuel-effervescent-tablets?variant=39591594164304",
+        "nutritionUrl": "https://wellbeingnutrition.com/products/glutathione-skin-fuel-effervescent-tablets",
+        "labelSources": [
+          "https://wellbeingnutrition.com/products/glutathione-skin-fuel-effervescent-tablets",
+          "https://cdn.shopify.com/s/files/1/0240/2942/9840/files/SkinfuelPackof2.png?v=1774604124",
+          "https://cdn.shopify.com/s/files/1/0240/2942/9840/files/12_BOP.png?v=1774604124"
+        ]
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3891,
+      "observation": {
+        "category": "glutathione",
+        "offerId": "glutathione-39591594164304",
+        "date": "2026-11-19",
+        "price": 1798,
+        "currency": "INR",
+        "sourceUrl": "https://wellbeingnutrition.com/products/glutathione-skin-fuel-effervescent-tablets?variant=39591594164304",
+        "evidenceUrl": "https://wellbeingnutrition.com/products/glutathione-skin-fuel-effervescent-tablets.json",
+        "kind": "official-live",
+        "variantId": "39591594164304",
+        "matchBasis": "Official exact public Shopify variant ID; unconditional INR price and stock. Net pack quantity and ingredient serving transcribed from official text/panels checked2026-11-19."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 133,
+      "profile": {
+        "brand": "Wellbeing Nutrition",
+        "product": "Skin Fuel Liposomal Glutathione effervescent",
+        "form": "Tablet",
+        "flavour": "Orange",
+        "packaging": "Pack of2tubes,15tablets each",
+        "source": "Not specified",
+        "labelChecked": "2026-11-19",
+        "notes": "Conflict in the active-versus-material basis: actual glutathione payload stays unknown. Neither 540 mg nor 600 mg is assumed for active-cost calculations. Plant ingredient amounts do not establish actual vitamin C content.",
+        "packCount": 30,
+        "servingUnits": 1,
+        "type": "Liposomal glutathione material",
+        "subclass": "Multi-ingredient effervescent",
+        "glutathioneMg": null,
+        "declaredNutrients": [
+          "glutathioneMg",
+          "vitaminCMg"
+        ],
+        "vitaminCMg": null,
+        "basis": "The official bottle panel lists one 4.3 g tablet per serving and 15 tablets per tube. The exact Pack of 2 contains 30 tablets. It names a 90% liposomal glutathione material at 600 mg, whereas marketing describes 600 mg glutathione.",
+        "nutritionUrl": "https://wellbeingnutrition.com/products/glutathione-skin-fuel-effervescent-tablets",
+        "labelSources": [
+          "https://wellbeingnutrition.com/products/glutathione-skin-fuel-effervescent-tablets",
+          "https://cdn.shopify.com/s/files/1/0240/2942/9840/files/SkinfuelPackof2.png?v=1774604124",
+          "https://cdn.shopify.com/s/files/1/0240/2942/9840/files/12_BOP.png?v=1774604124"
+        ],
+        "category": "glutathione",
+        "base": "https://wellbeingnutrition.com",
+        "handle": "glutathione-skin-fuel-effervescent-tablets",
+        "variantIds": [
+          "39591594164304"
+        ],
+        "numericVariantIsCount": false,
+        "allowRetailMultipack": true,
+        "id": "glutathione-39591594164304"
+      }
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "schemaVersion": 1,
+  "order": 1,
+  "category": {
+    "id": "creatine",
+    "label": "Creatine",
+    "file": "creatine.json",
+    "page": "creatine.html",
+    "concentrationField": "creatine",
+    "compoundLabel": "labelled creatine compound",
+    "referenceGrams": 3
+  },
+  "catalog": {
+    "checked": "2026-11-20",
+    "category": "creatine",
+    "costBasis": "Labelled creatine compound mass; not free-creatine equivalent or equal efficacy across chemical forms.",
+    "trendAudit": {
+      "checked": "2026-10-25",
+      "comparisonQuarter": "Q3 2026",
+      "method": "Latest retrievable exact-variant official-store archived observation within July–September 2026 versus verified current selling price. Not a quarter average or completed Q4 comparison.",
+      "unknownMeaning": "No defensible comparison; not unchanged.",
+      "syntheticHistoryRemoved": true
+    }
+  },
+  "guide": {
+    "id": "creatine-guide",
+    "category": "creatine",
+    "title": "Creatine: why the studied form matters",
+    "summary": "Monohydrate has an extensive exercise-research base; premium names and smaller portions do not establish superiority.",
+    "evidence": "Research supports creatine monohydrate for repeated high-intensity work and some resistance-training adaptations.",
+    "limitations": "Evidence is strongest for particular outcomes and studied protocols. It cannot automatically be transferred to HCl, nitrate or a proprietary blend.",
+    "catalogReading": "The catalog compares labelled compound mass. Equal grams of different creatine salts are not assumed chemically equivalent; micronization describes processing rather than proven greater efficacy.",
+    "safety": "Discuss use with a clinician if you have kidney disease or another relevant medical condition. Research protocols are not personalized instructions.",
+    "sourceIds": [
+      "exercise",
+      "creatine-position",
+      "food-protein-vegetarian",
+      "food-performance-bioactives",
+      "creatine-parkinson-trial",
+      "food-chicken-bioactives",
+      "supplement-quality-ods"
+    ],
+    "reviewed": "2026-11-18",
+    "author": "Supplement Research editorial synthesis",
+    "bodySteps": [
+      "Absorbed creatine enters circulation and is taken up by tissues, predominantly muscle.",
+      "Some is stored as phosphocreatine, which helps rapidly regenerate ATP during intense effort.",
+      "Creatine and phosphocreatine gradually form creatinine, which the kidneys excrete."
+    ],
+    "bodySources": [
+      "creatine-position"
+    ],
+    "treatment": "A performance aid is not a cure for weakness, fatigue or a neurological disease. Specialist uses require condition-specific evidence and care.",
+    "whoMayBenefit": "Adults doing repeated high-intensity efforts or resistance training who want an optional performance aid.",
+    "routineUse": "No universal requirement for a creatine supplement. Healthy bodies make creatine, and it is also obtained from some foods.",
+    "sectionSources": [
+      "exercise",
+      "creatine-position"
+    ],
+    "buyingGuide": {
+      "whoCanConsider": [
+        "Adults undertaking structured resistance training or repeated high-intensity efforts who want an optional performance aid.",
+        "Vegetarian athletes may be responsive because habitual muscle creatine stores can be lower."
+      ],
+      "whoShouldReview": [
+        "Existing kidney disease or unexplained abnormal kidney tests warrants professional review before use.",
+        "Athletes in weight-category or weight-sensitive sports should consider potential body-mass increases with their sports professional."
+      ],
+      "foodSummary": "Meat and seafood contain creatine. The body also makes it from amino acids; food and precursor intake are not a standardized supplement dose.",
+      "foods": [
+        {
+          "name": "Chicken breast, raw, study samples on storage day 1",
+          "relationship": "direct",
+          "detail": "Range of day-1 group means from conventional and welfare farm samples, not the range of every chicken product. Raw weight describes the assay, not a recommendation to eat raw meat.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Study-specific composition; not a universal food value or supplement-dose equivalent.",
+          "amounts": [
+            {
+              "nutrient": "Creatine",
+              "min": 178.73,
+              "max": 183.18,
+              "unit": "mg",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "100 g raw meat"
+              },
+              "sourceIds": [
+                "food-chicken-bioactives"
+              ]
+            }
+          ]
+        }
+      ],
+      "foodSourceIds": [
+        "exercise",
+        "creatine-position",
+        "food-protein-vegetarian",
+        "food-performance-bioactives",
+        "food-chicken-bioactives"
+      ],
+      "value": {
+        "routineScore": 3,
+        "targetedScore": 5,
+        "targetedUse": "Creatine monohydrate supporting a consistent resistance-training or repeated high-intensity exercise programme.",
+        "reason": "Monohydrate has substantial performance evidence for this goal. General fitness alone does not establish the same purchase priority.",
+        "worthWhen": [
+          "The training goal matches the evidence.",
+          "A clearly labelled monohydrate product fits the budget and body-mass trade-off."
+        ],
+        "skipWhen": [
+          "No relevant performance goal exists.",
+          "Paying extra for another chemical form relies on an unsupported superiority claim."
+        ],
+        "evidence": "strong",
+        "scope": "Targeted score applies to monohydrate and the stated training goal; it is not a necessity, medical-treatment rating or rating of every creatine form.",
+        "sourceIds": [
+          "exercise",
+          "creatine-position"
+        ]
+      },
+      "reviewed": "2026-11-18",
+      "practices": {
+        "dos": [
+          {
+            "title": "Match the training goal",
+            "detail": "Consider the repeated high-intensity or resistance-training context before adding an optional performance product."
+          },
+          {
+            "title": "Compare the same compound",
+            "detail": "Check that the label identifies creatine monohydrate and a clear amount before comparing pack costs."
+          }
+        ],
+        "donts": [
+          {
+            "title": "Don't equate different salts",
+            "detail": "Equal compound weights do not establish equal creatine content or interchangeable effects."
+          },
+          {
+            "title": "Don't pay for unsupported superiority",
+            "detail": "Micronized processing or a newer form alone does not establish better outcomes than monohydrate."
+          }
+        ],
+        "sourceIds": [
+          "exercise",
+          "creatine-position"
+        ]
+      }
+    },
+    "intakeGuide": {
+      "kind": "optional-performance",
+      "summary": "No dietary RDA. Optional monohydrate protocols depend on the training goal, not sessions per week.",
+      "targets": [
+        {
+          "key": "creatineMonohydrateMg",
+          "label": "Creatine monohydrate",
+          "min": 3,
+          "max": 5,
+          "unit": "g",
+          "basis": "supplement-daily",
+          "perKg": false,
+          "profileIds": [
+            "strength-power",
+            "hypertrophy",
+            "hybrid"
+          ],
+          "sex": "any",
+          "minAge": 19,
+          "maxAge": null,
+          "referenceType": "studied-protocol",
+          "notes": "Optional maintenance protocol studied with training; loading is not required. Applies to monohydrate, not an assumed equivalent dose of another salt.",
+          "sourceIds": [
+            "creatine-position"
+          ]
+        }
+      ],
+      "limits": [],
+      "notes": [
+        "No automatic dose increase is assigned for training frequency or experience."
+      ],
+      "sourceIds": [
+        "creatine-position"
+      ],
+      "reviewed": "2026-11-17"
+    },
+    "medicalGuide": {
+      "summary": "Condition-specific evidence, separate from sports benefits and purchase priority.",
+      "conditions": [
+        {
+          "condition": "Cognitive impairment and neurological disorders",
+          "level": "insufficient",
+          "findings": "Creatine is not established treatment for dementia or a cognitive disorder. Cognition signals in other populations cannot establish that indication.",
+          "limits": "A performance aid is not a cure for weakness, fatigue or a neurological disease. Specialist uses require condition-specific evidence and care.",
+          "sourceIds": [
+            "creatine-parkinson-trial",
+            "creatine-position"
+          ]
+        },
+        {
+          "condition": "Parkinson disease",
+          "level": "insufficient",
+          "findings": "The large NET-PD trial did not demonstrate slower clinical progression and was stopped for futility.",
+          "limits": "A performance aid is not a cure for weakness, fatigue or a neurological disease. Specialist uses require condition-specific evidence and care.",
+          "sourceIds": [
+            "creatine-parkinson-trial",
+            "creatine-position"
+          ]
+        }
+      ],
+      "reviewed": "2026-11-17"
+    },
+    "pathway": {
+      "title": "Creatine supplies a rechargeable phosphate buffer",
+      "summary": "Creatine reaches muscle through the blood. The creatine kinase system transfers phosphate between creatine and ATP as energy demand changes.",
+      "tracks": [
+        {
+          "label": "Delivery to the muscle pool",
+          "steps": [
+            {
+              "label": "Oral creatine reaches the intestine",
+              "detail": "Ingested creatine is absorbed rather than being digested like a whole dietary protein.",
+              "compartment": "Intestine",
+              "icon": "digest"
+            },
+            {
+              "label": "Circulation carries the absorbed creatine",
+              "detail": "Blood transports absorbed creatine to target tissues.",
+              "compartment": "Blood",
+              "icon": "blood"
+            },
+            {
+              "label": "Transporters bring creatine into muscle",
+              "detail": "Creatine transporters deliver creatine into cells, adding to the creatine and phosphocreatine pool.",
+              "compartment": "Muscle",
+              "icon": "muscle"
+            }
+          ]
+        },
+        {
+          "label": "The creatine kinase buffer",
+          "returnLabel": "ATP can recharge the creatine pool",
+          "steps": [
+            {
+              "label": "Creatine receives phosphate from ATP",
+              "detail": "Creatine kinase uses ATP to form phosphocreatine and ADP.",
+              "compartment": "Muscle cells",
+              "icon": "energy"
+            },
+            {
+              "label": "Phosphocreatine holds transferable phosphate",
+              "detail": "Phosphocreatine provides a rapidly available phosphate reserve within the cell.",
+              "compartment": "Muscle cells",
+              "icon": "molecule"
+            },
+            {
+              "label": "Phosphate transfer rapidly regenerates ATP",
+              "detail": "When demand rises, creatine kinase transfers phosphate to ADP, regenerating ATP and leaving creatine.",
+              "compartment": "Muscle cells",
+              "icon": "energy"
+            }
+          ]
+        }
+      ],
+      "caveat": "The buffer supports ATP availability during intense effort; it does not replace ongoing energy production or establish treatment benefits for cognitive disorders.",
+      "sourceIds": [
+        "creatine-position"
+      ]
+    }
+  }
+}

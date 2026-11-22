@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "Avvatar",
+  "product": "Whey Protein - Monk Fruit & Stevia",
+  "variants": [
+    {
+      "order": 170,
+      "offer": {
+        "id": 170,
+        "brand": "Avvatar",
+        "product": "Whey Protein - Monk Fruit & Stevia",
+        "type": "Whey — blend",
+        "flavour": "Cold Coffee",
+        "kg": 1,
+        "price": 4799,
+        "stock": "Listed; confirm stock",
+        "protein": 75.71428571428571,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://www.avvatarindia.com/product/whey-protein-monkfruit-stevia-cold-coffee-flavour-1-kg",
+        "nutritionUrl": "https://www.avvatarindia.com/product/whey-protein-monkfruit-stevia-cold-coffee-flavour-1-kg",
+        "basis": "26.5g protein / 35g scoop; exact product page",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-monkfruit-stevia-cold-coffee-flavour-1-kg",
+          "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-monkfruit-stevia-cold-coffee-flavour-1-kg",
+          "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+        }
+      }
+    },
+    {
+      "order": 171,
+      "offer": {
+        "id": 171,
+        "brand": "Avvatar",
+        "product": "Whey Protein - Monk Fruit & Stevia",
+        "type": "Whey — blend",
+        "flavour": "Strawberry Delight",
+        "kg": 1,
+        "price": 4799,
+        "stock": "Listed; confirm stock",
+        "protein": 80,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://www.avvatarindia.com/product/whey-protein-monkfruit-stevia-strawberry-flavour-1-kg",
+        "nutritionUrl": "https://www.avvatarindia.com/product/whey-protein-monkfruit-stevia-strawberry-flavour-1-kg",
+        "basis": "28g protein / 35g scoop; exact product page",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-monkfruit-stevia-strawberry-flavour-1-kg",
+          "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-monkfruit-stevia-strawberry-flavour-1-kg",
+          "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 2359,
+      "observation": {
+        "category": "protein",
+        "offerId": 170,
+        "date": "2026-10-25",
+        "price": 4559,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-monkfruit-stevia-cold-coffee-flavour-1-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-monkfruit-stevia-cold-coffee-flavour-1-kg",
+        "kind": "official-live",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null
+      }
+    },
+    {
+      "order": 2360,
+      "observation": {
+        "category": "protein",
+        "offerId": 171,
+        "date": "2026-10-25",
+        "price": 4559,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-monkfruit-stevia-strawberry-flavour-1-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-monkfruit-stevia-strawberry-flavour-1-kg",
+        "kind": "official-live",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null
+      }
+    },
+    {
+      "order": 4218,
+      "observation": {
+        "category": "protein",
+        "offerId": 170,
+        "date": "2026-11-19",
+        "price": 4799,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-monkfruit-stevia-cold-coffee-flavour-1-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-monkfruit-stevia-cold-coffee-flavour-1-kg",
+        "kind": "official-live",
+        "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+      }
+    },
+    {
+      "order": 4219,
+      "observation": {
+        "category": "protein",
+        "offerId": 171,
+        "date": "2026-11-19",
+        "price": 4799,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/whey-protein-monkfruit-stevia-strawberry-flavour-1-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/whey-protein-monkfruit-stevia-strawberry-flavour-1-kg",
+        "kind": "official-live",
+        "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+      }
+    }
+  ],
+  "refreshSources": []
+}

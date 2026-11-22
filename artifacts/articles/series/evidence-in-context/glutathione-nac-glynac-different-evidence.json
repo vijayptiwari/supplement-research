@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "order": 12,
+  "article": {
+    "id": "glutathione-nac-glynac-different-evidence",
+    "category": "glutathione",
+    "series": "evidence-in-context",
+    "title": "Glutathione, NAC and GlyNAC: the same pathway is not the same evidence",
+    "summary": "Direct glutathione and its precursors are often sold as interchangeable antioxidant strategies. Contrasting human trials show why the ingredient, baseline status and measured outcome all matter.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "One bottle supplies glutathione. Another offers NAC, while a third combines NAC with glycine and promises to help the body make its own. All three stories touch the same biochemical pathway, which makes comparison tempting. It also creates an easy route for marketing to borrow results from a different intervention. A trial of a precursor combination cannot validate a glutathione capsule, and a change in blood glutathione cannot establish slower ageing. The most revealing human studies include both encouraging and negative findings. Together they show how much the answer depends on who was studied and what the experiment actually tested.",
+    "sections": [
+      {
+        "id": "different-positions-in-pathway",
+        "title": "The ingredients enter the story at different points",
+        "body": "Glutathione is made from glutamate, cysteine and glycine and participates in cellular redox processes. NAC can supply cysteine after metabolism; GlyNAC combines that precursor with glycine. These facts explain the rationale for precursor research, but they do not guarantee that additional substrate will increase glutathione in every person. Synthesis is regulated, existing availability varies, and blood measurements do not describe every tissue. Direct oral glutathione raises another set of questions about digestion, exposure and the formulation tested. A pathway diagram is useful when it keeps these alternatives visible. It becomes misleading when it treats several distinct ingredients as one proven treatment or assumes that more circulating antioxidant must always produce better health.",
+        "sourceIds": [
+          "gsh-metabolism",
+          "synth-glynac-healthy-rct-2022"
+        ]
+      },
+      {
+        "id": "direct-gsh-experiments",
+        "title": "Even direct glutathione trials did not give one uniform answer",
+        "body": "A six-month placebo-controlled oral-glutathione study reported increases in several measured body glutathione pools. A shorter trial in healthy adults did not find a clear benefit on its oxidative-stress measures or glutathione status. These findings should be read with their differing duration, participants and endpoints in mind. They do not justify saying that oral glutathione never changes a biomarker, nor that every formulation delivers a meaningful clinical benefit. Neither comparison answers whether a precursor combination is superior. The useful question is narrower: does this preparation, in this population, change this measured outcome? That discipline prevents a favourable blood result from silently becoming a claim about preventing disease, increasing lifespan or improving how someone feels.",
+        "sourceIds": [
+          "gsh-stores",
+          "gsh-oxidative"
+        ]
+      },
+      {
+        "id": "positive-glynac-trial",
+        "title": "The encouraging GlyNAC trial was small and measured many things",
+        "body": "Kumar and colleagues randomized twenty-four older adults to GlyNAC or an alanine placebo for sixteen weeks. The investigators reported improvements in glutathione-related measures and several metabolic and physical-function outcomes in the GlyNAC group. The study is valuable because it moved beyond an absorption question. It is still a small experiment with twelve people per randomized arm and many outcomes, some exploratory. Such a result needs replication with clear prespecified outcomes and clinically meaningful follow-up. The younger comparison group was not a parallel randomized ageing-prevention trial. The paper therefore cannot establish that the combination reverses human ageing, prevents dementia or extends life, even when laboratory findings are described using the language of ageing biology.",
+        "sourceIds": [
+          "synth-glynac-older-rct-2023"
+        ]
+      },
+      {
+        "id": "larger-null-primary",
+        "title": "A larger healthy-older-adult trial missed its main endpoint",
+        "body": "Another randomized trial had 114 older volunteers complete two weeks of GlyNAC or placebo. It did not demonstrate a significant improvement in its primary whole-blood total-glutathione endpoint across the tested regimens. Exploratory analyses suggested a possible response in a subgroup with higher oxidative stress and lower baseline glutathione. A subgroup identified after looking at results is a hypothesis to test, not a validated consumer screening rule. This trial was shorter than the sixteen-week study and recruited a different population, so it does not cleanly refute every longer-term possibility. It does challenge the simple claim that healthy older people will predictably raise glutathione whenever the precursors are supplied. The authors disclosed commercial employment and product-related intellectual-property interests.",
+        "sourceIds": [
+          "synth-glynac-healthy-rct-2022"
+        ]
+      },
+      {
+        "id": "combination-attribution",
+        "title": "A combination trial cannot identify which component did the work",
+        "body": "GlyNAC supplies two ingredients together. Without separate glycine, NAC and combined-intervention arms, a favourable result cannot show whether one component, their combination, a downstream glutathione change or another effect explains it. Nor can the result establish that adding direct glutathione on top would produce an extra benefit. This is a practical stack problem: ingredients may share a rationale without having demonstrated additive effects. The same caution works in the other direction. A negative result for direct glutathione does not automatically invalidate a precursor strategy, because exposure and biology differ. Research becomes more useful when comparisons isolate the question, rather than grouping every product with an antioxidant story into a single effective category.",
+        "sourceIds": [
+          "synth-glynac-older-rct-2023",
+          "synth-glynac-healthy-rct-2022",
+          "gsh-oxidative",
+          "gsh-metabolism"
+        ]
+      },
+      {
+        "id": "blood-versus-benefit",
+        "title": "The outcome should matter at least as much as the molecule",
+        "body": "A glutathione concentration is a biological measure; mobility, illness, symptoms and survival are different outcomes. Even a well-measured change in blood may not describe what happens in the brain, liver or muscle. A small uncontrolled liposomal-glutathione pilot can provide an exposure signal, but it cannot establish superiority over conventional glutathione or a precursor combination. A commercial claim should therefore state which outcome was measured and which comparison was actually made. A product that cites an improved redox marker to promise a younger body has crossed several untested steps. Readers need those steps named, because the attractiveness of the word antioxidant often hides how little the study says about the outcome they were hoping to buy.",
+        "sourceIds": [
+          "well-gsh-lipo",
+          "gsh-stores",
+          "synth-glynac-healthy-rct-2022"
+        ]
+      },
+      {
+        "id": "food-and-stacking",
+        "title": "Ordinary nutrition still belongs in a precursor conversation",
+        "body": "The amino acids used to make glutathione are part of normal protein metabolism. That is a reason to consider the whole diet before assuming that an unfamiliar supplement is the missing ingredient. It does not mean a particular serving of food can reproduce an experimental GlyNAC intervention, or that a balanced diet proves a person has no medical problem. The practical point is to avoid a stack built by repeating the same premise on several labels. Direct glutathione, liposomal glutathione and precursors may all be marketed for the same goal, while trials have not established the benefit of combining them. Compare what is being added to the diet and what extra outcome, if any, has actually been demonstrated.",
+        "sourceIds": [
+          "food-gsh-protein-healthcanada",
+          "gsh-metabolism",
+          "synth-glynac-older-rct-2023",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "purchase-standard",
+        "title": "Use a higher standard for an anti-ageing promise",
+        "body": "For a product claiming to support healthy ageing, ask for more than a pathway and a change from baseline. Look for a relevant randomized comparison, adequate numbers, a prespecified outcome that matters, and independent replication. A shorter null trial and a longer small positive trial can coexist while the central clinical question remains open. Neither supplies an individual regimen for a healthy reader or treatment for an unexplained symptom. Quality information and transparent ingredient amounts help identify the product; they do not convert uncertain efficacy into certainty. The sensible value judgement is that precursor research is interesting, while broad anti-ageing claims and expensive multi-product antioxidant stacks run ahead of the demonstrated human outcomes.",
+        "sourceIds": [
+          "synth-glynac-older-rct-2023",
+          "synth-glynac-healthy-rct-2022",
+          "gsh-stores",
+          "supplement-quality-ods"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "gsh-metabolism",
+      "gsh-stores",
+      "gsh-oxidative",
+      "well-gsh-lipo",
+      "synth-glynac-older-rct-2023",
+      "synth-glynac-healthy-rct-2022",
+      "food-gsh-protein-healthcanada",
+      "supplement-quality-ods"
+    ],
+    "evidenceNotes": [
+      {
+        "finding": "The small longer GlyNAC study reported favourable biochemical and functional changes.",
+        "sourceIds": [
+          "synth-glynac-older-rct-2023"
+        ],
+        "design": "Sixteen-week randomized placebo-controlled study.",
+        "population": "Twenty-four older adults, twelve per randomized arm; separate younger comparison group.",
+        "outcome": "Glutathione-related, metabolic and physical-function measures.",
+        "limits": "Many outcomes and small groups; not a lifespan or disease-prevention trial and cannot isolate individual ingredients."
+      },
+      {
+        "finding": "The larger short trial did not show a significant effect on its primary total-glutathione endpoint.",
+        "sourceIds": [
+          "synth-glynac-healthy-rct-2022"
+        ],
+        "design": "Randomized placebo-controlled dose-ranging trial over two weeks.",
+        "population": "114 healthy older completers.",
+        "outcome": "Whole-blood total glutathione; exploratory oxidative-stress subgroups.",
+        "limits": "Short duration; post-hoc subgroup signal requires confirmation; commercial employment and intellectual-property interests disclosed."
+      }
+    ]
+  }
+}

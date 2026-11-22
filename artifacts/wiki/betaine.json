@@ -1,0 +1,304 @@
+{
+  "schemaVersion": 1,
+  "order": 21,
+  "category": {
+    "id": "betaine",
+    "label": "Betaine",
+    "file": "betaine.json",
+    "page": "betaine.html",
+    "measurement": "units",
+    "supportsPowder": true,
+    "mainNutrient": "betaineMg",
+    "referenceQuantity": 1000,
+    "referenceUnit": "mg",
+    "compoundLabel": "labelled betaine anhydrous",
+    "nutrientFields": [
+      {
+        "key": "betaineMg",
+        "label": "Betaine anhydrous / TMG",
+        "unit": "mg",
+        "table": true
+      },
+      {
+        "key": "betaineHclMg",
+        "label": "Betaine hydrochloride compound",
+        "unit": "mg",
+        "table": true,
+        "costQuantity": 1000,
+        "costTable": true
+      },
+      {
+        "key": "vitaminB12Mcg",
+        "label": "Vitamin B12 co-ingredient",
+        "unit": "µg",
+        "table": false
+      }
+    ],
+    "comparisonNote": "Betaine anhydrous (trimethylglycine / TMG) and betaine hydrochloride (HCl) are distinct forms with different research and marketed uses. HCl compound mass is not converted to anhydrous betaine or treated as a sports-performance equivalent. Compare matching forms; added digestive ingredients remain separate.",
+    "searchAliases": [
+      "betaine"
+    ]
+  },
+  "catalog": {
+    "checked": "2026-11-19",
+    "category": "betaine"
+  },
+  "guide": {
+    "id": "betaine-guide",
+    "category": "betaine",
+    "title": "Betaine: TMG workout research and HCl digestive claims differ",
+    "summary": "Betaine anhydrous, also called trimethylglycine or TMG, is the main form studied for exercise. Betaine hydrochloride addresses a different product claim.",
+    "evidence": "A 2024 synthesis found a pooled strength benefit, especially in lower-body measures, with several other outcomes unchanged. A 2025 endurance review found sparse studies at high risk of bias. This is limited, outcome-specific evidence rather than a universal performance claim.",
+    "limitations": "Training status, study design and the tested outcomes vary. Anhydrous betaine findings do not establish digestive benefits for betaine HCl. A change in stomach pH from a small experiment does not prove relief of digestive symptoms or diagnose low stomach acid.",
+    "catalogReading": "Identify anhydrous betaine/TMG, betaine HCl or a blend. Keep explicitly labelled active and full compound amounts distinct; do not substitute equal grams of one form for the other or infer an anhydrous equivalent from compound weight. Check other pre-workout ingredients.",
+    "safety": "Digestive discomfort can occur. People using betaine for an inherited metabolic condition require specialist monitoring. Do not self-diagnose low stomach acid or change acid-suppressing medicines based on an HCl product claim; discuss symptoms and medicine interactions with a clinician.",
+    "sourceIds": [
+      "exercise",
+      "betaine-meta",
+      "betaine-endurance",
+      "betaine-hcl-trial",
+      "betaine-medical",
+      "food-performance-betaine",
+      "food-usda-sr28",
+      "supplement-quality-ods",
+      "betaine-bhmt"
+    ],
+    "reviewed": "2026-11-18",
+    "author": "Supplement Research editorial synthesis",
+    "bodySteps": [
+      "Betaine is obtained from food and normal metabolism, then absorbed and used in several pathways.",
+      "It can donate methyl groups in the conversion of homocysteine to methionine and participates in regulation of cellular water balance.",
+      "Betaine HCl can lower gastric pH under specific experimental conditions. That acidifying property is a separate question from the exercise effects studied with anhydrous betaine."
+    ],
+    "bodySources": [
+      "exercise",
+      "betaine-medical",
+      "betaine-hcl-trial"
+    ],
+    "treatment": "Specialist care can use betaine anhydrous as part of treatment for homocystinuria, a specific inherited disorder. That indication does not make a workout supplement a treatment for digestive problems or justify replacing a prescribed product.",
+    "whoMayBenefit": "An adult with a defined performance goal can review the modest and inconsistent exercise findings. A diagnosed metabolic condition needs a clinician-led plan; ordinary training or digestive symptoms alone do not establish a need for betaine.",
+    "routineUse": "No universal workout requirement for TMG or betaine HCl is established. Review formulation, reason for use and any amount already present in a pre-workout before considering another product.",
+    "sectionSources": [
+      "exercise",
+      "betaine-meta",
+      "betaine-endurance",
+      "betaine-hcl-trial",
+      "betaine-medical"
+    ],
+    "buyingGuide": {
+      "whoCanConsider": [
+        "Adult resistance-trained people with a specific strength objective can consider the limited findings for anhydrous betaine/TMG.",
+        "Adults comparing TMG with betaine HCl can first identify the form and intended purpose; exercise and digestive claims use different evidence."
+      ],
+      "whoShouldReview": [
+        "People prescribed betaine for a metabolic disorder require specialist monitoring and should not substitute a workout product.",
+        "Persistent digestive symptoms or use of acid-suppressing medicines warrant clinical review rather than self-diagnosis of low stomach acid.",
+        "People with medical conditions, regular medicines, pregnancy, breastfeeding or under-18 use need individual guidance."
+      ],
+      "foodSummary": "Spinach, wheat products and beets provide naturally occurring betaine/TMG. Food betaine is not a betaine-hydrochloride digestive product or a prescription treatment.",
+      "foods": [
+        {
+          "name": "Beets, raw",
+          "relationship": "direct",
+          "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": "USDA NDB 11080",
+          "amounts": [
+            {
+              "nutrient": "Betaine",
+              "min": 128.7,
+              "max": null,
+              "unit": "mg",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "100 g edible food"
+              },
+              "sourceIds": [
+                "food-usda-sr28"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Spinach, raw",
+          "relationship": "direct",
+          "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": "USDA NDB 11457",
+          "amounts": [
+            {
+              "nutrient": "Betaine",
+              "min": 102.6,
+              "max": null,
+              "unit": "mg",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "100 g edible food"
+              },
+              "sourceIds": [
+                "food-usda-sr28"
+              ]
+            }
+          ]
+        }
+      ],
+      "foodSourceIds": [
+        "food-performance-betaine",
+        "betaine-hcl-trial",
+        "food-usda-sr28"
+      ],
+      "value": {
+        "routineScore": 2,
+        "targetedScore": 3,
+        "targetedUse": "A healthy adult resistance-training programme with a specific lower-body strength objective, evaluating anhydrous betaine/TMG as an optional adjunct.",
+        "reason": "Some strength outcomes improve in pooled studies, while several others do not, and endurance evidence remains weak. This is situational value for a particular TMG context, not a broad performance or digestive recommendation.",
+        "worthWhen": [
+          "The exact anhydrous betaine/TMG form and serving are disclosed and the intended outcome fits the evidence.",
+          "The buyer accepts modest, uncertain benefit and has checked whether a pre-workout already includes it."
+        ],
+        "skipWhen": [
+          "Betaine HCl is being bought using TMG workout claims or nonspecific low-stomach-acid symptoms.",
+          "The expectation is a universal strength, endurance or fat-loss effect."
+        ],
+        "evidence": "mixed",
+        "scope": "The targeted rating concerns anhydrous betaine/TMG for a defined adult training outcome. It does not score betaine HCl, prescribe homocystinuria care or equate compound weights.",
+        "sourceIds": [
+          "exercise",
+          "betaine-meta",
+          "betaine-endurance",
+          "betaine-hcl-trial",
+          "betaine-medical"
+        ]
+      },
+      "reviewed": "2026-11-18",
+      "practices": {
+        "dos": [
+          {
+            "title": "Identify TMG versus betaine HCl",
+            "detail": "Check the exact chemical form and verified serving before comparing a product with the relevant evidence."
+          },
+          {
+            "title": "Check existing formula overlap",
+            "detail": "Look for anhydrous betaine or TMG already present in your pre-workout before adding another product."
+          }
+        ],
+        "donts": [
+          {
+            "title": "Don't transfer claims between forms",
+            "detail": "TMG workout findings do not establish benefits for betaine HCl or equivalent active content from equal compound weights."
+          },
+          {
+            "title": "Don't self-diagnose low stomach acid",
+            "detail": "An HCl product claim does not establish the cause of digestive symptoms or justify changing acid-suppressing medicines."
+          }
+        ],
+        "sourceIds": [
+          "exercise",
+          "betaine-meta",
+          "betaine-endurance",
+          "betaine-hcl-trial",
+          "betaine-medical"
+        ]
+      }
+    },
+    "intakeGuide": {
+      "kind": "no-established-target",
+      "summary": "No established dietary reference intake or universal sports dose. TMG and betaine HCl have different uses.",
+      "targets": [],
+      "limits": [],
+      "notes": [
+        "No automatic dose increase is assigned for training frequency or experience."
+      ],
+      "sourceIds": [
+        "exercise",
+        "betaine-meta",
+        "betaine-endurance",
+        "betaine-hcl-trial",
+        "betaine-medical"
+      ],
+      "reviewed": "2026-11-17"
+    },
+    "medicalGuide": {
+      "summary": "Condition-specific evidence, separate from sports benefits and purchase priority.",
+      "conditions": [
+        {
+          "condition": "Homocystinuria",
+          "level": "established",
+          "findings": "Prescription betaine anhydrous is used with specialist care and other treatments. This indication does not apply to betaine HCl or establish equivalence of a workout product.",
+          "limits": "Specialist care can use betaine anhydrous as part of treatment for homocystinuria, a specific inherited disorder. That indication does not make a workout supplement a treatment for digestive problems or justify replacing a prescribed product.",
+          "sourceIds": [
+            "exercise",
+            "betaine-meta",
+            "betaine-endurance",
+            "betaine-hcl-trial",
+            "betaine-medical"
+          ]
+        }
+      ],
+      "reviewed": "2026-11-17"
+    },
+    "pathway": {
+      "title": "Betaine TMG and betaine HCl have different roles",
+      "summary": "Anhydrous betaine, also called TMG, can donate a methyl group in homocysteine metabolism. Betaine hydrochloride is a different formulation studied for temporary stomach acidification.",
+      "tracks": [
+        {
+          "label": "TMG in one-carbon metabolism",
+          "steps": [
+            {
+              "label": "Cells receive available anhydrous betaine",
+              "detail": "Food, body metabolism and absorbed TMG contribute to the betaine supply.",
+              "compartment": "Liver",
+              "icon": "liver"
+            },
+            {
+              "label": "Betaine donates a methyl group",
+              "detail": "Betaine-homocysteine methyltransferase, present in liver and kidney cells, transfers a methyl group from betaine to homocysteine.",
+              "compartment": "Liver and kidney",
+              "icon": "molecule"
+            },
+            {
+              "label": "Homocysteine is converted into methionine",
+              "detail": "This reaction produces methionine and dimethylglycine. Its normal biochemical role does not establish an exercise benefit from extra TMG.",
+              "compartment": "Liver and kidney",
+              "icon": "signal"
+            }
+          ]
+        },
+        {
+          "label": "HCl formulation: a separate gastric effect",
+          "steps": [
+            {
+              "label": "Betaine hydrochloride reaches the stomach",
+              "detail": "This acid-containing formulation should not be treated as equivalent to the anhydrous TMG used in exercise research.",
+              "compartment": "Stomach",
+              "icon": "digest"
+            },
+            {
+              "label": "The formulation increases gastric acidity",
+              "detail": "A small experiment gave betaine HCl after medication had suppressed stomach acid in healthy volunteers.",
+              "compartment": "Stomach",
+              "icon": "molecule"
+            },
+            {
+              "label": "Gastric pH falls temporarily",
+              "detail": "The trial measured a short-lived pH reduction, not lasting improvements in digestion, nutrient status or exercise performance.",
+              "compartment": "Stomach",
+              "icon": "signal"
+            }
+          ]
+        }
+      ],
+      "caveat": "Specialist betaine treatment for homocystinuria is a separate medical context. TMG workout claims and betaine HCl digestive claims require their own human outcome evidence.",
+      "sourceIds": [
+        "betaine-medical",
+        "betaine-bhmt",
+        "betaine-hcl-trial",
+        "exercise"
+      ]
+    }
+  }
+}

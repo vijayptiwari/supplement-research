@@ -1,0 +1,214 @@
+{
+  "schemaVersion": 1,
+  "category": "bcaa",
+  "brand": "NAKPRO",
+  "product": "BCAA 6000 with Creatine",
+  "variants": [
+    {
+      "order": 6,
+      "offer": {
+        "brand": "NAKPRO",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-11-19",
+        "flavour": "Blueberry",
+        "product": "BCAA 6000 with Creatine",
+        "form": "Powder",
+        "type": "BCAA 2:1:1 blend",
+        "subclass": "BCAA with creatine monohydrate",
+        "grams": 200,
+        "servingGrams": 10,
+        "bcaaMg": 6000,
+        "leucineMg": 3000,
+        "isoleucineMg": 1500,
+        "valineMg": 1500,
+        "creatineMg": 1500,
+        "energyPerServing": 6.04,
+        "declaredNutrients": [
+          "bcaaMg",
+          "leucineMg",
+          "isoleucineMg",
+          "valineMg",
+          "creatineMg"
+        ],
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0237/4497/0832/files/blueberry_-_02.png?v=1746927095",
+        "basis": "Official Blueberry pouch label states two heaping scoops (10 g), 6000 mg BCAA split as 3000 mg leucine, 1500 mg isoleucine and 1500 mg valine, plus 1500 mg creatine and 6.04 kcal. Exact chosen pack weight comes from the selected 200 g or 400 g variant.",
+        "notes": "Sold out at the observed price. The published Blueberry pouch profile is used across the same-flavour pouch sizes; no separate batch test is claimed. BCAA is the sum of three components, not an additional amino-acid quantity. Added creatine contributes to stack overlap.",
+        "packCount": null,
+        "servingUnits": null,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0237/4497/0832/files/blueberry_-_02.png?v=1746927095"
+        ],
+        "id": "bcaa-39632132472912",
+        "price": 449,
+        "currency": "INR",
+        "stock": "Sold out",
+        "url": "https://nakpro.com/products/nakpro-bcaa-6000-amino-acids?variant=39632132472912"
+      }
+    },
+    {
+      "order": 7,
+      "offer": {
+        "brand": "NAKPRO",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-11-19",
+        "flavour": "Blueberry",
+        "product": "BCAA 6000 with Creatine",
+        "form": "Powder",
+        "type": "BCAA 2:1:1 blend",
+        "subclass": "BCAA with creatine monohydrate",
+        "grams": 400,
+        "servingGrams": 10,
+        "bcaaMg": 6000,
+        "leucineMg": 3000,
+        "isoleucineMg": 1500,
+        "valineMg": 1500,
+        "creatineMg": 1500,
+        "energyPerServing": 6.04,
+        "declaredNutrients": [
+          "bcaaMg",
+          "leucineMg",
+          "isoleucineMg",
+          "valineMg",
+          "creatineMg"
+        ],
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0237/4497/0832/files/blueberry_-_02.png?v=1746927095",
+        "basis": "Official Blueberry pouch label states two heaping scoops (10 g), 6000 mg BCAA split as 3000 mg leucine, 1500 mg isoleucine and 1500 mg valine, plus 1500 mg creatine and 6.04 kcal. Exact chosen pack weight comes from the selected 200 g or 400 g variant.",
+        "notes": "Sold out at the observed price. The published Blueberry pouch profile is used across the same-flavour pouch sizes; no separate batch test is claimed. BCAA is the sum of three components, not an additional amino-acid quantity. Added creatine contributes to stack overlap.",
+        "packCount": null,
+        "servingUnits": null,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0237/4497/0832/files/blueberry_-_02.png?v=1746927095"
+        ],
+        "id": "bcaa-39632132603984",
+        "price": 808,
+        "currency": "INR",
+        "stock": "Sold out",
+        "url": "https://nakpro.com/products/nakpro-bcaa-6000-amino-acids?variant=39632132603984"
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 4042,
+      "observation": {
+        "category": "bcaa",
+        "offerId": "bcaa-39632132472912",
+        "date": "2026-11-19",
+        "price": 449,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-bcaa-6000-amino-acids?variant=39632132472912",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "39632132472912",
+        "matchBasis": "Official public Shopify feed fetched 2026-11-19; exact variant ID and unconditional price matched. INR currency confirmed in the live official product HTML. Net pack, serving and ingredient basis use the specific referenced manufacturer label."
+      }
+    },
+    {
+      "order": 4043,
+      "observation": {
+        "category": "bcaa",
+        "offerId": "bcaa-39632132603984",
+        "date": "2026-11-19",
+        "price": 808,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-bcaa-6000-amino-acids?variant=39632132603984",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "39632132603984",
+        "matchBasis": "Official public Shopify feed fetched 2026-11-19; exact variant ID and unconditional price matched. INR currency confirmed in the live official product HTML. Net pack, serving and ingredient basis use the specific referenced manufacturer label."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 177,
+      "profile": {
+        "category": "bcaa",
+        "brand": "NAKPRO",
+        "base": "https://nakpro.com",
+        "handle": "nakpro-bcaa-6000-amino-acids",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-11-19",
+        "variantIds": [
+          "39632132472912"
+        ],
+        "flavour": "Blueberry",
+        "product": "BCAA 6000 with Creatine",
+        "form": "Powder",
+        "type": "BCAA 2:1:1 blend",
+        "subclass": "BCAA with creatine monohydrate",
+        "grams": 200,
+        "servingGrams": 10,
+        "bcaaMg": 6000,
+        "leucineMg": 3000,
+        "isoleucineMg": 1500,
+        "valineMg": 1500,
+        "creatineMg": 1500,
+        "energyPerServing": 6.04,
+        "declaredNutrients": [
+          "bcaaMg",
+          "leucineMg",
+          "isoleucineMg",
+          "valineMg",
+          "creatineMg"
+        ],
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0237/4497/0832/files/blueberry_-_02.png?v=1746927095",
+        "basis": "Official Blueberry pouch label states two heaping scoops (10 g), 6000 mg BCAA split as 3000 mg leucine, 1500 mg isoleucine and 1500 mg valine, plus 1500 mg creatine and 6.04 kcal. Exact chosen pack weight comes from the selected 200 g or 400 g variant.",
+        "notes": "Sold out at the observed price. The published Blueberry pouch profile is used across the same-flavour pouch sizes; no separate batch test is claimed. BCAA is the sum of three components, not an additional amino-acid quantity. Added creatine contributes to stack overlap.",
+        "packCount": null,
+        "servingUnits": null,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0237/4497/0832/files/blueberry_-_02.png?v=1746927095"
+        ],
+        "id": "bcaa-39632132472912"
+      }
+    },
+    {
+      "order": 178,
+      "profile": {
+        "category": "bcaa",
+        "brand": "NAKPRO",
+        "base": "https://nakpro.com",
+        "handle": "nakpro-bcaa-6000-amino-acids",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-11-19",
+        "variantIds": [
+          "39632132603984"
+        ],
+        "flavour": "Blueberry",
+        "product": "BCAA 6000 with Creatine",
+        "form": "Powder",
+        "type": "BCAA 2:1:1 blend",
+        "subclass": "BCAA with creatine monohydrate",
+        "grams": 400,
+        "servingGrams": 10,
+        "bcaaMg": 6000,
+        "leucineMg": 3000,
+        "isoleucineMg": 1500,
+        "valineMg": 1500,
+        "creatineMg": 1500,
+        "energyPerServing": 6.04,
+        "declaredNutrients": [
+          "bcaaMg",
+          "leucineMg",
+          "isoleucineMg",
+          "valineMg",
+          "creatineMg"
+        ],
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0237/4497/0832/files/blueberry_-_02.png?v=1746927095",
+        "basis": "Official Blueberry pouch label states two heaping scoops (10 g), 6000 mg BCAA split as 3000 mg leucine, 1500 mg isoleucine and 1500 mg valine, plus 1500 mg creatine and 6.04 kcal. Exact chosen pack weight comes from the selected 200 g or 400 g variant.",
+        "notes": "Sold out at the observed price. The published Blueberry pouch profile is used across the same-flavour pouch sizes; no separate batch test is claimed. BCAA is the sum of three components, not an additional amino-acid quantity. Added creatine contributes to stack overlap.",
+        "packCount": null,
+        "servingUnits": null,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0237/4497/0832/files/blueberry_-_02.png?v=1746927095"
+        ],
+        "id": "bcaa-39632132603984"
+      }
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "order": 3,
+  "article": {
+    "id": "biotin-status-is-not-hair-growth-score",
+    "category": "biotin",
+    "series": "evidence-in-context",
+    "title": "A biotin number is not a hair-growth score",
+    "summary": "Research on experimentally induced deficiency explains what biotin biomarkers can reveal—and why supplement exposure or a beauty photograph cannot answer the same question.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "A higher nutrient number sounds reassuring. For biotin, that intuition can mislead in several directions. A test can show that someone recently consumed a supplement without showing that they previously needed it. A metabolic marker can indicate an enzyme is struggling without predicting how much hair will grow. A before-and-after photograph can look persuasive without identifying which ingredient caused the change. Biotin is essential, but those three observations require three different kinds of evidence. Looking at how scientists actually study biotin deficiency offers a useful way to read beauty claims, especially when a product lists several nutrients and then gives biotin all the credit.",
+    "sections": [
+      {
+        "id": "role",
+        "title": "What biotin does is more specific than a beauty label",
+        "body": "Biotin helps a group of enzymes involved in processing carbohydrates, fats and amino acids. Researchers can examine whether those enzymes are functioning normally, rather than relying only on how much biotin is present in a sample. This is the difference between measuring a component and checking a process that depends on it. The mechanism explains why genuine deficiency matters. It does not show that providing more biotin after needs are met accelerates every process or improves hair. A reliable claim must connect the intervention to the outcome being promised, in people who resemble the intended buyer. The nutrient's essential role is the beginning of that argument, not its completion.",
+        "sourceIds": [
+          "biotin-overview",
+          "nutrients-biotin-markers-2013"
+        ]
+      },
+      {
+        "id": "depletion",
+        "title": "How a deficiency experiment establishes a signal",
+        "body": "In an older controlled study, eleven healthy adults followed a specially designed diet that experimentally reduced biotin availability. Researchers tracked urinary biotin and a metabolic by-product related to a biotin-dependent enzyme; the markers changed during depletion and recovered with repletion. The experiment is valuable because intake was deliberately manipulated and participants were followed over time. It is not a model for self-testing, and its diet should not be copied. More importantly, it does not mean that the same marker predicts a cosmetic benefit in an ordinary population. Demonstrating that a process changes during induced deficiency answers a different question from whether extra biotin treats routine hair thinning.",
+        "sourceIds": [
+          "nutrients-biotin-depletion-2002"
+        ]
+      },
+      {
+        "id": "markers",
+        "title": "A later experiment shows why no single marker tells the whole story",
+        "body": "A subsequent study examined twenty candidate markers across deficient, sufficient and supplemented states in sixteen healthy adults. Some measures of biotin-dependent enzymes distinguished deficient from sufficient states. Urinary biotin was useful for identifying supplementation, but did not reliably distinguish depletion from sufficiency in that experiment. Another metabolic marker missed some depleted participants. These findings are a warning against interpreting a higher reading as a universal better-health score. The authors were studying research tools under controlled conditions. The work does not provide a home diagnostic threshold, validate every commercial nutrient panel, or establish a laboratory target that guarantees stronger nails or denser hair.",
+        "sourceIds": [
+          "nutrients-biotin-markers-2013"
+        ]
+      },
+      {
+        "id": "exposure",
+        "title": "Taking something and needing it are different propositions",
+        "body": "Suppose a company's study shows that its capsule increases the amount of biotin measured after use. That may establish exposure, and it may help confirm that the product delivered biotin. It does not, by itself, establish a prior deficiency or a worthwhile effect on hair. The same distinction appears with many supplements: a raised nutrient concentration is easier to demonstrate than a patient-important improvement. Ask whether the trial enrolled people with confirmed deficiency, people with a specific diagnosis, or unselected customers with a cosmetic concern. Then check whether the outcome was hair density, a validated symptom measure or simply a biochemical result. Those choices determine what the claim can reasonably mean.",
+        "sourceIds": [
+          "nutrients-biotin-markers-2013",
+          "biotin-overview"
+        ]
+      },
+      {
+        "id": "combination",
+        "title": "Why a beauty formula cannot give all the credit to biotin",
+        "body": "A multi-ingredient product creates a second attribution problem. Even a properly controlled trial of the whole formula would not reveal which component contributed unless the design compared those components appropriately. An uncontrolled before-and-after story is weaker still, because time, other care and changes in health or diet can accompany the product. This is an evidence-reading principle, rather than proof that every beauty formula is ineffective. It tells us how to phrase the conclusion: evidence about one mixture belongs to that mixture under its trial conditions. It should not be transferred automatically to isolated biotin, a different formula or a larger amount.",
+        "sourceIds": [
+          "supplement-quality-ods",
+          "biotin-overview"
+        ]
+      },
+      {
+        "id": "clinical-deficiency",
+        "title": "Diagnosed deficiency and inherited disorders deserve their own category",
+        "body": "Biotinidase deficiency is an inherited disorder of biotin recycling with specialist management. It offers a clear example of an important role for biotin without creating a general beauty recommendation. The diagnosis, mechanism and treatment setting differ from a shopper noticing more hair in the shower. Borrowing a dramatic response from a defined metabolic disease to sell routine supplementation removes the crucial reason the treatment works. It is equally wrong to dismiss medically necessary biotin because cosmetic evidence is limited. Keep the indication attached to the evidence: a nutrient can be essential treatment in one circumstance while offering uncertain additional value in another.",
+        "sourceIds": [
+          "biotin-metabolic",
+          "biotin-overview"
+        ]
+      },
+      {
+        "id": "hair-context",
+        "title": "A hair concern deserves an explanation before a shopping list",
+        "body": "Hair loss has several possible causes, including inherited patterns, illness, stress and some medical conditions or treatments. NHS advice encourages assessment when the cause is unclear or the change is concerning. A supplement-led approach reverses the useful order by selecting the ingredient before understanding the problem. It can also make progress hard to interpret if several products and treatments begin together. A clinical review is not a promise that every cause is reversible; it is a way to choose an appropriate response rather than assuming a nutritional explanation. A beauty label cannot identify the cause of an individual person's hair loss.",
+        "sourceIds": [
+          "nutrients-hair-loss-nhs"
+        ]
+      },
+      {
+        "id": "purchase",
+        "title": "What evidence would make the purchase more convincing?",
+        "body": "Look for a relevant population, a suitable comparison group, a defined cosmetic outcome and enough follow-up to interpret change. Check whether the study tested the exact formula or only one ingredient, and whether a laboratory result has been substituted for the promised benefit. If you take biotin, disclose it before blood tests because it can interfere with some laboratory assays; the laboratory or clinician should decide any preparation instructions. This disclosure issue is separate from nutrient status. The strongest reason to buy biotin is an appropriate identified need. A large number on the bottle, a higher urinary value or a dramatic product photograph cannot supply that reason on its own.",
+        "sourceIds": [
+          "biotin-lab",
+          "nutrients-biotin-markers-2013",
+          "supplement-quality-ods"
+        ]
+      }
+    ],
+    "evidenceNotes": [
+      {
+        "finding": "Experimentally reducing biotin availability changed urinary and metabolic markers, which recovered with repletion.",
+        "sourceIds": [
+          "nutrients-biotin-depletion-2002"
+        ],
+        "design": "Controlled depletion-and-repletion feeding experiment.",
+        "population": "Eleven healthy adults.",
+        "outcome": "Urinary biotin and a biotin-dependent metabolic by-product.",
+        "limits": "Artificial depletion; does not establish cosmetic benefit in unselected consumers."
+      },
+      {
+        "finding": "Candidate markers differed in their ability to distinguish deficiency, sufficiency and supplementation.",
+        "sourceIds": [
+          "nutrients-biotin-markers-2013"
+        ],
+        "design": "Controlled feeding assessment of twenty candidate status markers.",
+        "population": "Sixteen healthy adults.",
+        "outcome": "Biochemical classification across nutritional states.",
+        "limits": "Research-marker study; no consumer diagnostic cutoff or hair-growth endpoint."
+      }
+    ],
+    "sourceIds": [
+      "biotin-overview",
+      "nutrients-biotin-markers-2013",
+      "nutrients-biotin-depletion-2002",
+      "supplement-quality-ods",
+      "biotin-metabolic",
+      "nutrients-hair-loss-nhs",
+      "biotin-lab"
+    ]
+  }
+}

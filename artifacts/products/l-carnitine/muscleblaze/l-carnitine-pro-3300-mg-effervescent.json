@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "category": "l-carnitine",
+  "brand": "MuscleBlaze",
+  "product": "L-Carnitine PRO 3300 mg Effervescent",
+  "variants": [
+    {
+      "order": 12,
+      "offer": {
+        "id": "l-carnitine-hk-291673",
+        "brand": "MuscleBlaze",
+        "product": "L-Carnitine PRO 3300 mg Effervescent",
+        "form": "Tablet",
+        "type": "L-carnitine L-tartrate",
+        "subclass": "Effervescent compound + garcinia",
+        "flavour": "Tangy Orange",
+        "packaging": "Single retail pack",
+        "price": 559,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://www.muscleblaze.com/sv/muscleblaze-l-carnitine-pro-3300mg-triple-strength-formula-effervescent/SP-143463?navKey=VRNT-291673",
+        "nutritionUrl": "https://img4.hkrtcdn.com/46071/prd_4607083-MuscleBlaze-LCarnitine-PRO-3300mg-Triple-Strength-Formula-Effervescent-10-tablets-Tangy-Orange_o.jpg",
+        "labelSources": [
+          "https://www.muscleblaze.com/sv/muscleblaze-l-carnitine-pro-3300mg-triple-strength-formula-effervescent/SP-143463?navKey=VRNT-291673",
+          "https://img4.hkrtcdn.com/46071/prd_4607083-MuscleBlaze-LCarnitine-PRO-3300mg-Triple-Strength-Formula-Effervescent-10-tablets-Tangy-Orange_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "291673",
+        "sourceProductId": "143463",
+        "source": "Not specified",
+        "notes": "3,300 mg is tartrate compound mass, not established free carnitine. Garcinia 350 mg is a separate co-ingredient; this is a combination product.",
+        "basis": "Exact official brand selected variant. The linked current product gallery nutrition panel was individually reviewed; amounts are per stated label serving. Product claims are manufacturer declarations, not independent assay results.",
+        "energyPerServing": 19.65,
+        "carnitineCompoundMg": 3300,
+        "carnitineMg": null,
+        "packCount": 10,
+        "servingUnits": 1,
+        "additionalIngredients": [
+          {
+            "name": "Garcinia cambogia fruit extract",
+            "amount": 350,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          }
+        ],
+        "declaredNutrients": [
+          "carnitineCompoundMg",
+          "carnitineMg"
+        ]
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5170,
+      "observation": {
+        "category": "l-carnitine",
+        "offerId": "l-carnitine-hk-291673",
+        "date": "2026-11-19",
+        "price": 559,
+        "currency": "INR",
+        "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-l-carnitine-pro-3300mg-triple-strength-formula-effervescent/SP-143463?navKey=VRNT-291673",
+        "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-l-carnitine-pro-3300mg-triple-strength-formula-effervescent/SP-143463?navKey=VRNT-291673",
+        "kind": "official-live",
+        "variantId": "291673",
+        "matchBasis": "Official selected numeric variant 291673 and SP-143463 matched to exact flavour/pack attributes; unconditional INR offer_pr, is_published=true and variant oos checked; no coupon or loyalty prices."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 280,
+      "profile": {
+        "id": "l-carnitine-hk-291673",
+        "brand": "MuscleBlaze",
+        "product": "L-Carnitine PRO 3300 mg Effervescent",
+        "form": "Tablet",
+        "type": "L-carnitine L-tartrate",
+        "subclass": "Effervescent compound + garcinia",
+        "flavour": "Tangy Orange",
+        "packaging": "Single retail pack",
+        "currency": "INR",
+        "nutritionUrl": "https://img4.hkrtcdn.com/46071/prd_4607083-MuscleBlaze-LCarnitine-PRO-3300mg-Triple-Strength-Formula-Effervescent-10-tablets-Tangy-Orange_o.jpg",
+        "labelSources": [
+          "https://www.muscleblaze.com/sv/muscleblaze-l-carnitine-pro-3300mg-triple-strength-formula-effervescent/SP-143463?navKey=VRNT-291673",
+          "https://img4.hkrtcdn.com/46071/prd_4607083-MuscleBlaze-LCarnitine-PRO-3300mg-Triple-Strength-Formula-Effervescent-10-tablets-Tangy-Orange_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "source": "Not specified",
+        "notes": "3,300 mg is tartrate compound mass, not established free carnitine. Garcinia 350 mg is a separate co-ingredient; this is a combination product.",
+        "basis": "Exact official brand selected variant. The linked current product gallery nutrition panel was individually reviewed; amounts are per stated label serving. Product claims are manufacturer declarations, not independent assay results.",
+        "energyPerServing": 19.65,
+        "carnitineCompoundMg": 3300,
+        "carnitineMg": null,
+        "packCount": 10,
+        "servingUnits": 1,
+        "additionalIngredients": [
+          {
+            "name": "Garcinia cambogia fruit extract",
+            "amount": 350,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          }
+        ],
+        "declaredNutrients": [
+          "carnitineCompoundMg",
+          "carnitineMg"
+        ],
+        "category": "l-carnitine",
+        "kind": "hk-product",
+        "base": "https://www.muscleblaze.com",
+        "productUrl": "https://www.muscleblaze.com/sv/muscleblaze-l-carnitine-pro-3300mg-triple-strength-formula-effervescent/SP-143463?navKey=VRNT-291673",
+        "variantUrl": "https://www.muscleblaze.com/sv/muscleblaze-l-carnitine-pro-3300mg-triple-strength-formula-effervescent/SP-143463?navKey=VRNT-291673",
+        "variantId": "291673",
+        "productId": "143463",
+        "sourceBrand": "MuscleBlaze",
+        "variantAttributes": {
+          "gen-pro-siz": "10 tablet(s)",
+          "gen-sn-flv": "Tangy Orange"
+        },
+        "cacheKey": "hk-performance-291673"
+      }
+    }
+  ]
+}

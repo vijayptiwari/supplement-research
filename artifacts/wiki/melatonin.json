@@ -1,0 +1,273 @@
+{
+  "schemaVersion": 1,
+  "order": 8,
+  "category": {
+    "id": "melatonin",
+    "label": "Melatonin",
+    "file": "melatonin.json",
+    "page": "melatonin.html",
+    "measurement": "units",
+    "mainNutrient": "melatoninMg",
+    "referenceQuantity": 1,
+    "referenceUnit": "mg",
+    "compoundLabel": "labelled melatonin",
+    "nutrientFields": [
+      {
+        "key": "melatoninMg",
+        "label": "Melatonin",
+        "unit": "mg",
+        "table": true
+      }
+    ],
+    "comparisonNote": "The 1 mg quantity is a cost comparison unit, not an intake recommendation. Check exact strength, release formulation and other ingredients. Higher strength or lower ingredient cost does not establish better sleep or suitability.",
+    "searchAliases": [
+      "sleep hormone",
+      "sleep aid"
+    ]
+  },
+  "catalog": {
+    "checked": "2026-11-20",
+    "category": "melatonin"
+  },
+  "guide": {
+    "id": "melatonin-guide",
+    "category": "melatonin",
+    "title": "Melatonin: body-clock timing before stronger sleep products",
+    "summary": "Melatonin is a hormone involved in the sleep-wake cycle. The reason, timing and release profile matter more than choosing the largest milligram number.",
+    "evidence": "Evidence is more relevant to circadian problems such as jet lag and some delayed sleep-wake phase cases than to all poor sleep. In a four-week trial, clinically assessed delayed-phase patients improved with melatonin plus behavioural scheduling. AASM suggests against using melatonin for chronic adult insomnia; CBT-I is an initial treatment to discuss.",
+    "limitations": "Short trials and specific sleep disorders do not establish benefit for every sleep complaint. Long-term safety remains uncertain. A gummy, strip, immediate-release tablet and prolonged-release product cannot be assumed to give the same exposure or outcome.",
+    "catalogReading": "Read melatonin milligrams per verified label serving, units per serving and release description. Keep other sedating ingredients separate. Cost per common milligram amount is a price calculation, not an intake recommendation, and more melatonin is not automatically better.",
+    "safety": "Possible effects include daytime drowsiness, headache and dizziness. Do not drive or use machinery when drowsy. Review medicines, especially blood thinners, and epilepsy with a clinician. Pregnancy and breastfeeding safety data are limited. Children need pediatric guidance; keep every form, including gummies, out of reach.",
+    "sourceIds": [
+      "melatonin-overview",
+      "melatonin-circadian",
+      "melatonin-insomnia",
+      "melatonin-children",
+      "melatonin-metabolism",
+      "melatonin-physiology",
+      "food-melatonin-cherries-burkhardt",
+      "supplement-quality-ods"
+    ],
+    "reviewed": "2026-11-18",
+    "author": "Supplement Research editorial synthesis",
+    "bodySteps": [
+      "Darkness normally promotes melatonin release from the brain's pineal gland, providing a biological night-time signal; evening light can suppress this signal.",
+      "Swallowed melatonin is absorbed and undergoes substantial first-pass processing in the liver. Different release systems can change its exposure pattern; milligram content alone does not describe that pattern.",
+      "Melatonin acts at receptors involved in sleep and circadian regulation. The effect depends on the sleep problem and timing; taking a product does not diagnose a low melatonin level."
+    ],
+    "bodySources": [
+      "melatonin-overview",
+      "melatonin-metabolism",
+      "melatonin-physiology"
+    ],
+    "treatment": "Melatonin can form part of professionally planned care for selected circadian disorders. It is not a cure for chronic insomnia, stress or sleep apnoea. Persistent poor sleep or excessive daytime sleepiness warrants assessment of its cause.",
+    "whoMayBenefit": "Some people with jet lag or a clinically assessed circadian delay may benefit from an appropriate plan. Children with sleep disorders require pediatric assessment, not selection from adult retail strengths. A short night of sleep alone does not establish a need.",
+    "routineUse": "No one should assume they need nightly melatonin indefinitely. Review the indication, sleep schedule and continuing benefit with a clinician. Behavioural treatment and light/sleep timing can be central, and melatonin is not an automatic addition to a sleep stack.",
+    "sectionSources": [
+      "melatonin-overview",
+      "melatonin-circadian",
+      "melatonin-insomnia",
+      "melatonin-children"
+    ],
+    "buyingGuide": {
+      "whoCanConsider": [
+        "Adults managing travel across time zones who have checked whether a timed jet-lag plan fits their journey.",
+        "Adults with clinically assessed delayed sleep-wake phase who are following a sleep and light-timing plan."
+      ],
+      "whoShouldReview": [
+        "People with epilepsy or blood-thinner treatment need medical supervision; review other medicines too.",
+        "Children, pregnant or breastfeeding people and older adults with dementia need appropriate professional review.",
+        "Persistent insomnia, daytime sleepiness or repeated need for sleep products warrants assessment of the cause."
+      ],
+      "foodSummary": "Tart cherries can contain trace melatonin, with amounts differing by cultivar. Ordinary food is not a predictable, clinically timed melatonin dose, and cherries are not an established cure for insomnia.",
+      "foods": [
+        {
+          "name": "Montmorency tart cherries, 2001 study samples",
+          "relationship": "direct",
+          "detail": "Reported study mean for a named cultivar. Results vary across harvests and assays; do not generalize to every cherry or juice.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Study-specific composition; not a universal food value or supplement-dose equivalent.",
+          "amounts": [
+            {
+              "nutrient": "Melatonin",
+              "min": 13.46,
+              "max": null,
+              "unit": "ng",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "1 g cherry tissue"
+              },
+              "sourceIds": [
+                "food-melatonin-cherries-burkhardt"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Balaton tart cherries, 2001 study samples",
+          "relationship": "direct",
+          "detail": "Reported study mean for a named cultivar, not a universal supermarket cherry value. Nanograms are one millionth of a milligram; this is not a tablet-equivalent dose.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Study-specific composition; not a universal food value or supplement-dose equivalent.",
+          "amounts": [
+            {
+              "nutrient": "Melatonin",
+              "min": 2.06,
+              "max": null,
+              "unit": "ng",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "1 g cherry tissue"
+              },
+              "sourceIds": [
+                "food-melatonin-cherries-burkhardt"
+              ]
+            }
+          ]
+        }
+      ],
+      "foodSourceIds": [
+        "food-melatonin-cherries-burkhardt"
+      ],
+      "value": {
+        "routineScore": 1,
+        "targetedScore": 4,
+        "targetedUse": "Adult jet lag or a professionally assessed delayed sleep-wake phase.",
+        "reason": "A selected body-clock problem offers a clearer reason to consider melatonin than a general nightly sleep stack. Timing and the diagnosis matter; chronic insomnia has different treatment priorities.",
+        "worthWhen": [
+          "There is a defined circadian goal and an appropriate timing plan.",
+          "Benefit and ongoing need will be reviewed rather than increasing strength automatically."
+        ],
+        "skipWhen": [
+          "Sleep is already adequate or the aim is simply stronger sedation.",
+          "Persistent insomnia is being managed by indefinite self-escalation instead of assessment and behavioural treatment."
+        ],
+        "evidence": "moderate",
+        "scope": "Editorial priority for the stated adult circadian uses, not a validated efficacy score. It does not endorse a retail strength, pediatric use or routine long-term treatment.",
+        "sourceIds": [
+          "melatonin-overview",
+          "melatonin-circadian",
+          "melatonin-insomnia",
+          "melatonin-children"
+        ]
+      },
+      "reviewed": "2026-11-18",
+      "practices": {
+        "dos": [
+          {
+            "title": "Start with a defined sleep question",
+            "detail": "A circadian goal and appropriate timing plan matter more than buying a stronger sleep product."
+          },
+          {
+            "title": "Check the release and serving",
+            "detail": "Read melatonin per label serving, units per serving and other sedating ingredients; reassess benefit and ongoing need."
+          }
+        ],
+        "donts": [
+          {
+            "title": "Don't equate strength with better sleep",
+            "detail": "A lower cost per milligram is arithmetic, not evidence that a higher amount suits your situation."
+          },
+          {
+            "title": "Don't ignore drowsiness or persistent symptoms",
+            "detail": "Avoid driving when drowsy; persistent insomnia needs assessment rather than indefinite self-escalation."
+          }
+        ],
+        "sourceIds": [
+          "melatonin-overview",
+          "melatonin-circadian",
+          "melatonin-insomnia"
+        ]
+      }
+    },
+    "intakeGuide": {
+      "kind": "no-established-target",
+      "summary": "No nutritional requirement. Indication, timing and formulation matter; a sleep problem needs assessment before a personal regimen.",
+      "targets": [],
+      "limits": [],
+      "notes": [
+        "No automatic dose increase is assigned for training frequency or experience."
+      ],
+      "sourceIds": [
+        "melatonin-overview",
+        "melatonin-circadian",
+        "melatonin-insomnia",
+        "melatonin-children"
+      ],
+      "reviewed": "2026-11-17"
+    },
+    "medicalGuide": {
+      "summary": "Condition-specific evidence, separate from sports benefits and purchase priority.",
+      "conditions": [
+        {
+          "condition": "Selected circadian rhythm disorders",
+          "level": "conditional",
+          "findings": "Timed use may be part of professionally planned care; diagnosis, timing and formulation are central.",
+          "limits": "Melatonin can form part of professionally planned care for selected circadian disorders. It is not a cure for chronic insomnia, stress or sleep apnoea. Persistent poor sleep or excessive daytime sleepiness warrants assessment of its cause.",
+          "sourceIds": [
+            "melatonin-overview",
+            "melatonin-circadian",
+            "melatonin-insomnia",
+            "melatonin-children"
+          ]
+        },
+        {
+          "condition": "Chronic insomnia / sleep apnoea",
+          "level": "insufficient",
+          "findings": "Melatonin is not an established remedy for sleep apnoea; chronic insomnia requires assessment and evidence-based care.",
+          "limits": "Melatonin can form part of professionally planned care for selected circadian disorders. It is not a cure for chronic insomnia, stress or sleep apnoea. Persistent poor sleep or excessive daytime sleepiness warrants assessment of its cause.",
+          "sourceIds": [
+            "melatonin-overview",
+            "melatonin-circadian",
+            "melatonin-insomnia",
+            "melatonin-children"
+          ]
+        }
+      ],
+      "reviewed": "2026-11-17"
+    },
+    "pathway": {
+      "title": "Oral melatonin adds to a timing signal",
+      "summary": "Natural melatonin signals biological night. An oral product must first be absorbed and pass through the liver before the remaining hormone reaches receptors.",
+      "tracks": [
+        {
+          "label": "Oral absorption, clearance and receptor signalling",
+          "steps": [
+            {
+              "label": "The oral formulation releases melatonin",
+              "detail": "Melatonin is absorbed after administration; release formulation affects the timing of exposure.",
+              "compartment": "Intestine",
+              "icon": "digest"
+            },
+            {
+              "label": "Liver processing reduces oral availability",
+              "detail": "Substantial first-pass hepatic metabolism means only part of an oral dose reaches systemic circulation unchanged.",
+              "compartment": "Liver",
+              "icon": "liver"
+            },
+            {
+              "label": "Remaining melatonin reaches the circulation",
+              "detail": "Circulating exposure depends on absorption, metabolism and the product's release characteristics.",
+              "compartment": "Blood",
+              "icon": "blood"
+            },
+            {
+              "label": "Melatonin receptors receive the timing signal",
+              "detail": "Melatonin acts at MT1 and MT2 receptors involved in biological timing and sleep-related responses.",
+              "compartment": "Brain / tissues",
+              "icon": "brain"
+            }
+          ]
+        }
+      ],
+      "caveat": "Receptor activity does not mean a higher dose gives better sleep. Timing, the sleep problem and other medicines change how the product should be assessed.",
+      "sourceIds": [
+        "melatonin-overview",
+        "melatonin-metabolism",
+        "melatonin-physiology"
+      ]
+    }
+  }
+}

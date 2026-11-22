@@ -3,10 +3,15 @@
 Never generates, interpolates or carries forward a price. Raw responses and failed
 requests are cached locally; only verified matches enter the public evidence ledger.
 """
-import argparse,collections,concurrent.futures,datetime,hashlib,html,json,pathlib,re,urllib.parse
+import argparse,collections,concurrent.futures,datetime,hashlib,html,json,pathlib,re,sys,urllib.parse
 from quarter_price_audit import get,canonical,norm
 from apply_quarter_audit import price_from_html,historical_identity_issue,query
 ROOT=pathlib.Path(__file__).resolve().parents[1]
+try:
+    from artifact_bridge import artifact_workspace
+except ModuleNotFoundError:
+    from scripts.artifact_bridge import artifact_workspace
+OUTPUT_ROOT=None
 def quarters(as_of,count):
     date=datetime.date.fromisoformat(as_of);index=date.year*4+(date.month-1)//3
     result=[]
@@ -36,13 +41,13 @@ def page_weight_issue(r,raw):
         if any(re.search(r'\d\s*(kg|g)\b',v.get('title',''),re.I) for v in selected):return None
         return 'Archived product heading explicitly names a different pack weight; variant ID alone is not comparable.'
     return None
-def main():
+def _main():
     parser=argparse.ArgumentParser(description=__doc__);parser.add_argument('--quarters',type=int,default=12);parser.add_argument('--workers',type=int,default=4);parser.add_argument('--alternatives',type=int,default=1,help='Maximum distinct capture dates to try per page and quarter.');parser.add_argument('--structured',action='store_true',help='Also discover archived public product JSON/JS feeds.');parser.add_argument('--skip-known-failures',action='store_true');parser.add_argument('--discover-only',action='store_true');parser.add_argument('--cached-only',action='store_true',help='Re-audit cached public captures without making network requests.');args=parser.parse_args()
     if not 1<=args.quarters<=40 or not 1<=args.workers<=12 or not 1<=args.alternatives<=5:parser.error('Use 1–40 quarters, 1–12 workers and 1–5 alternative capture dates.')
     config=json.loads((ROOT/'docs/data/site.json').read_text(encoding='utf-8-sig'))
     data={c['id']:json.loads((ROOT/'docs/data'/c['file']).read_text(encoding='utf-8-sig')) for c in config['categories']}
     as_of=max(d['checked'] for d in data.values());window=quarters(as_of,args.quarters);first=window[0]['start'].replace('-','');last=window[-1]['end'].replace('-','')
-    out=ROOT/'outputs'/f'history_{first}_{last}';out.mkdir(parents=True,exist_ok=True);(out/'responses').mkdir(exist_ok=True)
+    out=(OUTPUT_ROOT or ROOT)/'outputs'/f'history_{first}_{last}';out.mkdir(parents=True,exist_ok=True);(out/'responses').mkdir(exist_ok=True)
     def save(url,raw):
         name=hashlib.sha256(url.encode()).hexdigest()+'.txt';(out/'responses'/name).write_text(raw,encoding='utf-8');return name
     groups=collections.defaultdict(list)
@@ -79,7 +84,7 @@ def main():
     if args.structured:
         with concurrent.futures.ThreadPoolExecutor(max_workers=args.workers) as pool:indices.extend(pool.map(lambda host:discover(host,True),hosts))
     # Seed known successful captures; research never replaces evidence with a failed fetch.
-    sources={};old=ROOT/'outputs/quarter_audit_20261025'
+    sources={};old=(OUTPUT_ROOT or ROOT)/'outputs/quarter_audit_20261025'
     if (old/'archive_sources.json').exists():
         for s in json.loads((old/'archive_sources.json').read_text()):
             if s.get('evidence') and (old/'responses'/s['evidence']).exists():sources[s['url']]={**s,'cacheDir':str(old/'responses')}
@@ -157,4 +162,13 @@ def main():
         date=datetime.date.fromisoformat(o['date']);label=f'Q{(date.month-1)//3+1} {date.year}';(excluded if o.get('qualityStatus')=='excluded' else matched)[label]+=1
     report=dict(asOf=as_of,completedQuarters=args.quarters,captureDatesAttemptedPerPageQuarter=args.alternatives,start=window[0]['start'],end=window[-1]['end'],method='Latest indexed distinct capture dates per exact product page and completed quarter; only exact-variant prices accepted. The site selects the latest verified quote per variant and quarter. No interpolation or carried-forward values.',indices=[{k:v for k,v in s.items() if k not in ['rows','resumeKey']} for s in indices],captures=[{k:v for k,v in s.items() if k not in ['cacheDir','evidence']} for s in fetched],quarters=[{**q,'verifiedQuotesCollected':matched[q['label']],'excludedQuotes':excluded[q['label']]} for q in window])
     (ROOT/'docs/data/history-research.json').write_text(json.dumps(report,ensure_ascii=False),encoding='utf-8');print('Collected verified quotes',dict(matched),'excluded',dict(excluded),flush=True)
+
+def main():
+    global ROOT,OUTPUT_ROOT
+    original_root,original_output=ROOT,OUTPUT_ROOT
+    with artifact_workspace(original_root,writable='--discover-only' not in sys.argv[1:]) as work:
+        ROOT,OUTPUT_ROOT=work,original_output or original_root
+        try:return _main()
+        finally:ROOT,OUTPUT_ROOT=original_root,original_output
+
 if __name__=='__main__':main()

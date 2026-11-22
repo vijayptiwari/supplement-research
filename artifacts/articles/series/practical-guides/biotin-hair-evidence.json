@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "order": 30,
+  "article": {
+    "id": "biotin-hair-evidence",
+    "category": "biotin",
+    "series": "practical-guides",
+    "title": "Biotin for hair: why deficiency treatment is not a beauty guarantee",
+    "summary": "Evaluate the cause of a hair concern, the evidence behind biotin claims and the opportunity cost of buying the strongest beauty product.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "Biotin has an established biological role, and some deficiency states can affect hair or skin. Marketing often compresses those facts into a much broader message: anyone unhappy with their hair needs a high-strength biotin product. That step needs evidence of its own. A useful buying decision separates a symptom, a diagnosis and a tested intervention. This article focuses on that separation so a familiar vitamin does not become a substitute for understanding the reason behind a persistent hair concern.",
+    "sections": [
+      {
+        "id": "role",
+        "title": "A necessary nutrient is not a hair-growth instruction",
+        "body": "Biotin helps enzymes involved in normal nutrient metabolism. That function explains why an adequate supply matters; it does not establish that pushing intake far above adequacy makes hair grow better. The same distinction applies to many vitamins, but it is especially important when a cosmetic label uses biological terminology as though it were a direct clinical result. Ask what the proposed product has been shown to do in people with a similar concern, rather than inferring benefit from a general description of enzyme activity.",
+        "sourceIds": [
+          "biotin-overview"
+        ]
+      },
+      {
+        "id": "deficiency",
+        "title": "A deficiency-related finding has a defined context",
+        "body": "Biotin deficiency is uncommon in generally healthy people consuming a mixed diet, while inherited biotin-recycling disorders are a separate specialist concern. A case report involving a deficient person cannot establish the expected response of someone with adequate status. The appropriate question is whether the suspected problem and the intervention match. If a rare metabolic condition has been diagnosed, its treatment plan should be followed rather than reconstructed from a beauty label or a general adult intake reference.",
+        "sourceIds": [
+          "biotin-overview",
+          "biotin-metabolic"
+        ]
+      },
+      {
+        "id": "symptom",
+        "title": "Hair changes do not identify their own cause",
+        "body": "Hair shedding, thinning or brittleness can prompt a sensible assessment, but the appearance alone does not prove low biotin. Choosing a supplement first can delay consideration of other relevant factors and make later interpretation harder. Record the pattern, duration and any associated changes, together with medicines and supplements already used. A qualified clinician can decide what examination or testing is useful. The aim is not to deny a cosmetic concern; it is to avoid allowing one ingredient's advertising to determine the diagnosis.",
+        "sourceIds": [
+          "biotin-overview"
+        ]
+      },
+      {
+        "id": "evidence",
+        "title": "What limited evidence means for a buyer",
+        "body": "The NIH overview describes insufficient evidence for routine hair, skin and nail benefits in people without a demonstrated deficiency. Reports in selected patients or uncontrolled observations are not the same as trials establishing a reliable effect in a broad healthy population. Limited evidence also does not prove that benefit is impossible in every individual situation. It means a confident universal promise exceeds what can be supported. A reasonable price premium should be tied to a relevant demonstrated feature rather than to certainty the research has not supplied.",
+        "sourceIds": [
+          "biotin-overview"
+        ]
+      },
+      {
+        "id": "formula",
+        "title": "A response to a blend cannot be assigned to biotin alone",
+        "body": "Hair formulas may contain multiple vitamins, minerals, amino acids or botanical ingredients. Even a genuine improvement while taking one formula cannot identify which component, another change in care or the natural course of the problem was responsible. Examine any study's actual ingredients and comparator. A product trial should not become a blanket endorsement of all biotin products, and evidence about a component should not certify an undisclosed mixture. An impressive list of ingredients creates more questions to check, not an automatic advantage.",
+        "sourceIds": [
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "strength",
+        "title": "More micrograms do not create an evidence ladder",
+        "body": "A high labelled amount is a quantity declaration, not a hair-effectiveness score. Biotin labels can use milligrams or micrograms, which differ by a factor of one thousand. Read that unit carefully before comparing prices or combining products. There is no general adult rule that a larger beauty dose produces a proportionally larger benefit. An absence of an established upper limit is also not evidence that arbitrary high-strength use is risk-free or a reason to ignore the laboratory-test issue associated with biotin.",
+        "sourceIds": [
+          "biotin-overview",
+          "biotin-lab"
+        ]
+      },
+      {
+        "id": "lab",
+        "title": "The laboratory issue belongs in the purchase decision",
+        "body": "Biotin can distort susceptible blood tests, including some tests used to investigate thyroid function and heart injury. This is not proof that biotin has changed the underlying condition; it can be a problem with how the assay measures the sample. Tell the testing team about all biotin-containing products, including multivitamins and hair gummies. Follow assay-specific instructions rather than a universal stopping interval. A cosmetic product that complicates an important medical investigation has a cost that is not captured by its price per tablet.",
+        "sourceIds": [
+          "biotin-lab"
+        ]
+      },
+      {
+        "id": "value",
+        "title": "A better decision can be a focused assessment",
+        "body": "Before buying, state what problem the product is expected to solve and what would count as a useful change. Compare that expectation with the relevant evidence and the opportunity cost of repeated purchases. Ordinary food adequacy, accurate diagnosis and an appropriate care plan may matter more than a stronger label. If a clinician establishes a need for biotin, then source, serving, quality evidence and price become practical product questions. Without that link, repeatedly escalating strength is not an evidence-based way to resolve uncertainty.",
+        "sourceIds": [
+          "biotin-overview",
+          "supplement-quality-ods"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "biotin-overview",
+      "biotin-metabolic",
+      "supplement-quality-ods",
+      "biotin-lab"
+    ]
+  }
+}

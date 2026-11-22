@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "category": "melatonin",
+  "brand": "Carbamide Forte",
+  "product": "Melatonin 10 mg Sleep Gummies",
+  "variants": [
+    {
+      "order": 6,
+      "offer": {
+        "brand": "Carbamide Forte",
+        "product": "Melatonin 10 mg Sleep Gummies",
+        "form": "Gummy",
+        "type": "Melatonin",
+        "subclass": "Gummy; release profile not stated",
+        "packCount": 60,
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official bottle facts: one gummy (3 g) supplies 10 mg melatonin and 9.28 kcal. The bottle contains 60 raspberry-flavoured gummies.",
+        "notes": "Contains 1.65 g added sugar per gummy. The label warns about possible milk, wheat, soy and nut cross-contact. Strength and price are accounting inputs, not a recommended regimen.",
+        "labelChecked": "2026-11-19",
+        "melatoninMg": 10,
+        "flavour": "Raspberry",
+        "id": "melatonin-42691055878257",
+        "price": 569,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://mycf.in/products/carbamide-forte-sleeping-pills-melatonin-10mg-gummies-for-better-sleep-60-veg-gummies?variant=42691055878257",
+        "nutritionUrl": "https://www.carbamideforte.com/products/carbamide-forte-sleeping-pills-melatonin-10mg-gummies-for-better-sleep-60-veg-gummies",
+        "packaging": "Single retail pack",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://mycf.in/products/carbamide-forte-sleeping-pills-melatonin-10mg-gummies-for-better-sleep-60-veg-gummies?variant=42691055878257",
+          "evidenceUrl": "https://www.carbamideforte.com/products/carbamide-forte-sleeping-pills-melatonin-10mg-gummies-for-better-sleep-60-veg-gummies.json",
+          "matchBasis": "Existing exactvariant and freshly inspected bottlelabel; preserve ID and productURL."
+        },
+        "labelSources": [
+          "https://www.carbamideforte.com/products/carbamide-forte-sleeping-pills-melatonin-10mg-gummies-for-better-sleep-60-veg-gummies",
+          "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B08LH8HV1V.PT08.jpg?v=1752321539"
+        ],
+        "declaredNutrients": [
+          "melatoninMg"
+        ],
+        "energyPerServing": 9.28,
+        "unitMassGrams": 3
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3757,
+      "observation": {
+        "category": "melatonin",
+        "offerId": "melatonin-42691055878257",
+        "date": "2026-10-29",
+        "price": 569,
+        "currency": "INR",
+        "sourceUrl": "https://mycf.in/products/carbamide-forte-sleeping-pills-melatonin-10mg-gummies-for-better-sleep-60-veg-gummies?variant=42691055878257",
+        "evidenceUrl": "https://mycf.in/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "42691055878257"
+      }
+    },
+    {
+      "order": 3880,
+      "observation": {
+        "category": "melatonin",
+        "offerId": "melatonin-42691055878257",
+        "date": "2026-11-19",
+        "price": 569,
+        "currency": "INR",
+        "sourceUrl": "https://mycf.in/products/carbamide-forte-sleeping-pills-melatonin-10mg-gummies-for-better-sleep-60-veg-gummies?variant=42691055878257",
+        "evidenceUrl": "https://mycf.in/products/carbamide-forte-sleeping-pills-melatonin-10mg-gummies-for-better-sleep-60-veg-gummies.json",
+        "kind": "official-live",
+        "variantId": "42691055878257",
+        "matchBasis": "Official public Shopify product; exact variant ID 42691055878257 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+      }
+    },
+    {
+      "order": 3898,
+      "observation": {
+        "category": "melatonin",
+        "offerId": "melatonin-42691055878257",
+        "date": "2026-11-19",
+        "price": 569,
+        "currency": "INR",
+        "sourceUrl": "https://mycf.in/products/carbamide-forte-sleeping-pills-melatonin-10mg-gummies-for-better-sleep-60-veg-gummies?variant=42691055878257",
+        "evidenceUrl": "https://www.carbamideforte.com/products/carbamide-forte-sleeping-pills-melatonin-10mg-gummies-for-better-sleep-60-veg-gummies.json",
+        "kind": "official-live",
+        "variantId": "42691055878257",
+        "matchBasis": "Official exactvariant and fresh bottle panel."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 47,
+      "profile": {
+        "category": "melatonin",
+        "brand": "Carbamide Forte",
+        "base": "https://mycf.in",
+        "handle": "carbamide-forte-sleeping-pills-melatonin-10mg-gummies-for-better-sleep-60-veg-gummies",
+        "product": "Melatonin 10 mg Sleep Gummies",
+        "form": "Gummy",
+        "type": "Melatonin",
+        "subclass": "Gummy; release profile not stated",
+        "packCount": 60,
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official bottle facts: one gummy (3 g) supplies 10 mg melatonin and 9.28 kcal. The bottle contains 60 raspberry-flavoured gummies.",
+        "notes": "Contains 1.65 g added sugar per gummy. The label warns about possible milk, wheat, soy and nut cross-contact. Strength and price are accounting inputs, not a recommended regimen.",
+        "labelChecked": "2026-11-19",
+        "melatoninMg": 10,
+        "variantTitles": [
+          "Pack of 1"
+        ],
+        "flavour": "Raspberry",
+        "packaging": "Single retail pack",
+        "nutritionUrl": "https://www.carbamideforte.com/products/carbamide-forte-sleeping-pills-melatonin-10mg-gummies-for-better-sleep-60-veg-gummies",
+        "labelSources": [
+          "https://www.carbamideforte.com/products/carbamide-forte-sleeping-pills-melatonin-10mg-gummies-for-better-sleep-60-veg-gummies",
+          "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B08LH8HV1V.PT08.jpg?v=1752321539"
+        ],
+        "declaredNutrients": [
+          "melatoninMg"
+        ],
+        "energyPerServing": 9.28,
+        "unitMassGrams": 3,
+        "variantIds": [
+          "42691055878257"
+        ],
+        "numericVariantIsCount": false
+      }
+    }
+  ]
+}

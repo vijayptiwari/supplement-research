@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "category": "l-arginine",
+  "brand": "Pure Nutrition",
+  "product": "L-Arginine HCl + Citrulline + Caffeine",
+  "variants": [
+    {
+      "order": 9,
+      "offer": {
+        "brand": "Pure Nutrition",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-11-19",
+        "flavour": "Unflavoured",
+        "product": "L-Arginine HCl + Citrulline + Caffeine",
+        "form": "Capsule",
+        "type": "L-Arginine hydrochloride",
+        "subclass": "Arginine HCl with citrulline, beetroot and caffeine",
+        "packCount": 60,
+        "servingUnits": 2,
+        "arginineMg": null,
+        "arginineCompoundMg": 1000,
+        "citrullineMg": 100,
+        "caffeineMg": 70,
+        "energyPerServing": 0.2,
+        "declaredNutrients": [
+          "arginineMg",
+          "arginineCompoundMg",
+          "citrullineMg",
+          "caffeineMg"
+        ],
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0618/9629/4654/files/L-ARGININE_60_Caps_ROP.png?v=1794482044",
+        "basis": "Exact 60-capsule manufacturer panel: two capsules (1500 mg total capsule serving) contain L-arginine HCl 1000 mg, L-citrulline 100 mg, beetroot extract 80 mg and caffeine 70 mg. Energy 0.2 kcal per two capsules.",
+        "notes": "The 1500 mg retail title describes the full serving, not 1500 mg free arginine. Arginine HCl compound mass is recorded separately; free arginine is not inferred. Contains caffeine. Beetroot extract is not treated as quantified nitrate.",
+        "additionalIngredients": [
+          {
+            "name": "Beetroot extract",
+            "amount": 80,
+            "unit": "mg",
+            "basis": "per two-capsule label serving"
+          }
+        ],
+        "servingGrams": null,
+        "grams": null,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0618/9629/4654/files/L-ARGININE_60_Caps_ROP.png?v=1794482044"
+        ],
+        "id": "l-arginine-48548921639166",
+        "price": 609,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://purenutrition.in/products/l-arginine-supplement-1500mg-60-capsules?variant=48548921639166"
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 4038,
+      "observation": {
+        "category": "l-arginine",
+        "offerId": "l-arginine-48548921639166",
+        "date": "2026-11-19",
+        "price": 609,
+        "currency": "INR",
+        "sourceUrl": "https://purenutrition.in/products/l-arginine-supplement-1500mg-60-capsules?variant=48548921639166",
+        "evidenceUrl": "https://purenutrition.in/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "48548921639166",
+        "matchBasis": "Official public Shopify feed fetched 2026-11-19; exact variant ID and unconditional price matched. INR currency confirmed in the live official product HTML. Net pack, serving and ingredient basis use the specific referenced manufacturer label."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 173,
+      "profile": {
+        "category": "l-arginine",
+        "brand": "Pure Nutrition",
+        "base": "https://purenutrition.in",
+        "handle": "l-arginine-supplement-1500mg-60-capsules",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-11-19",
+        "variantIds": [
+          "48548921639166"
+        ],
+        "flavour": "Unflavoured",
+        "product": "L-Arginine HCl + Citrulline + Caffeine",
+        "form": "Capsule",
+        "type": "L-Arginine hydrochloride",
+        "subclass": "Arginine HCl with citrulline, beetroot and caffeine",
+        "packCount": 60,
+        "servingUnits": 2,
+        "arginineMg": null,
+        "arginineCompoundMg": 1000,
+        "citrullineMg": 100,
+        "caffeineMg": 70,
+        "energyPerServing": 0.2,
+        "declaredNutrients": [
+          "arginineMg",
+          "arginineCompoundMg",
+          "citrullineMg",
+          "caffeineMg"
+        ],
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0618/9629/4654/files/L-ARGININE_60_Caps_ROP.png?v=1794482044",
+        "basis": "Exact 60-capsule manufacturer panel: two capsules (1500 mg total capsule serving) contain L-arginine HCl 1000 mg, L-citrulline 100 mg, beetroot extract 80 mg and caffeine 70 mg. Energy 0.2 kcal per two capsules.",
+        "notes": "The 1500 mg retail title describes the full serving, not 1500 mg free arginine. Arginine HCl compound mass is recorded separately; free arginine is not inferred. Contains caffeine. Beetroot extract is not treated as quantified nitrate.",
+        "additionalIngredients": [
+          {
+            "name": "Beetroot extract",
+            "amount": 80,
+            "unit": "mg",
+            "basis": "per two-capsule label serving"
+          }
+        ],
+        "servingGrams": null,
+        "grams": null,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0618/9629/4654/files/L-ARGININE_60_Caps_ROP.png?v=1794482044"
+        ],
+        "id": "l-arginine-48548921639166"
+      }
+    }
+  ]
+}

@@ -1,0 +1,568 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "TrueBasics",
+  "product": "TrueBasics Clean Whey Protein Isolate",
+  "variants": [
+    {
+      "order": 817,
+      "offer": {
+        "id": 817,
+        "brand": "TrueBasics",
+        "product": "TrueBasics Clean Whey Protein Isolate",
+        "type": "Whey — isolate",
+        "flavour": "Chocolate",
+        "kg": 1,
+        "price": 5999,
+        "stock": "Listed; confirm stock",
+        "protein": 82,
+        "scoop": 34,
+        "serving": 34,
+        "subclass": "Whey isolate",
+        "energy": 405.22,
+        "url": "https://www.truebasics.com/sv/truebasics-clean-whey-protein-isolate/SP-135063",
+        "nutritionUrl": "https://img1.hkrtcdn.com/41242/normal_4124143_o.jpg",
+        "basis": "Reviewed exact Chocolate 1 kg marketplace variant panel: whey isolate, 82 g protein and 405.22 kcal per 100 g; one 34 g scoop, rounded 28 g protein per serving.",
+        "notes": "The label declaration supports composition, not an independently verified absence of contaminants or a specific batch testing result. Manufacturer price remains unchanged; dated HealthKart price is a separate retailer quote.",
+        "energyBasis": "Brand official label / serving instructions",
+        "isNew": false,
+        "stockReview": {
+          "checked": "2026-11-19",
+          "status": "Not reverified",
+          "basis": "The exact current variant could not be matched. Earlier price evidence date retained."
+        },
+        "labelChecked": "2026-11-19",
+        "labelSources": [
+          "https://www.healthkart.com/sv/truebasics-clean-whey-protein-isolate/SP-130335?navKey=VRNT-268719",
+          "https://img1.hkrtcdn.com/41242/normal_4124143_o.jpg"
+        ],
+        "lastLabelReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.truebasics.com/sv/truebasics-clean-whey-protein-isolate/SP-135063",
+          "evidenceUrl": "https://www.healthkart.com/sv/truebasics-clean-whey-protein-isolate/SP-130335?navKey=VRNT-268719",
+          "matchBasis": "HealthKart selected product numeric id 268719, SP-130335, brand, flavour, retail packaging and explicit net gram/kg weight reviewed against current label evidence; unconditional offer_pr excludes loyalty or coupons. Label corroboration only; the primary manufacturer price and original price observation remain unchanged."
+        },
+        "retailerQuotes": [
+          {
+            "retailer": "HealthKart",
+            "seller": "Bright Nutricare Private Limited",
+            "price": 6199,
+            "currency": "INR",
+            "checked": "2026-11-19",
+            "sourceUrl": "https://www.healthkart.com/sv/truebasics-clean-whey-protein-isolate/SP-130335?navKey=VRNT-268719",
+            "variantId": "268719",
+            "matchBasis": "HealthKart selected product numeric id 268719, SP-130335, brand, flavour, retail packaging and explicit net gram/kg weight reviewed against current label evidence; unconditional offer_pr excludes loyalty or coupons. Same manufacturer product/flavour/net pack as https://www.truebasics.com/sv/truebasics-clean-whey-protein-isolate/SP-135063; marketplace has a separate seller SKU. This quote does not replace the primary brand price or establish an archive history.",
+            "stock": "In stock"
+          }
+        ]
+      }
+    },
+    {
+      "order": 818,
+      "offer": {
+        "id": 818,
+        "brand": "TrueBasics",
+        "product": "TrueBasics Clean Whey Protein Isolate",
+        "type": "Whey — isolate",
+        "flavour": "Chocolate",
+        "kg": 2,
+        "price": 11099,
+        "stock": "In stock",
+        "protein": 82.35294117647058,
+        "scoop": 34,
+        "serving": 34,
+        "subclass": "Whey isolate",
+        "energy": 405.2,
+        "url": "https://www.truebasics.com/pk/clean-whey-protein-isolate-2kg-chocolate-pack?navKey=PA-133303",
+        "nutritionUrl": "https://www.truebasics.com/pk/clean-whey-protein-isolate-2kg-chocolate-pack?navKey=PA-133303",
+        "basis": "28g protein / 34g serving; Clean Label Project certified",
+        "notes": "100% microfiltered whey isolate with 6.18g BCAAs and no heavy metal contaminants.",
+        "energyBasis": "Brand official label / serving instructions",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.truebasics.com/pk/clean-whey-protein-isolate-2kg-chocolate-pack?navKey=PA-133303",
+          "evidenceUrl": "https://www.truebasics.com/pk/clean-whey-protein-isolate-2kg-chocolate-pack?navKey=PA-133303",
+          "matchBasis": "Official selected product schema SKU matches exact navigation key"
+        }
+      }
+    },
+    {
+      "order": 819,
+      "offer": {
+        "id": 819,
+        "brand": "TrueBasics",
+        "product": "TrueBasics Clean Whey Protein Isolate",
+        "type": "Whey — isolate",
+        "flavour": "Vanilla",
+        "kg": 1,
+        "price": 5999,
+        "stock": "In stock",
+        "protein": 88.5,
+        "scoop": 34,
+        "serving": 34,
+        "subclass": "Whey isolate",
+        "energy": 384.54,
+        "url": "https://www.truebasics.com/sv/truebasics-clean-whey-protein-isolate/SP-135063?navKey=VRNT-267055",
+        "nutritionUrl": "https://img1.hkrtcdn.com/40865/normal_4086499_o.jpg",
+        "basis": "Reviewed exact Vanilla 1 kg marketplace panel: 88.5 g protein and 384.54 kcal per 100 g, one 34 g scoop; 30 g per-serving protein is rounded.",
+        "notes": "Manufacturer label declarations are not an independent purity assay. Retailer and brand prices are tracked separately.",
+        "energyBasis": "Brand official label / serving instructions",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.truebasics.com/sv/truebasics-clean-whey-protein-isolate/SP-135063?navKey=VRNT-267055",
+          "evidenceUrl": "https://www.truebasics.com/sv/truebasics-clean-whey-protein-isolate/SP-135063",
+          "matchBasis": "Official selected product schema flavour and net pack match"
+        },
+        "labelChecked": "2026-11-19",
+        "labelSources": [
+          "https://www.healthkart.com/sv/truebasics-clean-whey-protein-isolate/SP-130335?navKey=VRNT-253129",
+          "https://img1.hkrtcdn.com/40865/normal_4086499_o.jpg"
+        ],
+        "lastLabelReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.truebasics.com/sv/truebasics-clean-whey-protein-isolate/SP-135063?navKey=VRNT-267055",
+          "evidenceUrl": "https://www.healthkart.com/sv/truebasics-clean-whey-protein-isolate/SP-130335?navKey=VRNT-253129",
+          "matchBasis": "HealthKart selected product numeric id 253129, SP-130335, brand, flavour, retail packaging and explicit net gram/kg weight reviewed against current label evidence; unconditional offer_pr excludes loyalty or coupons. Label corroboration only; the primary manufacturer price and original price observation remain unchanged."
+        },
+        "retailerQuotes": [
+          {
+            "retailer": "HealthKart",
+            "seller": "Bright Nutricare Private Limited",
+            "price": 6199,
+            "currency": "INR",
+            "checked": "2026-11-19",
+            "sourceUrl": "https://www.healthkart.com/sv/truebasics-clean-whey-protein-isolate/SP-130335?navKey=VRNT-253129",
+            "variantId": "253129",
+            "matchBasis": "HealthKart selected product numeric id 253129, SP-130335, brand, flavour, retail packaging and explicit net gram/kg weight reviewed against current label evidence; unconditional offer_pr excludes loyalty or coupons. Same manufacturer product/flavour/net pack as https://www.truebasics.com/sv/truebasics-clean-whey-protein-isolate/SP-135063?navKey=VRNT-267055; marketplace has a separate seller SKU. This quote does not replace the primary brand price or establish an archive history.",
+            "stock": "In stock"
+          }
+        ]
+      }
+    },
+    {
+      "order": 832,
+      "offer": {
+        "id": "protein-hk-280889",
+        "brand": "TrueBasics",
+        "product": "TrueBasics Clean Whey Protein Isolate",
+        "type": "Whey",
+        "subclass": "Whey isolate",
+        "form": "Powder",
+        "flavour": "Chocolate",
+        "kg": 1,
+        "grams": 1000,
+        "price": 6099,
+        "currency": "INR",
+        "stock": "In stock",
+        "scoop": 34,
+        "serving": 34,
+        "energy": 405.22,
+        "url": "https://www.healthkart.com/sv/truebasics-clean-whey-protein-isolate/SP-130335?navKey=VRNT-280889",
+        "nutritionUrl": "https://img2.hkrtcdn.com/47080/bnr_4707991_o.jpg",
+        "labelSources": [
+          "https://www.healthkart.com/sv/truebasics-clean-whey-protein-isolate/SP-130335?navKey=VRNT-280889",
+          "https://img2.hkrtcdn.com/47080/bnr_4707991_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Individually reviewed selected HealthKart variant and its current nutrition-panel image; explicit net kg weight is recorded in the selected product technical details. Protein concentration uses the stated per-100 g label value rather than recomputing a conflicting percentage from rounded serving grams.",
+        "notes": "Exact Chocolate refill pack. Label rounds 28 g protein per 34 g serving while stating 82 g per 100 g; use the explicit per-100 g value. Promotional certification claims are not treated as an independently checked batch test.",
+        "energyBasis": "Stated label kcal per 100 g",
+        "sourceType": "retailer",
+        "retailer": "HealthKart",
+        "seller": "Bright Nutricare Private Limited",
+        "sourceProductId": "130335",
+        "sourceVariantId": "280889",
+        "packaging": "Refill pouch",
+        "protein": 82
+      }
+    },
+    {
+      "order": 833,
+      "offer": {
+        "id": "protein-hk-289415",
+        "brand": "TrueBasics",
+        "product": "TrueBasics Clean Whey Protein Isolate",
+        "type": "Whey",
+        "subclass": "Whey isolate",
+        "form": "Powder",
+        "flavour": "Strawberry",
+        "kg": 1,
+        "grams": 1000,
+        "price": 6199,
+        "currency": "INR",
+        "stock": "In stock",
+        "scoop": 34,
+        "serving": 34,
+        "energy": 391.31,
+        "url": "https://www.healthkart.com/sv/truebasics-clean-whey-protein-isolate/SP-130335?navKey=VRNT-289415",
+        "nutritionUrl": "https://img8.hkrtcdn.com/47088/bnr_4708707_o.jpg",
+        "labelSources": [
+          "https://www.healthkart.com/sv/truebasics-clean-whey-protein-isolate/SP-130335?navKey=VRNT-289415",
+          "https://img8.hkrtcdn.com/47088/bnr_4708707_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Individually reviewed selected HealthKart variant and its current nutrition-panel image; explicit net kg weight is recorded in the selected product technical details. Protein concentration uses the stated per-100 g label value rather than recomputing a conflicting percentage from rounded serving grams.",
+        "notes": "Strawberry has its own label values; Chocolate or Vanilla composition is not inherited. Rounded 28 g protein per 34 g serving is stated alongside 82 g per 100 g.",
+        "energyBasis": "Stated label kcal per 100 g",
+        "sourceType": "retailer",
+        "retailer": "HealthKart",
+        "seller": "Bright Nutricare Private Limited",
+        "sourceProductId": "130335",
+        "sourceVariantId": "289415",
+        "packaging": "Jar",
+        "protein": 82
+      }
+    },
+    {
+      "order": 834,
+      "offer": {
+        "id": "protein-hk-274975",
+        "brand": "TrueBasics",
+        "product": "TrueBasics Clean Whey Protein Isolate",
+        "type": "Whey",
+        "subclass": "Whey isolate",
+        "form": "Powder",
+        "flavour": "Coffee",
+        "kg": 1,
+        "grams": 1000,
+        "price": 6199,
+        "currency": "INR",
+        "stock": "In stock",
+        "scoop": 33,
+        "serving": 33,
+        "energy": 392.3,
+        "url": "https://www.healthkart.com/sv/truebasics-clean-whey-protein-isolate/SP-130335?navKey=VRNT-274975",
+        "nutritionUrl": "https://img1.hkrtcdn.com/42397/normal_4239655_o.jpg",
+        "labelSources": [
+          "https://www.healthkart.com/sv/truebasics-clean-whey-protein-isolate/SP-130335?navKey=VRNT-274975",
+          "https://img1.hkrtcdn.com/42397/normal_4239655_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Individually reviewed selected HealthKart variant and its current nutrition-panel image; explicit net kg weight is recorded in the selected product technical details. Protein concentration uses the stated per-100 g label value rather than recomputing a conflicting percentage from rounded serving grams.",
+        "notes": "Coffee label says CONTAINS CAFFEINE without a dose; caffeine exposure is unknown. This is a distinct flavour-specific label (33 g scoop).",
+        "energyBasis": "Stated label kcal per 100 g",
+        "sourceType": "retailer",
+        "retailer": "HealthKart",
+        "seller": "Bright Nutricare Private Limited",
+        "sourceProductId": "130335",
+        "sourceVariantId": "274975",
+        "packaging": "Jar",
+        "protein": 85,
+        "additionalIngredients": [
+          {
+            "name": "Caffeine (from coffee; dose not declared)",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per stated powder serving"
+          }
+        ],
+        "requiresProductReview": true,
+        "productReviewReason": "The Coffee label declares caffeine without a quantified dose. Stimulant exposure cannot be reliably audited."
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 1689,
+      "observation": {
+        "category": "protein",
+        "offerId": 819,
+        "date": "2026-07-12",
+        "price": 4799,
+        "currency": "INR",
+        "sourceUrl": "https://www.truebasics.com/sv/truebasics-clean-whey-protein-isolate/SP-135063",
+        "evidenceUrl": "https://web.archive.org/web/20260712154314id_/https://www.truebasics.com/sv/truebasics-clean-whey-protein-isolate/SP-135063",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2988,
+      "observation": {
+        "category": "protein",
+        "offerId": 818,
+        "date": "2026-10-25",
+        "price": 11499,
+        "currency": "INR",
+        "sourceUrl": "https://www.truebasics.com/pk/clean-whey-protein-isolate-2kg-chocolate-pack?navKey=PA-133303",
+        "evidenceUrl": "https://www.truebasics.com/pk/clean-whey-protein-isolate-2kg-chocolate-pack?navKey=PA-133303",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "PA-133303"
+      }
+    },
+    {
+      "order": 2989,
+      "observation": {
+        "category": "protein",
+        "offerId": 819,
+        "date": "2026-10-25",
+        "price": 5999,
+        "currency": "INR",
+        "sourceUrl": "https://www.truebasics.com/sv/truebasics-clean-whey-protein-isolate/SP-135063",
+        "evidenceUrl": "https://www.truebasics.com/sv/truebasics-clean-whey-protein-isolate/SP-135063",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": null
+      }
+    },
+    {
+      "order": 3564,
+      "observation": {
+        "category": "protein",
+        "offerId": 817,
+        "date": "2026-07-09",
+        "price": 4799,
+        "currency": "INR",
+        "sourceUrl": "https://www.truebasics.com/sv/truebasics-clean-whey-protein-isolate/SP-135063",
+        "evidenceUrl": "https://web.archive.org/web/20260709105442id_/https://www.truebasics.com/sv/truebasics-clean-whey-protein-isolate/SP-135063?navKey=VRNT-274397",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 4846,
+      "observation": {
+        "category": "protein",
+        "offerId": 818,
+        "date": "2026-11-19",
+        "price": 11099,
+        "currency": "INR",
+        "sourceUrl": "https://www.truebasics.com/pk/clean-whey-protein-isolate-2kg-chocolate-pack?navKey=PA-133303",
+        "evidenceUrl": "https://www.truebasics.com/pk/clean-whey-protein-isolate-2kg-chocolate-pack?navKey=PA-133303",
+        "kind": "official-live",
+        "matchBasis": "Official selected product schema SKU matches exact navigation key",
+        "variantId": "VRNT-133303"
+      }
+    },
+    {
+      "order": 4847,
+      "observation": {
+        "category": "protein",
+        "offerId": 819,
+        "date": "2026-11-19",
+        "price": 5999,
+        "currency": "INR",
+        "sourceUrl": "https://www.truebasics.com/sv/truebasics-clean-whey-protein-isolate/SP-135063?navKey=VRNT-267055",
+        "evidenceUrl": "https://www.truebasics.com/sv/truebasics-clean-whey-protein-isolate/SP-135063",
+        "kind": "official-live",
+        "matchBasis": "Official selected product schema flavour and net pack match",
+        "variantId": "VRNT-267055"
+      }
+    },
+    {
+      "order": 5186,
+      "observation": {
+        "category": "protein",
+        "offerId": "protein-hk-280889",
+        "date": "2026-11-19",
+        "price": 6099,
+        "currency": "INR",
+        "sourceUrl": "https://www.healthkart.com/sv/truebasics-clean-whey-protein-isolate/SP-130335?navKey=VRNT-280889",
+        "evidenceUrl": "https://www.healthkart.com/sv/truebasics-clean-whey-protein-isolate/SP-130335?navKey=VRNT-280889",
+        "kind": "official-live",
+        "variantId": "280889",
+        "matchBasis": "HealthKart selected product numeric id 280889, SP-130335, brand, flavour, retail packaging and explicit net gram/kg weight reviewed against current label evidence; unconditional offer_pr excludes loyalty or coupons."
+      }
+    },
+    {
+      "order": 5187,
+      "observation": {
+        "category": "protein",
+        "offerId": "protein-hk-289415",
+        "date": "2026-11-19",
+        "price": 6199,
+        "currency": "INR",
+        "sourceUrl": "https://www.healthkart.com/sv/truebasics-clean-whey-protein-isolate/SP-130335?navKey=VRNT-289415",
+        "evidenceUrl": "https://www.healthkart.com/sv/truebasics-clean-whey-protein-isolate/SP-130335?navKey=VRNT-289415",
+        "kind": "official-live",
+        "variantId": "289415",
+        "matchBasis": "HealthKart selected product numeric id 289415, SP-130335, brand, flavour, retail packaging and explicit net gram/kg weight reviewed against current label evidence; unconditional offer_pr excludes loyalty or coupons."
+      }
+    },
+    {
+      "order": 5188,
+      "observation": {
+        "category": "protein",
+        "offerId": "protein-hk-274975",
+        "date": "2026-11-19",
+        "price": 6199,
+        "currency": "INR",
+        "sourceUrl": "https://www.healthkart.com/sv/truebasics-clean-whey-protein-isolate/SP-130335?navKey=VRNT-274975",
+        "evidenceUrl": "https://www.healthkart.com/sv/truebasics-clean-whey-protein-isolate/SP-130335?navKey=VRNT-274975",
+        "kind": "official-live",
+        "variantId": "274975",
+        "matchBasis": "HealthKart selected product numeric id 274975, SP-130335, brand, flavour, retail packaging and explicit net gram/kg weight reviewed against current label evidence; unconditional offer_pr excludes loyalty or coupons."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 295,
+      "profile": {
+        "id": "protein-hk-280889",
+        "brand": "TrueBasics",
+        "product": "TrueBasics Clean Whey Protein Isolate",
+        "type": "Whey",
+        "subclass": "Whey isolate",
+        "form": "Powder",
+        "flavour": "Chocolate",
+        "kg": 1,
+        "grams": 1000,
+        "currency": "INR",
+        "scoop": 34,
+        "serving": 34,
+        "energy": 405.22,
+        "nutritionUrl": "https://img2.hkrtcdn.com/47080/bnr_4707991_o.jpg",
+        "labelSources": [
+          "https://www.healthkart.com/sv/truebasics-clean-whey-protein-isolate/SP-130335?navKey=VRNT-280889",
+          "https://img2.hkrtcdn.com/47080/bnr_4707991_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Individually reviewed selected HealthKart variant and its current nutrition-panel image; explicit net kg weight is recorded in the selected product technical details. Protein concentration uses the stated per-100 g label value rather than recomputing a conflicting percentage from rounded serving grams.",
+        "notes": "Exact Chocolate refill pack. Label rounds 28 g protein per 34 g serving while stating 82 g per 100 g; use the explicit per-100 g value. Promotional certification claims are not treated as an independently checked batch test.",
+        "energyBasis": "Stated label kcal per 100 g",
+        "sourceType": "retailer",
+        "retailer": "HealthKart",
+        "seller": "Bright Nutricare Private Limited",
+        "packaging": "Refill pouch",
+        "protein": 82,
+        "category": "protein",
+        "kind": "hk-product",
+        "base": "https://www.healthkart.com",
+        "productUrl": "https://www.healthkart.com/sv/truebasics-clean-whey-protein-isolate/SP-130335?navKey=VRNT-280889",
+        "variantUrl": "https://www.healthkart.com/sv/truebasics-clean-whey-protein-isolate/SP-130335?navKey=VRNT-280889",
+        "variantId": "280889",
+        "productId": "130335",
+        "sourceBrand": "TrueBasics",
+        "variantAttributes": {
+          "gen-pro-siz": "2.2 lb",
+          "gen-sn-flv": "Chocolate (Refill Pack)"
+        },
+        "cacheKey": "healthkart-280889",
+        "packSizeLabel": "2.2 lb",
+        "netWeightEvidenceUrl": "https://www.healthkart.com/sv/truebasics-clean-whey-protein-isolate/SP-130335?navKey=VRNT-280889",
+        "netWeightEvidenceGrams": 1000,
+        "netWeightEvidenceChecked": "2026-11-19"
+      }
+    },
+    {
+      "order": 296,
+      "profile": {
+        "id": "protein-hk-289415",
+        "brand": "TrueBasics",
+        "product": "TrueBasics Clean Whey Protein Isolate",
+        "type": "Whey",
+        "subclass": "Whey isolate",
+        "form": "Powder",
+        "flavour": "Strawberry",
+        "kg": 1,
+        "grams": 1000,
+        "currency": "INR",
+        "scoop": 34,
+        "serving": 34,
+        "energy": 391.31,
+        "nutritionUrl": "https://img8.hkrtcdn.com/47088/bnr_4708707_o.jpg",
+        "labelSources": [
+          "https://www.healthkart.com/sv/truebasics-clean-whey-protein-isolate/SP-130335?navKey=VRNT-289415",
+          "https://img8.hkrtcdn.com/47088/bnr_4708707_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Individually reviewed selected HealthKart variant and its current nutrition-panel image; explicit net kg weight is recorded in the selected product technical details. Protein concentration uses the stated per-100 g label value rather than recomputing a conflicting percentage from rounded serving grams.",
+        "notes": "Strawberry has its own label values; Chocolate or Vanilla composition is not inherited. Rounded 28 g protein per 34 g serving is stated alongside 82 g per 100 g.",
+        "energyBasis": "Stated label kcal per 100 g",
+        "sourceType": "retailer",
+        "retailer": "HealthKart",
+        "seller": "Bright Nutricare Private Limited",
+        "packaging": "Jar",
+        "protein": 82,
+        "category": "protein",
+        "kind": "hk-product",
+        "base": "https://www.healthkart.com",
+        "productUrl": "https://www.healthkart.com/sv/truebasics-clean-whey-protein-isolate/SP-130335?navKey=VRNT-289415",
+        "variantUrl": "https://www.healthkart.com/sv/truebasics-clean-whey-protein-isolate/SP-130335?navKey=VRNT-289415",
+        "variantId": "289415",
+        "productId": "130335",
+        "sourceBrand": "TrueBasics",
+        "variantAttributes": {
+          "gen-pro-siz": "2.2 lb",
+          "gen-sn-flv": "Strawberry"
+        },
+        "cacheKey": "healthkart-289415",
+        "packSizeLabel": "2.2 lb",
+        "netWeightEvidenceUrl": "https://www.healthkart.com/sv/truebasics-clean-whey-protein-isolate/SP-130335?navKey=VRNT-289415",
+        "netWeightEvidenceGrams": 1000,
+        "netWeightEvidenceChecked": "2026-11-19"
+      }
+    },
+    {
+      "order": 297,
+      "profile": {
+        "id": "protein-hk-274975",
+        "brand": "TrueBasics",
+        "product": "TrueBasics Clean Whey Protein Isolate",
+        "type": "Whey",
+        "subclass": "Whey isolate",
+        "form": "Powder",
+        "flavour": "Coffee",
+        "kg": 1,
+        "grams": 1000,
+        "currency": "INR",
+        "scoop": 33,
+        "serving": 33,
+        "energy": 392.3,
+        "nutritionUrl": "https://img1.hkrtcdn.com/42397/normal_4239655_o.jpg",
+        "labelSources": [
+          "https://www.healthkart.com/sv/truebasics-clean-whey-protein-isolate/SP-130335?navKey=VRNT-274975",
+          "https://img1.hkrtcdn.com/42397/normal_4239655_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Individually reviewed selected HealthKart variant and its current nutrition-panel image; explicit net kg weight is recorded in the selected product technical details. Protein concentration uses the stated per-100 g label value rather than recomputing a conflicting percentage from rounded serving grams.",
+        "notes": "Coffee label says CONTAINS CAFFEINE without a dose; caffeine exposure is unknown. This is a distinct flavour-specific label (33 g scoop).",
+        "energyBasis": "Stated label kcal per 100 g",
+        "sourceType": "retailer",
+        "retailer": "HealthKart",
+        "seller": "Bright Nutricare Private Limited",
+        "packaging": "Jar",
+        "protein": 85,
+        "additionalIngredients": [
+          {
+            "name": "Caffeine (from coffee; dose not declared)",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per stated powder serving"
+          }
+        ],
+        "category": "protein",
+        "kind": "hk-product",
+        "base": "https://www.healthkart.com",
+        "productUrl": "https://www.healthkart.com/sv/truebasics-clean-whey-protein-isolate/SP-130335?navKey=VRNT-274975",
+        "variantUrl": "https://www.healthkart.com/sv/truebasics-clean-whey-protein-isolate/SP-130335?navKey=VRNT-274975",
+        "variantId": "274975",
+        "productId": "130335",
+        "sourceBrand": "TrueBasics",
+        "variantAttributes": {
+          "gen-pro-siz": "2.2 lb",
+          "gen-sn-flv": "Coffee"
+        },
+        "cacheKey": "healthkart-274975",
+        "packSizeLabel": "2.2 lb",
+        "netWeightEvidenceUrl": "https://www.healthkart.com/sv/truebasics-clean-whey-protein-isolate/SP-130335?navKey=VRNT-274975",
+        "netWeightEvidenceGrams": 1000,
+        "netWeightEvidenceChecked": "2026-11-19",
+        "requiresProductReview": true,
+        "productReviewReason": "The Coffee label declares caffeine without a quantified dose. Stimulant exposure cannot be reliably audited."
+      }
+    }
+  ]
+}

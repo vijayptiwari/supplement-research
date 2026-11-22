@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "category": "ashwagandha",
+  "brand": "Rasayanam",
+  "product": "Ashwagandha KSM-66 600 mg",
+  "variants": [
+    {
+      "order": 12,
+      "offer": {
+        "id": "ashwagandha-44861153018033",
+        "brand": "Rasayanam",
+        "product": "Ashwagandha KSM-66 600 mg",
+        "form": "Capsule",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "source": "Not specified",
+        "labelChecked": "2026-11-19",
+        "notes": "Amounts and extract identity are manufacturer declarations. Price excludes conditional prepaid and coupon reductions.",
+        "packCount": 60,
+        "servingUnits": 1,
+        "type": "Root extract",
+        "subclass": "KSM-66",
+        "ashwagandhaMg": 600,
+        "standardizedExtractMg": 600,
+        "withanolidesPct": null,
+        "basis": "The current official listing identifies 60 capsules in Pack of 1 and 600 mg KSM-66 root extract in one capsule. A standardization percentage is not copied from another product or gallery.",
+        "price": 799,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://rasayanam.in/products/ashwagandha-ksm66?variant=44861153018033",
+        "nutritionUrl": "https://rasayanam.in/products/ashwagandha-ksm66",
+        "labelSources": [
+          "https://rasayanam.in/products/ashwagandha-ksm66",
+          "https://cdn.shopify.com/s/files/1/0669/9093/2145/files/Slide_1_278d23e7-b163-435a-9a49-42edf69fc143.webp?v=1777281881"
+        ]
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3887,
+      "observation": {
+        "category": "ashwagandha",
+        "offerId": "ashwagandha-44861153018033",
+        "date": "2026-11-19",
+        "price": 799,
+        "currency": "INR",
+        "sourceUrl": "https://rasayanam.in/products/ashwagandha-ksm66?variant=44861153018033",
+        "evidenceUrl": "https://rasayanam.in/products/ashwagandha-ksm66.json",
+        "kind": "official-live",
+        "variantId": "44861153018033",
+        "matchBasis": "Official exact public Shopify variant ID; unconditional INR price and stock. Net pack quantity and ingredient serving transcribed from official text/panels checked2026-11-19."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 129,
+      "profile": {
+        "brand": "Rasayanam",
+        "product": "Ashwagandha KSM-66 600 mg",
+        "form": "Capsule",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "source": "Not specified",
+        "labelChecked": "2026-11-19",
+        "notes": "Amounts and extract identity are manufacturer declarations. Price excludes conditional prepaid and coupon reductions.",
+        "packCount": 60,
+        "servingUnits": 1,
+        "type": "Root extract",
+        "subclass": "KSM-66",
+        "ashwagandhaMg": 600,
+        "standardizedExtractMg": 600,
+        "withanolidesPct": null,
+        "basis": "The current official listing identifies 60 capsules in Pack of 1 and 600 mg KSM-66 root extract in one capsule. A standardization percentage is not copied from another product or gallery.",
+        "nutritionUrl": "https://rasayanam.in/products/ashwagandha-ksm66",
+        "labelSources": [
+          "https://rasayanam.in/products/ashwagandha-ksm66",
+          "https://cdn.shopify.com/s/files/1/0669/9093/2145/files/Slide_1_278d23e7-b163-435a-9a49-42edf69fc143.webp?v=1777281881"
+        ],
+        "category": "ashwagandha",
+        "base": "https://rasayanam.in",
+        "handle": "ashwagandha-ksm66",
+        "variantIds": [
+          "44861153018033"
+        ],
+        "numericVariantIsCount": false,
+        "id": "ashwagandha-44861153018033"
+      }
+    }
+  ]
+}

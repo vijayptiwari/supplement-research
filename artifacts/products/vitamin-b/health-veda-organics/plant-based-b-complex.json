@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 1,
+  "category": "vitamin-b",
+  "brand": "Health Veda Organics",
+  "product": "Plant-Based B-Complex",
+  "variants": [
+    {
+      "order": 7,
+      "offer": {
+        "brand": "Health Veda Organics",
+        "product": "Plant-Based B-Complex",
+        "form": "Tablet",
+        "type": "B-complex (forms not verified)",
+        "subclass": "Full B-vitamin combination",
+        "packCount": 120,
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Current official product title specifies 120 vegetarian tablets and the ingredient list names all eight B vitamins; numeric vitamin amounts and label serving are unverified.",
+        "notes": "Legacy URL says 60 capsules, but the current official title identifies 120 tablets. Exact formulation amounts remain unknown; check the physical label.",
+        "labelChecked": "2026-10-31",
+        "declaredNutrients": [
+          "vitaminB1Mg",
+          "vitaminB2Mg",
+          "vitaminB3Mg",
+          "vitaminB5Mg",
+          "vitaminB6Mg",
+          "biotinMcg",
+          "vitaminB12Mcg",
+          "folicAcidMcg"
+        ],
+        "flavour": "Unflavoured",
+        "vitaminB1Mg": null,
+        "vitaminB2Mg": null,
+        "vitaminB3Mg": null,
+        "vitaminB5Mg": null,
+        "vitaminB6Mg": null,
+        "biotinMcg": null,
+        "vitaminB12Mcg": null,
+        "folicAcidMcg": null,
+        "folateMcgDfe": null,
+        "methylfolateMcg": null,
+        "id": "vitamin-b-42527061934302",
+        "price": 498,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://healthvedaorganics.com/products/plant-based-b-complex-capsules-with-all-b-vitamins-support-cognitive-health-60-veg-capsules?variant=42527061934302",
+        "nutritionUrl": "https://healthvedaorganics.com/products/plant-based-b-complex-capsules-with-all-b-vitamins-support-cognitive-health-60-veg-capsules",
+        "packaging": "Single retail pack",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://healthvedaorganics.com/products/plant-based-b-complex-capsules-with-all-b-vitamins-support-cognitive-health-60-veg-capsules?variant=42527061934302",
+          "evidenceUrl": "https://healthvedaorganics.com/products/plant-based-b-complex-capsules-with-all-b-vitamins-support-cognitive-health-60-veg-capsules.json",
+          "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3787,
+      "observation": {
+        "category": "vitamin-b",
+        "offerId": "vitamin-b-42527061934302",
+        "date": "2026-10-31",
+        "price": 498,
+        "currency": "INR",
+        "sourceUrl": "https://healthvedaorganics.com/products/plant-based-b-complex-capsules-with-all-b-vitamins-support-cognitive-health-60-veg-capsules?variant=42527061934302",
+        "evidenceUrl": "https://healthvedaorganics.com/products/plant-based-b-complex-capsules-with-all-b-vitamins-support-cognitive-health-60-veg-capsules.json",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify product variant ID, price and single retail-pack count verified; quantities come from separately cited label evidence.",
+        "variantId": "42527061934302"
+      }
+    },
+    {
+      "order": 3943,
+      "observation": {
+        "category": "vitamin-b",
+        "offerId": "vitamin-b-42527061934302",
+        "date": "2026-11-19",
+        "price": 498,
+        "currency": "INR",
+        "sourceUrl": "https://healthvedaorganics.com/products/plant-based-b-complex-capsules-with-all-b-vitamins-support-cognitive-health-60-veg-capsules?variant=42527061934302",
+        "evidenceUrl": "https://healthvedaorganics.com/products/plant-based-b-complex-capsules-with-all-b-vitamins-support-cognitive-health-60-veg-capsules.json",
+        "kind": "official-live",
+        "variantId": "42527061934302",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 71,
+      "profile": {
+        "category": "vitamin-b",
+        "brand": "Health Veda Organics",
+        "base": "https://healthvedaorganics.com",
+        "handle": "plant-based-b-complex-capsules-with-all-b-vitamins-support-cognitive-health-60-veg-capsules",
+        "product": "Plant-Based B-Complex",
+        "form": "Tablet",
+        "type": "B-complex (forms not verified)",
+        "subclass": "Full B-vitamin combination",
+        "packCount": 120,
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Current official product title specifies 120 vegetarian tablets and the ingredient list names all eight B vitamins; numeric vitamin amounts and label serving are unverified.",
+        "notes": "Legacy URL says 60 capsules, but the current official title identifies 120 tablets. Exact formulation amounts remain unknown; check the physical label.",
+        "labelChecked": "2026-10-31",
+        "declaredNutrients": [
+          "vitaminB1Mg",
+          "vitaminB2Mg",
+          "vitaminB3Mg",
+          "vitaminB5Mg",
+          "vitaminB6Mg",
+          "biotinMcg",
+          "vitaminB12Mcg",
+          "folicAcidMcg"
+        ],
+        "flavour": "Unflavoured",
+        "vitaminB1Mg": null,
+        "vitaminB2Mg": null,
+        "vitaminB3Mg": null,
+        "vitaminB5Mg": null,
+        "vitaminB6Mg": null,
+        "biotinMcg": null,
+        "vitaminB12Mcg": null,
+        "folicAcidMcg": null,
+        "folateMcgDfe": null,
+        "methylfolateMcg": null
+      }
+    }
+  ]
+}

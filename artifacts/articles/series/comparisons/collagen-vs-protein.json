@@ -1,0 +1,203 @@
+{
+  "schemaVersion": 1,
+  "order": 71,
+  "article": {
+    "id": "collagen-vs-protein",
+    "category": "collagen",
+    "relatedCategories": [
+      "protein",
+      "eaa"
+    ],
+    "series": "comparisons",
+    "title": "Collagen vs whey and plant protein: different profiles, different questions",
+    "summary": "Collagen is protein, but its amino-acid profile and research questions differ from complete dietary protein. Learn what that means for muscle, connective tissue and value.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "Collagen is often positioned beside whey and plant protein as if the only choice were flavour or animal source. It is a protein, yet that does not make it a complete replacement for the protein used to meet a broader dietary need. Its distinctive amino-acid profile and the outcomes studied for collagen deserve separate attention. A product might be investigated for a joint symptom or a connective-tissue response without becoming the best way to fill a protein gap. Decide which question matters before comparing scoop sizes or prices.",
+    "sections": [
+      {
+        "id": "protein-with-a-different-profile",
+        "title": "Collagen contains useful amino acids, but is not complete protein on its own",
+        "body": "Collagen-derived products supply protein and can be digested. Their composition is rich in amino acids such as glycine and proline, while plain collagen lacks tryptophan and supplies relatively little leucine compared with whey. That is why the same number of labelled protein grams should not automatically be treated as the same essential-amino-acid contribution. Calling collagen zero protein would be wrong; treating it as a complete stand-alone source would also be misleading. A fortified mixture can have a different profile from plain collagen, so read the finished formula rather than assigning every collagen-containing product the same composition.",
+        "sourceIds": [
+          "collagen-muscle-oikawa-2020",
+          "comparison-collagen-dairy-alcock-2019",
+          "comparison-collagen-muscle-aussieker-2023"
+        ]
+      },
+      {
+        "id": "digestion-and-delivery",
+        "title": "Swallowed collagen does not travel intact to a chosen joint",
+        "body": "Dietary proteins undergo digestion before their components become available to tissues. Human studies have detected some small collagen-derived peptides in the blood after hydrolysate ingestion, alongside amino-acid exposure. Detecting those peptides is evidence about absorption; it does not show that the original collagen strand has been installed in a knee, wrinkle or tendon. The body regulates its own tissue turnover. Mechanistic and cell experiments can help generate hypotheses, but a claim that an oral product repairs a particular structure still needs relevant human outcomes. An illustrated pathway should make that uncertainty visible rather than drawing an effortless route from scoop to repair.",
+        "sourceIds": [
+          "digestion",
+          "collagen-absorption-iwai-2005"
+        ]
+      },
+      {
+        "id": "muscle-comparisons",
+        "title": "For a muscle-protein goal, examine direct comparisons",
+        "body": "A randomized study in older women compared whey and collagen peptides using equal protein amounts. Whey produced a greater muscle-protein-synthesis response in the studied conditions. This is useful evidence against assuming that the two sources are interchangeable for muscle nutrition. It was a small, short investigation with a specific population and laboratory outcomes, not a lifetime prediction or a ranking of all brands. The practical point is to preserve adequate essential-amino-acid supply when filling a protein gap, rather than replacing a suitable main protein source simply because collagen also has protein printed on its label.",
+        "sourceIds": [
+          "collagen-muscle-oikawa-2020",
+          "food-performance-amino-acids"
+        ]
+      },
+      {
+        "id": "plant-protein-context",
+        "title": "A plant source is not automatically the same comparison as collagen",
+        "body": "Plant proteins vary in amino-acid composition, preparation and digestibility. Soy, pea, rice and mixtures should be assessed individually and within a varied diet. A protein-matched training study using a vegan diet and soy isolate found no detected difference in measured adaptations from a mixed diet using whey. That finding does not establish equivalence for every serving, but it illustrates why a well-planned plant approach is a different nutritional proposition from relying on plain collagen. Choose a source that supplies the needed amino-acid contribution and fits diet and allergies; animal origin alone does not establish the answer.",
+        "sourceIds": [
+          "protein-plant-diet-hevia-2021",
+          "protein-amino-acids-gorissen-2018",
+          "food-protein-vegetarian"
+        ]
+      },
+      {
+        "id": "connective-tissue-evidence",
+        "title": "A blood marker and stronger tendons are different outcomes",
+        "body": "In a small gelatin-plus-vitamin-C experiment, a collagen-formation marker changed after a particular supplementation and exercise protocol. The work included blood samples and an engineered-ligament experiment; it did not establish fewer injuries or healed tendons in participants. In a separate acute study in recreational athletes, neither collagen nor whey added a detectable increase in muscle connective-protein synthesis during the early recovery window. These studies ask different questions. They support careful, outcome-specific interpretation rather than a blanket claim that collagen always repairs connective tissue, or the opposite claim that every possible longer-term application has been disproved.",
+        "sourceIds": [
+          "comparison-gelatin-marker-shaw-2017",
+          "comparison-collagen-muscle-aussieker-2023"
+        ]
+      },
+      {
+        "id": "joint-symptoms-and-limits",
+        "title": "Joint-symptom findings do not establish cartilage regrowth",
+        "body": "Some collagen-hydrolysate trials have reported improvements in selected joint-discomfort measures. A 24-week athlete study is one example, but only part of its recruited sample supplied evaluable data and several outcomes were tested. Another placebo-controlled study in people reporting knee pain did not find a between-group improvement in the primary pain measure. Different preparations, populations and study methods help explain why one positive result cannot certify an entire ingredient category. Reduced discomfort would still be a different finding from new cartilage, prevention of osteoarthritis or treatment of the cause of persistent pain.",
+        "sourceIds": [
+          "comparison-collagen-joint-clark-2008",
+          "comparison-collagen-knee-null-2020"
+        ]
+      },
+      {
+        "id": "forms-and-dose-basis",
+        "title": "Hydrolysed peptides, gelatin and native type II are not interchangeable labels",
+        "body": "Collagen peptides are hydrolysed preparations; gelatin is a differently processed collagen-derived material. Native or undenatured type II products are studied for a different proposed application and should not be compared with peptide powders merely by choosing the largest gram number. A type label, an animal source and a delivery format answer different questions. Preserve the actual ingredient identity, declared amount and study preparation when judging evidence. Evidence for one hydrolysate does not validate every gummy, capsule or blend carrying collagen in its name, and the size of a serving is not a clinical potency scale.",
+        "sourceIds": [
+          "collagen-absorption-iwai-2005",
+          "comparison-gelatin-marker-shaw-2017",
+          "supplement-quality-ods",
+          "comparison-collagen-typeii-lugo-2016"
+        ]
+      },
+      {
+        "id": "food-and-synthesis",
+        "title": "Food can support collagen synthesis without containing collagen itself",
+        "body": "Animal connective tissues and gelatin-containing foods supply collagen-derived material. A broth's recipe, concentration and preparation affect what a serving supplies, so the amount should not be inferred from its name. Ordinary protein foods contribute amino-acid building blocks, while vitamin C has an essential role in normal collagen synthesis. A plant food supplying vitamin C is not thereby a measured collagen source, and a vitamin-and-amino-acid collagen-builder blend is not automatically collagen. Food-based adequacy and a retail collagen product are separate options to assess, rather than interchangeable doses of a named supplement.",
+        "sourceIds": [
+          "comparison-collagen-dairy-alcock-2019",
+          "food-protein",
+          "c-overview"
+        ]
+      },
+      {
+        "id": "value-for-the-goal",
+        "title": "Compare cost within the purpose, not only protein grams",
+        "body": "If the purchase is intended to fill a dietary protein gap, assess complete protein contribution, tolerability and cost per gram of labelled protein. If considering a collagen intervention for a particular outcome, compare the exact preparation, evidence, full serving and expected purchase duration. A low price per gram does not prove that it matches a studied formulation or provides a worthwhile benefit. Conversely, a premium marine source or patented name needs relevant supporting evidence. Keep unverified composition separate from independently measured content, and do not let collagen displace a more important nutrition need simply because the packaging lists protein.",
+        "sourceIds": [
+          "supplement-quality-ods",
+          "comparison-collagen-dairy-alcock-2019",
+          "food-performance-protein"
+        ]
+      },
+      {
+        "id": "suitability-and-decision",
+        "title": "Source restrictions and persistent symptoms matter more than a marketing category",
+        "body": "Check the declared animal source and allergens, including fish for marine products, plus all ingredients in blends. Lower lactose and milk allergy are different issues when considering whey; an alternative protein must still fit the individual. Anyone with medically restricted protein intake or kidney disease needs individualized nutrition care. Persistent joint pain, swelling or loss of function calls for assessment rather than treating a supplement response as a diagnosis. A reasonable decision can be ordinary food, a suitable complete protein, a carefully reviewed adjunct or no additional product. Collagen should be considered for a stated purpose with a way to reassess value.",
+        "sourceIds": [
+          "food-allergens",
+          "food-kidney-diet",
+          "supplement-quality-ods"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "collagen-muscle-oikawa-2020",
+      "comparison-collagen-dairy-alcock-2019",
+      "comparison-collagen-muscle-aussieker-2023",
+      "digestion",
+      "collagen-absorption-iwai-2005",
+      "food-performance-amino-acids",
+      "protein-plant-diet-hevia-2021",
+      "protein-amino-acids-gorissen-2018",
+      "food-protein-vegetarian",
+      "comparison-gelatin-marker-shaw-2017",
+      "comparison-collagen-joint-clark-2008",
+      "comparison-collagen-knee-null-2020",
+      "supplement-quality-ods",
+      "comparison-collagen-typeii-lugo-2016",
+      "food-protein",
+      "c-overview",
+      "food-performance-protein",
+      "food-allergens",
+      "food-kidney-diet"
+    ],
+    "comparison": {
+      "title": "Match the protein profile to the purpose",
+      "columns": [
+        {
+          "key": "supplies",
+          "label": "What it supplies"
+        },
+        {
+          "key": "role",
+          "label": "Where it may fit"
+        },
+        {
+          "key": "limits",
+          "label": "Main limitation"
+        },
+        {
+          "key": "value",
+          "label": "Value check"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Whey protein",
+          "values": {
+            "supplies": "A complete milk protein with substantial essential-amino-acid and leucine content.",
+            "role": "A possible way to fill a protein gap when dairy fits the diet.",
+            "limits": "Milk allergy, tolerability and the full diet matter; no brand is certified by an ingredient study.",
+            "value": "Compare finished-product protein grams, allergens, composition evidence and cost."
+          },
+          "sourceIds": [
+            "collagen-muscle-oikawa-2020",
+            "food-allergens",
+            "supplement-quality-ods"
+          ]
+        },
+        {
+          "label": "Suitable plant protein or blend",
+          "values": {
+            "supplies": "Source-dependent amino-acid profiles; adequate amounts and dietary variety remain relevant.",
+            "role": "A plant-based protein gap when the source and full diet are suitable.",
+            "limits": "Every source, blend and serving is not automatically equivalent.",
+            "value": "Review source proportions, labelled protein, amino-acid information, allergens and price."
+          },
+          "sourceIds": [
+            "protein-amino-acids-gorissen-2018",
+            "protein-plant-diet-hevia-2021",
+            "food-protein-vegetarian"
+          ]
+        },
+        {
+          "label": "Collagen peptides",
+          "values": {
+            "supplies": "Glycine- and proline-rich protein; plain collagen lacks tryptophan and is relatively low in leucine.",
+            "role": "An optional outcome-specific adjunct after reviewing the exact preparation and evidence.",
+            "limits": "It is not a complete stand-alone protein or proof of tissue repair.",
+            "value": "Price the stated purpose, full serving, source and quality evidence; avoid an unsupported premium."
+          },
+          "sourceIds": [
+            "collagen-muscle-oikawa-2020",
+            "comparison-collagen-muscle-aussieker-2023",
+            "supplement-quality-ods"
+          ]
+        }
+      ]
+    }
+  }
+}

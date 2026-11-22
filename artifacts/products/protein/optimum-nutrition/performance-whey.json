@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "Optimum Nutrition",
+  "product": "Performance Whey",
+  "variants": [
+    {
+      "order": 625,
+      "offer": {
+        "id": 625,
+        "brand": "Optimum Nutrition",
+        "product": "Performance Whey",
+        "type": "Whey — blend",
+        "flavour": "Chocolate Milkshake",
+        "kg": 1,
+        "price": 3799,
+        "stock": "In stock",
+        "protein": 64.86486486486487,
+        "scoop": 37,
+        "serving": 37,
+        "subclass": "Whey blend",
+        "energy": 376,
+        "url": "https://www.optimumnutrition.co.in/products/optimum-nutrition-on-performance-whey-protein-powder-1kg-chocolate-milkshake?variant=46662672449762",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0738/8649/9042/files/748927071320_7_57415e42-d38d-4370-b778-9e8789bcbd50.jpg?v=1756964077",
+        "basis": "24g protein / 37g serving; brand description",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-matched label image, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.optimumnutrition.co.in/products/optimum-nutrition-on-performance-whey-protein-powder-1kg-chocolate-milkshake?variant=46662672449762",
+          "evidenceUrl": "https://www.optimumnutrition.co.in/products.json?limit=250&page=1",
+          "matchBasis": "Single official variant and explicit product net pack"
+        }
+      }
+    },
+    {
+      "order": 626,
+      "offer": {
+        "id": 626,
+        "brand": "Optimum Nutrition",
+        "product": "Performance Whey",
+        "type": "Whey — blend",
+        "flavour": "Chocolate Milkshake",
+        "kg": 2,
+        "price": 6759,
+        "stock": "In stock",
+        "protein": 64.86486486486487,
+        "scoop": 37,
+        "serving": 37,
+        "subclass": "Whey blend",
+        "energy": 376,
+        "url": "https://www.optimumnutrition.co.in/products/optimum-nutrition-on-performance-whey-protein-powder-24g-protein-2kg-chocolate-milkshake-ultra-filtered-and-concentrated-all-whey-protein?variant=46820096082146",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0738/8649/9042/files/748927071337_6.jpg?v=1756973390",
+        "basis": "24g protein / 37g serving; brand description",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-matched label image, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.optimumnutrition.co.in/products/optimum-nutrition-on-performance-whey-protein-powder-24g-protein-2kg-chocolate-milkshake-ultra-filtered-and-concentrated-all-whey-protein?variant=46820096082146",
+          "evidenceUrl": "https://www.optimumnutrition.co.in/products.json?limit=250&page=1",
+          "matchBasis": "Single official variant and explicit product net pack"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 1604,
+      "observation": {
+        "category": "protein",
+        "offerId": 625,
+        "date": "2025-08-08",
+        "price": 2749,
+        "currency": "INR",
+        "sourceUrl": "https://www.optimumnutrition.co.in/products/optimum-nutrition-on-performance-whey-protein-powder-1kg-chocolate-milkshake",
+        "evidenceUrl": "https://web.archive.org/web/20250808035006id_/https://www.optimumnutrition.co.in/products/optimum-nutrition-on-performance-whey-protein-powder-1kg-chocolate-milkshake",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "46662672449762",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2814,
+      "observation": {
+        "category": "protein",
+        "offerId": 625,
+        "date": "2026-10-25",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://www.optimumnutrition.co.in/products/optimum-nutrition-on-performance-whey-protein-powder-1kg-chocolate-milkshake",
+        "evidenceUrl": "https://www.optimumnutrition.co.in/products/optimum-nutrition-on-performance-whey-protein-powder-1kg-chocolate-milkshake.json",
+        "kind": "official-live",
+        "matchBasis": "Official single-variant product",
+        "variantId": "46662672449762"
+      }
+    },
+    {
+      "order": 2815,
+      "observation": {
+        "category": "protein",
+        "offerId": 626,
+        "date": "2026-10-25",
+        "price": 6299,
+        "currency": "INR",
+        "sourceUrl": "https://www.optimumnutrition.co.in/products/optimum-nutrition-on-performance-whey-protein-powder-24g-protein-2kg-chocolate-milkshake-ultra-filtered-and-concentrated-all-whey-protein",
+        "evidenceUrl": "https://www.optimumnutrition.co.in/products/optimum-nutrition-on-performance-whey-protein-powder-24g-protein-2kg-chocolate-milkshake-ultra-filtered-and-concentrated-all-whey-protein.json",
+        "kind": "official-live",
+        "matchBasis": "Official single-variant product",
+        "variantId": "46820096082146"
+      }
+    },
+    {
+      "order": 4672,
+      "observation": {
+        "category": "protein",
+        "offerId": 625,
+        "date": "2026-11-19",
+        "price": 3799,
+        "currency": "INR",
+        "sourceUrl": "https://www.optimumnutrition.co.in/products/optimum-nutrition-on-performance-whey-protein-powder-1kg-chocolate-milkshake?variant=46662672449762",
+        "evidenceUrl": "https://www.optimumnutrition.co.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Single official variant and explicit product net pack",
+        "variantId": "46662672449762"
+      }
+    },
+    {
+      "order": 4673,
+      "observation": {
+        "category": "protein",
+        "offerId": 626,
+        "date": "2026-11-19",
+        "price": 6759,
+        "currency": "INR",
+        "sourceUrl": "https://www.optimumnutrition.co.in/products/optimum-nutrition-on-performance-whey-protein-powder-24g-protein-2kg-chocolate-milkshake-ultra-filtered-and-concentrated-all-whey-protein?variant=46820096082146",
+        "evidenceUrl": "https://www.optimumnutrition.co.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Single official variant and explicit product net pack",
+        "variantId": "46820096082146"
+      }
+    }
+  ],
+  "refreshSources": []
+}

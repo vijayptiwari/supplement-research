@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "MuscleBlaze",
+  "product": "Whey Gold Protein Isolate with Digezyme",
+  "variants": [
+    {
+      "order": 253,
+      "offer": {
+        "id": 253,
+        "brand": "MuscleBlaze",
+        "product": "Whey Gold Protein Isolate with Digezyme",
+        "type": "Whey — isolate",
+        "flavour": "Rich Milk Chocolate",
+        "kg": 4,
+        "price": 27663,
+        "stock": "In stock",
+        "protein": 82,
+        "scoop": 36.5,
+        "serving": 36.5,
+        "subclass": "Whey isolate",
+        "energy": 385.86,
+        "url": "https://www.muscleblaze.com/sv/muscleblaze-whey-gold-protein-isolate-with-digezyme/SP-65401?navKey=VRNT-116549",
+        "nutritionUrl": "https://www.muscleblaze.com/sv/muscleblaze-whey-gold-protein-isolate-with-digezyme/SP-65401?navKey=VRNT-116549",
+        "basis": "Exact variant nutrition table, protein per 100g",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Exact page nutrition table, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-whey-gold-protein-isolate-with-digezyme/SP-65401?navKey=VRNT-116549",
+          "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-whey-gold-protein-isolate-with-digezyme/SP-65401?navKey=VRNT-116549",
+          "matchBasis": "Official selected product schema SKU matches exact navigation key"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 2442,
+      "observation": {
+        "category": "protein",
+        "offerId": 253,
+        "date": "2026-10-25",
+        "price": 27663,
+        "currency": "INR",
+        "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-whey-gold-protein-isolate-with-digezyme/SP-65401?navKey=VRNT-116549",
+        "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-whey-gold-protein-isolate-with-digezyme/SP-65401?navKey=VRNT-116549",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "VRNT-116549"
+      }
+    },
+    {
+      "order": 4301,
+      "observation": {
+        "category": "protein",
+        "offerId": 253,
+        "date": "2026-11-19",
+        "price": 27663,
+        "currency": "INR",
+        "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-whey-gold-protein-isolate-with-digezyme/SP-65401?navKey=VRNT-116549",
+        "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-whey-gold-protein-isolate-with-digezyme/SP-65401?navKey=VRNT-116549",
+        "kind": "official-live",
+        "matchBasis": "Official selected product schema SKU matches exact navigation key",
+        "variantId": "VRNT-116549"
+      }
+    }
+  ],
+  "refreshSources": []
+}

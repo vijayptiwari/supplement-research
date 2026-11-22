@@ -1,0 +1,286 @@
+{
+  "schemaVersion": 1,
+  "order": 13,
+  "category": {
+    "id": "l-arginine",
+    "label": "L-Arginine",
+    "file": "l-arginine.json",
+    "page": "l-arginine.html",
+    "measurement": "units",
+    "supportsPowder": true,
+    "mainNutrient": "arginineMg",
+    "referenceQuantity": 1000,
+    "referenceUnit": "mg",
+    "compoundLabel": "labelled L-arginine",
+    "nutrientFields": [
+      {
+        "key": "arginineMg",
+        "label": "L-arginine",
+        "unit": "mg",
+        "table": true
+      }
+    ],
+    "comparisonNote": "Free-form L-arginine and arginine compounds or blends are distinct. Costs use explicitly labelled L-arginine per verified serving; a nitric-oxide mechanism does not establish an exercise benefit.",
+    "searchAliases": [
+      "arginine",
+      "l arginine"
+    ]
+  },
+  "catalog": {
+    "checked": "2026-11-20",
+    "category": "l-arginine"
+  },
+  "guide": {
+    "id": "l-arginine-guide",
+    "category": "l-arginine",
+    "title": "L-arginine: a nitric-oxide pathway is not a performance guarantee",
+    "summary": "Arginine is an amino acid involved in normal metabolism. A plausible blood-flow mechanism does not establish a useful workout effect.",
+    "evidence": "NIH ODS describes exercise evidence as limited and conflicting. A positive 2020 meta-analysis has a 2025 methodological critique and author reply that limit confidence in its pooled claims. Improved strength, recovery or a bigger pump should not be assumed.",
+    "limitations": "Studies vary in participants, amounts and outcomes. Changes in nitric oxide or blood flow are not the same as improved training results. Arginine, AAKG and citrulline are distinct ingredients; findings cannot simply be transferred between them.",
+    "catalogReading": "Check whether the label declares L-arginine itself or an arginine compound such as AAKG. Full compound or proprietary-blend mass is not verified L-arginine mass. Review serving size, individual ingredient amounts and overlap with pre-workout products.",
+    "safety": "Gastrointestinal discomfort and lower blood pressure can occur. Review medicines and health conditions with a clinician, particularly blood-pressure treatment. Do not self-start after a heart attack: the VINTAGE MI trial raised safety concerns. Long-term high-intake safety is not well established.",
+    "sourceIds": [
+      "exercise",
+      "arginine-meta",
+      "arginine-methods",
+      "arginine-reply",
+      "arginine-mi",
+      "food-performance-protein",
+      "food-performance-amino-acids",
+      "food-usda-sr28",
+      "supplement-quality-ods"
+    ],
+    "reviewed": "2026-11-18",
+    "author": "Supplement Research editorial synthesis",
+    "bodySteps": [
+      "Diet and normal body synthesis supply arginine. After intestinal uptake it enters amino-acid pathways used by multiple tissues.",
+      "Enzymes can use arginine to produce nitric oxide; other pathways use it in protein and creatine synthesis.",
+      "These normal processes do not mean extra oral arginine reliably increases muscle blood flow or improves an exercise outcome."
+    ],
+    "bodySources": [
+      "exercise"
+    ],
+    "treatment": "A sports supplement is not a substitute for treatment of cardiovascular disease, erectile dysfunction or persistent fatigue. Condition-specific clinical nutrition and treatment require a separate assessment.",
+    "whoMayBenefit": "No routine athletic need is established by these sources. Someone considering a specific performance claim can first review training, diet, the actual formulation and the uncertainty with a qualified sports professional.",
+    "routineUse": "An arginine supplement is not a requirement for starting or maintaining training. Avoid treating a pump sensation, compound name or nitric-oxide claim as proof that continued use is beneficial.",
+    "sectionSources": [
+      "exercise",
+      "arginine-meta",
+      "arginine-methods",
+      "arginine-reply",
+      "arginine-mi"
+    ],
+    "buyingGuide": {
+      "whoCanConsider": [
+        "Healthy adults evaluating a specific workout claim after reviewing diet and training can consider the evidence; a nitric-oxide mechanism alone is a weak buying reason.",
+        "Adults comparing an isolated ingredient with a pre-workout can check whether arginine is already present and whether its actual amount is declared."
+      ],
+      "whoShouldReview": [
+        "People with a recent heart attack should seek medical advice rather than self-start; the post-infarction trial raised safety concerns.",
+        "People taking blood-pressure or other relevant medicines, or with a cardiovascular or kidney condition, need individual review.",
+        "Under-18s and people who are pregnant or breastfeeding need professional guidance rather than an adult sports-product selection."
+      ],
+      "foodSummary": "Arginine is supplied within ordinary dietary protein and is also made by the body. Protein-rich food is a source, not a dose-matched substitute for an isolated workout product.",
+      "foods": [
+        {
+          "name": "Lentils, mature seeds, cooked, boiled, without salt",
+          "relationship": "direct",
+          "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": "USDA NDB 16070",
+          "amounts": [
+            {
+              "nutrient": "Arginine",
+              "min": 0.697,
+              "max": null,
+              "unit": "g",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "100 g edible food"
+              },
+              "sourceIds": [
+                "food-usda-sr28"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Egg, whole, cooked, hard-boiled",
+          "relationship": "direct",
+          "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": "USDA NDB 01129",
+          "amounts": [
+            {
+              "nutrient": "Arginine",
+              "min": 0.755,
+              "max": null,
+              "unit": "g",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "100 g edible food"
+              },
+              "sourceIds": [
+                "food-usda-sr28"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Chicken, broilers or fryers, breast, meat only, cooked, roasted",
+          "relationship": "direct",
+          "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": "USDA NDB 05064",
+          "amounts": [
+            {
+              "nutrient": "Arginine",
+              "min": 1.871,
+              "max": null,
+              "unit": "g",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "100 g edible food"
+              },
+              "sourceIds": [
+                "food-usda-sr28"
+              ]
+            }
+          ]
+        }
+      ],
+      "foodSourceIds": [
+        "exercise",
+        "food-performance-protein",
+        "food-performance-amino-acids",
+        "food-usda-sr28"
+      ],
+      "value": {
+        "routineScore": 1,
+        "targetedScore": 2,
+        "targetedUse": "An otherwise healthy adult seeking an additional, measurable workout-performance benefit after the basic training and nutrition plan is adequate.",
+        "reason": "Limited and conflicting performance evidence, including methodological concerns in a positive synthesis, makes standalone arginine a low-priority purchase even for that goal.",
+        "worthWhen": [
+          "There is a specific outcome to assess, the labelled L-arginine basis is clear, and the buyer accepts that a benefit may not occur.",
+          "Relevant medical or medicine concerns have been reviewed and the ingredient is not simply duplicated in a pre-workout."
+        ],
+        "skipWhen": [
+          "The main reason is a pump sensation, nitric-oxide marketing or a claim of guaranteed recovery.",
+          "Food and training basics are still the main constraint, or an AAKG/blend headline is being treated as verified free L-arginine."
+        ],
+        "evidence": "limited",
+        "scope": "Fitness purchases in generally healthy adults; this assessment does not rate condition-specific medical treatment or equate AAKG with L-arginine.",
+        "sourceIds": [
+          "exercise",
+          "arginine-meta",
+          "arginine-methods",
+          "arginine-reply",
+          "arginine-mi"
+        ]
+      },
+      "reviewed": "2026-11-18",
+      "practices": {
+        "dos": [
+          {
+            "title": "Find the declared L-arginine amount",
+            "detail": "Check whether the product labels free L-arginine or a compound such as AAKG on a verified serving basis."
+          },
+          {
+            "title": "Check the existing pre-workout",
+            "detail": "Review ingredient overlap and relevant medicines or conditions before paying for another arginine product."
+          }
+        ],
+        "donts": [
+          {
+            "title": "Don't count compound mass as free arginine",
+            "detail": "AAKG or proprietary-blend weight does not establish the same amount of L-arginine."
+          },
+          {
+            "title": "Don't chase a pump or self-treat",
+            "detail": "Sensation and nitric-oxide claims do not guarantee recovery; do not self-start after a heart attack."
+          }
+        ],
+        "sourceIds": [
+          "exercise",
+          "arginine-meta",
+          "arginine-mi"
+        ]
+      }
+    },
+    "intakeGuide": {
+      "kind": "no-established-target",
+      "summary": "No established isolated supplement requirement for healthy adults. Food protein and clinical indications are separate contexts.",
+      "targets": [],
+      "limits": [],
+      "notes": [
+        "No automatic dose increase is assigned for training frequency or experience."
+      ],
+      "sourceIds": [
+        "exercise",
+        "arginine-meta",
+        "arginine-methods",
+        "arginine-reply",
+        "arginine-mi"
+      ],
+      "reviewed": "2026-11-17"
+    },
+    "medicalGuide": {
+      "summary": "Condition-specific evidence, separate from sports benefits and purchase priority.",
+      "conditions": [
+        {
+          "condition": "Cardiovascular disease / erectile dysfunction",
+          "level": "insufficient",
+          "findings": "The selected exercise evidence does not establish treatment. It must not replace clinical care; avoid unsupervised use after myocardial infarction.",
+          "limits": "A sports supplement is not a substitute for treatment of cardiovascular disease, erectile dysfunction or persistent fatigue. Condition-specific clinical nutrition and treatment require a separate assessment.",
+          "sourceIds": [
+            "exercise",
+            "arginine-meta",
+            "arginine-methods",
+            "arginine-reply",
+            "arginine-mi"
+          ]
+        }
+      ],
+      "reviewed": "2026-11-17"
+    },
+    "pathway": {
+      "title": "Arginine and nitric-oxide signalling",
+      "summary": "Arginine is an amino-acid building block and a substrate for nitric-oxide production. A normal pathway does not establish that taking extra arginine improves it.",
+      "tracks": [
+        {
+          "label": "One route from arginine",
+          "steps": [
+            {
+              "label": "Arginine enters the available pool",
+              "detail": "Food, body synthesis and absorbed supplements contribute arginine to the amino-acid supply used by tissues.",
+              "compartment": "Blood",
+              "icon": "blood"
+            },
+            {
+              "label": "Cells produce nitric oxide",
+              "detail": "Some arginine is used to make nitric oxide, a short-lived signalling molecule; other arginine enters different metabolic pathways.",
+              "compartment": "Cells",
+              "icon": "molecule"
+            },
+            {
+              "label": "Nitric oxide signals blood vessels",
+              "detail": "This signal participates in normal vessel relaxation and blood-flow regulation.",
+              "compartment": "Blood vessels",
+              "icon": "signal"
+            }
+          ]
+        }
+      ],
+      "caveat": "Extra oral arginine does not reliably increase nitric oxide, muscle blood flow or exercise performance. This diagram shows normal physiology, not a guaranteed supplement response.",
+      "sourceIds": [
+        "exercise"
+      ]
+    }
+  }
+}

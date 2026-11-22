@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "category": "magnesium",
+  "brand": "Neuherbs",
+  "product": "Triple Magnesium Complex",
+  "variants": [
+    {
+      "order": 19,
+      "offer": {
+        "id": "magnesium-48103980892330",
+        "brand": "Neuherbs",
+        "product": "Triple Magnesium Complex",
+        "form": "Tablet",
+        "type": "Bisglycinate, citrate and hydroxide (Aquamin)",
+        "subclass": "Three-form mineral blend with D3 and B6",
+        "flavour": "Unflavoured",
+        "source": "Not specified",
+        "packCount": 60,
+        "servingUnits": 2,
+        "price": 799,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://neuherbs.com/products/triple-magnesium-complex-tablets?variant=48103980892330",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/triple_magnesium_complex_9.webp?v=1773295391",
+        "labelSources": [
+          "https://neuherbs.com/products/triple-magnesium-complex-tablets",
+          "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/triple_magnesium_complex_9.webp?v=1773295391"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Official bottle panel per two tablets: total elemental magnesium 440 mg (320 mg from bisglycinate, 20 mg from citrate and 100 mg from magnesium hydroxide/Aquamin), D3 600 IU, B6 1.9 mg.",
+        "notes": "Manufacturer liposomal, chelation and absorption claims are not used as potency multipliers. The individual source contributions are elemental amounts, not the compound weights.",
+        "packaging": "Brand-listed retail pack (60 tablets)",
+        "magnesiumMg": 440,
+        "vitaminDIu": 600,
+        "vitaminB6Mg": 1.9,
+        "energyPerServing": 7.18,
+        "mineralBasis": "elemental"
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3965,
+      "observation": {
+        "category": "magnesium",
+        "offerId": "magnesium-48103980892330",
+        "date": "2026-11-19",
+        "price": 799,
+        "currency": "INR",
+        "sourceUrl": "https://neuherbs.com/products/triple-magnesium-complex-tablets?variant=48103980892330",
+        "evidenceUrl": "https://neuherbs.com/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "48103980892330",
+        "matchBasis": "Official public Shopify feed exact variant ID and explicitly listed retail count; unconditional INR variant price. Label serving and payload independently checked against official label panel."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 149,
+      "profile": {
+        "brand": "Neuherbs",
+        "product": "Triple Magnesium Complex",
+        "form": "Tablet",
+        "type": "Bisglycinate, citrate and hydroxide (Aquamin)",
+        "subclass": "Three-form mineral blend with D3 and B6",
+        "flavour": "Unflavoured",
+        "source": "Not specified",
+        "packCount": 60,
+        "servingUnits": 2,
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/triple_magnesium_complex_9.webp?v=1773295391",
+        "labelSources": [
+          "https://neuherbs.com/products/triple-magnesium-complex-tablets",
+          "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/triple_magnesium_complex_9.webp?v=1773295391"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Official bottle panel per two tablets: total elemental magnesium 440 mg (320 mg from bisglycinate, 20 mg from citrate and 100 mg from magnesium hydroxide/Aquamin), D3 600 IU, B6 1.9 mg.",
+        "notes": "Manufacturer liposomal, chelation and absorption claims are not used as potency multipliers. The individual source contributions are elemental amounts, not the compound weights.",
+        "packaging": "Brand-listed retail pack (60 tablets)",
+        "magnesiumMg": 440,
+        "vitaminDIu": 600,
+        "vitaminB6Mg": 1.9,
+        "energyPerServing": 7.18,
+        "mineralBasis": "elemental",
+        "category": "magnesium",
+        "base": "https://neuherbs.com",
+        "handle": "triple-magnesium-complex-tablets",
+        "variantIds": [
+          48103980892330
+        ],
+        "allowRetailMultipack": true,
+        "id": "magnesium-48103980892330"
+      }
+    }
+  ]
+}

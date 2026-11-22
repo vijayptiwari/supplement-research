@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "category": "eaa",
+  "brand": "Pure Nutrition",
+  "product": "EAA Powder — All 9 Essential Amino Acids",
+  "variants": [
+    {
+      "order": 0,
+      "offer": {
+        "brand": "Pure Nutrition",
+        "product": "EAA Powder — All 9 Essential Amino Acids",
+        "form": "Powder",
+        "type": "Nine essential amino acids",
+        "subclass": "EAA blend",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "packCount": null,
+        "servingUnits": null,
+        "servingGrams": 10,
+        "labelChecked": "2026-11-17",
+        "basis": "Official label gives a 10 g serving, 25 servings per 250 g pack, 7 g total EAA and 12.3 kcal. The three declared BCAAs are 2.13 g leucine, 0.85 g isoleucine and 1.32 g valine; their sum is 4.30 g, already included in the 7 g EAA total.",
+        "notes": "EAA and BCAA totals overlap and are not added together. All nine amino acids are individually listed in the source label.",
+        "grams": 250,
+        "flavour": "Unflavoured",
+        "eaaMg": 7000,
+        "bcaaMg": 4300,
+        "leucineMg": 2130,
+        "isoleucineMg": 850,
+        "valineMg": 1320,
+        "energyPerServing": 12.3,
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0618/9629/4654/files/PAGE1_2552d4e8-9883-4c02-b14e-70e2d9d61e6e.jpg?v=1775472419",
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0618/9629/4654/files/EAA_250g.jpg?v=1786963448",
+          "https://cdn.shopify.com/s/files/1/0618/9629/4654/files/PAGE1_2552d4e8-9883-4c02-b14e-70e2d9d61e6e.jpg?v=1775472419",
+          "https://cdn.shopify.com/s/files/1/0618/9629/4654/files/EAALOP.jpg?v=1775472419"
+        ],
+        "id": "eaa-48548924948734",
+        "price": 899,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://purenutrition.in/products/pure-nutrition-eaa-powder-with-all-9-essential-amino-acids-unflavoured?variant=48548924948734",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://purenutrition.in/products/pure-nutrition-eaa-powder-with-all-9-essential-amino-acids-unflavoured?variant=48548924948734",
+          "evidenceUrl": "https://purenutrition.in/products/pure-nutrition-eaa-powder-with-all-9-essential-amino-acids-unflavoured.json",
+          "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3817,
+      "observation": {
+        "category": "eaa",
+        "offerId": "eaa-48548924948734",
+        "date": "2026-11-17",
+        "price": 899,
+        "currency": "INR",
+        "sourceUrl": "https://purenutrition.in/products/pure-nutrition-eaa-powder-with-all-9-essential-amino-acids-unflavoured?variant=48548924948734",
+        "evidenceUrl": "https://purenutrition.in/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "48548924948734",
+        "matchBasis": "Official Shopify public feed fetched 2026-11-17; exact variant ID, unconditional single-pack price, size/flavour and availability matched."
+      }
+    },
+    {
+      "order": 4011,
+      "observation": {
+        "category": "eaa",
+        "offerId": "eaa-48548924948734",
+        "date": "2026-11-19",
+        "price": 899,
+        "currency": "INR",
+        "sourceUrl": "https://purenutrition.in/products/pure-nutrition-eaa-powder-with-all-9-essential-amino-acids-unflavoured?variant=48548924948734",
+        "evidenceUrl": "https://purenutrition.in/products/pure-nutrition-eaa-powder-with-all-9-essential-amino-acids-unflavoured.json",
+        "kind": "official-live",
+        "variantId": "48548924948734",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 101,
+      "profile": {
+        "category": "eaa",
+        "brand": "Pure Nutrition",
+        "base": "https://purenutrition.in",
+        "handle": "pure-nutrition-eaa-powder-with-all-9-essential-amino-acids-unflavoured",
+        "product": "EAA Powder â€” All 9 Essential Amino Acids",
+        "form": "Powder",
+        "type": "Nine essential amino acids",
+        "subclass": "EAA blend",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "packCount": null,
+        "servingUnits": null,
+        "servingGrams": 10,
+        "labelChecked": "2026-11-17",
+        "variantIds": [
+          "48548924948734"
+        ],
+        "basis": "Official label gives a 10 g serving, 25 servings per 250 g pack, 7 g total EAA and 12.3 kcal. The three declared BCAAs are 2.13 g leucine, 0.85 g isoleucine and 1.32 g valine; their sum is 4.30 g, already included in the 7 g EAA total.",
+        "notes": "EAA and BCAA totals overlap and are not added together. All nine amino acids are individually listed in the source label.",
+        "grams": 250,
+        "flavour": "Unflavoured",
+        "eaaMg": 7000,
+        "bcaaMg": 4300,
+        "leucineMg": 2130,
+        "isoleucineMg": 850,
+        "valineMg": 1320,
+        "energyPerServing": 12.3,
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0618/9629/4654/files/PAGE1_2552d4e8-9883-4c02-b14e-70e2d9d61e6e.jpg?v=1775472419",
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0618/9629/4654/files/EAA_250g.jpg?v=1786963448",
+          "https://cdn.shopify.com/s/files/1/0618/9629/4654/files/PAGE1_2552d4e8-9883-4c02-b14e-70e2d9d61e6e.jpg?v=1775472419",
+          "https://cdn.shopify.com/s/files/1/0618/9629/4654/files/EAALOP.jpg?v=1775472419"
+        ]
+      }
+    }
+  ]
+}

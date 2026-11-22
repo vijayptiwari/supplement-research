@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "category": "taurine",
+  "brand": "HealthyHey",
+  "product": "Taurine Powder",
+  "variants": [
+    {
+      "order": 0,
+      "offer": {
+        "brand": "HealthyHey",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-11-17",
+        "packCount": null,
+        "servingUnits": null,
+        "servingGrams": 2.5,
+        "grams": 200,
+        "flavour": "Unflavoured",
+        "product": "Taurine Powder",
+        "form": "Powder",
+        "type": "Taurine",
+        "subclass": "Single amino acid with anticaking agent",
+        "taurineMg": 2500,
+        "declaredNutrients": [
+          "taurineMg"
+        ],
+        "basis": "Official product nutritional-information table declares one 2.5 g scoop and 2.50 g taurine per serving; product title establishes net 200 g.",
+        "notes": "The page includes a generic capsule dosage paragraph although this SKU is powder. The powder-specific nutritional-information table supplies the serving basis; marketed 80 servings is not used as the cost divisor.",
+        "searchAliases": [
+          "taurine powder"
+        ],
+        "labelSources": [
+          "https://healthyhey.com/products/healthyhey-sports-taurine-powder-amino-acid-supplement-improve-performance-helps-recovery-200-gram-80-servings"
+        ],
+        "nutritionUrl": "https://healthyhey.com/products/healthyhey-sports-taurine-powder-amino-acid-supplement-improve-performance-helps-recovery-200-gram-80-servings",
+        "id": "taurine-44683824333085",
+        "price": 389,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://healthyhey.com/products/healthyhey-sports-taurine-powder-amino-acid-supplement-improve-performance-helps-recovery-200-gram-80-servings?variant=44683824333085",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://healthyhey.com/products/healthyhey-sports-taurine-powder-amino-acid-supplement-improve-performance-helps-recovery-200-gram-80-servings?variant=44683824333085",
+          "evidenceUrl": "https://healthyhey.com/products/healthyhey-sports-taurine-powder-amino-acid-supplement-improve-performance-helps-recovery-200-gram-80-servings.json",
+          "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3837,
+      "observation": {
+        "category": "taurine",
+        "offerId": "taurine-44683824333085",
+        "date": "2026-11-17",
+        "price": 358,
+        "currency": "INR",
+        "sourceUrl": "https://healthyhey.com/products/healthyhey-sports-taurine-powder-amino-acid-supplement-improve-performance-helps-recovery-200-gram-80-servings?variant=44683824333085",
+        "evidenceUrl": "https://healthyhey.com/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "44683824333085",
+        "matchBasis": "Official public Shopify feed fetched 2026-11-17; exact variant ID, unconditional listed single-pack price and stock matched. Retail net quantity and serving use the official label, not shipping weight."
+      }
+    },
+    {
+      "order": 4031,
+      "observation": {
+        "category": "taurine",
+        "offerId": "taurine-44683824333085",
+        "date": "2026-11-19",
+        "price": 389,
+        "currency": "INR",
+        "sourceUrl": "https://healthyhey.com/products/healthyhey-sports-taurine-powder-amino-acid-supplement-improve-performance-helps-recovery-200-gram-80-servings?variant=44683824333085",
+        "evidenceUrl": "https://healthyhey.com/products/healthyhey-sports-taurine-powder-amino-acid-supplement-improve-performance-helps-recovery-200-gram-80-servings.json",
+        "kind": "official-live",
+        "variantId": "44683824333085",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 121,
+      "profile": {
+        "category": "taurine",
+        "brand": "HealthyHey",
+        "base": "https://healthyhey.com",
+        "handle": "healthyhey-sports-taurine-powder-amino-acid-supplement-improve-performance-helps-recovery-200-gram-80-servings",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-11-17",
+        "variantIds": [
+          "44683824333085"
+        ],
+        "packCount": null,
+        "servingUnits": null,
+        "servingGrams": 2.5,
+        "grams": 200,
+        "flavour": "Unflavoured",
+        "product": "Taurine Powder",
+        "form": "Powder",
+        "type": "Taurine",
+        "subclass": "Single amino acid with anticaking agent",
+        "taurineMg": 2500,
+        "declaredNutrients": [
+          "taurineMg"
+        ],
+        "basis": "Official product nutritional-information table declares one 2.5 g scoop and 2.50 g taurine per serving; product title establishes net 200 g.",
+        "notes": "The page includes a generic capsule dosage paragraph although this SKU is powder. The powder-specific nutritional-information table supplies the serving basis; marketed 80 servings is not used as the cost divisor.",
+        "searchAliases": [
+          "taurine powder"
+        ],
+        "labelSources": [
+          "https://healthyhey.com/products/healthyhey-sports-taurine-powder-amino-acid-supplement-improve-performance-helps-recovery-200-gram-80-servings"
+        ],
+        "nutritionUrl": "https://healthyhey.com/products/healthyhey-sports-taurine-powder-amino-acid-supplement-improve-performance-helps-recovery-200-gram-80-servings"
+      }
+    }
+  ]
+}

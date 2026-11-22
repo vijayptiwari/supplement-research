@@ -1,0 +1,1388 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "Avvatar",
+  "product": "Performance Whey",
+  "variants": [
+    {
+      "order": 135,
+      "offer": {
+        "id": 135,
+        "brand": "Avvatar",
+        "product": "Performance Whey",
+        "type": "Whey — blend",
+        "flavour": "Badam Milk",
+        "kg": 1,
+        "price": 3509,
+        "stock": "Listed; confirm stock",
+        "protein": 75.71428571428571,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey blend",
+        "energy": 391.99999999999994,
+        "url": "https://www.avvatarindia.com/product/100-performance-whey-badam-milk-1-kg",
+        "nutritionUrl": "https://www.avvatarindia.com/images/product_images/1494808574_1787557969.jpg",
+        "basis": "26.5g protein / 35g scoop; exact product page",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-matched label kcal per serving / brand serving g × 100",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-badam-milk-1-kg",
+          "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-badam-milk-1-kg",
+          "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+        }
+      }
+    },
+    {
+      "order": 136,
+      "offer": {
+        "id": 136,
+        "brand": "Avvatar",
+        "product": "Performance Whey",
+        "type": "Whey — blend",
+        "flavour": "Belgian Chocolate",
+        "kg": 1,
+        "price": 3559,
+        "stock": "Listed; confirm stock",
+        "protein": 71.42857142857143,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey blend",
+        "energy": 391.4285714285714,
+        "url": "https://www.avvatarindia.com/product/100-performance-whey-belgain-chocolate-flavour-1-kg",
+        "nutritionUrl": "https://www.avvatarindia.com/images/product_images/1736924157_RIGHT.jpg",
+        "basis": "25g protein / 35g scoop; exact product page",
+        "notes": "Label/table protein differs from the existing catalog basis. Existing indicative protein % retained; verify exact pack. Scoop/serving size as stated by brand; level/heaped measures may differ.  Energy uses the same product/flavour 2kg label; this pack was not independently confirmed.",
+        "energyBasis": "Flavour-matched label kcal per serving / brand serving g × 100; same-flavour different pack",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-belgain-chocolate-flavour-1-kg",
+          "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-belgain-chocolate-flavour-1-kg",
+          "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+        }
+      }
+    },
+    {
+      "order": 137,
+      "offer": {
+        "id": 137,
+        "brand": "Avvatar",
+        "product": "Performance Whey",
+        "type": "Whey — blend",
+        "flavour": "Belgian Chocolate",
+        "kg": 2,
+        "price": 7099,
+        "stock": "Listed; confirm stock",
+        "protein": 71.42857142857143,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey blend",
+        "energy": 391.4285714285714,
+        "url": "https://www.avvatarindia.com/product/100-performance-whey-belgain-chocolate-flavour-2-kg",
+        "nutritionUrl": "https://www.avvatarindia.com/images/product_images/1736924157_RIGHT.jpg",
+        "basis": "25g protein / 35g scoop; exact product page",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-matched label kcal per serving / brand serving g × 100",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-belgain-chocolate-flavour-2-kg",
+          "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-belgain-chocolate-flavour-2-kg",
+          "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+        }
+      }
+    },
+    {
+      "order": 138,
+      "offer": {
+        "id": 138,
+        "brand": "Avvatar",
+        "product": "Performance Whey",
+        "type": "Whey — blend",
+        "flavour": "Caramel Crème",
+        "kg": 1,
+        "price": 3203,
+        "stock": "Listed; confirm stock",
+        "protein": 74.28571428571429,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey blend",
+        "energy": 394.28571428571433,
+        "url": "https://www.avvatarindia.com/product/100-performance-whey-caramel-creme-flavour-1-kg",
+        "nutritionUrl": "https://www.avvatarindia.com/images/product_images/1736755953_RIGHT.jpg",
+        "basis": "26g protein / 35g scoop; exact product page",
+        "notes": "Label/table protein differs from the existing catalog basis. Existing indicative protein % retained; verify exact pack. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-matched label kcal per serving / brand serving g × 100",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-caramel-creme-flavour-1-kg",
+          "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-caramel-creme-flavour-1-kg",
+          "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+        }
+      }
+    },
+    {
+      "order": 139,
+      "offer": {
+        "id": 139,
+        "brand": "Avvatar",
+        "product": "Performance Whey",
+        "type": "Whey — blend",
+        "flavour": "Caramel Crème",
+        "kg": 2,
+        "price": 7099,
+        "stock": "Listed; confirm stock",
+        "protein": 74.28571428571429,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey blend",
+        "energy": 394.28571428571433,
+        "url": "https://www.avvatarindia.com/product/100-performance-whey-caramel-creme-flavour-2-kg",
+        "nutritionUrl": "https://www.avvatarindia.com/images/product_images/1736921490_Right.jpg",
+        "basis": "26g protein / 35g scoop; exact product page",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-matched label kcal per serving / brand serving g × 100",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-caramel-creme-flavour-2-kg",
+          "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-caramel-creme-flavour-2-kg",
+          "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+        }
+      }
+    },
+    {
+      "order": 140,
+      "offer": {
+        "id": 140,
+        "brand": "Avvatar",
+        "product": "Performance Whey",
+        "type": "Whey — blend",
+        "flavour": "Chocolate Hazelnut",
+        "kg": 1,
+        "price": 3203,
+        "stock": "Listed; confirm stock",
+        "protein": 74.28571428571429,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey blend",
+        "energy": 394.28571428571433,
+        "url": "https://www.avvatarindia.com/product/100-performance-whey-chocolate-hazelnut-flavour-1-kg",
+        "nutritionUrl": "https://www.avvatarindia.com/images/product_images/1736765701_Right.jpg",
+        "basis": "26g protein / 35g scoop; exact product page",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ.  Energy uses the same product/flavour 2kg label; this pack was not independently confirmed.",
+        "energyBasis": "Flavour-matched label kcal per serving / brand serving g × 100; same-flavour different pack",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-chocolate-hazelnut-flavour-1-kg",
+          "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-chocolate-hazelnut-flavour-1-kg",
+          "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+        }
+      }
+    },
+    {
+      "order": 141,
+      "offer": {
+        "id": 141,
+        "brand": "Avvatar",
+        "product": "Performance Whey",
+        "type": "Whey — blend",
+        "flavour": "Chocolate Hazelnut",
+        "kg": 2,
+        "price": 7099,
+        "stock": "Listed; confirm stock",
+        "protein": 74.28571428571429,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey blend",
+        "energy": 394.28571428571433,
+        "url": "https://www.avvatarindia.com/product/100-performance-whey-chocolate-hazelnut-flavour-2-kg",
+        "nutritionUrl": "https://www.avvatarindia.com/images/product_images/1736765701_Right.jpg",
+        "basis": "26g protein / 35g scoop; exact product page",
+        "notes": "Label/table protein differs from the existing catalog basis. Existing indicative protein % retained; verify exact pack. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-matched label kcal per serving / brand serving g × 100",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-chocolate-hazelnut-flavour-2-kg",
+          "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-chocolate-hazelnut-flavour-2-kg",
+          "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+        }
+      }
+    },
+    {
+      "order": 142,
+      "offer": {
+        "id": 142,
+        "brand": "Avvatar",
+        "product": "Performance Whey",
+        "type": "Whey — blend",
+        "flavour": "Cold Coffee",
+        "kg": 1,
+        "price": 3559,
+        "stock": "Listed; confirm stock",
+        "protein": 71.42857142857143,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey blend",
+        "energy": 391.4285714285714,
+        "url": "https://www.avvatarindia.com/product/100-performance-whey-cold-coffee-flavour-1-kg",
+        "nutritionUrl": "https://www.avvatarindia.com/images/product_images/1737017108_RIGHT.jpg",
+        "basis": "25g protein / 35g scoop; exact product page",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ.  Energy uses the same product/flavour 2kg label; this pack was not independently confirmed.",
+        "energyBasis": "Flavour-matched label kcal per serving / brand serving g × 100; same-flavour different pack",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-cold-coffee-flavour-1-kg",
+          "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-cold-coffee-flavour-1-kg",
+          "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+        }
+      }
+    },
+    {
+      "order": 143,
+      "offer": {
+        "id": 143,
+        "brand": "Avvatar",
+        "product": "Performance Whey",
+        "type": "Whey — blend",
+        "flavour": "Cold Coffee",
+        "kg": 2,
+        "price": 7099,
+        "stock": "Listed; confirm stock",
+        "protein": 71.42857142857143,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey blend",
+        "energy": 391.4285714285714,
+        "url": "https://www.avvatarindia.com/product/100-performance-whey-cold-coffee-flavour-2-kg",
+        "nutritionUrl": "https://www.avvatarindia.com/images/product_images/1737017108_RIGHT.jpg",
+        "basis": "25g protein / 35g scoop; exact product page",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-matched label kcal per serving / brand serving g × 100",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-cold-coffee-flavour-2-kg",
+          "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-cold-coffee-flavour-2-kg",
+          "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+        }
+      }
+    },
+    {
+      "order": 144,
+      "offer": {
+        "id": 144,
+        "brand": "Avvatar",
+        "product": "Performance Whey",
+        "type": "Whey — blend",
+        "flavour": "Malai Kulfi",
+        "kg": 1,
+        "price": 3559,
+        "stock": "Listed; confirm stock",
+        "protein": 78.57142857142857,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey blend",
+        "energy": 402.85714285714283,
+        "url": "https://www.avvatarindia.com/product/100-performance-whey-malai-kulfi-flavour-1-kg",
+        "nutritionUrl": "https://www.avvatarindia.com/images/product_images/1736765177_right.jpg",
+        "basis": "27.5g protein / 35g scoop; exact product page",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ.  Energy uses the same product/flavour 2kg label; this pack was not independently confirmed.",
+        "energyBasis": "Flavour-matched label kcal per serving / brand serving g × 100; same-flavour different pack",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-malai-kulfi-flavour-1-kg",
+          "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-malai-kulfi-flavour-1-kg",
+          "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+        }
+      }
+    },
+    {
+      "order": 145,
+      "offer": {
+        "id": 145,
+        "brand": "Avvatar",
+        "product": "Performance Whey",
+        "type": "Whey — blend",
+        "flavour": "Malai Kulfi",
+        "kg": 2,
+        "price": 7099,
+        "stock": "Listed; confirm stock",
+        "protein": 78.57142857142857,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey blend",
+        "energy": 402.85714285714283,
+        "url": "https://www.avvatarindia.com/product/100-performance-whey-malai-kulfi-flavour-2-kg",
+        "nutritionUrl": "https://www.avvatarindia.com/images/product_images/1736765177_right.jpg",
+        "basis": "27.5g protein / 35g scoop; exact product page",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-matched label kcal per serving / brand serving g × 100",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-malai-kulfi-flavour-2-kg",
+          "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-malai-kulfi-flavour-2-kg",
+          "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+        }
+      }
+    },
+    {
+      "order": 146,
+      "offer": {
+        "id": 146,
+        "brand": "Avvatar",
+        "product": "Performance Whey",
+        "type": "Whey — blend",
+        "flavour": "Mango Rush",
+        "kg": 1,
+        "price": 3559,
+        "stock": "Listed; confirm stock",
+        "protein": 77.14285714285715,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey blend",
+        "energy": 400,
+        "url": "https://www.avvatarindia.com/product/100-performance-whey-mango-rush-flavour-1-kg",
+        "nutritionUrl": "https://www.avvatarindia.com/images/product_images/1736752334_RIGHT.jpg",
+        "basis": "27g protein / 35g scoop; exact product page",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-matched label kcal per serving / brand serving g × 100",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-mango-rush-flavour-1-kg",
+          "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-mango-rush-flavour-1-kg",
+          "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+        }
+      }
+    },
+    {
+      "order": 147,
+      "offer": {
+        "id": 147,
+        "brand": "Avvatar",
+        "product": "Performance Whey",
+        "type": "Whey — blend",
+        "flavour": "Mango Rush",
+        "kg": 2,
+        "price": 7099,
+        "stock": "Listed; confirm stock",
+        "protein": 77.14285714285715,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey blend",
+        "energy": 400,
+        "url": "https://www.avvatarindia.com/product/100-performance-whey-mango-rush-flavour-2-kg",
+        "nutritionUrl": "https://www.avvatarindia.com/images/product_images/1736764142_RIGHT.jpg",
+        "basis": "27g protein / 35g scoop; exact product page",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-matched label kcal per serving / brand serving g × 100",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-mango-rush-flavour-2-kg",
+          "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-mango-rush-flavour-2-kg",
+          "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+        }
+      }
+    },
+    {
+      "order": 148,
+      "offer": {
+        "id": 148,
+        "brand": "Avvatar",
+        "product": "Performance Whey",
+        "type": "Whey — blend",
+        "flavour": "Rose Milk",
+        "kg": 1,
+        "price": 3509,
+        "stock": "Listed; confirm stock",
+        "protein": 74.28571428571429,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey blend",
+        "energy": 388.57142857142856,
+        "url": "https://www.avvatarindia.com/product/100-performance-whey-rose-milk-1-kg",
+        "nutritionUrl": "https://www.avvatarindia.com/images/product_images/1541690484_1787557983.jpg",
+        "basis": "26g protein / 35g scoop; exact product page",
+        "notes": "Label/table protein differs from the existing catalog basis. Existing indicative protein % retained; verify exact pack. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-matched label kcal per serving / brand serving g × 100",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-rose-milk-1-kg",
+          "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-rose-milk-1-kg",
+          "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+        }
+      }
+    },
+    {
+      "order": 149,
+      "offer": {
+        "id": 149,
+        "brand": "Avvatar",
+        "product": "Performance Whey",
+        "type": "Whey — blend",
+        "flavour": "Tiramisu",
+        "kg": 1,
+        "price": 3509,
+        "stock": "Listed; confirm stock",
+        "protein": 71.42857142857143,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey blend",
+        "energy": 382.8571428571429,
+        "url": "https://www.avvatarindia.com/product/100-performance-whey-tiramisu-1-kg",
+        "nutritionUrl": "https://www.avvatarindia.com/images/product_images/741848327_1787557954.jpg",
+        "basis": "25g protein / 35g scoop; exact product page",
+        "notes": "Label/table protein differs from the existing catalog basis. Existing indicative protein % retained; verify exact pack. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-matched label kcal per serving / brand serving g × 100",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-tiramisu-1-kg",
+          "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-tiramisu-1-kg",
+          "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+        }
+      }
+    },
+    {
+      "order": 150,
+      "offer": {
+        "id": 150,
+        "brand": "Avvatar",
+        "product": "Performance Whey",
+        "type": "Whey — blend",
+        "flavour": "Triple Chocolate",
+        "kg": 1,
+        "price": 3509,
+        "stock": "Listed; confirm stock",
+        "protein": 71.42857142857143,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey blend",
+        "energy": 391.14285714285717,
+        "url": "https://www.avvatarindia.com/product/100-performance-whey-triple-chocolate-1-kg",
+        "nutritionUrl": "https://www.avvatarindia.com/images/product_images/387900771_1787554344.jpg",
+        "basis": "25g protein / 35g scoop; exact product page",
+        "notes": "Label/table protein differs from the existing catalog basis. Existing indicative protein % retained; verify exact pack. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-matched label kcal per serving / brand serving g × 100",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-triple-chocolate-1-kg",
+          "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-triple-chocolate-1-kg",
+          "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+        }
+      }
+    },
+    {
+      "order": 151,
+      "offer": {
+        "id": 151,
+        "brand": "Avvatar",
+        "product": "Performance Whey",
+        "type": "Whey — blend",
+        "flavour": "Unflavoured",
+        "kg": 1,
+        "price": 3380,
+        "stock": "Listed; confirm stock",
+        "protein": 80,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://www.avvatarindia.com/product/100-performance-whey-unflavored-1-kg",
+        "nutritionUrl": "https://www.avvatarindia.com/product/100-performance-whey-unflavored-1-kg",
+        "basis": "28g protein / 35g scoop; exact product page",
+        "notes": "Label/table protein differs from the existing catalog basis. Existing indicative protein % retained; verify exact pack. Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-unflavored-1-kg",
+          "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-unflavored-1-kg",
+          "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 416,
+      "observation": {
+        "category": "protein",
+        "offerId": 136,
+        "date": "2025-06-20",
+        "price": 2294,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-belgain-chocolate-flavour-1-kg",
+        "evidenceUrl": "https://web.archive.org/web/20250620014433id_/https://www.avvatarindia.com/product/100-performance-whey-belgain-chocolate-flavour-1-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 417,
+      "observation": {
+        "category": "protein",
+        "offerId": 140,
+        "date": "2026-06-07",
+        "price": 2849,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-chocolate-hazelnut-flavour-1-kg",
+        "evidenceUrl": "https://web.archive.org/web/20260607145740id_/https://www.avvatarindia.com/product/100-performance-whey-chocolate-hazelnut-flavour-1-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 418,
+      "observation": {
+        "category": "protein",
+        "offerId": 141,
+        "date": "2025-08-08",
+        "price": 5699,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-chocolate-hazelnut-flavour-2-kg",
+        "evidenceUrl": "https://web.archive.org/web/20250808132753id_/https://www.avvatarindia.com/product/100-performance-whey-chocolate-hazelnut-flavour-2-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 419,
+      "observation": {
+        "category": "protein",
+        "offerId": 142,
+        "date": "2025-08-08",
+        "price": 2999,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-cold-coffee-flavour-1-kg",
+        "evidenceUrl": "https://web.archive.org/web/20250808132753id_/https://www.avvatarindia.com/product/100-performance-whey-cold-coffee-flavour-1-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 420,
+      "observation": {
+        "category": "protein",
+        "offerId": 142,
+        "date": "2026-05-17",
+        "price": 2749,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-cold-coffee-flavour-1-kg",
+        "evidenceUrl": "https://web.archive.org/web/20260517052617id_/https://www.avvatarindia.com/product/100-performance-whey-cold-coffee-flavour-1-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 421,
+      "observation": {
+        "category": "protein",
+        "offerId": 143,
+        "date": "2025-01-23",
+        "price": 4399,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-cold-coffee-flavour-2-kg",
+        "evidenceUrl": "https://web.archive.org/web/20250123065108id_/https://www.avvatarindia.com/product/100-performance-whey-cold-coffee-flavour-2-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 422,
+      "observation": {
+        "category": "protein",
+        "offerId": 143,
+        "date": "2025-08-08",
+        "price": 5699,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-cold-coffee-flavour-2-kg",
+        "evidenceUrl": "https://web.archive.org/web/20250808132753id_/https://www.avvatarindia.com/product/100-performance-whey-cold-coffee-flavour-2-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 423,
+      "observation": {
+        "category": "protein",
+        "offerId": 143,
+        "date": "2026-01-22",
+        "price": 4599,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-cold-coffee-flavour-2-kg",
+        "evidenceUrl": "https://web.archive.org/web/20260122035146id_/https://www.avvatarindia.com/product/100-performance-whey-cold-coffee-flavour-2-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 424,
+      "observation": {
+        "category": "protein",
+        "offerId": 143,
+        "date": "2026-04-22",
+        "price": 5234,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-cold-coffee-flavour-2-kg",
+        "evidenceUrl": "https://web.archive.org/web/20260422110513id_/https://www.avvatarindia.com/product/100-performance-whey-cold-coffee-flavour-2-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 425,
+      "observation": {
+        "category": "protein",
+        "offerId": 144,
+        "date": "2025-01-23",
+        "price": 2294,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-malai-kulfi-flavour-1-kg",
+        "evidenceUrl": "https://web.archive.org/web/20250123081224id_/https://www.avvatarindia.com/product/100-performance-whey-malai-kulfi-flavour-1-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 426,
+      "observation": {
+        "category": "protein",
+        "offerId": 144,
+        "date": "2025-05-16",
+        "price": 2549,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-malai-kulfi-flavour-1-kg",
+        "evidenceUrl": "https://web.archive.org/web/20250516181234id_/https://www.avvatarindia.com/product/100-performance-whey-malai-kulfi-flavour-1-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 427,
+      "observation": {
+        "category": "protein",
+        "offerId": 144,
+        "date": "2025-08-08",
+        "price": 2999,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-malai-kulfi-flavour-1-kg",
+        "evidenceUrl": "https://web.archive.org/web/20250808132753id_/https://www.avvatarindia.com/product/100-performance-whey-malai-kulfi-flavour-1-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 428,
+      "observation": {
+        "category": "protein",
+        "offerId": 144,
+        "date": "2026-05-17",
+        "price": 2749,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-malai-kulfi-flavour-1-kg",
+        "evidenceUrl": "https://web.archive.org/web/20260517062220id_/https://www.avvatarindia.com/product/100-performance-whey-malai-kulfi-flavour-1-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 429,
+      "observation": {
+        "category": "protein",
+        "offerId": 145,
+        "date": "2025-02-08",
+        "price": 4889,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-malai-kulfi-flavour-2-kg",
+        "evidenceUrl": "https://web.archive.org/web/20250208134452id_/https://www.avvatarindia.com/product/100-performance-whey-malai-kulfi-flavour-2-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 430,
+      "observation": {
+        "category": "protein",
+        "offerId": 145,
+        "date": "2025-04-29",
+        "price": 4399,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-malai-kulfi-flavour-2-kg",
+        "evidenceUrl": "https://web.archive.org/web/20250429052124id_/https://www.avvatarindia.com/product/100-performance-whey-malai-kulfi-flavour-2-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 431,
+      "observation": {
+        "category": "protein",
+        "offerId": 145,
+        "date": "2025-08-08",
+        "price": 5699,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-malai-kulfi-flavour-2-kg",
+        "evidenceUrl": "https://web.archive.org/web/20250808132753id_/https://www.avvatarindia.com/product/100-performance-whey-malai-kulfi-flavour-2-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 432,
+      "observation": {
+        "category": "protein",
+        "offerId": 145,
+        "date": "2026-05-17",
+        "price": 5399,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-malai-kulfi-flavour-2-kg",
+        "evidenceUrl": "https://web.archive.org/web/20260517062452id_/https://www.avvatarindia.com/product/100-performance-whey-malai-kulfi-flavour-2-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 433,
+      "observation": {
+        "category": "protein",
+        "offerId": 146,
+        "date": "2025-02-08",
+        "price": 2549,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-mango-rush-flavour-1-kg",
+        "evidenceUrl": "https://web.archive.org/web/20250208133046id_/https://www.avvatarindia.com/product/100-performance-whey-mango-rush-flavour-1-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 434,
+      "observation": {
+        "category": "protein",
+        "offerId": 146,
+        "date": "2025-04-29",
+        "price": 2294,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-mango-rush-flavour-1-kg",
+        "evidenceUrl": "https://web.archive.org/web/20250429050855id_/https://www.avvatarindia.com/product/100-performance-whey-mango-rush-flavour-1-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 435,
+      "observation": {
+        "category": "protein",
+        "offerId": 147,
+        "date": "2025-04-29",
+        "price": 4399,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-mango-rush-flavour-2-kg",
+        "evidenceUrl": "https://web.archive.org/web/20250429052016id_/https://www.avvatarindia.com/product/100-performance-whey-mango-rush-flavour-2-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 436,
+      "observation": {
+        "category": "protein",
+        "offerId": 151,
+        "date": "2025-08-08",
+        "price": 2399,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-unflavored-1-kg",
+        "evidenceUrl": "https://web.archive.org/web/20250808132753id_/https://www.avvatarindia.com/product/100-performance-whey-unflavored-1-kg",
+        "kind": "official-archive",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null,
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2324,
+      "observation": {
+        "category": "protein",
+        "offerId": 135,
+        "date": "2026-10-25",
+        "price": 3999,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-badam-milk-1-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-badam-milk-1-kg",
+        "kind": "official-live",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null
+      }
+    },
+    {
+      "order": 2325,
+      "observation": {
+        "category": "protein",
+        "offerId": 136,
+        "date": "2026-10-25",
+        "price": 3999,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-belgain-chocolate-flavour-1-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-belgain-chocolate-flavour-1-kg",
+        "kind": "official-live",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null
+      }
+    },
+    {
+      "order": 2326,
+      "observation": {
+        "category": "protein",
+        "offerId": 137,
+        "date": "2026-10-25",
+        "price": 7899,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-belgain-chocolate-flavour-2-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-belgain-chocolate-flavour-2-kg",
+        "kind": "official-live",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null
+      }
+    },
+    {
+      "order": 2327,
+      "observation": {
+        "category": "protein",
+        "offerId": 138,
+        "date": "2026-10-25",
+        "price": 3559,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-caramel-creme-flavour-1-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-caramel-creme-flavour-1-kg",
+        "kind": "official-live",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null
+      }
+    },
+    {
+      "order": 2328,
+      "observation": {
+        "category": "protein",
+        "offerId": 139,
+        "date": "2026-10-25",
+        "price": 7899,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-caramel-creme-flavour-2-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-caramel-creme-flavour-2-kg",
+        "kind": "official-live",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null
+      }
+    },
+    {
+      "order": 2329,
+      "observation": {
+        "category": "protein",
+        "offerId": 140,
+        "date": "2026-10-25",
+        "price": 3999,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-chocolate-hazelnut-flavour-1-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-chocolate-hazelnut-flavour-1-kg",
+        "kind": "official-live",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null
+      }
+    },
+    {
+      "order": 2330,
+      "observation": {
+        "category": "protein",
+        "offerId": 141,
+        "date": "2026-10-25",
+        "price": 7899,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-chocolate-hazelnut-flavour-2-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-chocolate-hazelnut-flavour-2-kg",
+        "kind": "official-live",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null
+      }
+    },
+    {
+      "order": 2331,
+      "observation": {
+        "category": "protein",
+        "offerId": 142,
+        "date": "2026-10-25",
+        "price": 3999,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-cold-coffee-flavour-1-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-cold-coffee-flavour-1-kg",
+        "kind": "official-live",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null
+      }
+    },
+    {
+      "order": 2332,
+      "observation": {
+        "category": "protein",
+        "offerId": 143,
+        "date": "2026-10-25",
+        "price": 7899,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-cold-coffee-flavour-2-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-cold-coffee-flavour-2-kg",
+        "kind": "official-live",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null
+      }
+    },
+    {
+      "order": 2333,
+      "observation": {
+        "category": "protein",
+        "offerId": 144,
+        "date": "2026-10-25",
+        "price": 3999,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-malai-kulfi-flavour-1-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-malai-kulfi-flavour-1-kg",
+        "kind": "official-live",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null
+      }
+    },
+    {
+      "order": 2334,
+      "observation": {
+        "category": "protein",
+        "offerId": 145,
+        "date": "2026-10-25",
+        "price": 7899,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-malai-kulfi-flavour-2-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-malai-kulfi-flavour-2-kg",
+        "kind": "official-live",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null
+      }
+    },
+    {
+      "order": 2335,
+      "observation": {
+        "category": "protein",
+        "offerId": 146,
+        "date": "2026-10-25",
+        "price": 3899,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-mango-rush-flavour-1-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-mango-rush-flavour-1-kg",
+        "kind": "official-live",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null
+      }
+    },
+    {
+      "order": 2336,
+      "observation": {
+        "category": "protein",
+        "offerId": 147,
+        "date": "2026-10-25",
+        "price": 6849,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-mango-rush-flavour-2-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-mango-rush-flavour-2-kg",
+        "kind": "official-live",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null
+      }
+    },
+    {
+      "order": 2337,
+      "observation": {
+        "category": "protein",
+        "offerId": 148,
+        "date": "2026-10-25",
+        "price": 3999,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-rose-milk-1-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-rose-milk-1-kg",
+        "kind": "official-live",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null
+      }
+    },
+    {
+      "order": 2338,
+      "observation": {
+        "category": "protein",
+        "offerId": 149,
+        "date": "2026-10-25",
+        "price": 3999,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-tiramisu-1-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-tiramisu-1-kg",
+        "kind": "official-live",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null
+      }
+    },
+    {
+      "order": 2339,
+      "observation": {
+        "category": "protein",
+        "offerId": 150,
+        "date": "2026-10-25",
+        "price": 3999,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-triple-chocolate-1-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-triple-chocolate-1-kg",
+        "kind": "official-live",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null
+      }
+    },
+    {
+      "order": 2340,
+      "observation": {
+        "category": "protein",
+        "offerId": 151,
+        "date": "2026-10-25",
+        "price": 3899,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-unflavored-1-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-unflavored-1-kg",
+        "kind": "official-live",
+        "matchBasis": "Exact product heading, flavour, weight and labelled selling price",
+        "variantId": null
+      }
+    },
+    {
+      "order": 4183,
+      "observation": {
+        "category": "protein",
+        "offerId": 135,
+        "date": "2026-11-19",
+        "price": 3509,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-badam-milk-1-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-badam-milk-1-kg",
+        "kind": "official-live",
+        "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+      }
+    },
+    {
+      "order": 4184,
+      "observation": {
+        "category": "protein",
+        "offerId": 136,
+        "date": "2026-11-19",
+        "price": 3559,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-belgain-chocolate-flavour-1-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-belgain-chocolate-flavour-1-kg",
+        "kind": "official-live",
+        "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+      }
+    },
+    {
+      "order": 4185,
+      "observation": {
+        "category": "protein",
+        "offerId": 137,
+        "date": "2026-11-19",
+        "price": 7099,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-belgain-chocolate-flavour-2-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-belgain-chocolate-flavour-2-kg",
+        "kind": "official-live",
+        "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+      }
+    },
+    {
+      "order": 4186,
+      "observation": {
+        "category": "protein",
+        "offerId": 138,
+        "date": "2026-11-19",
+        "price": 3203,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-caramel-creme-flavour-1-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-caramel-creme-flavour-1-kg",
+        "kind": "official-live",
+        "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+      }
+    },
+    {
+      "order": 4187,
+      "observation": {
+        "category": "protein",
+        "offerId": 139,
+        "date": "2026-11-19",
+        "price": 7099,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-caramel-creme-flavour-2-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-caramel-creme-flavour-2-kg",
+        "kind": "official-live",
+        "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+      }
+    },
+    {
+      "order": 4188,
+      "observation": {
+        "category": "protein",
+        "offerId": 140,
+        "date": "2026-11-19",
+        "price": 3203,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-chocolate-hazelnut-flavour-1-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-chocolate-hazelnut-flavour-1-kg",
+        "kind": "official-live",
+        "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+      }
+    },
+    {
+      "order": 4189,
+      "observation": {
+        "category": "protein",
+        "offerId": 141,
+        "date": "2026-11-19",
+        "price": 7099,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-chocolate-hazelnut-flavour-2-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-chocolate-hazelnut-flavour-2-kg",
+        "kind": "official-live",
+        "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+      }
+    },
+    {
+      "order": 4190,
+      "observation": {
+        "category": "protein",
+        "offerId": 142,
+        "date": "2026-11-19",
+        "price": 3559,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-cold-coffee-flavour-1-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-cold-coffee-flavour-1-kg",
+        "kind": "official-live",
+        "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+      }
+    },
+    {
+      "order": 4191,
+      "observation": {
+        "category": "protein",
+        "offerId": 143,
+        "date": "2026-11-19",
+        "price": 7099,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-cold-coffee-flavour-2-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-cold-coffee-flavour-2-kg",
+        "kind": "official-live",
+        "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+      }
+    },
+    {
+      "order": 4192,
+      "observation": {
+        "category": "protein",
+        "offerId": 144,
+        "date": "2026-11-19",
+        "price": 3559,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-malai-kulfi-flavour-1-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-malai-kulfi-flavour-1-kg",
+        "kind": "official-live",
+        "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+      }
+    },
+    {
+      "order": 4193,
+      "observation": {
+        "category": "protein",
+        "offerId": 145,
+        "date": "2026-11-19",
+        "price": 7099,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-malai-kulfi-flavour-2-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-malai-kulfi-flavour-2-kg",
+        "kind": "official-live",
+        "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+      }
+    },
+    {
+      "order": 4194,
+      "observation": {
+        "category": "protein",
+        "offerId": 146,
+        "date": "2026-11-19",
+        "price": 3559,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-mango-rush-flavour-1-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-mango-rush-flavour-1-kg",
+        "kind": "official-live",
+        "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+      }
+    },
+    {
+      "order": 4195,
+      "observation": {
+        "category": "protein",
+        "offerId": 147,
+        "date": "2026-11-19",
+        "price": 7099,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-mango-rush-flavour-2-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-mango-rush-flavour-2-kg",
+        "kind": "official-live",
+        "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+      }
+    },
+    {
+      "order": 4196,
+      "observation": {
+        "category": "protein",
+        "offerId": 148,
+        "date": "2026-11-19",
+        "price": 3509,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-rose-milk-1-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-rose-milk-1-kg",
+        "kind": "official-live",
+        "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+      }
+    },
+    {
+      "order": 4197,
+      "observation": {
+        "category": "protein",
+        "offerId": 149,
+        "date": "2026-11-19",
+        "price": 3509,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-tiramisu-1-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-tiramisu-1-kg",
+        "kind": "official-live",
+        "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+      }
+    },
+    {
+      "order": 4198,
+      "observation": {
+        "category": "protein",
+        "offerId": 150,
+        "date": "2026-11-19",
+        "price": 3509,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-triple-chocolate-1-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-triple-chocolate-1-kg",
+        "kind": "official-live",
+        "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+      }
+    },
+    {
+      "order": 4199,
+      "observation": {
+        "category": "protein",
+        "offerId": 151,
+        "date": "2026-11-19",
+        "price": 3380,
+        "currency": "INR",
+        "sourceUrl": "https://www.avvatarindia.com/product/100-performance-whey-unflavored-1-kg",
+        "evidenceUrl": "https://www.avvatarindia.com/product/100-performance-whey-unflavored-1-kg",
+        "kind": "official-live",
+        "matchBasis": "Official individual product heading matches family, flavour and net pack; primary offer price"
+      }
+    }
+  ],
+  "refreshSources": []
+}

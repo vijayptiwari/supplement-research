@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "category": "ashwagandha",
+  "brand": "Organic India",
+  "product": "Ashwagandha Advance",
+  "variants": [
+    {
+      "order": 6,
+      "offer": {
+        "brand": "Organic India",
+        "product": "Ashwagandha Advance",
+        "form": "Capsule",
+        "type": "Root powder + extract",
+        "subclass": "Standardized blend",
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official product listing; only explicitly verified label amounts are recorded.",
+        "notes": "Page states an extract standardized to 5% withanolides layered over whole herb. Extract mass and label serving are unverified; whole-herb mass is not multiplied by 5%.",
+        "packCount": 60,
+        "withanolidesPct": 5,
+        "id": "ashwagandha-51506700190013",
+        "price": 749,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://organicindia.com/products/ashwagandha-advance-capsules?variant=51506700190013",
+        "nutritionUrl": "https://organicindia.com/products/ashwagandha-advance-capsules",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-10-29",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://organicindia.com/products/ashwagandha-advance-capsules?variant=51506700190013",
+          "evidenceUrl": "https://organicindia.com/products/ashwagandha-advance-capsules.json",
+          "matchBasis": "Official public Shopify product; exact variant ID 51506700190013 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3699,
+      "observation": {
+        "category": "ashwagandha",
+        "offerId": "ashwagandha-51506700190013",
+        "date": "2026-10-29",
+        "price": 799,
+        "currency": "INR",
+        "sourceUrl": "https://organicindia.com/products/ashwagandha-advance-capsules?variant=51506700190013",
+        "evidenceUrl": "https://organicindia.com/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "51506700190013"
+      }
+    },
+    {
+      "order": 3850,
+      "observation": {
+        "category": "ashwagandha",
+        "offerId": "ashwagandha-51506700190013",
+        "date": "2026-11-19",
+        "price": 749,
+        "currency": "INR",
+        "sourceUrl": "https://organicindia.com/products/ashwagandha-advance-capsules?variant=51506700190013",
+        "evidenceUrl": "https://organicindia.com/products/ashwagandha-advance-capsules.json",
+        "kind": "official-live",
+        "variantId": "51506700190013",
+        "matchBasis": "Official public Shopify product; exact variant ID 51506700190013 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 3,
+      "profile": {
+        "category": "ashwagandha",
+        "brand": "Organic India",
+        "base": "https://organicindia.com",
+        "handle": "ashwagandha-advance-capsules",
+        "product": "Ashwagandha Advance",
+        "form": "Capsule",
+        "type": "Root powder + extract",
+        "subclass": "Standardized blend",
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official product listing; only explicitly verified label amounts are recorded.",
+        "notes": "Page states an extract standardized to 5% withanolides layered over whole herb. Extract mass and label serving are unverified; whole-herb mass is not multiplied by 5%.",
+        "packCount": 60,
+        "withanolidesPct": 5
+      }
+    }
+  ]
+}

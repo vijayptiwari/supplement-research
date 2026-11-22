@@ -1,0 +1,224 @@
+{
+  "schemaVersion": 1,
+  "category": "fish-oil",
+  "brand": "GNC",
+  "product": "Triple Strength Fish Oil",
+  "variants": [
+    {
+      "order": 20,
+      "offer": {
+        "product": "Triple Strength Fish Oil",
+        "form": "Softgel",
+        "type": "Fish oil (chemical form not verified)",
+        "subclass": "Triple strength; enteric-coated",
+        "source": "Fish species not specified",
+        "packCount": 30,
+        "servingUnits": 1,
+        "fishOilMg": 1500,
+        "epaMg": 540,
+        "dhaMg": 360,
+        "epaDhaMg": 900,
+        "energyPerServing": null,
+        "nutritionUrl": "https://img6.hkrtcdn.com/41705/prd_4170425-GNC-Triple-Strength-Fish-Oil-30-softgels_o.jpg",
+        "labelSources": [
+          "https://www.healthkart.com/sv/gnc-triple-strength-fish-oil/SP-29875?navKey=VRNT-238983",
+          "https://img6.hkrtcdn.com/41705/prd_4170425-GNC-Triple-Strength-Fish-Oil-30-softgels_o.jpg",
+          "https://img8.hkrtcdn.com/38604/prd_3860397-GNC-Triple-Strength-Fish-Oil-30-softgels_o.jpg"
+        ],
+        "basis": "Selected 30-softgel label defines one softgel (approximately 2.1 g) with fish oil 1500 mg, EPA 540 mg and DHA 360 mg, combined EPA+DHA 900 mg. Energy is not transcribed from an insufficiently legible source.",
+        "notes": "1500 mg is fish-oil mass, while combined EPA+DHA is 900 mg. Enteric coating is a label claim; chemical ester form and fish species are not verified.",
+        "id": "fish-oil-hk-238983",
+        "brand": "GNC",
+        "price": 699,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://www.healthkart.com/sv/gnc-triple-strength-fish-oil/SP-29875?navKey=VRNT-238983",
+        "sourceType": "retailer",
+        "retailer": "HealthKart",
+        "seller": "Guardian Healthcare Services Pvt Ltd",
+        "sourceVariantId": "238983",
+        "sourceProductId": "29875",
+        "labelChecked": "2026-11-20",
+        "packaging": "Single retail pack",
+        "flavour": "Unflavoured"
+      }
+    },
+    {
+      "order": 21,
+      "offer": {
+        "product": "Triple Strength Fish Oil",
+        "form": "Softgel",
+        "type": "Fish oil (chemical form not verified)",
+        "subclass": "Triple strength; enteric-coated",
+        "source": "Fish species not specified",
+        "packCount": 60,
+        "servingUnits": 1,
+        "fishOilMg": 1500,
+        "epaMg": 540,
+        "dhaMg": 360,
+        "epaDhaMg": 900,
+        "energyPerServing": null,
+        "nutritionUrl": "https://img8.hkrtcdn.com/38604/prd_3860377-GNC-Triple-Strength-Fish-Oil-60-softgels_o.jpg",
+        "labelSources": [
+          "https://www.healthkart.com/sv/gnc-triple-strength-fish-oil/SP-29875?navKey=VRNT-64870",
+          "https://img8.hkrtcdn.com/38604/prd_3860377-GNC-Triple-Strength-Fish-Oil-60-softgels_o.jpg",
+          "https://img10.hkrtcdn.com/38605/prd_3860469-GNC-Triple-Strength-Fish-Oil-60-softgels_o.jpg",
+          "https://img6.hkrtcdn.com/38605/prd_3860475-GNC-Triple-Strength-Fish-Oil-60-softgels_o.jpg"
+        ],
+        "basis": "Selected 60-softgel label defines one softgel (approximately 2.1 g) with fish oil 1500 mg, EPA 540 mg and DHA 360 mg, combined EPA+DHA 900 mg. Energy is not transcribed from an insufficiently legible source.",
+        "notes": "1500 mg is fish-oil mass, while combined EPA+DHA is 900 mg. Enteric coating is a label claim; chemical ester form and fish species are not verified. Conflict: the separate 60-pack infographic incorrectly prints 900 mg for both EPA and DHA. The actual bottle nutrition panel states EPA 540 mg and DHA 360 mg, matching its 900 mg combined front claim; the inconsistent infographic is not used for composition.",
+        "id": "fish-oil-hk-64870",
+        "brand": "GNC",
+        "price": 1249,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://www.healthkart.com/sv/gnc-triple-strength-fish-oil/SP-29875?navKey=VRNT-64870",
+        "sourceType": "retailer",
+        "retailer": "HealthKart",
+        "seller": "Guardian Healthcare Services Pvt Ltd",
+        "sourceVariantId": "64870",
+        "sourceProductId": "29875",
+        "labelChecked": "2026-11-20",
+        "packaging": "Single retail pack",
+        "flavour": "Unflavoured"
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5198,
+      "observation": {
+        "category": "fish-oil",
+        "offerId": "fish-oil-hk-238983",
+        "date": "2026-11-20",
+        "price": 699,
+        "currency": "INR",
+        "sourceUrl": "https://www.healthkart.com/sv/gnc-triple-strength-fish-oil/SP-29875?navKey=VRNT-238983",
+        "evidenceUrl": "https://www.healthkart.com/sv/gnc-triple-strength-fish-oil/SP-29875?navKey=VRNT-238983",
+        "kind": "official-live",
+        "sourceType": "retailer",
+        "retailer": "HealthKart",
+        "seller": "Guardian Healthcare Services Pvt Ltd",
+        "variantId": "238983",
+        "matchBasis": "HealthKart public SSR exact published product SP-29875 and selected VRNT-238983; source brand and all selected attributes match; ordinary offer_pr, not Premium/Select/coupon pricing. Label gallery reviewed independently."
+      }
+    },
+    {
+      "order": 5199,
+      "observation": {
+        "category": "fish-oil",
+        "offerId": "fish-oil-hk-64870",
+        "date": "2026-11-20",
+        "price": 1249,
+        "currency": "INR",
+        "sourceUrl": "https://www.healthkart.com/sv/gnc-triple-strength-fish-oil/SP-29875?navKey=VRNT-64870",
+        "evidenceUrl": "https://www.healthkart.com/sv/gnc-triple-strength-fish-oil/SP-29875?navKey=VRNT-64870",
+        "kind": "official-live",
+        "sourceType": "retailer",
+        "retailer": "HealthKart",
+        "seller": "Guardian Healthcare Services Pvt Ltd",
+        "variantId": "64870",
+        "matchBasis": "HealthKart public SSR exact published product SP-29875 and selected VRNT-64870; source brand and all selected attributes match; ordinary offer_pr, not Premium/Select/coupon pricing. Label gallery reviewed independently."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 307,
+      "profile": {
+        "product": "Triple Strength Fish Oil",
+        "form": "Softgel",
+        "type": "Fish oil (chemical form not verified)",
+        "subclass": "Triple strength; enteric-coated",
+        "source": "Fish species not specified",
+        "packCount": 30,
+        "servingUnits": 1,
+        "fishOilMg": 1500,
+        "epaMg": 540,
+        "dhaMg": 360,
+        "epaDhaMg": 900,
+        "energyPerServing": null,
+        "nutritionUrl": "https://img6.hkrtcdn.com/41705/prd_4170425-GNC-Triple-Strength-Fish-Oil-30-softgels_o.jpg",
+        "labelSources": [
+          "https://www.healthkart.com/sv/gnc-triple-strength-fish-oil/SP-29875?navKey=VRNT-238983",
+          "https://img6.hkrtcdn.com/41705/prd_4170425-GNC-Triple-Strength-Fish-Oil-30-softgels_o.jpg",
+          "https://img8.hkrtcdn.com/38604/prd_3860397-GNC-Triple-Strength-Fish-Oil-30-softgels_o.jpg"
+        ],
+        "basis": "Selected 30-softgel label defines one softgel (approximately 2.1 g) with fish oil 1500 mg, EPA 540 mg and DHA 360 mg, combined EPA+DHA 900 mg. Energy is not transcribed from an insufficiently legible source.",
+        "notes": "1500 mg is fish-oil mass, while combined EPA+DHA is 900 mg. Enteric coating is a label claim; chemical ester form and fish species are not verified.",
+        "id": "fish-oil-hk-238983",
+        "brand": "GNC",
+        "currency": "INR",
+        "sourceType": "retailer",
+        "retailer": "HealthKart",
+        "seller": "Guardian Healthcare Services Pvt Ltd",
+        "sourceVariantId": "238983",
+        "sourceProductId": "29875",
+        "labelChecked": "2026-11-20",
+        "packaging": "Single retail pack",
+        "flavour": "Unflavoured",
+        "category": "fish-oil",
+        "kind": "hk-product",
+        "base": "https://www.healthkart.com",
+        "cacheKey": "hk-fish-oil-238983",
+        "productUrl": "https://www.healthkart.com/sv/gnc-triple-strength-fish-oil/SP-29875?navKey=VRNT-238983",
+        "variantUrl": "https://www.healthkart.com/sv/gnc-triple-strength-fish-oil/SP-29875?navKey=VRNT-238983",
+        "variantId": "238983",
+        "productId": "29875",
+        "sourceBrand": "GNC",
+        "variantAttributes": {
+          "fn-att-quant": "30 softgels"
+        }
+      }
+    },
+    {
+      "order": 308,
+      "profile": {
+        "product": "Triple Strength Fish Oil",
+        "form": "Softgel",
+        "type": "Fish oil (chemical form not verified)",
+        "subclass": "Triple strength; enteric-coated",
+        "source": "Fish species not specified",
+        "packCount": 60,
+        "servingUnits": 1,
+        "fishOilMg": 1500,
+        "epaMg": 540,
+        "dhaMg": 360,
+        "epaDhaMg": 900,
+        "energyPerServing": null,
+        "nutritionUrl": "https://img8.hkrtcdn.com/38604/prd_3860377-GNC-Triple-Strength-Fish-Oil-60-softgels_o.jpg",
+        "labelSources": [
+          "https://www.healthkart.com/sv/gnc-triple-strength-fish-oil/SP-29875?navKey=VRNT-64870",
+          "https://img8.hkrtcdn.com/38604/prd_3860377-GNC-Triple-Strength-Fish-Oil-60-softgels_o.jpg",
+          "https://img10.hkrtcdn.com/38605/prd_3860469-GNC-Triple-Strength-Fish-Oil-60-softgels_o.jpg",
+          "https://img6.hkrtcdn.com/38605/prd_3860475-GNC-Triple-Strength-Fish-Oil-60-softgels_o.jpg"
+        ],
+        "basis": "Selected 60-softgel label defines one softgel (approximately 2.1 g) with fish oil 1500 mg, EPA 540 mg and DHA 360 mg, combined EPA+DHA 900 mg. Energy is not transcribed from an insufficiently legible source.",
+        "notes": "1500 mg is fish-oil mass, while combined EPA+DHA is 900 mg. Enteric coating is a label claim; chemical ester form and fish species are not verified. Conflict: the separate 60-pack infographic incorrectly prints 900 mg for both EPA and DHA. The actual bottle nutrition panel states EPA 540 mg and DHA 360 mg, matching its 900 mg combined front claim; the inconsistent infographic is not used for composition.",
+        "id": "fish-oil-hk-64870",
+        "brand": "GNC",
+        "currency": "INR",
+        "sourceType": "retailer",
+        "retailer": "HealthKart",
+        "seller": "Guardian Healthcare Services Pvt Ltd",
+        "sourceVariantId": "64870",
+        "sourceProductId": "29875",
+        "labelChecked": "2026-11-20",
+        "packaging": "Single retail pack",
+        "flavour": "Unflavoured",
+        "category": "fish-oil",
+        "kind": "hk-product",
+        "base": "https://www.healthkart.com",
+        "cacheKey": "hk-fish-oil-64870",
+        "productUrl": "https://www.healthkart.com/sv/gnc-triple-strength-fish-oil/SP-29875?navKey=VRNT-64870",
+        "variantUrl": "https://www.healthkart.com/sv/gnc-triple-strength-fish-oil/SP-29875?navKey=VRNT-64870",
+        "variantId": "64870",
+        "productId": "29875",
+        "sourceBrand": "GNC",
+        "variantAttributes": {
+          "fn-att-quant": "60 softgels"
+        }
+      }
+    }
+  ]
+}

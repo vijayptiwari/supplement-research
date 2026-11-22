@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "category": "l-carnitine",
+  "brand": "Pure Nutrition",
+  "product": "Acetyl L-Carnitine 500 mg",
+  "variants": [
+    {
+      "order": 2,
+      "offer": {
+        "brand": "Pure Nutrition",
+        "product": "Acetyl L-Carnitine 500 mg",
+        "form": "Capsule",
+        "type": "Acetyl L-carnitine",
+        "subclass": "Acetyl derivative",
+        "source": "Not specified",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "basis": "Official product specifications state 500 mg acetyl L-carnitine per one capsule and 60 capsules per bottle.",
+        "notes": "Acetyl L-carnitine is a distinct derivative. Its 500 mg mass is not treated as equivalent free L-carnitine.",
+        "labelChecked": "2026-11-17",
+        "packCount": 60,
+        "servingUnits": 1,
+        "carnitineCompoundMg": 500,
+        "carnitineMg": null,
+        "energyPerServing": null,
+        "labelSources": [
+          "https://purenutrition.in/products/acetyl-l-carnitine-60-caps"
+        ],
+        "id": "l-carnitine-48968143503614",
+        "price": 549,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://purenutrition.in/products/acetyl-l-carnitine-60-caps?variant=48968143503614",
+        "nutritionUrl": "https://purenutrition.in/products/acetyl-l-carnitine-60-caps",
+        "searchAliases": [
+          "alcar",
+          "acetyl l carnitine"
+        ],
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://purenutrition.in/products/acetyl-l-carnitine-60-caps?variant=48968143503614",
+          "evidenceUrl": "https://purenutrition.in/products/acetyl-l-carnitine-60-caps.json",
+          "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3806,
+      "observation": {
+        "category": "l-carnitine",
+        "offerId": "l-carnitine-48968143503614",
+        "date": "2026-11-17",
+        "price": 549,
+        "currency": "INR",
+        "sourceUrl": "https://purenutrition.in/products/acetyl-l-carnitine-60-caps?variant=48968143503614",
+        "evidenceUrl": "https://purenutrition.in/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Directly fetched official Shopify feed; exact variant ID, flavour and single retail pack verified against official product page. Conditional discounts excluded.",
+        "variantId": "48968143503614"
+      }
+    },
+    {
+      "order": 4000,
+      "observation": {
+        "category": "l-carnitine",
+        "offerId": "l-carnitine-48968143503614",
+        "date": "2026-11-19",
+        "price": 549,
+        "currency": "INR",
+        "sourceUrl": "https://purenutrition.in/products/acetyl-l-carnitine-60-caps?variant=48968143503614",
+        "evidenceUrl": "https://purenutrition.in/products/acetyl-l-carnitine-60-caps.json",
+        "kind": "official-live",
+        "variantId": "48968143503614",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 90,
+      "profile": {
+        "category": "l-carnitine",
+        "brand": "Pure Nutrition",
+        "base": "https://purenutrition.in",
+        "handle": "acetyl-l-carnitine-60-caps",
+        "product": "Acetyl L-Carnitine 500 mg",
+        "form": "Capsule",
+        "type": "Acetyl L-carnitine",
+        "subclass": "Acetyl derivative",
+        "source": "Not specified",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "basis": "Official product specifications state 500 mg acetyl L-carnitine per one capsule and 60 capsules per bottle.",
+        "notes": "Acetyl L-carnitine is a distinct derivative. Its 500 mg mass is not treated as equivalent free L-carnitine.",
+        "labelChecked": "2026-11-17",
+        "variantIds": [
+          "48968143503614"
+        ],
+        "packCount": 60,
+        "servingUnits": 1,
+        "carnitineCompoundMg": 500,
+        "carnitineMg": null,
+        "energyPerServing": null,
+        "labelSources": [
+          "https://purenutrition.in/products/acetyl-l-carnitine-60-caps"
+        ],
+        "searchAliases": [
+          "alcar",
+          "acetyl l carnitine"
+        ]
+      }
+    }
+  ]
+}

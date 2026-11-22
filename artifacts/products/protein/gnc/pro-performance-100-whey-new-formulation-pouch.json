@@ -1,0 +1,255 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "GNC",
+  "product": "Pro Performance 100% Whey (new formulation, pouch)",
+  "variants": [
+    {
+      "order": 786,
+      "offer": {
+        "id": 786,
+        "brand": "GNC",
+        "product": "Pro Performance 100% Whey (new formulation, pouch)",
+        "type": "Whey — blend",
+        "flavour": "CAFE MOCHA",
+        "kg": 1,
+        "price": 3899,
+        "stock": "In stock",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://gnc.in/products/pp-100-whey-pouches-new-formulation?variant=52455152287975",
+        "nutritionUrl": "https://gnc.in/products/pp-100-whey-pouches-new-formulation?variant=52455152287975",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://gnc.in/products/pp-100-whey-pouches-new-formulation?variant=52455152287975",
+          "evidenceUrl": "https://gnc.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 787,
+      "offer": {
+        "id": 787,
+        "brand": "GNC",
+        "product": "Pro Performance 100% Whey (new formulation, pouch)",
+        "type": "Whey — blend",
+        "flavour": "CHOCOLATE FUDGE",
+        "kg": 1,
+        "price": 3899,
+        "stock": "In stock",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://gnc.in/products/pp-100-whey-pouches-new-formulation?variant=52455152255207",
+        "nutritionUrl": "https://gnc.in/products/pp-100-whey-pouches-new-formulation?variant=52455152255207",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://gnc.in/products/pp-100-whey-pouches-new-formulation?variant=52455152255207",
+          "evidenceUrl": "https://gnc.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 788,
+      "offer": {
+        "id": 788,
+        "brand": "GNC",
+        "product": "Pro Performance 100% Whey (new formulation, pouch)",
+        "type": "Whey — blend",
+        "flavour": "CHOCOLATE FUDGE",
+        "kg": 4,
+        "price": 12899,
+        "stock": "In stock",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://gnc.in/products/pp-100-whey-pouches-new-formulation?variant=52455152779495",
+        "nutritionUrl": "https://gnc.in/products/pp-100-whey-pouches-new-formulation?variant=52455152779495",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://gnc.in/products/pp-100-whey-pouches-new-formulation?variant=52455152779495",
+          "evidenceUrl": "https://gnc.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 789,
+      "offer": {
+        "id": 789,
+        "brand": "GNC",
+        "product": "Pro Performance 100% Whey (new formulation, pouch)",
+        "type": "Whey — blend",
+        "flavour": "CHOCOLATE SUPREME",
+        "kg": 1,
+        "price": 3899,
+        "stock": "In stock",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://gnc.in/products/pp-100-whey-pouches-new-formulation?variant=52455152320743",
+        "nutritionUrl": "https://gnc.in/products/pp-100-whey-pouches-new-formulation?variant=52455152320743",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://gnc.in/products/pp-100-whey-pouches-new-formulation?variant=52455152320743",
+          "evidenceUrl": "https://gnc.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 2975,
+      "observation": {
+        "category": "protein",
+        "offerId": 786,
+        "date": "2026-10-25",
+        "price": 3899,
+        "currency": "INR",
+        "sourceUrl": "https://gnc.in/products/pp-100-whey-pouches-new-formulation?variant=52455152287975",
+        "evidenceUrl": "https://gnc.in/products/pp-100-whey-pouches-new-formulation.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "52455152287975"
+      }
+    },
+    {
+      "order": 2976,
+      "observation": {
+        "category": "protein",
+        "offerId": 787,
+        "date": "2026-10-25",
+        "price": 3899,
+        "currency": "INR",
+        "sourceUrl": "https://gnc.in/products/pp-100-whey-pouches-new-formulation?variant=52455152255207",
+        "evidenceUrl": "https://gnc.in/products/pp-100-whey-pouches-new-formulation.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "52455152255207"
+      }
+    },
+    {
+      "order": 2977,
+      "observation": {
+        "category": "protein",
+        "offerId": 788,
+        "date": "2026-10-25",
+        "price": 12899,
+        "currency": "INR",
+        "sourceUrl": "https://gnc.in/products/pp-100-whey-pouches-new-formulation?variant=52455152779495",
+        "evidenceUrl": "https://gnc.in/products/pp-100-whey-pouches-new-formulation.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "52455152779495"
+      }
+    },
+    {
+      "order": 2978,
+      "observation": {
+        "category": "protein",
+        "offerId": 789,
+        "date": "2026-10-25",
+        "price": 3899,
+        "currency": "INR",
+        "sourceUrl": "https://gnc.in/products/pp-100-whey-pouches-new-formulation?variant=52455152320743",
+        "evidenceUrl": "https://gnc.in/products/pp-100-whey-pouches-new-formulation.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "52455152320743"
+      }
+    },
+    {
+      "order": 4833,
+      "observation": {
+        "category": "protein",
+        "offerId": 786,
+        "date": "2026-11-19",
+        "price": 3899,
+        "currency": "INR",
+        "sourceUrl": "https://gnc.in/products/pp-100-whey-pouches-new-formulation?variant=52455152287975",
+        "evidenceUrl": "https://gnc.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "52455152287975"
+      }
+    },
+    {
+      "order": 4834,
+      "observation": {
+        "category": "protein",
+        "offerId": 787,
+        "date": "2026-11-19",
+        "price": 3899,
+        "currency": "INR",
+        "sourceUrl": "https://gnc.in/products/pp-100-whey-pouches-new-formulation?variant=52455152255207",
+        "evidenceUrl": "https://gnc.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "52455152255207"
+      }
+    },
+    {
+      "order": 4835,
+      "observation": {
+        "category": "protein",
+        "offerId": 788,
+        "date": "2026-11-19",
+        "price": 12899,
+        "currency": "INR",
+        "sourceUrl": "https://gnc.in/products/pp-100-whey-pouches-new-formulation?variant=52455152779495",
+        "evidenceUrl": "https://gnc.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "52455152779495"
+      }
+    },
+    {
+      "order": 4836,
+      "observation": {
+        "category": "protein",
+        "offerId": 789,
+        "date": "2026-11-19",
+        "price": 3899,
+        "currency": "INR",
+        "sourceUrl": "https://gnc.in/products/pp-100-whey-pouches-new-formulation?variant=52455152320743",
+        "evidenceUrl": "https://gnc.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "52455152320743"
+      }
+    }
+  ],
+  "refreshSources": []
+}

@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "Nutrabox",
+  "product": "Protein Plus",
+  "variants": [
+    {
+      "order": 591,
+      "offer": {
+        "id": 591,
+        "brand": "Nutrabox",
+        "product": "Protein Plus",
+        "type": "Whey — blend",
+        "flavour": "Swiss Chocolate",
+        "kg": 1,
+        "price": 999,
+        "stock": "In stock",
+        "protein": 36,
+        "scoop": 33,
+        "serving": 33,
+        "subclass": "Whey blend",
+        "energy": 361,
+        "url": "https://nutrabox.in/products/protein-plus-swiss-chocolate?variant=39251615842478",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0038/0656/0365/files/protein-plus_6362c771-856b-4eb7-bf8f-cc43f55fb0ff.jpg?v=1770365356",
+        "basis": "36g protein per 100g; brand description",
+        "notes": "Brand product-page serving basis; flavour-specific label values may vary. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-matched label image, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nutrabox.in/products/protein-plus-swiss-chocolate?variant=39251615842478",
+          "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 2780,
+      "observation": {
+        "category": "protein",
+        "offerId": 591,
+        "date": "2026-10-25",
+        "price": 999,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/protein-plus-swiss-chocolate?variant=39251615842478",
+        "evidenceUrl": "https://nutrabox.in/products/protein-plus-swiss-chocolate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "39251615842478"
+      }
+    },
+    {
+      "order": 4638,
+      "observation": {
+        "category": "protein",
+        "offerId": 591,
+        "date": "2026-11-19",
+        "price": 999,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/protein-plus-swiss-chocolate?variant=39251615842478",
+        "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "39251615842478"
+      }
+    }
+  ],
+  "refreshSources": []
+}

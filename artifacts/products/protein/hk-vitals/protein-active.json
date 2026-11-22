@@ -1,0 +1,361 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "HK Vitals",
+  "product": "Protein Active",
+  "variants": [
+    {
+      "order": 838,
+      "offer": {
+        "id": "protein-hk-205324",
+        "brand": "HK Vitals",
+        "product": "Protein Active",
+        "type": "Milk + soy",
+        "subclass": "Whey + soy + casein fortified blend",
+        "form": "Powder",
+        "flavour": "Chocolate",
+        "kg": 1,
+        "grams": 1000,
+        "price": 1399,
+        "currency": "INR",
+        "stock": "In stock",
+        "scoop": 15,
+        "serving": 30,
+        "energy": 333.3,
+        "url": "https://www.healthkart.com/sv/healthkart-hk-vitals-protein-active/SP-94864?navKey=VRNT-205324",
+        "nutritionUrl": "https://img1.hkrtcdn.com/39237/normal_3923601_o.jpg",
+        "labelSources": [
+          "https://www.healthkart.com/sv/healthkart-hk-vitals-protein-active/SP-94864?navKey=VRNT-205324",
+          "https://img1.hkrtcdn.com/39237/normal_3923601_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Individually reviewed selected HealthKart variant and its current nutrition-panel image; explicit net kg weight is recorded in the selected product technical details. Protein concentration uses the stated per-100 g label value rather than recomputing a conflicting percentage from rounded serving grams.",
+        "notes": "A fortified food blend containing milk and soy; it is not pure whey isolate. Label serving is two scoops (30 g), so one scoop is 15 g. Panel energy 333.3 kcal/100 g differs from an old technical Kcal field; actual panel is used. Ashwagandha and micronutrients are separate exposures and require manual stack review.",
+        "energyBasis": "Stated label kcal per 100 g",
+        "sourceType": "retailer",
+        "retailer": "HealthKart",
+        "seller": "Bright Nutricare Private Limited",
+        "sourceProductId": "94864",
+        "sourceVariantId": "205324",
+        "packaging": "Jar",
+        "protein": 40,
+        "additionalIngredients": [
+          {
+            "name": "KSM-66 ashwagandha root extract",
+            "amount": 150,
+            "unit": "mg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Vitamin A",
+            "amount": 195,
+            "unit": "mcg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Vitamin B1",
+            "amount": 0.45,
+            "unit": "mg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Vitamin B2",
+            "amount": 0.54,
+            "unit": "mg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Vitamin B3",
+            "amount": 4.5,
+            "unit": "mg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Pantothenic acid",
+            "amount": 1.8,
+            "unit": "mg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Vitamin B6",
+            "amount": 0.9,
+            "unit": "mg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Biotin",
+            "amount": 7.5,
+            "unit": "mcg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Folic acid",
+            "amount": 45,
+            "unit": "mcg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Vitamin B12",
+            "amount": 0.5,
+            "unit": "mcg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Vitamin C",
+            "amount": 27,
+            "unit": "mg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Vitamin D",
+            "amount": 2.49,
+            "unit": "mcg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Vitamin E",
+            "amount": 3.6,
+            "unit": "mg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Vitamin K",
+            "amount": 13.5,
+            "unit": "mcg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Iron",
+            "amount": 9.6,
+            "unit": "mg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Zinc",
+            "amount": 6.3,
+            "unit": "mg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Calcium",
+            "amount": 240,
+            "unit": "mg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Magnesium",
+            "amount": 51,
+            "unit": "mg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Chloride",
+            "amount": 165,
+            "unit": "mg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Phosphorus",
+            "amount": 225,
+            "unit": "mg",
+            "basis": "per stated powder serving"
+          }
+        ],
+        "requiresProductReview": true,
+        "productReviewReason": "Contains KSM-66 ashwagandha and multiple micronutrients. Review these additional exposures before choosing it solely to fill a protein gap."
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5192,
+      "observation": {
+        "category": "protein",
+        "offerId": "protein-hk-205324",
+        "date": "2026-11-19",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://www.healthkart.com/sv/healthkart-hk-vitals-protein-active/SP-94864?navKey=VRNT-205324",
+        "evidenceUrl": "https://www.healthkart.com/sv/healthkart-hk-vitals-protein-active/SP-94864?navKey=VRNT-205324",
+        "kind": "official-live",
+        "variantId": "205324",
+        "matchBasis": "HealthKart selected product numeric id 205324, SP-94864, brand, flavour, retail packaging and explicit net gram/kg weight reviewed against current label evidence; unconditional offer_pr excludes loyalty or coupons."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 301,
+      "profile": {
+        "id": "protein-hk-205324",
+        "brand": "HK Vitals",
+        "product": "Protein Active",
+        "type": "Milk + soy",
+        "subclass": "Whey + soy + casein fortified blend",
+        "form": "Powder",
+        "flavour": "Chocolate",
+        "kg": 1,
+        "grams": 1000,
+        "currency": "INR",
+        "scoop": 15,
+        "serving": 30,
+        "energy": 333.3,
+        "nutritionUrl": "https://img1.hkrtcdn.com/39237/normal_3923601_o.jpg",
+        "labelSources": [
+          "https://www.healthkart.com/sv/healthkart-hk-vitals-protein-active/SP-94864?navKey=VRNT-205324",
+          "https://img1.hkrtcdn.com/39237/normal_3923601_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Individually reviewed selected HealthKart variant and its current nutrition-panel image; explicit net kg weight is recorded in the selected product technical details. Protein concentration uses the stated per-100 g label value rather than recomputing a conflicting percentage from rounded serving grams.",
+        "notes": "A fortified food blend containing milk and soy; it is not pure whey isolate. Label serving is two scoops (30 g), so one scoop is 15 g. Panel energy 333.3 kcal/100 g differs from an old technical Kcal field; actual panel is used. Ashwagandha and micronutrients are separate exposures and require manual stack review.",
+        "energyBasis": "Stated label kcal per 100 g",
+        "sourceType": "retailer",
+        "retailer": "HealthKart",
+        "seller": "Bright Nutricare Private Limited",
+        "packaging": "Jar",
+        "protein": 40,
+        "additionalIngredients": [
+          {
+            "name": "KSM-66 ashwagandha root extract",
+            "amount": 150,
+            "unit": "mg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Vitamin A",
+            "amount": 195,
+            "unit": "mcg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Vitamin B1",
+            "amount": 0.45,
+            "unit": "mg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Vitamin B2",
+            "amount": 0.54,
+            "unit": "mg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Vitamin B3",
+            "amount": 4.5,
+            "unit": "mg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Pantothenic acid",
+            "amount": 1.8,
+            "unit": "mg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Vitamin B6",
+            "amount": 0.9,
+            "unit": "mg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Biotin",
+            "amount": 7.5,
+            "unit": "mcg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Folic acid",
+            "amount": 45,
+            "unit": "mcg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Vitamin B12",
+            "amount": 0.5,
+            "unit": "mcg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Vitamin C",
+            "amount": 27,
+            "unit": "mg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Vitamin D",
+            "amount": 2.49,
+            "unit": "mcg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Vitamin E",
+            "amount": 3.6,
+            "unit": "mg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Vitamin K",
+            "amount": 13.5,
+            "unit": "mcg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Iron",
+            "amount": 9.6,
+            "unit": "mg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Zinc",
+            "amount": 6.3,
+            "unit": "mg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Calcium",
+            "amount": 240,
+            "unit": "mg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Magnesium",
+            "amount": 51,
+            "unit": "mg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Chloride",
+            "amount": 165,
+            "unit": "mg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Phosphorus",
+            "amount": 225,
+            "unit": "mg",
+            "basis": "per stated powder serving"
+          }
+        ],
+        "category": "protein",
+        "kind": "hk-product",
+        "base": "https://www.healthkart.com",
+        "productUrl": "https://www.healthkart.com/sv/healthkart-hk-vitals-protein-active/SP-94864?navKey=VRNT-205324",
+        "variantUrl": "https://www.healthkart.com/sv/healthkart-hk-vitals-protein-active/SP-94864?navKey=VRNT-205324",
+        "variantId": "205324",
+        "productId": "94864",
+        "sourceBrand": "HealthKart",
+        "variantAttributes": {
+          "gen-pro-siz": "2.2 lb",
+          "gen-sn-flv": "Chocolate"
+        },
+        "cacheKey": "healthkart-205324",
+        "packSizeLabel": "2.2 lb",
+        "netWeightEvidenceUrl": "https://www.healthkart.com/sv/healthkart-hk-vitals-protein-active/SP-94864?navKey=VRNT-205324",
+        "netWeightEvidenceGrams": 1000,
+        "netWeightEvidenceChecked": "2026-11-19",
+        "requiresProductReview": true,
+        "productReviewReason": "Contains KSM-66 ashwagandha and multiple micronutrients. Review these additional exposures before choosing it solely to fill a protein gap."
+      }
+    }
+  ]
+}

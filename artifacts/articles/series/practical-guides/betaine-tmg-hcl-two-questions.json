@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "order": 48,
+  "article": {
+    "id": "betaine-tmg-hcl-two-questions",
+    "category": "betaine",
+    "series": "practical-guides",
+    "title": "Betaine TMG and betaine HCl: two labels, different questions",
+    "summary": "Learn why a methyl-donor pathway, a stomach-pH experiment and a workout study cannot be collapsed into one betaine benefit.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "The shared word betaine can make products for exercise, methylation and digestion look interchangeable. They are not one undifferentiated intervention. Anhydrous betaine is commonly described as trimethylglycine or TMG, while betaine hydrochloride supplies a different preparation with acidifying properties. The correct comparison starts by identifying the form and the question it was studied to answer. This article explains why equal compound weights, a common biochemical name and a general metabolism slogan do not establish equal usefulness or a reason to combine the products.",
+    "sections": [
+      {
+        "id": "ingredient-identity",
+        "title": "Read the complete name before the headline mass",
+        "body": "A label saying betaine can refer to anhydrous betaine, TMG, betaine hydrochloride or a blend. Do not treat a gram of one preparation as a verified gram of another active basis. Look for the exact ingredient and whether its stated mass describes a compound or explicitly declared payload. This matters before any price comparison is calculated. If the source basis remains ambiguous, preserve the gap instead of using a generic molecular conversion to manufacture an exact number for the finished product.",
+        "sourceIds": [
+          "betaine-medical",
+          "betaine-hcl-trial",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "methyl-donor",
+        "title": "A methyl-donor pathway is a normal biochemical role",
+        "body": "Betaine can donate a methyl group in the conversion of homocysteine to methionine through the enzyme betaine-homocysteine methyltransferase. This helps explain a biological role and why betaine has been investigated in particular medical contexts. It does not establish that every adult should buy a methylation product or that a changed marker improves an unrelated outcome. A pathway diagram is not an individual diagnosis. The relevant question remains whether a specific intervention produces a worthwhile benefit in the population and context being considered.",
+        "sourceIds": [
+          "betaine-bhmt",
+          "betaine-medical"
+        ]
+      },
+      {
+        "id": "specialist-care",
+        "title": "Specialist homocystinuria care is not a wellness indication",
+        "body": "Betaine anhydrous has a role in treatment of a particular inherited metabolic condition, with specialist monitoring and other care. That medical application should not be turned into a claim that a gym product treats an unexplained symptom or that healthy people need the same intervention. A medicine assessment addresses a defined disease and preparation, rather than every retail betaine formula. Someone with a clinical indication needs their treating team's plan; price arithmetic or a shared ingredient name cannot establish an appropriate substitute.",
+        "sourceIds": [
+          "betaine-medical"
+        ]
+      },
+      {
+        "id": "acid-experiment",
+        "title": "What an HCl experiment actually measured",
+        "body": "A small clinical-pharmacology study found that betaine HCl temporarily lowered stomach pH after acid-suppressing medication had experimentally raised it. That result concerns an induced condition and a physiological measurement. It did not establish that common digestive symptoms diagnose low stomach acid, that the product reliably relieves those symptoms or that self-directed use is suitable. Changing gastric pH can also be relevant to medicines, which makes an unsupervised experiment more consequential than a simple food-comfort purchase.",
+        "sourceIds": [
+          "betaine-hcl-trial"
+        ]
+      },
+      {
+        "id": "no-symptom-diagnosis",
+        "title": "A symptom checklist cannot supply the missing diagnosis",
+        "body": "A person can experience digestive discomfort for different reasons. Feeling better or worse after a product would not, by itself, validate a diagnosis inferred from an online checklist. The pH study cannot be expanded into a universal self-test simply because the chemical action is plausible. Persistent symptoms or questions about an acid-suppressing medicine warrant assessment of the underlying problem and treatment. Do not stop or alter a prescribed medicine to make a supplement rationale fit the story on a package.",
+        "sourceIds": [
+          "betaine-hcl-trial",
+          "betaine-medical"
+        ]
+      },
+      {
+        "id": "sport-evidence",
+        "title": "Sports findings belong to the tested preparation",
+        "body": "Exercise studies investigate specific betaine preparations and protocols, with mixed results across outcomes. A sports finding about anhydrous betaine is not evidence that betaine HCl improves digestion or that a digestive formula improves strength. Conversely, an HCl pH change cannot establish a training benefit. Read the intervention section of the study and retain the preparation in the conclusion. The same word appearing in two research areas is not a licence to combine their most favourable claims into one universally useful product.",
+        "sourceIds": [
+          "betaine-meta",
+          "well-betaine-females",
+          "well-betaine-crossfit"
+        ]
+      },
+      {
+        "id": "blends-and-food",
+        "title": "Keep food sources and blend totals in their own units",
+        "body": "Foods contain betaine, but a food serving is not equivalent to an acidifying HCl preparation or a specified sports protocol. A pre-workout may also include betaine alongside caffeine and other actives. Record each amount on its verified basis and avoid treating a blend total as betaine content. An ingredient appearing in ordinary metabolism or food does not make every concentrated product necessary. Source information can support a dietary discussion without supplying an individualized supplementation target.",
+        "sourceIds": [
+          "food-performance-betaine",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "buying-check",
+        "title": "Use a different value question for each purpose",
+        "body": "For a workout product, ask which exercise outcome improved with the actual preparation and how reliable the result is. For a digestive claim, ask whether symptoms and meaningful clinical outcomes were studied, rather than only pH. For a diagnosed metabolic condition, follow specialist care. Only after the purpose and form are resolved should you compare complete servings and declared content cost. A cheap gram of the wrong intervention is not value, and choosing no optional betaine product is reasonable when the intended benefit remains unclear.",
+        "sourceIds": [
+          "betaine-hcl-trial",
+          "betaine-medical",
+          "well-betaine-crossfit",
+          "supplement-quality-ods"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "betaine-medical",
+      "betaine-hcl-trial",
+      "supplement-quality-ods",
+      "betaine-bhmt",
+      "betaine-meta",
+      "well-betaine-females",
+      "well-betaine-crossfit",
+      "food-performance-betaine"
+    ]
+  }
+}

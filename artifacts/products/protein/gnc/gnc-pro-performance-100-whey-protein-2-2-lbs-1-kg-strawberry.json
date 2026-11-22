@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "GNC",
+  "product": "GNC Pro Performance 100% Whey Protein - 2.2 lbs - 1 kg - Strawberry",
+  "variants": [
+    {
+      "order": 777,
+      "offer": {
+        "id": 777,
+        "brand": "GNC",
+        "product": "GNC Pro Performance 100% Whey Protein - 2.2 lbs - 1 kg - Strawberry",
+        "type": "Whey — blend",
+        "flavour": "Strawberry - Clearance Sale",
+        "kg": 1,
+        "price": 1639,
+        "stock": "Sold out",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://gnc.in/products/gnc-pro-performance-100-whey-protein-2-2-lbs-1-kg-strawberry?variant=48499721339111",
+        "nutritionUrl": "https://gnc.in/products/gnc-pro-performance-100-whey-protein-2-2-lbs-1-kg-strawberry?variant=48499721339111",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://gnc.in/products/gnc-pro-performance-100-whey-protein-2-2-lbs-1-kg-strawberry?variant=48499721339111",
+          "evidenceUrl": "https://gnc.in/products.json?limit=250&page=2",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 1687,
+      "observation": {
+        "category": "protein",
+        "offerId": 777,
+        "date": "2024-05-26",
+        "price": 1639,
+        "currency": "INR",
+        "sourceUrl": "https://gnc.in/products/gnc-pro-performance-100-whey-protein-2-2-lbs-1-kg-strawberry?variant=48499721339111",
+        "evidenceUrl": "https://web.archive.org/web/20240526151057id_/https://www.guardian.in/products/gnc-pro-performance-100-whey-protein-2-2-lbs-1-kg-strawberry",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "48499721339111",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1688,
+      "observation": {
+        "category": "protein",
+        "offerId": 777,
+        "date": "2024-10-09",
+        "price": 1639,
+        "currency": "INR",
+        "sourceUrl": "https://gnc.in/products/gnc-pro-performance-100-whey-protein-2-2-lbs-1-kg-strawberry?variant=48499721339111",
+        "evidenceUrl": "https://web.archive.org/web/20241009193405id_/https://www.guardian.in/products/gnc-pro-performance-100-whey-protein-2-2-lbs-1-kg-strawberry",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "48499721339111",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2966,
+      "observation": {
+        "category": "protein",
+        "offerId": 777,
+        "date": "2026-10-25",
+        "price": 1639,
+        "currency": "INR",
+        "sourceUrl": "https://gnc.in/products/gnc-pro-performance-100-whey-protein-2-2-lbs-1-kg-strawberry?variant=48499721339111",
+        "evidenceUrl": "https://gnc.in/products/gnc-pro-performance-100-whey-protein-2-2-lbs-1-kg-strawberry.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "48499721339111"
+      }
+    },
+    {
+      "order": 4824,
+      "observation": {
+        "category": "protein",
+        "offerId": 777,
+        "date": "2026-11-19",
+        "price": 1639,
+        "currency": "INR",
+        "sourceUrl": "https://gnc.in/products/gnc-pro-performance-100-whey-protein-2-2-lbs-1-kg-strawberry?variant=48499721339111",
+        "evidenceUrl": "https://gnc.in/products.json?limit=250&page=2",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "48499721339111"
+      }
+    }
+  ],
+  "refreshSources": []
+}

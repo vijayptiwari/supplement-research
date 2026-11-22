@@ -1,0 +1,676 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "Naturaltein",
+  "product": "Natural Whey Protein Concentrate",
+  "variants": [
+    {
+      "order": 548,
+      "offer": {
+        "id": 548,
+        "brand": "Naturaltein",
+        "product": "Natural Whey Protein Concentrate",
+        "type": "Whey — concentrate",
+        "flavour": "Caffe Mocha",
+        "kg": 1,
+        "price": 4199,
+        "stock": "In stock",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey concentrate",
+        "energy": null,
+        "url": "https://naturaltein.in/products/whey-protein-concentrate?variant=42639852699731",
+        "nutritionUrl": "https://naturaltein.in/products/whey-protein-concentrate?variant=42639852699731",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://naturaltein.in/products/whey-protein-concentrate?variant=42639852699731",
+          "evidenceUrl": "https://naturaltein.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 549,
+      "offer": {
+        "id": 549,
+        "brand": "Naturaltein",
+        "product": "Natural Whey Protein Concentrate",
+        "type": "Whey — concentrate",
+        "flavour": "Chocolate",
+        "kg": 1,
+        "price": 4199,
+        "stock": "In stock",
+        "protein": null,
+        "scoop": 30,
+        "serving": 30,
+        "subclass": "Whey concentrate",
+        "energy": 369,
+        "url": "https://naturaltein.in/products/whey-protein-concentrate?variant=42639852634195",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0634/8868/8211/files/Cons___choco_2_c11472a4-12c7-49f3-96e0-648961ffc2a8.webp?v=1759512043",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ. Protein percentage not verified.",
+        "energyBasis": "Flavour-matched label image, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://naturaltein.in/products/whey-protein-concentrate?variant=42639852634195",
+          "evidenceUrl": "https://naturaltein.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 550,
+      "offer": {
+        "id": 550,
+        "brand": "Naturaltein",
+        "product": "Natural Whey Protein Concentrate",
+        "type": "Whey — concentrate",
+        "flavour": "Chocolate Biscoff",
+        "kg": 1,
+        "price": 4199,
+        "stock": "In stock",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey concentrate",
+        "energy": null,
+        "url": "https://naturaltein.in/products/whey-protein-concentrate?variant=42639852535891",
+        "nutritionUrl": "https://naturaltein.in/products/whey-protein-concentrate?variant=42639852535891",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://naturaltein.in/products/whey-protein-concentrate?variant=42639852535891",
+          "evidenceUrl": "https://naturaltein.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 551,
+      "offer": {
+        "id": 551,
+        "brand": "Naturaltein",
+        "product": "Natural Whey Protein Concentrate",
+        "type": "Whey — concentrate",
+        "flavour": "Chocolate Caramel",
+        "kg": 1,
+        "price": 4199,
+        "stock": "In stock",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey concentrate",
+        "energy": null,
+        "url": "https://naturaltein.in/products/whey-protein-concentrate?variant=42639852666963",
+        "nutritionUrl": "https://naturaltein.in/products/whey-protein-concentrate?variant=42639852666963",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://naturaltein.in/products/whey-protein-concentrate?variant=42639852666963",
+          "evidenceUrl": "https://naturaltein.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 552,
+      "offer": {
+        "id": 552,
+        "brand": "Naturaltein",
+        "product": "Natural Whey Protein Concentrate",
+        "type": "Whey — concentrate",
+        "flavour": "Italian Ice Cream",
+        "kg": 1,
+        "price": 4199,
+        "stock": "In stock",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey concentrate",
+        "energy": null,
+        "url": "https://naturaltein.in/products/whey-protein-concentrate?variant=42639852568659",
+        "nutritionUrl": "https://naturaltein.in/products/whey-protein-concentrate?variant=42639852568659",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://naturaltein.in/products/whey-protein-concentrate?variant=42639852568659",
+          "evidenceUrl": "https://naturaltein.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 553,
+      "offer": {
+        "id": 553,
+        "brand": "Naturaltein",
+        "product": "Natural Whey Protein Concentrate",
+        "type": "Whey — concentrate",
+        "flavour": "Mango",
+        "kg": 1,
+        "price": 4199,
+        "stock": "Sold out",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey concentrate",
+        "energy": null,
+        "url": "https://naturaltein.in/products/whey-protein-concentrate?variant=44275954647123",
+        "nutritionUrl": "https://naturaltein.in/products/whey-protein-concentrate?variant=44275954647123",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://naturaltein.in/products/whey-protein-concentrate?variant=44275954647123",
+          "evidenceUrl": "https://naturaltein.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 554,
+      "offer": {
+        "id": 554,
+        "brand": "Naturaltein",
+        "product": "Natural Whey Protein Concentrate",
+        "type": "Whey — concentrate",
+        "flavour": "Unflavoured",
+        "kg": 1,
+        "price": 4199,
+        "stock": "In stock",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey concentrate",
+        "energy": null,
+        "url": "https://naturaltein.in/products/whey-protein-concentrate?variant=42639852601427",
+        "nutritionUrl": "https://naturaltein.in/products/whey-protein-concentrate?variant=42639852601427",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://naturaltein.in/products/whey-protein-concentrate?variant=42639852601427",
+          "evidenceUrl": "https://naturaltein.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 1500,
+      "observation": {
+        "category": "protein",
+        "offerId": 548,
+        "date": "2025-11-04",
+        "price": 2928,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-concentrate?variant=42639852699731",
+        "evidenceUrl": "https://web.archive.org/web/20251104162606id_/https://naturaltein.in/products/whey-protein-concentrate?srsltid=AfmBOooumhe5kBCgbjVpBmndtG033GRPs0o1tNHbDwr8PN_rI7ScoJ_F",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "42639852699731",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1501,
+      "observation": {
+        "category": "protein",
+        "offerId": 549,
+        "date": "2025-11-04",
+        "price": 2928,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-concentrate?variant=42639852634195",
+        "evidenceUrl": "https://web.archive.org/web/20251104162606id_/https://naturaltein.in/products/whey-protein-concentrate?srsltid=AfmBOooumhe5kBCgbjVpBmndtG033GRPs0o1tNHbDwr8PN_rI7ScoJ_F",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "42639852634195",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1502,
+      "observation": {
+        "category": "protein",
+        "offerId": 550,
+        "date": "2025-11-04",
+        "price": 2928,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-concentrate?variant=42639852535891",
+        "evidenceUrl": "https://web.archive.org/web/20251104162606id_/https://naturaltein.in/products/whey-protein-concentrate?srsltid=AfmBOooumhe5kBCgbjVpBmndtG033GRPs0o1tNHbDwr8PN_rI7ScoJ_F",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "42639852535891",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1503,
+      "observation": {
+        "category": "protein",
+        "offerId": 551,
+        "date": "2025-11-04",
+        "price": 2928,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-concentrate?variant=42639852666963",
+        "evidenceUrl": "https://web.archive.org/web/20251104162606id_/https://naturaltein.in/products/whey-protein-concentrate?srsltid=AfmBOooumhe5kBCgbjVpBmndtG033GRPs0o1tNHbDwr8PN_rI7ScoJ_F",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "42639852666963",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1504,
+      "observation": {
+        "category": "protein",
+        "offerId": 552,
+        "date": "2025-11-04",
+        "price": 2928,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-concentrate?variant=42639852568659",
+        "evidenceUrl": "https://web.archive.org/web/20251104162606id_/https://naturaltein.in/products/whey-protein-concentrate?srsltid=AfmBOooumhe5kBCgbjVpBmndtG033GRPs0o1tNHbDwr8PN_rI7ScoJ_F",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "42639852568659",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1505,
+      "observation": {
+        "category": "protein",
+        "offerId": 553,
+        "date": "2025-11-04",
+        "price": 2928,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-concentrate?variant=44275954647123",
+        "evidenceUrl": "https://web.archive.org/web/20251104162606id_/https://naturaltein.in/products/whey-protein-concentrate?srsltid=AfmBOooumhe5kBCgbjVpBmndtG033GRPs0o1tNHbDwr8PN_rI7ScoJ_F",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "44275954647123",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1506,
+      "observation": {
+        "category": "protein",
+        "offerId": 554,
+        "date": "2025-11-04",
+        "price": 2839,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-concentrate?variant=42639852601427",
+        "evidenceUrl": "https://web.archive.org/web/20251104162606id_/https://naturaltein.in/products/whey-protein-concentrate?srsltid=AfmBOooumhe5kBCgbjVpBmndtG033GRPs0o1tNHbDwr8PN_rI7ScoJ_F",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "42639852601427",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2737,
+      "observation": {
+        "category": "protein",
+        "offerId": 548,
+        "date": "2026-10-25",
+        "price": 4199,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-concentrate?variant=42639852699731",
+        "evidenceUrl": "https://naturaltein.in/products/whey-protein-concentrate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "42639852699731"
+      }
+    },
+    {
+      "order": 2738,
+      "observation": {
+        "category": "protein",
+        "offerId": 549,
+        "date": "2026-10-25",
+        "price": 4199,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-concentrate?variant=42639852634195",
+        "evidenceUrl": "https://naturaltein.in/products/whey-protein-concentrate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "42639852634195"
+      }
+    },
+    {
+      "order": 2739,
+      "observation": {
+        "category": "protein",
+        "offerId": 550,
+        "date": "2026-10-25",
+        "price": 4199,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-concentrate?variant=42639852535891",
+        "evidenceUrl": "https://naturaltein.in/products/whey-protein-concentrate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "42639852535891"
+      }
+    },
+    {
+      "order": 2740,
+      "observation": {
+        "category": "protein",
+        "offerId": 551,
+        "date": "2026-10-25",
+        "price": 4199,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-concentrate?variant=42639852666963",
+        "evidenceUrl": "https://naturaltein.in/products/whey-protein-concentrate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "42639852666963"
+      }
+    },
+    {
+      "order": 2741,
+      "observation": {
+        "category": "protein",
+        "offerId": 552,
+        "date": "2026-10-25",
+        "price": 4199,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-concentrate?variant=42639852568659",
+        "evidenceUrl": "https://naturaltein.in/products/whey-protein-concentrate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "42639852568659"
+      }
+    },
+    {
+      "order": 2742,
+      "observation": {
+        "category": "protein",
+        "offerId": 553,
+        "date": "2026-10-25",
+        "price": 4199,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-concentrate?variant=44275954647123",
+        "evidenceUrl": "https://naturaltein.in/products/whey-protein-concentrate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "44275954647123"
+      }
+    },
+    {
+      "order": 2743,
+      "observation": {
+        "category": "protein",
+        "offerId": 554,
+        "date": "2026-10-25",
+        "price": 4199,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-concentrate?variant=42639852601427",
+        "evidenceUrl": "https://naturaltein.in/products/whey-protein-concentrate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "42639852601427"
+      }
+    },
+    {
+      "order": 3364,
+      "observation": {
+        "category": "protein",
+        "offerId": 548,
+        "date": "2026-09-28",
+        "price": 4059,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-concentrate?variant=42639852699731",
+        "evidenceUrl": "https://web.archive.org/web/20260928144522/https://naturaltein.in/products/whey-protein-concentrate",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "42639852699731",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3365,
+      "observation": {
+        "category": "protein",
+        "offerId": 549,
+        "date": "2026-09-28",
+        "price": 4059,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-concentrate?variant=42639852634195",
+        "evidenceUrl": "https://web.archive.org/web/20260928144522/https://naturaltein.in/products/whey-protein-concentrate",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "42639852634195",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3366,
+      "observation": {
+        "category": "protein",
+        "offerId": 550,
+        "date": "2026-09-28",
+        "price": 4059,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-concentrate?variant=42639852535891",
+        "evidenceUrl": "https://web.archive.org/web/20260928144522/https://naturaltein.in/products/whey-protein-concentrate",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "42639852535891",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3367,
+      "observation": {
+        "category": "protein",
+        "offerId": 551,
+        "date": "2026-09-28",
+        "price": 4059,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-concentrate?variant=42639852666963",
+        "evidenceUrl": "https://web.archive.org/web/20260928144522/https://naturaltein.in/products/whey-protein-concentrate",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "42639852666963",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3368,
+      "observation": {
+        "category": "protein",
+        "offerId": 552,
+        "date": "2026-09-28",
+        "price": 4059,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-concentrate?variant=42639852568659",
+        "evidenceUrl": "https://web.archive.org/web/20260928144522/https://naturaltein.in/products/whey-protein-concentrate",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "42639852568659",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3369,
+      "observation": {
+        "category": "protein",
+        "offerId": 553,
+        "date": "2026-09-28",
+        "price": 3390,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-concentrate?variant=44275954647123",
+        "evidenceUrl": "https://web.archive.org/web/20260928144522/https://naturaltein.in/products/whey-protein-concentrate",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "44275954647123",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3370,
+      "observation": {
+        "category": "protein",
+        "offerId": 554,
+        "date": "2026-09-28",
+        "price": 4059,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-concentrate?variant=42639852601427",
+        "evidenceUrl": "https://web.archive.org/web/20260928144522/https://naturaltein.in/products/whey-protein-concentrate",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "42639852601427",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 4595,
+      "observation": {
+        "category": "protein",
+        "offerId": 548,
+        "date": "2026-11-19",
+        "price": 4199,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-concentrate?variant=42639852699731",
+        "evidenceUrl": "https://naturaltein.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "42639852699731"
+      }
+    },
+    {
+      "order": 4596,
+      "observation": {
+        "category": "protein",
+        "offerId": 549,
+        "date": "2026-11-19",
+        "price": 4199,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-concentrate?variant=42639852634195",
+        "evidenceUrl": "https://naturaltein.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "42639852634195"
+      }
+    },
+    {
+      "order": 4597,
+      "observation": {
+        "category": "protein",
+        "offerId": 550,
+        "date": "2026-11-19",
+        "price": 4199,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-concentrate?variant=42639852535891",
+        "evidenceUrl": "https://naturaltein.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "42639852535891"
+      }
+    },
+    {
+      "order": 4598,
+      "observation": {
+        "category": "protein",
+        "offerId": 551,
+        "date": "2026-11-19",
+        "price": 4199,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-concentrate?variant=42639852666963",
+        "evidenceUrl": "https://naturaltein.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "42639852666963"
+      }
+    },
+    {
+      "order": 4599,
+      "observation": {
+        "category": "protein",
+        "offerId": 552,
+        "date": "2026-11-19",
+        "price": 4199,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-concentrate?variant=42639852568659",
+        "evidenceUrl": "https://naturaltein.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "42639852568659"
+      }
+    },
+    {
+      "order": 4600,
+      "observation": {
+        "category": "protein",
+        "offerId": 553,
+        "date": "2026-11-19",
+        "price": 4199,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-concentrate?variant=44275954647123",
+        "evidenceUrl": "https://naturaltein.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "44275954647123"
+      }
+    },
+    {
+      "order": 4601,
+      "observation": {
+        "category": "protein",
+        "offerId": 554,
+        "date": "2026-11-19",
+        "price": 4199,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/whey-protein-concentrate?variant=42639852601427",
+        "evidenceUrl": "https://naturaltein.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "42639852601427"
+      }
+    }
+  ],
+  "refreshSources": []
+}

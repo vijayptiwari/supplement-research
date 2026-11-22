@@ -1,0 +1,1254 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "Myprotein",
+  "product": "Impact Whey Protein",
+  "variants": [
+    {
+      "order": 254,
+      "offer": {
+        "id": 254,
+        "brand": "Myprotein",
+        "product": "Impact Whey Protein",
+        "type": "Whey — concentrate",
+        "flavour": "Banana",
+        "kg": 1,
+        "price": 4599,
+        "stock": "Listed; confirm stock",
+        "protein": 75.72,
+        "scoop": 30,
+        "serving": 30,
+        "subclass": "Whey concentrate",
+        "energy": 384,
+        "url": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=12183143",
+        "nutritionUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=12183143",
+        "basis": "Flavour-selected product page nutrition table, protein per 100g",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-selected page, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "stockReview": {
+          "checked": "2026-11-19",
+          "status": "Not reverified",
+          "basis": "The exact current variant could not be matched. Earlier price evidence date retained."
+        }
+      }
+    },
+    {
+      "order": 255,
+      "offer": {
+        "id": 255,
+        "brand": "Myprotein",
+        "product": "Impact Whey Protein",
+        "type": "Whey — concentrate",
+        "flavour": "Chocolate Smooth",
+        "kg": 1,
+        "price": 4599,
+        "stock": "In stock",
+        "protein": 73.68,
+        "scoop": 30,
+        "serving": 30,
+        "subclass": "Whey concentrate",
+        "energy": 383.6,
+        "url": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15017316",
+        "nutritionUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15017316",
+        "basis": "Chocolate Smooth nutrition table: 73.68g / 100g",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-selected page, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15017316",
+          "evidenceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15017316",
+          "matchBasis": "Exact official ProductGroup variation SKU and structured net pack"
+        }
+      }
+    },
+    {
+      "order": 256,
+      "offer": {
+        "id": 256,
+        "brand": "Myprotein",
+        "product": "Impact Whey Protein",
+        "type": "Whey — concentrate",
+        "flavour": "Cinnamon Danish",
+        "kg": 1,
+        "price": 4599,
+        "stock": "In stock",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey concentrate",
+        "energy": null,
+        "url": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=14939414",
+        "nutritionUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=14939414",
+        "basis": "Flavour-specific concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=14939414",
+          "evidenceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=14939414",
+          "matchBasis": "Exact official ProductGroup variation SKU and structured net pack"
+        }
+      }
+    },
+    {
+      "order": 257,
+      "offer": {
+        "id": 257,
+        "brand": "Myprotein",
+        "product": "Impact Whey Protein",
+        "type": "Whey — concentrate",
+        "flavour": "Date Delight (Khajoor Shake)",
+        "kg": 1,
+        "price": 4599,
+        "stock": "In stock",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey concentrate",
+        "energy": null,
+        "url": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15373344",
+        "nutritionUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15373344",
+        "basis": "Flavour-specific concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15373344",
+          "evidenceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15373344",
+          "matchBasis": "Exact official ProductGroup variation SKU and structured net pack"
+        }
+      }
+    },
+    {
+      "order": 258,
+      "offer": {
+        "id": 258,
+        "brand": "Myprotein",
+        "product": "Impact Whey Protein",
+        "type": "Whey — concentrate",
+        "flavour": "Frosted Cereal Milk",
+        "kg": 1,
+        "price": 4599,
+        "stock": "In stock",
+        "protein": 75.03,
+        "scoop": 30,
+        "serving": 30,
+        "subclass": "Whey concentrate",
+        "energy": 384,
+        "url": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=13034973",
+        "nutritionUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=13034973",
+        "basis": "Flavour-selected product page nutrition table, protein per 100g",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-selected page, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=13034973",
+          "evidenceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=13034973",
+          "matchBasis": "Exact official ProductGroup variation SKU and structured net pack"
+        }
+      }
+    },
+    {
+      "order": 259,
+      "offer": {
+        "id": 259,
+        "brand": "Myprotein",
+        "product": "Impact Whey Protein",
+        "type": "Whey — concentrate",
+        "flavour": "Kesar Badam",
+        "kg": 1,
+        "price": 4599,
+        "stock": "In stock",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey concentrate",
+        "energy": null,
+        "url": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15301444",
+        "nutritionUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15301444",
+        "basis": "Flavour-specific concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15301444",
+          "evidenceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15301444",
+          "matchBasis": "Exact official ProductGroup variation SKU and structured net pack"
+        }
+      }
+    },
+    {
+      "order": 260,
+      "offer": {
+        "id": 260,
+        "brand": "Myprotein",
+        "product": "Impact Whey Protein",
+        "type": "Whey — concentrate",
+        "flavour": "Keventers Chocolate Hazelnut",
+        "kg": 1,
+        "price": 4599,
+        "stock": "In stock",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey concentrate",
+        "energy": null,
+        "url": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15418475",
+        "nutritionUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15418475",
+        "basis": "Flavour-specific concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15418475",
+          "evidenceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15418475",
+          "matchBasis": "Exact official ProductGroup variation SKU and structured net pack"
+        }
+      }
+    },
+    {
+      "order": 261,
+      "offer": {
+        "id": 261,
+        "brand": "Myprotein",
+        "product": "Impact Whey Protein",
+        "type": "Whey — concentrate",
+        "flavour": "Keventers Coffee",
+        "kg": 1,
+        "price": 4599,
+        "stock": "In stock",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey concentrate",
+        "energy": null,
+        "url": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15418478",
+        "nutritionUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15418478",
+        "basis": "Flavour-specific concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15418478",
+          "evidenceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15418478",
+          "matchBasis": "Exact official ProductGroup variation SKU and structured net pack"
+        }
+      }
+    },
+    {
+      "order": 262,
+      "offer": {
+        "id": 262,
+        "brand": "Myprotein",
+        "product": "Impact Whey Protein",
+        "type": "Whey — concentrate",
+        "flavour": "Kulfi",
+        "kg": 1,
+        "price": 4599,
+        "stock": "In stock",
+        "protein": 74.43,
+        "scoop": 30,
+        "serving": 30,
+        "subclass": "Whey concentrate",
+        "energy": 384,
+        "url": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=12388823",
+        "nutritionUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=12388823",
+        "basis": "Flavour-selected product page nutrition table, protein per 100g",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-selected page, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=12388823",
+          "evidenceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=12388823",
+          "matchBasis": "Exact official ProductGroup variation SKU and structured net pack"
+        }
+      }
+    },
+    {
+      "order": 263,
+      "offer": {
+        "id": 263,
+        "brand": "Myprotein",
+        "product": "Impact Whey Protein",
+        "type": "Whey — concentrate",
+        "flavour": "Mango",
+        "kg": 1,
+        "price": 4599,
+        "stock": "In stock",
+        "protein": null,
+        "scoop": 30,
+        "serving": 30,
+        "subclass": "Whey concentrate",
+        "energy": 385,
+        "url": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15017314",
+        "nutritionUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15017314",
+        "basis": "Flavour-specific concentration not verified; cost intentionally blank",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ. Protein percentage not verified.",
+        "energyBasis": "Flavour-selected page, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15017314",
+          "evidenceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15017314",
+          "matchBasis": "Exact official ProductGroup variation SKU and structured net pack"
+        }
+      }
+    },
+    {
+      "order": 264,
+      "offer": {
+        "id": 264,
+        "brand": "Myprotein",
+        "product": "Impact Whey Protein",
+        "type": "Whey — concentrate",
+        "flavour": "Strawberry Cream",
+        "kg": 1,
+        "price": 4599,
+        "stock": "In stock",
+        "protein": null,
+        "scoop": 30,
+        "serving": 30,
+        "subclass": "Whey concentrate",
+        "energy": 387,
+        "url": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15017311",
+        "nutritionUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15017311",
+        "basis": "Flavour-specific concentration not verified; cost intentionally blank",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ. Protein percentage not verified.",
+        "energyBasis": "Flavour-selected page, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15017311",
+          "evidenceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15017311",
+          "matchBasis": "Exact official ProductGroup variation SKU and structured net pack"
+        }
+      }
+    },
+    {
+      "order": 265,
+      "offer": {
+        "id": 265,
+        "brand": "Myprotein",
+        "product": "Impact Whey Protein",
+        "type": "Whey — concentrate",
+        "flavour": "Unflavoured",
+        "kg": 1,
+        "price": 4599,
+        "stock": "In stock",
+        "protein": null,
+        "scoop": 30,
+        "serving": 30,
+        "subclass": "Whey concentrate",
+        "energy": 388,
+        "url": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15017309",
+        "nutritionUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15017309",
+        "basis": "Flavour-specific concentration not verified; cost intentionally blank",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ. Protein percentage not verified.",
+        "energyBasis": "Flavour-selected page, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15017309",
+          "evidenceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15017309",
+          "matchBasis": "Exact official ProductGroup variation SKU and structured net pack"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 499,
+      "observation": {
+        "category": "protein",
+        "offerId": 254,
+        "date": "2026-03-26",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=12183143",
+        "evidenceUrl": "https://web.archive.org/web/20260326193826id_/https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "12183143",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 500,
+      "observation": {
+        "category": "protein",
+        "offerId": 255,
+        "date": "2026-03-26",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15017316",
+        "evidenceUrl": "https://web.archive.org/web/20260326193826id_/https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "15017316",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 501,
+      "observation": {
+        "category": "protein",
+        "offerId": 256,
+        "date": "2026-03-26",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=14939414",
+        "evidenceUrl": "https://web.archive.org/web/20260326193826id_/https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "14939414",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 502,
+      "observation": {
+        "category": "protein",
+        "offerId": 257,
+        "date": "2026-03-26",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15373344",
+        "evidenceUrl": "https://web.archive.org/web/20260326193826id_/https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "15373344",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 503,
+      "observation": {
+        "category": "protein",
+        "offerId": 258,
+        "date": "2026-03-26",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=13034973",
+        "evidenceUrl": "https://web.archive.org/web/20260326193826id_/https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "13034973",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 504,
+      "observation": {
+        "category": "protein",
+        "offerId": 260,
+        "date": "2026-03-26",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15418475",
+        "evidenceUrl": "https://web.archive.org/web/20260326193826id_/https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "15418475",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 505,
+      "observation": {
+        "category": "protein",
+        "offerId": 261,
+        "date": "2026-03-26",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15418478",
+        "evidenceUrl": "https://web.archive.org/web/20260326193826id_/https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "15418478",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 506,
+      "observation": {
+        "category": "protein",
+        "offerId": 263,
+        "date": "2026-03-26",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15017314",
+        "evidenceUrl": "https://web.archive.org/web/20260326193826id_/https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "15017314",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 507,
+      "observation": {
+        "category": "protein",
+        "offerId": 264,
+        "date": "2026-03-26",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15017311",
+        "evidenceUrl": "https://web.archive.org/web/20260326193826id_/https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "15017311",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 508,
+      "observation": {
+        "category": "protein",
+        "offerId": 265,
+        "date": "2026-03-26",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15017309",
+        "evidenceUrl": "https://web.archive.org/web/20260326193826id_/https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "15017309",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 509,
+      "observation": {
+        "category": "protein",
+        "offerId": 254,
+        "date": "2026-06-29",
+        "price": 4599,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=12183143",
+        "evidenceUrl": "https://web.archive.org/web/20260629110311id_/https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "12183143",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 510,
+      "observation": {
+        "category": "protein",
+        "offerId": 255,
+        "date": "2026-06-29",
+        "price": 4599,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15017316",
+        "evidenceUrl": "https://web.archive.org/web/20260629110311id_/https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "15017316",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 511,
+      "observation": {
+        "category": "protein",
+        "offerId": 256,
+        "date": "2026-06-29",
+        "price": 4599,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=14939414",
+        "evidenceUrl": "https://web.archive.org/web/20260629110311id_/https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "14939414",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 512,
+      "observation": {
+        "category": "protein",
+        "offerId": 257,
+        "date": "2026-06-29",
+        "price": 4599,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15373344",
+        "evidenceUrl": "https://web.archive.org/web/20260629110311id_/https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "15373344",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 513,
+      "observation": {
+        "category": "protein",
+        "offerId": 258,
+        "date": "2026-06-29",
+        "price": 4599,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=13034973",
+        "evidenceUrl": "https://web.archive.org/web/20260629110311id_/https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "13034973",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 514,
+      "observation": {
+        "category": "protein",
+        "offerId": 259,
+        "date": "2026-06-29",
+        "price": 4599,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15301444",
+        "evidenceUrl": "https://web.archive.org/web/20260629110311id_/https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "15301444",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 515,
+      "observation": {
+        "category": "protein",
+        "offerId": 260,
+        "date": "2026-06-29",
+        "price": 4599,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15418475",
+        "evidenceUrl": "https://web.archive.org/web/20260629110311id_/https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "15418475",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 516,
+      "observation": {
+        "category": "protein",
+        "offerId": 261,
+        "date": "2026-06-29",
+        "price": 4599,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15418478",
+        "evidenceUrl": "https://web.archive.org/web/20260629110311id_/https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "15418478",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 517,
+      "observation": {
+        "category": "protein",
+        "offerId": 262,
+        "date": "2026-06-29",
+        "price": 4599,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=12388823",
+        "evidenceUrl": "https://web.archive.org/web/20260629110311id_/https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "12388823",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 518,
+      "observation": {
+        "category": "protein",
+        "offerId": 263,
+        "date": "2026-06-29",
+        "price": 4599,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15017314",
+        "evidenceUrl": "https://web.archive.org/web/20260629110311id_/https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "15017314",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 519,
+      "observation": {
+        "category": "protein",
+        "offerId": 264,
+        "date": "2026-06-29",
+        "price": 4599,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15017311",
+        "evidenceUrl": "https://web.archive.org/web/20260629110311id_/https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "15017311",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 520,
+      "observation": {
+        "category": "protein",
+        "offerId": 265,
+        "date": "2026-06-29",
+        "price": 4599,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15017309",
+        "evidenceUrl": "https://web.archive.org/web/20260629110311id_/https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "15017309",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 521,
+      "observation": {
+        "category": "protein",
+        "offerId": 254,
+        "date": "2026-09-16",
+        "price": 3999,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=12183143",
+        "evidenceUrl": "https://web.archive.org/web/20260916042322id_/https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "12183143",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 522,
+      "observation": {
+        "category": "protein",
+        "offerId": 255,
+        "date": "2026-09-16",
+        "price": 4199,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15017316",
+        "evidenceUrl": "https://web.archive.org/web/20260916042322id_/https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "15017316",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 523,
+      "observation": {
+        "category": "protein",
+        "offerId": 256,
+        "date": "2026-09-16",
+        "price": 3999,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=14939414",
+        "evidenceUrl": "https://web.archive.org/web/20260916042322id_/https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "14939414",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 524,
+      "observation": {
+        "category": "protein",
+        "offerId": 257,
+        "date": "2026-09-16",
+        "price": 3999,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15373344",
+        "evidenceUrl": "https://web.archive.org/web/20260916042322id_/https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "15373344",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 525,
+      "observation": {
+        "category": "protein",
+        "offerId": 258,
+        "date": "2026-09-16",
+        "price": 3999,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=13034973",
+        "evidenceUrl": "https://web.archive.org/web/20260916042322id_/https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "13034973",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 526,
+      "observation": {
+        "category": "protein",
+        "offerId": 259,
+        "date": "2026-09-16",
+        "price": 3999,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15301444",
+        "evidenceUrl": "https://web.archive.org/web/20260916042322id_/https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "15301444",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 527,
+      "observation": {
+        "category": "protein",
+        "offerId": 262,
+        "date": "2026-09-16",
+        "price": 3999,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=12388823",
+        "evidenceUrl": "https://web.archive.org/web/20260916042322id_/https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "12388823",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 528,
+      "observation": {
+        "category": "protein",
+        "offerId": 264,
+        "date": "2026-09-16",
+        "price": 4199,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15017311",
+        "evidenceUrl": "https://web.archive.org/web/20260916042322id_/https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "15017311",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 529,
+      "observation": {
+        "category": "protein",
+        "offerId": 265,
+        "date": "2026-09-16",
+        "price": 4199,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15017309",
+        "evidenceUrl": "https://web.archive.org/web/20260916042322id_/https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "15017309",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2443,
+      "observation": {
+        "category": "protein",
+        "offerId": 254,
+        "date": "2026-10-25",
+        "price": 4599,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=12183143",
+        "evidenceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=12183143",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "12183143"
+      }
+    },
+    {
+      "order": 2444,
+      "observation": {
+        "category": "protein",
+        "offerId": 255,
+        "date": "2026-10-25",
+        "price": 4599,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15017316",
+        "evidenceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15017316",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "15017316"
+      }
+    },
+    {
+      "order": 2445,
+      "observation": {
+        "category": "protein",
+        "offerId": 256,
+        "date": "2026-10-25",
+        "price": 4599,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=14939414",
+        "evidenceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=14939414",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "14939414"
+      }
+    },
+    {
+      "order": 2446,
+      "observation": {
+        "category": "protein",
+        "offerId": 257,
+        "date": "2026-10-25",
+        "price": 4599,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15373344",
+        "evidenceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15373344",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "15373344"
+      }
+    },
+    {
+      "order": 2447,
+      "observation": {
+        "category": "protein",
+        "offerId": 258,
+        "date": "2026-10-25",
+        "price": 4599,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=13034973",
+        "evidenceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=13034973",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "13034973"
+      }
+    },
+    {
+      "order": 2448,
+      "observation": {
+        "category": "protein",
+        "offerId": 259,
+        "date": "2026-10-25",
+        "price": 4599,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15301444",
+        "evidenceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15301444",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "15301444"
+      }
+    },
+    {
+      "order": 2449,
+      "observation": {
+        "category": "protein",
+        "offerId": 260,
+        "date": "2026-10-25",
+        "price": 4599,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15418475",
+        "evidenceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15418475",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "15418475"
+      }
+    },
+    {
+      "order": 2450,
+      "observation": {
+        "category": "protein",
+        "offerId": 261,
+        "date": "2026-10-25",
+        "price": 4599,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15418478",
+        "evidenceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15418478",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "15418478"
+      }
+    },
+    {
+      "order": 2451,
+      "observation": {
+        "category": "protein",
+        "offerId": 262,
+        "date": "2026-10-25",
+        "price": 4599,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=12388823",
+        "evidenceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=12388823",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "12388823"
+      }
+    },
+    {
+      "order": 2452,
+      "observation": {
+        "category": "protein",
+        "offerId": 263,
+        "date": "2026-10-25",
+        "price": 4599,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15017314",
+        "evidenceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15017314",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "15017314"
+      }
+    },
+    {
+      "order": 2453,
+      "observation": {
+        "category": "protein",
+        "offerId": 264,
+        "date": "2026-10-25",
+        "price": 4599,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15017311",
+        "evidenceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15017311",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "15017311"
+      }
+    },
+    {
+      "order": 2454,
+      "observation": {
+        "category": "protein",
+        "offerId": 265,
+        "date": "2026-10-25",
+        "price": 4599,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15017309",
+        "evidenceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15017309",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "15017309"
+      }
+    },
+    {
+      "order": 4302,
+      "observation": {
+        "category": "protein",
+        "offerId": 255,
+        "date": "2026-11-19",
+        "price": 4599,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15017316",
+        "evidenceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15017316",
+        "kind": "official-live",
+        "matchBasis": "Exact official ProductGroup variation SKU and structured net pack",
+        "variantId": "15017316"
+      }
+    },
+    {
+      "order": 4303,
+      "observation": {
+        "category": "protein",
+        "offerId": 256,
+        "date": "2026-11-19",
+        "price": 4599,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=14939414",
+        "evidenceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=14939414",
+        "kind": "official-live",
+        "matchBasis": "Exact official ProductGroup variation SKU and structured net pack",
+        "variantId": "14939414"
+      }
+    },
+    {
+      "order": 4304,
+      "observation": {
+        "category": "protein",
+        "offerId": 257,
+        "date": "2026-11-19",
+        "price": 4599,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15373344",
+        "evidenceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15373344",
+        "kind": "official-live",
+        "matchBasis": "Exact official ProductGroup variation SKU and structured net pack",
+        "variantId": "15373344"
+      }
+    },
+    {
+      "order": 4305,
+      "observation": {
+        "category": "protein",
+        "offerId": 258,
+        "date": "2026-11-19",
+        "price": 4599,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=13034973",
+        "evidenceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=13034973",
+        "kind": "official-live",
+        "matchBasis": "Exact official ProductGroup variation SKU and structured net pack",
+        "variantId": "13034973"
+      }
+    },
+    {
+      "order": 4306,
+      "observation": {
+        "category": "protein",
+        "offerId": 259,
+        "date": "2026-11-19",
+        "price": 4599,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15301444",
+        "evidenceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15301444",
+        "kind": "official-live",
+        "matchBasis": "Exact official ProductGroup variation SKU and structured net pack",
+        "variantId": "15301444"
+      }
+    },
+    {
+      "order": 4307,
+      "observation": {
+        "category": "protein",
+        "offerId": 260,
+        "date": "2026-11-19",
+        "price": 4599,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15418475",
+        "evidenceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15418475",
+        "kind": "official-live",
+        "matchBasis": "Exact official ProductGroup variation SKU and structured net pack",
+        "variantId": "15418475"
+      }
+    },
+    {
+      "order": 4308,
+      "observation": {
+        "category": "protein",
+        "offerId": 261,
+        "date": "2026-11-19",
+        "price": 4599,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15418478",
+        "evidenceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15418478",
+        "kind": "official-live",
+        "matchBasis": "Exact official ProductGroup variation SKU and structured net pack",
+        "variantId": "15418478"
+      }
+    },
+    {
+      "order": 4309,
+      "observation": {
+        "category": "protein",
+        "offerId": 262,
+        "date": "2026-11-19",
+        "price": 4599,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=12388823",
+        "evidenceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=12388823",
+        "kind": "official-live",
+        "matchBasis": "Exact official ProductGroup variation SKU and structured net pack",
+        "variantId": "12388823"
+      }
+    },
+    {
+      "order": 4310,
+      "observation": {
+        "category": "protein",
+        "offerId": 263,
+        "date": "2026-11-19",
+        "price": 4599,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15017314",
+        "evidenceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15017314",
+        "kind": "official-live",
+        "matchBasis": "Exact official ProductGroup variation SKU and structured net pack",
+        "variantId": "15017314"
+      }
+    },
+    {
+      "order": 4311,
+      "observation": {
+        "category": "protein",
+        "offerId": 264,
+        "date": "2026-11-19",
+        "price": 4599,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15017311",
+        "evidenceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15017311",
+        "kind": "official-live",
+        "matchBasis": "Exact official ProductGroup variation SKU and structured net pack",
+        "variantId": "15017311"
+      }
+    },
+    {
+      "order": 4312,
+      "observation": {
+        "category": "protein",
+        "offerId": 265,
+        "date": "2026-11-19",
+        "price": 4599,
+        "currency": "INR",
+        "sourceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15017309",
+        "evidenceUrl": "https://www.myprotein.co.in/p/sports-nutrition/impact-whey-protein/11654605/?variation=15017309",
+        "kind": "official-live",
+        "matchBasis": "Exact official ProductGroup variation SKU and structured net pack",
+        "variantId": "15017309"
+      }
+    }
+  ],
+  "refreshSources": []
+}

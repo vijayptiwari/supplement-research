@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "BigMuscles Nutrition",
+  "product": "Plant Protein Isolate | Vegan Protein Powder | Clean Recovery | Pea & Brown Rice Protein",
+  "variants": [
+    {
+      "order": 692,
+      "offer": {
+        "id": 692,
+        "brand": "BigMuscles Nutrition",
+        "product": "Plant Protein Isolate | Vegan Protein Powder | Clean Recovery | Pea & Brown Rice Protein",
+        "type": "Plant — pea",
+        "flavour": "Belgian Choclate",
+        "kg": 1,
+        "price": 1299,
+        "stock": "In stock",
+        "protein": 67.56756756756756,
+        "scoop": 37,
+        "serving": 37,
+        "subclass": "Plant isolate",
+        "energy": null,
+        "url": "https://www.bigmusclesnutrition.com/products/plant-protein-isolate?variant=67701159788643",
+        "nutritionUrl": "https://www.bigmusclesnutrition.com/products/plant-protein-isolate-vegan-protein-powder-clean-recovery-pea-brown-rice-protein-copy?variant=67701159788643",
+        "basis": "25g protein / 37g serving; brand description",
+        "notes": "Brand product-page serving basis; flavour-specific label values may vary. Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.bigmusclesnutrition.com/products/plant-protein-isolate?variant=67701159788643",
+          "evidenceUrl": "https://www.bigmusclesnutrition.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 693,
+      "offer": {
+        "id": 693,
+        "brand": "BigMuscles Nutrition",
+        "product": "Plant Protein Isolate | Vegan Protein Powder | Clean Recovery | Pea & Brown Rice Protein",
+        "type": "Plant — pea",
+        "flavour": "Unflavored",
+        "kg": 1,
+        "price": 999,
+        "stock": "In stock",
+        "protein": 67.56756756756756,
+        "scoop": 37,
+        "serving": 37,
+        "subclass": "Plant isolate",
+        "energy": null,
+        "url": "https://www.bigmusclesnutrition.com/products/plant-protein-isolate?variant=67701159821411",
+        "nutritionUrl": "https://www.bigmusclesnutrition.com/products/plant-protein-isolate-vegan-protein-powder-clean-recovery-pea-brown-rice-protein-copy?variant=67701159821411",
+        "basis": "25g protein / 37g serving; brand description",
+        "notes": "Brand product-page serving basis; flavour-specific label values may vary. Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.bigmusclesnutrition.com/products/plant-protein-isolate?variant=67701159821411",
+          "evidenceUrl": "https://www.bigmusclesnutrition.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 2881,
+      "observation": {
+        "category": "protein",
+        "offerId": 692,
+        "date": "2026-10-25",
+        "price": 1299,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/plant-protein-isolate-vegan-protein-powder-clean-recovery-pea-brown-rice-protein-copy?variant=67701159788643",
+        "evidenceUrl": "https://www.bigmusclesnutrition.com/products/plant-protein-isolate-vegan-protein-powder-clean-recovery-pea-brown-rice-protein-copy.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "67701159788643"
+      }
+    },
+    {
+      "order": 2882,
+      "observation": {
+        "category": "protein",
+        "offerId": 693,
+        "date": "2026-10-25",
+        "price": 999,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/plant-protein-isolate-vegan-protein-powder-clean-recovery-pea-brown-rice-protein-copy?variant=67701159821411",
+        "evidenceUrl": "https://www.bigmusclesnutrition.com/products/plant-protein-isolate-vegan-protein-powder-clean-recovery-pea-brown-rice-protein-copy.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "67701159821411"
+      }
+    },
+    {
+      "order": 4739,
+      "observation": {
+        "category": "protein",
+        "offerId": 692,
+        "date": "2026-11-19",
+        "price": 1299,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/plant-protein-isolate?variant=67701159788643",
+        "evidenceUrl": "https://www.bigmusclesnutrition.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "67701159788643"
+      }
+    },
+    {
+      "order": 4740,
+      "observation": {
+        "category": "protein",
+        "offerId": 693,
+        "date": "2026-11-19",
+        "price": 999,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/plant-protein-isolate?variant=67701159821411",
+        "evidenceUrl": "https://www.bigmusclesnutrition.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "67701159821411"
+      }
+    }
+  ],
+  "refreshSources": []
+}

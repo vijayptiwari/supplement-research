@@ -1,0 +1,220 @@
+{
+  "schemaVersion": 1,
+  "category": "folic-acid",
+  "brand": "INLIFE",
+  "product": "Vitamin B12 with Folic Acid, B Vitamins and ALA",
+  "variants": [
+    {
+      "order": 8,
+      "offer": {
+        "id": "folic-acid-44488839463077",
+        "brand": "INLIFE",
+        "product": "Vitamin B12 with Folic Acid, B Vitamins and ALA",
+        "form": "Tablet",
+        "type": "Cyanocobalamin + folic acid and B vitamins",
+        "subclass": "B-vitamin combination with ALA and calcium",
+        "flavour": "Unflavoured",
+        "source": "Not specified",
+        "packCount": 240,
+        "servingUnits": 1,
+        "price": 1043,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://inlifehealthcare.com/products/inlife-vitamin-b12-folic-acid-supplement-rda?variant=44488839463077",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/supplementfacts_975fd089-77b0-47b3-ae3b-95fe4f7be022.jpg?v=1793699747",
+        "labelSources": [
+          "https://inlifehealthcare.com/products/inlife-vitamin-b12-folic-acid-supplement-rda",
+          "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/supplementfacts_975fd089-77b0-47b3-ae3b-95fe4f7be022.jpg?v=1793699747"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Official panel per one tablet: B1 1.4mg,B5 5mg,B6 1.9mg,folic acid129.4micrograms,B12 2.2micrograms,calcium30mg;ALA25mg andinositol10mg are separate co-ingredients.",
+        "notes": "This is the RDA-labelled formulation, not the separate INLIFE1500microgram B12 product. Ingredient quantities are recorded separately without a combined vitamin-potency score.",
+        "packaging": "Brand-listed retail pack (240 tablets)",
+        "vitaminB1Mg": 1.4,
+        "vitaminB5Mg": 5,
+        "vitaminB6Mg": 1.9,
+        "folicAcidMcg": 129.4,
+        "vitaminB12Mcg": 2.2,
+        "calciumMg": 30,
+        "energyPerServing": 0.182,
+        "mineralBasis": "elemental",
+        "declaredNutrients": [
+          "vitaminB1Mg",
+          "vitaminB5Mg",
+          "vitaminB6Mg",
+          "folicAcidMcg",
+          "vitaminB12Mcg"
+        ]
+      }
+    },
+    {
+      "order": 9,
+      "offer": {
+        "id": "folic-acid-44488839430309",
+        "brand": "INLIFE",
+        "product": "Vitamin B12 with Folic Acid, B Vitamins and ALA",
+        "form": "Tablet",
+        "type": "Cyanocobalamin + folic acid and B vitamins",
+        "subclass": "B-vitamin combination with ALA and calcium",
+        "flavour": "Unflavoured",
+        "source": "Not specified",
+        "packCount": 120,
+        "servingUnits": 1,
+        "price": 549,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://inlifehealthcare.com/products/inlife-vitamin-b12-folic-acid-supplement-rda?variant=44488839430309",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/supplementfacts_975fd089-77b0-47b3-ae3b-95fe4f7be022.jpg?v=1793699747",
+        "labelSources": [
+          "https://inlifehealthcare.com/products/inlife-vitamin-b12-folic-acid-supplement-rda",
+          "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/supplementfacts_975fd089-77b0-47b3-ae3b-95fe4f7be022.jpg?v=1793699747"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Official panel per one tablet: B1 1.4mg,B5 5mg,B6 1.9mg,folic acid129.4micrograms,B12 2.2micrograms,calcium30mg;ALA25mg andinositol10mg are separate co-ingredients.",
+        "notes": "This is the RDA-labelled formulation, not the separate INLIFE1500microgram B12 product. Ingredient quantities are recorded separately without a combined vitamin-potency score.",
+        "packaging": "Brand-listed retail pack (120 tablets)",
+        "vitaminB1Mg": 1.4,
+        "vitaminB5Mg": 5,
+        "vitaminB6Mg": 1.9,
+        "folicAcidMcg": 129.4,
+        "vitaminB12Mcg": 2.2,
+        "calciumMg": 30,
+        "energyPerServing": 0.182,
+        "mineralBasis": "elemental",
+        "declaredNutrients": [
+          "vitaminB1Mg",
+          "vitaminB5Mg",
+          "vitaminB6Mg",
+          "folicAcidMcg",
+          "vitaminB12Mcg"
+        ]
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3987,
+      "observation": {
+        "category": "folic-acid",
+        "offerId": "folic-acid-44488839463077",
+        "date": "2026-11-19",
+        "price": 1043,
+        "currency": "INR",
+        "sourceUrl": "https://inlifehealthcare.com/products/inlife-vitamin-b12-folic-acid-supplement-rda?variant=44488839463077",
+        "evidenceUrl": "https://inlifehealthcare.com/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "44488839463077",
+        "matchBasis": "Official public Shopify feed exact variant ID and explicitly listed retail count; unconditional INR variant price. Label serving and payload independently checked against official label panel."
+      }
+    },
+    {
+      "order": 3988,
+      "observation": {
+        "category": "folic-acid",
+        "offerId": "folic-acid-44488839430309",
+        "date": "2026-11-19",
+        "price": 549,
+        "currency": "INR",
+        "sourceUrl": "https://inlifehealthcare.com/products/inlife-vitamin-b12-folic-acid-supplement-rda?variant=44488839430309",
+        "evidenceUrl": "https://inlifehealthcare.com/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "44488839430309",
+        "matchBasis": "Official public Shopify feed exact variant ID and explicitly listed retail count; unconditional INR variant price. Label serving and payload independently checked against official label panel."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 171,
+      "profile": {
+        "brand": "INLIFE",
+        "product": "Vitamin B12 with Folic Acid, B Vitamins and ALA",
+        "form": "Tablet",
+        "type": "Cyanocobalamin + folic acid and B vitamins",
+        "subclass": "B-vitamin combination with ALA and calcium",
+        "flavour": "Unflavoured",
+        "source": "Not specified",
+        "packCount": 240,
+        "servingUnits": 1,
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/supplementfacts_975fd089-77b0-47b3-ae3b-95fe4f7be022.jpg?v=1793699747",
+        "labelSources": [
+          "https://inlifehealthcare.com/products/inlife-vitamin-b12-folic-acid-supplement-rda",
+          "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/supplementfacts_975fd089-77b0-47b3-ae3b-95fe4f7be022.jpg?v=1793699747"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Official panel per one tablet: B1 1.4mg,B5 5mg,B6 1.9mg,folic acid129.4micrograms,B12 2.2micrograms,calcium30mg;ALA25mg andinositol10mg are separate co-ingredients.",
+        "notes": "This is the RDA-labelled formulation, not the separate INLIFE1500microgram B12 product. Ingredient quantities are recorded separately without a combined vitamin-potency score.",
+        "packaging": "Brand-listed retail pack (240 tablets)",
+        "vitaminB1Mg": 1.4,
+        "vitaminB5Mg": 5,
+        "vitaminB6Mg": 1.9,
+        "folicAcidMcg": 129.4,
+        "vitaminB12Mcg": 2.2,
+        "calciumMg": 30,
+        "energyPerServing": 0.182,
+        "mineralBasis": "elemental",
+        "declaredNutrients": [
+          "vitaminB1Mg",
+          "vitaminB5Mg",
+          "vitaminB6Mg",
+          "folicAcidMcg",
+          "vitaminB12Mcg"
+        ],
+        "category": "folic-acid",
+        "base": "https://inlifehealthcare.com",
+        "handle": "inlife-vitamin-b12-folic-acid-supplement-rda",
+        "variantIds": [
+          44488839463077
+        ],
+        "allowRetailMultipack": true,
+        "id": "folic-acid-44488839463077"
+      }
+    },
+    {
+      "order": 172,
+      "profile": {
+        "brand": "INLIFE",
+        "product": "Vitamin B12 with Folic Acid, B Vitamins and ALA",
+        "form": "Tablet",
+        "type": "Cyanocobalamin + folic acid and B vitamins",
+        "subclass": "B-vitamin combination with ALA and calcium",
+        "flavour": "Unflavoured",
+        "source": "Not specified",
+        "packCount": 120,
+        "servingUnits": 1,
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/supplementfacts_975fd089-77b0-47b3-ae3b-95fe4f7be022.jpg?v=1793699747",
+        "labelSources": [
+          "https://inlifehealthcare.com/products/inlife-vitamin-b12-folic-acid-supplement-rda",
+          "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/supplementfacts_975fd089-77b0-47b3-ae3b-95fe4f7be022.jpg?v=1793699747"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Official panel per one tablet: B1 1.4mg,B5 5mg,B6 1.9mg,folic acid129.4micrograms,B12 2.2micrograms,calcium30mg;ALA25mg andinositol10mg are separate co-ingredients.",
+        "notes": "This is the RDA-labelled formulation, not the separate INLIFE1500microgram B12 product. Ingredient quantities are recorded separately without a combined vitamin-potency score.",
+        "packaging": "Brand-listed retail pack (120 tablets)",
+        "vitaminB1Mg": 1.4,
+        "vitaminB5Mg": 5,
+        "vitaminB6Mg": 1.9,
+        "folicAcidMcg": 129.4,
+        "vitaminB12Mcg": 2.2,
+        "calciumMg": 30,
+        "energyPerServing": 0.182,
+        "mineralBasis": "elemental",
+        "declaredNutrients": [
+          "vitaminB1Mg",
+          "vitaminB5Mg",
+          "vitaminB6Mg",
+          "folicAcidMcg",
+          "vitaminB12Mcg"
+        ],
+        "category": "folic-acid",
+        "base": "https://inlifehealthcare.com",
+        "handle": "inlife-vitamin-b12-folic-acid-supplement-rda",
+        "variantIds": [
+          44488839430309
+        ],
+        "allowRetailMultipack": true,
+        "id": "folic-acid-44488839430309"
+      }
+    }
+  ]
+}

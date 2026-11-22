@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "category": "creatine",
+  "brand": "Muscle Nectar",
+  "product": "Muscle Nectar Creatine Monohydrate – Micronized Creatine",
+  "variants": [
+    {
+      "order": 106,
+      "offer": {
+        "id": "cr-106",
+        "brand": "Muscle Nectar",
+        "product": "Muscle Nectar Creatine Monohydrate – Micronized Creatine",
+        "type": "Monohydrate",
+        "subclass": "Ultra-micronized",
+        "grade": "Not specified",
+        "formulation": "With piperine",
+        "packaging": "Standard pack",
+        "flavour": "Unflavoured",
+        "grams": 100,
+        "kg": 0.1,
+        "price": 299,
+        "stock": "In stock",
+        "creatine": 99.93333333333334,
+        "scoop": 3,
+        "serving": 3,
+        "creatineServing": 2.998,
+        "energy": 0,
+        "url": "https://musclenectar.com/products/creatine-monohydrate?variant=44369615552738",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0503/7844/0897/files/Muscle-Nectar-Creatine-Monohydrate-100g-Nutrition-Facts.jpg?v=1775468734",
+        "basis": "Official product label, visually verified: named creatine compound quantity; per100g stated or calculated from serving.",
+        "notes": "100g label used for same unflavoured formula at 250g. Contains 2.5mg piperine per serving.",
+        "energyBasis": "Official label per100g energy or serving kcal × 100 / serving grams.",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://musclenectar.com/products/creatine-monohydrate?variant=44369615552738",
+          "evidenceUrl": "https://musclenectar.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 107,
+      "offer": {
+        "id": "cr-107",
+        "brand": "Muscle Nectar",
+        "product": "Muscle Nectar Creatine Monohydrate – Micronized Creatine",
+        "type": "Monohydrate",
+        "subclass": "Ultra-micronized",
+        "grade": "Not specified",
+        "formulation": "With piperine",
+        "packaging": "Standard pack",
+        "flavour": "Unflavoured",
+        "grams": 250,
+        "kg": 0.25,
+        "price": 549,
+        "stock": "In stock",
+        "creatine": 99.93333333333334,
+        "scoop": 3,
+        "serving": 3,
+        "creatineServing": 2.998,
+        "energy": 0,
+        "url": "https://musclenectar.com/products/creatine-monohydrate?variant=37121742536897",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0503/7844/0897/files/Muscle-Nectar-Creatine-Monohydrate-100g-Nutrition-Facts.jpg?v=1775468734",
+        "basis": "Official product label, visually verified: named creatine compound quantity; per100g stated or calculated from serving.",
+        "notes": "100g label used for same unflavoured formula at 250g. Contains 2.5mg piperine per serving.",
+        "energyBasis": "Official label per100g energy or serving kcal × 100 / serving grams.",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://musclenectar.com/products/creatine-monohydrate?variant=37121742536897",
+          "evidenceUrl": "https://musclenectar.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 1933,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-107",
+        "date": "2023-12-21",
+        "price": 799,
+        "currency": "INR",
+        "sourceUrl": "https://musclenectar.com/products/creatine-monohydrate?variant=37121742536897",
+        "evidenceUrl": "https://web.archive.org/web/20231221231043id_/https://musclenectar.com/products/creatine-monohydrate",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "37121742536897",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1934,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-107",
+        "date": "2024-06-16",
+        "price": 675,
+        "currency": "INR",
+        "sourceUrl": "https://musclenectar.com/products/creatine-monohydrate?variant=37121742536897",
+        "evidenceUrl": "https://web.archive.org/web/20240616190310id_/https://musclenectar.com/products/creatine-monohydrate",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "37121742536897",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3099,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-106",
+        "date": "2026-10-25",
+        "price": 299,
+        "currency": "INR",
+        "sourceUrl": "https://musclenectar.com/products/creatine-monohydrate?variant=44369615552738",
+        "evidenceUrl": "https://musclenectar.com/products/creatine-monohydrate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "44369615552738"
+      }
+    },
+    {
+      "order": 3100,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-107",
+        "date": "2026-10-25",
+        "price": 549,
+        "currency": "INR",
+        "sourceUrl": "https://musclenectar.com/products/creatine-monohydrate?variant=37121742536897",
+        "evidenceUrl": "https://musclenectar.com/products/creatine-monohydrate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "37121742536897"
+      }
+    },
+    {
+      "order": 4959,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-106",
+        "date": "2026-11-19",
+        "price": 299,
+        "currency": "INR",
+        "sourceUrl": "https://musclenectar.com/products/creatine-monohydrate?variant=44369615552738",
+        "evidenceUrl": "https://musclenectar.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "44369615552738"
+      }
+    },
+    {
+      "order": 4960,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-107",
+        "date": "2026-11-19",
+        "price": 549,
+        "currency": "INR",
+        "sourceUrl": "https://musclenectar.com/products/creatine-monohydrate?variant=37121742536897",
+        "evidenceUrl": "https://musclenectar.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "37121742536897"
+      }
+    }
+  ],
+  "refreshSources": []
+}

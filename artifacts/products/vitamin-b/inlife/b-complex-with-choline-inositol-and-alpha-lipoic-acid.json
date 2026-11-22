@@ -1,0 +1,232 @@
+{
+  "schemaVersion": 1,
+  "category": "vitamin-b",
+  "brand": "INLIFE",
+  "product": "B-Complex with Choline, Inositol and Alpha Lipoic Acid",
+  "variants": [
+    {
+      "order": 12,
+      "offer": {
+        "id": "vitamin-b-45897052618917",
+        "brand": "INLIFE",
+        "product": "B-Complex with Choline, Inositol and Alpha Lipoic Acid",
+        "form": "Capsule",
+        "type": "Eight B vitamins; cyanocobalamin and folic acid",
+        "subclass": "B-complex with co-ingredients",
+        "flavour": "Unflavoured",
+        "source": "Not specified",
+        "packCount": 120,
+        "servingUnits": 1,
+        "price": 758,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://inlifehealthcare.com/products/inlife-b-complex-supplement-vegetarian-capsules?variant=45897052618917",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/WEBP_11.webp?v=1791377754",
+        "labelSources": [
+          "https://inlifehealthcare.com/products/inlife-b-complex-supplement-vegetarian-capsules",
+          "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/WEBP_11.webp?v=1791377754"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Official supplement panel per one capsule: B1 1.8mg,B2 2.5mg,B3 18mg,B5 5mg,B6 2.4mg,biotin40micrograms,B12 2.2micrograms,folic acid176.4micrograms.",
+        "notes": "Alpha lipoic acid20mg, inositol10mg and choline10mg are separate co-ingredients, not additional B-vitamin mass. No summed B-strength score is calculated.",
+        "packaging": "Brand-listed retail pack (120 capsules)",
+        "vitaminB1Mg": 1.8,
+        "vitaminB2Mg": 2.5,
+        "vitaminB3Mg": 18,
+        "vitaminB5Mg": 5,
+        "vitaminB6Mg": 2.4,
+        "biotinMcg": 40,
+        "vitaminB12Mcg": 2.2,
+        "folicAcidMcg": 176.4,
+        "declaredNutrients": [
+          "vitaminB1Mg",
+          "vitaminB2Mg",
+          "vitaminB3Mg",
+          "vitaminB5Mg",
+          "vitaminB6Mg",
+          "biotinMcg",
+          "vitaminB12Mcg",
+          "folicAcidMcg"
+        ]
+      }
+    },
+    {
+      "order": 13,
+      "offer": {
+        "id": "vitamin-b-45897052586149",
+        "brand": "INLIFE",
+        "product": "B-Complex with Choline, Inositol and Alpha Lipoic Acid",
+        "form": "Capsule",
+        "type": "Eight B vitamins; cyanocobalamin and folic acid",
+        "subclass": "B-complex with co-ingredients",
+        "flavour": "Unflavoured",
+        "source": "Not specified",
+        "packCount": 60,
+        "servingUnits": 1,
+        "price": 399,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://inlifehealthcare.com/products/inlife-b-complex-supplement-vegetarian-capsules?variant=45897052586149",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/WEBP_11.webp?v=1791377754",
+        "labelSources": [
+          "https://inlifehealthcare.com/products/inlife-b-complex-supplement-vegetarian-capsules",
+          "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/WEBP_11.webp?v=1791377754"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Official supplement panel per one capsule: B1 1.8mg,B2 2.5mg,B3 18mg,B5 5mg,B6 2.4mg,biotin40micrograms,B12 2.2micrograms,folic acid176.4micrograms.",
+        "notes": "Alpha lipoic acid20mg, inositol10mg and choline10mg are separate co-ingredients, not additional B-vitamin mass. No summed B-strength score is calculated.",
+        "packaging": "Brand-listed retail pack (60 capsules)",
+        "vitaminB1Mg": 1.8,
+        "vitaminB2Mg": 2.5,
+        "vitaminB3Mg": 18,
+        "vitaminB5Mg": 5,
+        "vitaminB6Mg": 2.4,
+        "biotinMcg": 40,
+        "vitaminB12Mcg": 2.2,
+        "folicAcidMcg": 176.4,
+        "declaredNutrients": [
+          "vitaminB1Mg",
+          "vitaminB2Mg",
+          "vitaminB3Mg",
+          "vitaminB5Mg",
+          "vitaminB6Mg",
+          "biotinMcg",
+          "vitaminB12Mcg",
+          "folicAcidMcg"
+        ]
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3979,
+      "observation": {
+        "category": "vitamin-b",
+        "offerId": "vitamin-b-45897052618917",
+        "date": "2026-11-19",
+        "price": 758,
+        "currency": "INR",
+        "sourceUrl": "https://inlifehealthcare.com/products/inlife-b-complex-supplement-vegetarian-capsules?variant=45897052618917",
+        "evidenceUrl": "https://inlifehealthcare.com/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "45897052618917",
+        "matchBasis": "Official public Shopify feed exact variant ID and explicitly listed retail count; unconditional INR variant price. Label serving and payload independently checked against official label panel."
+      }
+    },
+    {
+      "order": 3980,
+      "observation": {
+        "category": "vitamin-b",
+        "offerId": "vitamin-b-45897052586149",
+        "date": "2026-11-19",
+        "price": 399,
+        "currency": "INR",
+        "sourceUrl": "https://inlifehealthcare.com/products/inlife-b-complex-supplement-vegetarian-capsules?variant=45897052586149",
+        "evidenceUrl": "https://inlifehealthcare.com/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "45897052586149",
+        "matchBasis": "Official public Shopify feed exact variant ID and explicitly listed retail count; unconditional INR variant price. Label serving and payload independently checked against official label panel."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 163,
+      "profile": {
+        "brand": "INLIFE",
+        "product": "B-Complex with Choline, Inositol and Alpha Lipoic Acid",
+        "form": "Capsule",
+        "type": "Eight B vitamins; cyanocobalamin and folic acid",
+        "subclass": "B-complex with co-ingredients",
+        "flavour": "Unflavoured",
+        "source": "Not specified",
+        "packCount": 120,
+        "servingUnits": 1,
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/WEBP_11.webp?v=1791377754",
+        "labelSources": [
+          "https://inlifehealthcare.com/products/inlife-b-complex-supplement-vegetarian-capsules",
+          "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/WEBP_11.webp?v=1791377754"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Official supplement panel per one capsule: B1 1.8mg,B2 2.5mg,B3 18mg,B5 5mg,B6 2.4mg,biotin40micrograms,B12 2.2micrograms,folic acid176.4micrograms.",
+        "notes": "Alpha lipoic acid20mg, inositol10mg and choline10mg are separate co-ingredients, not additional B-vitamin mass. No summed B-strength score is calculated.",
+        "packaging": "Brand-listed retail pack (120 capsules)",
+        "vitaminB1Mg": 1.8,
+        "vitaminB2Mg": 2.5,
+        "vitaminB3Mg": 18,
+        "vitaminB5Mg": 5,
+        "vitaminB6Mg": 2.4,
+        "biotinMcg": 40,
+        "vitaminB12Mcg": 2.2,
+        "folicAcidMcg": 176.4,
+        "declaredNutrients": [
+          "vitaminB1Mg",
+          "vitaminB2Mg",
+          "vitaminB3Mg",
+          "vitaminB5Mg",
+          "vitaminB6Mg",
+          "biotinMcg",
+          "vitaminB12Mcg",
+          "folicAcidMcg"
+        ],
+        "category": "vitamin-b",
+        "base": "https://inlifehealthcare.com",
+        "handle": "inlife-b-complex-supplement-vegetarian-capsules",
+        "variantIds": [
+          45897052618917
+        ],
+        "allowRetailMultipack": true,
+        "id": "vitamin-b-45897052618917"
+      }
+    },
+    {
+      "order": 164,
+      "profile": {
+        "brand": "INLIFE",
+        "product": "B-Complex with Choline, Inositol and Alpha Lipoic Acid",
+        "form": "Capsule",
+        "type": "Eight B vitamins; cyanocobalamin and folic acid",
+        "subclass": "B-complex with co-ingredients",
+        "flavour": "Unflavoured",
+        "source": "Not specified",
+        "packCount": 60,
+        "servingUnits": 1,
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/WEBP_11.webp?v=1791377754",
+        "labelSources": [
+          "https://inlifehealthcare.com/products/inlife-b-complex-supplement-vegetarian-capsules",
+          "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/WEBP_11.webp?v=1791377754"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Official supplement panel per one capsule: B1 1.8mg,B2 2.5mg,B3 18mg,B5 5mg,B6 2.4mg,biotin40micrograms,B12 2.2micrograms,folic acid176.4micrograms.",
+        "notes": "Alpha lipoic acid20mg, inositol10mg and choline10mg are separate co-ingredients, not additional B-vitamin mass. No summed B-strength score is calculated.",
+        "packaging": "Brand-listed retail pack (60 capsules)",
+        "vitaminB1Mg": 1.8,
+        "vitaminB2Mg": 2.5,
+        "vitaminB3Mg": 18,
+        "vitaminB5Mg": 5,
+        "vitaminB6Mg": 2.4,
+        "biotinMcg": 40,
+        "vitaminB12Mcg": 2.2,
+        "folicAcidMcg": 176.4,
+        "declaredNutrients": [
+          "vitaminB1Mg",
+          "vitaminB2Mg",
+          "vitaminB3Mg",
+          "vitaminB5Mg",
+          "vitaminB6Mg",
+          "biotinMcg",
+          "vitaminB12Mcg",
+          "folicAcidMcg"
+        ],
+        "category": "vitamin-b",
+        "base": "https://inlifehealthcare.com",
+        "handle": "inlife-b-complex-supplement-vegetarian-capsules",
+        "variantIds": [
+          45897052586149
+        ],
+        "allowRetailMultipack": true,
+        "id": "vitamin-b-45897052586149"
+      }
+    }
+  ]
+}

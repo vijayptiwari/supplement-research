@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "order": 17,
+  "article": {
+    "id": "bcaa-dieting-opportunity-cost",
+    "category": "bcaa",
+    "series": "evidence-in-context",
+    "title": "BCAA on a calorie deficit: what the missing meal changes",
+    "summary": "A study showing an amino-acid response is not the same as evidence that BCAA should replace food or complete protein during weight loss.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "During a cut, every purchase competes with something else: a proper meal, a convenient protein food, or simply the money available to sustain the plan. BCAA advertising often responds to that anxiety with the promise of protecting hard-earned muscle. The important comparison is therefore not just BCAA versus flavoured water. It is BCAA versus the nutritional gap that actually exists. Research on acute muscle responses and research on complete diets answer different parts of that question. Putting them together changes how much value a small, incomplete amino-acid mixture deserves.",
+    "sections": [
+      {
+        "id": "decision-unit",
+        "title": "The unit of decision is the diet, not the scoop",
+        "body": "A low-calorie plan can be well supplied with protein or poorly supplied; the word “cutting” does not tell you which. Likewise, eating plant foods, training before breakfast or feeling sore does not by itself identify a BCAA deficiency. Essential amino acids must ultimately be supplied from food or another suitable nutritional source, and BCAA represent only three of them. Before judging an intra-workout drink, identify what it would replace or add. If the underlying problem is an insufficient amount or unsuitable distribution of complete protein foods, buying a smaller subset of their amino acids may leave the original problem unresolved.",
+        "sourceIds": [
+          "food-performance-amino-acids",
+          "exercise",
+          "bcaa-trial"
+        ]
+      },
+      {
+        "id": "acute-result",
+        "title": "The positive BCAA experiment deserves a precise reading",
+        "body": "Jackman and colleagues studied ten resistance-trained young men after exercise. BCAA increased the measured acute muscle-protein-synthesis response compared with placebo. That finding is useful evidence that the mixture was biologically active in those conditions. It did not compare BCAA with an adequate serving of complete protein, and it did not follow participants through a dieting programme to measure retained muscle or strength. The careful conclusion is neither “BCAA do nothing” nor “BCAA preserve muscle on any cut.” A short-lived response against a non-protein comparator leaves the consumer’s most important alternative untested.",
+        "sourceIds": [
+          "bcaa-trial"
+        ]
+      },
+      {
+        "id": "diet-trial",
+        "title": "A complete-protein trial asks a more practical question",
+        "body": "Longland and colleagues randomized 40 young men to higher- or lower-protein diets during four weeks of substantial energy restriction and intensive exercise. The higher-protein group had more favourable changes in lean mass and fat mass. This was a demanding, controlled protocol, not a universal weight-loss template. Its relevance to BCAA shopping is the structure of the evidence: the intervention addressed the amount of dietary protein within a training and energy context, and the outcomes included body composition over weeks. The trial supports taking the overall diet seriously; it did not test whether a BCAA supplement could recreate the result.",
+        "sourceIds": [
+          "context-protein-deficit-longland-2016"
+        ]
+      },
+      {
+        "id": "second-context",
+        "title": "Evidence from trained athletes points to the same comparison",
+        "body": "Mettler and colleagues also studied protein intake during weight loss in trained athletes. Higher protein reduced lean-body-mass loss relative to the lower-protein condition. Its short duration limits what can be inferred about a long contest preparation, and lean body mass is not identical to a direct measurement of new or lost contractile muscle. Nevertheless, it offers a relevant comparator that BCAA promotions can overlook: changing complete dietary protein. Two dietary studies do not become trials of isolated BCAA just because complete proteins contain BCAA. That distinction prevents an ingredient from receiving credit for evidence about the whole food or protein package.",
+        "sourceIds": [
+          "context-protein-athletes-mettler-2010",
+          "context-protein-deficit-longland-2016"
+        ]
+      },
+      {
+        "id": "signal-material",
+        "title": "A signal does not remove the need for materials",
+        "body": "Leucine is often described as a signal for muscle protein synthesis. That language can make the other essential amino acids sound optional, even though a signal and the substrates needed to build proteins serve different roles. A study comparing a small whey serving supplemented with amino acids against a larger whey serving shows why formulation and the time course of measurement matter. It cannot justify assuming that any leucine-rich drink behaves like a complete meal. When reading a muscle-building claim, ask which amino acids were available, what was consumed before the experiment and whether the response lasted beyond the measurement window.",
+        "sourceIds": [
+          "comparison-eaa-leucine-churchward-2012",
+          "food-performance-amino-acids"
+        ]
+      },
+      {
+        "id": "recovery-detour",
+        "title": "Less soreness is not proof of preserved muscle on a cut",
+        "body": "Some BCAA trials have reported improvements in selected recovery measures after damaging exercise. That is a different claim from retaining muscle during weeks of calorie restriction. Soreness ratings, creatine kinase, restoration of force and change in lean mass are separate outcomes. They can move differently, and none should be quietly substituted for another because it makes a stronger advertisement. A recovery result may matter to a particular training problem, but it should be priced as evidence for that problem. It cannot fill the missing comparison between BCAA and sufficient complete nutrition during weight loss.",
+        "sourceIds": [
+          "pe-bcaa-soreness-2012",
+          "pe-bcaa-recovery-2017",
+          "context-protein-deficit-longland-2016"
+        ]
+      },
+      {
+        "id": "opportunity-cost",
+        "title": "How to judge the opportunity cost without a fake score",
+        "body": "Our practical reading is to compare purchases against the gap you can name. A complete protein product may be useful when convenience, appetite or access makes adequate food intake difficult; a BCAA drink supplies a narrower ingredient set. Compare cost per meaningful amount of protein or fully disclosed amino acids, rather than equal scoop weights or the largest ratio on the front label. Do not pretend those quantities are nutritionally interchangeable. Taste, convenience and preference may still have value, but they are separate reasons to buy. A pleasant drink does not need an unsupported promise of muscle preservation to explain its appeal.",
+        "sourceIds": [
+          "exercise",
+          "food-performance-amino-acids",
+          "bcaa-trial"
+        ]
+      },
+      {
+        "id": "what-changes",
+        "title": "What evidence would make BCAA more compelling?",
+        "body": "The strongest next experiment for this shopping question would compare BCAA with an appropriate complete-protein alternative during a real energy deficit, while controlling diet and training well enough to interpret the result. It would follow muscle-related outcomes and performance over time, not only an acute molecular response. Until that evidence is convincing, the available studies favour checking the broader diet before treating BCAA as a priority cutting supplement. Aggressive calorie restriction is not made appropriate by adding amino acids, and medical dietary restrictions need individual advice. The useful promise is a better-informed choice, not a guarantee that a flavoured scoop protects every gram of muscle.",
+        "sourceIds": [
+          "bcaa-trial",
+          "context-protein-deficit-longland-2016",
+          "context-protein-athletes-mettler-2010",
+          "food-kidney-diet"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "food-performance-amino-acids",
+      "exercise",
+      "bcaa-trial",
+      "context-protein-deficit-longland-2016",
+      "context-protein-athletes-mettler-2010",
+      "comparison-eaa-leucine-churchward-2012",
+      "pe-bcaa-soreness-2012",
+      "pe-bcaa-recovery-2017",
+      "food-kidney-diet"
+    ],
+    "evidenceNotes": [
+      {
+        "finding": "BCAA stimulated an acute post-exercise response, but an adequate complete-protein comparator was absent.",
+        "sourceIds": [
+          "bcaa-trial"
+        ],
+        "design": "Acute controlled post-exercise study.",
+        "population": "Ten resistance-trained young men.",
+        "outcome": "Muscle protein synthesis increased relative to placebo during the measured recovery period.",
+        "limits": "Not a long-term energy-restriction trial; does not establish equivalent muscle retention to complete protein."
+      },
+      {
+        "finding": "Changing total dietary protein produced body-composition differences during a short, intensive weight-loss protocol.",
+        "sourceIds": [
+          "context-protein-deficit-longland-2016"
+        ],
+        "design": "Four-week randomized dietary intervention with energy restriction and intensive exercise.",
+        "population": "Forty young men.",
+        "outcome": "The higher-protein condition produced greater lean-mass gain and fat-mass loss than the lower-protein condition.",
+        "limits": "A demanding controlled protocol; not a BCAA trial or a universally appropriate weight-loss prescription."
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "category": "fish-oil",
+  "brand": "Nutrabay",
+  "product": "Nutrabay Fish Oil Omega 3 (Triple Strength) - 1250mg",
+  "variants": [
+    {
+      "order": 22,
+      "offer": {
+        "id": "fish-oil-nb-6255885",
+        "brand": "Nutrabay",
+        "product": "Nutrabay Fish Oil Omega 3 (Triple Strength) - 1250mg",
+        "flavour": "Unflavoured",
+        "packaging": "Bottle",
+        "source": "Not specified",
+        "price": 999,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://nutrabay.com/product/nutrabay-pro-fish-oil-triple-strength-1000mg/?pId=8472748&vId=6255885",
+        "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1027-01.png",
+        "labelSources": [
+          "https://nutrabay.com/product/nutrabay-pro-fish-oil-triple-strength-1000mg/?pId=8472748&vId=6255885",
+          "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1027-01.png"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "6255885",
+        "sourceProductId": "8472748",
+        "sourceSku": "NB-NUT-1027-01",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+        "notes": "The label lists 900 mg total omega-3, but EPA 460 + DHA 380 = 840 mg. Active comparison uses EPA+DHA, not total omega-3 or 1250 mg fish oil. Contains fish and gelatin.",
+        "form": "Softgel",
+        "servingUnits": 1,
+        "type": "Fish oil; lipid ester form not specified",
+        "subclass": "Concentrated EPA+DHA",
+        "fishOilMg": 1250,
+        "epaMg": 460,
+        "dhaMg": 380,
+        "energyPerServing": 16.11,
+        "declaredNutrients": [
+          "epaMg",
+          "dhaMg",
+          "fishOilMg"
+        ],
+        "packCount": 60
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5264,
+      "observation": {
+        "category": "fish-oil",
+        "offerId": "fish-oil-nb-6255885",
+        "date": "2026-11-20",
+        "price": 999,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabay.com/product/nutrabay-pro-fish-oil-triple-strength-1000mg/?pId=8472748&vId=6255885",
+        "evidenceUrl": "https://nutrabay.com/product/nutrabay-pro-fish-oil-triple-strength-1000mg/?pId=8472748&vId=6255885",
+        "kind": "official-live",
+        "variantId": "6255885",
+        "matchBasis": "Nutrabay selected live product 8472748, variant 6255885, SKU NB-NUT-1027-01; complete selected attributes, ordinary INR sale_price, stock and actual net pack verified. Label amounts independently read from this selected gallery."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 349,
+      "profile": {
+        "id": "fish-oil-nb-6255885",
+        "brand": "Nutrabay",
+        "product": "Nutrabay Fish Oil Omega 3 (Triple Strength) - 1250mg",
+        "flavour": "Unflavoured",
+        "packaging": "Bottle",
+        "source": "Not specified",
+        "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1027-01.png",
+        "labelSources": [
+          "https://nutrabay.com/product/nutrabay-pro-fish-oil-triple-strength-1000mg/?pId=8472748&vId=6255885",
+          "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-NUT-1027-01.png"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+        "notes": "The label lists 900 mg total omega-3, but EPA 460 + DHA 380 = 840 mg. Active comparison uses EPA+DHA, not total omega-3 or 1250 mg fish oil. Contains fish and gelatin.",
+        "form": "Softgel",
+        "servingUnits": 1,
+        "type": "Fish oil; lipid ester form not specified",
+        "subclass": "Concentrated EPA+DHA",
+        "fishOilMg": 1250,
+        "epaMg": 460,
+        "dhaMg": 380,
+        "energyPerServing": 16.11,
+        "declaredNutrients": [
+          "epaMg",
+          "dhaMg",
+          "fishOilMg"
+        ],
+        "packCount": 60,
+        "category": "fish-oil",
+        "kind": "nutrabay-product",
+        "base": "https://nutrabay.com",
+        "productUrl": "https://nutrabay.com/product/nutrabay-pro-fish-oil-triple-strength-1000mg/?pId=8472748&vId=6255885",
+        "variantUrl": "https://nutrabay.com/product/nutrabay-pro-fish-oil-triple-strength-1000mg/?pId=8472748&vId=6255885",
+        "variantId": "6255885",
+        "productId": "8472748",
+        "variantSku": "NB-NUT-1027-01",
+        "variantAttributes": {
+          "pa_pack-size": "60 Caps"
+        },
+        "cacheKey": "nutrabay-6255885",
+        "allowRetailMultipack": true
+      }
+    }
+  ]
+}

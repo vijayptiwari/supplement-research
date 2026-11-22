@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "category": "vitamin-d",
+  "brand": "HK Vitals",
+  "product": "Calcium + Vitamin D3",
+  "variants": [
+    {
+      "order": 12,
+      "offer": {
+        "form": "Tablet",
+        "source": "Not specified",
+        "servingUnits": 1,
+        "product": "Calcium + Vitamin D3",
+        "type": "D3 + calcium / magnesium / zinc (salt forms not specified)",
+        "subclass": "Vitamin D and mineral combination with Cissus",
+        "calciumMg": 150,
+        "magnesiumMg": 111,
+        "zincMg": 13.2,
+        "vitaminDMcg": 15,
+        "mineralBasis": "elemental",
+        "declaredActives": [
+          "calcium",
+          "magnesium",
+          "zinc"
+        ],
+        "additionalIngredients": [
+          {
+            "name": "Cissus quadrangularis whole-plant extract (Hadjod)",
+            "amount": 50,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "basis": "Official panel per one tablet (1.03 g): Vitamin D3 15 mcg, calcium 150 mg, magnesium 111 mg and zinc 13.2 mg.",
+        "notes": "This distinct formulation is not the Calcium + Magnesium + Zinc SKU: its mineral ratios and D3 amount differ. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+        "brand": "HK Vitals",
+        "id": "vitamin-d-hkv-188310",
+        "packCount": 60,
+        "flavour": "Unflavoured",
+        "price": 239,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://www.hkvitals.com/sv/hk-vitals-calcium-plus-vitamin-d3/SP-101006?navKey=VRNT-188310",
+        "nutritionUrl": "https://img8.hkrtcdn.com/42833/prd_4283297-HK-Vitals-Calcium-Vitamin-D3-60-tablets-Unflavoured_o.jpg",
+        "labelSources": [
+          "https://www.hkvitals.com/products/calcium-vitamin-d3",
+          "https://img8.hkrtcdn.com/42833/prd_4283297-HK-Vitals-Calcium-Vitamin-D3-60-tablets-Unflavoured_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "packaging": "Single retail pack (60 units)",
+        "sourceVariantId": "188310",
+        "sourceProductId": "101006",
+        "lastPriceReview": {
+          "checked": "2026-11-20",
+          "sourceUrl": "https://www.hkvitals.com/sv/hk-vitals-calcium-plus-vitamin-d3/SP-101006?navKey=VRNT-188310",
+          "evidenceUrl": "https://www.hkvitals.com/sv/hk-vitals-calcium-plus-vitamin-d3/SP-101006?navKey=VRNT-188310",
+          "matchBasis": "Fresh official HK Vitals exact legacy selected URL returned published SP-101006 / VRNT-188310 with matching brand, complete quantity/flavour attributes and unconditional INR offer_pr; profile/offer now retain explicit navKey rather than a mutable family default."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5123,
+      "observation": {
+        "category": "vitamin-d",
+        "offerId": "vitamin-d-hkv-188310",
+        "date": "2026-11-19",
+        "price": 239,
+        "currency": "INR",
+        "sourceUrl": "https://www.hkvitals.com/products/calcium-vitamin-d3",
+        "evidenceUrl": "https://www.hkvitals.com/products/calcium-vitamin-d3",
+        "kind": "official-live",
+        "matchBasis": "Official HK Vitals SSR reviewData selected numeric variant 188310; explicit pack '60 tablet(s)', unconditional offer_pr INR and isPublish=true/oos=false. Excludes loyalty and coupon rewards.",
+        "variantId": "188310"
+      }
+    },
+    {
+      "order": 5200,
+      "observation": {
+        "category": "vitamin-d",
+        "offerId": "vitamin-d-hkv-188310",
+        "date": "2026-11-20",
+        "price": 239,
+        "currency": "INR",
+        "sourceUrl": "https://www.hkvitals.com/sv/hk-vitals-calcium-plus-vitamin-d3/SP-101006?navKey=VRNT-188310",
+        "evidenceUrl": "https://www.hkvitals.com/sv/hk-vitals-calcium-plus-vitamin-d3/SP-101006?navKey=VRNT-188310",
+        "kind": "official-live",
+        "variantId": "188310",
+        "matchBasis": "Fresh official HK Vitals exact legacy selected URL returned published SP-101006 / VRNT-188310 with matching brand, complete quantity/flavour attributes and unconditional INR offer_pr; profile/offer now retain explicit navKey rather than a mutable family default."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 233,
+      "profile": {
+        "form": "Tablet",
+        "source": "Not specified",
+        "servingUnits": 1,
+        "product": "Calcium + Vitamin D3",
+        "type": "D3 + calcium / magnesium / zinc (salt forms not specified)",
+        "subclass": "Vitamin D and mineral combination with Cissus",
+        "calciumMg": 150,
+        "magnesiumMg": 111,
+        "zincMg": 13.2,
+        "vitaminDMcg": 15,
+        "mineralBasis": "elemental",
+        "declaredActives": [
+          "calcium",
+          "magnesium",
+          "zinc"
+        ],
+        "additionalIngredients": [
+          {
+            "name": "Cissus quadrangularis whole-plant extract (Hadjod)",
+            "amount": 50,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "basis": "Official panel per one tablet (1.03 g): Vitamin D3 15 mcg, calcium 150 mg, magnesium 111 mg and zinc 13.2 mg.",
+        "notes": "This distinct formulation is not the Calcium + Magnesium + Zinc SKU: its mineral ratios and D3 amount differ. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+        "brand": "HK Vitals",
+        "id": "vitamin-d-hkv-188310",
+        "packCount": 60,
+        "flavour": "Unflavoured",
+        "nutritionUrl": "https://img8.hkrtcdn.com/42833/prd_4283297-HK-Vitals-Calcium-Vitamin-D3-60-tablets-Unflavoured_o.jpg",
+        "labelSources": [
+          "https://www.hkvitals.com/products/calcium-vitamin-d3",
+          "https://img8.hkrtcdn.com/42833/prd_4283297-HK-Vitals-Calcium-Vitamin-D3-60-tablets-Unflavoured_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "packaging": "Single retail pack (60 units)",
+        "sourceVariantId": "188310",
+        "sourceProductId": "101006",
+        "category": "vitamin-d",
+        "kind": "hk-product",
+        "base": "https://www.hkvitals.com",
+        "handle": "calcium-vitamin-d3",
+        "productUrl": "https://www.hkvitals.com/sv/hk-vitals-calcium-plus-vitamin-d3/SP-101006?navKey=VRNT-188310",
+        "variantUrl": "https://www.hkvitals.com/sv/hk-vitals-calcium-plus-vitamin-d3/SP-101006?navKey=VRNT-188310",
+        "variantId": "188310",
+        "productId": 101006,
+        "sourceBrand": "HK Vitals",
+        "variantAttributes": {
+          "fn-att-quant": "60 tablet(s)",
+          "spc-att-flvr": "Unflavoured"
+        }
+      }
+    }
+  ]
+}

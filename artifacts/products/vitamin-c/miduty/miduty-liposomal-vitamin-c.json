@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "category": "vitamin-c",
+  "brand": "Miduty",
+  "product": "Miduty Liposomal Vitamin C",
+  "variants": [
+    {
+      "order": 29,
+      "offer": {
+        "id": "vitamin-c-nb-5281558",
+        "brand": "Miduty",
+        "product": "Miduty Liposomal Vitamin C",
+        "flavour": "Unflavoured",
+        "packaging": "Bottle",
+        "source": "Not specified",
+        "price": 599,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://nutrabay.com/product/miduty-liposomal-vitamin-c/?pId=2617206&vId=5281558",
+        "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_8-NB-MDY-1003-01-1767014045.jpg",
+        "labelSources": [
+          "https://nutrabay.com/product/miduty-liposomal-vitamin-c/?pId=2617206&vId=5281558",
+          "https://cdn2.nutrabay.com/uploads/variant/images/image_8-NB-MDY-1003-01-1767014045.jpg"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "retailer",
+        "sourceVariantId": "5281558",
+        "sourceProductId": "2617206",
+        "sourceSku": "NB-MDY-1003-01",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+        "notes": "The panel lists 650 mg of a 70% liposomal ingredient, not an unambiguous 650 mg vitamin C payload. Pure-active dose stays unknown; the ingredient is recorded separately without assigning a higher absorbed dose.",
+        "retailer": "Nutrabay",
+        "form": "Capsule",
+        "servingUnits": 1,
+        "type": "Liposomal vitamin C ingredient",
+        "subclass": "70% ingredient formulation",
+        "vitaminCMg": null,
+        "energyPerServing": 2.28,
+        "additionalIngredients": [
+          {
+            "name": "Liposomal Vitamin C 70% ingredient",
+            "amount": 650,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "declaredNutrients": [],
+        "packCount": 30
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5290,
+      "observation": {
+        "category": "vitamin-c",
+        "offerId": "vitamin-c-nb-5281558",
+        "date": "2026-11-20",
+        "price": 599,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabay.com/product/miduty-liposomal-vitamin-c/?pId=2617206&vId=5281558",
+        "evidenceUrl": "https://nutrabay.com/product/miduty-liposomal-vitamin-c/?pId=2617206&vId=5281558",
+        "kind": "official-live",
+        "variantId": "5281558",
+        "matchBasis": "Nutrabay selected live product 2617206, variant 5281558, SKU NB-MDY-1003-01; complete selected attributes, ordinary INR sale_price, stock and actual net pack verified. Label amounts independently read from this selected gallery."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 374,
+      "profile": {
+        "id": "vitamin-c-nb-5281558",
+        "brand": "Miduty",
+        "product": "Miduty Liposomal Vitamin C",
+        "flavour": "Unflavoured",
+        "packaging": "Bottle",
+        "source": "Not specified",
+        "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_8-NB-MDY-1003-01-1767014045.jpg",
+        "labelSources": [
+          "https://nutrabay.com/product/miduty-liposomal-vitamin-c/?pId=2617206&vId=5281558",
+          "https://cdn2.nutrabay.com/uploads/variant/images/image_8-NB-MDY-1003-01-1767014045.jpg"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "retailer",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+        "notes": "The panel lists 650 mg of a 70% liposomal ingredient, not an unambiguous 650 mg vitamin C payload. Pure-active dose stays unknown; the ingredient is recorded separately without assigning a higher absorbed dose.",
+        "retailer": "Nutrabay",
+        "form": "Capsule",
+        "servingUnits": 1,
+        "type": "Liposomal vitamin C ingredient",
+        "subclass": "70% ingredient formulation",
+        "vitaminCMg": null,
+        "energyPerServing": 2.28,
+        "additionalIngredients": [
+          {
+            "name": "Liposomal Vitamin C 70% ingredient",
+            "amount": 650,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "declaredNutrients": [],
+        "packCount": 30,
+        "category": "vitamin-c",
+        "kind": "nutrabay-product",
+        "base": "https://nutrabay.com",
+        "productUrl": "https://nutrabay.com/product/miduty-liposomal-vitamin-c/?pId=2617206&vId=5281558",
+        "variantUrl": "https://nutrabay.com/product/miduty-liposomal-vitamin-c/?pId=2617206&vId=5281558",
+        "variantId": "5281558",
+        "productId": "2617206",
+        "variantSku": "NB-MDY-1003-01",
+        "variantAttributes": {
+          "pa_pack-size": "30 Caps"
+        },
+        "cacheKey": "nutrabay-5281558",
+        "allowRetailMultipack": true
+      }
+    }
+  ]
+}

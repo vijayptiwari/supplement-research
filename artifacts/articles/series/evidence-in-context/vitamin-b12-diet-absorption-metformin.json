@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "order": 5,
+  "article": {
+    "id": "vitamin-b12-diet-absorption-metformin",
+    "category": "vitamin-b",
+    "series": "evidence-in-context",
+    "title": "Vitamin B12: a food gap and an absorption problem need different plans",
+    "summary": "Diet, gut physiology and medicines can all affect B12 status. Human metformin studies show why finding the cause matters more than buying a general energy formula.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "Two people can have the same low vitamin B12 result for quite different reasons. One may lack a reliable dietary source. Another may eat B12-rich food regularly but have trouble releasing or absorbing the vitamin. A medicine can contribute too. Treating every case as eat more animal food or buy a stronger B-complex misses the cause, and it can miss why follow-up is needed. B12 is a useful example of why a supplement decision should begin with the nutritional and medical context. It is also an example where a long-established medicine's side effect can often be managed without abandoning the treatment that the person needs.",
+    "sections": [
+      {
+        "id": "journey",
+        "title": "The food-to-blood journey has several steps",
+        "body": "Much food-derived B12 is attached to proteins. Digestion releases it, binding proteins help move it through the gut, and intrinsic factor supports the usual absorption route in the small intestine. Fortified foods and supplements provide B12 in a form that does not require the initial release from food protein. That difference can matter, but it does not mean a retail tablet resolves every absorption disorder. The body still has to handle the vitamin, and clinical replacement plans account for the underlying problem. This pathway explains why dietary intake and absorption are separate questions. A list of foods eaten cannot establish that every step between the plate and the circulation is functioning normally.",
+        "sourceIds": [
+          "b12-overview"
+        ]
+      },
+      {
+        "id": "diet",
+        "title": "A reliable source is more useful than a diet label",
+        "body": "A vegan or vegetarian label does not quantify B12 intake. Some people regularly use appropriately fortified foods or supplements; others rely on foods that are assumed to contain B12 but do not supply a dependable source. Someone who eats animal products can also have a limited overall intake or an absorption problem. Review the actual foods, fortification information and products used over time rather than assigning adequacy from identity alone. This matters especially when assessing a B-complex: its many ingredients do not compensate for an unclear B12 plan. A well-specified source is more informative than the words energy support or natural nutrition.",
+        "sourceIds": [
+          "b12-overview",
+          "nutrients-b12-nice-2024"
+        ]
+      },
+      {
+        "id": "randomised-evidence",
+        "title": "Metformin provides evidence beyond an association",
+        "body": "A randomised placebo-controlled trial followed insulin-treated adults with type 2 diabetes for more than four years. Participants assigned metformin had lower B12 concentrations and a greater risk of biochemical deficiency than those assigned placebo. Randomisation strengthens the inference that metformin contributed, rather than simply identifying people who already differed in diet or health. The trial still has boundaries: it studied a specific clinical population and does not tell us every user's individual risk or prove that every symptom is caused by B12. Its practical contribution is to make B12 status a legitimate part of medication follow-up, rather than a reason to label all tiredness as a supplement deficiency.",
+        "sourceIds": [
+          "nutrients-b12-metformin-rct-2010"
+        ]
+      },
+      {
+        "id": "long-followup",
+        "title": "Long follow-up reinforces the signal but changes the design",
+        "body": "The Diabetes Prevention Program Outcomes Study also linked longer metformin exposure with biochemical B12 deficiency. This adds useful duration and a different population to the picture. However, it was a secondary analysis of a programme that began with random assignment and then continued into open-label follow-up. That is not identical to keeping the whole comparison blinded for all those years. The distinction matters when interpreting later clinical associations, such as neuropathy findings, which cannot establish that all nerve symptoms were caused by B12. Together, the studies support attention to risk and assessment; they do not justify a universal retail product or the same monitoring schedule for every user.",
+        "sourceIds": [
+          "nutrients-b12-dppos-2016"
+        ]
+      },
+      {
+        "id": "medication",
+        "title": "A manageable risk is not a reason to stop a useful medicine",
+        "body": "UK medicines-safety advice recommends testing when deficiency is suspected and considering periodic monitoring when risk factors are present. It also explicitly states that metformin can be continued while B12 is corrected, when it remains tolerated and appropriate. The lesson travels better than any country-specific prescription rule: discuss the actual medication and symptoms with the treating professional, rather than discontinuing treatment because an article names a possible adverse effect. Diabetes itself and unrelated conditions can also produce tiredness or nerve symptoms. A B12 product should not become a substitute diagnosis, and a supplement advertisement should not be allowed to overrule a medicine's established purpose.",
+        "sourceIds": [
+          "nutrients-b12-metformin-mhra-2022"
+        ]
+      },
+      {
+        "id": "assessment",
+        "title": "Normal-looking blood counts do not settle the question",
+        "body": "NICE advises that B12 deficiency should not be ruled out solely because anaemia or enlarged red cells are absent. This is relevant to people whose symptoms or risk factors warrant assessment, not an invitation to diagnose deficiency from a checklist. A clinician may interpret total or active B12 results alongside further tests and the person's circumstances. Tell that professional about over-the-counter B12 already being used, since supplementation can affect the interpretation. The useful aim is to identify whether deficiency exists and why, rather than to chase the highest result on a commercial panel. Neurological symptoms deserve timely assessment because a nutritional explanation is only one possibility.",
+        "sourceIds": [
+          "nutrients-b12-nice-2024"
+        ]
+      },
+      {
+        "id": "plan",
+        "title": "The cause influences route, duration and review",
+        "body": "A dietary shortfall can require a plan for a dependable ongoing source. A persistent absorption disorder or medicine-associated problem may require a different replacement and follow-up approach. Those are clinical decisions, and neither the smallest tablet nor the largest labelled amount identifies the right route by itself. The same applies to symptoms: biochemical improvement and symptom recovery do not necessarily happen on the same timetable, while persistent symptoms may need another explanation. If the question is diagnosed deficiency, keep the replacement plan attached to its cause. If the question is ordinary nutrition, keep it attached to a realistic intake review rather than a promise of extra energy.",
+        "sourceIds": [
+          "nutrients-b12-nice-2024",
+          "b12-overview"
+        ]
+      },
+      {
+        "id": "value",
+        "title": "What makes a B12 purchase worthwhile?",
+        "body": "A useful product supplies a clear amount through a route suited to the identified purpose, can be taken consistently and fits the wider plan. A broad B-complex is not automatically a better solution because it contains more vitamins; it may add unnecessary ingredients while leaving the main question unresolved. For a dietary strategy, check the actual B12 source and repeatability. For suspected or diagnosed deficiency, prioritise assessment, cause and follow-up over marketing about potency. The metformin evidence is a reminder that the most valuable action may be a medication review and a targeted plan, not a larger stack. Good supplementation begins with explaining the problem it is meant to solve.",
+        "sourceIds": [
+          "supplement-quality-ods",
+          "nutrients-b12-metformin-rct-2010",
+          "nutrients-b12-metformin-mhra-2022"
+        ]
+      }
+    ],
+    "evidenceNotes": [
+      {
+        "finding": "Metformin lowered B12 concentrations and increased biochemical deficiency risk compared with placebo.",
+        "sourceIds": [
+          "nutrients-b12-metformin-rct-2010"
+        ],
+        "design": "Randomised placebo-controlled trial lasting approximately 4.3 years.",
+        "population": "390 insulin-treated adults with type 2 diabetes.",
+        "outcome": "B12 concentration and biochemical deficiency.",
+        "limits": "Specific clinical population; does not assign the cause of every symptom or individualise replacement."
+      },
+      {
+        "finding": "Longer metformin exposure was associated with a higher likelihood of biochemical B12 deficiency.",
+        "sourceIds": [
+          "nutrients-b12-dppos-2016"
+        ],
+        "design": "Secondary analysis of randomised DPP groups followed into the open-label DPPOS.",
+        "population": "Adults initially enrolled at high risk of diabetes.",
+        "outcome": "B12 deficiency during extended follow-up.",
+        "limits": "Later exposure was not a fully blinded randomised comparison; neurological associations need cautious interpretation."
+      }
+    ],
+    "sourceIds": [
+      "b12-overview",
+      "nutrients-b12-nice-2024",
+      "nutrients-b12-metformin-rct-2010",
+      "nutrients-b12-dppos-2016",
+      "nutrients-b12-metformin-mhra-2022",
+      "supplement-quality-ods"
+    ]
+  }
+}

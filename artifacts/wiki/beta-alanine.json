@@ -1,0 +1,252 @@
+{
+  "schemaVersion": 1,
+  "order": 19,
+  "category": {
+    "id": "beta-alanine",
+    "label": "Beta-Alanine",
+    "file": "beta-alanine.json",
+    "page": "beta-alanine.html",
+    "measurement": "units",
+    "supportsPowder": true,
+    "mainNutrient": "betaAlanineMg",
+    "referenceQuantity": 1000,
+    "referenceUnit": "mg",
+    "compoundLabel": "labelled beta-alanine",
+    "nutrientFields": [
+      {
+        "key": "betaAlanineMg",
+        "label": "Beta-alanine",
+        "unit": "mg",
+        "table": true
+      }
+    ],
+    "comparisonNote": "Beta-alanine amounts use the exact stated label serving. Powder serving mass and a pre-workout blend total are not assumed to be beta-alanine. Check overlap with pre-workouts; tingling is not a measure of efficacy.",
+    "searchAliases": [
+      "beta alanine",
+      "betaalanine"
+    ]
+  },
+  "catalog": {
+    "checked": "2026-11-20",
+    "category": "beta-alanine"
+  },
+  "guide": {
+    "id": "beta-alanine-guide",
+    "category": "beta-alanine",
+    "title": "Beta-alanine: muscle carnosine over time, not proof from tingling",
+    "summary": "Beta-alanine is studied mainly as a way to raise muscle carnosine with repeated use. An immediate skin sensation is a separate effect.",
+    "evidence": "Position statements and trial syntheses support possible small benefits for selected high-intensity exercise tasks. Effects depend on the task and exposure period; performance in every sport, maximal strength and muscle growth are not established benefits.",
+    "limitations": "Laboratory exercise capacity and competition results are different endpoints. Responses vary, and repeated supplementation over time is central to the carnosine rationale. An occasional pre-workout serving cannot be assumed to reproduce those studies.",
+    "catalogReading": "Read verified beta-alanine per label serving rather than total powder or a proprietary blend. Check whether the formulation is immediate or sustained release. Compare the same ingredient basis and include beta-alanine already present in a pre-workout.",
+    "safety": "Tingling or itching can occur and is not a measure of efficacy. Safety reviews are reassuring within studied healthy populations and exposures, while evidence for indefinite use and special populations is limited. Review health conditions, medicines and other ingredients separately.",
+    "sourceIds": [
+      "exercise",
+      "beta-alanine-position",
+      "beta-alanine-meta",
+      "beta-alanine-safety",
+      "food-performance-bioactives",
+      "food-chicken-bioactives",
+      "supplement-quality-ods"
+    ],
+    "reviewed": "2026-11-18",
+    "author": "Supplement Research editorial synthesis",
+    "bodySteps": [
+      "Absorbed beta-alanine is available to muscle, where it combines with histidine to form carnosine.",
+      "Increasing muscle carnosine requires repeated exposure over time; carnosine helps buffer changes in acidity during intense exercise.",
+      "Transient skin tingling is a separate sensory response. Its presence or intensity does not demonstrate that muscle carnosine or sporting performance has improved."
+    ],
+    "bodySources": [
+      "beta-alanine-position",
+      "beta-alanine-safety"
+    ],
+    "treatment": "Beta-alanine is not an established treatment for a disease causing weakness, chronic fatigue or cramps. Physiological buffering and a workout effect are different from treatment of a medical problem.",
+    "whoMayBenefit": "Some adults performing a relevant high-intensity event may consider an optional supplement after reviewing the event, evidence and tolerance with a qualified sports professional. Someone starting general training does not automatically need it.",
+    "routineUse": "No universal daily requirement for supplemental beta-alanine is established. Reassess whether the exercise goal fits the evidence and account for combined standalone and pre-workout exposure; more tingling is not a reason to add more.",
+    "sectionSources": [
+      "exercise",
+      "beta-alanine-position",
+      "beta-alanine-meta",
+      "beta-alanine-safety"
+    ],
+    "buyingGuide": {
+      "whoCanConsider": [
+        "Adult athletes performing selected high-intensity efforts lasting roughly one to four minutes can consider whether the evidence fits their event.",
+        "Adults able to follow a consistent nutrition plan over time can assess repeated-use beta-alanine evidence; occasional use and immediate tingling address different questions."
+      ],
+      "whoShouldReview": [
+        "People with a medical condition, regular medicines or troublesome symptoms should review use with a qualified professional.",
+        "Children and people who are pregnant or breastfeeding need guidance beyond the healthy-adult trial evidence.",
+        "Anyone already using a pre-workout should account for its beta-alanine before adding a separate product."
+      ],
+      "foodSummary": "Meat and fish contain beta-alanine-containing dipeptides such as carnosine or anserine. These are a different dietary form, not an equivalent amount of free beta-alanine isolate.",
+      "foods": [
+        {
+          "name": "Chicken breast, raw, study samples on storage day 1",
+          "relationship": "different-form",
+          "detail": "Range of day-1 group means from conventional and welfare farm samples, not the range of every chicken product. Raw weight describes the assay, not a recommendation to eat raw meat. Carnosine mass is not free beta-alanine mass.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Study-specific composition; not a universal food value or supplement-dose equivalent.",
+          "amounts": [
+            {
+              "nutrient": "Carnosine (bound beta-alanine)",
+              "min": 63.16,
+              "max": 68.52,
+              "unit": "mg",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "100 g raw meat"
+              },
+              "sourceIds": [
+                "food-chicken-bioactives"
+              ]
+            }
+          ]
+        }
+      ],
+      "foodSourceIds": [
+        "food-performance-bioactives",
+        "beta-alanine-position",
+        "food-chicken-bioactives"
+      ],
+      "value": {
+        "routineScore": 2,
+        "targetedScore": 4,
+        "targetedUse": "An adult athlete with a relevant sustained high-intensity event, especially in the roughly one-to-four-minute range, where a small performance change matters.",
+        "reason": "There is a reasonable case for selected event demands and repeated exposure that raises muscle carnosine. It is lower priority for general gym use, and neither tingling nor a single pre-workout serving establishes benefit.",
+        "worthWhen": [
+          "The event and outcome fit the studied high-intensity context and the athlete values a possible small effect.",
+          "The labelled beta-alanine amount is clear and combined pre-workout exposure is considered."
+        ],
+        "skipWhen": [
+          "The goal is simply more tingling, immediate energy, guaranteed muscle growth or better performance in every sport.",
+          "Use is occasional and assumed to reproduce repeated-use carnosine studies."
+        ],
+        "evidence": "moderate",
+        "scope": "The higher targeted score is restricted to an appropriate adult high-intensity exercise context. It does not imply all sprint, endurance, strength or recreational activities benefit equally.",
+        "sourceIds": [
+          "beta-alanine-position",
+          "beta-alanine-meta",
+          "beta-alanine-safety",
+          "exercise"
+        ]
+      },
+      "reviewed": "2026-11-18",
+      "practices": {
+        "dos": [
+          {
+            "title": "Match the actual exercise demand",
+            "detail": "Check whether your event fits the studied high-intensity context instead of assuming every sport benefits equally."
+          },
+          {
+            "title": "Count the declared ingredient",
+            "detail": "Use verified beta-alanine per serving, note release formulation and include amounts already in a pre-workout."
+          }
+        ],
+        "donts": [
+          {
+            "title": "Don't judge value by tingling",
+            "detail": "Tingling is a possible effect, not a measure of efficacy, muscle growth or appropriate intake."
+          },
+          {
+            "title": "Don't equate occasional use with chronic protocols",
+            "detail": "Using a product occasionally does not reproduce the repeated-use carnosine studies described in the evidence guide."
+          }
+        ],
+        "sourceIds": [
+          "exercise",
+          "beta-alanine-position",
+          "beta-alanine-meta",
+          "beta-alanine-safety"
+        ]
+      }
+    },
+    "intakeGuide": {
+      "kind": "optional-performance",
+      "summary": "No nutritional RDA. A studied daily protocol is relevant to selected repeated high-intensity demands, not all athletes.",
+      "targets": [
+        {
+          "key": "betaAlanineMg",
+          "label": "Beta-alanine",
+          "min": 4,
+          "max": 6,
+          "unit": "g",
+          "basis": "supplement-daily",
+          "perKg": false,
+          "profileIds": [
+            "hybrid",
+            "endurance"
+          ],
+          "sex": "any",
+          "minAge": 19,
+          "maxAge": null,
+          "referenceType": "studied-protocol",
+          "notes": "Optional chronic protocol in divided doses for at least 2–4 weeks, especially relevant to hard efforts around 1–4 minutes. Not a per-workout dose or a universal endurance need; tingling is not evidence of benefit.",
+          "sourceIds": [
+            "beta-alanine-position"
+          ]
+        }
+      ],
+      "limits": [],
+      "notes": [
+        "No automatic dose increase is assigned for training frequency or experience."
+      ],
+      "sourceIds": [
+        "beta-alanine-position"
+      ],
+      "reviewed": "2026-11-17"
+    },
+    "medicalGuide": {
+      "summary": "Condition-specific evidence, separate from sports benefits and purchase priority.",
+      "conditions": [
+        {
+          "condition": "Chronic fatigue, weakness or cramps",
+          "level": "insufficient",
+          "findings": "A buffering effect during selected exercise tasks does not establish treatment for a medical cause of these symptoms.",
+          "limits": "Beta-alanine is not an established treatment for a disease causing weakness, chronic fatigue or cramps. Physiological buffering and a workout effect are different from treatment of a medical problem.",
+          "sourceIds": [
+            "exercise",
+            "beta-alanine-position",
+            "beta-alanine-meta",
+            "beta-alanine-safety"
+          ]
+        }
+      ],
+      "reviewed": "2026-11-17"
+    },
+    "pathway": {
+      "title": "Beta-alanine builds the muscle carnosine buffer",
+      "summary": "Beta-alanine combines with histidine to make carnosine. Repeated intake can raise muscle carnosine, which helps buffer hydrogen ions inside muscle cells.",
+      "tracks": [
+        {
+          "label": "Building a buffer over time",
+          "steps": [
+            {
+              "label": "Beta-alanine becomes available to muscle",
+              "detail": "Absorbed beta-alanine supplies a precursor that can limit the rate of muscle carnosine synthesis.",
+              "compartment": "Muscle",
+              "icon": "muscle"
+            },
+            {
+              "label": "Histidine and beta-alanine form carnosine",
+              "detail": "Carnosine synthetase joins the two amino acids; muscle carnosine rises with sustained, adequate beta-alanine exposure.",
+              "compartment": "Muscle",
+              "icon": "molecule"
+            },
+            {
+              "label": "Carnosine buffers intracellular hydrogen ions",
+              "detail": "This buffering contributes to pH regulation during intense exercise as hydrogen ions accumulate.",
+              "compartment": "Muscle",
+              "icon": "energy"
+            }
+          ]
+        }
+      ],
+      "caveat": "Tingling is a separate sensory side effect, not proof of carnosine loading or effectiveness. The pathway does not imply a benefit for every exercise duration.",
+      "sourceIds": [
+        "beta-alanine-position",
+        "beta-alanine-safety"
+      ]
+    }
+  }
+}

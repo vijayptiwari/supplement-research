@@ -1,0 +1,307 @@
+{
+  "schemaVersion": 1,
+  "order": 15,
+  "category": {
+    "id": "bcaa",
+    "label": "BCAA",
+    "file": "bcaa.json",
+    "page": "bcaa.html",
+    "measurement": "units",
+    "supportsPowder": true,
+    "mainNutrient": "bcaaMg",
+    "referenceQuantity": 1000,
+    "referenceUnit": "mg",
+    "compoundLabel": "labelled BCAAs",
+    "nutrientFields": [
+      {
+        "key": "bcaaMg",
+        "label": "BCAA total",
+        "unit": "mg",
+        "table": true
+      },
+      {
+        "key": "leucineMg",
+        "label": "Leucine",
+        "unit": "mg",
+        "table": true,
+        "costQuantity": 1000
+      },
+      {
+        "key": "isoleucineMg",
+        "label": "Isoleucine",
+        "unit": "mg",
+        "table": true,
+        "costQuantity": 1000
+      },
+      {
+        "key": "valineMg",
+        "label": "Valine",
+        "unit": "mg",
+        "table": true,
+        "costQuantity": 1000
+      }
+    ],
+    "comparisonNote": "BCAA totals include leucine, isoleucine and valine only. Powder weight, flavouring and electrolytes are not BCAA mass. Ratios and total amounts remain separate; BCAAs are a subset of EAAs and are not a complete protein.",
+    "searchAliases": [
+      "branched chain amino acids",
+      "branched chain",
+      "bcaas"
+    ]
+  },
+  "catalog": {
+    "checked": "2026-11-20",
+    "category": "bcaa"
+  },
+  "guide": {
+    "id": "bcaa-guide",
+    "category": "bcaa",
+    "title": "BCAA: three amino acids within a larger protein requirement",
+    "summary": "Leucine, isoleucine and valine are three of the nine essential amino acids. They are already supplied by complete dietary protein.",
+    "evidence": "An acute trial in ten trained men found greater muscle-protein synthesis than placebo after exercise. A later evidence review reports a smaller synthesis response than with complete protein. This does not establish extra long-term muscle gain when adequate protein is already consumed.",
+    "limitations": "A short-term synthesis signal, less soreness and improved athletic performance are different outcomes. Results vary across studies and do not prove that a larger leucine ratio or more expensive blend is superior.",
+    "catalogReading": "Use the verified total of leucine, isoleucine and valine per label serving; total powder weight can include flavouring or other ingredients. A ratio such as 2:1:1 describes proportions, not grams or proven efficacy. BCAA are a subset of EAA and overlap with complete protein.",
+    "safety": "Do not substitute a BCAA drink for meals or prescribed nutrition. People with a metabolic disorder or prescribed amino-acid/protein restriction need individual advice. Review co-ingredients, allergens and stimulant content separately; short trials do not establish indefinite safety for every formulation.",
+    "sourceIds": [
+      "exercise",
+      "bcaa-trial",
+      "bcaa-review",
+      "eaa-position",
+      "food-performance-protein",
+      "food-performance-amino-acids",
+      "food-usda-sr28",
+      "supplement-quality-ods"
+    ],
+    "reviewed": "2026-11-18",
+    "author": "Supplement Research editorial synthesis",
+    "bodySteps": [
+      "Free-form BCAA are absorbed as amino acids and reach tissues, including skeletal muscle.",
+      "Leucine can activate signals involved in making muscle protein, and BCAA can also be metabolized as fuel.",
+      "Building new protein requires the other essential amino acids as well; a signal from leucine does not supply the missing building blocks."
+    ],
+    "bodySources": [
+      "bcaa-review",
+      "eaa-position"
+    ],
+    "treatment": "Retail BCAA are not a cure for muscle loss, fatigue or liver disease. Clinical nutrition protocols for particular illnesses use different evidence and monitoring.",
+    "whoMayBenefit": "Someone with a specific sports-nutrition question can review total dietary protein and all nine EAA first. The selected evidence does not establish a routine advantage from adding BCAA on top of adequate complete protein.",
+    "routineUse": "Essential amino acids are necessary in the diet, but a separate BCAA supplement is optional. Review overlap among food, protein powder, EAA and BCAA before assuming all belong in a stack.",
+    "sectionSources": [
+      "exercise",
+      "bcaa-trial",
+      "bcaa-review",
+      "eaa-position"
+    ],
+    "buyingGuide": {
+      "whoCanConsider": [
+        "Healthy adult exercisers can assess an optional BCAA drink after total protein intake is known, while recognizing that separate BCAA may add little.",
+        "Adults comparing protein, EAA and BCAA can use the ingredient profile to identify overlap instead of assuming all three products are necessary."
+      ],
+      "whoShouldReview": [
+        "Anyone with an inherited amino-acid disorder or a prescribed protein/amino-acid restriction needs specialist advice.",
+        "People with unexplained muscle loss, persistent fatigue or a medical nutrition problem need assessment of the cause and full intake.",
+        "Check allergens and any stimulants or other actives in a mixed product rather than assuming a BCAA label covers their safety."
+      ],
+      "foodSummary": "Leucine, isoleucine and valine occur within food proteins. Complete proteins and a varied plant-protein diet supply them together with the other essential amino acids.",
+      "foods": [
+        {
+          "name": "Lentils, mature seeds, cooked, boiled, without salt",
+          "relationship": "direct",
+          "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": "USDA NDB 16070",
+          "amounts": [
+            {
+              "nutrient": "BCAA (leucine + isoleucine + valine)",
+              "min": 1.492,
+              "max": null,
+              "unit": "g",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "100 g edible food"
+              },
+              "sourceIds": [
+                "food-usda-sr28"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Egg, whole, cooked, hard-boiled",
+          "relationship": "direct",
+          "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": "USDA NDB 01129",
+          "amounts": [
+            {
+              "nutrient": "BCAA (leucine + isoleucine + valine)",
+              "min": 2.528,
+              "max": null,
+              "unit": "g",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "100 g edible food"
+              },
+              "sourceIds": [
+                "food-usda-sr28"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Chicken, broilers or fryers, breast, meat only, cooked, roasted",
+          "relationship": "direct",
+          "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": "USDA NDB 05064",
+          "amounts": [
+            {
+              "nutrient": "BCAA (leucine + isoleucine + valine)",
+              "min": 5.505,
+              "max": null,
+              "unit": "g",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "100 g edible food"
+              },
+              "sourceIds": [
+                "food-usda-sr28"
+              ]
+            }
+          ]
+        }
+      ],
+      "foodSourceIds": [
+        "food-performance-protein",
+        "food-performance-amino-acids",
+        "bcaa-review",
+        "eaa-position",
+        "food-usda-sr28"
+      ],
+      "value": {
+        "routineScore": 1,
+        "targetedScore": 1,
+        "targetedUse": "Trying to address an identified dietary protein shortfall or add muscle-building benefit once complete protein needs are met.",
+        "reason": "BCAA alone provide only three essential amino acids and are a poor way to correct a full protein gap. An acute synthesis signal does not establish extra long-term gains on top of adequate complete protein.",
+        "worthWhen": [
+          "There is a specific reason for the beverage format and the buyer understands that buying a BCAA ingredient is optional, not a demonstrated complete recovery strategy."
+        ],
+        "skipWhen": [
+          "The purpose is to replace complete protein, meals or all-nine-EAA intake.",
+          "Food or a suitable complete protein already covers requirements, or EAA already supplies the same BCAA.",
+          "A high leucine ratio is being treated as proof of superior muscle gain."
+        ],
+        "evidence": "limited",
+        "scope": "Healthy-adult fitness buying; this low score applies to isolated BCAA, not to the nutritional importance of their amino acids or to specialist clinical nutrition.",
+        "sourceIds": [
+          "exercise",
+          "bcaa-trial",
+          "bcaa-review",
+          "eaa-position"
+        ]
+      },
+      "reviewed": "2026-11-18",
+      "practices": {
+        "dos": [
+          {
+            "title": "Check complete protein first",
+            "detail": "Review food, protein powders and EAA products before buying a drink that duplicates the same amino acids."
+          },
+          {
+            "title": "Find the actual BCAA amount",
+            "detail": "Read verified leucine, isoleucine and valine per label serving rather than the powder's total weight."
+          }
+        ],
+        "donts": [
+          {
+            "title": "Don't use a ratio as proof",
+            "detail": "A leucine ratio describes proportions, not the grams supplied or proven superiority for muscle gain."
+          },
+          {
+            "title": "Don't replace complete nutrition",
+            "detail": "BCAA are three essential amino acids, not a substitute for all nine EAA, complete protein, meals or prescribed nutrition."
+          }
+        ],
+        "sourceIds": [
+          "exercise",
+          "bcaa-trial",
+          "bcaa-review",
+          "eaa-position"
+        ]
+      }
+    },
+    "intakeGuide": {
+      "kind": "no-established-target",
+      "summary": "No separate routine BCAA supplement target. Total complete protein supplies these three essential amino acids.",
+      "targets": [],
+      "limits": [],
+      "notes": [
+        "No automatic dose increase is assigned for training frequency or experience."
+      ],
+      "sourceIds": [
+        "exercise",
+        "bcaa-trial",
+        "bcaa-review",
+        "eaa-position"
+      ],
+      "reviewed": "2026-11-17"
+    },
+    "medicalGuide": {
+      "summary": "Condition-specific evidence, separate from sports benefits and purchase priority.",
+      "conditions": [
+        {
+          "condition": "Muscle wasting or liver disease",
+          "level": "insufficient",
+          "findings": "Gym BCAA products are not established treatment. Specialist clinical nutrition is a separate context from the retail stack reviewed here.",
+          "limits": "Retail BCAA are not a cure for muscle loss, fatigue or liver disease. Clinical nutrition protocols for particular illnesses use different evidence and monitoring.",
+          "sourceIds": [
+            "exercise",
+            "bcaa-trial",
+            "bcaa-review",
+            "eaa-position"
+          ]
+        }
+      ],
+      "reviewed": "2026-11-17"
+    },
+    "pathway": {
+      "title": "A leucine signal still needs building blocks",
+      "summary": "BCAA provides leucine, isoleucine and valine. Leucine can help signal protein synthesis, but muscle needs the full essential-amino-acid supply to build protein.",
+      "tracks": [
+        {
+          "label": "Signalling and the substrate requirement",
+          "steps": [
+            {
+              "label": "Three essential amino acids arrive",
+              "detail": "Absorbed leucine, isoleucine and valine enter the available amino-acid pool.",
+              "compartment": "Blood",
+              "icon": "blood"
+            },
+            {
+              "label": "Leucine helps activate nutrient signalling",
+              "detail": "Leucine availability can activate mTORC1-related signalling involved in starting muscle-protein synthesis.",
+              "compartment": "Muscle",
+              "icon": "signal"
+            },
+            {
+              "label": "Protein assembly requires every EAA",
+              "detail": "The signal cannot supply the other six essential amino acids. Protein synthesis also depends on their availability.",
+              "compartment": "Muscle",
+              "icon": "molecule"
+            }
+          ]
+        }
+      ],
+      "caveat": "Acute signalling and a short-lived synthesis response do not establish greater long-term muscle growth. Complete protein or a complete EAA mixture supplies the broader substrate set.",
+      "sourceIds": [
+        "bcaa-review",
+        "eaa-position"
+      ]
+    }
+  }
+}

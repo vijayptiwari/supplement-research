@@ -1,0 +1,2544 @@
+{
+  "sources": [
+    {
+      "id": "exercise",
+      "title": "NIH ODS: Exercise and athletic performance",
+      "url": "https://ods.od.nih.gov/factsheets/ExerciseAndAthleticPerformance-HealthProfessional/",
+      "kind": "Expert overview",
+      "summary": "Reviews evidence, label interpretation and safety for protein, creatine, arginine, BCAA, caffeine and other exercise-supplement ingredients.",
+      "limitations": "A broad reference, not an independent test of products in this catalog.",
+      "year": null,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "protein-review",
+      "title": "Morton et al.: Protein supplementation and resistance training",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28698222/",
+      "kind": "Systematic review / meta-analysis",
+      "summary": "Across 49 trials involving 1,863 participants, protein supplements modestly improved training-related gains in strength and fat-free mass.",
+      "limitations": "Healthy adults undertaking resistance training; results do not establish that one commercial brand is superior.",
+      "year": 2018,
+      "checked": "2026-10-29"
+    },
+    {
+      "id": "creatine-position",
+      "title": "Kreider et al.: ISSN creatine position stand",
+      "url": "https://link.springer.com/article/10.1186/s12970-017-0173-z",
+      "kind": "Position stand",
+      "summary": "Reviews evidence supporting creatine monohydrate for repeated high-intensity exercise and training adaptations.",
+      "limitations": "A narrative position statement, not a head-to-head trial of every form. Read the authors’ disclosed commercial relationships.",
+      "year": 2017,
+      "checked": "2026-10-29"
+    },
+    {
+      "id": "ash-overview",
+      "title": "NIH ODS: Ashwagandha for stress, anxiety and sleep",
+      "url": "https://ods.od.nih.gov/factsheets/Ashwagandha-HealthProfessional/",
+      "kind": "Expert overview",
+      "summary": "Small, short trials suggest possible improvements in stress and sleep, with substantial variation in extracts and study methods.",
+      "limitations": "Long-term safety and the best preparation remain uncertain. Liver, thyroid and medication concerns require attention.",
+      "year": null,
+      "checked": "2026-10-29"
+    },
+    {
+      "id": "ash-trial",
+      "title": "Chandrasekhar et al.: Ashwagandha root extract and stress",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3573577/",
+      "kind": "Randomized trial",
+      "summary": "A 60-day placebo-controlled study enrolled 64 adults with chronic stress and reported improved stress measures with a specific root extract.",
+      "limitations": "Small and short; findings do not establish equivalence for root powders, other extracts, or blends.",
+      "year": 2012,
+      "checked": "2026-10-29"
+    },
+    {
+      "id": "omega-overview",
+      "title": "NIH ODS: Omega-3 fatty acids",
+      "url": "https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/",
+      "kind": "Expert overview",
+      "summary": "Reviews EPA and DHA, dietary sources, cardiovascular research and safety. Outcomes depend on the preparation and clinical context.",
+      "limitations": "Prescription omega-3 treatments and ordinary retail fish oil are not interchangeable evidence.",
+      "year": null,
+      "checked": "2026-10-29"
+    },
+    {
+      "id": "omega-vital",
+      "title": "Manson et al.: Marine omega-3s in the VITAL trial",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30415637/",
+      "kind": "Randomized trial",
+      "summary": "In 25,871 US adults, marine omega-3 supplementation did not significantly lower the primary major cardiovascular-event or invasive-cancer outcomes.",
+      "limitations": "Primary prevention in older adults; secondary outcomes and other populations require separate interpretation.",
+      "year": 2019,
+      "checked": "2026-10-29"
+    },
+    {
+      "id": "d-overview",
+      "title": "NIH ODS: Vitamin D",
+      "url": "https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/",
+      "kind": "Expert overview",
+      "summary": "Explains vitamin D status, bone health, deficiency, units and evidence on supplementation.",
+      "limitations": "Correcting deficiency and routinely supplementing generally healthy adults are different questions.",
+      "year": null,
+      "checked": "2026-10-29"
+    },
+    {
+      "id": "d-vital",
+      "title": "LeBoff et al.: Vitamin D and incident fractures",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35939577/",
+      "kind": "Randomized trial",
+      "summary": "In the VITAL ancillary fracture trial, vitamin D did not significantly reduce fractures in generally healthy midlife and older adults.",
+      "limitations": "Participants were not selected for deficiency, low bone mass or osteoporosis; this does not negate treatment for a diagnosed need.",
+      "year": 2022,
+      "checked": "2026-10-29"
+    },
+    {
+      "id": "mg-overview",
+      "title": "NIH ODS: Magnesium",
+      "url": "https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/",
+      "kind": "Expert overview",
+      "summary": "Explains elemental magnesium, differences in salt forms, absorption, deficiency and safety.",
+      "limitations": "A chemical form or absorption claim alone does not prove better sleep, recovery or other clinical outcomes.",
+      "year": null,
+      "checked": "2026-10-29"
+    },
+    {
+      "id": "ca-overview",
+      "title": "NIH ODS: Calcium",
+      "url": "https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/",
+      "kind": "Expert overview",
+      "summary": "Covers calcium requirements, elemental content, bone-health research and supplement considerations.",
+      "limitations": "Benefits depend on dietary intake and population; a larger compound mass is not necessarily more elemental calcium.",
+      "year": null,
+      "checked": "2026-10-29"
+    },
+    {
+      "id": "zn-overview",
+      "title": "NIH ODS: Zinc",
+      "url": "https://ods.od.nih.gov/factsheets/Zinc-HealthProfessional/",
+      "kind": "Expert overview",
+      "summary": "Explains zinc functions, deficiency, excess intake and interactions.",
+      "limitations": "Evidence for one nutrient or indication does not validate a combined ZMC product.",
+      "year": null,
+      "checked": "2026-10-29"
+    },
+    {
+      "id": "digestion",
+      "title": "NIDDK: Your digestive system and how it works",
+      "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works",
+      "kind": "Expert overview",
+      "summary": "Explains how digestion breaks proteins into amino acids and how the small intestine absorbs nutrients.",
+      "limitations": "Basic physiology does not establish the effectiveness of a supplement or commercial product.",
+      "year": null,
+      "checked": "2026-10-29"
+    },
+    {
+      "id": "gsh-metabolism",
+      "title": "Wu et al.: Glutathione metabolism and nutritional context",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14988435/",
+      "kind": "Physiology review",
+      "summary": "Explains cellular synthesis from glutamate, cysteine and glycine, redox functions and the importance of adequate protein nutrition.",
+      "limitations": "Biological roles and disease associations do not establish that oral supplementation improves clinical outcomes.",
+      "year": 2004,
+      "checked": "2026-10-31"
+    },
+    {
+      "id": "gsh-stores",
+      "title": "Richie et al.: Oral glutathione and body stores",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24791752/",
+      "kind": "Randomized trial",
+      "summary": "A six-month placebo-controlled study in 54 healthy nonsmokers reported higher glutathione concentrations in several sampled body compartments.",
+      "limitations": "Biomarker changes do not establish disease prevention, a detox treatment or benefit for every formulation.",
+      "year": 2015,
+      "checked": "2026-10-31"
+    },
+    {
+      "id": "gsh-oxidative",
+      "title": "Allen and Bradley: Oral glutathione and oxidative-stress markers",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21875351/",
+      "kind": "Randomized trial",
+      "summary": "Forty healthy adults entered a four-week placebo-controlled study; glutathione status and measured oxidative-stress markers did not significantly improve.",
+      "limitations": "Short follow-up and healthy volunteers limit generalization; this trial and longer studies address different exposure periods.",
+      "year": 2011,
+      "checked": "2026-10-31"
+    },
+    {
+      "id": "gsh-skin",
+      "title": "Arjinpathana and Asawanonda: Oral glutathione and skin melanin indices",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20524875/",
+      "kind": "Randomized trial",
+      "summary": "A four-week trial in 60 healthy medical students found statistically greater melanin-index reductions than placebo at two of six measured sites.",
+      "limitations": "A small cosmetic study does not establish lasting skin-lightening, treatment of a pigmentation disorder or long-term safety. Published in 2012; online in 2010.",
+      "year": 2012,
+      "checked": "2026-10-31"
+    },
+    {
+      "id": "gsh-skin-2026",
+      "title": "Kusumawardani et al.: S-acetyl versus reduced glutathione for skin measures",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/jocd.71223",
+      "kind": "Randomized trial",
+      "summary": "A 12-week study randomized 90 women to S-acetyl glutathione, reduced glutathione or placebo. Some melanin-index analyses favored treatment, while measured pigmentation scores and blood glutathione did not differ significantly between groups.",
+      "limitations": "Baseline melanin indices differed; the small, selected population, short follow-up and mixed outcomes limit claims of general or lasting superiority.",
+      "year": 2026,
+      "checked": "2026-10-31"
+    },
+    {
+      "id": "melatonin-overview",
+      "title": "NCCIH: Melatonin, usefulness and safety",
+      "url": "https://www.nccih.nih.gov/health/melatonin-what-you-need-to-know",
+      "kind": "Expert overview",
+      "summary": "Distinguishes circadian uses such as jet lag from chronic insomnia, and reviews adverse effects, medicine interactions and limited long-term safety data.",
+      "limitations": "This US reference does not establish Indian regulatory status, prove a catalog product matches its label or support unsupervised pediatric use.",
+      "year": null,
+      "checked": "2026-10-31"
+    },
+    {
+      "id": "melatonin-circadian",
+      "title": "Sletten et al.: Melatonin with behavioural scheduling for delayed sleep phase",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29912983/",
+      "kind": "Randomized trial",
+      "summary": "A four-week trial randomized 116 clinically assessed delayed-sleep-phase patients. Melatonin combined with behavioural sleep scheduling improved sleep initiation compared with placebo and scheduling.",
+      "limitations": "Selected circadian-delay patients and a combined intervention; no evidence here for every sleep complaint, catalog strength or long-term treatment.",
+      "year": 2018,
+      "checked": "2026-10-31"
+    },
+    {
+      "id": "melatonin-insomnia",
+      "title": "AASM: Pharmacologic treatment guideline for chronic insomnia in adults",
+      "url": "https://aasm.org/wp-content/uploads/2017/07/PharmacologicTreatmentofInsomnia.pdf",
+      "kind": "Clinical guideline",
+      "summary": "The guideline suggests against melatonin for adult sleep-onset or sleep-maintenance insomnia, reflecting weak and limited evidence for that indication.",
+      "limitations": "A weak recommendation addressing chronic insomnia; it is not a recommendation against all circadian-disorder uses.",
+      "year": 2017,
+      "checked": "2026-10-31"
+    },
+    {
+      "id": "melatonin-children",
+      "title": "AASM: Melatonin use in children and adolescents",
+      "url": "https://www.aasm.org/wp-content/uploads/2022/09/melatonin-children-adolescents-health-advisory.pdf",
+      "kind": "Health advisory",
+      "summary": "Recommends pediatric professional advice, attention to sleep habits, and keeping melatonin out of children's reach. Notes that supplement content can differ from labels.",
+      "limitations": "Label-variation evidence cited in the advisory is not independent testing of Indian catalog products.",
+      "year": null,
+      "checked": "2026-10-31"
+    },
+    {
+      "id": "melatonin-metabolism",
+      "title": "Lane and Moss: First-pass hepatic metabolism of melatonin",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/4055987/",
+      "kind": "Pharmacokinetic study",
+      "summary": "Analysis of human oral and intravenous data identified substantial liver extraction and reduced systemic availability after swallowing melatonin.",
+      "limitations": "An older pharmacokinetic analysis explains exposure; it does not compare modern release systems or prove clinical superiority.",
+      "year": 1985,
+      "checked": "2026-10-31"
+    },
+    {
+      "id": "melatonin-physiology",
+      "title": "NIDDK LiverTox: Melatonin physiology",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK548519/",
+      "kind": "Expert overview",
+      "summary": "Describes pineal production, night-time secretion and action at melatonin receptors involved in sleep-wake regulation.",
+      "limitations": "Physiological signalling does not by itself establish that a supplement is necessary or effective for an individual.",
+      "year": 2020,
+      "checked": "2026-10-31"
+    },
+    {
+      "id": "biotin-overview",
+      "title": "NIH ODS: Biotin, nutrition and evidence for hair claims",
+      "url": "https://ods.od.nih.gov/factsheets/Biotin-HealthProfessional/",
+      "kind": "Expert overview",
+      "summary": "Explains biotin metabolism, rare deficiency and the limited evidence behind hair, skin and nail supplement claims.",
+      "limitations": "Deficiency treatment and case reports do not establish cosmetic benefits for adequately nourished consumers.",
+      "year": null,
+      "checked": "2026-10-31"
+    },
+    {
+      "id": "biotin-lab",
+      "title": "FDA: Biotin interference with troponin laboratory tests",
+      "url": "https://www.fda.gov/medical-devices/in-vitro-diagnostics/biotin-interference-troponin-lab-tests-assays-subject-biotin-interference",
+      "kind": "Safety communication",
+      "summary": "Warns that biotin can distort susceptible laboratory assays, including falsely low troponin results used in heart-attack assessment.",
+      "limitations": "Interference depends on the assay and exposure; the page does not provide a universal safe interval before every blood test.",
+      "year": null,
+      "checked": "2026-10-31"
+    },
+    {
+      "id": "c-overview",
+      "title": "NIH ODS: Vitamin C, absorption and clinical evidence",
+      "url": "https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/",
+      "kind": "Expert overview",
+      "summary": "Reviews dose-dependent absorption, physiological roles, cold research, adverse effects and medicine interactions.",
+      "limitations": "A nutrient role is not proof that a particular retail formulation prevents disease or outperforms dietary sources.",
+      "year": null,
+      "checked": "2026-10-31"
+    },
+    {
+      "id": "c-food",
+      "title": "NHS: Vitamin C, food sources and supplement cautions",
+      "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-c/",
+      "kind": "Expert overview",
+      "summary": "Describes food sources, deficiency and gastrointestinal effects of excessive supplemental vitamin C.",
+      "limitations": "UK population guidance is not an individual prescription or evidence that Indian catalog products match their labels.",
+      "year": null,
+      "checked": "2026-10-31"
+    },
+    {
+      "id": "b-family",
+      "title": "NHS: The B-vitamin family and folic acid",
+      "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-b/",
+      "kind": "Expert overview",
+      "summary": "Distinguishes individual B vitamins, their dietary roles and the risks of treating the family as one interchangeable nutrient.",
+      "limitations": "General dietary guidance does not diagnose the cause of fatigue or establish a need for a B-complex product.",
+      "year": null,
+      "checked": "2026-10-31"
+    },
+    {
+      "id": "b12-overview",
+      "title": "NIH ODS: Vitamin B12 absorption and deficiency risk",
+      "url": "https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/",
+      "kind": "Expert overview",
+      "summary": "Explains intrinsic-factor-dependent absorption, deficiency, plant-based dietary risk, gastrointestinal causes and medicine effects.",
+      "limitations": "Risk factors do not diagnose deficiency; oral retail products are not a substitute for assessing absorption disorders or neurological symptoms.",
+      "year": null,
+      "checked": "2026-10-31"
+    },
+    {
+      "id": "b6-overview",
+      "title": "NIH ODS: Vitamin B6 and excessive-intake neuropathy",
+      "url": "https://ods.od.nih.gov/factsheets/VitaminB6-HealthProfessional/",
+      "kind": "Expert overview",
+      "summary": "Reviews vitamin B6 functions, medicines and sensory-nerve injury associated with excessive supplemental exposure.",
+      "limitations": "Upper limits differ between authorities and are not treatment targets. Total intake from overlapping products matters.",
+      "year": null,
+      "checked": "2026-10-31"
+    },
+    {
+      "id": "b3-overview",
+      "title": "NIH ODS: Niacin forms and high-intake safety",
+      "url": "https://ods.od.nih.gov/factsheets/Niacin-HealthProfessional/",
+      "kind": "Expert overview",
+      "summary": "Distinguishes nicotinic acid from nicotinamide and explains flushing, other adverse effects and medically supervised uses.",
+      "limitations": "Different niacin forms have different effects. Supplement pricing does not establish treatment equivalence or justify high-dose use.",
+      "year": null,
+      "checked": "2026-10-31"
+    },
+    {
+      "id": "folate-overview",
+      "title": "NIH ODS: Folate forms, dietary folate equivalents and safety",
+      "url": "https://ods.od.nih.gov/factsheets/Folate-HealthProfessional/",
+      "kind": "Expert overview",
+      "summary": "Explains food folate, folic acid and 5-MTHF; dietary folate equivalents reflect a different basis from ingredient mass.",
+      "limitations": "DFE conversion depends on context, and established conversion factors for supplemental 5-MTHF are lacking. Forms are not treated as identical in the catalog.",
+      "year": null,
+      "checked": "2026-10-31"
+    },
+    {
+      "id": "folate-prevention",
+      "title": "CDC: Folic acid and prevention of neural tube defects",
+      "url": "https://www.cdc.gov/folic-acid/about/",
+      "kind": "Public health guidance",
+      "summary": "Recommends folic acid for women who could become pregnant and identifies it as the folate form shown to prevent neural tube defects.",
+      "limitations": "This general public-health recommendation is not an individual pregnancy plan or proof that every folate form has the same prevention evidence.",
+      "year": null,
+      "checked": "2026-10-31"
+    },
+    {
+      "id": "biotin-metabolic",
+      "title": "GeneReviews: Biotinidase deficiency and targeted care",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1322/",
+      "kind": "Clinical reference",
+      "summary": "Describes diagnosis and specialist treatment of an inherited biotin-recycling disorder.",
+      "limitations": "Lifelong therapy for a diagnosed genetic disorder does not support routine high-strength biotin for cosmetic concerns.",
+      "year": 2026,
+      "checked": "2026-10-31"
+    },
+    {
+      "id": "c-cold-review",
+      "title": "Hemila and Chalker: Vitamin C for preventing and treating the common cold",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23440782/",
+      "kind": "Systematic review",
+      "summary": "Placebo-controlled trial synthesis found no general-population reduction in cold incidence, with modestly shorter colds during regular supplementation.",
+      "limitations": "Trials differ in population and protocol; these findings do not establish prevention by every formulation or benefit from starting after symptoms begin.",
+      "year": 2013,
+      "checked": "2026-10-31"
+    },
+    {
+      "id": "arginine-meta",
+      "title": "Viribay et al.: Arginine and exercise-performance meta-analysis",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32370176/",
+      "kind": "Systematic review / meta-analysis",
+      "summary": "A 2020 synthesis reported pooled performance improvements across selected arginine trials.",
+      "limitations": "Protocols and participants differed, aerobic results were heterogeneous, and a 2025 commentary identified calculation and analysis problems. Read the commentary and authors' reply alongside the original.",
+      "year": 2020,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "arginine-methods",
+      "title": "Trexler: Methodological critique of the arginine meta-analysis",
+      "url": "https://www.mdpi.com/2072-6643/17/14/2375",
+      "kind": "Methodological commentary",
+      "summary": "Identifies potential errors involving outliers, standard errors versus standard deviations, mixed effect-size methods and dependent outcomes in the 2020 analysis.",
+      "limitations": "A critique of one synthesis, not a new randomized trial or proof that every possible arginine use is ineffective.",
+      "year": 2025,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "arginine-reply",
+      "title": "Viribay et al.: Reply to the arginine meta-analysis critique",
+      "url": "https://www.mdpi.com/2072-6643/17/14/2376",
+      "kind": "Author reply",
+      "summary": "The authors acknowledge the importance of the identified data-handling problems and describe improved approaches in subsequent work.",
+      "limitations": "The reply does not supply a corrected pooled arginine-performance estimate that resolves the original result.",
+      "year": 2025,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "arginine-mi",
+      "title": "Schulman et al.: VINTAGE MI arginine trial after heart attack",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16391217/",
+      "kind": "Randomized trial",
+      "summary": "A trial of 153 patients following acute myocardial infarction found no improvement in the measured vascular or cardiac outcomes and raised a mortality safety concern.",
+      "limitations": "A specific post-heart-attack population; this does not quantify risk for healthy athletes, but it argues against unsupervised post-infarction use.",
+      "year": 2006,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "carnitine-overview",
+      "title": "NIH ODS: Carnitine, nutritional roles and supplement evidence",
+      "url": "https://ods.od.nih.gov/factsheets/Carnitine-HealthProfessional/",
+      "kind": "Expert overview",
+      "summary": "Explains endogenous synthesis, mitochondrial fatty-acid transport, deficiency states, mixed clinical findings and gastrointestinal, medication and other safety considerations.",
+      "limitations": "The physiological role is not proof of fat loss from a retail supplement. Clinical uses and healthy-adult sports marketing address different questions.",
+      "year": null,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "carnitine-weight",
+      "title": "L-carnitine and body composition: 37-trial meta-analysis",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32359762/",
+      "kind": "Systematic review / meta-analysis",
+      "summary": "The 2020 analysis found a small average reduction in body weight, with no significant change in waist circumference or body-fat percentage overall.",
+      "limitations": "Results vary across participants and protocols and do not demonstrate rapid fat burning, a guaranteed response or superiority of a branded form.",
+      "year": 2020,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "bcaa-trial",
+      "title": "Jackman et al.: BCAA and acute post-exercise muscle protein synthesis",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28638350/",
+      "kind": "Randomized trial",
+      "summary": "In ten resistance-trained young men, BCAA increased an acute muscle-protein-synthesis measure compared with a placebo after resistance exercise.",
+      "limitations": "An acute physiological endpoint with a placebo comparator; this does not establish long-term muscle gain, superiority to complete protein or benefit on top of an adequate diet.",
+      "year": 2017,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "bcaa-review",
+      "title": "Kaspy et al.: BCAA signalling and muscle-protein turnover",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37681443/",
+      "kind": "Evidence review",
+      "summary": "BCAA can stimulate signalling and transient protein synthesis, but the synthesis response is smaller than that observed with a complete protein supplying all indispensable amino acids.",
+      "limitations": "A narrative review of physiological studies; a signal or short-term synthesis change does not establish improved long-term performance. Published in 2024, online in 2023.",
+      "year": 2024,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "eaa-position",
+      "title": "Ferrando et al.: ISSN essential-amino-acid position stand",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37800468/",
+      "kind": "Position stand",
+      "summary": "Reviews how all nine essential amino acids support muscle-protein synthesis and potential uses in exercise, ageing and selected clinical or low-intake settings.",
+      "limitations": "A position statement rather than a brand comparison. Acute synthesis findings are not equivalent to long-term strength gains; read the disclosed commercial relationships and patents.",
+      "year": 2023,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "preworkout-review",
+      "title": "Harty et al.: Multi-ingredient pre-workout evidence and safety",
+      "url": "https://link.springer.com/article/10.1186/s12970-018-0247-6",
+      "kind": "Evidence review",
+      "summary": "Some tested blends improved selected endurance, mood or training outcomes, while findings for force and power were mixed. Undisclosed ingredient amounts make comparison difficult.",
+      "limitations": "Formulas differ substantially and most safety studies were shorter than eight weeks. Results for a tested blend do not validate every pre-workout or establish long-term safety.",
+      "year": 2018,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "caffeine-position",
+      "title": "Guest et al.: ISSN caffeine and exercise-performance position stand",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33388079/",
+      "kind": "Position stand",
+      "summary": "Caffeine can improve some exercise outcomes, especially endurance, but responses differ and adverse effects can include disturbed sleep and anxiety.",
+      "limitations": "Evidence for caffeine does not establish that every multi-ingredient product is effective or appropriate. Read the authors' disclosed commercial relationships.",
+      "year": 2021,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "preworkout-dryscoop",
+      "title": "American Academy of Pediatrics: Dry scooping and pre-workout risks",
+      "url": "https://www.healthychildren.org/English/tips-tools/ask-the-pediatrician/Pages/My-16-year-old-started-using-a-supplement-before-working-out-dry-scooping.aspx",
+      "kind": "Expert overview",
+      "summary": "Explains choking and inhalation risks from swallowing dry powder, caffeine concerns, and why pre-workout products are inappropriate shortcuts for young athletes.",
+      "limitations": "US pediatric guidance does not establish Indian regulatory status or the contents of a particular catalog product.",
+      "year": null,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "carnitine-physiology",
+      "title": "Linus Pauling Institute: Carnitine metabolism and forms",
+      "url": "https://lpi.oregonstate.edu/mic/dietary-factors/L-carnitine",
+      "kind": "Expert overview",
+      "summary": "Describes synthesis, intestinal absorption, kidney conservation and the mitochondrial carnitine shuttle, and distinguishes L-carnitine from its derivatives.",
+      "limitations": "Last scientific review shown is December 2019. Physiological and absorption differences do not establish a retail product's clinical superiority. Supplement and prescribed-treatment contexts differ.",
+      "year": 2019,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "eaa-deficit-trial",
+      "title": "Gwin et al.: EAA-enriched whey during an energy deficit",
+      "url": "https://link.springer.com/article/10.1186/s12970-020-00401-5",
+      "kind": "Randomized trial",
+      "summary": "Ten young adults completed a crossover study of short-term energy deficits. EAA-enriched whey improved acute whole-body protein balance relative to comparators, while measured mixed-muscle protein synthesis did not differ.",
+      "limitations": "A small, acute study in a specific underfeeding setting, using an EAA-plus-whey blend. It does not demonstrate extra long-term muscle gain from every EAA-only product.",
+      "year": 2021,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "citrulline-meta",
+      "title": "Wang et al.: Citrulline malate exercise-performance synthesis",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42356270/",
+      "kind": "Systematic review / meta-analysis",
+      "summary": "A June 2026 synthesis of 30 trials and 644 participants found a small pooled performance effect and no significant pooled improvement in perceived exertion.",
+      "limitations": "Certainty was low to very low, prediction intervals were wide and subgroup findings were not robust. It does not establish reliable timing, amounts or universal benefit.",
+      "year": 2026,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "citrulline-forms-trial",
+      "title": "Malate or not? L-citrulline versus citrulline malate",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39662304/",
+      "kind": "Randomized trial",
+      "summary": "A crossover trial in 43 trained adults compared placebo with L-citrulline and citrulline malate matched for delivered citrulline; the tested neuromuscular outcomes did not clearly improve.",
+      "limitations": "A specific acute protocol cannot settle every use, but it does not demonstrate an added performance advantage from malate. Published online in December 2024.",
+      "year": 2024,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "citrulline-critical",
+      "title": "A critical review of citrulline malate and exercise performance",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34417881/",
+      "kind": "Evidence review",
+      "summary": "Examines proposed arginine/nitric-oxide mechanisms, mixed exercise findings and the difficulty of interpreting citrulline-malate composition.",
+      "limitations": "Mechanisms and nominal ratios do not establish delivered L-citrulline, clinical equivalence or product superiority.",
+      "year": 2021,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "beta-alanine-position",
+      "title": "Trexler et al.: ISSN beta-alanine position stand",
+      "url": "https://link.springer.com/article/10.1186/s12970-015-0090-y",
+      "kind": "Position stand",
+      "summary": "Repeated beta-alanine use can increase muscle carnosine, with potential benefits for particular high-intensity exercise tasks. Paraesthesia is a recognized effect.",
+      "limitations": "An older position statement; effects depend on the activity and exposure period, and do not establish universal strength, muscle-gain or endurance benefits. Read commercial disclosures.",
+      "year": 2015,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "beta-alanine-meta",
+      "title": "Saunders et al.: Beta-alanine exercise meta-analysis",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27797728/",
+      "kind": "Systematic review / meta-analysis",
+      "summary": "Synthesizes exercise capacity and performance trials, finding a small overall benefit with meaningful differences between exercise tests and task durations.",
+      "limitations": "Capacity tests and competitive performance are different outcomes; a pooled effect does not establish benefit for every athlete or sport.",
+      "year": 2017,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "beta-alanine-safety",
+      "title": "Dolan et al.: Beta-alanine safety assessment",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30980076/",
+      "kind": "Systematic review / meta-analysis",
+      "summary": "Across available studies, tingling was the principal reported side effect; dropout rates were similar to placebo and human muscle taurine did not show a significant reduction.",
+      "limitations": "Safety conclusions apply to studied exposures and participants. Sparse long-term or special-population data should not be treated as proof of unlimited safety.",
+      "year": 2019,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "taurine-exercise",
+      "title": "Kurtz et al.: Taurine in sports and exercise",
+      "url": "https://link.springer.com/article/10.1186/s12970-021-00438-0",
+      "kind": "Evidence review",
+      "summary": "Reviews isolated taurine, gastrointestinal uptake, tissue and kidney regulation, and proposed calcium-handling and exercise mechanisms. Performance and recovery findings were mixed.",
+      "limitations": "Many proposed pathways rely on preclinical work; studies of isolated taurine cannot establish the benefit or safety of a caffeinated energy-drink blend.",
+      "year": 2021,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "taurine-meta",
+      "title": "Deng et al.: Acute taurine exercise meta-analysis",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40852891/",
+      "kind": "Systematic review / meta-analysis",
+      "summary": "A 2025 review of 23 randomized trials reported a small overall exercise effect, with inconsistent findings across tasks and sensitivity analyses.",
+      "limitations": "Evidence certainty was low to very low, and prediction intervals often included no effect. These short studies do not establish universal or long-term benefits.",
+      "year": 2025,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "betaine-meta",
+      "title": "Zawieja et al.: Chronic betaine and exercise performance",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39514262/",
+      "kind": "Systematic review / meta-analysis",
+      "summary": "Seventeen studies involving 317 participants showed a pooled maximal-strength benefit, especially in lower-body measures, but not consistent improvements in upper-body strength, cycling sprint power or muscular endurance.",
+      "limitations": "Small studies and different outcomes limit certainty. Anhydrous betaine findings do not establish digestive benefits for betaine hydrochloride.",
+      "year": 2024,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "betaine-endurance",
+      "title": "Betaine and endurance performance: a systematic review",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40765066/",
+      "kind": "Systematic review",
+      "summary": "A 2025 synthesis found only five eligible endurance studies and judged all to have high risk of bias. Some outcomes improved, but the overall evidence remained inconclusive.",
+      "limitations": "Sparse heterogeneous studies do not identify a dependable endurance benefit or prove that a change in a physiological marker improves sport performance.",
+      "year": 2025,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "betaine-hcl-trial",
+      "title": "Yago et al.: Betaine HCl and experimentally raised gastric pH",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23980906/",
+      "kind": "Clinical pharmacology study",
+      "summary": "A small healthy-volunteer experiment found that betaine hydrochloride temporarily lowered gastric pH after acid-suppressing medication had raised it.",
+      "limitations": "An experimentally induced pH change is not proof of improved digestion, symptom relief, a diagnosis of low stomach acid or improved exercise performance.",
+      "year": 2013,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "betaine-medical",
+      "title": "EMA: Betaine anhydrous in specialist homocystinuria care",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/cystadane",
+      "kind": "Medicines assessment",
+      "summary": "Explains betaine-mediated conversion of homocysteine to methionine and its use alongside other treatment in a specific inherited disease. Specialist monitoring is required.",
+      "limitations": "A European medicine assessment, not a recommendation for a retail workout product, Indian regulatory guidance or evidence that healthy people need supplementation.",
+      "year": null,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "hmb-position",
+      "title": "Rathmacher et al.: Updated ISSN HMB position stand",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/15502783.2024.2434734",
+      "kind": "Position stand",
+      "summary": "Reviews HMB as a leucine metabolite, calcium and free-acid forms, protein-turnover mechanisms and studies in varied training and clinical settings.",
+      "limitations": "Its conclusions differ from some meta-analyses. Read population-specific results and the authors' disclosed industry affiliations and commercial relationships. Published online in December 2024, in the 2025 volume.",
+      "year": 2025,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "hmb-young-meta",
+      "title": "Jakubowski et al.: HMB with resistance training in younger adults",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7285233/",
+      "kind": "Systematic review / meta-analysis",
+      "summary": "The 2020 analysis found no additional overall improvements in body composition or strength from HMB alongside resistance training in adults aged 18 to 45.",
+      "limitations": "Study selection and methods have been debated. These results do not settle every clinical or nutritional context, and they do not test every commercial formulation.",
+      "year": 2020,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "hmb-older-meta",
+      "title": "Wang et al.: HMB as an adjunct to training in older adults",
+      "url": "https://academic.oup.com/ageing/article/55/3/afag073/8586702",
+      "kind": "Systematic review / meta-analysis",
+      "summary": "Published in April 2026, this synthesis of 13 trials and 561 participants found no overall added improvement in muscle mass, fat mass or strength in adults aged 50 and over.",
+      "limitations": "Health status, interventions and strength outcomes differed across trials. A pooled result in people undertaking exercise cannot be generalized to every patient with malnutrition or immobility.",
+      "year": 2026,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "food-protein",
+      "title": "NHS: The Eatwell Guide and ordinary protein foods",
+      "url": "https://www.nhs.uk/live-well/eat-well/food-guidelines-and-food-labels/the-eatwell-guide/",
+      "kind": "Public health guidance",
+      "summary": "Identifies pulses, fish, eggs, meat and dairy foods within a varied dietary pattern.",
+      "limitations": "UK population food guidance; examples do not specify an individual's protein needs or Indian product composition.",
+      "year": null,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "food-protein-vegetarian",
+      "title": "NHS: Vegetarian diet and protein variety",
+      "url": "https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/the-vegetarian-diet/",
+      "kind": "Public health guidance",
+      "summary": "Explains vegetarian protein foods, including pulses, tofu, eggs and dairy, and the role of dietary variety.",
+      "limitations": "A general dietary overview, not a comparison of commercial isolates or a measured nutrient analysis of every preparation.",
+      "year": null,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "food-kidney-diet",
+      "title": "NIDDK: Healthy eating for adults with chronic kidney disease",
+      "url": "https://www.niddk.nih.gov/health-information/kidney-disease/chronic-kidney-disease-ckd/healthy-eating-adults-chronic-kidney-disease",
+      "kind": "Clinical public guidance",
+      "summary": "Explains why protein, mineral and fluid choices in kidney disease need an individualized nutrition plan.",
+      "limitations": "Kidney-disease guidance must not be extrapolated into a claim that ordinary protein intake harms healthy kidneys.",
+      "year": null,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "food-allergens",
+      "title": "FDA: Food allergies, ingredient identification and avoidance",
+      "url": "https://www.fda.gov/food/buy-store-serve-safe-food/food-allergies-what-you-need-know",
+      "kind": "Public health guidance",
+      "summary": "Identifies major food allergens and the importance of recognizing allergenic ingredients, including milk-derived whey.",
+      "limitations": "US labelling law is not an assertion about Indian regulatory compliance; check each actual product and individual allergy advice.",
+      "year": null,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "food-omega3",
+      "title": "NCCIH: Omega-3 foods, supplements and clinical limits",
+      "url": "https://www.nccih.nih.gov/health/omega3-supplements-what-you-need-to-know",
+      "kind": "Expert overview",
+      "summary": "Distinguishes seafood EPA/DHA from plant ALA and reviews supplement evidence and safety concerns.",
+      "limitations": "Food examples do not assign a supplement-equivalent amount; prescription therapies and ordinary retail fish oil are distinct contexts.",
+      "year": null,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "food-vitamin-d",
+      "title": "NIH ODS: Vitamin D foods and fortified products",
+      "url": "https://ods.od.nih.gov/factsheets/VitaminD-Consumer/",
+      "kind": "Public health guidance",
+      "summary": "Explains naturally occurring food sources, variable fortification, mushroom vitamin D and the need to check product labels.",
+      "limitations": "Food examples are not standardized treatment doses. Fortification practices described in the US are not assumed for Indian milk or plant drinks.",
+      "year": null,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "food-gsh-protein-healthcanada",
+      "title": "Health Canada: Ordinary protein foods in a varied diet",
+      "url": "https://www.canada.ca/en/health-canada/services/food-guide/explore/healthy-eating-recommendations/eat-variety/eat-proteins.html",
+      "kind": "Public health food guidance",
+      "summary": "Lists beans, lentils, soy foods, eggs, fish, poultry, nuts, seeds and dairy as protein foods, and notes the need for reliable fortified B12 sources in a plant-only diet.",
+      "limitations": "Food examples support adequate protein nutrition; the guidance does not measure glutathione precursor doses or prove that a food is clinically equivalent to a glutathione supplement.",
+      "year": 2026,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "food-melatonin-cherries-burkhardt",
+      "title": "Burkhardt et al.: Melatonin measured in two tart-cherry cultivars",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11600041/",
+      "kind": "Food composition study",
+      "summary": "Laboratory analysis detected melatonin in fresh-frozen Montmorency and Balaton tart cherries, with different concentrations between the cultivars.",
+      "limitations": "An analysis of particular fruit samples does not establish predictable content in all cherries, a supplement-equivalent intake or clinical treatment of insomnia.",
+      "year": 2001,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "food-performance-protein",
+      "title": "FDA: Dietary protein, amino acids and food sources",
+      "url": "https://www.accessdata.fda.gov/scripts/InteractiveNutritionFactsLabel/assets/InteractiveNFL_Protein_October2021.pdf",
+      "kind": "Government nutrition reference",
+      "summary": "Lists animal and plant protein foods and explains complete and complementary amino-acid profiles.",
+      "limitations": "Used for food-source context, not a personalized intake plan, an amino-acid supplement prescription or evidence that every Indian diet is adequate.",
+      "year": 2021,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "food-performance-amino-acids",
+      "title": "MedlinePlus: Essential amino acids and dietary variety",
+      "url": "https://www.medlineplus.gov/ency/article/002222.htm",
+      "kind": "Government health reference",
+      "summary": "Explains the nine essential amino acids, protein digestion and the value of dietary variety over the day.",
+      "limitations": "Does not compare supplement brands, establish an intake gap or require complementary plant foods to be paired at one meal.",
+      "year": null,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "food-performance-watermelon",
+      "title": "Collins et al.: Watermelon as a dietary citrulline source",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17352962/",
+      "kind": "Human food study",
+      "summary": "A controlled feeding study used watermelon juice as a natural citrulline source and measured circulating amino-acid responses.",
+      "limitations": "A biomarker study, not proof of improved exercise performance. Ordinary fruit or juice is not assumed to match an isolated L-citrulline or citrulline-malate serving.",
+      "year": 2007,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "food-performance-bioactives",
+      "title": "Wu: Food taurine, creatine and carnosine composition",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7088015/",
+      "kind": "Food composition review",
+      "summary": "Describes taurine and beta-alanine-containing dipeptides such as carnosine and anserine in animal-source foods.",
+      "limitations": "Used here only for food composition and molecular-form distinctions. The article's broader health claims are not adopted as proof of routine supplement need, disease prevention or vegetarian-diet deficiency.",
+      "year": 2020,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "food-performance-betaine",
+      "title": "USDA ARS: Betaine concentrations in common foods",
+      "url": "https://www.ars.usda.gov/ARSUserFiles/80400525/Articles/IFT2004_Betaine.pdf",
+      "kind": "Government food composition research",
+      "summary": "Identifies dietary betaine sources including wheat bran, wheat germ, spinach and beets from food-composition analysis.",
+      "limitations": "Older US composition research is used qualitatively; no food amounts, Indian cultivar values, exercise benefits or betaine-HCl equivalence are inferred.",
+      "year": 2004,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "food-india-nin-fruits",
+      "title": "NIN Dietary Guidelines for Indians: common vitamin C food sources",
+      "url": "https://www.nin.res.in/downloads/DietaryGuidelinesforNINwebsite.pdf",
+      "kind": "Government dietary guidance",
+      "year": 2011,
+      "checked": "2026-11-17",
+      "summary": "The National Institute of Nutrition identifies amla and guava among vitamin C food sources familiar in India.",
+      "limitations": "An older dietary manual, used here only for qualitative food-source examples. It is not the source of current clinical dosing recommendations; food content varies with variety, storage and preparation."
+    },
+    {
+      "id": "food-usda-sr28",
+      "title": "USDA National Nutrient Database, Standard Reference 28",
+      "url": "https://www.ars.usda.gov/ARSUserFiles/80400525/Data/SR/SR28/dnload/sr28asc.zip",
+      "summary": "Published composition per 100 g edible food; NDB identifiers are retained with each food.",
+      "kind": "Official guidance",
+      "year": 2015,
+      "checked": "2026-11-17",
+      "limitations": "Reference composition, not a test of an Indian recipe, brand or portion. Cooking, cultivar and fortification change amounts."
+    },
+    {
+      "id": "b1-overview",
+      "title": "NIH ODS: Thiamin",
+      "url": "https://ods.od.nih.gov/factsheets/Thiamin-HealthProfessional/",
+      "summary": "Adult reference intakes and deficiency context for this individual B vitamin.",
+      "kind": "Official guidance",
+      "year": null,
+      "checked": "2026-11-17",
+      "limitations": "General reference; individual needs and food composition vary. This is not an India-specific prescription."
+    },
+    {
+      "id": "b2-overview",
+      "title": "NIH ODS: Riboflavin",
+      "url": "https://ods.od.nih.gov/factsheets/Riboflavin-HealthProfessional/",
+      "summary": "Adult reference intakes and deficiency context for this individual B vitamin.",
+      "kind": "Official guidance",
+      "year": null,
+      "checked": "2026-11-17",
+      "limitations": "General reference; individual needs and food composition vary. This is not an India-specific prescription."
+    },
+    {
+      "id": "b5-overview",
+      "title": "NIH ODS: Pantothenic acid",
+      "url": "https://ods.od.nih.gov/factsheets/PantothenicAcid-HealthProfessional/",
+      "summary": "Adult reference intakes and deficiency context for this individual B vitamin.",
+      "kind": "Official guidance",
+      "year": null,
+      "checked": "2026-11-17",
+      "limitations": "General reference; individual needs and food composition vary. This is not an India-specific prescription."
+    },
+    {
+      "id": "caffeine-fda",
+      "title": "FDA: caffeine and adult consumption",
+      "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much",
+      "summary": "General adult caffeine benchmark; sensitivity, medicines and health context can require less.",
+      "kind": "Official guidance",
+      "year": null,
+      "checked": "2026-11-17",
+      "limitations": "General reference; individual needs and food composition vary. This is not an India-specific prescription."
+    },
+    {
+      "id": "protein-diabetes-ada",
+      "title": "ADA Standards of Care 2026: nutrition and health behaviours",
+      "url": "https://diabetesjournals.org/care/article/49/Supplement_1/S89/163932/5-Facilitating-Positive-Health-Behaviors-and-Well-being-to-Improve-Health-Outcomes-Standards-of-Care-in-Diabetes-2026",
+      "summary": "Individualized nutrition is part of diabetes care; it does not establish protein powder as a diabetes treatment.",
+      "kind": "Official guidance",
+      "year": 2026,
+      "checked": "2026-11-17",
+      "limitations": "General reference; individual needs and food composition vary. This is not an India-specific prescription."
+    },
+    {
+      "id": "creatine-parkinson-trial",
+      "title": "Creatine and Parkinson disease: NET-PD randomized trial",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4349346/",
+      "summary": "The large trial did not show slowed clinical progression and was stopped for futility.",
+      "kind": "Randomized trial",
+      "year": 2015,
+      "checked": "2026-11-17",
+      "limitations": "Parkinson disease trial; findings do not resolve every cognitive question or establish treatment for another neurological condition."
+    },
+    {
+      "id": "food-chicken-bioactives",
+      "title": "Chicken breast bioactive compounds during refrigerated storage",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7587666/",
+      "summary": "Primary laboratory measurements of creatine and carnosine in raw chicken breast, with the farm and storage day specified.",
+      "limitations": "Study-specific Korean broiler samples, not universal Indian chicken composition; cooking and storage change amounts.",
+      "kind": "Food composition study",
+      "year": 2020,
+      "checked": "2026-11-17"
+    },
+    {
+      "id": "supplement-quality-ods",
+      "title": "NIH ODS: supplement labels, quality testing and claims",
+      "url": "https://ods.od.nih.gov/factsheets/WYNTK-Consumer/",
+      "kind": "Official guidance",
+      "year": null,
+      "checked": "2026-11-18",
+      "summary": "Explains labels, third-party quality testing and the distinction between composition checks and clinical safety or effectiveness.",
+      "limitations": "US consumer guidance; this does not certify any Indian catalog product or establish batch-specific testing."
+    },
+    {
+      "id": "gsh-reactome-peroxidase",
+      "title": "Reactome: Human glutathione peroxidase reaction",
+      "url": "https://reactome.org/content/detail/R-HSA-3341277",
+      "kind": "Curated biochemical pathway",
+      "summary": "Curated human GPX2 reaction showing reduced glutathione consumption during peroxide reduction and formation of oxidised glutathione; includes underlying experimental references.",
+      "limitations": "A biochemical reaction annotation, not evidence that oral glutathione products improve clinical outcomes. The selected record describes GPX2; related glutathione peroxidases have distinct locations and substrates.",
+      "year": null,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "gsh-reactome-reductase",
+      "title": "Reactome: Human glutathione reductase and NADPH recycling",
+      "url": "https://www.reactome.org/content/detail/R-HSA-71682",
+      "kind": "Curated biochemical pathway",
+      "summary": "Curated human cytosolic reaction showing glutathione reductase using NADPH to convert oxidised glutathione into reduced glutathione; includes underlying experimental references.",
+      "limitations": "A cellular recycling reaction, not a measure of oral bioavailability, product quality or supplementation benefit.",
+      "year": null,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "taurine-volume",
+      "title": "Lambert: Taurine transport and cellular volume regulation",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14992263/",
+      "kind": "Mechanistic review",
+      "summary": "Describes taurine as an organic osmolyte and the regulation of cellular taurine uptake and release during osmotic volume changes.",
+      "limitations": "Mechanistic synthesis involving cell models; it does not establish that an oral taurine product improves hydration, exercise performance or health outcomes in humans.",
+      "year": 2004,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "betaine-bhmt",
+      "title": "Breksa and Garrow: Human betaine-homocysteine methyltransferase",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10529246/",
+      "kind": "Mechanistic study",
+      "summary": "Describes the human enzyme that transfers a methyl group from betaine to homocysteine, forming dimethylglycine and methionine, and its expression in liver and kidney.",
+      "limitations": "A biochemical study using recombinant human enzyme, not a supplementation trial. The mechanism does not establish a benefit from extra betaine or justify independent treatment of a medical condition.",
+      "year": 1999,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "protein-kidney-antonio-2016",
+      "title": "Antonio et al.: One-year higher-protein crossover study in trained men",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27807480/",
+      "kind": "Randomized crossover study",
+      "summary": "A small study alternating habitual and higher-protein dietary periods reported no adverse changes in measured kidney, liver or lipid markers in resistance-trained men.",
+      "limitations": "Fourteen men completed the study. Routine blood markers, a selected healthy population and a limited follow-up cannot establish lifetime safety, safety in kidney disease or safety at any possible intake.",
+      "year": 2016,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "protein-plant-diet-hevia-2021",
+      "title": "Hevia-Larrain et al.: Protein-matched vegan and omnivorous diets during training",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33599941/",
+      "kind": "Human controlled training study",
+      "summary": "Habitual vegans and omnivores completed supervised resistance training while protein intake was matched using soy or whey supplementation. Both groups improved with no detected between-group differences in measured muscle and strength outcomes.",
+      "limitations": "Thirty-eight untrained young men; participants were already vegan or omnivorous rather than randomly assigned to those diets. The result concerns adequate total intake and these diets, not every isolated serving or product.",
+      "year": 2021,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "protein-amino-acids-gorissen-2018",
+      "title": "Gorissen et al.: Amino-acid composition of commercial protein ingredients",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30167963/",
+      "kind": "Laboratory composition study",
+      "summary": "Measured amino-acid composition across plant and animal protein ingredients, finding important differences among sources and within the plant category.",
+      "limitations": "A composition analysis, not a digestibility or long-term training trial. Tryptophan was not measured. Tested ingredients cannot certify all finished products or every later batch.",
+      "year": 2018,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "protein-100g-trommelen-2023",
+      "title": "Trommelen et al.: Larger protein feeding and prolonged post-exercise response",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38118410/",
+      "kind": "Human tracer study",
+      "summary": "In young men studied after exercise, a 100-gram milk-protein feeding produced a larger and more prolonged anabolic response than 25 grams during a 12-hour observation period.",
+      "limitations": "An acute study with specific amounts, protein and participants; it does not establish an unlimited response, optimal meal distribution, long-term superiority or an individual serving recommendation. Read the disclosed dairy-industry relationships.",
+      "year": 2023,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "protein-timing-schoenfeld-2017",
+      "title": "Schoenfeld et al.: Protein immediately before versus after resistance training",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28070459/",
+      "kind": "Randomized training trial",
+      "summary": "Twenty-one trained men took an equal protein supplement before or after resistance training for ten weeks, with similar measured changes in strength, hypertrophy and body composition.",
+      "limitations": "Small trial with no unsupplemented comparison. It challenges a narrow timing rule but cannot prove timing never matters across meal patterns, ages or clinical circumstances. The paper has a published correction.",
+      "year": 2017,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "protein-egg-cooking-evenepoel-1998",
+      "title": "Evenepoel et al.: Human digestibility of cooked versus raw egg protein",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9772141/",
+      "kind": "Human isotope-tracer study",
+      "summary": "In a crossover experiment, cooked egg protein had substantially greater measured ileal digestibility than the same test meal in raw form.",
+      "limitations": "Five participants with ileostomies and specific test meals. The results do not describe every cooking method, commercial egg powder or other protein ingredient.",
+      "year": 1998,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "protein-milk-glycation-2025",
+      "title": "Van Lieshout et al.: Milk-protein glycation and lysine availability in humans",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39870248/",
+      "kind": "Randomized crossover tracer study",
+      "summary": "In healthy young men, experimentally high glycation of milk protein reduced the post-meal appearance of protein-derived lysine compared with a low-glycation preparation.",
+      "limitations": "An acute study of deliberately contrasting processing conditions, not proof that normal home cooking destroys protein or a test of every finished supplement. Several authors disclosed dairy-industry employment or research relationships.",
+      "year": 2025,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "protein-women-nabuco-2018",
+      "title": "Nabuco et al.: Whey and resistance training in older women",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29751507/",
+      "kind": "Randomized training trial",
+      "summary": "Older women assigned whey before or after resistance training had greater improvements in measured muscle mass, strength and walking performance than the placebo group during the training programme.",
+      "limitations": "A 12-week study in preconditioned older women, not a prediction of an individual's appearance or an indication that all women require protein supplements.",
+      "year": 2018,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "protein-whole-eggs-2017",
+      "title": "Van Vliet et al.: Whole eggs versus protein-matched egg whites after exercise",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28978542/",
+      "kind": "Human acute feeding trial",
+      "summary": "Whole eggs stimulated a greater acute post-exercise myofibrillar protein-synthesis response than equal-protein egg whites in young men, despite similar total leucine availability.",
+      "limitations": "The meals differed in fat and energy as well as food matrix. An acute comparison of two egg meals does not establish that all whole foods outperform shakes or predict long-term hypertrophy.",
+      "year": 2017,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "protein-whey-technical-usdec",
+      "title": "US Dairy Export Council: Whey and lactose ingredient reference manual",
+      "url": "https://www.usdec.org/assets/documents/Customer%20Site/C3-Using%20Dairy/C3.7-Resources%20and%20Insights/02-Product%20Resources/ReferenceManualForWheyAndLactose_English1.pdf",
+      "kind": "Industry ingredient technical reference",
+      "summary": "Defines whey ingredient categories and describes manufacturing and typical composition, including the generally lower lactose and higher protein concentration of isolate ingredients.",
+      "limitations": "A dairy-industry technical publication, not an independent clinical comparison or a test of Indian finished products. Ingredient specifications and typical values do not certify a flavoured product or justify assuming zero lactose.",
+      "year": null,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "protein-whey-hydrolysate-lockwood-2017",
+      "title": "Lockwood et al.: Hydrolysed whey and concentrate variants during resistance training",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27710436/",
+      "kind": "Human controlled training study",
+      "summary": "Compared extensively hydrolysed whey, two concentrate preparations and carbohydrate placebo during eight weeks of resistance training. Strength increases were similar between groups; selected body-composition results differed.",
+      "limitations": "College-aged men, specific preparations and an eight-week programme. This was not a head-to-head isolate versus concentrate trial and does not establish a universal processing hierarchy. The paper was published online in 2016 and in its journal issue in 2017; authors included commercial affiliations.",
+      "year": 2017,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "protein-digestion-boirie-1997",
+      "title": "Boirie et al.: Slow and fast milk proteins in human protein metabolism",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9405716/",
+      "kind": "Human isotope-tracer feeding study",
+      "summary": "Whey and casein produced different time courses of amino-acid availability and whole-body protein synthesis and breakdown after single meals in healthy adults.",
+      "limitations": "Acute whole-body protein handling, not a long-term training comparison or proof that every casein ingredient, mixed meal or night-time product behaves identically.",
+      "year": 1997,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "protein-pea-babault-2015",
+      "title": "Babault et al.: Pea, whey and placebo during upper-limb training",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25628520/",
+      "kind": "Randomized training trial",
+      "summary": "A 12-week study in young men compared a specific pea protein with whey and placebo. No difference was detected between the two protein groups; favourable pea-versus-placebo thickness findings were clearest in a weaker-participant subgroup.",
+      "limitations": "The overall between-group muscle-thickness test did not reach conventional statistical significance, strength changes did not differ between groups, and subgroup findings require care. The study involved a branded ingredient and manufacturer-affiliated authors.",
+      "year": 2015,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "protein-rice-joy-2013",
+      "title": "Joy et al.: Rice versus whey protein during eight weeks of training",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23782948/",
+      "kind": "Randomized training trial",
+      "summary": "Compared large, equal-protein rice and whey isolate servings during resistance training in young trained men, without detected between-group differences in measured body-composition or performance adaptations.",
+      "limitations": "Small sample, short follow-up and large test servings. Failure to detect a difference is not a formal equivalence result and cannot establish interchangeability at all serving sizes or for every rice ingredient.",
+      "year": 2013,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "protein-yeast-briskey-2024",
+      "title": "Briskey et al.: A specific yeast protein during resistance training",
+      "url": "https://pubs.sciepub.com/jfnr/12/5/9/",
+      "kind": "Randomized training trial",
+      "summary": "An eight-week trial compared an extracted Saccharomyces cerevisiae protein ingredient, whey and maltodextrin alongside resistance exercise, reporting selected lean-mass and performance changes and analyses in participants with lower protein intake.",
+      "limitations": "Manufacturer-funded, ingredient-specific study with multiple outcomes and subgroup analyses. It does not establish equivalence for all yeast products, distinguish every preparation's digestibility or validate nutritional yeast as the same intervention.",
+      "year": 2024,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "protein-yeast-bai-2026",
+      "title": "Bai et al.: Six-month whey and yeast supplementation study in older adults",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42016236/",
+      "kind": "Randomized controlled parallel study",
+      "summary": "A 2026 trial compared whey protein, yeast protein and a control group over six months in Chinese older adults, assessing muscle mass, strength, function and other measures.",
+      "limitations": "Specific preparations and an older-adult population; findings cannot establish category-wide equivalence or superiority for athletes, every yeast species or all commercial powders. Trial populations excluded several significant medical conditions.",
+      "year": 2026,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "protein-algae-myo-2023",
+      "title": "Van der Heijden et al.: Algal preparations and acute muscle protein synthesis",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37716611/",
+      "kind": "Randomized human tracer study",
+      "summary": "Protein-matched spirulina, chlorella and mycoprotein feedings increased myofibrillar protein synthesis over four hours in young adults, with no detected group difference despite differing amino-acid time courses.",
+      "limitations": "An acute study of specific preparations, with mycoprotein as comparator rather than whey. It does not establish long-term hypertrophy, equivalence of all algal products or adequate protein delivery from a small greens serving.",
+      "year": 2023,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "protein-algae-availability-2024",
+      "title": "Williamson et al.: Species and processing differences in algal amino-acid availability",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39610880/",
+      "kind": "Randomized crossover feeding study",
+      "summary": "Ten young adults consumed protein-matched milk, spirulina, whole-cell chlorella and split-cell chlorella drinks. Post-meal amino-acid availability differed substantially among preparations.",
+      "limitations": "Small acute study with carbohydrate-containing drinks, not long-term training or a universal digestibility ranking. The split-cell versus whole-cell difference was not conventionally significant, so processing superiority must not be asserted from this trial alone.",
+      "year": 2024,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "creatine-misconceptions",
+      "title": "Antonio et al.: Common creatine questions and misconceptions",
+      "url": "https://link.springer.com/article/10.1186/s12970-021-00412-w",
+      "kind": "Evidence review",
+      "summary": "Explains distinctions between creatine and anabolic steroids, creatine and creatinine, and evidence on common safety and efficacy claims.",
+      "limitations": "A narrative expert review rather than a new trial; several authors disclose supplement-industry relationships. Later topic-specific trials should also be considered.",
+      "year": 2021,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "creatine-water-rct",
+      "title": "Powers et al.: Creatine, total body water and fluid distribution",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC155510/",
+      "kind": "Randomized trial",
+      "summary": "In 32 resistance-trained men and women, the tested monohydrate protocol increased body mass and total body water without changing relative fluid distribution.",
+      "limitations": "A small, short-term study. Water-related mass changes do not quantify fat gain, permanent bloating or every individual's response.",
+      "year": 2003,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "creatine-hair-rct",
+      "title": "Creatine and hair loss: 12-week placebo-controlled trial",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12020143/",
+      "kind": "Randomized trial",
+      "summary": "The 2025 trial directly assessed androgens and hair measures in resistance-trained men. Among 38 completers, with hair data for 37, it found no supplement-related effect on measured hair outcomes or DHT.",
+      "limitations": "Small sample of men and 12-week exposure; it cannot exclude every long-term effect or individual susceptibility. Authors disclose relevant commercial advisory or research relationships.",
+      "year": 2025,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "creatine-kidney-rct",
+      "title": "Lugaresi et al.: Creatine and measured kidney filtration",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23680457/",
+      "kind": "Randomized trial",
+      "summary": "A 12-week placebo-controlled trial in resistance-trained adults eating a high-protein diet found no impairment of directly measured glomerular filtration with the tested creatine protocol.",
+      "limitations": "Small study of healthy participants. Its findings do not establish safety in kidney disease, unexplained abnormal renal tests, every medication context or unlimited dosing.",
+      "year": 2013,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "creatine-loading-rct",
+      "title": "Hultman et al.: Muscle creatine loading in men",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8828669/",
+      "kind": "Controlled physiological study",
+      "summary": "Muscle-biopsy measurements showed that a lower daily intake increased muscle creatine more gradually over 28 days, reaching a similar eventual increase to a rapid loading approach.",
+      "limitations": "Study in men with particular regimens and biochemical outcomes. It supports the distinction between loading speed and eventual storage, not an individualized dosing prescription.",
+      "year": 1996,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "creatine-timing-rct",
+      "title": "Creatine timing: Eight-week trial in collegiate athletes",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36465581/",
+      "kind": "Randomized trial",
+      "summary": "Compared pre-training creatine, post-training creatine and placebo over eight weeks in 34 resistance-trained male and female athletes; no clear pre-versus-post advantage was established.",
+      "limitations": "Small groups and short duration; an absence of a statistically detected difference is not proof of equivalence for every timing regimen or population.",
+      "year": 2022,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "creatine-cognition-rct",
+      "title": "Creatine and cognitive performance: Preregistered crossover trial",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37968687/",
+      "kind": "Randomized trial",
+      "summary": "A double-blind crossover trial with 123 participants found at most a small possible cognitive effect; key outcomes were not conventionally significant and exploratory tasks did not improve.",
+      "limitations": "Does not settle effects in every population, cognitive domain or condition such as sleep deprivation, and does not establish treatment of a cognitive disorder.",
+      "year": 2023,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "creatine-heat-rct",
+      "title": "Watson et al.: Creatine and exercise heat tolerance",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16619091/",
+      "kind": "Controlled crossover trial",
+      "summary": "Short-term monohydrate did not compromise hydration status or temperature regulation in trained men tested during exercise in heat after dehydration.",
+      "limitations": "Small, short-term study in trained men under a specified protocol; it does not remove the risks of dehydration or heat illness or define a universal fluid requirement.",
+      "year": 2006,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "creatine-forms-review",
+      "title": "Creatine compounds: Chemistry, bioavailability and evidence review",
+      "url": "https://www.mdpi.com/2072-6643/14/5/1035",
+      "kind": "Evidence review",
+      "summary": "Reviews creatine compounds, theoretical creatine fractions by molecular mass, bioavailability requirements, delivery formats and evidence needed for claims about novel forms.",
+      "limitations": "Narrative review with disclosed commercial relationships. Molecular fractions are theoretical composition values, not potency or absorption percentages, and the review does not verify a particular retail batch.",
+      "year": 2022,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "creatine-formulation-review",
+      "title": "Fast-dissolving creatine monohydrate: Formulation methods",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12845340/",
+      "kind": "Formulation review",
+      "summary": "Reviews physical and chemical formulation techniques, including particle-size reduction, and their effects on dissolution and material properties.",
+      "limitations": "Formulation and patent evidence is not equivalent to head-to-head human performance evidence. Processing claims cannot be generalized to every finished product carrying a micronized label.",
+      "year": 2026,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "creatine-hcl-rct",
+      "title": "Creatine HCl versus monohydrate: Eight-week training trial",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11629957/",
+      "kind": "Randomized trial",
+      "summary": "Compared HCl, monohydrate with or without loading, and placebo alongside eight weeks of training in 40 men. It did not establish a clear HCl advantage.",
+      "limitations": "Ten participants per group, male sample, no muscle-creatine measurements and indirect body-composition estimates. Not an equivalence trial or proof that every small HCl serving replaces a studied monohydrate regimen.",
+      "year": 2024,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "creatine-nitrate-rct",
+      "title": "Galvan et al.: Creatine nitrate safety and performance trials",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4815124/",
+      "kind": "Randomized trials",
+      "summary": "Acute and 28-day trials measured nitrate protocols, exercise outcomes and muscle creatine. Some bench-press findings favoured the higher nitrate protocol, while only monohydrate retained a significant muscle-creatine increase at day 28.",
+      "limitations": "Short duration, modest sample sizes, formulation-specific amounts and multiple outcomes. Does not establish nitrate's universal superiority, long-term safety or equivalence across delivered creatine amounts; commercial involvement is disclosed.",
+      "year": 2016,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "creatine-buffered-rct",
+      "title": "Jagim et al.: Buffered creatine versus monohydrate",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22971354/",
+      "kind": "Randomized trial",
+      "summary": "The tested buffered formulation did not produce greater muscle-creatine changes, body-composition changes or training adaptations than monohydrate over 28 days.",
+      "limitations": "One buffered preparation, modest sample and short study period. Findings do not certify all buffered products or prove all formulations are interchangeable; supplement-related funding and relationships should be read.",
+      "year": 2012,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "creatine-ethyl-ester-rct",
+      "title": "Spillane et al.: Creatine ethyl ester versus monohydrate",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19228401/",
+      "kind": "Randomized trial",
+      "summary": "Seven-week trial in 30 men found no ethyl-ester advantage for strength or body composition, lower muscle-creatine gains than monohydrate, and higher serum creatinine.",
+      "limitations": "Small study in previously untrained men with a specified ester preparation. A serum-creatinine increase is not, by itself, a diagnosis of kidney injury or a finding about every creatine product.",
+      "year": 2009,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "creatine-gummy-rct",
+      "title": "Pereira et al.: Creatine gummies in female beach-volleyball athletes",
+      "url": "https://www.mdpi.com/2411-5142/11/1/105",
+      "kind": "Randomized trial",
+      "summary": "A 10-week study in 32 female beach-volleyball athletes found improved jump and change-of-direction outcomes with one monohydrate gummy preparation compared with no supplementation.",
+      "limitations": "No placebo or powder comparator, small sport-specific sample, donated products and disclosed industry advisory relationships. It does not establish a gummy-format advantage, all-brand label accuracy or finished-product shelf stability.",
+      "year": 2026,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "creatine-solution-stability",
+      "title": "Ganguly et al.: Stability of dissolved effervescent creatine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12916907/",
+      "kind": "Laboratory formulation study",
+      "summary": "Measured concentration changes, degradation and crystallization during prolonged storage of a dissolved effervescent creatine preparation at specified temperatures.",
+      "limitations": "An aqueous preparation tested under particular laboratory conditions, not a gummy-matrix study. Its numerical degradation rates cannot be transferred to every drink, gummy, jelly or dry product.",
+      "year": 2003,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "collagen-absorption-iwai-2005",
+      "title": "Iwai et al.: Collagen-derived peptides in human blood after gelatin hydrolysates",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16076145/",
+      "kind": "Human feeding and analytical study",
+      "summary": "Identified small hydroxyproline-containing peptides, especially proline-hydroxyproline, in circulation after adults ingested gelatin hydrolysates from specified animal sources.",
+      "limitations": "A study of digestion and circulating peptides, not proof of intact collagen delivery to joints or skin, tissue repair or a clinical supplement benefit.",
+      "year": 2005,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "collagen-protein-quality-2019",
+      "title": "Paul et al.: Collagen peptides and indispensable amino-acid balance",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6566836/",
+      "kind": "Dietary composition modelling study",
+      "summary": "Describes collagen's incomplete indispensable amino-acid pattern, including lack of tryptophan, and models how it can fit within a specified mixed dietary pattern.",
+      "limitations": "Industry-associated modelling of a Western diet, not a muscle-growth trial or proof of an appropriate replacement fraction for every person's diet. The model does not make collagen alone equivalent to complete protein.",
+      "year": 2019,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "collagen-muscle-oikawa-2020",
+      "title": "Oikawa et al.: Whey versus collagen peptides and muscle protein synthesis in older women",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31919527/",
+      "kind": "Randomized human tracer trial",
+      "summary": "Twenty-two older women received whey or collagen peptides during a six-day protocol. Whey produced greater acute and integrated muscle-protein-synthesis responses with and without the exercise intervention.",
+      "limitations": "Small, short study in older women; synthesis measures do not establish a universal long-term muscle-size ranking or treatment of sarcopenia. A published corrigendum should be read with the original paper.",
+      "year": 2020,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "collagen-uc2-lugo-2016",
+      "title": "Lugo et al.: Undenatured type II collagen and knee osteoarthritis symptoms",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4731911/",
+      "kind": "Randomized controlled trial",
+      "summary": "A 180-day trial in 191 people with knee osteoarthritis compared a particular undenatured type II ingredient with placebo and glucosamine plus chondroitin, reporting favourable symptom-score changes with the tested ingredient.",
+      "limitations": "Sponsored by the ingredient supplier, with company-affiliated authors. Product-specific symptom results do not establish cartilage regrowth, a proven human immune mechanism or equivalence of other collagen preparations.",
+      "year": 2016,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "collagen-gelatin-shaw-2017",
+      "title": "Shaw et al.: Vitamin C-enriched gelatin before intermittent activity",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5183725/",
+      "kind": "Small randomized crossover mechanistic study",
+      "summary": "Eight healthy men consumed vitamin C-containing gelatin preparations before brief exercise. The study assessed circulating amino acids, a collagen-synthesis marker and effects of participant serum in a laboratory ligament model.",
+      "limitations": "Small mechanistic experiment with surrogate outcomes and an ex vivo model; it did not demonstrate healed human tendons, fewer injuries, a universal timing rule or an isolated effect of extra vitamin C.",
+      "year": 2017,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "collagen-gelatin-lis-2019",
+      "title": "Lis and Baar: Different vitamin C-enriched collagen derivatives before exercise",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30859848/",
+      "kind": "Randomized crossover mechanistic study",
+      "summary": "Ten recreationally active men consumed matched gelatin, hydrolysed collagen, a mixed gummy or placebo before brief activity. Amino acids rose, while variability prevented statistically significant treatment effects on the measured collagen-synthesis marker.",
+      "limitations": "Small acute experiment, not a trial of injury recovery or long-term tendon function. Trends and increased amino-acid availability do not establish a clinical benefit or superiority of one delivery format.",
+      "year": 2019,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "collagen-skin-meta-2025",
+      "title": "Myung and Park: Collagen supplements and skin aging, with funding and quality analyses",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40324552/",
+      "kind": "Systematic review and meta-analysis",
+      "summary": "Across 23 randomized trials, pooled skin outcomes favoured supplementation, but effects did not persist in independently funded or higher-quality study subgroups, leading the authors to question routine anti-aging recommendations.",
+      "limitations": "The search ended in June 2024, subgroup comparisons have limited power and are not randomized comparisons of funding. Later syntheses use different studies and methods; disagreement should remain visible.",
+      "year": 2025,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "collagen-skin-meta-2026",
+      "title": "Oral collagen peptides and skin rejuvenation: Updated meta-analysis of randomized trials",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13370842/",
+      "kind": "Systematic review and meta-analysis",
+      "summary": "A July 2026 synthesis of 35 randomized trials reported benefits for hydration, elasticity and barrier measures, with less certain effects on wrinkles and structural skin outcomes.",
+      "limitations": "Formulations, methods and study durations differ; the paper's treatment of bias and pooled outcomes should be considered alongside conflicting reviews. A pooled cosmetic outcome does not certify every product or establish prevention of skin disease.",
+      "year": 2026,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "collagen-skin-methods-2026",
+      "title": "Hydrolyzed collagen for skin aging: Methodological critique and reanalysis",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13618891/",
+      "kind": "Methodological reanalysis",
+      "summary": "An October 2026 methodological analysis questions data extraction, outcome compatibility and bias in collagen skin meta-analyses and argues that corrected evidence does not support validated anti-aging treatment claims.",
+      "limitations": "A critical reanalysis rather than a new randomized clinical trial. Its conclusion conflicts with favourable syntheses and depends on analytical choices and the available underlying studies.",
+      "year": 2026,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "collagen-food-broth-alcock-2019",
+      "title": "Alcock et al.: Variability of collagen-related amino acids in bone broth",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29893587/",
+      "kind": "Food composition study",
+      "summary": "Analysed commercial and laboratory bone broths, finding marked recipe-dependent variation in collagen-related amino acids and lower amounts in some standardized preparations than the reference supplement exposure.",
+      "limitations": "Preparation-specific amino-acid analysis, not universal collagen grams per cup, a clinical outcome trial or proof that every broth is nutritionally equivalent to a collagen supplement.",
+      "year": 2019,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "collagen-forms-mechanisms-2023",
+      "title": "Collagen supplementation for joint health: Composition and proposed mechanisms",
+      "url": "https://www.mdpi.com/2072-6643/15/6/1332",
+      "kind": "Ingredient and mechanistic review",
+      "summary": "Distinguishes native collagen, gelatin and hydrolysed preparations, including the proposed oral-tolerance rationale for native type II and digestion-related hypotheses for hydrolysates.",
+      "limitations": "A review involving supplement-industry affiliations, drawing partly on preclinical mechanisms. Proposed immune or peptide pathways are not established causal explanations of benefits in every human user or formulation.",
+      "year": 2023,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "collagen-oa-guideline-2026",
+      "title": "VA/DoD: 2026 hip and knee osteoarthritis patient guidance",
+      "url": "https://www.healthquality.va.gov/HEALTHQUALITY/guidelines/CD/OA/Osteoarthritis-CPG_2026-Patient-Summary_final_20260618.pdf",
+      "kind": "Clinical practice guideline patient summary",
+      "summary": "Explains osteoarthritis management using individualized activity, weight management where relevant, rehabilitation and symptom treatment; states that evidence is insufficient for dietary supplements as effective OA treatment.",
+      "limitations": "US VA/DoD guidance, not an Indian treatment protocol or a direct evaluation of every collagen ingredient. It supports maintaining established care and avoiding claims that oral supplements cure osteoarthritis.",
+      "year": 2026,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "collagen-training-jerger-2026",
+      "title": "Jerger et al.: Specific collagen peptides and intramuscular collagen during training",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42376607/",
+      "kind": "Randomized training and biopsy study",
+      "summary": "Twenty-nine men completed 12 weeks of high-load resistance training with a specific collagen-peptide preparation or placebo. The supplement group had a greater increase in intramuscular collagen type I content; type III and IV changes did not differ between groups.",
+      "limitations": "Small ingredient-specific study with a tissue-structure outcome rather than clinical tendon healing or equivalence to whey. Commercial support and a co-author's collagen-related patents and honoraria require consideration.",
+      "year": 2026,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "comparison-eaa-leucine-churchward-2012",
+      "title": "Churchward-Venne et al.: Low-dose whey with leucine or essential amino acids",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22451437/",
+      "kind": "Randomized human tracer study",
+      "summary": "Compared a small whey serving enriched with leucine or other essential amino acids against a larger complete-whey treatment, measuring muscle protein synthesis at rest and after exercise.",
+      "limitations": "Acute study in men using specified mixtures. It is not a long-term training trial or a demonstration that every leucine, BCAA or EAA product is interchangeable. Read the original funding and commercial disclosures.",
+      "year": 2012,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "comparison-collagen-dairy-alcock-2019",
+      "title": "Alcock et al.: Amino-acid exposure after dairy and collagen proteins",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31681789/",
+      "kind": "Human feeding study",
+      "summary": "Characterized the amino-acid content and post-meal blood responses to specified dairy and collagen proteins and a bone-broth serving in active men.",
+      "limitations": "Acute exposure and specific foods/preparations. It does not establish long-term clinical outcomes or a universal amount of collagen in homemade broth; portions and amino-acid profiles are not identical.",
+      "year": 2019,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "comparison-gelatin-marker-shaw-2017",
+      "title": "Shaw et al.: Vitamin-C-enriched gelatin and a collagen-formation marker",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27852613/",
+      "kind": "Randomized crossover mechanistic study",
+      "summary": "Eight men completed a gelatin-plus-vitamin-C and intermittent-exercise experiment. Blood amino acids and a type I collagen-formation marker were assessed; participant serum was also applied to engineered ligaments.",
+      "limitations": "Very small study. The blood marker is not direct tendon or cartilage synthesis, the engineered-ligament work was outside the body, and the trial did not establish fewer injuries or clinical tissue repair. Public and sports-institute support was disclosed.",
+      "year": 2017,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "comparison-collagen-muscle-aussieker-2023",
+      "title": "Aussieker et al.: Collagen, whey and early muscle connective-protein synthesis",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37202878/",
+      "kind": "Randomized human tracer trial",
+      "summary": "Forty-five recreational athletes received collagen, whey or placebo after resistance exercise. Neither protein added a detectable increase in muscle connective-protein synthesis during the five-hour recovery observation.",
+      "limitations": "Acute, specified formulations and muscle tissue, not a long-term tendon or joint-treatment trial. Whey exceeded placebo for myofibrillar synthesis, but the whey-versus-collagen contrast was not significant. Relevant laboratory industry relationships, including collagen manufacturers, were disclosed.",
+      "year": 2023,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "comparison-collagen-joint-clark-2008",
+      "title": "Clark et al.: Collagen hydrolysate and activity-related joint discomfort",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18416885/",
+      "kind": "Randomized placebo-controlled trial",
+      "summary": "A 24-week study of a specified collagen hydrolysate reported improvements in selected joint-discomfort measures among athletes.",
+      "limitations": "Of 147 recruited participants, 97 supplied statistically evaluable data; multiple outcomes and a post-hoc knee subgroup limit certainty. Findings concern symptoms, not cartilage regrowth, injury prevention or every collagen product. A branded commercial preparation was studied.",
+      "year": 2008,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "comparison-collagen-knee-null-2020",
+      "title": "Collagen hydrolysate and self-reported knee pain: Placebo-controlled trial",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31990581/",
+      "kind": "Randomized controlled trial",
+      "summary": "Compared collagen supplementation with placebo in people with self-reported knee pain and found no between-group improvement in the main pain measure.",
+      "limitations": "Specific preparation, selected population and outcome measures. A null trial does not disprove every collagen application; it illustrates why positive results elsewhere cannot be assumed universal. Consult the original for funding and disclosures.",
+      "year": 2020,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "comparison-collagen-typeii-lugo-2016",
+      "title": "Lugo et al.: Undenatured type II collagen and knee osteoarthritis symptoms",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26822714/",
+      "kind": "Randomized placebo-controlled trial",
+      "summary": "Studied a specific chicken-cartilage-derived undenatured type II preparation over 180 days in adults with knee osteoarthritis. The preparation improved symptom scores relative to placebo in the trial.",
+      "limitations": "A specified product and selected osteoarthritis population, with commercial funding and manufacturer-affiliated authors. Symptom outcomes do not establish cartilage regrowth, the proposed immune mechanism or equivalence with hydrolysed collagen powders.",
+      "year": 2016,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "collagen-editorial-sources",
+      "title": "Ohara et al.: Different collagen sources and circulating peptides",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17253720/",
+      "kind": "Human crossover absorption study",
+      "summary": "Compared fish-scale, fish-skin and porcine-skin type I gelatin hydrolysates in five healthy men; circulating peptide amounts and patterns differed.",
+      "limitations": "Five men, fasting conditions and biochemical outcomes. A higher peptide exposure for one preparation is not evidence of superior skin or joint outcomes. Authors had an industry laboratory affiliation.",
+      "year": 2007,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "collagen-editorial-skin-rct",
+      "title": "Proksch et al.: Specific peptides and skin physiology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23949208/",
+      "kind": "Randomized trial",
+      "summary": "A specific collagen hydrolysate improved measured skin elasticity versus placebo in a small eight-week study in women; not all measured skin outcomes improved significantly.",
+      "limitations": "Sixty-nine women aged 35–55, a specific ingredient and short follow-up. Results cannot certify all powders, predict every cosmetic outcome or settle the wider evidence-quality concerns.",
+      "year": 2014,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "collagen-editorial-native-ii",
+      "title": "Lugo et al.: Undenatured type II collagen and knee symptoms",
+      "url": "https://link.springer.com/article/10.1186/s12937-016-0130-8",
+      "kind": "Randomized trial",
+      "summary": "A 180-day study in adults with knee osteoarthritis compared a specific undenatured type II ingredient with placebo and glucosamine/chondroitin, reporting symptom-score improvements.",
+      "limitations": "Specific formulation and symptom outcomes, not proof of cartilage regeneration or a cure. Sponsor employees and a consultant coauthored the study. Gut immune tolerance is a proposed mechanism, not established by the clinical outcome alone.",
+      "year": 2016,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "collagen-editorial-muscle-connective",
+      "title": "Aussieker et al.: Collagen, whey and post-exercise connective protein synthesis",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10487367/",
+      "kind": "Randomized human tracer study",
+      "summary": "In 45 young recreational athletes, whey increased myofibrillar synthesis versus placebo; neither whey nor collagen significantly increased muscle connective-protein synthesis over five hours.",
+      "limitations": "Acute tissue-specific measurements after one exercise session. Does not settle long-term tendon adaptation, every formulation or clinical rehabilitation.",
+      "year": 2023,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "collagen-editorial-bone",
+      "title": "König et al.: Specific collagen peptides and postmenopausal bone density",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5793325/",
+      "kind": "Randomized trial",
+      "summary": "A twelve-month study in postmenopausal women with reduced bone density reported changes in bone mineral density and bone-turnover markers with specific collagen peptides.",
+      "limitations": "Selected population and ingredient; bone-density findings do not establish fracture prevention or replacement of osteoporosis care. The study was partly supported by GELITA.",
+      "year": 2018,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "nutrients-d2-d3-trial",
+      "title": "Tripkovic et al.: D2 versus D3 food fortification in South Asian and white European women",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28679555/",
+      "kind": "Randomized trial",
+      "summary": "A twelve-week UK food-fortification trial in 335 women found a greater increase in total 25-hydroxyvitamin D with D3 than with the tested D2 protocols.",
+      "limitations": "Status-marker outcome in specified populations and food vehicles; not proof of fracture prevention, universal clinical superiority, D2 inactivity or equivalence of all Indian retail products.",
+      "year": 2017,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "nutrients-d-guideline-2024",
+      "title": "Endocrine Society: Vitamin D for prevention of disease",
+      "url": "https://www.endocrine.org/clinical-practice-guidelines/vitamin-d-for-prevention-of-disease",
+      "kind": "Clinical practice guideline",
+      "summary": "Distinguishes routine prevention in generally healthy populations from established clinical indications, including recommendations concerning screening and supplementation schedules.",
+      "limitations": "Conditional recommendations with population-specific scope; does not replace an individualized plan for deficiency, relevant disease, pregnancy or other established indications. Not an India-specific prescribing guideline.",
+      "year": 2024,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "nutrients-d-bolus-2010",
+      "title": "Sanders et al.: Annual high-dose vitamin D and falls and fractures",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20460620/",
+      "kind": "Randomized trial",
+      "summary": "The tested very large annual oral cholecalciferol regimen increased falls and fractures in older community-dwelling women.",
+      "limitations": "A specific high-dose annual schedule and selected older women; does not establish that every clinically supervised replacement regimen or ordinary vitamin D intake is harmful.",
+      "year": 2010,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "nutrients-calcitriol-medline",
+      "title": "MedlinePlus: Calcitriol medication information",
+      "url": "https://medlineplus.gov/druginfo/meds/a682335.html",
+      "kind": "Government medicine information",
+      "summary": "Explains specified uses of calcitriol in calcium regulation and kidney or parathyroid disorders, together with monitoring and interaction considerations.",
+      "limitations": "Prescription medicine information, not a retail supplement recommendation or a conversion rule between activated medicines and ordinary nutritional D2 or D3.",
+      "year": null,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "nutrients-mg-sleep-2025",
+      "title": "Schuster et al.: Magnesium bisglycinate in adults reporting poor sleep",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40918053/",
+      "kind": "Randomized trial",
+      "summary": "A four-week placebo-controlled trial reported a modest between-group improvement in insomnia severity with the tested magnesium bisglycinate regimen.",
+      "limitations": "Short duration, self-reported outcomes and a small treatment effect; no head-to-head comparison with other magnesium salts, no universal insomnia-treatment claim and no verification of unrelated retail preparations.",
+      "year": 2025,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "nutrients-mg-cramps-2017",
+      "title": "Roguin Maor et al.: Magnesium oxide for nocturnal leg cramps",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28241153/",
+      "kind": "Randomized trial",
+      "summary": "In 94 predominantly older adults with recurrent nocturnal leg cramps, magnesium oxide was not superior to placebo during the four-week treatment phase.",
+      "limitations": "A particular preparation, population and duration; does not settle every cause of cramps, pregnancy-related cramps, exercise-associated symptoms or deficiency treatment.",
+      "year": 2017,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "nutrients-zma-training-2004",
+      "title": "Wilborn et al.: ZMA and resistance-training adaptations",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18500945/",
+      "kind": "Randomized trial",
+      "summary": "In 42 resistance-trained men, the tested ZMA preparation did not produce significant advantages over placebo in the reported hormone, body-composition or training outcomes over eight weeks.",
+      "limitations": "ZMA is a specific zinc-magnesium-aspartate preparation, not a trial of every ZMC combination; a null result in trained men does not negate correction of a diagnosed mineral deficiency.",
+      "year": 2004,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "nutrients-c-liposomal-2024",
+      "title": "Purpura et al.: Liposomal vitamin C exposure in plasma and leukocytes",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39237620/",
+      "kind": "Randomized crossover trial",
+      "summary": "Compared single doses of a specified liposomal vitamin C preparation, ordinary vitamin C and placebo in 27 adults, reporting differences in measured vitamin C exposure.",
+      "limitations": "Acute pharmacokinetic outcomes for a particular commercial formulation; does not establish fewer infections, improved disease outcomes, superiority of every liposomal product or independent quality of an unrelated batch.",
+      "year": 2024,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "nutrients-c-pharmacokinetics-2004",
+      "title": "Padayatty et al.: Oral versus intravenous vitamin C pharmacokinetics",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15068981/",
+      "kind": "Human pharmacokinetic study",
+      "summary": "Measured vitamin C concentrations and modelled exposure to show substantial differences between oral and intravenous administration routes.",
+      "limitations": "Pharmacokinetic investigation in healthy volunteers, not proof that an infusion improves routine wellness or that oral supplements inherit clinical claims from intravenous or laboratory experiments.",
+      "year": 2004,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "nutrients-b12-nice-2024",
+      "title": "NICE NG239: Vitamin B12 deficiency diagnosis and management",
+      "url": "https://www.nice.org.uk/guidance/ng239/chapter/Recommendations",
+      "kind": "Clinical practice guideline",
+      "summary": "Makes assessment, oral or intramuscular replacement and follow-up decisions dependent on the cause and clinical context of vitamin B12 deficiency.",
+      "limitations": "UK clinical guidance for people aged over 16, not an individual Indian prescription or justification for self-diagnosis and replacement of prescribed treatment with a retail B-complex.",
+      "year": 2024,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "nutrients-b6-tga",
+      "title": "Therapeutic Goods Administration: B6 and peripheral neuropathy",
+      "url": "https://www.tga.gov.au/news/safety-updates/peripheral-neuropathy-supplementary-vitamin-b6-pyridoxine",
+      "kind": "Regulatory safety communication",
+      "summary": "Describes nerve-related adverse events associated with supplemental B6 and the importance of overlapping products, including magnesium and zinc preparations that can also contain B6.",
+      "limitations": "Australian safety communication and adverse-event reports, not a prediction of individual risk or an assertion that Australian labelling law applies in India. Reports do not establish a universal harmless dose or duration.",
+      "year": null,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "nutrients-folate-mthfr-cdc",
+      "title": "CDC: Common MTHFR variants and folic acid",
+      "url": "https://www.cdc.gov/folic-acid/data-research/mthfr/index.html",
+      "kind": "Government public health guidance",
+      "summary": "Explains that people with common MTHFR variants can process folic acid and that common variants are not a reason to avoid the form with established neural tube defect prevention evidence.",
+      "limitations": "Discusses common variants and US public-health prevention advice; rare metabolic disorders and individual pregnancy or medicine-related plans require clinical assessment.",
+      "year": 2026,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "well-ash-safety",
+      "title": "NCCIH: Ashwagandha uses, interactions and safety limits",
+      "url": "https://www.nccih.nih.gov/health/ashwagandha",
+      "kind": "Government health guidance",
+      "summary": "Summarises preparation variability, limited efficacy findings, short-term safety evidence, reported liver injury and condition- and medicine-related cautions.",
+      "limitations": "A US public-health overview, not certification of an Indian product, a diagnosis or an individual treatment plan.",
+      "year": null,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "well-omega-reduce-it",
+      "title": "Bhatt et al.: Icosapent ethyl in the REDUCE-IT trial",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30415628/",
+      "kind": "Randomized clinical trial",
+      "summary": "In selected statin-treated high-risk patients with elevated triglycerides, the tested prescription EPA intervention reduced its primary cardiovascular endpoint compared with its comparator.",
+      "limitations": "A specific medicine, population, protocol and comparator; cannot establish equivalence or benefit for ordinary retail fish-oil mixtures. Read funding and safety results in the original.",
+      "year": 2019,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "well-omega-strength",
+      "title": "Nicholls et al.: EPA+DHA and cardiovascular outcomes in STRENGTH",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2773120",
+      "kind": "Randomized clinical trial",
+      "summary": "A high-dose omega-3 carboxylic-acid formulation did not reduce the primary cardiovascular composite compared with corn oil in high-risk statin-treated participants; safety included an atrial-fibrillation signal.",
+      "limitations": "A particular formulation and clinical population, with a different comparator from REDUCE-IT. Results do not isolate a single cause of the difference between trials or validate untested retail products.",
+      "year": 2020,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "well-gsh-lipo",
+      "title": "Sinha et al.: Exploratory liposomal-glutathione study in adults",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28853742/",
+      "kind": "Exploratory human supplementation study",
+      "summary": "A small adult study reported changes in glutathione stores and selected immune-related markers after a specified liposomal preparation.",
+      "limitations": "Small exploratory design, biomarker outcomes and disclosed company involvement; not proof of better clinical outcomes or universal superiority to conventional oral glutathione.",
+      "year": 2018,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "well-melatonin-quality",
+      "title": "Erland and Saxena: Content variability in sampled melatonin products",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27855744/",
+      "kind": "Product-composition study",
+      "summary": "Chemical analysis of selected Canadian melatonin products found discrepancies between measured and declared content and detected serotonin in some sampled products.",
+      "limitations": "Selected products and lots from one market. It does not establish the content, regulatory compliance or suitability of any untested Indian product or every delivery format.",
+      "year": 2017,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "well-melatonin-gummies",
+      "title": "Cohen et al.: Measured melatonin and CBD in US gummies",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37097362/",
+      "kind": "Product-composition study",
+      "summary": "An analytical study compared measured melatonin and CBD with declarations on sampled US gummy products and found frequent discrepancies.",
+      "limitations": "A selected US sample, not a test of Indian catalog products, every gummy formulation or a clinical comparison of sleep effects.",
+      "year": 2023,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "well-carnitine-muscle",
+      "title": "Wall et al.: Long-term carnitine plus carbohydrate and muscle stores",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21224234/",
+      "kind": "Controlled human physiology study",
+      "summary": "A small prolonged protocol combining carnitine tartrate with carbohydrate increased muscle carnitine and altered selected exercise fuel-handling measures.",
+      "limitations": "Small study using substantial accompanying carbohydrate over 24 weeks; not a single-dose pre-workout experiment, a general fat-loss prescription or proof for every derivative.",
+      "year": 2011,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "well-carnitine-weight-trial",
+      "title": "Villani et al.: Carnitine with aerobic training and body weight",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10861338/",
+      "kind": "Controlled human supplementation study",
+      "summary": "The tested carnitine intervention with aerobic training did not promote additional weight loss in the studied moderately obese women.",
+      "limitations": "A selected female population and protocol; does not establish every clinical use or all derivative effects. It directly limits a universal mechanism-based fat-loss promise.",
+      "year": 2000,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "well-betaine-females",
+      "title": "Cholewa et al.: Betaine during training in collegiate women",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30064450/",
+      "kind": "Randomized training trial",
+      "summary": "An eight-week resistance-training study found selected body-fat differences but no added absolute-strength benefit with the tested betaine regimen.",
+      "limitations": "Untrained collegiate women, short follow-up and multiple outcomes; not proof for every athlete or a complete pre-workout formula. Includes an author with a commercial scientific-affairs affiliation.",
+      "year": 2018,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "well-betaine-crossfit",
+      "title": "Moro et al.: Betaine during six weeks of CrossFit training",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32516959/",
+      "kind": "Randomized training trial",
+      "summary": "The specified betaine intervention did not add a measured hypertrophy or strength benefit over its comparator during six weeks of CrossFit training.",
+      "limitations": "A small and short sport-specific study, not a universal verdict across endurance tests, populations or formulations. Read intervention methods and commercial disclosures.",
+      "year": 2020,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "well-hmb-bedrest",
+      "title": "Deutz et al.: Calcium HMB during short bed rest in older adults",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23514626/",
+      "kind": "Randomized human trial",
+      "summary": "A small ten-day bed-rest study suggested preservation of lean mass with calcium HMB under the tested protocol, without observed functional differences.",
+      "limitations": "Nineteen evaluable participants, sensitivity to an excluded participant and limited functional power; requires confirmation and cannot establish a general muscle-wasting treatment. Read commercial affiliations and funding.",
+      "year": 2013,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "well-hmb-leucine",
+      "title": "HMB versus leucine alongside whey during resistance training",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30113522/",
+      "kind": "Randomized training trial",
+      "summary": "Compared whey plus calcium HMB with whey plus leucine during a resistance-training programme and found no difference in measured muscle-size or strength gains.",
+      "limitations": "Specific young male participants, protein background and comparator; not a formal statement that every form or clinical context is equivalent.",
+      "year": 2019,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "pe-arginine-aakg-training-2006",
+      "title": "Campbell et al.: AAKG pharmacokinetics and training outcomes in adult men",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16928472/",
+      "kind": "Randomized controlled studies",
+      "summary": "Examined AAKG exposure and, in a separate eight-week resistance-training experiment, found advantages for selected strength and power outcomes without differences in several other measured endpoints.",
+      "limitations": "Specific AAKG preparation and protocols in adult men. It does not establish universal superiority to free arginine, validate every retail formulation or supply an individual dosing recommendation. Read the study's funding and commercial context.",
+      "year": 2006,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "pe-arginine-aakg-acute-2012",
+      "title": "Wax et al.: Acute AAKG and resistance-exercise performance",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22510253/",
+      "kind": "Randomized crossover trial",
+      "summary": "An acute placebo-controlled crossover experiment in trained and untrained men found no improvement in its tested maximal-strength or total-load-volume measures with AAKG.",
+      "limitations": "Sixteen participants, one acute protocol and particular exercises. A null result does not establish equivalence or settle every preparation, exposure period or population.",
+      "year": 2012,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "pe-bcaa-soreness-2012",
+      "title": "Howatson et al.: BCAA after deliberately damaging exercise",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22569039/",
+      "kind": "Randomized trial",
+      "summary": "A small placebo-controlled study in resistance-trained men found favourable differences in soreness, creatine-kinase response and recovery of maximal voluntary contraction after a damaging drop-jump protocol; other measurements did not differ.",
+      "limitations": "Twelve men and a deliberately damaging exercise bout. These recovery measures are not evidence of greater long-term muscle gain, a universal need for BCAAs or superiority of every marketed ratio.",
+      "year": 2012,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "pe-bcaa-recovery-2017",
+      "title": "Waldron et al.: BCAA and recovery from a hypertrophy exercise bout",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28177706/",
+      "kind": "Randomized trial",
+      "summary": "Measured soreness, muscle function and creatine kinase after a diet-controlled hypertrophy exercise session, reporting favourable selected recovery comparisons with the tested BCAA protocol.",
+      "limitations": "Sixteen resistance-trained participants with a specified mixture and acute exercise protocol. Small-sample, endpoint-specific findings do not demonstrate indefinite benefit, an optimal ratio or improved long-term adaptation.",
+      "year": 2017,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "pe-eaa-older-women-2009",
+      "title": "Dillon et al.: Essential amino acids, lean mass and strength in older women",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19208731/",
+      "kind": "Randomized trial",
+      "summary": "In a small three-month study of older women, EAA supplementation was associated with increased lean body mass and basal muscle protein synthesis, while the tested strength measure remained unchanged.",
+      "limitations": "Fourteen women in a selected older-adult population. Changes in composition and synthesis do not establish improved function, a sarcopenia cure or an identical response to every retail EAA product or in younger athletes.",
+      "year": 2009,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "pe-preworkout-running-2019",
+      "title": "Lutsch et al.: A multi-ingredient pre-workout and five-kilometre running",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31523345/",
+      "kind": "Randomized crossover trial",
+      "summary": "A particular caffeine-containing pre-workout did not improve the measured five-kilometre running-time or subjective-fatigue outcomes compared with placebo in aerobically trained adults.",
+      "limitations": "Twenty participants, one finished mixture and an acute running task. The result neither validates nor rejects every blend and cannot isolate the contribution of each ingredient without relevant component comparisons.",
+      "year": 2019,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "pe-caffeine-sleep-2025",
+      "title": "Dose and timing of caffeine and subsequent sleep: Randomized crossover trial",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39377163/",
+      "kind": "Randomized crossover trial",
+      "summary": "Compared two caffeine amounts at several pre-bed intervals in men. The larger amount disrupted subsequent sleep under conditions where the lower amount showed a different pattern.",
+      "limitations": "Twenty-three men with specified habitual intake and exposures. It does not establish a universal safe bedtime cutoff, identical effects in women or a personalized caffeine limit. Published online in 2024 and in its journal issue in 2025.",
+      "year": 2025,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "pe-ba-carnosine-hill-2007",
+      "title": "Hill et al.: Beta-alanine, muscle carnosine and cycling capacity",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16868650/",
+      "kind": "Controlled supplementation study",
+      "summary": "Repeated beta-alanine supplementation increased measured muscle carnosine and was accompanied by changes in a specified high-intensity cycling-capacity test.",
+      "limitations": "Small study in men, specific ingredient and laboratory task, with fewer participants completing longer follow-up. It does not establish improvement in every sport or validate an occasional pre-workout serving. Journal issue 2007; online publication 2006.",
+      "year": 2007,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "pe-ba-sprinters-2007",
+      "title": "Derave et al.: Carnosine, repeated contractions and race performance in sprinters",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17690198/",
+      "kind": "Randomized trial",
+      "summary": "In trained male sprinters, beta-alanine increased muscle carnosine and attenuated fatigue in selected repeated-contraction bouts, without improving the tested isometric-endurance or indoor race-time outcomes.",
+      "limitations": "Fifteen male athletes, four-week exposure and specific tests. A laboratory fatigue finding cannot be generalized to every competition or to long-term muscle growth.",
+      "year": 2007,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "pe-ba-slow-release-2012",
+      "title": "Decombaz et al.: Slow-release beta-alanine absorption and sensory symptoms",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22139410/",
+      "kind": "Randomized formulation trial",
+      "summary": "Compared a beta-alanine solution with a specific slow-release tablet and placebo, finding changes in absorption kinetics and reported sensory symptoms with the tested delivery system.",
+      "limitations": "Eleven healthy adults and acute absorption/tolerability outcomes, not a performance or hypertrophy trial. It does not certify all sustained-release products. A published erratum and the commercial research affiliations should be read alongside the paper.",
+      "year": 2012,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "pe-taurine-running-2013",
+      "title": "Balshaw et al.: Isolated taurine and a three-kilometre running trial",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22855206/",
+      "kind": "Randomized crossover trial",
+      "summary": "A small placebo-controlled crossover experiment reported improved performance in a specified running-time trial after acute isolated taurine in trained middle-distance runners.",
+      "limitations": "Small trained-runner sample, acute exposure and one task. It does not establish alertness, every exercise outcome or effectiveness of a multi-ingredient energy drink. Journal publication 2013; published online 2012.",
+      "year": 2013,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "pe-taurine-caffeine-reaction-2013",
+      "title": "Energy-drink ingredients: Independent and combined caffeine and taurine effects",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23313701/",
+      "kind": "Controlled human experiment",
+      "summary": "Separated caffeine and taurine contributions to a behavioural reaction-time task, finding an effect associated with caffeine without establishing an independent taurine advantage in that test.",
+      "limitations": "Small sample of young women, particular amounts and a behavioural endpoint. It does not settle every taurine application, quantify exercise benefit or validate every finished energy drink.",
+      "year": 2013,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "pe-taurine-caffeine-heat-2025",
+      "title": "Caffeine plus taurine and cycling in the heat: Crossover trial",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40956767/",
+      "kind": "Randomized crossover trial",
+      "summary": "In a small exercise-in-heat experiment, combined caffeine and taurine did not improve time to exhaustion compared with placebo despite changes in ventilatory and metabolic demand.",
+      "limitations": "Ten non-heat-acclimated adults and a specific co-ingestion protocol. It does not establish that all combinations are ineffective or identify the isolated contribution of each ingredient.",
+      "year": 2025,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "pe-taurine-heat-humidity-2024",
+      "title": "Peel et al.: Taurine, sweating and heat balance under controlled humidity",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38582816/",
+      "kind": "Randomized crossover trial",
+      "summary": "Studied low-intensity exercise at fixed heat production in hot conditions with controlled humidity, reporting increased sweating and evaporative cooling after the tested taurine exposure.",
+      "limitations": "Fifteen selected adults, a controlled workload and environment, and thermoregulation outcomes. It does not replace fluid or electrolyte planning, establish prevention of heat illness or provide a universal hot-weather prescription.",
+      "year": 2024,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "pe-taurine-convective-2022",
+      "title": "Simmonds et al.: Taurine during exercise after cold exposure with forced airflow",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33357070/",
+      "kind": "Controlled crossover trial",
+      "summary": "In men exercising after moderate cold exposure with forced airflow, taurine did not significantly improve the tested endurance outcome or several temperature and local-sweating measurements.",
+      "limitations": "Eleven men and a specific cold-air protocol. It is not a direct replication of a hot-humidity trial; environmental conditions and the chosen outcome need to remain explicit. Journal issue 2022; online publication 2020.",
+      "year": 2022,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "nutrients-d-meal-2013",
+      "title": "Dawson-Hughes et al.: Meal conditions affect vitamin D3 absorption but not the later 25-hydroxyvitamin D response",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/jbmr.1896",
+      "kind": "Randomised human meal-condition trial",
+      "summary": "Meal conditions affected early absorption, but the later blood-status response did not differ significantly between groups.",
+      "limitations": "62 older healthy adults and a specific repeated-dose protocol; no clinical outcome endpoint.",
+      "year": 2013,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "nutrients-d-meal-2015",
+      "title": "Raimundo et al.: Fat-containing meals and 25-hydroxyvitamin D after a single vitamin D dose",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24853643/",
+      "kind": "Randomised human meal experiment",
+      "summary": "A single-dose experiment found a larger subsequent blood-status rise when the meal contained more fat.",
+      "limitations": "Young healthy adults with low mean baseline status; one dose and short follow-up, without clinical outcomes. Online publication 2014; journal issue 2015.",
+      "year": 2015,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "nutrients-mg-exercise-blood-2017",
+      "title": "Terink et al.: Blood magnesium falls after exercise and restores within hours",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27997264/",
+      "kind": "Human repeated-measure exercise study",
+      "summary": "Ionised and total magnesium concentrations temporarily declined after an endurance exercise bout and returned to baseline within hours on average.",
+      "limitations": "18 trained endurance athletes; monitoring study rather than a supplementation efficacy trial. Online publication 2016; issue 2017.",
+      "year": 2017,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "nutrients-mg-function-2014",
+      "title": "Veronese et al.: Magnesium and physical function in older women undertaking an exercise programme",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25008857/",
+      "kind": "Randomised human intervention trial",
+      "summary": "Selected everyday-function measures improved, with a stronger signal among women with lower dietary intake; secondary strength differences were not significant.",
+      "limitations": "Older women, twelve weeks and a no-intervention comparator rather than placebo; not evidence of athletic enhancement.",
+      "year": 2014,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "nutrients-zmc-calcium-zinc-1997",
+      "title": "Wood and Zheng: High dietary calcium intake, zinc absorption and balance",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9174476/",
+      "kind": "Controlled human feeding and acute absorption experiments",
+      "summary": "Added calcium reduced zinc absorption and balance in the tested feeding protocol; a separate acute meal experiment also found inhibition.",
+      "limitations": "Selected participants, meals and supplemental exposures; does not establish zinc deficiency from ordinary dairy intake.",
+      "year": 1997,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "nutrients-zmc-diet-zinc-2009",
+      "title": "Hunt and Beiseigel: Dietary calcium did not worsen phytate inhibition of zinc absorption from conventional diets",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19176739/",
+      "kind": "Human factorial absorption experiment",
+      "summary": "Phytate reduced zinc absorption, while higher calcium did not significantly impair it in the tested ordinary-food menus.",
+      "limitations": "Ten healthy women and one-day menus; not a long-term trial of every concentrated mineral combination.",
+      "year": 2009,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "nutrients-biotin-depletion-2002",
+      "title": "Mock et al.: Markers during experimentally induced biotin deficiency and repletion",
+      "url": "https://ajcn.nutrition.org/article/S0002-9165%2823%2906015-X/fulltext",
+      "kind": "Controlled human depletion-and-repletion study",
+      "summary": "Urinary biotin and a metabolic by-product changed during experimental depletion and recovered during repletion.",
+      "limitations": "Eleven healthy adults on an artificial depletion diet; no hair-growth outcome and no consumer self-testing protocol.",
+      "year": 2002,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "nutrients-biotin-markers-2013",
+      "title": "Eng et al.: Identification and assessment of markers of biotin status in healthy adults",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23302490/",
+      "kind": "Controlled human feeding and biomarker study",
+      "summary": "Twenty candidate markers differed in their ability to distinguish deficient, sufficient and supplemented states.",
+      "limitations": "Sixteen healthy adults; research-marker assessment rather than validation of a cosmetic claim or a retail diagnostic threshold.",
+      "year": 2013,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "nutrients-hair-loss-nhs",
+      "title": "NHS: Hair loss, possible causes and assessment",
+      "url": "https://www.nhs.uk/symptoms/hair-loss/",
+      "kind": "Official public health guidance",
+      "summary": "Describes several causes of hair loss and when assessment is appropriate.",
+      "limitations": "General guidance; cannot diagnose an individual cause or establish a nutrient treatment indication. Page reviewed in 2024.",
+      "year": 2024,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "nutrients-c-endurance-2014",
+      "title": "Paulsen et al.: Vitamin C and E, cellular adaptation and endurance training",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24492839/",
+      "kind": "Double-blind randomised placebo-controlled trial",
+      "summary": "Selected mitochondrial protein responses were blunted without a significant difference in the measured aerobic-capacity and running improvements.",
+      "limitations": "Combined C and E in 54 young adults over eleven weeks; cannot isolate vitamin C or establish every long-term performance effect.",
+      "year": 2014,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "nutrients-c-strength-2014",
+      "title": "Paulsen et al.: Vitamin C and E, strength-training signalling and muscle growth",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25384788/",
+      "kind": "Randomised placebo-controlled human training trial",
+      "summary": "Some signalling and strength responses were smaller, but muscle growth and acute protein-synthesis differences were not significant.",
+      "limitations": "32 recreationally trained adults over ten weeks; a combined regimen with tentative strength findings.",
+      "year": 2014,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "nutrients-c-insulin-training-2009",
+      "title": "Ristow et al.: Antioxidants and metabolic responses to physical training in humans",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2680430/",
+      "kind": "Randomised human exercise intervention",
+      "summary": "Combined C and E attenuated some training-associated insulin-sensitivity and endogenous antioxidant responses.",
+      "limitations": "Small four-week study in healthy men, including open-label and blinded parts; no incident-diabetes outcome and no isolation of vitamin C.",
+      "year": 2009,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "nutrients-b12-metformin-rct-2010",
+      "title": "de Jager et al.: Long-term metformin and risk of B12 deficiency",
+      "url": "https://www.bmj.com/content/340/bmj.c2181",
+      "kind": "Randomised placebo-controlled trial",
+      "summary": "Long-term metformin reduced B12 concentrations and increased biochemical deficiency risk compared with placebo.",
+      "limitations": "Insulin-treated adults with type 2 diabetes; does not individualise symptom causation, monitoring or replacement.",
+      "year": 2010,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "nutrients-b12-dppos-2016",
+      "title": "Aroda et al.: B12 deficiency during the Diabetes Prevention Program Outcomes Study",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4880159/",
+      "kind": "Secondary analysis of a trial and extended follow-up",
+      "summary": "Longer metformin exposure was associated with biochemical B12 deficiency during extended follow-up.",
+      "limitations": "Follow-up included open-label treatment; later neurological associations are not equivalent to randomised proof of their cause.",
+      "year": 2016,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "nutrients-b12-metformin-mhra-2022",
+      "title": "MHRA: Metformin, reduced vitamin B12 and monitoring people at risk",
+      "url": "https://www.gov.uk/drug-safety-update/metformin-and-reduced-vitamin-b12-levels-new-advice-for-monitoring-patients-at-risk",
+      "kind": "Official medicines-safety guidance",
+      "summary": "Advises assessment when deficiency is suspected, risk-based monitoring and continuing appropriate metformin while B12 is corrected.",
+      "limitations": "UK professional safety advice, not a universal self-testing schedule or an Indian regulatory claim.",
+      "year": 2022,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "nutrients-folate-hope2-2006",
+      "title": "Lonn et al.: HOPE-2 homocysteine lowering with folic acid and B vitamins",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16531613/",
+      "kind": "Randomised placebo-controlled outcome trial",
+      "summary": "The combination lowered homocysteine without significantly improving the primary cardiovascular composite; stroke was lower individually.",
+      "limitations": "High-risk adults and combined folate/B6/B12; secondary stroke finding should not replace the primary result.",
+      "year": 2006,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "nutrients-folate-csppt-2015",
+      "title": "Huo et al.: CSPPT folic acid added to hypertension treatment for first-stroke prevention",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2205876",
+      "kind": "Randomised double-blind outcome trial",
+      "summary": "Adding folic acid to enalapril reduced first strokes compared with enalapril alone in the studied population.",
+      "limitations": "Chinese adults with hypertension, no previous stroke or myocardial infarction and no folic-acid fortification background; not universal prevention advice.",
+      "year": 2015,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "nutrients-omega-vital-rhythm-2021",
+      "title": "Albert et al.: VITAL Rhythm marine omega-3 and incident atrial fibrillation",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2777469",
+      "kind": "Randomised placebo-controlled ancillary trial",
+      "summary": "Marine EPA plus DHA did not significantly change incident AF compared with placebo in the primary-prevention population.",
+      "limitations": "Studied regimen and older adults without prior AF or cardiovascular disease; not proof of zero risk or equivalence to higher-dose treatment.",
+      "year": 2021,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "nutrients-omega-aha-fish",
+      "title": "American Heart Association: Fish within a healthy dietary pattern",
+      "url": "https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/fish-and-omega-3-fatty-acids",
+      "kind": "Professional association public guidance",
+      "summary": "Recommends fish within a healthy dietary pattern and describes the association between regular seafood consumption and cardiovascular health.",
+      "limitations": "Food-pattern advice does not validate every retail supplement or establish a prescription indication. Page reviewed in 2024.",
+      "year": 2024,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "nutrients-af-symptoms-nhlbi",
+      "title": "NHLBI: Atrial fibrillation symptoms and assessment",
+      "url": "https://www.nhlbi.nih.gov/health/atrial-fibrillation/symptoms",
+      "kind": "Official public health guidance",
+      "summary": "Explains that AF may be asymptomatic or cause symptoms such as palpitations, fatigue and breathlessness.",
+      "limitations": "Symptoms are not a self-diagnosis; this page does not attribute AF to an individual supplement. Updated 2022.",
+      "year": 2022,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "synth-protein-distribution-mamerow-2014",
+      "title": "Mamerow et al. (2014): Dietary protein distribution positively influences 24-h muscle protein synthesis in healthy adults",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24477298/",
+      "kind": "Primary human crossover feeding study",
+      "summary": "Eight adults consumed equal-protein diets distributed evenly or toward dinner. The even pattern increased measured daily muscle protein synthesis during short feeding periods.",
+      "limitations": "Very small, short experiment with a tracer endpoint; no long-term strength or hypertrophy outcome. Authors disclosed relevant speaking compensation.",
+      "year": 2014,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "synth-protein-distribution-kim-2018",
+      "title": "Kim et al. (2018): Protein intake distribution pattern does not affect anabolic response, lean body mass, muscle strength or function over 8 weeks in older adults",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28318687/",
+      "kind": "Primary human randomized dietary trial",
+      "summary": "Fourteen older adults received even or dinner-heavy protein distributions with similar daily intake. Measured body-composition, function and anabolic outcomes did not differ significantly.",
+      "limitations": "Only seven participants per group and eight weeks of follow-up. Healthy older volunteers do not represent all frail or clinical populations. Published online in 2017, journal issue in 2018.",
+      "year": 2018,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "synth-protein-distribution-older-2022",
+      "title": "Justesen et al. (2022): Comparing even with skewed dietary protein distribution shows no difference in muscle protein synthesis or amino acid utilization in healthy older individuals",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36364705/",
+      "kind": "Primary human randomized controlled trial",
+      "summary": "Integrated tracer measurements found similar muscle protein synthesis and dietary amino-acid utilisation with even and skewed protein distributions when total intake was sufficient.",
+      "limitations": "Controlled short-term feeding in healthy older adults; not a long-term trial of disability, frailty or an individually optimal meal schedule.",
+      "year": 2022,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "synth-creatine-sleep-2024",
+      "title": "Gordji-Nejad et al. (2024): Single dose creatine improves cognitive performance and induces changes in cerebral high energy phosphates during sleep deprivation",
+      "url": "https://www.nature.com/articles/s41598-024-54249-9",
+      "kind": "Primary human crossover experiment",
+      "summary": "A fifteen-person crossover experiment during sleep deprivation reported selected cognitive improvements and changes in brain high-energy phosphates after a single experimental creatine exposure.",
+      "limitations": "Small acute laboratory experiment using a high body-mass-based exposure. Does not establish routine dosing, safe driving, replacement of sleep or treatment of neurological disease.",
+      "year": 2024,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "synth-creatine-efsa-cognition-2024",
+      "title": "EFSA NDA Panel (2024): Creatine and improvement in cognitive function—evaluation of a proposed health claim",
+      "url": "https://efsa.onlinelibrary.wiley.com/doi/full/10.2903/j.efsa.2024.9100",
+      "kind": "Official scientific health-claim assessment",
+      "summary": "The panel assessed submitted human intervention evidence and concluded that a cause-and-effect relationship between creatine supplementation and improved cognitive function had not been established.",
+      "limitations": "A dated assessment of a defined proposed claim. It is not a trial, a statement of Indian law or a ruling on every possible future clinical use.",
+      "year": 2024,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "synth-collagen-achilles-jerger-2022",
+      "title": "Jerger et al. (2022): Effects of specific collagen peptide supplementation combined with resistance training on Achilles tendon properties",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35403756/",
+      "kind": "Primary human randomized controlled trial",
+      "summary": "Specific collagen peptides plus fourteen weeks of resistance training produced a greater Achilles tendon area adaptation than the same training with placebo in healthy male volunteers.",
+      "limitations": "Structural and performance endpoints in healthy participants do not prove injury prevention or healing. Gelita paid part of the costs and one author disclosed collagen-related patents.",
+      "year": 2022,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "synth-collagen-stiffness-miyamoto-2025",
+      "title": "Miyamoto et al. (2025): Collagen peptide supplementation enhances muscle-tendon stiffness and explosive strength—a 16-wk randomized controlled trial",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40623147/",
+      "kind": "Primary human randomized controlled trial",
+      "summary": "Fifty young sedentary men received collagen peptides or placebo for sixteen weeks. The investigators reported changes in stiffness and selected rapid-torque measures without increased area or maximal voluntary torque.",
+      "limitations": "Not an injured-tendon or resistance-training rehabilitation trial. Abstract within-group significance should not be treated as proof of every between-group contrast. Includes an industry research affiliation.",
+      "year": 2025,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "synth-collagen-achilles-praet-2019",
+      "title": "Praet et al. (2019): Oral supplementation of specific collagen peptides combined with calf-strengthening exercises enhances function and reduces pain in Achilles tendinopathy patients",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30609761/",
+      "kind": "Primary human randomized crossover pilot",
+      "summary": "Twenty patients with chronic mid-portion Achilles tendinopathy followed a calf-strengthening and return-to-running programme. Symptom-and-function scores improved more during the specific collagen-peptide periods.",
+      "limitations": "Small commercially funded pilot, proprietary preparation and potential carryover. No supplement-only arm, acute-rupture evidence or demonstration of complete repair. Sponsor funded the study; authors stated no sponsor role in analysis or publication.",
+      "year": 2019,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "synth-ash-liver-iceland-us-2020",
+      "title": "Björnsson et al. (2020): Ashwagandha-induced liver injury—a case series from Iceland and the US Drug-Induced Liver Injury Network",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31991029/",
+      "kind": "Primary clinical case series",
+      "summary": "Five investigated cases developed jaundice with cholestatic or mixed liver injury after ashwagandha-containing products. Available product analysis supported exposure, with alternative causes considered.",
+      "limitations": "No exposed-user denominator or randomized comparator. Several patients used additional supplements; a case series cannot estimate incidence or identify an exact individual risk.",
+      "year": 2020,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "synth-ash-liver-india-2023",
+      "title": "Philips et al. (2023): Ashwagandha-induced liver injury—a case series from India and literature review",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37756041/",
+      "kind": "Primary clinical multicentre case series",
+      "summary": "The report describes eight selected single-ingredient exposure cases from three Indian hospitals. Several patients had chronic liver disease, and severe outcomes occurred in that subgroup.",
+      "limitations": "Retrospective referral-selected cases with causality uncertainty and no exposed-user denominator. Cannot establish prevalence, incidence or a brand-wide risk estimate.",
+      "year": 2023,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "synth-ash-livertox",
+      "title": "NIH LiverTox (updated 2024): Ashwagandha",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK548536/",
+      "kind": "Official clinical safety monograph",
+      "summary": "Describes reported clinically apparent liver injury, its usual clinical pattern, uncertainty about the responsible components, and particular concern in advanced chronic liver disease.",
+      "limitations": "A clinical synthesis based largely on reports and series, not an incidence study. Likelihood-of-causation assessment is not a percentage risk for users.",
+      "year": 2024,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "synth-glynac-older-rct-2023",
+      "title": "Kumar et al. (2023): Supplementing glycine and N-acetylcysteine in older adults improves glutathione deficiency and selected metabolic and physical-function measures",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35975308/",
+      "kind": "Primary human randomized controlled trial",
+      "summary": "Twenty-four older adults were randomized to sixteen weeks of GlyNAC or alanine placebo. The study reported favourable changes across several biochemical and functional outcomes.",
+      "limitations": "Twelve per randomized arm, many endpoints and exploratory analyses. Does not isolate individual ingredients or demonstrate human life extension or disease prevention. Online in 2022; 2023 journal issue.",
+      "year": 2023,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "synth-glynac-healthy-rct-2022",
+      "title": "Lizzo et al. (2022): A randomized controlled clinical trial in healthy older adults to determine efficacy of glycine and N-acetylcysteine supplementation on glutathione redox status and oxidative damage",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35821844/",
+      "kind": "Primary human randomized controlled trial",
+      "summary": "In 114 older completers, two weeks of GlyNAC did not significantly improve the primary total-glutathione endpoint. A post-hoc subgroup suggested a possible response in participants with greater oxidative stress and lower baseline glutathione.",
+      "limitations": "Short exposure; subgroup findings require confirmation. Authors disclosed Nestlé employment and product-related patents and licences. Different population and duration from the smaller sixteen-week trial.",
+      "year": 2022,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "synth-melatonin-aasm-shift-guideline-2026",
+      "title": "Wright et al. (2026): Management of shift work disorder—an American Academy of Sleep Medicine clinical practice guideline",
+      "url": "https://link.springer.com/article/10.1007/s44470-026-00084-w",
+      "kind": "Official clinical practice guideline",
+      "summary": "Separates excessive sleepiness, sleep disturbance and circadian adaptation. Melatonin suggestions for selected sleep settings are conditional, with low or very-low-certainty evidence and attention to residual sleepiness.",
+      "limitations": "Individual clinical judgement remains necessary; many underlying studies used simulated shifts or workers without a formal disorder diagnosis. Does not establish long-term disease prevention or universal dosing. Final publication 24 October 2026.",
+      "year": 2026,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "synth-melatonin-aasm-shift-review-2026",
+      "title": "Wright et al. (2026): Management of shift work disorder—an AASM systematic review, meta-analysis and GRADE assessment",
+      "url": "https://link.springer.com/article/10.1007/s44470-026-00076-w",
+      "kind": "Official guideline evidence review",
+      "summary": "Evaluates interventions by sleepiness, sleep disturbance and circadian goals, with study-population and clinical-importance assessments. Highlights uncertainty and the need for longer-term health-outcome studies.",
+      "limitations": "Certainty is limited for many interventions, including melatonin questions. This companion review and guideline are not independent experiments. Published 24 October 2026.",
+      "year": 2026,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "synth-melatonin-nurses-2002",
+      "title": "Yoon et al. (2002): Role of morning melatonin administration and attenuation of sunlight exposure in improving adaptation of night-shift workers",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12405553/",
+      "kind": "Primary human crossover field experiment",
+      "summary": "A twelve-nurse experiment found modest sleep-time improvement with morning melatonin but no clear benefit on performance tests; alertness findings were limited.",
+      "limitations": "Very small sample and short conditions; cannot establish individual driving safety, durable adaptation or effects of every work schedule.",
+      "year": 2002,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "synth-melatonin-emergency-1998",
+      "title": "Jorgensen and Witting (1998): Randomized clinical trial of melatonin after night-shift work—efficacy and neuropsychologic effects",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9737496/",
+      "kind": "Primary human randomized crossover trial",
+      "summary": "Fifteen emergency physicians completed placebo and melatonin periods after consecutive night shifts. The study did not show a clear recovery benefit in its sleep, tiredness or neuropsychological outcomes.",
+      "limitations": "Small occupational sample with a specific schedule; a null result does not exclude benefit in different sleep contexts.",
+      "year": 1998,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "synth-melatonin-shift-field-2016",
+      "title": "Sadeghniiat-Haghighi et al. (2016): Melatonin therapy in shift workers with difficulty falling asleep—a randomized double-blind placebo-controlled crossover field study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27612057/",
+      "kind": "Primary human randomized crossover field trial",
+      "summary": "Thirty-nine workers completed the short study periods. Sleep-onset latency and efficiency improved, without a clear total-sleep-time or wake-after-sleep-onset benefit.",
+      "limitations": "Selected workers with sleep-onset difficulty and short exposure. The assessed sleep was nighttime sleep, so results should not be relabelled as all daytime post-shift sleep or on-duty alertness.",
+      "year": 2016,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "synth-carnitine-tmao-koeth-2013",
+      "title": "Koeth et al. (2013): Intestinal microbiota metabolism of L-carnitine, a nutrient in red meat, promotes atherosclerosis",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23563705/",
+      "kind": "Primary human mechanistic and observational research with animal experiments",
+      "summary": "Human challenges demonstrated microbiota-dependent TMAO formation and diet-related response differences. A separate cardiac cohort and mouse experiments supplied observational and mechanistic cardiovascular evidence.",
+      "limitations": "Not a randomized human trial of supplement-induced cardiovascular events. Animal mechanisms and associations in referred patients cannot quantify a healthy user's clinical risk.",
+      "year": 2013,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "synth-carnitine-tmao-koeth-2019",
+      "title": "Koeth et al. (2019): L-carnitine in omnivorous diets induces an atherogenic gut microbial pathway in humans",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30530985/",
+      "kind": "Primary human isotope-tracer and microbiome study",
+      "summary": "Tracers and microbial experiments characterised sequential carnitine-to-TMA transformations and how repeated exposure can induce pathway activity.",
+      "limitations": "Mechanistic metabolite outcomes do not establish clinical-event risk or guarantee any individual's response based on dietary identity. Online in 2018; journal issue in 2019.",
+      "year": 2019,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "synth-carnitine-tmao-women-2019",
+      "title": "Samulak et al. (2019): L-carnitine supplementation increases trimethylamine-N-oxide but not markers of atherosclerosis in healthy aged women",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30485835/",
+      "kind": "Primary human placebo-controlled supplementation study",
+      "summary": "During twenty-four weeks of supplementation, TMAO rose substantially without deterioration in the selected lipid, inflammatory and vascular markers measured.",
+      "limitations": "Small selected population and biomarker outcomes; no adequate assessment of heart attacks, strokes or long-term safety. Online in 2018; journal issue in 2019.",
+      "year": 2019,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "synth-carnitine-tmao-cessation-2019",
+      "title": "Samulak et al. (2019): Plasma trimethylamine-N-oxide following cessation of L-carnitine supplementation in healthy aged women",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6627560/",
+      "kind": "Primary human supplementation-cohort follow-up",
+      "summary": "TMAO returned to a level comparable with placebo four months after stopping supplementation and remained stable at a later follow-up; measured lipid profiles did not materially change.",
+      "limitations": "Same underlying small older-women cohort, not independent replication. Reversibility of a marker does not establish lifetime cardiovascular safety.",
+      "year": 2019,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "synth-betaine-homocysteine-olthof-2003",
+      "title": "Olthof et al. (2003): Low dose betaine supplementation leads to immediate and long-term lowering of plasma homocysteine in healthy men and women",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14652361/",
+      "kind": "Primary human randomized placebo-controlled trial",
+      "summary": "Controlled betaine exposure lowered fasting and methionine-load homocysteine responses, including a dose-related fasting effect over six weeks.",
+      "limitations": "Biochemical outcomes rather than clinical cardiovascular events. Experimental regimens do not constitute a personal prescription.",
+      "year": 2003,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "synth-betaine-lipids-2005",
+      "title": "Olthof et al. (2005): Effect of homocysteine-lowering nutrients on blood lipids—results from four randomised placebo-controlled studies in healthy humans",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15916468/",
+      "kind": "Primary analysis of randomized human trials",
+      "summary": "The analysis included three betaine studies with 151 participants. The higher tested regimen increased LDL cholesterol and triglycerides relative to placebo during short controlled exposure.",
+      "limitations": "No clinical-event outcome; effects should not be generalized to every amount, duration or population. Data overlap contributing homocysteine studies and are not wholly independent replication.",
+      "year": 2005,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "synth-betaine-active-men-2022",
+      "title": "Zawieja et al. (2022): The effect of 3-week betaine supplementation on blood biomarkers of cardiometabolic health in young physically active males",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36005603/",
+      "kind": "Primary human randomized crossover trial",
+      "summary": "A three-week double-blind placebo-controlled crossover study reported lower homocysteine without clear effects on lipids, selected cytokines or liver enzymes.",
+      "limitations": "Short study in selected healthy active men with biomarker endpoints; cannot establish clinical cardiovascular benefit or long-term safety.",
+      "year": 2022,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "synth-homocysteine-hope2-2006",
+      "title": "HOPE-2 Investigators (2006): Homocysteine lowering with folic acid and B vitamins in vascular disease",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa060900",
+      "kind": "Primary human randomized cardiovascular-outcome trial",
+      "summary": "In 5,522 high-risk participants followed for about five years, a B-vitamin intervention lowered homocysteine without reducing the primary composite of major cardiovascular events.",
+      "limitations": "Tested B vitamins, not betaine. Illustrates why surrogate changes need clinical-outcome testing; it does not directly establish betaine's efficacy or lack of efficacy. Individual outcomes differed.",
+      "year": 2006,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "context-arginine-nopain-2007",
+      "title": "Wilson et al.: Oral arginine in peripheral arterial disease (NO-PAIN)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17592080/",
+      "kind": "Randomized placebo-controlled trial",
+      "summary": "Six months of oral arginine in 133 patients with intermittent claudication increased plasma arginine without the intended vascular or walking benefit; walking improvement was smaller than with placebo.",
+      "limitations": "Patients with peripheral arterial disease, not healthy athletes. Does not estimate risk or efficacy in other populations.",
+      "year": 2007,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "context-arginine-infusion-1996",
+      "title": "Bode-Böger et al.: Intravenous arginine and blood flow in critical limb ischemia",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8616947/",
+      "kind": "Randomized controlled physiological study",
+      "summary": "Acute intravenous arginine increased blood flow in patients with critical limb ischemia.",
+      "limitations": "Intravenous administration and an acute physiological endpoint; cannot validate oral retail supplements or training outcomes.",
+      "year": 1996,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "context-protein-deficit-longland-2016",
+      "title": "Longland et al.: Higher protein during energy restriction and intensive exercise",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26817506/",
+      "kind": "Randomized dietary trial",
+      "summary": "Forty young men completed a four-week energy-restriction and intensive-exercise protocol. Higher dietary protein produced greater lean-mass gain and fat-mass loss than lower protein.",
+      "limitations": "A short, demanding controlled protocol; not a BCAA trial or a universal dieting prescription.",
+      "year": 2016,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "context-protein-athletes-mettler-2010",
+      "title": "Mettler et al.: Dietary protein and lean-mass retention during athlete weight loss",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19927027/",
+      "kind": "Randomized dietary trial",
+      "summary": "Twenty trained young athletes underwent two weeks of energy restriction. Higher protein reduced lean-body-mass loss; performance and fat loss did not differ.",
+      "limitations": "Short duration and selected healthy trained population; lean mass is not identical to contractile muscle. Does not test isolated BCAA.",
+      "year": 2010,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "context-eaa-exercise-kim-2012",
+      "title": "Kim et al.: Exercise and leucine-rich amino acids in older women with sarcopenia",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22142410/",
+      "kind": "Four-arm randomized controlled trial",
+      "summary": "Compared exercise, leucine-rich amino acids, their combination and health education over three months in 155 Japanese women aged at least 75. Outcomes included leg mass, walking speed and knee-extension strength.",
+      "limitations": "Specific selected female population and programme; within-group improvement alone cannot establish between-group superiority. The record includes a published erratum.",
+      "year": 2012,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "context-eaa-function-borsheim-2008",
+      "title": "Børsheim et al.: Amino acids, muscle and physical function in older adults",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18294740/",
+      "kind": "Uncontrolled exploratory intervention",
+      "summary": "Twelve older adults received an essential-amino-acid plus arginine mixture for 16 weeks; muscle-related and physical-function measures improved.",
+      "limitations": "No concurrent control; cannot isolate the supplement from practice effects, behavioural changes or other influences, or isolate EAA from arginine.",
+      "year": 2008,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "context-supplements-steroids-geyer-2004",
+      "title": "Geyer et al.: Undeclared anabolic steroids in non-hormonal supplements",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14986195/",
+      "kind": "Laboratory analytical survey",
+      "summary": "Tested 634 supplements bought in 13 countries during 2000–2001; 94 contained undeclared anabolic-androgenic steroids.",
+      "limitations": "Historical selected sample, not current Indian prevalence. Analytical matrix effects prevented reliable results for 66 products.",
+      "year": 2004,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "context-higenamine-cohen-2019",
+      "title": "Cohen et al.: Higenamine in weight-loss and sports supplements",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/15563650.2018.1497171",
+      "kind": "Targeted laboratory analytical study",
+      "summary": "Twenty-four products listing higenamine or related names showed widely varying measured amounts; the five declaring a quantity did not state it accurately.",
+      "limitations": "Targeted US product selection, not market prevalence or a current batch verdict. Some authors disclosed certification-industry employment. Published online 2018; journal issue 2019.",
+      "year": 2019,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "context-ukad-supplement-risk",
+      "title": "UK Anti-Doping: Managing supplement risks",
+      "url": "https://www.ukad.org.uk/athletes/managing-supplement-risks",
+      "kind": "Official anti-doping guidance",
+      "summary": "Explains athlete responsibility, supplement risk assessment and the limits of batch testing; WADA and UKAD do not approve supplements.",
+      "limitations": "UK authority explaining the anti-doping framework; not Indian retail product approval or an assurance of zero risk. Athletes must follow their own applicable authority and current rules.",
+      "year": null,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "context-usada-supplement-connect",
+      "title": "USADA: Supplement Connect",
+      "url": "https://www.usada.org/substances/supplement-connect/",
+      "kind": "Official anti-doping guidance",
+      "summary": "Resources for evaluating supplements and third-party certification, including why screening can reduce but cannot eliminate risk.",
+      "limitations": "Programmes and their scope differ; guidance is not a guarantee of efficacy, safety or absence of every prohibited substance.",
+      "year": null,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "context-usada-nutrition-guide-2026",
+      "title": "USADA: TrueSport Nutrition Guide 2026, supplement certification guidance",
+      "url": "https://www.usada.org/wp-content/uploads/2026-TS-Nutrition-Guide.pdf",
+      "kind": "Official athlete nutrition guidance",
+      "summary": "Explains that supplement certification programmes differ in their testing coverage and frequency, and reduce rather than eliminate contamination risk.",
+      "limitations": "Not every programme tests every batch or every prohibited substance; certification is not a performance endorsement or a guarantee.",
+      "year": 2026,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "context-citrulline-cycling-suzuki-2016",
+      "title": "Suzuki et al.: L-citrulline and a four-kilometre cycling time trial",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26900386/",
+      "kind": "Randomized double-blind crossover trial",
+      "summary": "Repeated oral L-citrulline improved four-kilometre cycling time-trial performance in 22 trained men under the tested protocol.",
+      "limitations": "Small male sample and specific short event; manufacturer-affiliated authors. Not proof for other endurance events or lifting.",
+      "year": 2016,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "context-citrulline-sprints-cunniffe-2016",
+      "title": "Cunniffe et al.: Acute citrulline malate and high-intensity cycling",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26808848/",
+      "kind": "Randomized placebo-controlled crossover trial",
+      "summary": "In ten well-trained men, plasma citrulline increased after acute citrulline malate without improved repeated-sprint or subsequent exhaustion outcomes.",
+      "limitations": "Small sample and acute malate protocol, not a direct replication of repeated free-citrulline time-trial studies.",
+      "year": 2016,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "context-betaalanine-800m-ducker-2013",
+      "title": "Ducker et al.: Beta-alanine and 800-metre running performance",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23630039/",
+      "kind": "Randomized placebo-controlled trial",
+      "summary": "Eighteen male recreational club runners completed duplicate pre/post track tests around 28 days of supplementation; adjusted 800-metre race times favoured beta-alanine.",
+      "limitations": "Nine participants per group; a specific male recreational running population. Group results are not guaranteed individual time gains.",
+      "year": 2013,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "context-betaalanine-hour-chung-2014",
+      "title": "Chung et al.: Carnosine loading without one-hour cycling improvement",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24457999/",
+      "kind": "Randomized placebo-controlled trial",
+      "summary": "Six weeks in 27 trained cyclists and triathletes substantially increased muscle carnosine without improving laboratory one-hour time-trial performance relative to placebo.",
+      "limitations": "A particular longer event protocol; not a verdict on all shorter or intermittent exercise.",
+      "year": 2014,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "context-taurine-diabetes-vascular-2025",
+      "title": "Li et al.: Taurine and vascular function in type 2 diabetes",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12178789/",
+      "kind": "Randomized double-blind placebo-controlled trial",
+      "summary": "A twelve-week trial randomized 165 adults with type 2 diabetes, with 144 completing the protocol with complete data. Reported improvements included systolic pressure and vascular-function measures.",
+      "limitations": "Short duration, attrition and surrogate outcomes; no demonstration of reduced cardiovascular events, diabetic complications or healthy-athlete benefit.",
+      "year": 2025,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "context-taurine-diabetes-biomarkers-2022",
+      "title": "Moludi et al.: Taurine added to a low-calorie diet in type 2 diabetes",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35870947/",
+      "kind": "Randomized placebo-controlled clinical trial",
+      "summary": "An eight-week trial in 120 patients found improvements in insulin-resistance estimates and selected inflammatory/endothelial markers, but not fasting glucose, glycated haemoglobin or lipids. Both arms followed a low-calorie diet.",
+      "limitations": "Short adjunctive study, multiple biomarkers and no complication endpoint. The September 2022 correction fixes an affiliation rather than the reported outcomes.",
+      "year": 2022,
+      "checked": "2026-11-18"
+    },
+    {
+      "id": "context-hmb-nourish-2016",
+      "title": "Deutz et al.: Specialised oral nutrition in malnourished hospital patients (NOURISH)",
+      "url": "https://www.clinicalnutritionjournal.com/article/S0261-5614(15)00348-9/abstract",
+      "kind": "Multicentre randomized double-blind trial",
+      "summary": "In 652 enrolled older malnourished hospital patients, high-protein HMB-containing oral nutrition did not significantly improve the primary 90-day death/readmission composite. Secondary mortality was lower; readmission was not different.",
+      "limitations": "Nutrition package differed in energy, protein and other components, preventing HMB-only attribution. Selected diagnoses, attrition and Abbott funding/manufacturer involvement limit interpretation.",
+      "year": 2016,
+      "checked": "2026-11-18"
+    }
+  ]
+}

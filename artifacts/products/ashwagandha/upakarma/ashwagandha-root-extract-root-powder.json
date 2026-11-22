@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "category": "ashwagandha",
+  "brand": "Upakarma",
+  "product": "Ashwagandha root extract + root powder",
+  "variants": [
+    {
+      "order": 11,
+      "offer": {
+        "id": "ashwagandha-45186433810618",
+        "brand": "Upakarma",
+        "product": "Ashwagandha root extract + root powder",
+        "form": "Capsule",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "source": "Not specified",
+        "labelChecked": "2026-11-19",
+        "notes": "Withanolide standardization is not verified. Manufacturer directions describe one capsule twice daily; the catalog records one capsule for label arithmetic, not a daily recommendation.",
+        "packCount": 90,
+        "servingUnits": 1,
+        "type": "Root extract + root powder",
+        "subclass": "Mixed root materials",
+        "ashwagandhaMg": 499,
+        "standardizedExtractMg": null,
+        "withanolidesPct": null,
+        "basis": "The current official description lists 450 mg root extract plus 49 mg root powder per capsule. One capsule is the accounting serving. The 500 mg headline is rounded and does not describe 500 mg of standardized extract.",
+        "price": 399,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://upakarma.com/products/ashwagandha-capsules?variant=45186433810618",
+        "nutritionUrl": "https://upakarma.com/products/ashwagandha-capsules",
+        "labelSources": [
+          "https://upakarma.com/products/ashwagandha-capsules",
+          "https://cdn.shopify.com/s/files/1/0722/1362/7066/files/ashwagandha_capsules_84b0e8c0-30bf-4ac6-9663-9d29bbc27a99.webp?v=1770109598",
+          "https://cdn.shopify.com/s/files/1/0722/1362/7066/files/04_23f549d5-8ab0-4729-bb2d-5bc8ba03a425.webp?v=1770103244"
+        ]
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3886,
+      "observation": {
+        "category": "ashwagandha",
+        "offerId": "ashwagandha-45186433810618",
+        "date": "2026-11-19",
+        "price": 399,
+        "currency": "INR",
+        "sourceUrl": "https://upakarma.com/products/ashwagandha-capsules?variant=45186433810618",
+        "evidenceUrl": "https://upakarma.com/products/ashwagandha-capsules.json",
+        "kind": "official-live",
+        "variantId": "45186433810618",
+        "matchBasis": "Official exact public Shopify variant ID; unconditional INR price and stock. Net pack quantity and ingredient serving transcribed from official text/panels checked2026-11-19."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 128,
+      "profile": {
+        "brand": "Upakarma",
+        "product": "Ashwagandha root extract + root powder",
+        "form": "Capsule",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "source": "Not specified",
+        "labelChecked": "2026-11-19",
+        "notes": "Withanolide standardization is not verified. Manufacturer directions describe one capsule twice daily; the catalog records one capsule for label arithmetic, not a daily recommendation.",
+        "packCount": 90,
+        "servingUnits": 1,
+        "type": "Root extract + root powder",
+        "subclass": "Mixed root materials",
+        "ashwagandhaMg": 499,
+        "standardizedExtractMg": null,
+        "withanolidesPct": null,
+        "basis": "The current official description lists 450 mg root extract plus 49 mg root powder per capsule. One capsule is the accounting serving. The 500 mg headline is rounded and does not describe 500 mg of standardized extract.",
+        "nutritionUrl": "https://upakarma.com/products/ashwagandha-capsules",
+        "labelSources": [
+          "https://upakarma.com/products/ashwagandha-capsules",
+          "https://cdn.shopify.com/s/files/1/0722/1362/7066/files/ashwagandha_capsules_84b0e8c0-30bf-4ac6-9663-9d29bbc27a99.webp?v=1770109598",
+          "https://cdn.shopify.com/s/files/1/0722/1362/7066/files/04_23f549d5-8ab0-4729-bb2d-5bc8ba03a425.webp?v=1770103244"
+        ],
+        "category": "ashwagandha",
+        "base": "https://upakarma.com",
+        "handle": "ashwagandha-capsules",
+        "variantIds": [
+          "45186433810618"
+        ],
+        "numericVariantIsCount": false,
+        "id": "ashwagandha-45186433810618"
+      }
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "category": "vitamin-c",
+  "brand": "Health Veda Organics",
+  "product": "Natural Vitamin C with Amla & Zinc",
+  "variants": [
+    {
+      "order": 7,
+      "offer": {
+        "brand": "Health Veda Organics",
+        "product": "Natural Vitamin C with Amla & Zinc",
+        "form": "Tablet",
+        "type": "Vitamin C + amla + zinc",
+        "subclass": "Plant extract blend",
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official product title and current bottle identify 120 tablets. Current text uses a 1000 mg Vitamin C claim without a verified units-per-serving label basis.",
+        "notes": "The active payload and serving basis require a consistent current label; vitamin C-content cost is withheld rather than treating total amla/blend mass as vitamin C.",
+        "labelChecked": "2026-10-31",
+        "packCount": 120,
+        "vitaminCMg": null,
+        "id": "vitamin-c-42526506254558",
+        "price": 520,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://healthvedaorganics.com/products/vitamin-c-tablets-boost-immunity-healthy-skin-120-veg-tablets?variant=42526506254558",
+        "nutritionUrl": "https://healthvedaorganics.com/products/vitamin-c-tablets-boost-immunity-healthy-skin-120-veg-tablets",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://healthvedaorganics.com/products/vitamin-c-tablets-boost-immunity-healthy-skin-120-veg-tablets?variant=42526506254558",
+          "evidenceUrl": "https://healthvedaorganics.com/products/vitamin-c-tablets-boost-immunity-healthy-skin-120-veg-tablets.json",
+          "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3777,
+      "observation": {
+        "category": "vitamin-c",
+        "offerId": "vitamin-c-42526506254558",
+        "date": "2026-10-31",
+        "price": 520,
+        "currency": "INR",
+        "sourceUrl": "https://healthvedaorganics.com/products/vitamin-c-tablets-boost-immunity-healthy-skin-120-veg-tablets?variant=42526506254558",
+        "evidenceUrl": "https://healthvedaorganics.com/products/vitamin-c-tablets-boost-immunity-healthy-skin-120-veg-tablets.json",
+        "kind": "official-live",
+        "variantId": "42526506254558",
+        "matchBasis": "Official Shopify product JSON exact variant ID; single-pack count verified. Availability separately checked against exact-variant official HTML structured data where available."
+      }
+    },
+    {
+      "order": 3934,
+      "observation": {
+        "category": "vitamin-c",
+        "offerId": "vitamin-c-42526506254558",
+        "date": "2026-11-19",
+        "price": 520,
+        "currency": "INR",
+        "sourceUrl": "https://healthvedaorganics.com/products/vitamin-c-tablets-boost-immunity-healthy-skin-120-veg-tablets?variant=42526506254558",
+        "evidenceUrl": "https://healthvedaorganics.com/products/vitamin-c-tablets-boost-immunity-healthy-skin-120-veg-tablets.json",
+        "kind": "official-live",
+        "variantId": "42526506254558",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 62,
+      "profile": {
+        "category": "vitamin-c",
+        "brand": "Health Veda Organics",
+        "base": "https://healthvedaorganics.com",
+        "handle": "vitamin-c-tablets-boost-immunity-healthy-skin-120-veg-tablets",
+        "product": "Natural Vitamin C with Amla & Zinc",
+        "form": "Tablet",
+        "type": "Vitamin C + amla + zinc",
+        "subclass": "Plant extract blend",
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official product title and current bottle identify 120 tablets. Current text uses a 1000 mg Vitamin C claim without a verified units-per-serving label basis.",
+        "notes": "The active payload and serving basis require a consistent current label; vitamin C-content cost is withheld rather than treating total amla/blend mass as vitamin C.",
+        "labelChecked": "2026-10-31",
+        "packCount": 120,
+        "vitaminCMg": null
+      }
+    }
+  ]
+}

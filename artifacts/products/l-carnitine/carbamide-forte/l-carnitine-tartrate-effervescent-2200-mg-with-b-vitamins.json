@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "category": "l-carnitine",
+  "brand": "Carbamide Forte",
+  "product": "L-Carnitine Tartrate Effervescent 2200 mg with B vitamins",
+  "variants": [
+    {
+      "order": 6,
+      "offer": {
+        "brand": "Carbamide Forte",
+        "product": "L-Carnitine Tartrate Effervescent 2200 mg with B vitamins",
+        "form": "Tablet",
+        "type": "L-carnitine L-tartrate",
+        "subclass": "Effervescent compound + B-vitamin blend",
+        "source": "Not specified",
+        "flavour": "Orange",
+        "packaging": "Single retail pack: 2 tubes of 20 tablets",
+        "basis": "Official details explicitly state each tablet delivers 2200 mg L-carnitine L-tartrate. Product information specifies one retail pack of 40 tablets (two 20-tablet tubes).",
+        "notes": "One tablet is the declared composition basis. Free L-carnitine and B-vitamin quantities are unverified. The 40-tablet retail pack is two tubes total, not 40 per tube.",
+        "labelChecked": "2026-11-17",
+        "packCount": 40,
+        "servingUnits": 1,
+        "carnitineCompoundMg": 2200,
+        "carnitineMg": null,
+        "energyPerServing": null,
+        "labelSources": [
+          "https://mycf.in/products/l-carnitine-effervescent-2200mg-with-b-complex-vitamins-orange-flavour-40-tablets"
+        ],
+        "id": "l-carnitine-43062268395633",
+        "price": 799,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://mycf.in/products/l-carnitine-effervescent-2200mg-with-b-complex-vitamins-orange-flavour-40-tablets?variant=43062268395633",
+        "nutritionUrl": "https://mycf.in/products/l-carnitine-effervescent-2200mg-with-b-complex-vitamins-orange-flavour-40-tablets",
+        "searchAliases": [
+          "lclt"
+        ],
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://mycf.in/products/l-carnitine-effervescent-2200mg-with-b-complex-vitamins-orange-flavour-40-tablets?variant=43062268395633",
+          "evidenceUrl": "https://mycf.in/products/l-carnitine-effervescent-2200mg-with-b-complex-vitamins-orange-flavour-40-tablets.json",
+          "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3810,
+      "observation": {
+        "category": "l-carnitine",
+        "offerId": "l-carnitine-43062268395633",
+        "date": "2026-11-17",
+        "price": 799,
+        "currency": "INR",
+        "sourceUrl": "https://mycf.in/products/l-carnitine-effervescent-2200mg-with-b-complex-vitamins-orange-flavour-40-tablets?variant=43062268395633",
+        "evidenceUrl": "https://mycf.in/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Directly fetched official Shopify feed; exact variant ID, flavour and single retail pack verified against official product page. Conditional discounts excluded.",
+        "variantId": "43062268395633"
+      }
+    },
+    {
+      "order": 4004,
+      "observation": {
+        "category": "l-carnitine",
+        "offerId": "l-carnitine-43062268395633",
+        "date": "2026-11-19",
+        "price": 799,
+        "currency": "INR",
+        "sourceUrl": "https://mycf.in/products/l-carnitine-effervescent-2200mg-with-b-complex-vitamins-orange-flavour-40-tablets?variant=43062268395633",
+        "evidenceUrl": "https://mycf.in/products/l-carnitine-effervescent-2200mg-with-b-complex-vitamins-orange-flavour-40-tablets.json",
+        "kind": "official-live",
+        "variantId": "43062268395633",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 94,
+      "profile": {
+        "category": "l-carnitine",
+        "brand": "Carbamide Forte",
+        "base": "https://mycf.in",
+        "handle": "l-carnitine-effervescent-2200mg-with-b-complex-vitamins-orange-flavour-40-tablets",
+        "product": "L-Carnitine Tartrate Effervescent 2200 mg with B vitamins",
+        "form": "Tablet",
+        "type": "L-carnitine L-tartrate",
+        "subclass": "Effervescent compound + B-vitamin blend",
+        "source": "Not specified",
+        "flavour": "Orange",
+        "packaging": "Single retail pack: 2 tubes of 20 tablets",
+        "basis": "Official details explicitly state each tablet delivers 2200 mg L-carnitine L-tartrate. Product information specifies one retail pack of 40 tablets (two 20-tablet tubes).",
+        "notes": "One tablet is the declared composition basis. Free L-carnitine and B-vitamin quantities are unverified. The 40-tablet retail pack is two tubes total, not 40 per tube.",
+        "labelChecked": "2026-11-17",
+        "variantIds": [
+          "43062268395633"
+        ],
+        "packCount": 40,
+        "servingUnits": 1,
+        "carnitineCompoundMg": 2200,
+        "carnitineMg": null,
+        "energyPerServing": null,
+        "labelSources": [
+          "https://mycf.in/products/l-carnitine-effervescent-2200mg-with-b-complex-vitamins-orange-flavour-40-tablets"
+        ],
+        "searchAliases": [
+          "lclt"
+        ]
+      }
+    }
+  ]
+}

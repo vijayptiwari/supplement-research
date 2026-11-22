@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "category": "pre-workout",
+  "brand": "MuscleBlaze",
+  "product": "WrathX Pump",
+  "variants": [
+    {
+      "order": 10,
+      "offer": {
+        "id": "pre-workout-hk-245257",
+        "brand": "MuscleBlaze",
+        "product": "WrathX Pump",
+        "form": "Powder",
+        "type": "Caffeinated multi-ingredient",
+        "subclass": "Citrulline malate + beta-alanine + Nitrosigine",
+        "flavour": "Citrus Blast",
+        "packaging": "Single retail pack",
+        "price": 1929,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://www.muscleblaze.com/sv/muscleblaze-pre-workout-wrathx/SP-127525?navKey=VRNT-245257",
+        "nutritionUrl": "https://img8.hkrtcdn.com/37430/prd_3742907-MuscleBlaze-WrathX-Pump-0.66-lb-Citrus-Blast_o.jpg",
+        "labelSources": [
+          "https://www.muscleblaze.com/sv/muscleblaze-pre-workout-wrathx/SP-127525?navKey=VRNT-245257",
+          "https://img8.hkrtcdn.com/37430/prd_3742907-MuscleBlaze-WrathX-Pump-0.66-lb-Citrus-Blast_o.jpg",
+          "https://img4.hkrtcdn.com/37430/prd_3742943-MuscleBlaze-WrathX-Pump-0.66-lb-Citrus-Blast_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "245257",
+        "sourceProductId": "127525",
+        "source": "Not specified",
+        "notes": "The front graphic calls it L-citrulline, but the nutrition panel says L-citrulline DL-malate. Nitrosigine is recorded as its compound, not a declared free-arginine dose.",
+        "basis": "Exact official brand selected variant. The linked current product gallery nutrition panel was individually reviewed; amounts are per stated label serving. Product claims are manufacturer declarations, not independent assay results.",
+        "energyPerServing": 7.87,
+        "caffeineMg": 150,
+        "citrullineMalateMg": 3000,
+        "betaAlanineMg": 1600,
+        "taurineMg": 750,
+        "grams": 300,
+        "packCount": null,
+        "servingGrams": 10,
+        "additionalIngredients": [
+          {
+            "name": "Nitrosigine",
+            "amount": 1050,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "L-theanine",
+            "amount": 150,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "BioPerine black pepper extract",
+            "amount": 5,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          }
+        ],
+        "declaredNutrients": [
+          "caffeineMg",
+          "citrullineMalateMg",
+          "betaAlanineMg",
+          "taurineMg"
+        ],
+        "stimulantStatus": "Contains caffeine"
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5177,
+      "observation": {
+        "category": "pre-workout",
+        "offerId": "pre-workout-hk-245257",
+        "date": "2026-11-19",
+        "price": 1929,
+        "currency": "INR",
+        "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-pre-workout-wrathx/SP-127525?navKey=VRNT-245257",
+        "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-pre-workout-wrathx/SP-127525?navKey=VRNT-245257",
+        "kind": "official-live",
+        "variantId": "245257",
+        "matchBasis": "Official selected numeric variant 245257 and SP-127525 matched to exact flavour/pack attributes; unconditional INR offer_pr, is_published=true and variant oos checked; no coupon or loyalty prices."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 287,
+      "profile": {
+        "id": "pre-workout-hk-245257",
+        "brand": "MuscleBlaze",
+        "product": "WrathX Pump",
+        "form": "Powder",
+        "type": "Caffeinated multi-ingredient",
+        "subclass": "Citrulline malate + beta-alanine + Nitrosigine",
+        "flavour": "Citrus Blast",
+        "packaging": "Single retail pack",
+        "currency": "INR",
+        "nutritionUrl": "https://img8.hkrtcdn.com/37430/prd_3742907-MuscleBlaze-WrathX-Pump-0.66-lb-Citrus-Blast_o.jpg",
+        "labelSources": [
+          "https://www.muscleblaze.com/sv/muscleblaze-pre-workout-wrathx/SP-127525?navKey=VRNT-245257",
+          "https://img8.hkrtcdn.com/37430/prd_3742907-MuscleBlaze-WrathX-Pump-0.66-lb-Citrus-Blast_o.jpg",
+          "https://img4.hkrtcdn.com/37430/prd_3742943-MuscleBlaze-WrathX-Pump-0.66-lb-Citrus-Blast_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "source": "Not specified",
+        "notes": "The front graphic calls it L-citrulline, but the nutrition panel says L-citrulline DL-malate. Nitrosigine is recorded as its compound, not a declared free-arginine dose.",
+        "basis": "Exact official brand selected variant. The linked current product gallery nutrition panel was individually reviewed; amounts are per stated label serving. Product claims are manufacturer declarations, not independent assay results.",
+        "energyPerServing": 7.87,
+        "caffeineMg": 150,
+        "citrullineMalateMg": 3000,
+        "betaAlanineMg": 1600,
+        "taurineMg": 750,
+        "grams": 300,
+        "packCount": null,
+        "servingGrams": 10,
+        "additionalIngredients": [
+          {
+            "name": "Nitrosigine",
+            "amount": 1050,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "L-theanine",
+            "amount": 150,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "BioPerine black pepper extract",
+            "amount": 5,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          }
+        ],
+        "declaredNutrients": [
+          "caffeineMg",
+          "citrullineMalateMg",
+          "betaAlanineMg",
+          "taurineMg"
+        ],
+        "category": "pre-workout",
+        "kind": "hk-product",
+        "base": "https://www.muscleblaze.com",
+        "productUrl": "https://www.muscleblaze.com/sv/muscleblaze-pre-workout-wrathx/SP-127525?navKey=VRNT-245257",
+        "variantUrl": "https://www.muscleblaze.com/sv/muscleblaze-pre-workout-wrathx/SP-127525?navKey=VRNT-245257",
+        "variantId": "245257",
+        "productId": "127525",
+        "sourceBrand": "MuscleBlaze",
+        "variantAttributes": {
+          "gen-pro-siz": "0.66 lb",
+          "gen-sn-flv": "Citrus Blast"
+        },
+        "cacheKey": "hk-performance-245257",
+        "packSizeLabel": "0.66 lb",
+        "netWeightEvidenceUrl": "https://img4.hkrtcdn.com/37430/prd_3742943-MuscleBlaze-WrathX-Pump-0.66-lb-Citrus-Blast_o.jpg",
+        "netWeightEvidenceGrams": 300,
+        "netWeightEvidenceChecked": "2026-11-19",
+        "stimulantStatus": "Contains caffeine"
+      }
+    }
+  ]
+}

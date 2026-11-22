@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "category": "zmc",
+  "brand": "Pure Nutrition",
+  "product": "Calcium Magnesium Zinc with D3 & K2",
+  "variants": [
+    {
+      "order": 0,
+      "offer": {
+        "brand": "Pure Nutrition",
+        "product": "Calcium Magnesium Zinc with D3 & K2",
+        "form": "Tablet",
+        "type": "Calcium citrate malate / magnesium oxide / zinc sulphate",
+        "subclass": "With D3 + K2",
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Current label states 1 tablet and 60 servings. It names calcium citrate malate 1000 mg, magnesium oxide 50 mg and zinc sulphate 8 mg.",
+        "notes": "The named compound amounts are not unambiguous elemental amounts. Elemental calcium, magnesium and zinc costs are not inferred from salts or RDA percentages.",
+        "packCount": 60,
+        "calciumCompoundMg": 1000,
+        "magnesiumCompoundMg": 50,
+        "zincCompoundMg": 8,
+        "vitaminDMcg": 15,
+        "vitaminK2Mcg": 55,
+        "energyPerServing": 0.36,
+        "declaredActives": [
+          "calcium",
+          "magnesium",
+          "zinc"
+        ],
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0618/9629/4654/files/ROP_6_0d82bf49-d046-4450-b38b-46d76df2c0ce.jpg?v=1788331285"
+        ],
+        "id": "zmc-48626203197694",
+        "price": 435,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://purenutrition.in/products/calcium-magnesium-zinc-vitamin-d3-k2-tablets-60-tabs?variant=48626203197694",
+        "nutritionUrl": "https://purenutrition.in/products/calcium-magnesium-zinc-vitamin-d3-k2-tablets-60-tabs",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-10-29",
+        "declaredNutrients": [
+          "calciumMg",
+          "magnesiumMg",
+          "zincMg",
+          "vitaminDMcg",
+          "vitaminK2Mcg"
+        ],
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://purenutrition.in/products/calcium-magnesium-zinc-vitamin-d3-k2-tablets-60-tabs?variant=48626203197694",
+          "evidenceUrl": "https://purenutrition.in/products/calcium-magnesium-zinc-vitamin-d3-k2-tablets-60-tabs.json",
+          "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3735,
+      "observation": {
+        "category": "zmc",
+        "offerId": "zmc-48626203197694",
+        "date": "2026-10-29",
+        "price": 435,
+        "currency": "INR",
+        "sourceUrl": "https://purenutrition.in/products/calcium-magnesium-zinc-vitamin-d3-k2-tablets-60-tabs?variant=48626203197694",
+        "evidenceUrl": "https://purenutrition.in/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "48626203197694"
+      }
+    },
+    {
+      "order": 3917,
+      "observation": {
+        "category": "zmc",
+        "offerId": "zmc-48626203197694",
+        "date": "2026-11-19",
+        "price": 435,
+        "currency": "INR",
+        "sourceUrl": "https://purenutrition.in/products/calcium-magnesium-zinc-vitamin-d3-k2-tablets-60-tabs?variant=48626203197694",
+        "evidenceUrl": "https://purenutrition.in/products/calcium-magnesium-zinc-vitamin-d3-k2-tablets-60-tabs.json",
+        "kind": "official-live",
+        "variantId": "48626203197694",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 27,
+      "profile": {
+        "category": "zmc",
+        "brand": "Pure Nutrition",
+        "base": "https://purenutrition.in",
+        "handle": "calcium-magnesium-zinc-vitamin-d3-k2-tablets-60-tabs",
+        "product": "Calcium Magnesium Zinc with D3 & K2",
+        "form": "Tablet",
+        "type": "Calcium citrate malate / magnesium oxide / zinc sulphate",
+        "subclass": "With D3 + K2",
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Current label states 1 tablet and 60 servings. It names calcium citrate malate 1000 mg, magnesium oxide 50 mg and zinc sulphate 8 mg.",
+        "notes": "The named compound amounts are not unambiguous elemental amounts. Elemental calcium, magnesium and zinc costs are not inferred from salts or RDA percentages.",
+        "packCount": 60,
+        "calciumCompoundMg": 1000,
+        "magnesiumCompoundMg": 50,
+        "zincCompoundMg": 8,
+        "vitaminDMcg": 15,
+        "vitaminK2Mcg": 55,
+        "energyPerServing": 0.36,
+        "declaredActives": [
+          "calcium",
+          "magnesium",
+          "zinc"
+        ],
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0618/9629/4654/files/ROP_6_0d82bf49-d046-4450-b38b-46d76df2c0ce.jpg?v=1788331285"
+        ]
+      }
+    }
+  ]
+}

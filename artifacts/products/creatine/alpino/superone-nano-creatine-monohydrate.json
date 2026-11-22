@@ -1,0 +1,192 @@
+{
+  "schemaVersion": 1,
+  "category": "creatine",
+  "brand": "Alpino",
+  "product": "SuperONE Nano Creatine Monohydrate",
+  "variants": [
+    {
+      "order": 215,
+      "offer": {
+        "id": "creatine-alpino-48464569630890",
+        "brand": "Alpino",
+        "product": "SuperONE Nano Creatine Monohydrate",
+        "flavour": "Lemonade",
+        "packaging": "Jar",
+        "source": "Not specified",
+        "price": 979,
+        "currency": "INR",
+        "stock": "Sold out",
+        "url": "https://alpino.store/products/nano-creatine-lemonade-250g?variant=48464569630890",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0520/1572/6762/files/Property1_03_9704f7ab-757b-487d-8105-fb03c963fefe.webp?v=1780654146",
+        "labelSources": [
+          "https://alpino.store/products/nano-creatine-lemonade-250g?variant=48464569630890",
+          "https://cdn.shopify.com/s/files/1/0520/1572/6762/files/Property1_03_9704f7ab-757b-487d-8105-fb03c963fefe.webp?v=1780654146"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "48464569630890",
+        "form": "Powder",
+        "basis": "Exact official retail pack and ordinary INR listed price reviewed on 20 November 2026. Nutrition values are manufacturer declarations, not independent assay results. Trustified was used for discovery; a report on another batch or product does not certify this listing.",
+        "notes": "Product is listed by Alpino under its SuperONE line. Exact 250 g retail pack. Lemonade composition declares 3 g creatine monohydrate per 5 g scoop,2 kcal per 5 g serving, plus lemon/black salt/coconut-water powder and sweeteners; concentration 60% and 40 kcal/100 g calculated from label. Nano-particle wording is a manufacturer descriptor; superior absorption or efficacy has not been adopted. This pack is currently sold out. Not linked to a peanut-protein batch test.",
+        "grams": 250,
+        "kg": 0.25,
+        "type": "Monohydrate",
+        "subclass": "Nano-particle (manufacturer description)",
+        "grade": "Not specified",
+        "formulation": "Flavoured blend",
+        "creatine": 60,
+        "scoop": 5,
+        "creatineServing": 3,
+        "energy": 40
+      }
+    },
+    {
+      "order": 216,
+      "offer": {
+        "id": "creatine-alpino-48464617767082",
+        "brand": "Alpino",
+        "product": "SuperONE Nano Creatine Monohydrate",
+        "flavour": "Unflavoured",
+        "packaging": "Jar",
+        "source": "Not specified",
+        "price": 979,
+        "currency": "INR",
+        "stock": "Sold out",
+        "url": "https://alpino.store/products/nano-creatine-unflavored-250g?variant=48464617767082",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0520/1572/6762/files/Property1_03_c2d1192d-ea31-4813-848c-549868c7e4c6.webp?v=1780654147",
+        "labelSources": [
+          "https://alpino.store/products/nano-creatine-unflavored-250g?variant=48464617767082",
+          "https://cdn.shopify.com/s/files/1/0520/1572/6762/files/Property1_03_c2d1192d-ea31-4813-848c-549868c7e4c6.webp?v=1780654147"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "48464617767082",
+        "form": "Powder",
+        "basis": "Exact official retail pack and ordinary INR listed price reviewed on 20 November 2026. Nutrition values are manufacturer declarations, not independent assay results. Trustified was used for discovery; a report on another batch or product does not certify this listing.",
+        "notes": "Product is listed by Alpino under its SuperONE line. Exact 250 g retail pack. Unflavoured composition declares 3 g creatine monohydrate per 3 g scoop and 0 kcal. Nano-particle wording is a manufacturer descriptor; superior absorption or efficacy has not been adopted. This pack is currently sold out. Not linked to a peanut-protein batch test.",
+        "grams": 250,
+        "kg": 0.25,
+        "type": "Monohydrate",
+        "subclass": "Nano-particle (manufacturer description)",
+        "grade": "Not specified",
+        "formulation": "Single ingredient",
+        "creatine": 100,
+        "scoop": 3,
+        "creatineServing": 3,
+        "energy": 0
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5307,
+      "observation": {
+        "category": "creatine",
+        "offerId": "creatine-alpino-48464569630890",
+        "date": "2026-11-20",
+        "price": 979,
+        "currency": "INR",
+        "sourceUrl": "https://alpino.store/products/nano-creatine-lemonade-250g?variant=48464569630890",
+        "evidenceUrl": "https://alpino.store/products/nano-creatine-lemonade-250g.json",
+        "kind": "official-live",
+        "variantId": "48464569630890",
+        "matchBasis": "Official Shopify exact variant ID 48464569630890; selected pack title 250G and actual net grams, ordinary listed INR price and variant stock reviewed."
+      }
+    },
+    {
+      "order": 5308,
+      "observation": {
+        "category": "creatine",
+        "offerId": "creatine-alpino-48464617767082",
+        "date": "2026-11-20",
+        "price": 979,
+        "currency": "INR",
+        "sourceUrl": "https://alpino.store/products/nano-creatine-unflavored-250g?variant=48464617767082",
+        "evidenceUrl": "https://alpino.store/products/nano-creatine-unflavored-250g.json",
+        "kind": "official-live",
+        "variantId": "48464617767082",
+        "matchBasis": "Official Shopify exact variant ID 48464617767082; selected pack title 250G and actual net grams, ordinary listed INR price and variant stock reviewed."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 390,
+      "profile": {
+        "id": "creatine-alpino-48464569630890",
+        "brand": "Alpino",
+        "product": "SuperONE Nano Creatine Monohydrate",
+        "flavour": "Lemonade",
+        "packaging": "Jar",
+        "source": "Not specified",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0520/1572/6762/files/Property1_03_9704f7ab-757b-487d-8105-fb03c963fefe.webp?v=1780654146",
+        "labelSources": [
+          "https://alpino.store/products/nano-creatine-lemonade-250g?variant=48464569630890",
+          "https://cdn.shopify.com/s/files/1/0520/1572/6762/files/Property1_03_9704f7ab-757b-487d-8105-fb03c963fefe.webp?v=1780654146"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "form": "Powder",
+        "basis": "Exact official retail pack and ordinary INR listed price reviewed on 20 November 2026. Nutrition values are manufacturer declarations, not independent assay results. Trustified was used for discovery; a report on another batch or product does not certify this listing.",
+        "notes": "Product is listed by Alpino under its SuperONE line. Exact 250 g retail pack. Lemonade composition declares 3 g creatine monohydrate per 5 g scoop,2 kcal per 5 g serving, plus lemon/black salt/coconut-water powder and sweeteners; concentration 60% and 40 kcal/100 g calculated from label. Nano-particle wording is a manufacturer descriptor; superior absorption or efficacy has not been adopted. This pack is currently sold out. Not linked to a peanut-protein batch test.",
+        "grams": 250,
+        "kg": 0.25,
+        "type": "Monohydrate",
+        "subclass": "Nano-particle (manufacturer description)",
+        "grade": "Not specified",
+        "formulation": "Flavoured blend",
+        "creatine": 60,
+        "scoop": 5,
+        "creatineServing": 3,
+        "energy": 40,
+        "category": "creatine",
+        "kind": "shopify",
+        "base": "https://alpino.store",
+        "handle": "nano-creatine-lemonade-250g",
+        "variantIds": [
+          "48464569630890"
+        ],
+        "cacheKey": "alpino-48464569630890"
+      }
+    },
+    {
+      "order": 391,
+      "profile": {
+        "id": "creatine-alpino-48464617767082",
+        "brand": "Alpino",
+        "product": "SuperONE Nano Creatine Monohydrate",
+        "flavour": "Unflavoured",
+        "packaging": "Jar",
+        "source": "Not specified",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0520/1572/6762/files/Property1_03_c2d1192d-ea31-4813-848c-549868c7e4c6.webp?v=1780654147",
+        "labelSources": [
+          "https://alpino.store/products/nano-creatine-unflavored-250g?variant=48464617767082",
+          "https://cdn.shopify.com/s/files/1/0520/1572/6762/files/Property1_03_c2d1192d-ea31-4813-848c-549868c7e4c6.webp?v=1780654147"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "form": "Powder",
+        "basis": "Exact official retail pack and ordinary INR listed price reviewed on 20 November 2026. Nutrition values are manufacturer declarations, not independent assay results. Trustified was used for discovery; a report on another batch or product does not certify this listing.",
+        "notes": "Product is listed by Alpino under its SuperONE line. Exact 250 g retail pack. Unflavoured composition declares 3 g creatine monohydrate per 3 g scoop and 0 kcal. Nano-particle wording is a manufacturer descriptor; superior absorption or efficacy has not been adopted. This pack is currently sold out. Not linked to a peanut-protein batch test.",
+        "grams": 250,
+        "kg": 0.25,
+        "type": "Monohydrate",
+        "subclass": "Nano-particle (manufacturer description)",
+        "grade": "Not specified",
+        "formulation": "Single ingredient",
+        "creatine": 100,
+        "scoop": 3,
+        "creatineServing": 3,
+        "energy": 0,
+        "category": "creatine",
+        "kind": "shopify",
+        "base": "https://alpino.store",
+        "handle": "nano-creatine-unflavored-250g",
+        "variantIds": [
+          "48464617767082"
+        ],
+        "cacheKey": "alpino-48464617767082"
+      }
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "schemaVersion": 1,
+  "category": "folic-acid",
+  "brand": "Neuherbs",
+  "product": "True Vitamin B12 with Folic Acid, Inositol and Botanicals",
+  "variants": [
+    {
+      "order": 6,
+      "offer": {
+        "id": "folic-acid-44928074416298",
+        "brand": "Neuherbs",
+        "product": "True Vitamin B12 with Folic Acid, Inositol and Botanicals",
+        "form": "Tablet",
+        "type": "Cyanocobalamin + folic acid",
+        "subclass": "B12 + folic acid combination",
+        "flavour": "Unflavoured",
+        "source": "Plant-labelled formulation; source authentication not independently tested",
+        "packCount": 60,
+        "servingUnits": 1,
+        "price": 349,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://neuherbs.com/products/b12-vitamin-tablets-energy-circulation?variant=44928074416298",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/True_vitamin_B12_9.webp?v=1774249905",
+        "labelSources": [
+          "https://neuherbs.com/products/b12-vitamin-tablets-energy-circulation",
+          "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/True_vitamin_B12_9.webp?v=1774249905"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Official bottle panel per one tablet: B12(cyanocobalamin)2.2micrograms and folic acid129.41micrograms, with inositol100mg,Punarnava100mg and spirulina extract50mg.",
+        "notes": "The front plant/spirulina marketing is not treated as analytical proof of B12 source or bioavailability. The numeric payload and cyanocobalamin form come from the supplement facts.",
+        "packaging": "Brand-listed retail pack (60 tablets)",
+        "vitaminB12Mcg": 2.2,
+        "folicAcidMcg": 129.41,
+        "energyPerServing": 0.88,
+        "declaredNutrients": [
+          "vitaminB12Mcg",
+          "folicAcidMcg"
+        ]
+      }
+    },
+    {
+      "order": 7,
+      "offer": {
+        "id": "folic-acid-46152288469162",
+        "brand": "Neuherbs",
+        "product": "True Vitamin B12 with Folic Acid, Inositol and Botanicals",
+        "form": "Tablet",
+        "type": "Cyanocobalamin + folic acid",
+        "subclass": "B12 + folic acid combination",
+        "flavour": "Unflavoured",
+        "source": "Plant-labelled formulation; source authentication not independently tested",
+        "packCount": 120,
+        "servingUnits": 1,
+        "price": 669,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://neuherbs.com/products/b12-vitamin-tablets-energy-circulation?variant=46152288469162",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/True_vitamin_B12_9.webp?v=1774249905",
+        "labelSources": [
+          "https://neuherbs.com/products/b12-vitamin-tablets-energy-circulation",
+          "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/True_vitamin_B12_9.webp?v=1774249905"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Official bottle panel per one tablet: B12(cyanocobalamin)2.2micrograms and folic acid129.41micrograms, with inositol100mg,Punarnava100mg and spirulina extract50mg.",
+        "notes": "The front plant/spirulina marketing is not treated as analytical proof of B12 source or bioavailability. The numeric payload and cyanocobalamin form come from the supplement facts.",
+        "packaging": "Brand-listed retail pack (120 tablets)",
+        "vitaminB12Mcg": 2.2,
+        "folicAcidMcg": 129.41,
+        "energyPerServing": 0.88,
+        "declaredNutrients": [
+          "vitaminB12Mcg",
+          "folicAcidMcg"
+        ]
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3983,
+      "observation": {
+        "category": "folic-acid",
+        "offerId": "folic-acid-44928074416298",
+        "date": "2026-11-19",
+        "price": 349,
+        "currency": "INR",
+        "sourceUrl": "https://neuherbs.com/products/b12-vitamin-tablets-energy-circulation?variant=44928074416298",
+        "evidenceUrl": "https://neuherbs.com/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "44928074416298",
+        "matchBasis": "Official public Shopify feed exact variant ID and explicitly listed retail count; unconditional INR variant price. Label serving and payload independently checked against official label panel."
+      }
+    },
+    {
+      "order": 3984,
+      "observation": {
+        "category": "folic-acid",
+        "offerId": "folic-acid-46152288469162",
+        "date": "2026-11-19",
+        "price": 669,
+        "currency": "INR",
+        "sourceUrl": "https://neuherbs.com/products/b12-vitamin-tablets-energy-circulation?variant=46152288469162",
+        "evidenceUrl": "https://neuherbs.com/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "46152288469162",
+        "matchBasis": "Official public Shopify feed exact variant ID and explicitly listed retail count; unconditional INR variant price. Label serving and payload independently checked against official label panel."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 167,
+      "profile": {
+        "brand": "Neuherbs",
+        "product": "True Vitamin B12 with Folic Acid, Inositol and Botanicals",
+        "form": "Tablet",
+        "type": "Cyanocobalamin + folic acid",
+        "subclass": "B12 + folic acid combination",
+        "flavour": "Unflavoured",
+        "source": "Plant-labelled formulation; source authentication not independently tested",
+        "packCount": 60,
+        "servingUnits": 1,
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/True_vitamin_B12_9.webp?v=1774249905",
+        "labelSources": [
+          "https://neuherbs.com/products/b12-vitamin-tablets-energy-circulation",
+          "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/True_vitamin_B12_9.webp?v=1774249905"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Official bottle panel per one tablet: B12(cyanocobalamin)2.2micrograms and folic acid129.41micrograms, with inositol100mg,Punarnava100mg and spirulina extract50mg.",
+        "notes": "The front plant/spirulina marketing is not treated as analytical proof of B12 source or bioavailability. The numeric payload and cyanocobalamin form come from the supplement facts.",
+        "packaging": "Brand-listed retail pack (60 tablets)",
+        "vitaminB12Mcg": 2.2,
+        "folicAcidMcg": 129.41,
+        "energyPerServing": 0.88,
+        "declaredNutrients": [
+          "vitaminB12Mcg",
+          "folicAcidMcg"
+        ],
+        "category": "folic-acid",
+        "base": "https://neuherbs.com",
+        "handle": "b12-vitamin-tablets-energy-circulation",
+        "variantIds": [
+          44928074416298
+        ],
+        "allowRetailMultipack": true,
+        "id": "folic-acid-44928074416298"
+      }
+    },
+    {
+      "order": 168,
+      "profile": {
+        "brand": "Neuherbs",
+        "product": "True Vitamin B12 with Folic Acid, Inositol and Botanicals",
+        "form": "Tablet",
+        "type": "Cyanocobalamin + folic acid",
+        "subclass": "B12 + folic acid combination",
+        "flavour": "Unflavoured",
+        "source": "Plant-labelled formulation; source authentication not independently tested",
+        "packCount": 120,
+        "servingUnits": 1,
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/True_vitamin_B12_9.webp?v=1774249905",
+        "labelSources": [
+          "https://neuherbs.com/products/b12-vitamin-tablets-energy-circulation",
+          "https://cdn.shopify.com/s/files/1/0577/6162/8330/files/True_vitamin_B12_9.webp?v=1774249905"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Official bottle panel per one tablet: B12(cyanocobalamin)2.2micrograms and folic acid129.41micrograms, with inositol100mg,Punarnava100mg and spirulina extract50mg.",
+        "notes": "The front plant/spirulina marketing is not treated as analytical proof of B12 source or bioavailability. The numeric payload and cyanocobalamin form come from the supplement facts.",
+        "packaging": "Brand-listed retail pack (120 tablets)",
+        "vitaminB12Mcg": 2.2,
+        "folicAcidMcg": 129.41,
+        "energyPerServing": 0.88,
+        "declaredNutrients": [
+          "vitaminB12Mcg",
+          "folicAcidMcg"
+        ],
+        "category": "folic-acid",
+        "base": "https://neuherbs.com",
+        "handle": "b12-vitamin-tablets-energy-circulation",
+        "variantIds": [
+          46152288469162
+        ],
+        "allowRetailMultipack": true,
+        "id": "folic-acid-46152288469162"
+      }
+    }
+  ]
+}

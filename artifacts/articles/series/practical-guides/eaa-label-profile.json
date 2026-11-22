@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "order": 56,
+  "article": {
+    "id": "eaa-label-profile",
+    "category": "eaa",
+    "series": "practical-guides",
+    "title": "How to read an EAA label: nine names, individual amounts and hidden overlap",
+    "summary": "A complete-sounding front label is only the beginning of an amino-acid product assessment.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "EAA is a description of essential amino acids, not a guarantee that two tubs supply the same formulation. Some products disclose each component; others emphasize a total, a leucine figure or a proprietary blend. An effective label review separates the identity of the mixture from its serving size, added ingredients and the reason for using it. This article gives a practical sequence for that review without turning a printed formula into a personal prescription.",
+    "sections": [
+      {
+        "id": "identify-nine",
+        "title": "Identify the essential-amino-acid set",
+        "body": "The nine essential amino acids include the three BCAAs as well as six others. Check the actual ingredient declaration rather than assuming that an amino-acid product supplies the complete set because of its branding. Extra taurine, glutamine or another amino acid does not replace an omitted essential component. Conversely, a long ingredient list is not automatically a better nutritional profile. Start by identifying what is present, then consider the proportions and relevant evidence. Counting names is useful for identity but cannot alone establish clinical or training value.",
+        "sourceIds": [
+          "food-performance-amino-acids",
+          "eaa-position"
+        ]
+      },
+      {
+        "id": "individual-amounts",
+        "title": "An aggregate total cannot show the profile",
+        "body": "A total EAA figure can be useful, but it does not reveal how much of each component contributes to that total. A large leucine amount cannot answer the same question as a complete essential-amino-acid pattern. Where quantities are withheld, do not infer that the mixture matches a published formula or manufacture equal shares by dividing by nine. Preserve the information gap in the comparison. A transparent product allows its composition to be checked; the reviewer should not need to reconstruct the formula from a marketing slogan.",
+        "sourceIds": [
+          "supplement-quality-ods",
+          "comparison-eaa-leucine-churchward-2012"
+        ]
+      },
+      {
+        "id": "full-serving",
+        "title": "Use the complete serving and the correct units",
+        "body": "Scoop volume, powder weight and declared amino-acid amount are different quantities. Flavours and other ingredients may contribute to the full serving. Check whether a panel refers to one scoop or a larger complete serving, and retain the stated unit rather than mixing milligrams with grams. When pack size and serving mass are verified, usable servings can be calculated transparently. If those inputs are missing, estimated pack duration should remain unknown. Numerical neatness is not a substitute for a verified label basis.",
+        "sourceIds": [
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "leucine-profile",
+        "title": "Do not let one amino acid become a complete effectiveness score",
+        "body": "A human tracer experiment comparing modified small whey servings with a complete-whey treatment found that the time course of the response mattered. It does not establish an ideal ratio for every retail EAA product. A leucine peak, a signalling change and sustained protein synthesis are not interchangeable measurements. Ask whether a study directly tested the finished profile and whether its participants and endpoint resemble the proposed use. The familiar name of one component cannot make the rest of the formula or the overall diet irrelevant.",
+        "sourceIds": [
+          "comparison-eaa-leucine-churchward-2012"
+        ]
+      },
+      {
+        "id": "extras-and-overlap",
+        "title": "Read co-ingredients and existing products separately",
+        "body": "An EAA drink may also include stimulants, vitamins, minerals or additional amino acids. Count each declared co-ingredient in its own unit and review overlap with pre-workout, multivitamins and ordinary drinks. Do not add BCAA content to an EAA total again as if it were independent new nutrition. Likewise, amino acids already present in a protein product do not become a second protein serving because they appear under another label heading. The objective is an understandable inventory, not the largest possible combined milligram figure.",
+        "sourceIds": [
+          "food-performance-amino-acids",
+          "preworkout-review",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "evidence-match",
+        "title": "A clinical or diet-restriction study is not a generic label endorsement",
+        "body": "EAA formulations have been studied in several nutritional contexts, including older adults and restricted energy intake. A trial in older women reported changes in lean mass and protein synthesis without an improvement in its strength measure. That pattern is more informative than a claim that any EAA tub reverses muscle loss. Identify the exact formulation, population and outcome. A clinical nutrition problem requires assessment of its cause, and a retail product should not inherit treatment claims merely because it contains familiar amino-acid names.",
+        "sourceIds": [
+          "pe-eaa-older-women-2009"
+        ]
+      },
+      {
+        "id": "buying-check",
+        "title": "Judge value after identifying the purpose",
+        "body": "Compare clearly specified profiles, full-serving cost, tolerability and relevant quality documentation. A lower cost per gram of a very different mixture does not establish better value for the intended purpose. Food may already supply what is needed, and an EAA product is not automatically an upgrade for someone eating sufficient suitable protein. People with medically restricted protein intake or an inherited amino-acid disorder need individual advice. A useful decision can be to buy one appropriate product, improve food intake or make no additional purchase.",
+        "sourceIds": [
+          "eaa-position",
+          "food-performance-protein",
+          "supplement-quality-ods"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "food-performance-amino-acids",
+      "eaa-position",
+      "supplement-quality-ods",
+      "comparison-eaa-leucine-churchward-2012",
+      "preworkout-review",
+      "pe-eaa-older-women-2009",
+      "food-performance-protein"
+    ]
+  }
+}

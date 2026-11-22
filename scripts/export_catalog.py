@@ -1,6 +1,11 @@
 """Export the researched catalog to the static site's pack-level JSON."""
 import json, pathlib
 root = pathlib.Path(__file__).resolve().parents[1]
+try:
+    from artifact_bridge import reject_legacy_writer
+except ModuleNotFoundError:
+    from scripts.artifact_bridge import reject_legacy_writer
+reject_legacy_writer(root,'export_catalog.py')
 source = root / 'outputs/protein_catalog_20261025'
 records = json.loads((source / 'combined_records.json').read_text(encoding='utf-8-sig'))
 nutrition = json.loads((source / 'nutrition_details.json').read_text(encoding='utf-8-sig'))

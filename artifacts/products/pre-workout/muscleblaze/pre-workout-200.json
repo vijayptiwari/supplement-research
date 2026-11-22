@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "category": "pre-workout",
+  "brand": "MuscleBlaze",
+  "product": "PRE Workout 200",
+  "variants": [
+    {
+      "order": 6,
+      "offer": {
+        "id": "pre-workout-hk-156569",
+        "brand": "MuscleBlaze",
+        "product": "PRE Workout 200",
+        "form": "Powder",
+        "type": "Caffeinated multi-ingredient",
+        "subclass": "Citrulline malate + arginine HCl + caffeine",
+        "flavour": "Fruit Splash",
+        "packaging": "Single retail pack",
+        "price": 709,
+        "currency": "INR",
+        "stock": "Sold out",
+        "url": "https://www.muscleblaze.com/sv/muscleblaze-pre-workout-200/SP-83611?navKey=VRNT-156569",
+        "nutritionUrl": "https://img6.hkrtcdn.com/39080/prd_3907965-MuscleBlaze-PRE-Workout-200-0.22-lb-Fruit-Splash_o.jpg",
+        "labelSources": [
+          "https://www.muscleblaze.com/sv/muscleblaze-pre-workout-200/SP-83611?navKey=VRNT-156569",
+          "https://img6.hkrtcdn.com/39080/prd_3907965-MuscleBlaze-PRE-Workout-200-0.22-lb-Fruit-Splash_o.jpg",
+          "https://img6.hkrtcdn.com/39080/prd_3907915-MuscleBlaze-PRE-Workout-200-0.22-lb-Fruit-Splash_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "156569",
+        "sourceProductId": "83611",
+        "source": "Not specified",
+        "notes": "The panel calls the arginine ingredient L-arginine; the ingredient list specifies L-arginine hydrochloride. Conservatively record 1,500 mg compound rather than a free-arginine amount. Selected pack is sold out.",
+        "basis": "Exact official brand selected variant. The linked current product gallery nutrition panel was individually reviewed; amounts are per stated label serving. Product claims are manufacturer declarations, not independent assay results.",
+        "energyPerServing": 4.38,
+        "caffeineMg": 200,
+        "citrullineMalateMg": 2200,
+        "arginineCompoundMg": 1500,
+        "grams": 100,
+        "packCount": null,
+        "servingGrams": 6,
+        "declaredNutrients": [
+          "caffeineMg",
+          "citrullineMalateMg",
+          "arginineCompoundMg"
+        ],
+        "stimulantStatus": "Contains caffeine"
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5173,
+      "observation": {
+        "category": "pre-workout",
+        "offerId": "pre-workout-hk-156569",
+        "date": "2026-11-19",
+        "price": 709,
+        "currency": "INR",
+        "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-pre-workout-200/SP-83611?navKey=VRNT-156569",
+        "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-pre-workout-200/SP-83611?navKey=VRNT-156569",
+        "kind": "official-live",
+        "variantId": "156569",
+        "matchBasis": "Official selected numeric variant 156569 and SP-83611 matched to exact flavour/pack attributes; unconditional INR offer_pr, is_published=true and variant oos checked; no coupon or loyalty prices."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 283,
+      "profile": {
+        "id": "pre-workout-hk-156569",
+        "brand": "MuscleBlaze",
+        "product": "PRE Workout 200",
+        "form": "Powder",
+        "type": "Caffeinated multi-ingredient",
+        "subclass": "Citrulline malate + arginine HCl + caffeine",
+        "flavour": "Fruit Splash",
+        "packaging": "Single retail pack",
+        "currency": "INR",
+        "nutritionUrl": "https://img6.hkrtcdn.com/39080/prd_3907965-MuscleBlaze-PRE-Workout-200-0.22-lb-Fruit-Splash_o.jpg",
+        "labelSources": [
+          "https://www.muscleblaze.com/sv/muscleblaze-pre-workout-200/SP-83611?navKey=VRNT-156569",
+          "https://img6.hkrtcdn.com/39080/prd_3907965-MuscleBlaze-PRE-Workout-200-0.22-lb-Fruit-Splash_o.jpg",
+          "https://img6.hkrtcdn.com/39080/prd_3907915-MuscleBlaze-PRE-Workout-200-0.22-lb-Fruit-Splash_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "source": "Not specified",
+        "notes": "The panel calls the arginine ingredient L-arginine; the ingredient list specifies L-arginine hydrochloride. Conservatively record 1,500 mg compound rather than a free-arginine amount. Selected pack is sold out.",
+        "basis": "Exact official brand selected variant. The linked current product gallery nutrition panel was individually reviewed; amounts are per stated label serving. Product claims are manufacturer declarations, not independent assay results.",
+        "energyPerServing": 4.38,
+        "caffeineMg": 200,
+        "citrullineMalateMg": 2200,
+        "arginineCompoundMg": 1500,
+        "grams": 100,
+        "packCount": null,
+        "servingGrams": 6,
+        "declaredNutrients": [
+          "caffeineMg",
+          "citrullineMalateMg",
+          "arginineCompoundMg"
+        ],
+        "category": "pre-workout",
+        "kind": "hk-product",
+        "base": "https://www.muscleblaze.com",
+        "productUrl": "https://www.muscleblaze.com/sv/muscleblaze-pre-workout-200/SP-83611?navKey=VRNT-156569",
+        "variantUrl": "https://www.muscleblaze.com/sv/muscleblaze-pre-workout-200/SP-83611?navKey=VRNT-156569",
+        "variantId": "156569",
+        "productId": "83611",
+        "sourceBrand": "MuscleBlaze",
+        "variantAttributes": {
+          "gen-pro-siz": "0.22 lb",
+          "gen-sn-flv": "Fruit Splash"
+        },
+        "cacheKey": "hk-performance-156569",
+        "packSizeLabel": "0.22 lb",
+        "netWeightEvidenceUrl": "https://img6.hkrtcdn.com/39080/prd_3907915-MuscleBlaze-PRE-Workout-200-0.22-lb-Fruit-Splash_o.jpg",
+        "netWeightEvidenceGrams": 100,
+        "netWeightEvidenceChecked": "2026-11-19",
+        "stimulantStatus": "Contains caffeine"
+      }
+    }
+  ]
+}

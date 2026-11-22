@@ -1,0 +1,180 @@
+{
+  "schemaVersion": 1,
+  "category": "vitamin-c",
+  "brand": "Carbamide Forte",
+  "product": "Natural Vitamin C from Amla with Zinc",
+  "variants": [
+    {
+      "order": 0,
+      "offer": {
+        "brand": "Carbamide Forte",
+        "product": "Natural Vitamin C from Amla with Zinc",
+        "form": "Tablet",
+        "type": "Amla extract + zinc",
+        "subclass": "Plant extract blend",
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official exact single-bottle variant and product information identify 60 tablets.",
+        "notes": "The 1000 mg headline and amla-extract amount do not establish a verified vitamin C payload per label serving; active-content cost is withheld.",
+        "labelChecked": "2026-10-31",
+        "packCount": 60,
+        "vitaminCMg": null,
+        "id": "vitamin-c-42588997845105",
+        "price": 320,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://mycf.in/products/carbamide-forte-natural-vitamin-c-1000mg-amla-extract-with-zinc-for-immunity-skincare-60-veg-tablets?variant=42588997845105",
+        "nutritionUrl": "https://mycf.in/products/carbamide-forte-natural-vitamin-c-1000mg-amla-extract-with-zinc-for-immunity-skincare-60-veg-tablets",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://mycf.in/products/carbamide-forte-natural-vitamin-c-1000mg-amla-extract-with-zinc-for-immunity-skincare-60-veg-tablets?variant=42588997845105",
+          "evidenceUrl": "https://mycf.in/products/carbamide-forte-natural-vitamin-c-1000mg-amla-extract-with-zinc-for-immunity-skincare-60-veg-tablets.json",
+          "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+        }
+      }
+    },
+    {
+      "order": 1,
+      "offer": {
+        "brand": "Carbamide Forte",
+        "product": "Natural Vitamin C from Amla with Zinc",
+        "form": "Tablet",
+        "type": "Amla extract + zinc",
+        "subclass": "Plant extract blend",
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official exact single-bottle variant and product information identify 120 tablets.",
+        "notes": "The 1000 mg headline and amla-extract amount do not establish a verified vitamin C payload per label serving; active-content cost is withheld.",
+        "labelChecked": "2026-10-31",
+        "packCount": 120,
+        "vitaminCMg": null,
+        "id": "vitamin-c-42587885600881",
+        "price": 599,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://mycf.in/products/carbamide-forte-natural-vitamin-c-1000mg-amla-extract-with-zinc-for-immunity-skincare-120-veg-tablets?variant=42587885600881",
+        "nutritionUrl": "https://mycf.in/products/carbamide-forte-natural-vitamin-c-1000mg-amla-extract-with-zinc-for-immunity-skincare-120-veg-tablets",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://mycf.in/products/carbamide-forte-natural-vitamin-c-1000mg-amla-extract-with-zinc-for-immunity-skincare-120-veg-tablets?variant=42587885600881",
+          "evidenceUrl": "https://mycf.in/products/carbamide-forte-natural-vitamin-c-1000mg-amla-extract-with-zinc-for-immunity-skincare-120-veg-tablets.json",
+          "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3770,
+      "observation": {
+        "category": "vitamin-c",
+        "offerId": "vitamin-c-42588997845105",
+        "date": "2026-10-31",
+        "price": 320,
+        "currency": "INR",
+        "sourceUrl": "https://mycf.in/products/carbamide-forte-natural-vitamin-c-1000mg-amla-extract-with-zinc-for-immunity-skincare-60-veg-tablets?variant=42588997845105",
+        "evidenceUrl": "https://mycf.in/products/carbamide-forte-natural-vitamin-c-1000mg-amla-extract-with-zinc-for-immunity-skincare-60-veg-tablets.json",
+        "kind": "official-live",
+        "variantId": "42588997845105",
+        "matchBasis": "Official Shopify product JSON exact variant ID; single-pack count verified. Availability separately checked against exact-variant official HTML structured data where available."
+      }
+    },
+    {
+      "order": 3771,
+      "observation": {
+        "category": "vitamin-c",
+        "offerId": "vitamin-c-42587885600881",
+        "date": "2026-10-31",
+        "price": 599,
+        "currency": "INR",
+        "sourceUrl": "https://mycf.in/products/carbamide-forte-natural-vitamin-c-1000mg-amla-extract-with-zinc-for-immunity-skincare-120-veg-tablets?variant=42587885600881",
+        "evidenceUrl": "https://mycf.in/products/carbamide-forte-natural-vitamin-c-1000mg-amla-extract-with-zinc-for-immunity-skincare-120-veg-tablets.json",
+        "kind": "official-live",
+        "variantId": "42587885600881",
+        "matchBasis": "Official Shopify product JSON exact variant ID; single-pack count verified. Availability separately checked against exact-variant official HTML structured data where available."
+      }
+    },
+    {
+      "order": 3927,
+      "observation": {
+        "category": "vitamin-c",
+        "offerId": "vitamin-c-42588997845105",
+        "date": "2026-11-19",
+        "price": 320,
+        "currency": "INR",
+        "sourceUrl": "https://mycf.in/products/carbamide-forte-natural-vitamin-c-1000mg-amla-extract-with-zinc-for-immunity-skincare-60-veg-tablets?variant=42588997845105",
+        "evidenceUrl": "https://mycf.in/products/carbamide-forte-natural-vitamin-c-1000mg-amla-extract-with-zinc-for-immunity-skincare-60-veg-tablets.json",
+        "kind": "official-live",
+        "variantId": "42588997845105",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
+    },
+    {
+      "order": 3928,
+      "observation": {
+        "category": "vitamin-c",
+        "offerId": "vitamin-c-42587885600881",
+        "date": "2026-11-19",
+        "price": 599,
+        "currency": "INR",
+        "sourceUrl": "https://mycf.in/products/carbamide-forte-natural-vitamin-c-1000mg-amla-extract-with-zinc-for-immunity-skincare-120-veg-tablets?variant=42587885600881",
+        "evidenceUrl": "https://mycf.in/products/carbamide-forte-natural-vitamin-c-1000mg-amla-extract-with-zinc-for-immunity-skincare-120-veg-tablets.json",
+        "kind": "official-live",
+        "variantId": "42587885600881",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 57,
+      "profile": {
+        "category": "vitamin-c",
+        "brand": "Carbamide Forte",
+        "base": "https://mycf.in",
+        "handle": "carbamide-forte-natural-vitamin-c-1000mg-amla-extract-with-zinc-for-immunity-skincare-60-veg-tablets",
+        "product": "Natural Vitamin C from Amla with Zinc",
+        "form": "Tablet",
+        "type": "Amla extract + zinc",
+        "subclass": "Plant extract blend",
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official exact single-bottle variant and product information identify 60 tablets.",
+        "notes": "The 1000 mg headline and amla-extract amount do not establish a verified vitamin C payload per label serving; active-content cost is withheld.",
+        "labelChecked": "2026-10-31",
+        "packCount": 60,
+        "vitaminCMg": null,
+        "variantTitles": [
+          "Pack of 1"
+        ]
+      }
+    },
+    {
+      "order": 58,
+      "profile": {
+        "category": "vitamin-c",
+        "brand": "Carbamide Forte",
+        "base": "https://mycf.in",
+        "handle": "carbamide-forte-natural-vitamin-c-1000mg-amla-extract-with-zinc-for-immunity-skincare-120-veg-tablets",
+        "product": "Natural Vitamin C from Amla with Zinc",
+        "form": "Tablet",
+        "type": "Amla extract + zinc",
+        "subclass": "Plant extract blend",
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official exact single-bottle variant and product information identify 120 tablets.",
+        "notes": "The 1000 mg headline and amla-extract amount do not establish a verified vitamin C payload per label serving; active-content cost is withheld.",
+        "labelChecked": "2026-10-31",
+        "packCount": 120,
+        "vitaminCMg": null,
+        "variantTitles": [
+          "Pack Of 1"
+        ]
+      }
+    }
+  ]
+}

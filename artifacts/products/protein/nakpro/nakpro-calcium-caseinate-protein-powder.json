@@ -1,0 +1,3108 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "NAKPRO",
+  "product": "Nakpro Calcium Caseinate Protein Powder",
+  "variants": [
+    {
+      "order": 266,
+      "offer": {
+        "id": 266,
+        "brand": "NAKPRO",
+        "product": "Nakpro Calcium Caseinate Protein Powder",
+        "type": "Milk — casein",
+        "flavour": "Banana",
+        "kg": 1,
+        "price": 1799,
+        "stock": "Sold out",
+        "protein": 81,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Calcium caseinate",
+        "energy": null,
+        "url": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39620996628560",
+        "nutritionUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39620996628560",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop weight not verified. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39620996628560",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 267,
+      "offer": {
+        "id": 267,
+        "brand": "NAKPRO",
+        "product": "Nakpro Calcium Caseinate Protein Powder",
+        "type": "Milk — casein",
+        "flavour": "Banana",
+        "kg": 2,
+        "price": 3498,
+        "stock": "Sold out",
+        "protein": 81,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Calcium caseinate",
+        "energy": null,
+        "url": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39620996661328",
+        "nutritionUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39620996661328",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop weight not verified. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39620996661328",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 268,
+      "offer": {
+        "id": 268,
+        "brand": "NAKPRO",
+        "product": "Nakpro Calcium Caseinate Protein Powder",
+        "type": "Milk — casein",
+        "flavour": "Chocolate",
+        "kg": 1,
+        "price": 1799,
+        "stock": "Sold out",
+        "protein": 81,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Calcium caseinate",
+        "energy": null,
+        "url": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038982152272",
+        "nutritionUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038982152272",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop weight not verified. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038982152272",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 269,
+      "offer": {
+        "id": 269,
+        "brand": "NAKPRO",
+        "product": "Nakpro Calcium Caseinate Protein Powder",
+        "type": "Milk — casein",
+        "flavour": "Chocolate",
+        "kg": 2,
+        "price": 3498,
+        "stock": "Sold out",
+        "protein": 81,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Calcium caseinate",
+        "energy": null,
+        "url": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038988181584",
+        "nutritionUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038988181584",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop weight not verified. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038988181584",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 270,
+      "offer": {
+        "id": 270,
+        "brand": "NAKPRO",
+        "product": "Nakpro Calcium Caseinate Protein Powder",
+        "type": "Milk — casein",
+        "flavour": "Coffee",
+        "kg": 1,
+        "price": 1799,
+        "stock": "Sold out",
+        "protein": 81,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Calcium caseinate",
+        "energy": null,
+        "url": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038988214352",
+        "nutritionUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038988214352",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop weight not verified. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038988214352",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 271,
+      "offer": {
+        "id": 271,
+        "brand": "NAKPRO",
+        "product": "Nakpro Calcium Caseinate Protein Powder",
+        "type": "Milk — casein",
+        "flavour": "Coffee",
+        "kg": 2,
+        "price": 3498,
+        "stock": "Sold out",
+        "protein": 81,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Calcium caseinate",
+        "energy": null,
+        "url": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038989295696",
+        "nutritionUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038989295696",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop weight not verified. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038989295696",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 272,
+      "offer": {
+        "id": 272,
+        "brand": "NAKPRO",
+        "product": "Nakpro Calcium Caseinate Protein Powder",
+        "type": "Milk — casein",
+        "flavour": "Cookies & Cream",
+        "kg": 1,
+        "price": 1799,
+        "stock": "Sold out",
+        "protein": 81,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Calcium caseinate",
+        "energy": null,
+        "url": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39636095598672",
+        "nutritionUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39636095598672",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop weight not verified. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39636095598672",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 273,
+      "offer": {
+        "id": 273,
+        "brand": "NAKPRO",
+        "product": "Nakpro Calcium Caseinate Protein Powder",
+        "type": "Milk — casein",
+        "flavour": "Cookies & Cream",
+        "kg": 2,
+        "price": 3498,
+        "stock": "Sold out",
+        "protein": 81,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Calcium caseinate",
+        "energy": null,
+        "url": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39636095959120",
+        "nutritionUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39636095959120",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop weight not verified. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39636095959120",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 274,
+      "offer": {
+        "id": 274,
+        "brand": "NAKPRO",
+        "product": "Nakpro Calcium Caseinate Protein Powder",
+        "type": "Milk — casein",
+        "flavour": "Cream Chocolate",
+        "kg": 1,
+        "price": 1799,
+        "stock": "Sold out",
+        "protein": 81,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Calcium caseinate",
+        "energy": null,
+        "url": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39636096155728",
+        "nutritionUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39636096155728",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop weight not verified. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39636096155728",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 275,
+      "offer": {
+        "id": 275,
+        "brand": "NAKPRO",
+        "product": "Nakpro Calcium Caseinate Protein Powder",
+        "type": "Milk — casein",
+        "flavour": "Cream Chocolate",
+        "kg": 2,
+        "price": 3498,
+        "stock": "Sold out",
+        "protein": 81,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Calcium caseinate",
+        "energy": null,
+        "url": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39636096221264",
+        "nutritionUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39636096221264",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop weight not verified. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39636096221264",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 276,
+      "offer": {
+        "id": 276,
+        "brand": "NAKPRO",
+        "product": "Nakpro Calcium Caseinate Protein Powder",
+        "type": "Milk — casein",
+        "flavour": "Double Rich Chocolate",
+        "kg": 1,
+        "price": 1799,
+        "stock": "Sold out",
+        "protein": 81,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Calcium caseinate",
+        "energy": null,
+        "url": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39988921761872",
+        "nutritionUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39988921761872",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop weight not verified. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39988921761872",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 277,
+      "offer": {
+        "id": 277,
+        "brand": "NAKPRO",
+        "product": "Nakpro Calcium Caseinate Protein Powder",
+        "type": "Milk — casein",
+        "flavour": "Double Rich Chocolate",
+        "kg": 2,
+        "price": 3498,
+        "stock": "Sold out",
+        "protein": 81,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Calcium caseinate",
+        "energy": null,
+        "url": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39988921794640",
+        "nutritionUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39988921794640",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop weight not verified. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39988921794640",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 278,
+      "offer": {
+        "id": 278,
+        "brand": "NAKPRO",
+        "product": "Nakpro Calcium Caseinate Protein Powder",
+        "type": "Milk — casein",
+        "flavour": "Malai Kulfi",
+        "kg": 1,
+        "price": 1799,
+        "stock": "Sold out",
+        "protein": 81,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Calcium caseinate",
+        "energy": null,
+        "url": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=40247279157328",
+        "nutritionUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=40247279157328",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop weight not verified. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=40247279157328",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 279,
+      "offer": {
+        "id": 279,
+        "brand": "NAKPRO",
+        "product": "Nakpro Calcium Caseinate Protein Powder",
+        "type": "Milk — casein",
+        "flavour": "Mango",
+        "kg": 1,
+        "price": 1799,
+        "stock": "Sold out",
+        "protein": 81,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Calcium caseinate",
+        "energy": null,
+        "url": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038989426768",
+        "nutritionUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038989426768",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop weight not verified. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038989426768",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 280,
+      "offer": {
+        "id": 280,
+        "brand": "NAKPRO",
+        "product": "Nakpro Calcium Caseinate Protein Powder",
+        "type": "Milk — casein",
+        "flavour": "Mango",
+        "kg": 2,
+        "price": 3498,
+        "stock": "Sold out",
+        "protein": 81,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Calcium caseinate",
+        "energy": null,
+        "url": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038989590608",
+        "nutritionUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038989590608",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop weight not verified. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038989590608",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 281,
+      "offer": {
+        "id": 281,
+        "brand": "NAKPRO",
+        "product": "Nakpro Calcium Caseinate Protein Powder",
+        "type": "Milk — casein",
+        "flavour": "Strawberry",
+        "kg": 1,
+        "price": 1799,
+        "stock": "Sold out",
+        "protein": 81,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Calcium caseinate",
+        "energy": null,
+        "url": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038990999632",
+        "nutritionUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038990999632",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop weight not verified. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038990999632",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 282,
+      "offer": {
+        "id": 282,
+        "brand": "NAKPRO",
+        "product": "Nakpro Calcium Caseinate Protein Powder",
+        "type": "Milk — casein",
+        "flavour": "Strawberry",
+        "kg": 2,
+        "price": 3498,
+        "stock": "Sold out",
+        "protein": 81,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Calcium caseinate",
+        "energy": null,
+        "url": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038991130704",
+        "nutritionUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038991130704",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop weight not verified. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038991130704",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 283,
+      "offer": {
+        "id": 283,
+        "brand": "NAKPRO",
+        "product": "Nakpro Calcium Caseinate Protein Powder",
+        "type": "Milk — casein",
+        "flavour": "Vanilla",
+        "kg": 1,
+        "price": 1799,
+        "stock": "Sold out",
+        "protein": 81,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Calcium caseinate",
+        "energy": null,
+        "url": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038991556688",
+        "nutritionUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038991556688",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop weight not verified. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038991556688",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 284,
+      "offer": {
+        "id": 284,
+        "brand": "NAKPRO",
+        "product": "Nakpro Calcium Caseinate Protein Powder",
+        "type": "Milk — casein",
+        "flavour": "Vanilla",
+        "kg": 2,
+        "price": 3498,
+        "stock": "Sold out",
+        "protein": 81,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Calcium caseinate",
+        "energy": null,
+        "url": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038992146512",
+        "nutritionUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038992146512",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop weight not verified. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038992146512",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 530,
+      "observation": {
+        "category": "protein",
+        "offerId": 266,
+        "date": "2024-09-17",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39620996628560",
+        "evidenceUrl": "https://web.archive.org/web/20240917000317id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39620996628560",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 531,
+      "observation": {
+        "category": "protein",
+        "offerId": 267,
+        "date": "2024-09-17",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39620996661328",
+        "evidenceUrl": "https://web.archive.org/web/20240917000317id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39620996661328",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 532,
+      "observation": {
+        "category": "protein",
+        "offerId": 268,
+        "date": "2024-09-17",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038982152272",
+        "evidenceUrl": "https://web.archive.org/web/20240917000317id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038982152272",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 533,
+      "observation": {
+        "category": "protein",
+        "offerId": 269,
+        "date": "2024-09-17",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038988181584",
+        "evidenceUrl": "https://web.archive.org/web/20240917000317id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038988181584",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 534,
+      "observation": {
+        "category": "protein",
+        "offerId": 270,
+        "date": "2024-09-17",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038988214352",
+        "evidenceUrl": "https://web.archive.org/web/20240917000317id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038988214352",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 535,
+      "observation": {
+        "category": "protein",
+        "offerId": 271,
+        "date": "2024-09-17",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038989295696",
+        "evidenceUrl": "https://web.archive.org/web/20240917000317id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038989295696",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 536,
+      "observation": {
+        "category": "protein",
+        "offerId": 272,
+        "date": "2024-09-17",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39636095598672",
+        "evidenceUrl": "https://web.archive.org/web/20240917000317id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39636095598672",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 537,
+      "observation": {
+        "category": "protein",
+        "offerId": 273,
+        "date": "2024-09-17",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39636095959120",
+        "evidenceUrl": "https://web.archive.org/web/20240917000317id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39636095959120",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 538,
+      "observation": {
+        "category": "protein",
+        "offerId": 274,
+        "date": "2024-09-17",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39636096155728",
+        "evidenceUrl": "https://web.archive.org/web/20240917000317id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39636096155728",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 539,
+      "observation": {
+        "category": "protein",
+        "offerId": 275,
+        "date": "2024-09-17",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39636096221264",
+        "evidenceUrl": "https://web.archive.org/web/20240917000317id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39636096221264",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 540,
+      "observation": {
+        "category": "protein",
+        "offerId": 276,
+        "date": "2024-09-17",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39988921761872",
+        "evidenceUrl": "https://web.archive.org/web/20240917000317id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39988921761872",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 541,
+      "observation": {
+        "category": "protein",
+        "offerId": 277,
+        "date": "2024-09-17",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39988921794640",
+        "evidenceUrl": "https://web.archive.org/web/20240917000317id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39988921794640",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 542,
+      "observation": {
+        "category": "protein",
+        "offerId": 278,
+        "date": "2024-09-17",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=40247279157328",
+        "evidenceUrl": "https://web.archive.org/web/20240917000317id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40247279157328",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 543,
+      "observation": {
+        "category": "protein",
+        "offerId": 279,
+        "date": "2024-09-17",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038989426768",
+        "evidenceUrl": "https://web.archive.org/web/20240917000317id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038989426768",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 544,
+      "observation": {
+        "category": "protein",
+        "offerId": 280,
+        "date": "2024-09-17",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038989590608",
+        "evidenceUrl": "https://web.archive.org/web/20240917000317id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038989590608",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 545,
+      "observation": {
+        "category": "protein",
+        "offerId": 281,
+        "date": "2024-09-17",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038990999632",
+        "evidenceUrl": "https://web.archive.org/web/20240917000317id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038990999632",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 546,
+      "observation": {
+        "category": "protein",
+        "offerId": 282,
+        "date": "2024-09-17",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038991130704",
+        "evidenceUrl": "https://web.archive.org/web/20240917000317id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038991130704",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 547,
+      "observation": {
+        "category": "protein",
+        "offerId": 283,
+        "date": "2024-09-17",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038991556688",
+        "evidenceUrl": "https://web.archive.org/web/20240917000317id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038991556688",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 548,
+      "observation": {
+        "category": "protein",
+        "offerId": 284,
+        "date": "2024-09-17",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038992146512",
+        "evidenceUrl": "https://web.archive.org/web/20240917000317id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038992146512",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 549,
+      "observation": {
+        "category": "protein",
+        "offerId": 266,
+        "date": "2024-12-08",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39620996628560",
+        "evidenceUrl": "https://web.archive.org/web/20241208141911id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39620996628560",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 550,
+      "observation": {
+        "category": "protein",
+        "offerId": 267,
+        "date": "2024-12-08",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39620996661328",
+        "evidenceUrl": "https://web.archive.org/web/20241208141911id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39620996661328",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 551,
+      "observation": {
+        "category": "protein",
+        "offerId": 268,
+        "date": "2024-12-08",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038982152272",
+        "evidenceUrl": "https://web.archive.org/web/20241208141911id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038982152272",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 552,
+      "observation": {
+        "category": "protein",
+        "offerId": 269,
+        "date": "2024-12-08",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038988181584",
+        "evidenceUrl": "https://web.archive.org/web/20241208141911id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038988181584",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 553,
+      "observation": {
+        "category": "protein",
+        "offerId": 270,
+        "date": "2024-12-08",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038988214352",
+        "evidenceUrl": "https://web.archive.org/web/20241208141911id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038988214352",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 554,
+      "observation": {
+        "category": "protein",
+        "offerId": 271,
+        "date": "2024-12-08",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038989295696",
+        "evidenceUrl": "https://web.archive.org/web/20241208141911id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038989295696",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 555,
+      "observation": {
+        "category": "protein",
+        "offerId": 272,
+        "date": "2024-12-08",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39636095598672",
+        "evidenceUrl": "https://web.archive.org/web/20241208141911id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39636095598672",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 556,
+      "observation": {
+        "category": "protein",
+        "offerId": 273,
+        "date": "2024-12-08",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39636095959120",
+        "evidenceUrl": "https://web.archive.org/web/20241208141911id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39636095959120",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 557,
+      "observation": {
+        "category": "protein",
+        "offerId": 274,
+        "date": "2024-12-08",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39636096155728",
+        "evidenceUrl": "https://web.archive.org/web/20241208141911id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39636096155728",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 558,
+      "observation": {
+        "category": "protein",
+        "offerId": 275,
+        "date": "2024-12-08",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39636096221264",
+        "evidenceUrl": "https://web.archive.org/web/20241208141911id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39636096221264",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 559,
+      "observation": {
+        "category": "protein",
+        "offerId": 276,
+        "date": "2024-12-08",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39988921761872",
+        "evidenceUrl": "https://web.archive.org/web/20241208141911id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39988921761872",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 560,
+      "observation": {
+        "category": "protein",
+        "offerId": 277,
+        "date": "2024-12-08",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39988921794640",
+        "evidenceUrl": "https://web.archive.org/web/20241208141911id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39988921794640",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 561,
+      "observation": {
+        "category": "protein",
+        "offerId": 278,
+        "date": "2024-12-08",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=40247279157328",
+        "evidenceUrl": "https://web.archive.org/web/20241208141911id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40247279157328",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 562,
+      "observation": {
+        "category": "protein",
+        "offerId": 279,
+        "date": "2024-12-08",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038989426768",
+        "evidenceUrl": "https://web.archive.org/web/20241208141911id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038989426768",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 563,
+      "observation": {
+        "category": "protein",
+        "offerId": 280,
+        "date": "2024-12-08",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038989590608",
+        "evidenceUrl": "https://web.archive.org/web/20241208141911id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038989590608",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 564,
+      "observation": {
+        "category": "protein",
+        "offerId": 281,
+        "date": "2024-12-08",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038990999632",
+        "evidenceUrl": "https://web.archive.org/web/20241208141911id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038990999632",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 565,
+      "observation": {
+        "category": "protein",
+        "offerId": 282,
+        "date": "2024-12-08",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038991130704",
+        "evidenceUrl": "https://web.archive.org/web/20241208141911id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038991130704",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 566,
+      "observation": {
+        "category": "protein",
+        "offerId": 283,
+        "date": "2024-12-08",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038991556688",
+        "evidenceUrl": "https://web.archive.org/web/20241208141911id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038991556688",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 567,
+      "observation": {
+        "category": "protein",
+        "offerId": 284,
+        "date": "2024-12-08",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038992146512",
+        "evidenceUrl": "https://web.archive.org/web/20241208141911id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038992146512",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 568,
+      "observation": {
+        "category": "protein",
+        "offerId": 266,
+        "date": "2025-03-24",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39620996628560",
+        "evidenceUrl": "https://web.archive.org/web/20250324215041id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39620996628560",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 569,
+      "observation": {
+        "category": "protein",
+        "offerId": 267,
+        "date": "2025-03-24",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39620996661328",
+        "evidenceUrl": "https://web.archive.org/web/20250324215041id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39620996661328",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 570,
+      "observation": {
+        "category": "protein",
+        "offerId": 268,
+        "date": "2025-03-24",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038982152272",
+        "evidenceUrl": "https://web.archive.org/web/20250324215041id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038982152272",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 571,
+      "observation": {
+        "category": "protein",
+        "offerId": 269,
+        "date": "2025-03-24",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038988181584",
+        "evidenceUrl": "https://web.archive.org/web/20250324215041id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038988181584",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 572,
+      "observation": {
+        "category": "protein",
+        "offerId": 270,
+        "date": "2025-03-24",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038988214352",
+        "evidenceUrl": "https://web.archive.org/web/20250324215041id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038988214352",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 573,
+      "observation": {
+        "category": "protein",
+        "offerId": 271,
+        "date": "2025-03-24",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038989295696",
+        "evidenceUrl": "https://web.archive.org/web/20250324215041id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038989295696",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 574,
+      "observation": {
+        "category": "protein",
+        "offerId": 272,
+        "date": "2025-03-24",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39636095598672",
+        "evidenceUrl": "https://web.archive.org/web/20250324215041id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39636095598672",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 575,
+      "observation": {
+        "category": "protein",
+        "offerId": 273,
+        "date": "2025-03-24",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39636095959120",
+        "evidenceUrl": "https://web.archive.org/web/20250324215041id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39636095959120",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 576,
+      "observation": {
+        "category": "protein",
+        "offerId": 274,
+        "date": "2025-03-24",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39636096155728",
+        "evidenceUrl": "https://web.archive.org/web/20250324215041id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39636096155728",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 577,
+      "observation": {
+        "category": "protein",
+        "offerId": 275,
+        "date": "2025-03-24",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39636096221264",
+        "evidenceUrl": "https://web.archive.org/web/20250324215041id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39636096221264",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 578,
+      "observation": {
+        "category": "protein",
+        "offerId": 276,
+        "date": "2025-03-24",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39988921761872",
+        "evidenceUrl": "https://web.archive.org/web/20250324215041id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39988921761872",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 579,
+      "observation": {
+        "category": "protein",
+        "offerId": 277,
+        "date": "2025-03-24",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39988921794640",
+        "evidenceUrl": "https://web.archive.org/web/20250324215041id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39988921794640",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 580,
+      "observation": {
+        "category": "protein",
+        "offerId": 278,
+        "date": "2025-03-24",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=40247279157328",
+        "evidenceUrl": "https://web.archive.org/web/20250324215041id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40247279157328",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 581,
+      "observation": {
+        "category": "protein",
+        "offerId": 279,
+        "date": "2025-03-24",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038989426768",
+        "evidenceUrl": "https://web.archive.org/web/20250324215041id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038989426768",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 582,
+      "observation": {
+        "category": "protein",
+        "offerId": 280,
+        "date": "2025-03-24",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038989590608",
+        "evidenceUrl": "https://web.archive.org/web/20250324215041id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038989590608",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 583,
+      "observation": {
+        "category": "protein",
+        "offerId": 281,
+        "date": "2025-03-24",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038990999632",
+        "evidenceUrl": "https://web.archive.org/web/20250324215041id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038990999632",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 584,
+      "observation": {
+        "category": "protein",
+        "offerId": 282,
+        "date": "2025-03-24",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038991130704",
+        "evidenceUrl": "https://web.archive.org/web/20250324215041id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038991130704",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 585,
+      "observation": {
+        "category": "protein",
+        "offerId": 283,
+        "date": "2025-03-24",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038991556688",
+        "evidenceUrl": "https://web.archive.org/web/20250324215041id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038991556688",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 586,
+      "observation": {
+        "category": "protein",
+        "offerId": 284,
+        "date": "2025-03-24",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038992146512",
+        "evidenceUrl": "https://web.archive.org/web/20250324215041id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038992146512",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 587,
+      "observation": {
+        "category": "protein",
+        "offerId": 266,
+        "date": "2025-08-03",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39620996628560",
+        "evidenceUrl": "https://web.archive.org/web/20250803231145id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39620996628560",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 588,
+      "observation": {
+        "category": "protein",
+        "offerId": 267,
+        "date": "2025-08-03",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39620996661328",
+        "evidenceUrl": "https://web.archive.org/web/20250803231145id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39620996661328",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 589,
+      "observation": {
+        "category": "protein",
+        "offerId": 268,
+        "date": "2025-08-03",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038982152272",
+        "evidenceUrl": "https://web.archive.org/web/20250803231145id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038982152272",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 590,
+      "observation": {
+        "category": "protein",
+        "offerId": 269,
+        "date": "2025-08-03",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038988181584",
+        "evidenceUrl": "https://web.archive.org/web/20250803231145id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038988181584",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 591,
+      "observation": {
+        "category": "protein",
+        "offerId": 270,
+        "date": "2025-08-03",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038988214352",
+        "evidenceUrl": "https://web.archive.org/web/20250803231145id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038988214352",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 592,
+      "observation": {
+        "category": "protein",
+        "offerId": 271,
+        "date": "2025-08-03",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038989295696",
+        "evidenceUrl": "https://web.archive.org/web/20250803231145id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038989295696",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 593,
+      "observation": {
+        "category": "protein",
+        "offerId": 272,
+        "date": "2025-08-03",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39636095598672",
+        "evidenceUrl": "https://web.archive.org/web/20250803231145id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39636095598672",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 594,
+      "observation": {
+        "category": "protein",
+        "offerId": 273,
+        "date": "2025-08-03",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39636095959120",
+        "evidenceUrl": "https://web.archive.org/web/20250803231145id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39636095959120",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 595,
+      "observation": {
+        "category": "protein",
+        "offerId": 274,
+        "date": "2025-08-03",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39636096155728",
+        "evidenceUrl": "https://web.archive.org/web/20250803231145id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39636096155728",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 596,
+      "observation": {
+        "category": "protein",
+        "offerId": 275,
+        "date": "2025-08-03",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39636096221264",
+        "evidenceUrl": "https://web.archive.org/web/20250803231145id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39636096221264",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 597,
+      "observation": {
+        "category": "protein",
+        "offerId": 276,
+        "date": "2025-08-03",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39988921761872",
+        "evidenceUrl": "https://web.archive.org/web/20250803231145id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39988921761872",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 598,
+      "observation": {
+        "category": "protein",
+        "offerId": 277,
+        "date": "2025-08-03",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39988921794640",
+        "evidenceUrl": "https://web.archive.org/web/20250803231145id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39988921794640",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 599,
+      "observation": {
+        "category": "protein",
+        "offerId": 278,
+        "date": "2025-08-03",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=40247279157328",
+        "evidenceUrl": "https://web.archive.org/web/20250803231145id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40247279157328",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 600,
+      "observation": {
+        "category": "protein",
+        "offerId": 279,
+        "date": "2025-08-03",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038989426768",
+        "evidenceUrl": "https://web.archive.org/web/20250803231145id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038989426768",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 601,
+      "observation": {
+        "category": "protein",
+        "offerId": 280,
+        "date": "2025-08-03",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038989590608",
+        "evidenceUrl": "https://web.archive.org/web/20250803231145id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038989590608",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 602,
+      "observation": {
+        "category": "protein",
+        "offerId": 281,
+        "date": "2025-08-03",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038990999632",
+        "evidenceUrl": "https://web.archive.org/web/20250803231145id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038990999632",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 603,
+      "observation": {
+        "category": "protein",
+        "offerId": 282,
+        "date": "2025-08-03",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038991130704",
+        "evidenceUrl": "https://web.archive.org/web/20250803231145id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038991130704",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 604,
+      "observation": {
+        "category": "protein",
+        "offerId": 283,
+        "date": "2025-08-03",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038991556688",
+        "evidenceUrl": "https://web.archive.org/web/20250803231145id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038991556688",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 605,
+      "observation": {
+        "category": "protein",
+        "offerId": 284,
+        "date": "2025-08-03",
+        "price": 3499,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038992146512",
+        "evidenceUrl": "https://web.archive.org/web/20250803231145id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038992146512",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 606,
+      "observation": {
+        "category": "protein",
+        "offerId": 266,
+        "date": "2025-12-29",
+        "price": 1709,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39620996628560",
+        "evidenceUrl": "https://web.archive.org/web/20251229185910id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39620996628560",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 607,
+      "observation": {
+        "category": "protein",
+        "offerId": 267,
+        "date": "2025-12-29",
+        "price": 3324,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39620996661328",
+        "evidenceUrl": "https://web.archive.org/web/20251229185910id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39620996661328",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 608,
+      "observation": {
+        "category": "protein",
+        "offerId": 268,
+        "date": "2025-12-29",
+        "price": 1709,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038982152272",
+        "evidenceUrl": "https://web.archive.org/web/20251229185910id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038982152272",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 609,
+      "observation": {
+        "category": "protein",
+        "offerId": 269,
+        "date": "2025-12-29",
+        "price": 3324,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038988181584",
+        "evidenceUrl": "https://web.archive.org/web/20251229185910id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038988181584",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 610,
+      "observation": {
+        "category": "protein",
+        "offerId": 270,
+        "date": "2025-12-29",
+        "price": 1709,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038988214352",
+        "evidenceUrl": "https://web.archive.org/web/20251229185910id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038988214352",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 611,
+      "observation": {
+        "category": "protein",
+        "offerId": 271,
+        "date": "2025-12-29",
+        "price": 3324,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038989295696",
+        "evidenceUrl": "https://web.archive.org/web/20251229185910id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038989295696",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 612,
+      "observation": {
+        "category": "protein",
+        "offerId": 272,
+        "date": "2025-12-29",
+        "price": 1709,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39636095598672",
+        "evidenceUrl": "https://web.archive.org/web/20251229185910id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39636095598672",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 613,
+      "observation": {
+        "category": "protein",
+        "offerId": 273,
+        "date": "2025-12-29",
+        "price": 3324,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39636095959120",
+        "evidenceUrl": "https://web.archive.org/web/20251229185910id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39636095959120",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 614,
+      "observation": {
+        "category": "protein",
+        "offerId": 274,
+        "date": "2025-12-29",
+        "price": 1709,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39636096155728",
+        "evidenceUrl": "https://web.archive.org/web/20251229185910id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39636096155728",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 615,
+      "observation": {
+        "category": "protein",
+        "offerId": 275,
+        "date": "2025-12-29",
+        "price": 3324,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39636096221264",
+        "evidenceUrl": "https://web.archive.org/web/20251229185910id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39636096221264",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 616,
+      "observation": {
+        "category": "protein",
+        "offerId": 276,
+        "date": "2025-12-29",
+        "price": 1709,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39988921761872",
+        "evidenceUrl": "https://web.archive.org/web/20251229185910id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39988921761872",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 617,
+      "observation": {
+        "category": "protein",
+        "offerId": 277,
+        "date": "2025-12-29",
+        "price": 3324,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39988921794640",
+        "evidenceUrl": "https://web.archive.org/web/20251229185910id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39988921794640",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 618,
+      "observation": {
+        "category": "protein",
+        "offerId": 278,
+        "date": "2025-12-29",
+        "price": 1709,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=40247279157328",
+        "evidenceUrl": "https://web.archive.org/web/20251229185910id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40247279157328",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 619,
+      "observation": {
+        "category": "protein",
+        "offerId": 279,
+        "date": "2025-12-29",
+        "price": 1709,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038989426768",
+        "evidenceUrl": "https://web.archive.org/web/20251229185910id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038989426768",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 620,
+      "observation": {
+        "category": "protein",
+        "offerId": 280,
+        "date": "2025-12-29",
+        "price": 3324,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038989590608",
+        "evidenceUrl": "https://web.archive.org/web/20251229185910id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038989590608",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 621,
+      "observation": {
+        "category": "protein",
+        "offerId": 281,
+        "date": "2025-12-29",
+        "price": 1709,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038990999632",
+        "evidenceUrl": "https://web.archive.org/web/20251229185910id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038990999632",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 622,
+      "observation": {
+        "category": "protein",
+        "offerId": 282,
+        "date": "2025-12-29",
+        "price": 3324,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038991130704",
+        "evidenceUrl": "https://web.archive.org/web/20251229185910id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038991130704",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 623,
+      "observation": {
+        "category": "protein",
+        "offerId": 283,
+        "date": "2025-12-29",
+        "price": 1709,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038991556688",
+        "evidenceUrl": "https://web.archive.org/web/20251229185910id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038991556688",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 624,
+      "observation": {
+        "category": "protein",
+        "offerId": 284,
+        "date": "2025-12-29",
+        "price": 3324,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038992146512",
+        "evidenceUrl": "https://web.archive.org/web/20251229185910id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038992146512",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 625,
+      "observation": {
+        "category": "protein",
+        "offerId": 266,
+        "date": "2026-08-01",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39620996628560",
+        "evidenceUrl": "https://web.archive.org/web/20260801193706id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39620996628560",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 626,
+      "observation": {
+        "category": "protein",
+        "offerId": 267,
+        "date": "2026-08-01",
+        "price": 3498,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39620996661328",
+        "evidenceUrl": "https://web.archive.org/web/20260801193706id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39620996661328",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 627,
+      "observation": {
+        "category": "protein",
+        "offerId": 268,
+        "date": "2026-08-01",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038982152272",
+        "evidenceUrl": "https://web.archive.org/web/20260801193706id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038982152272",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 628,
+      "observation": {
+        "category": "protein",
+        "offerId": 269,
+        "date": "2026-08-01",
+        "price": 3498,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038988181584",
+        "evidenceUrl": "https://web.archive.org/web/20260801193706id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038988181584",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 629,
+      "observation": {
+        "category": "protein",
+        "offerId": 270,
+        "date": "2026-08-01",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038988214352",
+        "evidenceUrl": "https://web.archive.org/web/20260801193706id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038988214352",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 630,
+      "observation": {
+        "category": "protein",
+        "offerId": 271,
+        "date": "2026-08-01",
+        "price": 3498,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038989295696",
+        "evidenceUrl": "https://web.archive.org/web/20260801193706id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038989295696",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 631,
+      "observation": {
+        "category": "protein",
+        "offerId": 272,
+        "date": "2026-08-01",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39636095598672",
+        "evidenceUrl": "https://web.archive.org/web/20260801193706id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39636095598672",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 632,
+      "observation": {
+        "category": "protein",
+        "offerId": 273,
+        "date": "2026-08-01",
+        "price": 3498,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39636095959120",
+        "evidenceUrl": "https://web.archive.org/web/20260801193706id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39636095959120",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 633,
+      "observation": {
+        "category": "protein",
+        "offerId": 274,
+        "date": "2026-08-01",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39636096155728",
+        "evidenceUrl": "https://web.archive.org/web/20260801193706id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39636096155728",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 634,
+      "observation": {
+        "category": "protein",
+        "offerId": 275,
+        "date": "2026-08-01",
+        "price": 3498,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39636096221264",
+        "evidenceUrl": "https://web.archive.org/web/20260801193706id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39636096221264",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 635,
+      "observation": {
+        "category": "protein",
+        "offerId": 276,
+        "date": "2026-08-01",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39988921761872",
+        "evidenceUrl": "https://web.archive.org/web/20260801193706id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39988921761872",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 636,
+      "observation": {
+        "category": "protein",
+        "offerId": 277,
+        "date": "2026-08-01",
+        "price": 3498,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39988921794640",
+        "evidenceUrl": "https://web.archive.org/web/20260801193706id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "39988921794640",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 637,
+      "observation": {
+        "category": "protein",
+        "offerId": 278,
+        "date": "2026-08-01",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=40247279157328",
+        "evidenceUrl": "https://web.archive.org/web/20260801193706id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40247279157328",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 638,
+      "observation": {
+        "category": "protein",
+        "offerId": 279,
+        "date": "2026-08-01",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038989426768",
+        "evidenceUrl": "https://web.archive.org/web/20260801193706id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038989426768",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 639,
+      "observation": {
+        "category": "protein",
+        "offerId": 280,
+        "date": "2026-08-01",
+        "price": 3498,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038989590608",
+        "evidenceUrl": "https://web.archive.org/web/20260801193706id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038989590608",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 640,
+      "observation": {
+        "category": "protein",
+        "offerId": 281,
+        "date": "2026-08-01",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038990999632",
+        "evidenceUrl": "https://web.archive.org/web/20260801193706id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038990999632",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 641,
+      "observation": {
+        "category": "protein",
+        "offerId": 282,
+        "date": "2026-08-01",
+        "price": 3498,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038991130704",
+        "evidenceUrl": "https://web.archive.org/web/20260801193706id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038991130704",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 642,
+      "observation": {
+        "category": "protein",
+        "offerId": 283,
+        "date": "2026-08-01",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038991556688",
+        "evidenceUrl": "https://web.archive.org/web/20260801193706id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038991556688",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 643,
+      "observation": {
+        "category": "protein",
+        "offerId": 284,
+        "date": "2026-08-01",
+        "price": 3498,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038992146512",
+        "evidenceUrl": "https://web.archive.org/web/20260801193706id_/https://nakpro.com/products/nakpro-calcium-casein-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "33038992146512",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2455,
+      "observation": {
+        "category": "protein",
+        "offerId": 266,
+        "date": "2026-10-25",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39620996628560",
+        "evidenceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "39620996628560"
+      }
+    },
+    {
+      "order": 2456,
+      "observation": {
+        "category": "protein",
+        "offerId": 267,
+        "date": "2026-10-25",
+        "price": 3498,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39620996661328",
+        "evidenceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "39620996661328"
+      }
+    },
+    {
+      "order": 2457,
+      "observation": {
+        "category": "protein",
+        "offerId": 268,
+        "date": "2026-10-25",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038982152272",
+        "evidenceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "33038982152272"
+      }
+    },
+    {
+      "order": 2458,
+      "observation": {
+        "category": "protein",
+        "offerId": 269,
+        "date": "2026-10-25",
+        "price": 3498,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038988181584",
+        "evidenceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "33038988181584"
+      }
+    },
+    {
+      "order": 2459,
+      "observation": {
+        "category": "protein",
+        "offerId": 270,
+        "date": "2026-10-25",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038988214352",
+        "evidenceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "33038988214352"
+      }
+    },
+    {
+      "order": 2460,
+      "observation": {
+        "category": "protein",
+        "offerId": 271,
+        "date": "2026-10-25",
+        "price": 3498,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038989295696",
+        "evidenceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "33038989295696"
+      }
+    },
+    {
+      "order": 2461,
+      "observation": {
+        "category": "protein",
+        "offerId": 272,
+        "date": "2026-10-25",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39636095598672",
+        "evidenceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "39636095598672"
+      }
+    },
+    {
+      "order": 2462,
+      "observation": {
+        "category": "protein",
+        "offerId": 273,
+        "date": "2026-10-25",
+        "price": 3498,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39636095959120",
+        "evidenceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "39636095959120"
+      }
+    },
+    {
+      "order": 2463,
+      "observation": {
+        "category": "protein",
+        "offerId": 274,
+        "date": "2026-10-25",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39636096155728",
+        "evidenceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "39636096155728"
+      }
+    },
+    {
+      "order": 2464,
+      "observation": {
+        "category": "protein",
+        "offerId": 275,
+        "date": "2026-10-25",
+        "price": 3498,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39636096221264",
+        "evidenceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "39636096221264"
+      }
+    },
+    {
+      "order": 2465,
+      "observation": {
+        "category": "protein",
+        "offerId": 276,
+        "date": "2026-10-25",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39988921761872",
+        "evidenceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "39988921761872"
+      }
+    },
+    {
+      "order": 2466,
+      "observation": {
+        "category": "protein",
+        "offerId": 277,
+        "date": "2026-10-25",
+        "price": 3498,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39988921794640",
+        "evidenceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "39988921794640"
+      }
+    },
+    {
+      "order": 2467,
+      "observation": {
+        "category": "protein",
+        "offerId": 278,
+        "date": "2026-10-25",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=40247279157328",
+        "evidenceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "40247279157328"
+      }
+    },
+    {
+      "order": 2468,
+      "observation": {
+        "category": "protein",
+        "offerId": 279,
+        "date": "2026-10-25",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038989426768",
+        "evidenceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "33038989426768"
+      }
+    },
+    {
+      "order": 2469,
+      "observation": {
+        "category": "protein",
+        "offerId": 280,
+        "date": "2026-10-25",
+        "price": 3498,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038989590608",
+        "evidenceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "33038989590608"
+      }
+    },
+    {
+      "order": 2470,
+      "observation": {
+        "category": "protein",
+        "offerId": 281,
+        "date": "2026-10-25",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038990999632",
+        "evidenceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "33038990999632"
+      }
+    },
+    {
+      "order": 2471,
+      "observation": {
+        "category": "protein",
+        "offerId": 282,
+        "date": "2026-10-25",
+        "price": 3498,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038991130704",
+        "evidenceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "33038991130704"
+      }
+    },
+    {
+      "order": 2472,
+      "observation": {
+        "category": "protein",
+        "offerId": 283,
+        "date": "2026-10-25",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038991556688",
+        "evidenceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "33038991556688"
+      }
+    },
+    {
+      "order": 2473,
+      "observation": {
+        "category": "protein",
+        "offerId": 284,
+        "date": "2026-10-25",
+        "price": 3498,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038992146512",
+        "evidenceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "33038992146512"
+      }
+    },
+    {
+      "order": 4313,
+      "observation": {
+        "category": "protein",
+        "offerId": 266,
+        "date": "2026-11-19",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39620996628560",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "39620996628560"
+      }
+    },
+    {
+      "order": 4314,
+      "observation": {
+        "category": "protein",
+        "offerId": 267,
+        "date": "2026-11-19",
+        "price": 3498,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39620996661328",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "39620996661328"
+      }
+    },
+    {
+      "order": 4315,
+      "observation": {
+        "category": "protein",
+        "offerId": 268,
+        "date": "2026-11-19",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038982152272",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "33038982152272"
+      }
+    },
+    {
+      "order": 4316,
+      "observation": {
+        "category": "protein",
+        "offerId": 269,
+        "date": "2026-11-19",
+        "price": 3498,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038988181584",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "33038988181584"
+      }
+    },
+    {
+      "order": 4317,
+      "observation": {
+        "category": "protein",
+        "offerId": 270,
+        "date": "2026-11-19",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038988214352",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "33038988214352"
+      }
+    },
+    {
+      "order": 4318,
+      "observation": {
+        "category": "protein",
+        "offerId": 271,
+        "date": "2026-11-19",
+        "price": 3498,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038989295696",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "33038989295696"
+      }
+    },
+    {
+      "order": 4319,
+      "observation": {
+        "category": "protein",
+        "offerId": 272,
+        "date": "2026-11-19",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39636095598672",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "39636095598672"
+      }
+    },
+    {
+      "order": 4320,
+      "observation": {
+        "category": "protein",
+        "offerId": 273,
+        "date": "2026-11-19",
+        "price": 3498,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39636095959120",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "39636095959120"
+      }
+    },
+    {
+      "order": 4321,
+      "observation": {
+        "category": "protein",
+        "offerId": 274,
+        "date": "2026-11-19",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39636096155728",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "39636096155728"
+      }
+    },
+    {
+      "order": 4322,
+      "observation": {
+        "category": "protein",
+        "offerId": 275,
+        "date": "2026-11-19",
+        "price": 3498,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39636096221264",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "39636096221264"
+      }
+    },
+    {
+      "order": 4323,
+      "observation": {
+        "category": "protein",
+        "offerId": 276,
+        "date": "2026-11-19",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39988921761872",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "39988921761872"
+      }
+    },
+    {
+      "order": 4324,
+      "observation": {
+        "category": "protein",
+        "offerId": 277,
+        "date": "2026-11-19",
+        "price": 3498,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=39988921794640",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "39988921794640"
+      }
+    },
+    {
+      "order": 4325,
+      "observation": {
+        "category": "protein",
+        "offerId": 278,
+        "date": "2026-11-19",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=40247279157328",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "40247279157328"
+      }
+    },
+    {
+      "order": 4326,
+      "observation": {
+        "category": "protein",
+        "offerId": 279,
+        "date": "2026-11-19",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038989426768",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "33038989426768"
+      }
+    },
+    {
+      "order": 4327,
+      "observation": {
+        "category": "protein",
+        "offerId": 280,
+        "date": "2026-11-19",
+        "price": 3498,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038989590608",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "33038989590608"
+      }
+    },
+    {
+      "order": 4328,
+      "observation": {
+        "category": "protein",
+        "offerId": 281,
+        "date": "2026-11-19",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038990999632",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "33038990999632"
+      }
+    },
+    {
+      "order": 4329,
+      "observation": {
+        "category": "protein",
+        "offerId": 282,
+        "date": "2026-11-19",
+        "price": 3498,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038991130704",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "33038991130704"
+      }
+    },
+    {
+      "order": 4330,
+      "observation": {
+        "category": "protein",
+        "offerId": 283,
+        "date": "2026-11-19",
+        "price": 1799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038991556688",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "33038991556688"
+      }
+    },
+    {
+      "order": 4331,
+      "observation": {
+        "category": "protein",
+        "offerId": 284,
+        "date": "2026-11-19",
+        "price": 3498,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-calcium-casein-protein-powder?variant=33038992146512",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "33038992146512"
+      }
+    }
+  ],
+  "refreshSources": []
+}

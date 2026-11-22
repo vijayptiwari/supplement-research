@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "category": "l-arginine",
+  "brand": "AS-IT-IS Nutrition",
+  "product": "ONE L-Arginine Capsules 1000 mg per serving",
+  "variants": [
+    {
+      "order": 8,
+      "offer": {
+        "brand": "AS-IT-IS Nutrition",
+        "product": "ONE L-Arginine Capsules 1000 mg per serving",
+        "form": "Capsule",
+        "type": "L-arginine",
+        "subclass": "Single amino acid",
+        "source": "Not specified",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "basis": "Official FAQ explicitly states two capsules provide 1000 mg L-arginine; selected pack is 60 capsules.",
+        "notes": "The 1000 mg is per two-capsule label serving, not per capsule.",
+        "labelChecked": "2026-11-17",
+        "packCount": 60,
+        "servingUnits": 2,
+        "arginineMg": 1000,
+        "energyPerServing": null,
+        "labelSources": [
+          "https://asitisnutrition.com/products/buy-l-arginine-capsules-online-in-india"
+        ],
+        "id": "l-arginine-31363268870195",
+        "price": 322,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://asitisnutrition.com/products/buy-l-arginine-capsules-online-in-india?variant=31363268870195",
+        "nutritionUrl": "https://asitisnutrition.com/products/buy-l-arginine-capsules-online-in-india",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://asitisnutrition.com/products/buy-l-arginine-capsules-online-in-india?variant=31363268870195",
+          "evidenceUrl": "https://asitisnutrition.com/products/buy-l-arginine-capsules-online-in-india.json",
+          "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3803,
+      "observation": {
+        "category": "l-arginine",
+        "offerId": "l-arginine-31363268870195",
+        "date": "2026-11-17",
+        "price": 322,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/buy-l-arginine-capsules-online-in-india?variant=31363268870195",
+        "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Directly fetched official Shopify feed; exact variant ID, flavour and single retail pack verified against official product page. Conditional discounts excluded.",
+        "variantId": "31363268870195"
+      }
+    },
+    {
+      "order": 3997,
+      "observation": {
+        "category": "l-arginine",
+        "offerId": "l-arginine-31363268870195",
+        "date": "2026-11-19",
+        "price": 322,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/buy-l-arginine-capsules-online-in-india?variant=31363268870195",
+        "evidenceUrl": "https://asitisnutrition.com/products/buy-l-arginine-capsules-online-in-india.json",
+        "kind": "official-live",
+        "variantId": "31363268870195",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 87,
+      "profile": {
+        "category": "l-arginine",
+        "brand": "AS-IT-IS Nutrition",
+        "base": "https://asitisnutrition.com",
+        "handle": "buy-l-arginine-capsules-online-in-india",
+        "product": "ONE L-Arginine Capsules 1000 mg per serving",
+        "form": "Capsule",
+        "type": "L-arginine",
+        "subclass": "Single amino acid",
+        "source": "Not specified",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "basis": "Official FAQ explicitly states two capsules provide 1000 mg L-arginine; selected pack is 60 capsules.",
+        "notes": "The 1000 mg is per two-capsule label serving, not per capsule.",
+        "labelChecked": "2026-11-17",
+        "variantIds": [
+          "31363268870195"
+        ],
+        "packCount": 60,
+        "servingUnits": 2,
+        "arginineMg": 1000,
+        "energyPerServing": null,
+        "labelSources": [
+          "https://asitisnutrition.com/products/buy-l-arginine-capsules-online-in-india"
+        ]
+      }
+    }
+  ]
+}

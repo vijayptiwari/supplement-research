@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 1,
+  "order": 2,
+  "category": {
+    "id": "ashwagandha",
+    "label": "Ashwagandha",
+    "file": "ashwagandha.json",
+    "page": "ashwagandha.html",
+    "measurement": "units",
+    "mainNutrient": "ashwagandhaMg",
+    "referenceQuantity": 100,
+    "referenceUnit": "mg",
+    "compoundLabel": "declared ashwagandha material",
+    "nutrientFields": [
+      {
+        "key": "ashwagandhaMg",
+        "label": "Ashwagandha material",
+        "unit": "mg",
+        "table": true
+      },
+      {
+        "key": "withanolidesPct",
+        "label": "Extract standardization",
+        "unit": "%",
+        "table": true
+      },
+      {
+        "key": "standardizedExtractMg",
+        "label": "Standardized extract component",
+        "unit": "mg",
+        "table": false
+      },
+      {
+        "key": "withanolidesMg",
+        "label": "Withanolides (calculated)",
+        "unit": "mg",
+        "table": false
+      }
+    ],
+    "comparisonNote": "Root powder, extracts and blends are distinct profiles. Compare material costs within the same formulation; a standardized extract mass is required to calculate withanolides.",
+    "searchAliases": [
+      "ashwaganda",
+      "withania somnifera"
+    ]
+  },
+  "catalog": {
+    "checked": "2026-11-20",
+    "category": "ashwagandha"
+  },
+  "guide": {
+    "id": "ashwagandha-guide",
+    "category": "ashwagandha",
+    "title": "Ashwagandha: promising short trials, uncertain equivalence",
+    "summary": "Stress and sleep findings need to be read alongside extract identity, standardization and trial duration.",
+    "evidence": "Some small randomized trials report improvements in stress measures and sleep with specific preparations.",
+    "limitations": "Short follow-up, small samples and heterogeneous extracts limit certainty. Results for a standardized root extract do not establish the same benefit for whole root powder or a blend.",
+    "catalogReading": "Compare the same material class. Withanolide mass can be calculated only when both the standardized extract mass and percentage are verified. A headline milligram figure may represent a different basis.",
+    "safety": "Liver injury has been reported, and thyroid effects and drug interactions are concerns. Avoid use in pregnancy; seek professional advice for relevant conditions or medicines.",
+    "sourceIds": [
+      "ash-overview",
+      "ash-trial",
+      "supplement-quality-ods"
+    ],
+    "reviewed": "2026-11-18",
+    "author": "Supplement Research editorial synthesis",
+    "bodySteps": [
+      "A swallowed product supplies a mixture of plant constituents; powders and extracts can have different compositions.",
+      "Absorption and metabolism depend on the preparation. Human studies do not establish one uniform pathway for all products.",
+      "Proposed stress-response mechanisms do not prove a clinical benefit; withanolide percentage is not a measure of cure."
+    ],
+    "bodySources": [
+      "ash-overview"
+    ],
+    "treatment": "No established cure for anxiety disorders, insomnia or thyroid disease. Persistent symptoms need assessment rather than self-treatment with an extract.",
+    "whoMayBenefit": "Some adults seeking short-term stress or sleep support may consider a specific studied preparation after reviewing risks and alternatives.",
+    "routineUse": "No group should assume it is essential or a lifelong supplement. Long-term safety is uncertain.",
+    "sectionSources": [
+      "ash-overview",
+      "ash-trial"
+    ],
+    "buyingGuide": {
+      "whoCanConsider": [
+        "Adults discussing persistent stress or sleep difficulties and appropriate treatment options with a clinician.",
+        "People considering a short-term, clearly identified extract while accepting the limited and formulation-specific evidence."
+      ],
+      "whoShouldReview": [
+        "Avoid during pregnancy or breastfeeding; discuss alternatives with a clinician.",
+        "Liver or thyroid disease requires particular caution.",
+        "Thyroid medicines, sedatives, immunosuppressants, and blood-pressure or diabetes medicines need interaction review."
+      ],
+      "foodSummary": "Ashwagandha is a botanical preparation with no ordinary food equivalent. Root powder in a food or drink does not establish equivalence to a studied standardized extract.",
+      "foods": [],
+      "foodSourceIds": [
+        "ash-overview"
+      ],
+      "value": {
+        "routineScore": 1,
+        "targetedScore": 3,
+        "targetedUse": "A short-term clinician-reviewed discussion of a specific extract for stress or sleep difficulties.",
+        "reason": "Small studies suggest possible benefit, but preparations vary and long-term safety is uncertain.",
+        "worthWhen": [
+          "The preparation can be compared meaningfully with a studied extract.",
+          "Safety, medicines and a plan to reassess use have been reviewed."
+        ],
+        "skipWhen": [
+          "There is no defined problem to address.",
+          "The purchase is driven by universal stress, hormone or cure claims."
+        ],
+        "evidence": "limited",
+        "scope": "Editorial priority for a selected short-term context; it does not replace assessment or establish safety of all extracts.",
+        "sourceIds": [
+          "ash-overview",
+          "ash-trial"
+        ]
+      },
+      "reviewed": "2026-11-18",
+      "practices": {
+        "dos": [
+          {
+            "title": "Identify the material",
+            "detail": "Separate root powder, standardized extract and blends; compare the preparation with the one actually studied."
+          },
+          {
+            "title": "Review safety and ongoing need",
+            "detail": "Check medicines and relevant conditions, and plan to reassess rather than assume indefinite use."
+          }
+        ],
+        "donts": [
+          {
+            "title": "Don't multiply incompatible label values",
+            "detail": "Calculate withanolides only from verified extract mass and its matching standardization, not total root or blend mass."
+          },
+          {
+            "title": "Don't treat broad claims as evidence",
+            "detail": "Universal stress, hormone or cure promises do not show that a particular extract is suitable for you."
+          }
+        ],
+        "sourceIds": [
+          "ash-overview",
+          "ash-trial"
+        ]
+      }
+    },
+    "intakeGuide": {
+      "kind": "no-established-target",
+      "summary": "No established dietary requirement or universally appropriate extract dose. Trials use particular extracts and standardizations; products are not interchangeable.",
+      "targets": [],
+      "limits": [],
+      "notes": [
+        "No automatic dose increase is assigned for training frequency or experience."
+      ],
+      "sourceIds": [
+        "ash-overview",
+        "ash-trial"
+      ],
+      "reviewed": "2026-11-17"
+    },
+    "medicalGuide": {
+      "summary": "Condition-specific evidence, separate from sports benefits and purchase priority.",
+      "conditions": [
+        {
+          "condition": "Stress and sleep symptoms",
+          "level": "mixed",
+          "findings": "Small, short trials of selected extracts suggest symptom benefits; they do not establish treatment of an anxiety disorder or chronic insomnia.",
+          "limits": "No established cure for anxiety disorders, insomnia or thyroid disease. Persistent symptoms need assessment rather than self-treatment with an extract.",
+          "sourceIds": [
+            "ash-overview",
+            "ash-trial"
+          ]
+        }
+      ],
+      "reviewed": "2026-11-17"
+    },
+    "pathway": {
+      "title": "A plant mixture with an incomplete human pathway map",
+      "summary": "Ashwagandha contains multiple constituents. Human absorption, metabolites and contributions to reported effects are not mapped as one established pathway.",
+      "tracks": [
+        {
+          "label": "What is known and uncertain",
+          "steps": [
+            {
+              "label": "Preparations deliver different constituent mixtures",
+              "detail": "Root powders and root or leaf extracts contain differing withanolides and other plant compounds.",
+              "compartment": "Product",
+              "icon": "food"
+            },
+            {
+              "label": "Uptake and processing remain preparation dependent",
+              "detail": "A product's composition does not establish which constituents or metabolites reach a particular tissue in humans.",
+              "compartment": "Gut / liver",
+              "icon": "liver"
+            },
+            {
+              "label": "Multiple proposed actions remain under study",
+              "detail": "Preclinical mechanisms and small human trials do not establish a single causal route for every preparation or outcome.",
+              "compartment": "Tissues",
+              "icon": "signal"
+            }
+          ]
+        }
+      ],
+      "caveat": "This is an uncertainty map, not a proven cortisol-lowering or thyroid-treatment pathway. Withanolide percentage alone cannot predict efficacy or safety.",
+      "sourceIds": [
+        "ash-overview"
+      ]
+    }
+  }
+}

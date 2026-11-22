@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "category": "creatine",
+  "brand": "AS-IT-IS Nutrition",
+  "product": "AS-IT-IS ATOM Creasure® Creatine Monohydrate",
+  "variants": [
+    {
+      "order": 0,
+      "offer": {
+        "id": "cr-0",
+        "brand": "AS-IT-IS Nutrition",
+        "product": "AS-IT-IS ATOM Creasure® Creatine Monohydrate",
+        "type": "Monohydrate",
+        "subclass": "Micronized",
+        "grade": "Creasure®",
+        "formulation": "Single ingredient",
+        "packaging": "Standard pack",
+        "flavour": "Unflavoured",
+        "grams": 100,
+        "kg": 0.1,
+        "price": 515,
+        "stock": "In stock",
+        "creatine": 100,
+        "scoop": null,
+        "serving": null,
+        "creatineServing": 3,
+        "energy": null,
+        "url": "https://asitisnutrition.com/products/as-it-is-atom-creasure®-100-soluble-creatine-monohydrate-micronised-unflavored-33-servings?variant=43250029264947",
+        "nutritionUrl": "https://asitisnutrition.com/products/as-it-is-atom-creasure®-100-soluble-creatine-monohydrate-micronised-unflavored-33-servings?variant=43250029264947",
+        "basis": "Brand states creatine monohydrate with no added flavours, colours, sweeteners or fillers.",
+        "notes": "",
+        "energyBasis": "",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://asitisnutrition.com/products/as-it-is-atom-creasure®-100-soluble-creatine-monohydrate-micronised-unflavored-33-servings?variant=43250029264947",
+          "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 1,
+      "offer": {
+        "id": "cr-1",
+        "brand": "AS-IT-IS Nutrition",
+        "product": "AS-IT-IS ATOM Creasure® Creatine Monohydrate",
+        "type": "Monohydrate",
+        "subclass": "Micronized",
+        "grade": "Creasure®",
+        "formulation": "Single ingredient",
+        "packaging": "Standard pack",
+        "flavour": "Unflavoured",
+        "grams": 250,
+        "kg": 0.25,
+        "price": 1049,
+        "stock": "In stock",
+        "creatine": 100,
+        "scoop": null,
+        "serving": null,
+        "creatineServing": 3,
+        "energy": null,
+        "url": "https://asitisnutrition.com/products/as-it-is-atom-creasure®-100-soluble-creatine-monohydrate-micronised-unflavored-33-servings?variant=44057806864435",
+        "nutritionUrl": "https://asitisnutrition.com/products/as-it-is-atom-creasure®-100-soluble-creatine-monohydrate-micronised-unflavored-33-servings?variant=44057806864435",
+        "basis": "Brand states creatine monohydrate with no added flavours, colours, sweeteners or fillers.",
+        "notes": "",
+        "energyBasis": "",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://asitisnutrition.com/products/as-it-is-atom-creasure®-100-soluble-creatine-monohydrate-micronised-unflavored-33-servings?variant=44057806864435",
+          "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5212,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-0",
+        "date": "2026-01-01",
+        "price": 478,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/as-it-is-atom-creasure®-100-soluble-creatine-monohydrate-micronised-unflavored-33-servings?variant=43250029264947",
+        "evidenceUrl": "https://web.archive.org/web/20260101034513id_/https://asitisnutrition.com/products/as-it-is-atom-creasure%C2%AE-100-soluble-creatine-monohydrate-micronised-unflavored-33-servings",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "43250029264947",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 5213,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-0",
+        "date": "2025-05-13",
+        "price": 559,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/as-it-is-atom-creasure®-100-soluble-creatine-monohydrate-micronised-unflavored-33-servings?variant=43250029264947",
+        "evidenceUrl": "https://web.archive.org/web/20250513130454id_/https://asitisnutrition.com/products/as-it-is-atom-creasure%C2%AE-100-soluble-creatine-monohydrate-micronised-unflavored-33-servings",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "43250029264947",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 5224,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-0",
+        "date": "2026-11-19",
+        "price": 515,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/as-it-is-atom-creasure®-100-soluble-creatine-monohydrate-micronised-unflavored-33-servings?variant=43250029264947",
+        "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "43250029264947"
+      }
+    },
+    {
+      "order": 5225,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-1",
+        "date": "2026-11-19",
+        "price": 1049,
+        "currency": "INR",
+        "sourceUrl": "https://asitisnutrition.com/products/as-it-is-atom-creasure®-100-soluble-creatine-monohydrate-micronised-unflavored-33-servings?variant=44057806864435",
+        "evidenceUrl": "https://asitisnutrition.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "44057806864435"
+      }
+    }
+  ],
+  "refreshSources": []
+}

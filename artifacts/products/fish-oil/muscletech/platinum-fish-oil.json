@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "category": "fish-oil",
+  "brand": "MuscleTech",
+  "product": "Platinum Fish Oil",
+  "variants": [
+    {
+      "order": 19,
+      "offer": {
+        "product": "Platinum Fish Oil",
+        "form": "Softgel",
+        "type": "Fish oil (chemical form not verified)",
+        "subclass": "Enteric-coated fish oil",
+        "source": "Fish species not specified",
+        "packCount": 100,
+        "servingUnits": 1,
+        "fishOilMg": 1000,
+        "epaMg": 180,
+        "dhaMg": 120,
+        "epaDhaMg": 300,
+        "energyPerServing": 10,
+        "nutritionUrl": "https://img2.hkrtcdn.com/45915/prd_4591471-MuscleTech-Platinum-Fish-Oil-100-softgels_o.jpg",
+        "labelSources": [
+          "https://www.healthkart.com/sv/muscletech-platinum-fish-oil/SP-32583?navKey=VRNT-61857",
+          "https://img2.hkrtcdn.com/45915/prd_4591441-MuscleTech-Platinum-Fish-Oil-100-softgels_o.jpg",
+          "https://img2.hkrtcdn.com/45915/prd_4591471-MuscleTech-Platinum-Fish-Oil-100-softgels_o.jpg",
+          "https://img6.hkrtcdn.com/45915/prd_4591475-MuscleTech-Platinum-Fish-Oil-100-softgels_o.jpg"
+        ],
+        "basis": "Selected 100-unit bottle and nutrition panel: one softgel (1.54 g), fish oil 1000 mg, total omega-3 fatty acids 300 mg, EPA 180 mg, DHA 120 mg and energy 10 kcal.",
+        "notes": "1000 mg is fish-oil mass, not EPA+DHA mass. Gelatin softgel is non-vegetarian. Fish species and triglyceride/ethyl-ester form were not verified. Manufacturer quality badges are claims and do not establish an independent laboratory result.",
+        "id": "fish-oil-hk-61857",
+        "brand": "MuscleTech",
+        "price": 799,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://www.healthkart.com/sv/muscletech-platinum-fish-oil/SP-32583?navKey=VRNT-61857",
+        "sourceType": "retailer",
+        "retailer": "HealthKart",
+        "seller": "Shri Balaji Overseas",
+        "sourceVariantId": "61857",
+        "sourceProductId": "32583",
+        "labelChecked": "2026-11-20",
+        "packaging": "Single retail pack",
+        "flavour": "Unflavoured"
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5197,
+      "observation": {
+        "category": "fish-oil",
+        "offerId": "fish-oil-hk-61857",
+        "date": "2026-11-20",
+        "price": 799,
+        "currency": "INR",
+        "sourceUrl": "https://www.healthkart.com/sv/muscletech-platinum-fish-oil/SP-32583?navKey=VRNT-61857",
+        "evidenceUrl": "https://www.healthkart.com/sv/muscletech-platinum-fish-oil/SP-32583?navKey=VRNT-61857",
+        "kind": "official-live",
+        "sourceType": "retailer",
+        "retailer": "HealthKart",
+        "seller": "Shri Balaji Overseas",
+        "variantId": "61857",
+        "matchBasis": "HealthKart public SSR exact published product SP-32583 and selected VRNT-61857; source brand and all selected attributes match; ordinary offer_pr, not Premium/Select/coupon pricing. Label gallery reviewed independently."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 306,
+      "profile": {
+        "product": "Platinum Fish Oil",
+        "form": "Softgel",
+        "type": "Fish oil (chemical form not verified)",
+        "subclass": "Enteric-coated fish oil",
+        "source": "Fish species not specified",
+        "packCount": 100,
+        "servingUnits": 1,
+        "fishOilMg": 1000,
+        "epaMg": 180,
+        "dhaMg": 120,
+        "epaDhaMg": 300,
+        "energyPerServing": 10,
+        "nutritionUrl": "https://img2.hkrtcdn.com/45915/prd_4591471-MuscleTech-Platinum-Fish-Oil-100-softgels_o.jpg",
+        "labelSources": [
+          "https://www.healthkart.com/sv/muscletech-platinum-fish-oil/SP-32583?navKey=VRNT-61857",
+          "https://img2.hkrtcdn.com/45915/prd_4591441-MuscleTech-Platinum-Fish-Oil-100-softgels_o.jpg",
+          "https://img2.hkrtcdn.com/45915/prd_4591471-MuscleTech-Platinum-Fish-Oil-100-softgels_o.jpg",
+          "https://img6.hkrtcdn.com/45915/prd_4591475-MuscleTech-Platinum-Fish-Oil-100-softgels_o.jpg"
+        ],
+        "basis": "Selected 100-unit bottle and nutrition panel: one softgel (1.54 g), fish oil 1000 mg, total omega-3 fatty acids 300 mg, EPA 180 mg, DHA 120 mg and energy 10 kcal.",
+        "notes": "1000 mg is fish-oil mass, not EPA+DHA mass. Gelatin softgel is non-vegetarian. Fish species and triglyceride/ethyl-ester form were not verified. Manufacturer quality badges are claims and do not establish an independent laboratory result.",
+        "id": "fish-oil-hk-61857",
+        "brand": "MuscleTech",
+        "currency": "INR",
+        "sourceType": "retailer",
+        "retailer": "HealthKart",
+        "seller": "Shri Balaji Overseas",
+        "sourceVariantId": "61857",
+        "sourceProductId": "32583",
+        "labelChecked": "2026-11-20",
+        "packaging": "Single retail pack",
+        "flavour": "Unflavoured",
+        "category": "fish-oil",
+        "kind": "hk-product",
+        "base": "https://www.healthkart.com",
+        "cacheKey": "hk-fish-oil-61857",
+        "productUrl": "https://www.healthkart.com/sv/muscletech-platinum-fish-oil/SP-32583?navKey=VRNT-61857",
+        "variantUrl": "https://www.healthkart.com/sv/muscletech-platinum-fish-oil/SP-32583?navKey=VRNT-61857",
+        "variantId": "61857",
+        "productId": "32583",
+        "sourceBrand": "MuscleTech",
+        "variantAttributes": {
+          "fn-att-quant": "100 softgels"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "category": "beta-alanine",
+  "brand": "HealthyHey",
+  "product": "Beta-Alanine Pro-Series Powder",
+  "variants": [
+    {
+      "order": 1,
+      "offer": {
+        "brand": "HealthyHey",
+        "product": "Beta-Alanine Pro-Series Powder",
+        "form": "Powder",
+        "type": "Beta-alanine",
+        "subclass": "With fructooligosaccharide",
+        "source": "Not specified",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "grams": 250,
+        "servingGrams": 4,
+        "basis": "Official inspected back label specifies one 4 g scoop, 4 g beta-alanine, 10 mg fructooligosaccharide and 0 kcal. Exact selected product variant is 250 g.",
+        "notes": "The label rounds beta-alanine to the 4 g serving mass while separately declaring 10 mg fructooligosaccharide. The minor mass-basis rounding is disclosed; co-ingredient mass is not added to beta-alanine.",
+        "labelChecked": "2026-11-17",
+        "betaAlanineMg": 4000,
+        "energyPerServing": 0,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-nutrition-capsule-250-gram-beta-alanine-powder-energy-management-for-endurance-pro-series-1260251464.png?v=1791303568"
+        ],
+        "id": "beta-alanine-44683789926685",
+        "price": 499,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://healthyhey.com/products/beta-alanine-powder-endurance?variant=44683789926685",
+        "nutritionUrl": "https://healthyhey.com/products/beta-alanine-powder-endurance",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://healthyhey.com/products/beta-alanine-powder-endurance?variant=44683789926685",
+          "evidenceUrl": "https://healthyhey.com/products/beta-alanine-powder-endurance.json",
+          "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3829,
+      "observation": {
+        "category": "beta-alanine",
+        "offerId": "beta-alanine-44683789926685",
+        "date": "2026-11-17",
+        "price": 438,
+        "currency": "INR",
+        "sourceUrl": "https://healthyhey.com/products/beta-alanine-powder-endurance?variant=44683789926685",
+        "evidenceUrl": "https://healthyhey.com/products/beta-alanine-powder-endurance.json",
+        "kind": "official-live",
+        "matchBasis": "Direct official same-day source; exact retail variant and weight. Member, prepaid and coupon discounts excluded.",
+        "variantId": "44683789926685"
+      }
+    },
+    {
+      "order": 4027,
+      "observation": {
+        "category": "beta-alanine",
+        "offerId": "beta-alanine-44683789926685",
+        "date": "2026-11-19",
+        "price": 499,
+        "currency": "INR",
+        "sourceUrl": "https://healthyhey.com/products/beta-alanine-powder-endurance?variant=44683789926685",
+        "evidenceUrl": "https://healthyhey.com/products/beta-alanine-powder-endurance.json",
+        "kind": "official-live",
+        "variantId": "44683789926685",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 113,
+      "profile": {
+        "category": "beta-alanine",
+        "brand": "HealthyHey",
+        "base": "https://healthyhey.com",
+        "handle": "beta-alanine-powder-endurance",
+        "product": "Beta-Alanine Pro-Series Powder",
+        "form": "Powder",
+        "type": "Beta-alanine",
+        "subclass": "With fructooligosaccharide",
+        "source": "Not specified",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "grams": 250,
+        "servingGrams": 4,
+        "basis": "Official inspected back label specifies one 4 g scoop, 4 g beta-alanine, 10 mg fructooligosaccharide and 0 kcal. Exact selected product variant is 250 g.",
+        "notes": "The label rounds beta-alanine to the 4 g serving mass while separately declaring 10 mg fructooligosaccharide. The minor mass-basis rounding is disclosed; co-ingredient mass is not added to beta-alanine.",
+        "labelChecked": "2026-11-17",
+        "variantIds": [
+          "44683789926685"
+        ],
+        "betaAlanineMg": 4000,
+        "energyPerServing": 0,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-nutrition-capsule-250-gram-beta-alanine-powder-energy-management-for-endurance-pro-series-1260251464.png?v=1791303568"
+        ]
+      }
+    }
+  ]
+}

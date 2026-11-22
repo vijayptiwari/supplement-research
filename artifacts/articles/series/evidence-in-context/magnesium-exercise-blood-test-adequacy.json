@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "order": 1,
+  "article": {
+    "id": "magnesium-exercise-blood-test-adequacy",
+    "category": "magnesium",
+    "series": "evidence-in-context",
+    "title": "A hard workout does not automatically create a magnesium deficiency",
+    "summary": "Exercise, blood-test timing and low dietary intake are different issues. Two human studies show why they should not be collapsed into one supplement recommendation.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "Magnesium belongs in a discussion of training because muscles and normal energy metabolism depend on it. That fact makes the sales story unusually easy: exercise uses magnesium, a blood value falls after exercise, therefore a larger supplement should improve performance. Each link deserves a closer look. A temporary concentration change is not the same as depleted body stores, and correcting low intake is not the same as enhancing an already adequate athlete. The most useful question is not whether magnesium matters. It is which person has an unmet need, what evidence identifies that need, and what improvement a supplement has actually delivered in a comparable group.",
+    "sections": [
+      {
+        "id": "necessary",
+        "title": "Necessary for performance does not mean performance enhancing",
+        "body": "Many essential nutrients help maintain processes involved in exercise. If that alone established an extra performance benefit, every essential nutrient would be an effective sports supplement at every intake. Magnesium illustrates the missing step. Its normal roles explain why deficiency can be harmful, but they do not establish that more magnesium raises performance after the need is met. NIH sports-nutrition guidance separates meeting nutritional requirements from evidence for supplements as performance aids. When reading an advertisement about ATP or muscle contraction, ask for the next piece of information: did a controlled human trial show a meaningful training outcome, and were the participants low in magnesium to begin with?",
+        "sourceIds": [
+          "exercise",
+          "mg-overview"
+        ]
+      },
+      {
+        "id": "exercise-test",
+        "title": "The blood sample can reflect when it was collected",
+        "body": "In a study of 18 trained endurance athletes, ionised and total blood magnesium fell after a cycling bout and returned to baseline within hours on average. A resting comparison day helped show why sampling time matters. Someone who treats the immediate post-exercise value as a stable picture can mistake a transient change for a persistent nutritional state. The study does not prove that sweat losses never matter or that every athlete has adequate intake. It demonstrates a narrower point: an isolated measurement obtained near exercise needs context. It was a study of concentration changes and monitoring, not a trial showing whether a magnesium pill improves endurance.",
+        "sourceIds": [
+          "nutrients-mg-exercise-blood-2017"
+        ]
+      },
+      {
+        "id": "status",
+        "title": "A test result, food pattern and symptom tell different stories",
+        "body": "Magnesium status is difficult to summarise with one convenient number. Much of the body's magnesium is outside blood, and NIH notes the limitations of serum measurements. That does not make every low-energy day a hidden deficiency or justify dismissing a clinician's laboratory assessment. It means the interpretation may need dietary intake, symptoms, medicines and relevant medical conditions together. A cramped calf after a hot race and persistent weakness in daily life should not be assigned the same cause from a supplement advertisement. Before comparing products, identify which observation prompted the purchase and what other plausible explanations remain. A label cannot resolve that diagnostic uncertainty.",
+        "sourceIds": [
+          "mg-overview"
+        ]
+      },
+      {
+        "id": "function-trial",
+        "title": "The positive trial was about older adults and everyday function",
+        "body": "A 12-week trial in older women participating in a mild exercise programme found improvements in measures such as walking speed and chair stands with magnesium supplementation compared with no intervention. The signal was stronger in women whose dietary intake was below the recommended level. That is a more specific and more useful finding than magnesium improves performance. The participants were older women, the comparator was not a placebo, and the study did not find significant differences in the secondary strength measures. Better everyday function in that setting cannot be translated into a larger bench press, faster race or guaranteed benefit for a well-nourished young athlete.",
+        "sourceIds": [
+          "nutrients-mg-function-2014"
+        ]
+      },
+      {
+        "id": "compare",
+        "title": "Why the two studies belong together",
+        "body": "The endurance study asks what happens to a blood measurement around exercise. The older-adult trial asks whether adding magnesium changes function during a programme. Neither question can answer the other. Together, they discourage two common shortcuts: diagnosing persistent deficiency from an acute fall, and dismissing all supplementation because athletes with adequate intake may not benefit. The practical dividing line is baseline need and the outcome being pursued. This is also why a testimonial is difficult to interpret. Someone may change training, sleep, food and supplements together, then credit the capsule for an improvement that the comparison cannot isolate.",
+        "sourceIds": [
+          "nutrients-mg-exercise-blood-2017",
+          "nutrients-mg-function-2014"
+        ]
+      },
+      {
+        "id": "food",
+        "title": "Make a dietary review concrete enough to be useful",
+        "body": "A food-first review should describe actual meals rather than whether someone eats healthy. Nuts, seeds, legumes, whole grains and leafy vegetables can contribute magnesium; the amount depends on the food and portion. Look for repeated gaps across an ordinary week, including restrictive diets and training days when meals are skipped. Adding one fashionable food does not establish adequacy, while a diverse diet should not be judged deficient because it contains no sports product. This approach also exposes a different problem: an athlete who repeatedly under-eats may need a better overall fuelling pattern. A magnesium capsule supplies one mineral and cannot stand in for missing energy or a balanced dietary pattern.",
+        "sourceIds": [
+          "mg-overview",
+          "exercise"
+        ]
+      },
+      {
+        "id": "tolerance",
+        "title": "An extra mineral also has a cost beyond money",
+        "body": "Supplemental magnesium can cause diarrhoea and abdominal discomfort, and impaired kidney function changes the safety context. It can also interfere with the handling of some medicines, so product timing may need an individual plan. These details matter in sport: a capsule taken for recovery is poor value if it disrupts meals or training through gastrointestinal effects. The upper intake framework for supplemental magnesium is not the same as a limit on magnesium naturally present in food. Nor is it a target that everyone should try to reach. A high elemental amount deserves a reason, rather than being treated as a quality badge.",
+        "sourceIds": [
+          "mg-overview",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "purchase",
+        "title": "Decide what success would look like before buying",
+        "body": "For a general training stack, do not make magnesium compulsory solely because sessions are hard or sweaty. Start with the intake and clinical context; seek assessment where there is a genuine reason to suspect deficiency. If supplementation is chosen with an appropriate purpose, use an explicitly labelled elemental amount and review tolerance and duplication. Define success in terms relevant to that purpose rather than chasing an immediate feeling or an isolated blood reading. The evidence supports magnesium as essential nutrition and allows targeted benefit in some contexts. It does not turn every post-workout concentration change into a diagnosis or every expensive magnesium form into a proven athletic advantage.",
+        "sourceIds": [
+          "exercise",
+          "nutrients-mg-function-2014",
+          "nutrients-mg-exercise-blood-2017",
+          "supplement-quality-ods"
+        ]
+      }
+    ],
+    "evidenceNotes": [
+      {
+        "finding": "Blood magnesium fell after exercise, then returned to baseline within hours on average.",
+        "sourceIds": [
+          "nutrients-mg-exercise-blood-2017"
+        ],
+        "design": "Repeated-measure exercise day with a resting comparison day.",
+        "population": "18 well-trained endurance athletes.",
+        "outcome": "Ionised and total blood magnesium over time.",
+        "limits": "Monitoring study; does not establish total-body depletion or a supplement performance benefit."
+      },
+      {
+        "finding": "Magnesium improved selected everyday-function measures; secondary strength differences were not significant.",
+        "sourceIds": [
+          "nutrients-mg-function-2014"
+        ],
+        "design": "Randomised 12-week supplementation versus no-intervention trial.",
+        "population": "Older women undertaking a mild exercise programme.",
+        "outcome": "Walking speed, chair stands and a physical-function battery.",
+        "limits": "No placebo; results do not generalise directly to younger adequately nourished athletes."
+      }
+    ],
+    "sourceIds": [
+      "exercise",
+      "mg-overview",
+      "nutrients-mg-exercise-blood-2017",
+      "nutrients-mg-function-2014",
+      "supplement-quality-ods"
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "order": 28,
+  "article": {
+    "id": "zmc-combination-versus-separate",
+    "category": "zmc",
+    "series": "comparisons",
+    "title": "ZMC versus separate minerals: convenience is not evidence of synergy",
+    "summary": "Assess zinc, magnesium and calcium as separate nutritional decisions before treating a combination as an essential fitness stack.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "A combined mineral product can be convenient. It can also hide the fact that the buyer has three separate questions: whether zinc, magnesium and calcium are needed, whether the quantities fit, and whether the combination itself has evidence for the advertised purpose. The letters ZMC do not establish a fixed formula or a universal requirement. This comparison explains when convenience has real value and when a combination makes the label harder to interpret than a simpler approach.",
+    "sections": [
+      {
+        "id": "individual-needs",
+        "title": "One mineral gap does not establish three",
+        "body": "The nutritional roles of zinc, magnesium and calcium are real, but their sources and requirements differ. A person considering one mineral has not thereby shown a need for the other two. Review each contribution from food and existing products independently. The combination label can be a starting point for that review, rather than the conclusion. If only one ingredient has a clear purpose, an unnecessarily complex formulation may add cost or unwanted exposure without addressing a second or third identified problem.",
+        "sourceIds": [
+          "ca-overview",
+          "mg-overview",
+          "zn-overview"
+        ]
+      },
+      {
+        "id": "formula",
+        "title": "There is no single universal ZMC preparation",
+        "body": "Two products with the same three-letter description can differ in salts, elemental amounts, serving units and added vitamins. Some can include vitamin D or other ingredients that alter the overlap with an existing stack. Evidence for one formula cannot be assigned to another merely because the headline letters match. Record the full ingredient panel and the actual serving. This is particularly important when a front-panel total combines compound weights or uses a large blend number without identifying each mineral's contribution.",
+        "sourceIds": [
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "zma",
+        "title": "Do not transfer a ZMA study into a ZMC promise",
+        "body": "ZMA and ZMC are not interchangeable names. A trial of a specified zinc-magnesium-aspartate product in resistance-trained men did not demonstrate the advertised training or hormone advantages under its study conditions. It did not test every ZMC formula, and it does not erase the value of correcting a true nutrient shortage. The useful lesson is about evidence matching: identify the tested ingredients, comparison, participants and outcome before borrowing a study to support a different combination or a broader fitness claim.",
+        "sourceIds": [
+          "nutrients-zma-training-2004"
+        ]
+      },
+      {
+        "id": "synergy",
+        "title": "A plausible interaction is not demonstrated extra benefit",
+        "body": "Minerals can participate in related physiological systems without a combined retail product improving outcomes beyond an adequate diet. To establish a useful combination advantage, research would need to test that relevant formula against an appropriate alternative for the outcome being promised. Listing bone, muscle and immune functions beside each other does not perform that comparison. A phrase such as synergistic should therefore lead to a request for specific evidence rather than function as a substitute for it or an automatic reason to buy all components.",
+        "sourceIds": [
+          "ca-overview",
+          "mg-overview",
+          "zn-overview"
+        ]
+      },
+      {
+        "id": "convenience",
+        "title": "When a combined product may be practically useful",
+        "body": "Convenience can be a legitimate feature when several ingredients already have an appropriate purpose and the formula supplies suitable amounts in an acceptable number of units. Fewer containers may make a plan easier to follow. That is an adherence or administration advantage, not proof of superior physiology. Compare the combined pack with the actual separate alternatives, including the number of complete servings and any unwanted ingredients. The cheapest container is not necessarily the cheapest way to obtain a defined set of useful contributions.",
+        "sourceIds": [
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "flexibility",
+        "title": "Separate products can make adjustment easier",
+        "body": "A fixed combination ties the quantities together: increasing one ingredient also increases the others. Separate products can offer more flexibility when a professional plan changes or only one mineral is needed. That flexibility is not a reason to collect three separate bottles by default; it is relevant only when the need and amounts justify it. The decision should follow the nutritional or clinical problem. Neither a combination nor an individual-mineral strategy is universally superior without knowing what it is meant to accomplish.",
+        "sourceIds": [
+          "ca-overview",
+          "mg-overview",
+          "zn-overview"
+        ]
+      },
+      {
+        "id": "overlap",
+        "title": "More complete can also mean more duplication",
+        "body": "A multivitamin, calcium tablet and magnesium sleep blend may already contribute parts of a ZMC formula. Read each label before assuming that adding a combination fills a gap. Excess zinc can affect copper status, and minerals can interact with medicines or cause adverse effects. A larger total mineral number does not establish a larger benefit. Keep each elemental amount separate rather than adding all mineral milligrams into one strength score that has no meaningful nutritional interpretation.",
+        "sourceIds": [
+          "zn-overview",
+          "mg-overview",
+          "ca-overview"
+        ]
+      },
+      {
+        "id": "decision",
+        "title": "Choose the simplest adequately justified plan",
+        "body": "A useful comparison asks which ingredients are relevant, whether their amounts and forms can be verified, how the product fits other intake, and what the entire purchase costs. If a combination wins on those practical terms, its convenience can justify choosing it. If the need is unclear or the formula obscures its components, no purchase may be the stronger decision. Avoid paying for a testosterone, recovery or bone-protection story that is built only from separate nutrient roles rather than evidence for the actual intervention.",
+        "sourceIds": [
+          "supplement-quality-ods",
+          "nutrients-zma-training-2004"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "ca-overview",
+      "mg-overview",
+      "zn-overview",
+      "supplement-quality-ods",
+      "nutrients-zma-training-2004"
+    ],
+    "comparison": {
+      "title": "Combination, separate products or food: compare the purpose first",
+      "columns": [
+        {
+          "key": "fit",
+          "label": "Where it may fit"
+        },
+        {
+          "key": "tradeoff",
+          "label": "Main trade-off"
+        },
+        {
+          "key": "evidence",
+          "label": "Evidence check"
+        }
+      ],
+      "rows": [
+        {
+          "label": "ZMC combination",
+          "values": {
+            "fit": "Several separately justified ingredients in one suitable formulation.",
+            "tradeoff": "Fixed proportions can add unwanted ingredients or make adjustment difficult.",
+            "evidence": "Individual mineral roles do not prove combination-specific benefits."
+          },
+          "sourceIds": [
+            "ca-overview",
+            "mg-overview",
+            "zn-overview"
+          ]
+        },
+        {
+          "label": "Individual mineral product",
+          "values": {
+            "fit": "A defined need for a particular mineral.",
+            "tradeoff": "Requires separate reading of amount, form, other intake and medicines.",
+            "evidence": "Match the preparation and clinical or nutritional purpose."
+          },
+          "sourceIds": [
+            "ca-overview",
+            "mg-overview",
+            "zn-overview"
+          ]
+        },
+        {
+          "label": "Food contribution",
+          "values": {
+            "fit": "Ordinary dietary adequacy within a varied eating pattern.",
+            "tradeoff": "Actual contribution depends on portions, preparation and dietary context.",
+            "evidence": "Food intake is not automatically an equivalent treatment regimen."
+          },
+          "sourceIds": [
+            "ca-overview",
+            "mg-overview",
+            "zn-overview"
+          ]
+        }
+      ]
+    }
+  }
+}

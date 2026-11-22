@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "order": 38,
+  "article": {
+    "id": "ashwagandha-root-extract-labels",
+    "category": "ashwagandha",
+    "series": "understanding-types",
+    "title": "Ashwagandha labels: root powder, extracts and withanolide percentages",
+    "summary": "Learn which label differences identify a preparation, which allow arithmetic, and which still need human outcome evidence.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "Two ashwagandha packs can print the same milligram number while supplying different materials. One may contain ground root, another a concentrated extract and another a mixture that includes leaf. A percentage can add useful information, but it cannot make those interventions identical. The useful comparison keeps plant material, extraction, standardisation and delivery format separate. This article explains how to read those layers before paying for a stronger-looking front label, and why a preparation studied for stress cannot automatically validate every botanical product.",
+    "sections": [
+      {
+        "id": "match-the-intervention",
+        "title": "Match the preparation before comparing the result",
+        "body": "A human trial tests an intervention with a particular composition, amount and schedule. In a 60-day stress study, participants received a specified root extract; the finding does not establish that an equal weight of ordinary root powder has the same effect. When a product cites a study, compare the actual ingredient description with the study methods. A shared plant name is the start of this check. It is not the complete bridge between a published result and the finished formula in your hand.",
+        "sourceIds": [
+          "ash-trial",
+          "ash-overview"
+        ]
+      },
+      {
+        "id": "calculate-withanolides",
+        "title": "A percentage needs a verified denominator",
+        "body": "A standardisation percentage describes a proportion of a stated material. If a label clearly supplies 300 mg of an extract standardised to 5%, the arithmetic gives 15 mg of declared withanolides. That is an illustrative label calculation, not an intake recommendation. Applying 5% to a larger blend that includes root powder would manufacture a quantity unless the percentage explicitly covers that whole blend. Even a valid calculation remains a declaration of composition, rather than an independent assay or a prediction of benefit.",
+        "sourceIds": [
+          "ash-overview",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "buy-a-relevant-feature",
+        "title": "Pay for an interpretable feature",
+        "body": "A useful premium should purchase something you can identify: a preparation relevant to the cited research, clear ingredient quantities, appropriate quality documentation or a format you find practical. A trademark, extraction ratio or larger percentage can prompt further questions, but it cannot answer the clinical question alone. Read the trial population and duration as well as the ingredient identity. More precise label information improves comparison; it does not resolve uncertainty about a long-term outcome or suitability for a particular person.",
+        "sourceIds": [
+          "ash-overview",
+          "supplement-quality-ods"
+        ]
+      }
+    ],
+    "forms": [
+      {
+        "name": "Whole root powder",
+        "kind": "ingredient",
+        "description": "Ground plant material includes a broad mixture of constituents. A root-powder mass is not automatically an extract mass.",
+        "metabolism": "Oral material undergoes digestion and processing; there is no single established human pathway describing every constituent.",
+        "evidence": "Trials use differing preparations. Findings for one extract do not establish the same result from the same weight of powder.",
+        "value": "Compare powder with powder on a clear basis, and require relevant evidence before treating a concentration claim as equivalent.",
+        "sourceIds": [
+          "ash-overview"
+        ]
+      },
+      {
+        "name": "Root extract",
+        "kind": "ingredient",
+        "description": "Extraction concentrates selected material from the root. The extraction process and composition are part of the ingredient description.",
+        "metabolism": "The absorbed constituents and metabolites depend on preparation. A plant-extract label does not map a complete causal route to stress relief.",
+        "evidence": "Some small trials report improvements with specified root extracts. Their short follow-up and selected participants limit generalisation.",
+        "value": "Check extract quantity, standardisation basis and study match; do not infer equivalence from the plant name alone.",
+        "sourceIds": [
+          "ash-trial",
+          "ash-overview"
+        ]
+      },
+      {
+        "name": "Root-and-leaf extract",
+        "kind": "ingredient",
+        "description": "A preparation containing leaf as well as root is a separate material description, not simply a higher grade of root powder.",
+        "metabolism": "Root and leaf differ chemically. A combined extract therefore should not be assumed to reproduce another preparation's exposure.",
+        "evidence": "Human studies reviewed by NIH include root-and-leaf preparations, but this is not evidence that every blend has identical effects.",
+        "value": "Look for disclosure of plant parts and a relevant formulation-specific study instead of a universal withanolide ranking.",
+        "sourceIds": [
+          "ash-overview"
+        ]
+      },
+      {
+        "name": "A multi-ingredient stress blend",
+        "kind": "ingredient",
+        "description": "A finished product may add other botanicals, vitamins or sedating ingredients. Its total mass does not disclose each component.",
+        "metabolism": "Each ingredient contributes its own exposure and possible interactions; a blend is not one biological pathway.",
+        "evidence": "Evidence for an isolated extract cannot establish the effect of the finished mixture, particularly when component quantities are unknown.",
+        "value": "Require individual amounts and check overlap with existing products; a longer ingredient list does not by itself justify a premium.",
+        "sourceIds": [
+          "ash-overview",
+          "well-ash-safety",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "name": "Capsules and tablets",
+        "kind": "delivery",
+        "description": "Counted units package a specified powder, extract or mixture. One unit need not be the full serving.",
+        "metabolism": "The contents still undergo oral processing; the shell does not establish better absorption or a distinct stress-response mechanism.",
+        "evidence": "Clinical evidence belongs to the tested formulation and regimen, rather than the entire capsule or tablet category.",
+        "value": "Calculate complete servings from units per serving and compare the ingredient amount supplied by those servings.",
+        "sourceIds": [
+          "ash-trial",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "name": "Gummies and flavoured preparations",
+        "kind": "delivery",
+        "description": "Taste and texture can improve convenience while adding ingredients. Front-label flavour or format does not identify the botanical preparation.",
+        "metabolism": "A palatable format still needs to deliver the stated material; convenience does not prove clinical superiority.",
+        "evidence": "A trial of a specified extract is not independent testing of a gummy's composition, stability or outcome.",
+        "value": "Read the complete serving, added ingredients and source evidence. Choose practicality without turning it into an unverified potency claim.",
+        "sourceIds": [
+          "supplement-quality-ods",
+          "ash-overview"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "ash-trial",
+      "ash-overview",
+      "supplement-quality-ods",
+      "well-ash-safety"
+    ]
+  }
+}

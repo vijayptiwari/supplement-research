@@ -1,0 +1,255 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "Fast&Up",
+  "product": "Yeast Protein",
+  "variants": [
+    {
+      "order": 750,
+      "offer": {
+        "id": 750,
+        "brand": "Fast&Up",
+        "product": "Yeast Protein",
+        "type": "Fermented yeast",
+        "flavour": "Coffee",
+        "kg": 1,
+        "price": 2249,
+        "stock": "In stock",
+        "protein": 68.4,
+        "scoop": 38,
+        "serving": 38,
+        "subclass": "Fermented yeast",
+        "energy": 389.9,
+        "url": "https://www.fastandup.in/products/yeast-protein-coffee-1kg?variant=67165969252427",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0574/6035/9243/files/3_a973d7a2-65c9-4bd1-b22e-0bd092cf1035.png?v=1790833242",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Previously missing protein % added from flavour-matched panel; linked cost recalculates. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-matched label image, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.fastandup.in/products/yeast-protein-coffee-1kg?variant=67165969252427",
+          "evidenceUrl": "https://www.fastandup.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 751,
+      "offer": {
+        "id": 751,
+        "brand": "Fast&Up",
+        "product": "Yeast Protein",
+        "type": "Fermented yeast",
+        "flavour": "Cookies & Cream",
+        "kg": 1,
+        "price": 2249,
+        "stock": "In stock",
+        "protein": 67.9,
+        "scoop": 38.3,
+        "serving": 38.3,
+        "subclass": "Fermented yeast",
+        "energy": 387.9,
+        "url": "https://www.fastandup.in/products/yeast-protein-cookies-cream-1kg?variant=48942289158219",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0574/6035/9243/files/3_bef3b072-0fe6-4633-a29b-f6bc47e36e8b.png?v=1790171650",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Previously missing protein % added from flavour-matched panel; linked cost recalculates. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-matched label image, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.fastandup.in/products/yeast-protein-cookies-cream-1kg?variant=48942289158219",
+          "evidenceUrl": "https://www.fastandup.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 752,
+      "offer": {
+        "id": 752,
+        "brand": "Fast&Up",
+        "product": "Yeast Protein",
+        "type": "Fermented yeast",
+        "flavour": "Rich Chocolate",
+        "kg": 1,
+        "price": 2249,
+        "stock": "In stock",
+        "protein": 68.6,
+        "scoop": 37.9,
+        "serving": 37.9,
+        "subclass": "Fermented yeast",
+        "energy": 390.7,
+        "url": "https://www.fastandup.in/products/yeast-protein-rich-chocolate-1kg?variant=48942311538763",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0574/6035/9243/files/3_0f12fff7-cbb1-4d45-a4dd-719dbe83356d.png?v=1790173914",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Previously missing protein % added from flavour-matched panel; linked cost recalculates. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-matched label image, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.fastandup.in/products/yeast-protein-rich-chocolate-1kg?variant=48942311538763",
+          "evidenceUrl": "https://www.fastandup.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 753,
+      "offer": {
+        "id": 753,
+        "brand": "Fast&Up",
+        "product": "Yeast Protein",
+        "type": "Fermented yeast",
+        "flavour": "Unflavoured",
+        "kg": 1,
+        "price": 2249,
+        "stock": "In stock",
+        "protein": 76.9,
+        "scoop": 33.8,
+        "serving": 33.8,
+        "subclass": "Fermented yeast",
+        "energy": 423.9,
+        "url": "https://www.fastandup.in/products/yeast-protein-unflavoured-1kg?variant=48942218608715",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0574/6035/9243/files/3_b9bc2da7-ee6e-4329-9a1c-0366e0b521aa.png?v=1790168732",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Previously missing protein % added from flavour-matched panel; linked cost recalculates. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-matched label image, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.fastandup.in/products/yeast-protein-unflavoured-1kg?variant=48942218608715",
+          "evidenceUrl": "https://www.fastandup.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 2939,
+      "observation": {
+        "category": "protein",
+        "offerId": 750,
+        "date": "2026-10-25",
+        "price": 2249,
+        "currency": "INR",
+        "sourceUrl": "https://www.fastandup.in/products/yeast-protein-coffee-1kg?variant=67165969252427",
+        "evidenceUrl": "https://www.fastandup.in/products/yeast-protein-coffee-1kg.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "67165969252427"
+      }
+    },
+    {
+      "order": 2940,
+      "observation": {
+        "category": "protein",
+        "offerId": 751,
+        "date": "2026-10-25",
+        "price": 2249,
+        "currency": "INR",
+        "sourceUrl": "https://www.fastandup.in/products/yeast-protein-cookies-cream-1kg?variant=48942289158219",
+        "evidenceUrl": "https://www.fastandup.in/products/yeast-protein-cookies-cream-1kg.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "48942289158219"
+      }
+    },
+    {
+      "order": 2941,
+      "observation": {
+        "category": "protein",
+        "offerId": 752,
+        "date": "2026-10-25",
+        "price": 2249,
+        "currency": "INR",
+        "sourceUrl": "https://www.fastandup.in/products/yeast-protein-rich-chocolate-1kg?variant=48942311538763",
+        "evidenceUrl": "https://www.fastandup.in/products/yeast-protein-rich-chocolate-1kg.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "48942311538763"
+      }
+    },
+    {
+      "order": 2942,
+      "observation": {
+        "category": "protein",
+        "offerId": 753,
+        "date": "2026-10-25",
+        "price": 2249,
+        "currency": "INR",
+        "sourceUrl": "https://www.fastandup.in/products/yeast-protein-unflavoured-1kg?variant=48942218608715",
+        "evidenceUrl": "https://www.fastandup.in/products/yeast-protein-unflavoured-1kg.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "48942218608715"
+      }
+    },
+    {
+      "order": 4797,
+      "observation": {
+        "category": "protein",
+        "offerId": 750,
+        "date": "2026-11-19",
+        "price": 2249,
+        "currency": "INR",
+        "sourceUrl": "https://www.fastandup.in/products/yeast-protein-coffee-1kg?variant=67165969252427",
+        "evidenceUrl": "https://www.fastandup.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "67165969252427"
+      }
+    },
+    {
+      "order": 4798,
+      "observation": {
+        "category": "protein",
+        "offerId": 751,
+        "date": "2026-11-19",
+        "price": 2249,
+        "currency": "INR",
+        "sourceUrl": "https://www.fastandup.in/products/yeast-protein-cookies-cream-1kg?variant=48942289158219",
+        "evidenceUrl": "https://www.fastandup.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "48942289158219"
+      }
+    },
+    {
+      "order": 4799,
+      "observation": {
+        "category": "protein",
+        "offerId": 752,
+        "date": "2026-11-19",
+        "price": 2249,
+        "currency": "INR",
+        "sourceUrl": "https://www.fastandup.in/products/yeast-protein-rich-chocolate-1kg?variant=48942311538763",
+        "evidenceUrl": "https://www.fastandup.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "48942311538763"
+      }
+    },
+    {
+      "order": 4800,
+      "observation": {
+        "category": "protein",
+        "offerId": 753,
+        "date": "2026-11-19",
+        "price": 2249,
+        "currency": "INR",
+        "sourceUrl": "https://www.fastandup.in/products/yeast-protein-unflavoured-1kg?variant=48942218608715",
+        "evidenceUrl": "https://www.fastandup.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "48942218608715"
+      }
+    }
+  ],
+  "refreshSources": []
+}

@@ -1,0 +1,432 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "BigMuscles Nutrition",
+  "product": "Purely Whey",
+  "variants": [
+    {
+      "order": 712,
+      "offer": {
+        "id": 712,
+        "brand": "BigMuscles Nutrition",
+        "product": "Purely Whey",
+        "type": "Whey — blend",
+        "flavour": "Cookie & Cream",
+        "kg": 1,
+        "price": 1099,
+        "stock": "Sold out",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://www.bigmusclesnutrition.com/products/purely-whey?variant=39712094978147",
+        "nutritionUrl": "https://www.bigmusclesnutrition.com/products/purely-whey?variant=39712094978147",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.bigmusclesnutrition.com/products/purely-whey?variant=39712094978147",
+          "evidenceUrl": "https://www.bigmusclesnutrition.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 713,
+      "offer": {
+        "id": 713,
+        "brand": "BigMuscles Nutrition",
+        "product": "Purely Whey",
+        "type": "Whey — blend",
+        "flavour": "Double Rich Chocolate",
+        "kg": 1,
+        "price": 1099,
+        "stock": "Sold out",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://www.bigmusclesnutrition.com/products/purely-whey?variant=39712096780387",
+        "nutritionUrl": "https://www.bigmusclesnutrition.com/products/purely-whey?variant=39712096780387",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.bigmusclesnutrition.com/products/purely-whey?variant=39712096780387",
+          "evidenceUrl": "https://www.bigmusclesnutrition.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 714,
+      "offer": {
+        "id": 714,
+        "brand": "BigMuscles Nutrition",
+        "product": "Purely Whey",
+        "type": "Whey — blend",
+        "flavour": "unflavored",
+        "kg": 1,
+        "price": 999,
+        "stock": "Sold out",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://www.bigmusclesnutrition.com/products/purely-whey?variant=39701141749859",
+        "nutritionUrl": "https://www.bigmusclesnutrition.com/products/purely-whey?variant=39701141749859",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.bigmusclesnutrition.com/products/purely-whey?variant=39701141749859",
+          "evidenceUrl": "https://www.bigmusclesnutrition.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 1655,
+      "observation": {
+        "category": "protein",
+        "offerId": 712,
+        "date": "2024-06-20",
+        "price": 1199,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/purely-whey?variant=39712094978147",
+        "evidenceUrl": "https://web.archive.org/web/20240620100742id_/https://bigmusclesnutrition.com/products/purely-whey?variant=39701141749859",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "39712094978147",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1656,
+      "observation": {
+        "category": "protein",
+        "offerId": 713,
+        "date": "2024-06-20",
+        "price": 1199,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/purely-whey?variant=39712096780387",
+        "evidenceUrl": "https://web.archive.org/web/20240620100742id_/https://bigmusclesnutrition.com/products/purely-whey?variant=39701141749859",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "39712096780387",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1657,
+      "observation": {
+        "category": "protein",
+        "offerId": 712,
+        "date": "2024-07-12",
+        "price": 1199,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/purely-whey?variant=39712094978147",
+        "evidenceUrl": "https://web.archive.org/web/20240712215605id_/https://www.bigmusclesnutrition.com/products/purely-whey",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "39712094978147",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1658,
+      "observation": {
+        "category": "protein",
+        "offerId": 713,
+        "date": "2024-07-12",
+        "price": 1199,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/purely-whey?variant=39712096780387",
+        "evidenceUrl": "https://web.archive.org/web/20240712215605id_/https://www.bigmusclesnutrition.com/products/purely-whey",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "39712096780387",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1659,
+      "observation": {
+        "category": "protein",
+        "offerId": 712,
+        "date": "2024-10-13",
+        "price": 1199,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/purely-whey?variant=39712094978147",
+        "evidenceUrl": "https://web.archive.org/web/20241013010348/https://www.bigmusclesnutrition.com/products/purely-whey",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "39712094978147",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1660,
+      "observation": {
+        "category": "protein",
+        "offerId": 713,
+        "date": "2024-10-13",
+        "price": 1199,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/purely-whey?variant=39712096780387",
+        "evidenceUrl": "https://web.archive.org/web/20241013010348/https://www.bigmusclesnutrition.com/products/purely-whey",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "39712096780387",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1661,
+      "observation": {
+        "category": "protein",
+        "offerId": 712,
+        "date": "2025-04-18",
+        "price": 1199,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/purely-whey?variant=39712094978147",
+        "evidenceUrl": "https://web.archive.org/web/20250418001121id_/https://www.bigmusclesnutrition.com/products/purely-whey",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "39712094978147",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1662,
+      "observation": {
+        "category": "protein",
+        "offerId": 713,
+        "date": "2025-04-18",
+        "price": 1199,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/purely-whey?variant=39712096780387",
+        "evidenceUrl": "https://web.archive.org/web/20250418001121id_/https://www.bigmusclesnutrition.com/products/purely-whey",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "39712096780387",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1663,
+      "observation": {
+        "category": "protein",
+        "offerId": 712,
+        "date": "2025-11-13",
+        "price": 1099,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/purely-whey?variant=39712094978147",
+        "evidenceUrl": "https://web.archive.org/web/20251113052132id_/https://www.bigmusclesnutrition.com/products/purely-whey",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "39712094978147",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1664,
+      "observation": {
+        "category": "protein",
+        "offerId": 713,
+        "date": "2025-11-13",
+        "price": 1099,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/purely-whey?variant=39712096780387",
+        "evidenceUrl": "https://web.archive.org/web/20251113052132id_/https://www.bigmusclesnutrition.com/products/purely-whey",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "39712096780387",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1665,
+      "observation": {
+        "category": "protein",
+        "offerId": 714,
+        "date": "2025-11-13",
+        "price": 1099,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/purely-whey?variant=39701141749859",
+        "evidenceUrl": "https://web.archive.org/web/20251113052132id_/https://www.bigmusclesnutrition.com/products/purely-whey",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "39701141749859",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1666,
+      "observation": {
+        "category": "protein",
+        "offerId": 712,
+        "date": "2026-09-25",
+        "price": 1099,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/purely-whey?variant=39712094978147",
+        "evidenceUrl": "https://web.archive.org/web/20260925100607/https://www.bigmusclesnutrition.com/products/purely-whey?variant=39712096780387",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "39712094978147",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1667,
+      "observation": {
+        "category": "protein",
+        "offerId": 713,
+        "date": "2026-09-25",
+        "price": 1099,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/purely-whey?variant=39712096780387",
+        "evidenceUrl": "https://web.archive.org/web/20260925100607/https://www.bigmusclesnutrition.com/products/purely-whey?variant=39712096780387",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "39712096780387",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1668,
+      "observation": {
+        "category": "protein",
+        "offerId": 714,
+        "date": "2026-09-25",
+        "price": 1099,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/purely-whey?variant=39701141749859",
+        "evidenceUrl": "https://web.archive.org/web/20260925100607/https://www.bigmusclesnutrition.com/products/purely-whey?variant=39712096780387",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "39701141749859",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2901,
+      "observation": {
+        "category": "protein",
+        "offerId": 712,
+        "date": "2026-10-25",
+        "price": 1099,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/purely-whey?variant=39712094978147",
+        "evidenceUrl": "https://www.bigmusclesnutrition.com/products/purely-whey.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "39712094978147"
+      }
+    },
+    {
+      "order": 2902,
+      "observation": {
+        "category": "protein",
+        "offerId": 713,
+        "date": "2026-10-25",
+        "price": 1099,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/purely-whey?variant=39712096780387",
+        "evidenceUrl": "https://www.bigmusclesnutrition.com/products/purely-whey.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "39712096780387"
+      }
+    },
+    {
+      "order": 2903,
+      "observation": {
+        "category": "protein",
+        "offerId": 714,
+        "date": "2026-10-25",
+        "price": 1099,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/purely-whey?variant=39701141749859",
+        "evidenceUrl": "https://www.bigmusclesnutrition.com/products/purely-whey.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "39701141749859"
+      }
+    },
+    {
+      "order": 4759,
+      "observation": {
+        "category": "protein",
+        "offerId": 712,
+        "date": "2026-11-19",
+        "price": 1099,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/purely-whey?variant=39712094978147",
+        "evidenceUrl": "https://www.bigmusclesnutrition.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "39712094978147"
+      }
+    },
+    {
+      "order": 4760,
+      "observation": {
+        "category": "protein",
+        "offerId": 713,
+        "date": "2026-11-19",
+        "price": 1099,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/purely-whey?variant=39712096780387",
+        "evidenceUrl": "https://www.bigmusclesnutrition.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "39712096780387"
+      }
+    },
+    {
+      "order": 4761,
+      "observation": {
+        "category": "protein",
+        "offerId": 714,
+        "date": "2026-11-19",
+        "price": 999,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/purely-whey?variant=39701141749859",
+        "evidenceUrl": "https://www.bigmusclesnutrition.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "39701141749859"
+      }
+    }
+  ],
+  "refreshSources": []
+}

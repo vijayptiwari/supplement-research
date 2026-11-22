@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "BigMuscles Nutrition",
+  "product": "Essential Whey",
+  "variants": [
+    {
+      "order": 660,
+      "offer": {
+        "id": 660,
+        "brand": "BigMuscles Nutrition",
+        "product": "Essential Whey",
+        "type": "Whey — blend",
+        "flavour": "Dutch Chocolate",
+        "kg": 1,
+        "price": 999,
+        "stock": "In stock",
+        "protein": null,
+        "scoop": 48,
+        "serving": 48,
+        "subclass": "Whey blend",
+        "energy": 391.66666666666663,
+        "url": "https://www.bigmusclesnutrition.com/products/essential-whey-1?variant=43327716065379",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0291/3743/6771/files/Essential-Whey-1kg-back.jpg?v=1758196834",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ. Protein percentage not verified.",
+        "energyBasis": "Flavour-matched label kcal per serving / brand serving g × 100",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.bigmusclesnutrition.com/products/essential-whey-1?variant=43327716065379",
+          "evidenceUrl": "https://www.bigmusclesnutrition.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 661,
+      "offer": {
+        "id": 661,
+        "brand": "BigMuscles Nutrition",
+        "product": "Essential Whey",
+        "type": "Whey — blend",
+        "flavour": "Rich Chocolate",
+        "kg": 1,
+        "price": 999,
+        "stock": "Sold out",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://www.bigmusclesnutrition.com/products/essential-whey?variant=40826997244003",
+        "nutritionUrl": "https://www.bigmusclesnutrition.com/products/essential-whey?variant=40826997244003",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.bigmusclesnutrition.com/products/essential-whey?variant=40826997244003",
+          "evidenceUrl": "https://www.bigmusclesnutrition.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 1622,
+      "observation": {
+        "category": "protein",
+        "offerId": 660,
+        "date": "2025-11-13",
+        "price": 899,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/essential-whey-1?variant=43327716065379",
+        "evidenceUrl": "https://web.archive.org/web/20251113044300/https://www.bigmusclesnutrition.com/products/essential-whey-1",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "43327716065379",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1623,
+      "observation": {
+        "category": "protein",
+        "offerId": 660,
+        "date": "2026-09-25",
+        "price": 1599,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/essential-whey-1?variant=43327716065379",
+        "evidenceUrl": "https://web.archive.org/web/20260925100601/https://www.bigmusclesnutrition.com/products/essential-whey-1",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "43327716065379",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1624,
+      "observation": {
+        "category": "protein",
+        "offerId": 661,
+        "date": "2026-09-25",
+        "price": 999,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/essential-whey?variant=40826997244003",
+        "evidenceUrl": "https://web.archive.org/web/20260925100609id_/https://www.bigmusclesnutrition.com/products/essential-whey?variant=40826997244003",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "40826997244003",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2849,
+      "observation": {
+        "category": "protein",
+        "offerId": 660,
+        "date": "2026-10-25",
+        "price": 1599,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/essential-whey-1?variant=43327716065379",
+        "evidenceUrl": "https://www.bigmusclesnutrition.com/products/essential-whey-1.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "43327716065379"
+      }
+    },
+    {
+      "order": 2850,
+      "observation": {
+        "category": "protein",
+        "offerId": 661,
+        "date": "2026-10-25",
+        "price": 999,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/essential-whey?variant=40826997244003",
+        "evidenceUrl": "https://www.bigmusclesnutrition.com/products/essential-whey.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "40826997244003"
+      }
+    },
+    {
+      "order": 4707,
+      "observation": {
+        "category": "protein",
+        "offerId": 660,
+        "date": "2026-11-19",
+        "price": 999,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/essential-whey-1?variant=43327716065379",
+        "evidenceUrl": "https://www.bigmusclesnutrition.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "43327716065379"
+      }
+    },
+    {
+      "order": 4708,
+      "observation": {
+        "category": "protein",
+        "offerId": 661,
+        "date": "2026-11-19",
+        "price": 999,
+        "currency": "INR",
+        "sourceUrl": "https://www.bigmusclesnutrition.com/products/essential-whey?variant=40826997244003",
+        "evidenceUrl": "https://www.bigmusclesnutrition.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "40826997244003"
+      }
+    }
+  ],
+  "refreshSources": []
+}

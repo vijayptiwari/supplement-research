@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "category": "folic-acid",
+  "brand": "Pure Nutrition",
+  "product": "Iron + Vitamin C with Folic Acid & B12",
+  "variants": [
+    {
+      "order": 2,
+      "offer": {
+        "brand": "Pure Nutrition",
+        "product": "Iron + Vitamin C with Folic Acid & B12",
+        "form": "Tablet",
+        "type": "Folic acid + iron and other vitamins",
+        "subclass": "Iron-containing combination",
+        "packCount": 120,
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official product description explicitly states folic acid 176.47 mcg and vitamin B12 2.2 mcg per tablet; exact product title identifies 120 tablets.",
+        "notes": "Also contains iron 19 mg, vitamin C 80 mg, zinc 17 mg, beetroot and ginger. These co-ingredients are not included in folic acid mass; assess overlap and iron need separately.",
+        "labelChecked": "2026-10-31",
+        "declaredNutrients": [
+          "folicAcidMcg",
+          "vitaminB12Mcg"
+        ],
+        "flavour": "Unflavoured",
+        "vitaminB1Mg": null,
+        "vitaminB2Mg": null,
+        "vitaminB3Mg": null,
+        "vitaminB5Mg": null,
+        "vitaminB6Mg": null,
+        "biotinMcg": null,
+        "vitaminB12Mcg": 2.2,
+        "folicAcidMcg": 176.47,
+        "folateMcgDfe": null,
+        "methylfolateMcg": null,
+        "id": "folic-acid-48784909664510",
+        "price": 699,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://purenutrition.in/products/iron-vitamin-c-tablets-120-with-zinc-vitamin-b12-folic-acid-beetroot-ginger?variant=48784909664510",
+        "nutritionUrl": "https://purenutrition.in/products/iron-vitamin-c-tablets-120-with-zinc-vitamin-b12-folic-acid-beetroot-ginger",
+        "packaging": "Single retail pack",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://purenutrition.in/products/iron-vitamin-c-tablets-120-with-zinc-vitamin-b12-folic-acid-beetroot-ginger?variant=48784909664510",
+          "evidenceUrl": "https://purenutrition.in/products/iron-vitamin-c-tablets-120-with-zinc-vitamin-b12-folic-acid-beetroot-ginger.json",
+          "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3790,
+      "observation": {
+        "category": "folic-acid",
+        "offerId": "folic-acid-48784909664510",
+        "date": "2026-10-31",
+        "price": 699,
+        "currency": "INR",
+        "sourceUrl": "https://purenutrition.in/products/iron-vitamin-c-tablets-120-with-zinc-vitamin-b12-folic-acid-beetroot-ginger?variant=48784909664510",
+        "evidenceUrl": "https://purenutrition.in/products/iron-vitamin-c-tablets-120-with-zinc-vitamin-b12-folic-acid-beetroot-ginger.json",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify product variant ID, price and single retail-pack count verified; quantities come from separately cited label evidence.",
+        "variantId": "48784909664510"
+      }
+    },
+    {
+      "order": 3950,
+      "observation": {
+        "category": "folic-acid",
+        "offerId": "folic-acid-48784909664510",
+        "date": "2026-11-19",
+        "price": 699,
+        "currency": "INR",
+        "sourceUrl": "https://purenutrition.in/products/iron-vitamin-c-tablets-120-with-zinc-vitamin-b12-folic-acid-beetroot-ginger?variant=48784909664510",
+        "evidenceUrl": "https://purenutrition.in/products/iron-vitamin-c-tablets-120-with-zinc-vitamin-b12-folic-acid-beetroot-ginger.json",
+        "kind": "official-live",
+        "variantId": "48784909664510",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 74,
+      "profile": {
+        "category": "folic-acid",
+        "brand": "Pure Nutrition",
+        "base": "https://purenutrition.in",
+        "handle": "iron-vitamin-c-tablets-120-with-zinc-vitamin-b12-folic-acid-beetroot-ginger",
+        "product": "Iron + Vitamin C with Folic Acid & B12",
+        "form": "Tablet",
+        "type": "Folic acid + iron and other vitamins",
+        "subclass": "Iron-containing combination",
+        "packCount": 120,
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official product description explicitly states folic acid 176.47 mcg and vitamin B12 2.2 mcg per tablet; exact product title identifies 120 tablets.",
+        "notes": "Also contains iron 19 mg, vitamin C 80 mg, zinc 17 mg, beetroot and ginger. These co-ingredients are not included in folic acid mass; assess overlap and iron need separately.",
+        "labelChecked": "2026-10-31",
+        "declaredNutrients": [
+          "folicAcidMcg",
+          "vitaminB12Mcg"
+        ],
+        "flavour": "Unflavoured",
+        "vitaminB1Mg": null,
+        "vitaminB2Mg": null,
+        "vitaminB3Mg": null,
+        "vitaminB5Mg": null,
+        "vitaminB6Mg": null,
+        "biotinMcg": null,
+        "vitaminB12Mcg": 2.2,
+        "folicAcidMcg": 176.47,
+        "folateMcgDfe": null,
+        "methylfolateMcg": null
+      }
+    }
+  ]
+}

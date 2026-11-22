@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "order": 19,
+  "article": {
+    "id": "preworkout-testing-claims",
+    "category": "pre-workout",
+    "series": "evidence-in-context",
+    "title": "A pre-workout testing badge is a question, not the end of your checks",
+    "summary": "Separate ingredient accuracy, contamination screening, anti-doping risk and evidence of performance. A certificate can answer one question without answering the others.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "A pre-workout can have an impressive ingredient list, an independent-testing logo and no evidence that its finished formula improves the outcome you care about. It can also contain an effective ingredient while leaving important quality questions unanswered. These are separate axes of judgement. For a tested athlete, another consequence enters the decision: an undeclared substance can affect eligibility as well as health. Understanding what a certificate actually covers is therefore more useful than collecting reassuring badges. It lets you ask specific questions without pretending that any testing programme can guarantee a risk-free product.",
+    "sections": [
+      {
+        "id": "four-questions",
+        "title": "Four questions hide behind the word “tested”",
+        "body": "Identity asks whether the named ingredients are present. Quantity asks whether their measured amounts match what the label declares. Contaminant screening asks whether specified unwanted substances were detected using a stated method and threshold. Efficacy asks whether the formula improves a relevant human outcome. A report addressing one of these does not answer the rest automatically. For example, confirming caffeine content does not prove a running benefit, and a sports-contaminant screen does not establish that the formula outperforms a simpler alternative. Begin with the claim being made, then read the evidence or certification scope that is supposed to support it.",
+        "sourceIds": [
+          "supplement-quality-ods",
+          "context-usada-supplement-connect",
+          "pe-preworkout-running-2019"
+        ]
+      },
+      {
+        "id": "historical-evidence",
+        "title": "What the famous contamination study does and does not show",
+        "body": "Geyer and colleagues analysed 634 non-hormonal supplements purchased in 13 countries during 2000–2001. They detected undeclared anabolic-androgenic steroids in 94 samples. That was direct analytical evidence of a real problem, not merely speculation that labels might be incomplete. However, the sampling period is now decades old, the products were not a representative survey of current Indian pre-workouts, and not every sample could be evaluated reliably. The study establishes why contamination controls matter. Its percentage should not be copied onto today’s market as though it were the current probability that any product on an Indian shelf is contaminated.",
+        "sourceIds": [
+          "context-supplements-steroids-geyer-2004"
+        ]
+      },
+      {
+        "id": "label-accuracy",
+        "title": "A declared botanical can still leave the amount unclear",
+        "body": "In a later analytical study, Cohen and colleagues examined 24 products selected because their labels listed higenamine or related naming. The measured higenamine content varied widely; the five products that stated a quantity did not accurately declare it. This was a targeted sample, not a random estimate of all sports supplements. It shows a different failure mode from an entirely undeclared steroid: a consumer can recognise an ingredient name and still lack reliable information about exposure. “Plant-derived” and “listed on the label” are therefore insufficient answers to questions about quantity, suitability or sport rules.",
+        "sourceIds": [
+          "context-higenamine-cohen-2019",
+          "context-ukad-supplement-risk"
+        ]
+      },
+      {
+        "id": "competition",
+        "title": "For competition, ask the authority that governs your event",
+        "body": "UK Anti-Doping explains that athletes are responsible for prohibited substances found in their bodies, regardless of intent, and that WADA and UKAD do not approve supplements. Its guidance is relevant to understanding the international anti-doping framework, but it is not an Indian retail approval system. Athletes should check the rules and advice applicable to their own sport and governing authority, including the effective date of the prohibited list. A seller’s “athlete safe” phrase or a screenshot of an old document is not a substitute for that check. The cost of uncertainty is different when eligibility is at stake.",
+        "sourceIds": [
+          "context-ukad-supplement-risk"
+        ]
+      },
+      {
+        "id": "finished-batch",
+        "title": "Verify the finished product and the scope of its testing",
+        "body": "USADA’s supplement guidance explains that certification programmes differ and that third-party testing reduces rather than eliminates risk. Treat a badge as a route to evidence: find the certifier’s own listing and check the exact product, variation and, where the programme uses batch testing, the relevant batch. A raw-ingredient report does not by itself establish the status of a finished blend made later. Likewise, an unrelated flavour or an earlier production run should not be assumed to cover the tub being purchased. These are practical checks of identity and scope, not a promise that consumers can personally audit every manufacturing step.",
+        "sourceIds": [
+          "context-usada-supplement-connect",
+          "context-usada-nutrition-guide-2026",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "efficacy-gap",
+        "title": "Even an accurately made formula must earn its performance claim",
+        "body": "Once quality questions are addressed, return to the reason for using the product. One trial in aerobically trained adults found no improvement in five-kilometre running performance from its tested multi-ingredient pre-workout. That does not condemn all formulas; it illustrates why “contains evidence-based ingredients” and “this formula improved this event” are different statements. Reviews also combine products with different ingredients, amounts and testing periods. A certificate cannot repair that mismatch. For a shopper, independent quality verification and relevant efficacy evidence should be visible separately, so a strong result in one category cannot hide a weak result in the other.",
+        "sourceIds": [
+          "pe-preworkout-running-2019",
+          "preworkout-review"
+        ]
+      },
+      {
+        "id": "records",
+        "title": "Turn uncertainty into an explicit purchasing choice",
+        "body": "For a competitive athlete, retaining the label, receipt, batch information and the certification record can make the basis of a decision traceable, although records do not remove responsibility or guarantee a defence. For a recreational user, the same habit can clarify what changed if a product is reformulated or a claim is challenged. Prefer a fully disclosed formula whose benefits you can explain in ordinary language. If the only rationale is a blend name, a testing logo with no verifiable scope or a promise that no authority actually makes, uncertainty remains part of the purchase price.",
+        "sourceIds": [
+          "context-ukad-supplement-risk",
+          "context-usada-supplement-connect",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "value",
+        "title": "The product with more badges is not automatically better value",
+        "body": "Our editorial judgement is to price the complete decision: a relevant benefit, transparent exposure, credible quality controls and consequences appropriate to the user. Paying more for verified batch screening can be rational for a tested athlete, while paying more for an unexplained “lab tested” phrase buys little usable information. Neither quality certification nor a low price makes pre-workout necessary. What would improve confidence is clear finished-product testing alongside independent trials of the actual formula, with useful performance and safety outcomes. A good product page should let readers inspect those separate claims instead of asking them to trust one all-purpose seal.",
+        "sourceIds": [
+          "context-usada-nutrition-guide-2026",
+          "context-ukad-supplement-risk",
+          "preworkout-review",
+          "supplement-quality-ods"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "supplement-quality-ods",
+      "context-usada-supplement-connect",
+      "pe-preworkout-running-2019",
+      "context-supplements-steroids-geyer-2004",
+      "context-higenamine-cohen-2019",
+      "context-ukad-supplement-risk",
+      "context-usada-nutrition-guide-2026",
+      "preworkout-review"
+    ],
+    "evidenceNotes": [
+      {
+        "finding": "Undeclared steroids were detected, but an old international sample is not a current Indian market prevalence estimate.",
+        "sourceIds": [
+          "context-supplements-steroids-geyer-2004"
+        ],
+        "design": "Laboratory survey of supplements purchased during 2000–2001.",
+        "population": "634 products from 215 suppliers in 13 countries.",
+        "outcome": "Ninety-four samples contained undeclared anabolic-androgenic steroids; 66 samples could not yield reliable results because of analytical matrix effects.",
+        "limits": "Historical sampling and product selection; not a survey of today’s Indian pre-workouts."
+      },
+      {
+        "finding": "Label presence did not ensure accurate quantification of higenamine.",
+        "sourceIds": [
+          "context-higenamine-cohen-2019"
+        ],
+        "design": "Targeted laboratory analysis of products listing higenamine or related names.",
+        "population": "Twenty-four weight-loss, energy and sports products.",
+        "outcome": "Measured amounts varied substantially; none of the five products declaring a higenamine amount stated it accurately.",
+        "limits": "A selected sample, not market prevalence. Does not establish the composition of another product or batch."
+      }
+    ]
+  }
+}

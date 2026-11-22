@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "The Whole Truth",
+  "product": "The Whole Truth Pure Whey Protein Isolate",
+  "variants": [
+    {
+      "order": 799,
+      "offer": {
+        "id": 799,
+        "brand": "The Whole Truth",
+        "product": "The Whole Truth Pure Whey Protein Isolate",
+        "type": "Whey — isolate",
+        "flavour": "Unflavoured",
+        "kg": 1,
+        "price": 7499,
+        "stock": "In stock",
+        "protein": 90.9090909090909,
+        "scoop": 33,
+        "serving": 33,
+        "subclass": "Whey isolate",
+        "energy": 370,
+        "url": "https://thewholetruthfoods.com/products/unflavoured-30-g-pure-whey-protein-isolate?sku_id=38730407",
+        "nutritionUrl": "https://thewholetruthfoods.com/products/unflavoured-30g-pure-whey-protein-isolate",
+        "basis": "30g protein / 33g serving; unflavoured raw isolate",
+        "notes": "100% pure whey protein isolate with zero additives, zero sweeteners, and zero emulsifiers.",
+        "energyBasis": "Brand official label / serving instructions",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://thewholetruthfoods.com/products/unflavoured-30-g-pure-whey-protein-isolate?sku_id=38730407",
+          "evidenceUrl": "https://thewholetruthfoods.com/llmFeed.json",
+          "matchBasis": "Official public feed exact product family, flavour, retail pack and SKU"
+        }
+      }
+    },
+    {
+      "order": 800,
+      "offer": {
+        "id": 800,
+        "brand": "The Whole Truth",
+        "product": "The Whole Truth Pure Whey Protein Isolate",
+        "type": "Whey — isolate",
+        "flavour": "Unflavoured",
+        "kg": 2,
+        "price": 14998,
+        "stock": "In stock",
+        "protein": 90.9090909090909,
+        "scoop": 33,
+        "serving": 33,
+        "subclass": "Whey isolate",
+        "energy": 370,
+        "url": "https://thewholetruthfoods.com/products/unflavoured-30-g-pure-whey-protein-isolate?sku_id=38766739",
+        "nutritionUrl": "https://thewholetruthfoods.com/products/unflavoured-30g-pure-whey-protein-isolate",
+        "basis": "30g protein / 33g serving; unflavoured raw isolate",
+        "notes": "100% pure whey protein isolate with zero additives, zero sweeteners, and zero emulsifiers.",
+        "energyBasis": "Brand official label / serving instructions",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://thewholetruthfoods.com/products/unflavoured-30-g-pure-whey-protein-isolate?sku_id=38766739",
+          "evidenceUrl": "https://thewholetruthfoods.com/llmFeed.json",
+          "matchBasis": "Official public feed exact product family, flavour, retail pack and SKU"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5048,
+      "observation": {
+        "category": "protein",
+        "offerId": 799,
+        "date": "2026-11-19",
+        "price": 7499,
+        "currency": "INR",
+        "sourceUrl": "https://thewholetruthfoods.com/products/unflavoured-30-g-pure-whey-protein-isolate?sku_id=38730407",
+        "evidenceUrl": "https://thewholetruthfoods.com/llmFeed.json",
+        "kind": "official-live",
+        "matchBasis": "Official public feed exact product family, flavour, retail pack and SKU",
+        "variantId": "F2610062"
+      }
+    },
+    {
+      "order": 5049,
+      "observation": {
+        "category": "protein",
+        "offerId": 800,
+        "date": "2026-11-19",
+        "price": 14998,
+        "currency": "INR",
+        "sourceUrl": "https://thewholetruthfoods.com/products/unflavoured-30-g-pure-whey-protein-isolate?sku_id=38766739",
+        "evidenceUrl": "https://thewholetruthfoods.com/llmFeed.json",
+        "kind": "official-live",
+        "matchBasis": "Official public feed exact product family, flavour, retail pack and SKU",
+        "variantId": "F2620051"
+      }
+    }
+  ],
+  "refreshSources": []
+}

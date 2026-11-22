@@ -1,0 +1,209 @@
+{
+  "schemaVersion": 1,
+  "category": "creatine",
+  "brand": "Fast&Up",
+  "product": "Creatine Monohydrate Essentials",
+  "variants": [
+    {
+      "order": 69,
+      "offer": {
+        "id": "cr-69",
+        "brand": "Fast&Up",
+        "product": "Creatine Monohydrate Essentials",
+        "type": "Monohydrate",
+        "subclass": "Ultra-micronized",
+        "grade": "Not specified",
+        "formulation": "Flavoured",
+        "packaging": "Standard pack",
+        "flavour": "Orange",
+        "grams": 100,
+        "kg": 0.1,
+        "price": 499,
+        "stock": "In stock",
+        "creatine": null,
+        "scoop": null,
+        "serving": null,
+        "creatineServing": null,
+        "energy": null,
+        "url": "https://www.fastandup.in/products/creatine-monohydrate-essentials-orange-flavour?variant=41718442000459",
+        "nutritionUrl": "https://www.fastandup.in/products/creatine-monohydrate-essentials-orange-flavour?variant=41718442000459",
+        "basis": "Creatine compound concentration not verified; compound cost omitted.",
+        "notes": "",
+        "energyBasis": "",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.fastandup.in/products/creatine-monohydrate-essentials-orange-flavour?variant=41718442000459",
+          "evidenceUrl": "https://www.fastandup.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 70,
+      "offer": {
+        "id": "cr-70",
+        "brand": "Fast&Up",
+        "product": "Creatine Monohydrate Essentials",
+        "type": "Monohydrate",
+        "subclass": "Ultra-micronized",
+        "grade": "Not specified",
+        "formulation": "Not specified",
+        "packaging": "Standard pack",
+        "flavour": "Unflavoured",
+        "grams": 100,
+        "kg": 0.1,
+        "price": 565.25,
+        "stock": "In stock",
+        "creatine": null,
+        "scoop": null,
+        "serving": null,
+        "creatineServing": null,
+        "energy": null,
+        "url": "https://www.fastandup.in/products/creatine-monohydrate-essentials?variant=41041410981963",
+        "nutritionUrl": "https://www.fastandup.in/products/creatine-monohydrate-essentials?variant=41041410981963",
+        "basis": "Creatine compound concentration not verified; compound cost omitted.",
+        "notes": "",
+        "energyBasis": "",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.fastandup.in/products/creatine-monohydrate-essentials?variant=41041410981963",
+          "evidenceUrl": "https://www.fastandup.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 71,
+      "offer": {
+        "id": "cr-71",
+        "brand": "Fast&Up",
+        "product": "Creatine Monohydrate Essentials",
+        "type": "Monohydrate",
+        "subclass": "Ultra-micronized",
+        "grade": "Not specified",
+        "formulation": "Not specified",
+        "packaging": "Standard pack",
+        "flavour": "Unflavoured",
+        "grams": 250,
+        "kg": 0.25,
+        "price": 1028,
+        "stock": "In stock",
+        "creatine": null,
+        "scoop": null,
+        "serving": null,
+        "creatineServing": null,
+        "energy": null,
+        "url": "https://www.fastandup.in/products/creatine-monohydrate-powder?variant=41040395436107",
+        "nutritionUrl": "https://www.fastandup.in/products/creatine-monohydrate-powder?variant=41040395436107",
+        "basis": "Creatine compound concentration not verified; compound cost omitted.",
+        "notes": "",
+        "energyBasis": "",
+        "checked": "2026-10-25",
+        "isNew": false,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.fastandup.in/products/creatine-monohydrate-powder?variant=41040395436107",
+          "evidenceUrl": "https://www.fastandup.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3062,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-69",
+        "date": "2026-10-25",
+        "price": 498.75,
+        "currency": "INR",
+        "sourceUrl": "https://www.fastandup.in/products/creatine-monohydrate-essentials-orange-flavour?variant=41718442000459",
+        "evidenceUrl": "https://www.fastandup.in/products/creatine-monohydrate-essentials-orange-flavour.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "41718442000459"
+      }
+    },
+    {
+      "order": 3063,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-70",
+        "date": "2026-10-25",
+        "price": 565.25,
+        "currency": "INR",
+        "sourceUrl": "https://www.fastandup.in/products/creatine-monohydrate-essentials?variant=41041410981963",
+        "evidenceUrl": "https://www.fastandup.in/products/creatine-monohydrate-essentials.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "41041410981963"
+      }
+    },
+    {
+      "order": 3064,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-71",
+        "date": "2026-10-25",
+        "price": 1027.95,
+        "currency": "INR",
+        "sourceUrl": "https://www.fastandup.in/products/creatine-monohydrate-powder?variant=41040395436107",
+        "evidenceUrl": "https://www.fastandup.in/products/creatine-monohydrate-powder.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "41040395436107"
+      }
+    },
+    {
+      "order": 4922,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-69",
+        "date": "2026-11-19",
+        "price": 499,
+        "currency": "INR",
+        "sourceUrl": "https://www.fastandup.in/products/creatine-monohydrate-essentials-orange-flavour?variant=41718442000459",
+        "evidenceUrl": "https://www.fastandup.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "41718442000459"
+      }
+    },
+    {
+      "order": 4923,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-70",
+        "date": "2026-11-19",
+        "price": 565.25,
+        "currency": "INR",
+        "sourceUrl": "https://www.fastandup.in/products/creatine-monohydrate-essentials?variant=41041410981963",
+        "evidenceUrl": "https://www.fastandup.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "41041410981963"
+      }
+    },
+    {
+      "order": 4924,
+      "observation": {
+        "category": "creatine",
+        "offerId": "cr-71",
+        "date": "2026-11-19",
+        "price": 1028,
+        "currency": "INR",
+        "sourceUrl": "https://www.fastandup.in/products/creatine-monohydrate-powder?variant=41040395436107",
+        "evidenceUrl": "https://www.fastandup.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "41040395436107"
+      }
+    }
+  ],
+  "refreshSources": []
+}

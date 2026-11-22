@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "order": 37,
+  "article": {
+    "id": "folic-acid-preconception-planning",
+    "category": "folic-acid",
+    "series": "practical-guides",
+    "title": "Folic acid and pregnancy planning: why timing matters more than a premium label",
+    "summary": "Understand the established prevention context, the limits of a general recommendation and the practical questions to take into individual care.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "Folic acid is a case where an important prevention recommendation can be obscured by the supplement market's obsession with premium forms and ever-larger strengths. The central evidence concerns taking a specified nutrient form at the relevant time, rather than waiting for a pregnancy test or selecting the most elaborate package. This article explains that public-health context while keeping individual pregnancy care separate from a general educational website. It is not a personal prescription or a replacement for the team responsible for that care.",
+    "sections": [
+      {
+        "id": "early",
+        "title": "The relevant development happens early",
+        "body": "Neural tube defects arise during early development, often before a pregnancy is recognised. That timing is why prevention advice concerns folic acid before conception and during early pregnancy rather than only a reaction to a positive pregnancy test. The message is about planning a reliable nutrient contribution at the right stage. It should not become blame directed at an individual or a promise that one supplement prevents every birth defect. A general recommendation describes risk reduction, while the outcome of a particular pregnancy depends on many factors.",
+        "sourceIds": [
+          "folate-prevention"
+        ]
+      },
+      {
+        "id": "public-health",
+        "title": "Understand what the public-health recommendation says",
+        "body": "CDC describes a daily folic acid recommendation for people who could become pregnant and identifies folic acid as the form demonstrated to reduce neural tube defect risk. The exact recommendation is a US public-health statement, not an instruction to reconstruct Indian antenatal care from a catalog. Its importance is the established prevention rationale and the need for a reliable plan. Discuss the appropriate local advice, existing products and personal circumstances with a qualified professional rather than treating a general article as a complete pregnancy regimen.",
+        "sourceIds": [
+          "folate-prevention"
+        ]
+      },
+      {
+        "id": "higher-risk",
+        "title": "A higher-risk history needs individual advice",
+        "body": "A previous neural-tube-defect-affected pregnancy, certain medicines or other clinical circumstances can alter prevention planning. Those situations should be discussed before conception where possible. A high-strength tablet should not be chosen simply by analogy with another person's plan, and a clinician-directed regimen should not be replaced with the lowest-priced ordinary supplement. The point is to match the intervention to the actual situation. Risk assessment, ingredient choice, amount and follow-up belong together rather than being separated into independent decisions by a shopping filter.",
+        "sourceIds": [
+          "folate-prevention",
+          "folate-overview"
+        ]
+      },
+      {
+        "id": "form",
+        "title": "Do not let an active-form story erase indication-specific evidence",
+        "body": "Folic acid and methylfolate are different label forms, but a metabolic pathway diagram alone cannot establish that they have identical prevention evidence. CDC specifically identifies folic acid for neural tube defect prevention. Common MTHFR variants do not make folic acid unusable, and they should not automatically redirect someone away from that advice. If a treating professional specifies a different plan, discuss its rationale directly. A retail claim that a form is universally superior should not substitute for the relevant evidence and clinical context.",
+        "sourceIds": [
+          "folate-prevention",
+          "nutrients-folate-mthfr-cdc"
+        ]
+      },
+      {
+        "id": "food",
+        "title": "Food folate and a prevention plan play complementary roles",
+        "body": "Leafy vegetables, beans and other foods can contribute folate as part of a varied diet. That dietary value does not mean a person should assume an unmeasured food routine automatically supplies a specified folic acid prevention recommendation. Food folate and folic acid can also be expressed on different reference bases. Keep the nutrition discussion broad enough to include food quality while preserving the exact requirement in the professional plan. A supplement is neither a replacement for nutritious meals nor a reason to ignore an evidence-supported prevention strategy.",
+        "sourceIds": [
+          "folate-overview",
+          "folate-prevention"
+        ]
+      },
+      {
+        "id": "labels",
+        "title": "Audit the actual products before adding another one",
+        "body": "A prenatal product, B-complex, multivitamin or separate folic acid tablet may already supply overlapping amounts. Read the full label serving and retain both ingredient identity and units. Do not add a DFE value to the same folic acid amount again as if it were extra nutrient, or assume a blend weight reveals every component. Bring the products or clear photographs to an appointment. The aim is a reliable plan with understood contributions, rather than the largest possible collection of pregnancy-related supplement names.",
+        "sourceIds": [
+          "folate-overview",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "medicines",
+        "title": "Folate advice must fit medicines and B12 assessment",
+        "body": "Folate can interact with clinical treatment contexts, including antifolate and certain antiseizure medicines. Do not stop a prescribed medicine or change its schedule because a supplement website mentions an interaction. Discuss the actual treatment with the prescribing team. B12 status may also matter when interpreting anaemia or neurological concerns because folic acid can improve anaemia without resolving B12-related nerve injury. These examples show why a nutrient's broad safety reputation cannot replace individual assessment, especially when it is being used for an important clinical purpose.",
+        "sourceIds": [
+          "folate-overview",
+          "b12-overview"
+        ]
+      },
+      {
+        "id": "practical",
+        "title": "Make the plan dependable rather than complicated",
+        "body": "A useful plan answers which product and form to use, how it fits other products, when it begins, and when it should be reviewed. Cost and convenience matter because a plan that cannot be followed is less useful, but those factors should be assessed after the clinical purpose is clear. Keep a record when brands or formulations change. A premium label, a high percentage or a genetic marketing claim should not distract from the established prevention objective and the professional guidance appropriate to the person.",
+        "sourceIds": [
+          "folate-prevention",
+          "supplement-quality-ods"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "folate-prevention",
+      "folate-overview",
+      "nutrients-folate-mthfr-cdc",
+      "supplement-quality-ods",
+      "b12-overview"
+    ]
+  }
+}

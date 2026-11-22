@@ -1,0 +1,544 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "NAKPRO",
+  "product": "Nakpro Wheyzyme Absorption Whey Protein (Isolate & Concentrate)",
+  "variants": [
+    {
+      "order": 540,
+      "offer": {
+        "id": 540,
+        "brand": "NAKPRO",
+        "product": "Nakpro Wheyzyme Absorption Whey Protein (Isolate & Concentrate)",
+        "type": "Whey — isolate",
+        "flavour": "Coffee",
+        "kg": 1,
+        "price": 3299,
+        "stock": "Sold out",
+        "protein": 73,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey isolate",
+        "energy": null,
+        "url": "https://nakpro.com/products/wheyzyme?variant=41151438553168",
+        "nutritionUrl": "https://nakpro.com/products/wheyzyme?variant=41151438553168",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop weight not verified. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/wheyzyme?variant=41151438553168",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 541,
+      "offer": {
+        "id": 541,
+        "brand": "NAKPRO",
+        "product": "Nakpro Wheyzyme Absorption Whey Protein (Isolate & Concentrate)",
+        "type": "Whey — isolate",
+        "flavour": "Double Rich Chocolate",
+        "kg": 1,
+        "price": 3299,
+        "stock": "In stock",
+        "protein": 73,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey isolate",
+        "energy": null,
+        "url": "https://nakpro.com/products/wheyzyme?variant=41151438880848",
+        "nutritionUrl": "https://nakpro.com/products/wheyzyme?variant=41151438880848",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop weight not verified. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/wheyzyme?variant=41151438880848",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 542,
+      "offer": {
+        "id": 542,
+        "brand": "NAKPRO",
+        "product": "Nakpro Wheyzyme Absorption Whey Protein (Isolate & Concentrate)",
+        "type": "Whey — isolate",
+        "flavour": "Malai Kulfi",
+        "kg": 1,
+        "price": 3299,
+        "stock": "Sold out",
+        "protein": 73,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey isolate",
+        "energy": null,
+        "url": "https://nakpro.com/products/wheyzyme?variant=41151438585936",
+        "nutritionUrl": "https://nakpro.com/products/wheyzyme?variant=41151438585936",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop weight not verified. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/wheyzyme?variant=41151438585936",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 543,
+      "offer": {
+        "id": 543,
+        "brand": "NAKPRO",
+        "product": "Nakpro Wheyzyme Absorption Whey Protein (Isolate & Concentrate)",
+        "type": "Whey — isolate",
+        "flavour": "Vanilla",
+        "kg": 1,
+        "price": 3299,
+        "stock": "Sold out",
+        "protein": 73,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey isolate",
+        "energy": null,
+        "url": "https://nakpro.com/products/wheyzyme?variant=41151438618704",
+        "nutritionUrl": "https://nakpro.com/products/wheyzyme?variant=41151438618704",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop weight not verified. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/wheyzyme?variant=41151438618704",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 1483,
+      "observation": {
+        "category": "protein",
+        "offerId": 541,
+        "date": "2024-05-19",
+        "price": 2199,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/wheyzyme?variant=41151438880848",
+        "evidenceUrl": "https://web.archive.org/web/20240519170002id_/https://nakpro.com/products/wheyzyme",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "41151438880848",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1484,
+      "observation": {
+        "category": "protein",
+        "offerId": 540,
+        "date": "2025-04-28",
+        "price": 2399,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/wheyzyme?variant=41151438553168",
+        "evidenceUrl": "https://web.archive.org/web/20250428153300id_/https://nakpro.com/products/wheyzyme",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "41151438553168",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1485,
+      "observation": {
+        "category": "protein",
+        "offerId": 541,
+        "date": "2025-04-28",
+        "price": 2399,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/wheyzyme?variant=41151438880848",
+        "evidenceUrl": "https://web.archive.org/web/20250428153300id_/https://nakpro.com/products/wheyzyme",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "41151438880848",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1486,
+      "observation": {
+        "category": "protein",
+        "offerId": 542,
+        "date": "2025-04-28",
+        "price": 2399,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/wheyzyme?variant=41151438585936",
+        "evidenceUrl": "https://web.archive.org/web/20250428153300id_/https://nakpro.com/products/wheyzyme",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "41151438585936",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1487,
+      "observation": {
+        "category": "protein",
+        "offerId": 543,
+        "date": "2025-04-28",
+        "price": 2399,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/wheyzyme?variant=41151438618704",
+        "evidenceUrl": "https://web.archive.org/web/20250428153300id_/https://nakpro.com/products/wheyzyme",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "41151438618704",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1488,
+      "observation": {
+        "category": "protein",
+        "offerId": 540,
+        "date": "2025-12-30",
+        "price": 2279,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/wheyzyme?variant=41151438553168",
+        "evidenceUrl": "https://web.archive.org/web/20251230031440id_/https://nakpro.com/products/wheyzyme",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "41151438553168",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1489,
+      "observation": {
+        "category": "protein",
+        "offerId": 541,
+        "date": "2025-12-30",
+        "price": 2279,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/wheyzyme?variant=41151438880848",
+        "evidenceUrl": "https://web.archive.org/web/20251230031440id_/https://nakpro.com/products/wheyzyme",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "41151438880848",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1490,
+      "observation": {
+        "category": "protein",
+        "offerId": 542,
+        "date": "2025-12-30",
+        "price": 2279,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/wheyzyme?variant=41151438585936",
+        "evidenceUrl": "https://web.archive.org/web/20251230031440id_/https://nakpro.com/products/wheyzyme",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "41151438585936",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1491,
+      "observation": {
+        "category": "protein",
+        "offerId": 543,
+        "date": "2025-12-30",
+        "price": 2279,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/wheyzyme?variant=41151438618704",
+        "evidenceUrl": "https://web.archive.org/web/20251230031440id_/https://nakpro.com/products/wheyzyme",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "41151438618704",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1492,
+      "observation": {
+        "category": "protein",
+        "offerId": 540,
+        "date": "2026-09-25",
+        "price": 3299,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/wheyzyme?variant=41151438553168",
+        "evidenceUrl": "https://web.archive.org/web/20260925100543id_/https://nakpro.com/products/wheyzyme",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "41151438553168",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1493,
+      "observation": {
+        "category": "protein",
+        "offerId": 541,
+        "date": "2026-09-25",
+        "price": 3299,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/wheyzyme?variant=41151438880848",
+        "evidenceUrl": "https://web.archive.org/web/20260925100543id_/https://nakpro.com/products/wheyzyme",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "41151438880848",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1494,
+      "observation": {
+        "category": "protein",
+        "offerId": 542,
+        "date": "2026-09-25",
+        "price": 3299,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/wheyzyme?variant=41151438585936",
+        "evidenceUrl": "https://web.archive.org/web/20260925100543id_/https://nakpro.com/products/wheyzyme",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "41151438585936",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1495,
+      "observation": {
+        "category": "protein",
+        "offerId": 543,
+        "date": "2026-09-25",
+        "price": 3299,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/wheyzyme?variant=41151438618704",
+        "evidenceUrl": "https://web.archive.org/web/20260925100543id_/https://nakpro.com/products/wheyzyme",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "41151438618704",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2729,
+      "observation": {
+        "category": "protein",
+        "offerId": 540,
+        "date": "2026-10-25",
+        "price": 3299,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/wheyzyme?variant=41151438553168",
+        "evidenceUrl": "https://nakpro.com/products/wheyzyme.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "41151438553168"
+      }
+    },
+    {
+      "order": 2730,
+      "observation": {
+        "category": "protein",
+        "offerId": 541,
+        "date": "2026-10-25",
+        "price": 3299,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/wheyzyme?variant=41151438880848",
+        "evidenceUrl": "https://nakpro.com/products/wheyzyme.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "41151438880848"
+      }
+    },
+    {
+      "order": 2731,
+      "observation": {
+        "category": "protein",
+        "offerId": 542,
+        "date": "2026-10-25",
+        "price": 3299,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/wheyzyme?variant=41151438585936",
+        "evidenceUrl": "https://nakpro.com/products/wheyzyme.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "41151438585936"
+      }
+    },
+    {
+      "order": 2732,
+      "observation": {
+        "category": "protein",
+        "offerId": 543,
+        "date": "2026-10-25",
+        "price": 3299,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/wheyzyme?variant=41151438618704",
+        "evidenceUrl": "https://nakpro.com/products/wheyzyme.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "41151438618704"
+      }
+    },
+    {
+      "order": 3356,
+      "observation": {
+        "category": "protein",
+        "offerId": 540,
+        "date": "2026-09-25",
+        "price": 3299,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/wheyzyme?variant=41151438553168",
+        "evidenceUrl": "https://web.archive.org/web/20260925100543/https://nakpro.com/products/wheyzyme",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "41151438553168",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3357,
+      "observation": {
+        "category": "protein",
+        "offerId": 541,
+        "date": "2026-09-25",
+        "price": 3299,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/wheyzyme?variant=41151438880848",
+        "evidenceUrl": "https://web.archive.org/web/20260925100543/https://nakpro.com/products/wheyzyme",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "41151438880848",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3358,
+      "observation": {
+        "category": "protein",
+        "offerId": 542,
+        "date": "2026-09-25",
+        "price": 3299,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/wheyzyme?variant=41151438585936",
+        "evidenceUrl": "https://web.archive.org/web/20260925100543/https://nakpro.com/products/wheyzyme",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "41151438585936",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3359,
+      "observation": {
+        "category": "protein",
+        "offerId": 543,
+        "date": "2026-09-25",
+        "price": 3299,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/wheyzyme?variant=41151438618704",
+        "evidenceUrl": "https://web.archive.org/web/20260925100543/https://nakpro.com/products/wheyzyme",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "41151438618704",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 4587,
+      "observation": {
+        "category": "protein",
+        "offerId": 540,
+        "date": "2026-11-19",
+        "price": 3299,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/wheyzyme?variant=41151438553168",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "41151438553168"
+      }
+    },
+    {
+      "order": 4588,
+      "observation": {
+        "category": "protein",
+        "offerId": 541,
+        "date": "2026-11-19",
+        "price": 3299,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/wheyzyme?variant=41151438880848",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "41151438880848"
+      }
+    },
+    {
+      "order": 4589,
+      "observation": {
+        "category": "protein",
+        "offerId": 542,
+        "date": "2026-11-19",
+        "price": 3299,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/wheyzyme?variant=41151438585936",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "41151438585936"
+      }
+    },
+    {
+      "order": 4590,
+      "observation": {
+        "category": "protein",
+        "offerId": 543,
+        "date": "2026-11-19",
+        "price": 3299,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/wheyzyme?variant=41151438618704",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "41151438618704"
+      }
+    }
+  ],
+  "refreshSources": []
+}

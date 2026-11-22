@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "order": 60,
+  "article": {
+    "id": "citrulline-types-ratios",
+    "category": "citrulline",
+    "series": "understanding-types",
+    "title": "Citrulline forms and ratios: compare what the label actually supplies",
+    "summary": "Free L-citrulline, citrulline malate and an undisclosed pump blend require different calculations and evidence checks.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "A scoop labelled citrulline malate is not necessarily a scoop of pure L-citrulline. The name can describe an ingredient mixture while leaving its proportions or analytical basis uncertain. More elaborate arithmetic does not remove that uncertainty. A useful comparison starts with the stated material, distinguishes verified content from an assumed ratio and only then asks whether the exact preparation has relevant human evidence. Packaging and a strong pump claim cannot answer those questions on their own.",
+    "sections": [
+      {
+        "id": "mass-basis",
+        "title": "Identify which mass the number represents",
+        "body": "A product can declare free L-citrulline, total citrulline-malate material or a broader pump blend. Record that basis explicitly. A ratio may describe relative amounts, but the label or supporting evidence must make clear what it means before a conversion is treated as verified. Do not count the full compound or mixture weight as free citrulline. Where an ingredient amount or ratio is missing, keep a separate material-cost figure if useful and retain free-citrulline cost as unknown rather than fabricating a precise value.",
+        "sourceIds": [
+          "citrulline-critical",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "matched-trial",
+        "title": "A matched-content comparison is more informative than scoop size",
+        "body": "A crossover trial in trained men and women compared L-citrulline with a citrulline-malate preparation matched for delivered citrulline and included placebo. Its tested neuromuscular outcomes did not show a clear advantage for adding malate. This is more relevant to a malate premium than comparing unequal scoop weights, while remaining an acute experiment with specific outcomes. It cannot settle every sport or regimen. The important method is to separate the ingredient contribution from the additional component before claiming superior delivery or performance.",
+        "sourceIds": [
+          "citrulline-forms-trial"
+        ]
+      },
+      {
+        "id": "composition-versus-outcome",
+        "title": "Chemical identity and effectiveness are separate checks",
+        "body": "Malate has a metabolic role, but a plausible role does not establish that adding it improves a particular workout. Likewise, a product can contain the stated citrulline amount yet have uncertain value for an adequately trained reader. Studies differ in exercise protocols, participants and preparation. A synthesis reporting a small average effect should be read with its low certainty and wide variation, rather than converted into a promise for every user. Composition testing answers what is in the product, while exercise research answers a different question.",
+        "sourceIds": [
+          "citrulline-critical",
+          "citrulline-meta",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "buying-order",
+        "title": "Compare the same basis before comparing the price",
+        "body": "Use the exact ingredient, the full serving, usable servings and a dated price. Keep malate, flavours and co-ingredients visible. Compare free-citrulline content only where that content is actually established, and avoid converting an uncertain label into a potency ranking. Review existing pre-workout ingredients before adding a separate tub, since duplication changes both cost and total exposure. Relevant medical conditions or medicines require review of the actual formulation. If an expensive descriptor is the only reason to expect a better result, the case for the premium remains unresolved.",
+        "sourceIds": [
+          "supplement-quality-ods",
+          "preworkout-review",
+          "exercise"
+        ]
+      }
+    ],
+    "forms": [
+      {
+        "name": "Free L-citrulline",
+        "kind": "ingredient",
+        "description": "The individual amino acid, rather than the full weight of a material that also includes malate.",
+        "metabolism": "Absorbed citrulline can contribute to arginine availability, but that pathway alone does not establish an exercise benefit.",
+        "evidence": "The ingredient still needs outcome-specific human evidence; clearer identity is not the same as guaranteed effectiveness.",
+        "value": "Compare a verified labelled amount rather than treating the whole scoop as active material.",
+        "sourceIds": [
+          "citrulline-critical",
+          "citrulline-forms-trial"
+        ]
+      },
+      {
+        "name": "Citrulline malate with a declared ratio",
+        "kind": "ingredient",
+        "description": "A ratio-labelled preparation needs a clearly stated composition basis; the ratio is a description, not a clinical potency score.",
+        "metabolism": "Citrulline and malate have distinct metabolic roles, so their combined mass should not be counted entirely as free citrulline.",
+        "evidence": "A matched-citrulline trial did not establish a clear added malate advantage in its tested outcomes.",
+        "value": "Require a reliable ratio basis or a direct constituent declaration before converting quantities.",
+        "sourceIds": [
+          "citrulline-critical",
+          "citrulline-forms-trial"
+        ]
+      },
+      {
+        "name": "Citrulline malate with an unclear ratio",
+        "kind": "ingredient",
+        "description": "The material identity is partly described, but the amount of its individual components remains unresolved.",
+        "metabolism": "An unknown composition prevents a reliable estimate of delivered citrulline from the mixture weight alone.",
+        "evidence": "Evidence for a defined preparation cannot remove a content gap in an unrelated commercial product.",
+        "value": "Retain the uncertainty and avoid a false free-citrulline cost calculation.",
+        "sourceIds": [
+          "citrulline-critical",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "name": "Multi-ingredient pump blends",
+        "kind": "ingredient",
+        "description": "A blend can combine citrulline with arginine, stimulants and other ingredients whose quantities may differ in transparency.",
+        "metabolism": "Each component contributes separately; a combined blend total is not one shared nitric-oxide exposure.",
+        "evidence": "A result for the full blend does not identify the independent contribution of citrulline or malate.",
+        "value": "Check every amount and existing-product overlap before assessing a bundle premium.",
+        "sourceIds": [
+          "preworkout-review",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "name": "Powder or counted delivery formats",
+        "kind": "delivery",
+        "description": "Powder mass and capsule count are packaging measures, neither of which independently establishes the underlying ingredient quantity.",
+        "metabolism": "The ingredient remains the relevant metabolic intervention after the format releases it for digestive handling.",
+        "evidence": "Convenience does not demonstrate better performance or verify equivalent exposure between differently labelled serving formats.",
+        "value": "Calculate full-serving content and pack duration using the stated format’s actual label.",
+        "sourceIds": [
+          "supplement-quality-ods"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "citrulline-critical",
+      "supplement-quality-ods",
+      "citrulline-forms-trial",
+      "citrulline-meta",
+      "preworkout-review",
+      "exercise"
+    ]
+  }
+}

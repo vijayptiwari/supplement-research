@@ -1,0 +1,391 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "NAKPRO",
+  "product": "Nakpro Women’s Whey Protein Isolate",
+  "variants": [
+    {
+      "order": 544,
+      "offer": {
+        "id": 544,
+        "brand": "NAKPRO",
+        "product": "Nakpro Women’s Whey Protein Isolate",
+        "type": "Whey — isolate",
+        "flavour": "Chocolate",
+        "kg": 1,
+        "price": 2999,
+        "stock": "In stock",
+        "protein": 75,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey isolate",
+        "energy": null,
+        "url": "https://nakpro.com/products/nakpro-womens-whey-protein?variant=32695257661520",
+        "nutritionUrl": "https://nakpro.com/products/nakpro-womens-whey-protein?variant=32695257661520",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/nakpro-womens-whey-protein?variant=32695257661520",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 545,
+      "offer": {
+        "id": 545,
+        "brand": "NAKPRO",
+        "product": "Nakpro Women’s Whey Protein Isolate",
+        "type": "Whey — isolate",
+        "flavour": "Coffee",
+        "kg": 1,
+        "price": 2999,
+        "stock": "Sold out",
+        "protein": 75,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Whey isolate",
+        "energy": null,
+        "url": "https://nakpro.com/products/nakpro-womens-whey-protein?variant=40287006195792",
+        "nutritionUrl": "https://nakpro.com/products/nakpro-womens-whey-protein?variant=40287006195792",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop/serving size as stated by brand; level/heaped measures may differ. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/nakpro-womens-whey-protein?variant=40287006195792",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 546,
+      "offer": {
+        "id": 546,
+        "brand": "NAKPRO",
+        "product": "Nakpro Women’s Whey Protein Isolate",
+        "type": "Whey — isolate",
+        "flavour": "Double Rich Chocolate",
+        "kg": 1,
+        "price": 2999,
+        "stock": "In stock",
+        "protein": 75,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey isolate",
+        "energy": null,
+        "url": "https://nakpro.com/products/nakpro-womens-whey-protein?variant=40419552690256",
+        "nutritionUrl": "https://nakpro.com/products/nakpro-womens-whey-protein?variant=40419552690256",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop weight not verified. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/nakpro-womens-whey-protein?variant=40419552690256",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 547,
+      "offer": {
+        "id": 547,
+        "brand": "NAKPRO",
+        "product": "Nakpro Women’s Whey Protein Isolate",
+        "type": "Whey — isolate",
+        "flavour": "Malai Kulfi",
+        "kg": 1,
+        "price": 2999,
+        "stock": "In stock",
+        "protein": 75,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey isolate",
+        "energy": null,
+        "url": "https://nakpro.com/products/nakpro-womens-whey-protein?variant=40419552854096",
+        "nutritionUrl": "https://nakpro.com/products/nakpro-womens-whey-protein?variant=40419552854096",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop weight not verified. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/nakpro-womens-whey-protein?variant=40419552854096",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 1496,
+      "observation": {
+        "category": "protein",
+        "offerId": 544,
+        "date": "2024-09-16",
+        "price": 1899,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-womens-whey-protein?variant=32695257661520",
+        "evidenceUrl": "https://web.archive.org/web/20240916214844id_/https://nakpro.com/products/nakpro-womens-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "32695257661520",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1497,
+      "observation": {
+        "category": "protein",
+        "offerId": 545,
+        "date": "2024-09-16",
+        "price": 1899,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-womens-whey-protein?variant=40287006195792",
+        "evidenceUrl": "https://web.archive.org/web/20240916214844id_/https://nakpro.com/products/nakpro-womens-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40287006195792",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1498,
+      "observation": {
+        "category": "protein",
+        "offerId": 546,
+        "date": "2024-09-16",
+        "price": 1899,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-womens-whey-protein?variant=40419552690256",
+        "evidenceUrl": "https://web.archive.org/web/20240916214844id_/https://nakpro.com/products/nakpro-womens-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40419552690256",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1499,
+      "observation": {
+        "category": "protein",
+        "offerId": 547,
+        "date": "2024-09-16",
+        "price": 1899,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-womens-whey-protein?variant=40419552854096",
+        "evidenceUrl": "https://web.archive.org/web/20240916214844id_/https://nakpro.com/products/nakpro-womens-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40419552854096",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2733,
+      "observation": {
+        "category": "protein",
+        "offerId": 544,
+        "date": "2026-10-25",
+        "price": 2999,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-womens-whey-protein?variant=32695257661520",
+        "evidenceUrl": "https://nakpro.com/products/nakpro-womens-whey-protein.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "32695257661520"
+      }
+    },
+    {
+      "order": 2734,
+      "observation": {
+        "category": "protein",
+        "offerId": 545,
+        "date": "2026-10-25",
+        "price": 2999,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-womens-whey-protein?variant=40287006195792",
+        "evidenceUrl": "https://nakpro.com/products/nakpro-womens-whey-protein.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "40287006195792"
+      }
+    },
+    {
+      "order": 2735,
+      "observation": {
+        "category": "protein",
+        "offerId": 546,
+        "date": "2026-10-25",
+        "price": 2999,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-womens-whey-protein?variant=40419552690256",
+        "evidenceUrl": "https://nakpro.com/products/nakpro-womens-whey-protein.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "40419552690256"
+      }
+    },
+    {
+      "order": 2736,
+      "observation": {
+        "category": "protein",
+        "offerId": 547,
+        "date": "2026-10-25",
+        "price": 2999,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-womens-whey-protein?variant=40419552854096",
+        "evidenceUrl": "https://nakpro.com/products/nakpro-womens-whey-protein.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "40419552854096"
+      }
+    },
+    {
+      "order": 3360,
+      "observation": {
+        "category": "protein",
+        "offerId": 544,
+        "date": "2026-09-25",
+        "price": 2999,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-womens-whey-protein?variant=32695257661520",
+        "evidenceUrl": "https://web.archive.org/web/20260925100711/https://nakpro.com/products/nakpro-womens-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "32695257661520",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3361,
+      "observation": {
+        "category": "protein",
+        "offerId": 545,
+        "date": "2026-09-25",
+        "price": 2999,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-womens-whey-protein?variant=40287006195792",
+        "evidenceUrl": "https://web.archive.org/web/20260925100711/https://nakpro.com/products/nakpro-womens-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40287006195792",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3362,
+      "observation": {
+        "category": "protein",
+        "offerId": 546,
+        "date": "2026-09-25",
+        "price": 2999,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-womens-whey-protein?variant=40419552690256",
+        "evidenceUrl": "https://web.archive.org/web/20260925100711/https://nakpro.com/products/nakpro-womens-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40419552690256",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3363,
+      "observation": {
+        "category": "protein",
+        "offerId": 547,
+        "date": "2026-09-25",
+        "price": 2999,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-womens-whey-protein?variant=40419552854096",
+        "evidenceUrl": "https://web.archive.org/web/20260925100711/https://nakpro.com/products/nakpro-womens-whey-protein",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40419552854096",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 4591,
+      "observation": {
+        "category": "protein",
+        "offerId": 544,
+        "date": "2026-11-19",
+        "price": 2999,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-womens-whey-protein?variant=32695257661520",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "32695257661520"
+      }
+    },
+    {
+      "order": 4592,
+      "observation": {
+        "category": "protein",
+        "offerId": 545,
+        "date": "2026-11-19",
+        "price": 2999,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-womens-whey-protein?variant=40287006195792",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "40287006195792"
+      }
+    },
+    {
+      "order": 4593,
+      "observation": {
+        "category": "protein",
+        "offerId": 546,
+        "date": "2026-11-19",
+        "price": 2999,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-womens-whey-protein?variant=40419552690256",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "40419552690256"
+      }
+    },
+    {
+      "order": 4594,
+      "observation": {
+        "category": "protein",
+        "offerId": 547,
+        "date": "2026-11-19",
+        "price": 2999,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-womens-whey-protein?variant=40419552854096",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "40419552854096"
+      }
+    }
+  ],
+  "refreshSources": []
+}

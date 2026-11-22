@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "category": "fish-oil",
+  "brand": "Carbamide Forte",
+  "product": "Salmon Fish Oil 1000 mg",
+  "variants": [
+    {
+      "order": 13,
+      "offer": {
+        "brand": "Carbamide Forte",
+        "product": "Salmon Fish Oil 1000 mg",
+        "form": "Softgel",
+        "type": "Fish oil (form not verified)",
+        "subclass": "With Vitamins D and E",
+        "servingUnits": null,
+        "source": "Salmon (brand claim)",
+        "basis": "Official product listing; only explicitly verified label amounts are recorded.",
+        "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities.",
+        "packCount": 60,
+        "id": "fish-oil-42794163306609",
+        "price": 389,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://www.carbamideforte.com/products/carbamide-forte-omega-3-fish-oil-capsules-softgel-1000mg-with-vitamin-d-e-omega-3-supplement-softgel-for-men-women-salmon-fish-oil-omega3-supplement-for-heart-joints-bones-skin-60-softgels?variant=42794163306609",
+        "nutritionUrl": "https://www.carbamideforte.com/products/carbamide-forte-omega-3-fish-oil-capsules-softgel-1000mg-with-vitamin-d-e-omega-3-supplement-softgel-for-men-women-salmon-fish-oil-omega3-supplement-for-heart-joints-bones-skin-60-softgels",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-10-29",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.carbamideforte.com/products/carbamide-forte-omega-3-fish-oil-capsules-softgel-1000mg-with-vitamin-d-e-omega-3-supplement-softgel-for-men-women-salmon-fish-oil-omega3-supplement-for-heart-joints-bones-skin-60-softgels?variant=42794163306609",
+          "evidenceUrl": "https://www.carbamideforte.com/products/carbamide-forte-omega-3-fish-oil-capsules-softgel-1000mg-with-vitamin-d-e-omega-3-supplement-softgel-for-men-women-salmon-fish-oil-omega3-supplement-for-heart-joints-bones-skin-60-softgels.json",
+          "matchBasis": "Official public Shopify product; exact variant ID 42794163306609 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3716,
+      "observation": {
+        "category": "fish-oil",
+        "offerId": "fish-oil-42794163306609",
+        "date": "2026-10-29",
+        "price": 389,
+        "currency": "INR",
+        "sourceUrl": "https://www.carbamideforte.com/products/carbamide-forte-omega-3-fish-oil-capsules-softgel-1000mg-with-vitamin-d-e-omega-3-supplement-softgel-for-men-women-salmon-fish-oil-omega3-supplement-for-heart-joints-bones-skin-60-softgels?variant=42794163306609",
+        "evidenceUrl": "https://www.carbamideforte.com/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "42794163306609"
+      }
+    },
+    {
+      "order": 3867,
+      "observation": {
+        "category": "fish-oil",
+        "offerId": "fish-oil-42794163306609",
+        "date": "2026-11-19",
+        "price": 389,
+        "currency": "INR",
+        "sourceUrl": "https://www.carbamideforte.com/products/carbamide-forte-omega-3-fish-oil-capsules-softgel-1000mg-with-vitamin-d-e-omega-3-supplement-softgel-for-men-women-salmon-fish-oil-omega3-supplement-for-heart-joints-bones-skin-60-softgels?variant=42794163306609",
+        "evidenceUrl": "https://www.carbamideforte.com/products/carbamide-forte-omega-3-fish-oil-capsules-softgel-1000mg-with-vitamin-d-e-omega-3-supplement-softgel-for-men-women-salmon-fish-oil-omega3-supplement-for-heart-joints-bones-skin-60-softgels.json",
+        "kind": "official-live",
+        "variantId": "42794163306609",
+        "matchBasis": "Official public Shopify product; exact variant ID 42794163306609 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 15,
+      "profile": {
+        "category": "fish-oil",
+        "brand": "Carbamide Forte",
+        "base": "https://www.carbamideforte.com",
+        "handle": "carbamide-forte-omega-3-fish-oil-capsules-softgel-1000mg-with-vitamin-d-e-omega-3-supplement-softgel-for-men-women-salmon-fish-oil-omega3-supplement-for-heart-joints-bones-skin-60-softgels",
+        "product": "Salmon Fish Oil 1000 mg",
+        "form": "Softgel",
+        "type": "Fish oil (form not verified)",
+        "subclass": "With Vitamins D and E",
+        "servingUnits": null,
+        "source": "Salmon (brand claim)",
+        "basis": "Official product listing; only explicitly verified label amounts are recorded.",
+        "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities.",
+        "packCount": 60
+      }
+    }
+  ]
+}

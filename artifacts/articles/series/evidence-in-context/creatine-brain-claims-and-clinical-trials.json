@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "order": 9,
+  "article": {
+    "id": "creatine-brain-claims-and-clinical-trials",
+    "category": "creatine",
+    "series": "evidence-in-context",
+    "title": "Creatine for the brain: what changes between a lab test and a treatment claim?",
+    "summary": "Sleep deprivation, everyday cognition and Parkinson disease are different research questions. Their results explain why an energy-buffer mechanism is promising without proving a universal brain benefit.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "Creatine's role in muscle is familiar. Its role in brain energy has generated a much broader promise: sharper thinking, protection from sleep loss and prevention of neurological decline. Those claims need separate tests. Performing better on one task during a laboratory night without sleep is not the same outcome as remembering appointments in normal life, and neither establishes treatment for a neurological disease. The interesting question is where the biological idea has survived controlled human experiments. Looking across favourable, uncertain and negative trials helps put the potential in perspective without discarding it or selling it too early.",
+    "sections": [
+      {
+        "id": "energy-buffer-hypothesis",
+        "title": "The mechanism is an energy buffer, not a supply of intelligence",
+        "body": "Creatine and phosphocreatine participate in recycling ATP, the molecule cells use to support energy-demanding work. Brain tissue uses this system as muscle does, which makes a cognitive hypothesis biologically reasonable. The missing step is whether supplementing a particular person changes brain availability enough to improve a meaningful function. A need for creatine in normal physiology is not evidence that a person who already has sufficient availability will benefit from more. Muscle findings cannot fill that gap automatically. The sports position statement is useful background on the energy system, while cognitive trials must establish their own effects, populations and time courses. A believable pathway is the beginning of a research programme, rather than its final answer.",
+        "sourceIds": [
+          "creatine-position",
+          "synth-creatine-efsa-cognition-2024"
+        ]
+      },
+      {
+        "id": "healthy-adult-test",
+        "title": "A larger healthy-adult trial found a small, uncertain signal",
+        "body": "A preregistered crossover trial tested creatine and placebo in 123 adults, including vegetarians and omnivores. Its main working-memory result was compatible with a small benefit but did not cross the conventional significance threshold; the reasoning outcome did not show a clear improvement. The exploratory tasks were also unconvincing. The authors considered a small effect possible and worth further study. That is a much narrower statement than a reliable improvement in intelligence or productivity. Vegetarians did not benefit more than omnivores in this experiment, despite the appealing dietary hypothesis. Its value is the disciplined question it leaves behind: which effects, if any, are reproducible and large enough for people to notice outside a testing session?",
+        "sourceIds": [
+          "creatine-cognition-rct"
+        ]
+      },
+      {
+        "id": "sleep-deprived-lab",
+        "title": "Sleep deprivation offers a different experimental setting",
+        "body": "A 2024 crossover study in fifteen participants examined a single experimental creatine exposure during sleep deprivation, alongside brain spectroscopy and cognitive testing. It reported changes in brain high-energy phosphates and improvements in selected cognitive measures compared with placebo. This is interesting because energy stress may expose a response that is harder to detect under normal conditions. It remains a small, acute laboratory experiment using an exposure that should not be converted into a self-prescribed rescue plan. It did not test chronic night work, road safety, or whether people can routinely replace sleep. The finding justifies more work on the stressed brain; it does not make sleep deprivation a problem solved by a supplement.",
+        "sourceIds": [
+          "synth-creatine-sleep-2024"
+        ]
+      },
+      {
+        "id": "why-reviews-disagree",
+        "title": "Why a positive paper and a cautious assessment can coexist",
+        "body": "EFSA's 2024 assessment considered a proposed cognitive health claim and concluded that a cause-and-effect relationship had not been established. Its reasoning concerned the consistency of human results across tasks, regimens and populations. That conclusion is compatible with individual experiments producing interesting signals. An evidence body can contain promising observations without supporting a general advertising claim. The assessment also has a date and a defined question; it should not be described as a final verdict on every future clinical use. For a reader, the important distinction is between evidence that warrants another trial and evidence that warrants a confident promise to a customer. Those are different thresholds, and responsible communication makes the difference visible.",
+        "sourceIds": [
+          "synth-creatine-efsa-cognition-2024",
+          "creatine-cognition-rct",
+          "synth-creatine-sleep-2024"
+        ]
+      },
+      {
+        "id": "parkinson-failed-translation",
+        "title": "Parkinson disease is a crucial test of the treatment leap",
+        "body": "The NET-PD trial enrolled 1,741 people with early treated Parkinson disease across multiple centres. Creatine was tested as a possible way to slow clinical progression, after earlier work had made a larger trial reasonable. The study was stopped for futility: the planned analysis did not support the expected benefit on its global clinical outcome. This is not evidence that the brain has no use for creatine. It is direct evidence against presenting that tested approach as an established disease-modifying treatment for Parkinson disease. Biological plausibility and encouraging earlier studies did not predict the clinical result. The negative trial belongs in the same conversation as the small favourable experiments, especially when marketing starts using the language of neuroprotection.",
+        "sourceIds": [
+          "creatine-parkinson-trial"
+        ]
+      },
+      {
+        "id": "outcome-ladder",
+        "title": "Ask which outcome a brain-health claim actually measured",
+        "body": "There are several steps between a biochemical change and a useful treatment. Spectroscopy can detect changes in a brain metabolite. A task can measure a narrow component of memory or response speed. A longer clinical study can examine function or progression in a diagnosed disease. None of those outcomes is worthless, but they answer different questions. A product page becomes misleading when it silently moves from the first step to the last. When a study is cited, look for the actual participants, comparator and outcome before interpreting the headline. A task measured after acute sleep loss cannot supply evidence about preventing dementia, just as an unsuccessful Parkinson trial cannot settle every question about cognition in healthy adults.",
+        "sourceIds": [
+          "synth-creatine-sleep-2024",
+          "creatine-cognition-rct",
+          "creatine-parkinson-trial"
+        ]
+      },
+      {
+        "id": "separate-gym-and-brain-value",
+        "title": "Separate the training purchase from the brain-health purchase",
+        "body": "Someone may reasonably consider creatine for a training goal supported by the sports literature while keeping cognitive expectations modest. That is a different decision from paying a premium primarily for a promise of sharper thinking. The existence of research on a chemical ingredient does not validate a particular gummy, blend, brand or proprietary delivery system. Compare the declared ingredient and amount, product quality information and the relevant evidence rather than treating a brain-themed label as added proof. A second product containing the same ingredient does not create a second mechanism. Keeping the reasons for use separate also prevents an uncertain cognitive story from being used to justify a more expensive version of an otherwise familiar supplement.",
+        "sourceIds": [
+          "creatine-position",
+          "supplement-quality-ods",
+          "synth-creatine-efsa-cognition-2024"
+        ]
+      },
+      {
+        "id": "expectations-and-assessment",
+        "title": "Persistent cognitive symptoms deserve a better question than which tub",
+        "body": "A trial of a supplement is not a substitute for assessment when memory problems, sleepiness or loss of function are persistent or worsening. The studies described here cannot identify the cause of an individual's symptoms or establish a treatment plan. They also give no basis for translating experimental high exposures into a routine stack. The useful takeaway is to demand a claim with a defined setting: a particular population, a particular task and a stated degree of uncertainty. Creatine remains an interesting subject in brain research. At present, a reader should be able to recognise that interest without being told that everyone needs it for cognition or that it treats neurological disease.",
+        "sourceIds": [
+          "creatine-cognition-rct",
+          "creatine-parkinson-trial",
+          "synth-creatine-sleep-2024",
+          "synth-creatine-efsa-cognition-2024"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "creatine-position",
+      "creatine-cognition-rct",
+      "creatine-parkinson-trial",
+      "synth-creatine-sleep-2024",
+      "synth-creatine-efsa-cognition-2024",
+      "supplement-quality-ods"
+    ],
+    "evidenceNotes": [
+      {
+        "finding": "The main healthy-adult trial left room for a small benefit but did not demonstrate broad cognitive enhancement.",
+        "sourceIds": [
+          "creatine-cognition-rct"
+        ],
+        "design": "Preregistered randomized double-blind placebo-controlled crossover trial.",
+        "population": "123 adults, approximately half vegetarian.",
+        "outcome": "Working memory, reasoning and exploratory cognitive tasks.",
+        "limits": "Task-specific uncertain estimates do not establish everyday functional improvement or dementia prevention."
+      },
+      {
+        "finding": "A large trial did not show slowed Parkinson disease progression and stopped for futility.",
+        "sourceIds": [
+          "creatine-parkinson-trial"
+        ],
+        "design": "Multicentre randomized placebo-controlled clinical trial.",
+        "population": "1,741 people with early treated Parkinson disease.",
+        "outcome": "Global clinical progression outcome.",
+        "limits": "This disease-modification result does not answer every healthy-adult or acute sleep-loss question."
+      }
+    ]
+  }
+}

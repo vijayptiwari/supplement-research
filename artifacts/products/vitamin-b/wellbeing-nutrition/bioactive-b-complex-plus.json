@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "category": "vitamin-b",
+  "brand": "Wellbeing Nutrition",
+  "product": "Bioactive B Complex Plus",
+  "variants": [
+    {
+      "order": 10,
+      "offer": {
+        "brand": "Wellbeing Nutrition",
+        "product": "Bioactive B Complex Plus",
+        "form": "Capsule",
+        "type": "B-complex with methylcobalamin and 5-MTHF",
+        "subclass": "Bioactive B-vitamin blend",
+        "packCount": 60,
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official page identifies 60 capsules and a one-capsule serving, all eight B vitamins, methylcobalamin and Quatrefolic 5-MTHF. Numeric vitamin amounts remain unverified.",
+        "notes": "Bioactive, methylated and superior-absorption wording are manufacturer claims. No absorption multiplier or clinical superiority is assumed.",
+        "labelChecked": "2026-10-31",
+        "declaredNutrients": [
+          "vitaminB1Mg",
+          "vitaminB2Mg",
+          "vitaminB3Mg",
+          "vitaminB5Mg",
+          "vitaminB6Mg",
+          "biotinMcg",
+          "vitaminB12Mcg",
+          "methylfolateMcg"
+        ],
+        "flavour": "Mint Essenced",
+        "vitaminB1Mg": null,
+        "vitaminB2Mg": null,
+        "vitaminB3Mg": null,
+        "vitaminB5Mg": null,
+        "vitaminB6Mg": null,
+        "biotinMcg": null,
+        "vitaminB12Mcg": null,
+        "folicAcidMcg": null,
+        "folateMcgDfe": null,
+        "methylfolateMcg": null,
+        "id": "vitamin-b-41424862445648",
+        "price": 899,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://wellbeingnutrition.com/products/b-complex-capsules?variant=41424862445648",
+        "nutritionUrl": "https://wellbeingnutrition.com/products/b-complex-capsules",
+        "packaging": "Single retail pack",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://wellbeingnutrition.com/products/b-complex-capsules?variant=41424862445648",
+          "evidenceUrl": "https://wellbeingnutrition.com/products/b-complex-capsules.json",
+          "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3792,
+      "observation": {
+        "category": "vitamin-b",
+        "offerId": "vitamin-b-41424862445648",
+        "date": "2026-10-31",
+        "price": 764,
+        "currency": "INR",
+        "sourceUrl": "https://wellbeingnutrition.com/products/b-complex-capsules?variant=41424862445648",
+        "evidenceUrl": "https://wellbeingnutrition.com/products/b-complex-capsules.json",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify product variant ID, price and single retail-pack count verified; quantities come from separately cited label evidence.",
+        "variantId": "41424862445648"
+      }
+    },
+    {
+      "order": 3946,
+      "observation": {
+        "category": "vitamin-b",
+        "offerId": "vitamin-b-41424862445648",
+        "date": "2026-11-19",
+        "price": 899,
+        "currency": "INR",
+        "sourceUrl": "https://wellbeingnutrition.com/products/b-complex-capsules?variant=41424862445648",
+        "evidenceUrl": "https://wellbeingnutrition.com/products/b-complex-capsules.json",
+        "kind": "official-live",
+        "variantId": "41424862445648",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 76,
+      "profile": {
+        "category": "vitamin-b",
+        "brand": "Wellbeing Nutrition",
+        "base": "https://wellbeingnutrition.com",
+        "handle": "b-complex-capsules",
+        "product": "Bioactive B Complex Plus",
+        "form": "Capsule",
+        "type": "B-complex with methylcobalamin and 5-MTHF",
+        "subclass": "Bioactive B-vitamin blend",
+        "packCount": 60,
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official page identifies 60 capsules and a one-capsule serving, all eight B vitamins, methylcobalamin and Quatrefolic 5-MTHF. Numeric vitamin amounts remain unverified.",
+        "notes": "Bioactive, methylated and superior-absorption wording are manufacturer claims. No absorption multiplier or clinical superiority is assumed.",
+        "labelChecked": "2026-10-31",
+        "declaredNutrients": [
+          "vitaminB1Mg",
+          "vitaminB2Mg",
+          "vitaminB3Mg",
+          "vitaminB5Mg",
+          "vitaminB6Mg",
+          "biotinMcg",
+          "vitaminB12Mcg",
+          "methylfolateMcg"
+        ],
+        "flavour": "Mint Essenced",
+        "vitaminB1Mg": null,
+        "vitaminB2Mg": null,
+        "vitaminB3Mg": null,
+        "vitaminB5Mg": null,
+        "vitaminB6Mg": null,
+        "biotinMcg": null,
+        "vitaminB12Mcg": null,
+        "folicAcidMcg": null,
+        "folateMcgDfe": null,
+        "methylfolateMcg": null,
+        "variantTitles": [
+          "Pack of 1"
+        ]
+      }
+    }
+  ]
+}

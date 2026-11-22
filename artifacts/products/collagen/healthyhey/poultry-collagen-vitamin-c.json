@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "category": "collagen",
+  "brand": "HealthyHey",
+  "product": "Poultry Collagen + Vitamin C",
+  "variants": [
+    {
+      "order": 2,
+      "offer": {
+        "id": "collagen-49976011522333",
+        "brand": "HealthyHey",
+        "product": "Poultry Collagen + Vitamin C",
+        "form": "Powder",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "source": "Chicken",
+        "labelChecked": "2026-11-19",
+        "notes": "The label rounds collagen material to the full serving mass while also declaring vitamin C. Retain these as approximate manufacturer declarations rather than a purity assay.",
+        "grams": 200,
+        "packCount": null,
+        "servingGrams": 5,
+        "type": "Hydrolysed collagen peptides",
+        "subclass": "Poultry peptides + vitamin C",
+        "collagenPeptidesMg": 5000,
+        "vitaminCMg": 32.5,
+        "energyPerServing": 19.65,
+        "declaredNutrients": [
+          "collagenPeptidesMg",
+          "vitaminCMg"
+        ],
+        "collagenTypes": "Not specified",
+        "basis": "The official label lists a 200 g pack and one 5 g scoop: hydrolysed chicken collagen 5 g, vitamin C 32.5 mg and energy 19.65 kcal per serving. The separate protein declaration is 4.7 g.",
+        "price": 1879,
+        "currency": "INR",
+        "stock": "Sold out",
+        "url": "https://healthyhey.com/products/poultry-collagen-hydrolysed-chicken-collagen-with-vitamin-c-unflavoured-200g?variant=49976011522333",
+        "nutritionUrl": "https://healthyhey.com/products/poultry-collagen-hydrolysed-chicken-collagen-with-vitamin-c-unflavoured-200g",
+        "labelSources": [
+          "https://healthyhey.com/products/poultry-collagen-hydrolysed-chicken-collagen-with-vitamin-c-unflavoured-200g",
+          "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-nutrition-powder-poultry-collagen-hydrolysed-chicken-collagen-with-vitamin-c-unflavoured-200g-1261371027.png?v=1791357576"
+        ]
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3896,
+      "observation": {
+        "category": "collagen",
+        "offerId": "collagen-49976011522333",
+        "date": "2026-11-19",
+        "price": 1879,
+        "currency": "INR",
+        "sourceUrl": "https://healthyhey.com/products/poultry-collagen-hydrolysed-chicken-collagen-with-vitamin-c-unflavoured-200g?variant=49976011522333",
+        "evidenceUrl": "https://healthyhey.com/products/poultry-collagen-hydrolysed-chicken-collagen-with-vitamin-c-unflavoured-200g.json",
+        "kind": "official-live",
+        "variantId": "49976011522333",
+        "matchBasis": "Official exact public Shopify variant ID; unconditional INR price and stock. Net pack quantity and ingredient serving transcribed from official text/panels checked2026-11-19."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 136,
+      "profile": {
+        "brand": "HealthyHey",
+        "product": "Poultry Collagen + Vitamin C",
+        "form": "Powder",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "source": "Chicken",
+        "labelChecked": "2026-11-19",
+        "notes": "The label rounds collagen material to the full serving mass while also declaring vitamin C. Retain these as approximate manufacturer declarations rather than a purity assay.",
+        "grams": 200,
+        "packCount": null,
+        "servingGrams": 5,
+        "type": "Hydrolysed collagen peptides",
+        "subclass": "Poultry peptides + vitamin C",
+        "collagenPeptidesMg": 5000,
+        "vitaminCMg": 32.5,
+        "energyPerServing": 19.65,
+        "declaredNutrients": [
+          "collagenPeptidesMg",
+          "vitaminCMg"
+        ],
+        "collagenTypes": "Not specified",
+        "basis": "The official label lists a 200 g pack and one 5 g scoop: hydrolysed chicken collagen 5 g, vitamin C 32.5 mg and energy 19.65 kcal per serving. The separate protein declaration is 4.7 g.",
+        "nutritionUrl": "https://healthyhey.com/products/poultry-collagen-hydrolysed-chicken-collagen-with-vitamin-c-unflavoured-200g",
+        "labelSources": [
+          "https://healthyhey.com/products/poultry-collagen-hydrolysed-chicken-collagen-with-vitamin-c-unflavoured-200g",
+          "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-nutrition-powder-poultry-collagen-hydrolysed-chicken-collagen-with-vitamin-c-unflavoured-200g-1261371027.png?v=1791357576"
+        ],
+        "category": "collagen",
+        "base": "https://healthyhey.com",
+        "handle": "poultry-collagen-hydrolysed-chicken-collagen-with-vitamin-c-unflavoured-200g",
+        "variantIds": [
+          "49976011522333"
+        ],
+        "numericVariantIsCount": false,
+        "id": "collagen-49976011522333"
+      }
+    }
+  ]
+}

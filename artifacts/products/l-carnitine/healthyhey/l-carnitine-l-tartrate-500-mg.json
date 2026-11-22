@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "category": "l-carnitine",
+  "brand": "HealthyHey",
+  "product": "L-Carnitine & L-Tartrate 500 mg",
+  "variants": [
+    {
+      "order": 0,
+      "offer": {
+        "brand": "HealthyHey",
+        "product": "L-Carnitine & L-Tartrate 500 mg",
+        "form": "Capsule",
+        "type": "L-carnitine L-tartrate",
+        "subclass": "Tartrate compound",
+        "source": "Not specified",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "basis": "Official facts specify one capsule provides 500 mg of the declared L-Carnitine & L-Tartrate material; selected pack is 60 capsules.",
+        "notes": "Declared compound mass is separate from free L-carnitine payload, which is unverified. No molecular conversion is inferred.",
+        "labelChecked": "2026-11-17",
+        "packCount": 60,
+        "servingUnits": 1,
+        "carnitineCompoundMg": 500,
+        "carnitineMg": null,
+        "energyPerServing": null,
+        "labelSources": [
+          "https://healthyhey.com/products/healthyhey-l-carnitine-l-tartrate-lclt-support-transport-of-fats-to-muscles-60-vegetable-capsules-pack-of-1"
+        ],
+        "id": "l-carnitine-44683535417629",
+        "price": 709,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://healthyhey.com/products/healthyhey-l-carnitine-l-tartrate-lclt-support-transport-of-fats-to-muscles-60-vegetable-capsules-pack-of-1?variant=44683535417629",
+        "nutritionUrl": "https://healthyhey.com/products/healthyhey-l-carnitine-l-tartrate-lclt-support-transport-of-fats-to-muscles-60-vegetable-capsules-pack-of-1",
+        "searchAliases": [
+          "lclt"
+        ],
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://healthyhey.com/products/healthyhey-l-carnitine-l-tartrate-lclt-support-transport-of-fats-to-muscles-60-vegetable-capsules-pack-of-1?variant=44683535417629",
+          "evidenceUrl": "https://healthyhey.com/products/healthyhey-l-carnitine-l-tartrate-lclt-support-transport-of-fats-to-muscles-60-vegetable-capsules-pack-of-1.json",
+          "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3804,
+      "observation": {
+        "category": "l-carnitine",
+        "offerId": "l-carnitine-44683535417629",
+        "date": "2026-11-17",
+        "price": 627,
+        "currency": "INR",
+        "sourceUrl": "https://healthyhey.com/products/healthyhey-l-carnitine-l-tartrate-lclt-support-transport-of-fats-to-muscles-60-vegetable-capsules-pack-of-1?variant=44683535417629",
+        "evidenceUrl": "https://healthyhey.com/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Directly fetched official Shopify feed; exact variant ID, flavour and single retail pack verified against official product page. Conditional discounts excluded.",
+        "variantId": "44683535417629"
+      }
+    },
+    {
+      "order": 3998,
+      "observation": {
+        "category": "l-carnitine",
+        "offerId": "l-carnitine-44683535417629",
+        "date": "2026-11-19",
+        "price": 709,
+        "currency": "INR",
+        "sourceUrl": "https://healthyhey.com/products/healthyhey-l-carnitine-l-tartrate-lclt-support-transport-of-fats-to-muscles-60-vegetable-capsules-pack-of-1?variant=44683535417629",
+        "evidenceUrl": "https://healthyhey.com/products/healthyhey-l-carnitine-l-tartrate-lclt-support-transport-of-fats-to-muscles-60-vegetable-capsules-pack-of-1.json",
+        "kind": "official-live",
+        "variantId": "44683535417629",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 88,
+      "profile": {
+        "category": "l-carnitine",
+        "brand": "HealthyHey",
+        "base": "https://healthyhey.com",
+        "handle": "healthyhey-l-carnitine-l-tartrate-lclt-support-transport-of-fats-to-muscles-60-vegetable-capsules-pack-of-1",
+        "product": "L-Carnitine & L-Tartrate 500 mg",
+        "form": "Capsule",
+        "type": "L-carnitine L-tartrate",
+        "subclass": "Tartrate compound",
+        "source": "Not specified",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "basis": "Official facts specify one capsule provides 500 mg of the declared L-Carnitine & L-Tartrate material; selected pack is 60 capsules.",
+        "notes": "Declared compound mass is separate from free L-carnitine payload, which is unverified. No molecular conversion is inferred.",
+        "labelChecked": "2026-11-17",
+        "variantIds": [
+          "44683535417629"
+        ],
+        "packCount": 60,
+        "servingUnits": 1,
+        "carnitineCompoundMg": 500,
+        "carnitineMg": null,
+        "energyPerServing": null,
+        "labelSources": [
+          "https://healthyhey.com/products/healthyhey-l-carnitine-l-tartrate-lclt-support-transport-of-fats-to-muscles-60-vegetable-capsules-pack-of-1"
+        ],
+        "searchAliases": [
+          "lclt"
+        ]
+      }
+    }
+  ]
+}

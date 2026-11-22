@@ -1,0 +1,226 @@
+{
+  "schemaVersion": 1,
+  "category": "vitamin-d",
+  "brand": "OSOAA",
+  "product": "OSOAA Vitamin D3 K2 MK7 Tablets",
+  "variants": [
+    {
+      "order": 17,
+      "offer": {
+        "id": "vitamin-d-nb-8946939",
+        "brand": "OSOAA",
+        "product": "OSOAA Vitamin D3 K2 MK7 Tablets",
+        "flavour": "Unflavoured",
+        "packaging": "Bottle",
+        "source": "Lichen (D3 label claim)",
+        "price": 349,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://nutrabay.com/product/osoaa-vitamin-d3-k2-mk7-tablets-plant-based-lichen-source-600-iu-vitamin-d/?pId=6057952&vId=8946939",
+        "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_8-NB-OSA-1006-01-1787392738.jpg",
+        "labelSources": [
+          "https://nutrabay.com/product/osoaa-vitamin-d3-k2-mk7-tablets-plant-based-lichen-source-600-iu-vitamin-d/?pId=6057952&vId=8946939",
+          "https://cdn2.nutrabay.com/uploads/variant/images/image_8-NB-OSA-1006-01-1787392738.jpg"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "retailer",
+        "sourceVariantId": "8946939",
+        "sourceProductId": "6057952",
+        "sourceSku": "NB-OSA-1006-01",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+        "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts.",
+        "retailer": "Nutrabay",
+        "form": "Tablet",
+        "servingUnits": 1,
+        "type": "D3 (cholecalciferol) from lichen",
+        "subclass": "D3 + K2 MK7 + B12",
+        "vitaminDIu": 600,
+        "vitaminDMcg": 15,
+        "vitaminK2Mcg": 55,
+        "vitaminB12Mcg": 2.2,
+        "energyPerServing": 0.2,
+        "declaredNutrients": [
+          "vitaminDIu",
+          "vitaminDMcg",
+          "vitaminK2Mcg"
+        ],
+        "packCount": 120
+      }
+    },
+    {
+      "order": 18,
+      "offer": {
+        "id": "vitamin-d-nb-2236744",
+        "brand": "OSOAA",
+        "product": "OSOAA Vitamin D3 K2 MK7 Tablets",
+        "flavour": "Unflavoured",
+        "packaging": "Bottle",
+        "source": "Lichen (D3 label claim)",
+        "price": 229,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://nutrabay.com/product/osoaa-vitamin-d3-k2-mk7-tablets-plant-based-lichen-source-600-iu-vitamin-d/?pId=6057952&vId=2236744",
+        "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-OSA-1006-02-1789059086.jpg",
+        "labelSources": [
+          "https://nutrabay.com/product/osoaa-vitamin-d3-k2-mk7-tablets-plant-based-lichen-source-600-iu-vitamin-d/?pId=6057952&vId=2236744",
+          "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-OSA-1006-02-1789059086.jpg"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "retailer",
+        "sourceVariantId": "2236744",
+        "sourceProductId": "6057952",
+        "sourceSku": "NB-OSA-1006-02",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+        "notes": "The selected 60-tablet gallery shares a nutrition illustration showing 120 servings; the exact selected retail count is 60. Per-tablet composition is retained with this illustration-count limitation.",
+        "retailer": "Nutrabay",
+        "form": "Tablet",
+        "servingUnits": 1,
+        "type": "D3 (cholecalciferol) from lichen",
+        "subclass": "D3 + K2 MK7 + B12",
+        "vitaminDIu": 600,
+        "vitaminDMcg": 15,
+        "vitaminK2Mcg": 55,
+        "vitaminB12Mcg": 2.2,
+        "energyPerServing": 0.2,
+        "declaredNutrients": [
+          "vitaminDIu",
+          "vitaminDMcg",
+          "vitaminK2Mcg"
+        ],
+        "packCount": 60
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5291,
+      "observation": {
+        "category": "vitamin-d",
+        "offerId": "vitamin-d-nb-8946939",
+        "date": "2026-11-20",
+        "price": 349,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabay.com/product/osoaa-vitamin-d3-k2-mk7-tablets-plant-based-lichen-source-600-iu-vitamin-d/?pId=6057952&vId=8946939",
+        "evidenceUrl": "https://nutrabay.com/product/osoaa-vitamin-d3-k2-mk7-tablets-plant-based-lichen-source-600-iu-vitamin-d/?pId=6057952&vId=8946939",
+        "kind": "official-live",
+        "variantId": "8946939",
+        "matchBasis": "Nutrabay selected live product 6057952, variant 8946939, SKU NB-OSA-1006-01; complete selected attributes, ordinary INR sale_price, stock and actual net pack verified. Label amounts independently read from this selected gallery."
+      }
+    },
+    {
+      "order": 5292,
+      "observation": {
+        "category": "vitamin-d",
+        "offerId": "vitamin-d-nb-2236744",
+        "date": "2026-11-20",
+        "price": 229,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabay.com/product/osoaa-vitamin-d3-k2-mk7-tablets-plant-based-lichen-source-600-iu-vitamin-d/?pId=6057952&vId=2236744",
+        "evidenceUrl": "https://nutrabay.com/product/osoaa-vitamin-d3-k2-mk7-tablets-plant-based-lichen-source-600-iu-vitamin-d/?pId=6057952&vId=2236744",
+        "kind": "official-live",
+        "variantId": "2236744",
+        "matchBasis": "Nutrabay selected live product 6057952, variant 2236744, SKU NB-OSA-1006-02; complete selected attributes, ordinary INR sale_price, stock and actual net pack verified. Label amounts independently read from this selected gallery."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 375,
+      "profile": {
+        "id": "vitamin-d-nb-8946939",
+        "brand": "OSOAA",
+        "product": "OSOAA Vitamin D3 K2 MK7 Tablets",
+        "flavour": "Unflavoured",
+        "packaging": "Bottle",
+        "source": "Lichen (D3 label claim)",
+        "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_8-NB-OSA-1006-01-1787392738.jpg",
+        "labelSources": [
+          "https://nutrabay.com/product/osoaa-vitamin-d3-k2-mk7-tablets-plant-based-lichen-source-600-iu-vitamin-d/?pId=6057952&vId=8946939",
+          "https://cdn2.nutrabay.com/uploads/variant/images/image_8-NB-OSA-1006-01-1787392738.jpg"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "retailer",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+        "notes": "Only explicitly checked label values are recorded. Rounded advertised serving counts do not replace net grams or verified unit counts.",
+        "retailer": "Nutrabay",
+        "form": "Tablet",
+        "servingUnits": 1,
+        "type": "D3 (cholecalciferol) from lichen",
+        "subclass": "D3 + K2 MK7 + B12",
+        "vitaminDIu": 600,
+        "vitaminDMcg": 15,
+        "vitaminK2Mcg": 55,
+        "vitaminB12Mcg": 2.2,
+        "energyPerServing": 0.2,
+        "declaredNutrients": [
+          "vitaminDIu",
+          "vitaminDMcg",
+          "vitaminK2Mcg"
+        ],
+        "packCount": 120,
+        "category": "vitamin-d",
+        "kind": "nutrabay-product",
+        "base": "https://nutrabay.com",
+        "productUrl": "https://nutrabay.com/product/osoaa-vitamin-d3-k2-mk7-tablets-plant-based-lichen-source-600-iu-vitamin-d/?pId=6057952&vId=8946939",
+        "variantUrl": "https://nutrabay.com/product/osoaa-vitamin-d3-k2-mk7-tablets-plant-based-lichen-source-600-iu-vitamin-d/?pId=6057952&vId=8946939",
+        "variantId": "8946939",
+        "productId": "6057952",
+        "variantSku": "NB-OSA-1006-01",
+        "variantAttributes": {
+          "pa_pack-size": "120 Tabs"
+        },
+        "cacheKey": "nutrabay-8946939",
+        "allowRetailMultipack": true
+      }
+    },
+    {
+      "order": 376,
+      "profile": {
+        "id": "vitamin-d-nb-2236744",
+        "brand": "OSOAA",
+        "product": "OSOAA Vitamin D3 K2 MK7 Tablets",
+        "flavour": "Unflavoured",
+        "packaging": "Bottle",
+        "source": "Lichen (D3 label claim)",
+        "nutritionUrl": "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-OSA-1006-02-1789059086.jpg",
+        "labelSources": [
+          "https://nutrabay.com/product/osoaa-vitamin-d3-k2-mk7-tablets-plant-based-lichen-source-600-iu-vitamin-d/?pId=6057952&vId=2236744",
+          "https://cdn2.nutrabay.com/uploads/variant/images/image_6-NB-OSA-1006-02-1789059086.jpg"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "retailer",
+        "basis": "Exact selected Nutrabay variant and current gallery composition panel reviewed. Amounts use the declared label serving; retail size, price and stock use the selected product ID, variant ID and SKU. Manufacturer declarations are not independent assay results.",
+        "notes": "The selected 60-tablet gallery shares a nutrition illustration showing 120 servings; the exact selected retail count is 60. Per-tablet composition is retained with this illustration-count limitation.",
+        "retailer": "Nutrabay",
+        "form": "Tablet",
+        "servingUnits": 1,
+        "type": "D3 (cholecalciferol) from lichen",
+        "subclass": "D3 + K2 MK7 + B12",
+        "vitaminDIu": 600,
+        "vitaminDMcg": 15,
+        "vitaminK2Mcg": 55,
+        "vitaminB12Mcg": 2.2,
+        "energyPerServing": 0.2,
+        "declaredNutrients": [
+          "vitaminDIu",
+          "vitaminDMcg",
+          "vitaminK2Mcg"
+        ],
+        "packCount": 60,
+        "category": "vitamin-d",
+        "kind": "nutrabay-product",
+        "base": "https://nutrabay.com",
+        "productUrl": "https://nutrabay.com/product/osoaa-vitamin-d3-k2-mk7-tablets-plant-based-lichen-source-600-iu-vitamin-d/?pId=6057952&vId=2236744",
+        "variantUrl": "https://nutrabay.com/product/osoaa-vitamin-d3-k2-mk7-tablets-plant-based-lichen-source-600-iu-vitamin-d/?pId=6057952&vId=2236744",
+        "variantId": "2236744",
+        "productId": "6057952",
+        "variantSku": "NB-OSA-1006-02",
+        "variantAttributes": {
+          "pa_pack-size": "60 Tabs"
+        },
+        "cacheKey": "nutrabay-2236744",
+        "allowRetailMultipack": true
+      }
+    }
+  ]
+}

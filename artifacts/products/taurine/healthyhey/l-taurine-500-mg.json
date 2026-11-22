@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "category": "taurine",
+  "brand": "HealthyHey",
+  "product": "L-Taurine 500 mg",
+  "variants": [
+    {
+      "order": 1,
+      "offer": {
+        "brand": "HealthyHey",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-11-17",
+        "packCount": 120,
+        "servingUnits": 1,
+        "servingGrams": null,
+        "grams": null,
+        "flavour": "Unflavoured",
+        "product": "L-Taurine 500 mg",
+        "form": "Capsule",
+        "type": "Taurine",
+        "subclass": "Vegetarian capsules",
+        "taurineMg": 500,
+        "energyPerServing": 0,
+        "declaredNutrients": [
+          "taurineMg"
+        ],
+        "basis": "Official back label states one vegetarian capsule (0.67 g), 120 servings per container and L-taurine 500 mg per serving.",
+        "notes": "Capsule total mass includes excipients; 500 mg is the declared L-taurine amount, not capsule weight.",
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-nutrition-capsule-l-taurine-support-muscle-recovery-amino-acid-supplement-120-veg-capsules-1239034262.png?v=1780894393"
+        ],
+        "searchAliases": [
+          "l taurine",
+          "taurine capsules"
+        ],
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-nutrition-capsule-l-taurine-support-muscle-recovery-amino-acid-supplement-120-veg-capsules-1239034262.png?v=1780894393",
+        "id": "taurine-44683658330397",
+        "price": 599,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://healthyhey.com/products/healthyhey-nutrition-l-taurine-500-mg-amino-acid-supplement-120-vegetable-capsules?variant=44683658330397",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://healthyhey.com/products/healthyhey-nutrition-l-taurine-500-mg-amino-acid-supplement-120-vegetable-capsules?variant=44683658330397",
+          "evidenceUrl": "https://healthyhey.com/products/healthyhey-nutrition-l-taurine-500-mg-amino-acid-supplement-120-vegetable-capsules.json",
+          "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3838,
+      "observation": {
+        "category": "taurine",
+        "offerId": "taurine-44683658330397",
+        "date": "2026-11-17",
+        "price": 569,
+        "currency": "INR",
+        "sourceUrl": "https://healthyhey.com/products/healthyhey-nutrition-l-taurine-500-mg-amino-acid-supplement-120-vegetable-capsules?variant=44683658330397",
+        "evidenceUrl": "https://healthyhey.com/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "44683658330397",
+        "matchBasis": "Official public Shopify feed fetched 2026-11-17; exact variant ID, unconditional listed single-pack price and stock matched. Retail net quantity and serving use the official label, not shipping weight."
+      }
+    },
+    {
+      "order": 4032,
+      "observation": {
+        "category": "taurine",
+        "offerId": "taurine-44683658330397",
+        "date": "2026-11-19",
+        "price": 599,
+        "currency": "INR",
+        "sourceUrl": "https://healthyhey.com/products/healthyhey-nutrition-l-taurine-500-mg-amino-acid-supplement-120-vegetable-capsules?variant=44683658330397",
+        "evidenceUrl": "https://healthyhey.com/products/healthyhey-nutrition-l-taurine-500-mg-amino-acid-supplement-120-vegetable-capsules.json",
+        "kind": "official-live",
+        "variantId": "44683658330397",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 122,
+      "profile": {
+        "category": "taurine",
+        "brand": "HealthyHey",
+        "base": "https://healthyhey.com",
+        "handle": "healthyhey-nutrition-l-taurine-500-mg-amino-acid-supplement-120-vegetable-capsules",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-11-17",
+        "variantIds": [
+          "44683658330397"
+        ],
+        "packCount": 120,
+        "servingUnits": 1,
+        "servingGrams": null,
+        "grams": null,
+        "flavour": "Unflavoured",
+        "product": "L-Taurine 500 mg",
+        "form": "Capsule",
+        "type": "Taurine",
+        "subclass": "Vegetarian capsules",
+        "taurineMg": 500,
+        "energyPerServing": 0,
+        "declaredNutrients": [
+          "taurineMg"
+        ],
+        "basis": "Official back label states one vegetarian capsule (0.67 g), 120 servings per container and L-taurine 500 mg per serving.",
+        "notes": "Capsule total mass includes excipients; 500 mg is the declared L-taurine amount, not capsule weight.",
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-nutrition-capsule-l-taurine-support-muscle-recovery-amino-acid-supplement-120-veg-capsules-1239034262.png?v=1780894393"
+        ],
+        "searchAliases": [
+          "l taurine",
+          "taurine capsules"
+        ],
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/2181/1153/files/healthyhey-nutrition-capsule-l-taurine-support-muscle-recovery-amino-acid-supplement-120-veg-capsules-1239034262.png?v=1780894393"
+      }
+    }
+  ]
+}

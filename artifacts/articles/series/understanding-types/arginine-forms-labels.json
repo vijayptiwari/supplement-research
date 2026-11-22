@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "order": 52,
+  "article": {
+    "id": "arginine-forms-labels",
+    "category": "l-arginine",
+    "series": "understanding-types",
+    "title": "Arginine forms: what AAKG, free form and a pump blend actually tell you",
+    "summary": "Separate the ingredient, its declared amount and its packaging before paying for an arginine upgrade.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "An arginine label can describe an amino acid, a compound containing it, or a mixture that includes it. These descriptions do not answer the same question. AAKG is not simply a longer spelling of free L-arginine, while a capsule is a delivery format rather than an improved molecule. This article explains how to identify those layers and assess the evidence behind a price difference without assuming that every formulation is effective.",
+    "sections": [
+      {
+        "id": "identity-before-amount",
+        "title": "Identify the material before comparing grams",
+        "body": "Start with the ingredient panel and the complete label serving. Ask whether its number refers to free L-arginine, an arginine-containing compound or the whole mixture. A product name alone cannot resolve that basis. The associated material in a compound contributes to its weight; flavourings and other ingredients contribute to a powder scoop. If the label does not establish an equivalent arginine amount, retain that uncertainty. An apparently cheaper gram may represent a different material rather than a better purchase.",
+        "sourceIds": [
+          "supplement-quality-ods",
+          "pe-arginine-aakg-training-2006"
+        ]
+      },
+      {
+        "id": "aakg-studies",
+        "title": "Read the outcome rather than the form’s reputation",
+        "body": "A training study of AAKG reported favourable results for selected strength and power measures, while several other outcomes did not differ. A separate acute crossover experiment found no improvement in its strength or total-load measures. The protocols asked different questions; neither provides a universal ranking of every AAKG and free-arginine product. Look for a relevant comparator and endpoint before treating a formulation name as established superiority. A positive result for a defined preparation also does not verify the contents of a later retail batch.",
+        "sourceIds": [
+          "pe-arginine-aakg-training-2006",
+          "pe-arginine-aakg-acute-2012"
+        ]
+      },
+      {
+        "id": "evidence-and-processing",
+        "title": "More soluble, faster or more complex needs its own justification",
+        "body": "Dissolution, blood concentrations and training adaptation belong to different stages of the evidence chain. A processing change can alter an early stage without establishing a meaningful final benefit. Likewise, adding several nitric-oxide-related ingredients makes attribution harder: a blend result cannot tell you what each component contributed. Ask what was directly compared and whether amounts were disclosed. A laboratory rationale can explain why researchers investigated something; it does not complete the clinical comparison or establish an appropriate personal regimen.",
+        "sourceIds": [
+          "pe-arginine-aakg-training-2006",
+          "preworkout-review",
+          "citrulline-forms-trial"
+        ]
+      },
+      {
+        "id": "purchase-filter",
+        "title": "Use a short list of purchase questions",
+        "body": "A useful shortlist records ingredient identity, quantity per full serving, usable servings, co-ingredients and dated price on the same basis. Keep independent quality documentation separate from efficacy research: composition testing does not demonstrate muscle gain. Check whether another pre-workout already supplies arginine before adding a second tub. Review medicines or relevant health conditions before experimenting, especially after a heart attack. If the proposed benefit remains vague and the nutritional or training problem has not been identified, postponing the purchase is a reasonable decision.",
+        "sourceIds": [
+          "supplement-quality-ods",
+          "arginine-mi",
+          "preworkout-review"
+        ]
+      }
+    ],
+    "forms": [
+      {
+        "name": "Free L-arginine",
+        "kind": "ingredient",
+        "description": "The individual amino acid, rather than the complete weight of an AAKG compound or a multi-ingredient mixture.",
+        "metabolism": "It enters several normal amino-acid pathways; providing a substrate does not make one pathway a guaranteed bottleneck.",
+        "evidence": "Exercise findings are inconsistent, so the simple ingredient identity should not be confused with an established performance effect.",
+        "value": "Compare a clearly declared amount and evidence for the intended outcome.",
+        "sourceIds": [
+          "exercise"
+        ]
+      },
+      {
+        "name": "Arginine alpha-ketoglutarate (AAKG)",
+        "kind": "ingredient",
+        "description": "An arginine-containing preparation associated with alpha-ketoglutarate. Its total compound amount should be identified separately from free arginine.",
+        "metabolism": "The preparation can change exposure, but an exposure difference does not automatically establish improved muscle adaptation.",
+        "evidence": "Human studies using different protocols have produced different outcome patterns; they do not establish a universal premium.",
+        "value": "Require a clear label basis and a relevant direct comparison.",
+        "sourceIds": [
+          "pe-arginine-aakg-training-2006",
+          "pe-arginine-aakg-acute-2012"
+        ]
+      },
+      {
+        "name": "Arginine in a pump or pre-workout blend",
+        "kind": "ingredient",
+        "description": "A mixture may include arginine alongside citrulline, caffeine or other ingredients, sometimes without all individual quantities.",
+        "metabolism": "Components have separate pathways; the label’s combined mass does not become a single nitric-oxide potency measure.",
+        "evidence": "Evidence for one ingredient cannot validate an undisclosed mixture or determine which component caused a reported effect.",
+        "value": "Check every amount and existing-product overlap before considering a blend premium.",
+        "sourceIds": [
+          "preworkout-review",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "name": "Powder",
+        "kind": "delivery",
+        "description": "A measured format that may contain one ingredient or many. A scoop’s weight is the entire formulation.",
+        "metabolism": "The underlying ingredient still determines the relevant metabolic question; being loose powder is not a new biological mechanism.",
+        "evidence": "Powder format alone does not establish better uptake, performance or independent verification of the stated content.",
+        "value": "Use complete-serving amounts and ingredient-specific cost, rather than tub size alone.",
+        "sourceIds": [
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "name": "Capsules or tablets",
+        "kind": "delivery",
+        "description": "Counted units can improve portability, but one unit need not contain the complete serving declared on the label.",
+        "metabolism": "The units must release their ingredient; convenient packaging does not make an arginine compound equivalent to another form.",
+        "evidence": "A capsule-wide superiority claim needs evidence beyond trials of an ingredient supplied under a different regimen.",
+        "value": "Calculate units per full serving and pack duration before comparing prices.",
+        "sourceIds": [
+          "supplement-quality-ods",
+          "pe-arginine-aakg-training-2006"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "supplement-quality-ods",
+      "pe-arginine-aakg-training-2006",
+      "pe-arginine-aakg-acute-2012",
+      "preworkout-review",
+      "citrulline-forms-trial",
+      "arginine-mi",
+      "exercise"
+    ]
+  }
+}

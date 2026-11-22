@@ -1,0 +1,245 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "Nutrabox",
+  "product": "Plant Protein",
+  "variants": [
+    {
+      "order": 588,
+      "offer": {
+        "id": 588,
+        "brand": "Nutrabox",
+        "product": "Plant Protein",
+        "type": "Plant — pea + rice",
+        "flavour": "CHOCOLATE",
+        "kg": 1,
+        "price": 1399,
+        "stock": "In stock",
+        "protein": 70,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Plant blend (pea + rice)",
+        "energy": 387.4,
+        "url": "https://nutrabox.in/products/plant-based-protein-100-vegan-organic-for-bodybuilding?variant=41638578258094",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0038/0656/0365/files/nutritional_info_of_nutrabox_plant_protein_chocolate.jpg?v=1792740853",
+        "basis": "24.5g protein / 35g serving; brand description",
+        "notes": "Brand product-page serving basis; flavour-specific label values may vary. Label/table protein differs from the existing catalog basis. Existing indicative protein % retained; verify exact pack. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-matched label image, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nutrabox.in/products/plant-based-protein-100-vegan-organic-for-bodybuilding?variant=41638578258094",
+          "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 589,
+      "offer": {
+        "id": 589,
+        "brand": "Nutrabox",
+        "product": "Plant Protein",
+        "type": "Plant — pea + rice",
+        "flavour": "COFFEE",
+        "kg": 1,
+        "price": 1399,
+        "stock": "In stock",
+        "protein": 70,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Plant blend (pea + rice)",
+        "energy": 376.8,
+        "url": "https://nutrabox.in/products/plant-based-protein-100-vegan-organic-for-bodybuilding?variant=41844568522926",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0038/0656/0365/files/nutritional_info_of_nutrabox_plant_protein_coffee.jpg?v=1792740863",
+        "basis": "24.5g protein / 35g serving; brand description",
+        "notes": "Brand product-page serving basis; flavour-specific label values may vary. Label/table protein differs from the existing catalog basis. Existing indicative protein % retained; verify exact pack. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-matched label image, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nutrabox.in/products/plant-based-protein-100-vegan-organic-for-bodybuilding?variant=41844568522926",
+          "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 590,
+      "offer": {
+        "id": 590,
+        "brand": "Nutrabox",
+        "product": "Plant Protein",
+        "type": "Plant — pea + rice",
+        "flavour": "MANGO",
+        "kg": 1,
+        "price": 1399,
+        "stock": "In stock",
+        "protein": 70,
+        "scoop": 35,
+        "serving": 35,
+        "subclass": "Plant blend (pea + rice)",
+        "energy": 382.1,
+        "url": "https://nutrabox.in/products/plant-based-protein-100-vegan-organic-for-bodybuilding?variant=41844568490158",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0038/0656/0365/files/nutritional_info_of_nutrabox_plant_protein_mango.jpg?v=1792740875",
+        "basis": "24.5g protein / 35g serving; brand description",
+        "notes": "Brand product-page serving basis; flavour-specific label values may vary. Label/table protein differs from the existing catalog basis. Existing indicative protein % retained; verify exact pack. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-matched label image, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nutrabox.in/products/plant-based-protein-100-vegan-organic-for-bodybuilding?variant=41844568490158",
+          "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 1513,
+      "observation": {
+        "category": "protein",
+        "offerId": 588,
+        "date": "2025-12-14",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/plant-based-protein-100-vegan-organic-for-bodybuilding?variant=41638578258094",
+        "evidenceUrl": "https://web.archive.org/web/20251214021517id_/https://nutrabox.in/products/plant-based-protein-100-vegan-organic-for-bodybuilding",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "41638578258094",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1514,
+      "observation": {
+        "category": "protein",
+        "offerId": 589,
+        "date": "2025-12-14",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/plant-based-protein-100-vegan-organic-for-bodybuilding?variant=41844568522926",
+        "evidenceUrl": "https://web.archive.org/web/20251214021517id_/https://nutrabox.in/products/plant-based-protein-100-vegan-organic-for-bodybuilding",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "41844568522926",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1515,
+      "observation": {
+        "category": "protein",
+        "offerId": 590,
+        "date": "2025-12-14",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/plant-based-protein-100-vegan-organic-for-bodybuilding?variant=41844568490158",
+        "evidenceUrl": "https://web.archive.org/web/20251214021517id_/https://nutrabox.in/products/plant-based-protein-100-vegan-organic-for-bodybuilding",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "41844568490158",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2777,
+      "observation": {
+        "category": "protein",
+        "offerId": 588,
+        "date": "2026-10-25",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/plant-based-protein-100-vegan-organic-for-bodybuilding?variant=41638578258094",
+        "evidenceUrl": "https://nutrabox.in/products/plant-based-protein-100-vegan-organic-for-bodybuilding.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "41638578258094"
+      }
+    },
+    {
+      "order": 2778,
+      "observation": {
+        "category": "protein",
+        "offerId": 589,
+        "date": "2026-10-25",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/plant-based-protein-100-vegan-organic-for-bodybuilding?variant=41844568522926",
+        "evidenceUrl": "https://nutrabox.in/products/plant-based-protein-100-vegan-organic-for-bodybuilding.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "41844568522926"
+      }
+    },
+    {
+      "order": 2779,
+      "observation": {
+        "category": "protein",
+        "offerId": 590,
+        "date": "2026-10-25",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/plant-based-protein-100-vegan-organic-for-bodybuilding?variant=41844568490158",
+        "evidenceUrl": "https://nutrabox.in/products/plant-based-protein-100-vegan-organic-for-bodybuilding.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "41844568490158"
+      }
+    },
+    {
+      "order": 4635,
+      "observation": {
+        "category": "protein",
+        "offerId": 588,
+        "date": "2026-11-19",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/plant-based-protein-100-vegan-organic-for-bodybuilding?variant=41638578258094",
+        "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "41638578258094"
+      }
+    },
+    {
+      "order": 4636,
+      "observation": {
+        "category": "protein",
+        "offerId": 589,
+        "date": "2026-11-19",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/plant-based-protein-100-vegan-organic-for-bodybuilding?variant=41844568522926",
+        "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "41844568522926"
+      }
+    },
+    {
+      "order": 4637,
+      "observation": {
+        "category": "protein",
+        "offerId": 590,
+        "date": "2026-11-19",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/plant-based-protein-100-vegan-organic-for-bodybuilding?variant=41844568490158",
+        "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "41844568490158"
+      }
+    }
+  ],
+  "refreshSources": []
+}

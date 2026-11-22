@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "order": 53,
+  "article": {
+    "id": "arginine-pump-evidence",
+    "category": "l-arginine",
+    "series": "practical-guides",
+    "title": "Does a bigger pump mean arginine is working? Read the evidence chain",
+    "summary": "Learn to separate a pathway, a sensation, a laboratory marker and a useful training outcome.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "A temporary feeling of fullness during a workout is easy to notice. Whether an ingredient improves performance or adaptation is harder to establish. Arginine marketing often moves quickly from nitric oxide to blood flow, then to a promise of strength, recovery or muscle growth. Each step needs evidence. Following that chain makes it easier to evaluate both enthusiastic claims and overly simple statements that a biologically active ingredient can do nothing.",
+    "sections": [
+      {
+        "id": "substrate-is-not-bottleneck",
+        "title": "A normal pathway does not identify the limiting step",
+        "body": "Arginine has several roles in human metabolism, including serving as a substrate for nitric-oxide production. That establishes biological relevance, not a diagnosis that an athlete lacks arginine or that extra oral intake improves a specific outcome. The body’s regulation, existing food intake and the intervention’s delivery all matter. A pathway drawing is therefore a starting explanation. It cannot supply the missing comparison between a supplement and an otherwise similar training programme without it, or tell a reader how much to take.",
+        "sourceIds": [
+          "exercise",
+          "food-performance-amino-acids"
+        ]
+      },
+      {
+        "id": "define-the-promise",
+        "title": "Translate the marketing promise into a measurable question",
+        "body": "Ask whether the claimed result is greater blood flow, more repetitions, a faster time, less soreness or increased muscle size over months. These measurements can move independently. A pump photograph cannot quantify long-term hypertrophy, and a before-and-after account does not isolate the supplement from changes in training or diet. Write down the outcome that would make a purchase worthwhile before searching for a favourable study. That simple step prevents a product from changing its success criterion whenever a more meaningful endpoint fails to improve.",
+        "sourceIds": [
+          "preworkout-review",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "acute-versus-training",
+        "title": "One workout and a training block are different experiments",
+        "body": "An acute AAKG crossover trial found no improvement in the tested maximal-strength or total-load outcomes. A longer AAKG study reported advantages in selected measures, but not in all the outcomes assessed. It is possible for two protocols to give different results without one settling every question. Consider the intervention period, participants and exercise tests, and resist selecting only the most favourable endpoint. Neither study establishes that all arginine forms are equivalent, nor that a stronger immediate sensation predicts a better longer-term result.",
+        "sourceIds": [
+          "pe-arginine-aakg-acute-2012",
+          "pe-arginine-aakg-training-2006"
+        ]
+      },
+      {
+        "id": "pooled-results",
+        "title": "A meta-analysis is only as reliable as its methods",
+        "body": "Pooling studies can be helpful, but it does not erase errors in the inputs or make dissimilar outcomes interchangeable. A methodological critique of a positive arginine synthesis raised concerns about data handling and analysis; the authors’ reply did not provide a corrected pooled estimate that resolves the original conclusion. The useful response is to retain uncertainty and inspect the underlying trials. A large-looking combined effect is not automatically more credible than a careful small study simply because the word meta-analysis appears in the title.",
+        "sourceIds": [
+          "arginine-meta",
+          "arginine-methods",
+          "arginine-reply"
+        ]
+      },
+      {
+        "id": "compare-ingredients",
+        "title": "Do not borrow another ingredient’s result",
+        "body": "Citrulline, free arginine and AAKG are related to overlapping physiological discussions but remain distinct interventions. A positive result for citrulline cannot be presented as a trial of an arginine tub. A pre-workout containing both creates another attribution problem, particularly if caffeine or other actives are also present. Check the ingredient and full serving used in the study against the marketed product. When the match is missing, describe the evidence as indirect rather than converting a plausible relationship into a product endorsement.",
+        "sourceIds": [
+          "citrulline-forms-trial",
+          "preworkout-review",
+          "exercise"
+        ]
+      },
+      {
+        "id": "safety-context",
+        "title": "A gym claim does not override medical context",
+        "body": "A cardiovascular mechanism can make a supplement sound inherently protective, yet a post-heart-attack arginine trial raised a safety concern. That population does not quantify the risk for a healthy athlete, but it clearly prevents a blanket heart-health recommendation. Medicines, blood-pressure management and relevant health conditions require review of the actual product. New symptoms during training should be assessed rather than explained away as proof that a pump ingredient is powerful. A sensation is not a useful self-test of either effectiveness or safety.",
+        "sourceIds": [
+          "arginine-mi",
+          "exercise"
+        ]
+      },
+      {
+        "id": "make-the-decision",
+        "title": "Use uncertainty in the buying decision",
+        "body": "Compare a transparent formulation with a defined purpose, then decide how much confidence the evidence actually supports. A lower price per labelled gram can improve a comparison between matching products; it cannot turn uncertain effectiveness into good value. Keep the training plan, food intake, tolerability and budget visible. If the only persuasive evidence is a mechanism or an immediate feeling, the case for an additional purchase remains weak. Choosing no arginine product can be an informed outcome rather than a missing step in a supposedly complete stack.",
+        "sourceIds": [
+          "supplement-quality-ods",
+          "exercise",
+          "preworkout-review"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "exercise",
+      "food-performance-amino-acids",
+      "preworkout-review",
+      "supplement-quality-ods",
+      "pe-arginine-aakg-acute-2012",
+      "pe-arginine-aakg-training-2006",
+      "arginine-meta",
+      "arginine-methods",
+      "arginine-reply",
+      "citrulline-forms-trial",
+      "arginine-mi"
+    ]
+  }
+}

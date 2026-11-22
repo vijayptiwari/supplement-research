@@ -1,0 +1,674 @@
+{
+  "schemaVersion": 1,
+  "order": 6,
+  "category": {
+    "id": "zmc",
+    "label": "ZMC",
+    "file": "zmc.json",
+    "page": "zmc.html",
+    "measurement": "units",
+    "mainNutrient": "multi",
+    "referenceQuantity": 1,
+    "referenceUnit": "label serving",
+    "compoundLabel": "labelled mineral combination",
+    "nutrientFields": [
+      {
+        "key": "calciumMg",
+        "label": "Elemental calcium",
+        "unit": "mg",
+        "table": true
+      },
+      {
+        "key": "magnesiumMg",
+        "label": "Elemental magnesium",
+        "unit": "mg",
+        "table": true
+      },
+      {
+        "key": "zincMg",
+        "label": "Elemental zinc",
+        "unit": "mg",
+        "table": true
+      },
+      {
+        "key": "vitaminDIu",
+        "label": "Vitamin D",
+        "unit": "IU",
+        "table": false
+      },
+      {
+        "key": "vitaminK2Mcg",
+        "label": "Vitamin K2",
+        "unit": "µg",
+        "table": false
+      },
+      {
+        "key": "calciumCompoundMg",
+        "label": "Calcium compound (not elemental)",
+        "unit": "mg",
+        "table": false
+      },
+      {
+        "key": "magnesiumCompoundMg",
+        "label": "Magnesium compound (not elemental)",
+        "unit": "mg",
+        "table": false
+      },
+      {
+        "key": "zincCompoundMg",
+        "label": "Zinc compound (not elemental)",
+        "unit": "mg",
+        "table": false
+      }
+    ],
+    "comparisonNote": "ZMC means zinc + magnesium + calcium. Compare cost per label serving and each declared elemental mineral separately; the three mineral masses are not added into a single strength score."
+  },
+  "catalog": {
+    "checked": "2026-11-20",
+    "category": "zmc"
+  },
+  "guide": {
+    "id": "zmc-guide",
+    "category": "zmc",
+    "title": "ZMC: assess zinc, magnesium and calcium separately",
+    "summary": "A three-mineral tablet is a formulation choice, not a single active ingredient with one meaningful strength score.",
+    "evidence": "Each mineral has established nutritional roles. Evidence about individual nutrients does not demonstrate that every ZMC combination improves outcomes.",
+    "limitations": "This guide makes no combination-specific efficacy claim. Product ratios, baseline diet, clinical need and co-ingredients differ; ZMA studies are not evidence for calcium-containing ZMC products.",
+    "catalogReading": "Review the elemental amount of each mineral, the label serving and its cost. Do not add their masses into a combined value score or treat calcium-salt weight as elemental calcium.",
+    "safety": "Check overlapping supplements and medicines. Excess zinc can affect copper status; calcium and magnesium can interfere with absorption of some medicines.",
+    "sourceIds": [
+      "ca-overview",
+      "mg-overview",
+      "zn-overview",
+      "supplement-quality-ods"
+    ],
+    "reviewed": "2026-11-18",
+    "author": "Supplement Research editorial synthesis",
+    "bodySteps": [
+      "The tablet releases separate calcium, magnesium and zinc compounds in the digestive tract.",
+      "Intestinal absorption and regulation differ for each mineral; vitamin D supports active calcium absorption.",
+      "Calcium supports bone and signalling functions, magnesium supports enzyme activity, and zinc supports many cellular processes."
+    ],
+    "bodySources": [
+      "ca-overview",
+      "mg-overview",
+      "zn-overview"
+    ],
+    "treatment": "An appropriate individual mineral can correct its deficiency. This is not evidence that a ZMC combination cures osteoporosis, low testosterone or a general immunity problem.",
+    "whoMayBenefit": "Someone with assessed needs for the included minerals may consider a combination if its amounts fit the plan; a single deficient nutrient may need a different product.",
+    "routineUse": "No universal requirement for a three-mineral stack. Review each mineral separately and check overlap with other supplements.",
+    "sectionSources": [
+      "ca-overview",
+      "mg-overview",
+      "zn-overview"
+    ],
+    "buyingGuide": {
+      "whoCanConsider": [
+        "Adults whose separate calcium, magnesium and zinc assessments identify needs that match a combination product.",
+        "People simplifying an established mineral plan after checking amounts and duplication with a clinician or dietitian."
+      ],
+      "whoShouldReview": [
+        "Kidney disease, kidney-stone history or high blood calcium requires review.",
+        "Levothyroxine, oral bisphosphonates and certain antibiotics can interact with mineral supplements.",
+        "Existing mineral products need a total-intake check, including zinc exposure and copper balance."
+      ],
+      "foodSummary": "ZMC is three nutrients combined in a product. A varied diet supplies the minerals in different proportions; it need not reproduce a tablet's ratio.",
+      "foods": [
+        {
+          "name": "Yogurt, plain, low fat",
+          "relationship": "direct",
+          "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": null,
+          "amounts": [
+            {
+              "nutrient": "Calcium",
+              "min": 415,
+              "max": null,
+              "unit": "mg",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "8 ounces"
+              },
+              "sourceIds": [
+                "ca-overview"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pumpkin seeds, roasted",
+          "relationship": "direct",
+          "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": null,
+          "amounts": [
+            {
+              "nutrient": "Zinc",
+              "min": 2.2,
+              "max": null,
+              "unit": "mg",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "1 ounce"
+              },
+              "sourceIds": [
+                "zn-overview"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pumpkin seeds, roasted",
+          "relationship": "direct",
+          "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": null,
+          "amounts": [
+            {
+              "nutrient": "Magnesium",
+              "min": 156,
+              "max": null,
+              "unit": "mg",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "1 ounce"
+              },
+              "sourceIds": [
+                "mg-overview"
+              ]
+            }
+          ]
+        }
+      ],
+      "foodSourceIds": [
+        "ca-overview",
+        "mg-overview",
+        "zn-overview"
+      ],
+      "value": {
+        "routineScore": 1,
+        "targetedScore": 3,
+        "targetedUse": "A convenience combination when individually reviewed needs for all three minerals match the product amounts.",
+        "reason": "The minerals are essential, but their individual roles do not establish that a fixed combination is the best purchase.",
+        "worthWhen": [
+          "Each elemental amount fits a specific plan.",
+          "The combination reduces practical burden without unnecessary overlap."
+        ],
+        "skipWhen": [
+          "Only one mineral needs attention.",
+          "The purchase relies on combined-mass, testosterone or universal recovery claims."
+        ],
+        "evidence": "limited",
+        "scope": "This grades the added purchase value of a fixed ZMC combination; evidence for treating individual nutrient needs is a separate question.",
+        "sourceIds": [
+          "ca-overview",
+          "mg-overview",
+          "zn-overview"
+        ]
+      },
+      "reviewed": "2026-11-18",
+      "practices": {
+        "dos": [
+          {
+            "title": "Check each mineral separately",
+            "detail": "Read elemental calcium, magnesium and zinc on the same verified label-serving basis."
+          },
+          {
+            "title": "Review the complete combination",
+            "detail": "Check co-vitamins and existing products; a fixed combination should fit the actual plan without unnecessary overlap."
+          }
+        ],
+        "donts": [
+          {
+            "title": "Don't add mineral masses into potency",
+            "detail": "A combined milligram headline does not measure value, and salt weights are not elemental mineral amounts."
+          },
+          {
+            "title": "Don't buy a combination by default",
+            "detail": "When only one nutrient needs attention, a broad formula may add unnecessary ingredients rather than practical value."
+          }
+        ],
+        "sourceIds": [
+          "ca-overview",
+          "mg-overview",
+          "zn-overview"
+        ]
+      }
+    },
+    "intakeGuide": {
+      "kind": "daily-target",
+      "summary": "Use individual elemental mineral references; there is no combined ZMC requirement or exercise multiplier.",
+      "targets": [
+        {
+          "key": "magnesiumMg",
+          "label": "Elemental magnesium",
+          "min": 400,
+          "max": null,
+          "unit": "mg",
+          "basis": "total-daily",
+          "perKg": false,
+          "profileIds": [
+            "everyday",
+            "general-fitness",
+            "strength-power",
+            "hypertrophy",
+            "endurance",
+            "hybrid"
+          ],
+          "sex": "male",
+          "minAge": 19,
+          "maxAge": 30,
+          "referenceType": "RDA",
+          "notes": "",
+          "sourceIds": [
+            "mg-overview"
+          ]
+        },
+        {
+          "key": "magnesiumMg",
+          "label": "Elemental magnesium",
+          "min": 420,
+          "max": null,
+          "unit": "mg",
+          "basis": "total-daily",
+          "perKg": false,
+          "profileIds": [
+            "everyday",
+            "general-fitness",
+            "strength-power",
+            "hypertrophy",
+            "endurance",
+            "hybrid"
+          ],
+          "sex": "male",
+          "minAge": 31,
+          "maxAge": null,
+          "referenceType": "RDA",
+          "notes": "",
+          "sourceIds": [
+            "mg-overview"
+          ]
+        },
+        {
+          "key": "magnesiumMg",
+          "label": "Elemental magnesium",
+          "min": 310,
+          "max": null,
+          "unit": "mg",
+          "basis": "total-daily",
+          "perKg": false,
+          "profileIds": [
+            "everyday",
+            "general-fitness",
+            "strength-power",
+            "hypertrophy",
+            "endurance",
+            "hybrid"
+          ],
+          "sex": "female",
+          "minAge": 19,
+          "maxAge": 30,
+          "referenceType": "RDA",
+          "notes": "",
+          "sourceIds": [
+            "mg-overview"
+          ]
+        },
+        {
+          "key": "magnesiumMg",
+          "label": "Elemental magnesium",
+          "min": 320,
+          "max": null,
+          "unit": "mg",
+          "basis": "total-daily",
+          "perKg": false,
+          "profileIds": [
+            "everyday",
+            "general-fitness",
+            "strength-power",
+            "hypertrophy",
+            "endurance",
+            "hybrid"
+          ],
+          "sex": "female",
+          "minAge": 31,
+          "maxAge": null,
+          "referenceType": "RDA",
+          "notes": "",
+          "sourceIds": [
+            "mg-overview"
+          ]
+        },
+        {
+          "key": "zincMg",
+          "label": "Elemental zinc",
+          "min": 11,
+          "max": null,
+          "unit": "mg",
+          "basis": "total-daily",
+          "perKg": false,
+          "profileIds": [
+            "everyday",
+            "general-fitness",
+            "strength-power",
+            "hypertrophy",
+            "endurance",
+            "hybrid"
+          ],
+          "sex": "male",
+          "minAge": 19,
+          "maxAge": null,
+          "referenceType": "RDA",
+          "notes": "",
+          "sourceIds": [
+            "zn-overview"
+          ]
+        },
+        {
+          "key": "zincMg",
+          "label": "Elemental zinc",
+          "min": 8,
+          "max": null,
+          "unit": "mg",
+          "basis": "total-daily",
+          "perKg": false,
+          "profileIds": [
+            "everyday",
+            "general-fitness",
+            "strength-power",
+            "hypertrophy",
+            "endurance",
+            "hybrid"
+          ],
+          "sex": "female",
+          "minAge": 19,
+          "maxAge": null,
+          "referenceType": "RDA",
+          "notes": "",
+          "sourceIds": [
+            "zn-overview"
+          ]
+        },
+        {
+          "key": "calciumMg",
+          "label": "Elemental calcium",
+          "min": 1000,
+          "max": null,
+          "unit": "mg",
+          "basis": "total-daily",
+          "perKg": false,
+          "profileIds": [
+            "everyday",
+            "general-fitness",
+            "strength-power",
+            "hypertrophy",
+            "endurance",
+            "hybrid"
+          ],
+          "sex": "any",
+          "minAge": 19,
+          "maxAge": 50,
+          "referenceType": "RDA",
+          "notes": "",
+          "sourceIds": [
+            "ca-overview"
+          ]
+        },
+        {
+          "key": "calciumMg",
+          "label": "Elemental calcium",
+          "min": 1000,
+          "max": null,
+          "unit": "mg",
+          "basis": "total-daily",
+          "perKg": false,
+          "profileIds": [
+            "everyday",
+            "general-fitness",
+            "strength-power",
+            "hypertrophy",
+            "endurance",
+            "hybrid"
+          ],
+          "sex": "male",
+          "minAge": 51,
+          "maxAge": 70,
+          "referenceType": "RDA",
+          "notes": "",
+          "sourceIds": [
+            "ca-overview"
+          ]
+        },
+        {
+          "key": "calciumMg",
+          "label": "Elemental calcium",
+          "min": 1200,
+          "max": null,
+          "unit": "mg",
+          "basis": "total-daily",
+          "perKg": false,
+          "profileIds": [
+            "everyday",
+            "general-fitness",
+            "strength-power",
+            "hypertrophy",
+            "endurance",
+            "hybrid"
+          ],
+          "sex": "female",
+          "minAge": 51,
+          "maxAge": 70,
+          "referenceType": "RDA",
+          "notes": "",
+          "sourceIds": [
+            "ca-overview"
+          ]
+        },
+        {
+          "key": "calciumMg",
+          "label": "Elemental calcium",
+          "min": 1200,
+          "max": null,
+          "unit": "mg",
+          "basis": "total-daily",
+          "perKg": false,
+          "profileIds": [
+            "everyday",
+            "general-fitness",
+            "strength-power",
+            "hypertrophy",
+            "endurance",
+            "hybrid"
+          ],
+          "sex": "any",
+          "minAge": 71,
+          "maxAge": null,
+          "referenceType": "RDA",
+          "notes": "",
+          "sourceIds": [
+            "ca-overview"
+          ]
+        }
+      ],
+      "limits": [
+        {
+          "key": "magnesiumMg",
+          "label": "Supplemental magnesium UL",
+          "max": 350,
+          "unit": "mg",
+          "basis": "supplement-daily",
+          "minAge": 19,
+          "maxAge": null,
+          "notes": "Includes supplements and medicines; excludes magnesium naturally in food. Kidney disease needs clinical review.",
+          "sourceIds": [
+            "mg-overview"
+          ]
+        },
+        {
+          "key": "zincMg",
+          "label": "Zinc UL",
+          "max": 40,
+          "unit": "mg",
+          "basis": "total-daily",
+          "minAge": 19,
+          "maxAge": null,
+          "notes": "",
+          "sourceIds": [
+            "zn-overview"
+          ]
+        },
+        {
+          "key": "calciumMg",
+          "label": "Calcium UL",
+          "max": 2500,
+          "unit": "mg",
+          "basis": "total-daily",
+          "minAge": 19,
+          "maxAge": 50,
+          "notes": "",
+          "sourceIds": [
+            "ca-overview"
+          ]
+        },
+        {
+          "key": "calciumMg",
+          "label": "Calcium UL",
+          "max": 2000,
+          "unit": "mg",
+          "basis": "total-daily",
+          "minAge": 51,
+          "maxAge": null,
+          "notes": "",
+          "sourceIds": [
+            "ca-overview"
+          ]
+        }
+      ],
+      "notes": [
+        "No automatic dose increase is assigned for training frequency or experience."
+      ],
+      "sourceIds": [
+        "mg-overview",
+        "zn-overview",
+        "ca-overview"
+      ],
+      "reviewed": "2026-11-17"
+    },
+    "medicalGuide": {
+      "summary": "Condition-specific evidence, separate from sports benefits and purchase priority.",
+      "conditions": [
+        {
+          "condition": "Individual mineral deficiencies",
+          "level": "established",
+          "findings": "Replace the deficient mineral when indicated; this does not validate every combined ZMC formula.",
+          "limits": "An appropriate individual mineral can correct its deficiency. This is not evidence that a ZMC combination cures osteoporosis, low testosterone or a general immunity problem.",
+          "sourceIds": [
+            "ca-overview",
+            "mg-overview",
+            "zn-overview"
+          ]
+        },
+        {
+          "condition": "Osteoporosis",
+          "level": "conditional",
+          "findings": "Adequate calcium and vitamin D can support a broader care plan; ZMC does not replace fracture-risk assessment or prescribed treatment.",
+          "limits": "An appropriate individual mineral can correct its deficiency. This is not evidence that a ZMC combination cures osteoporosis, low testosterone or a general immunity problem.",
+          "sourceIds": [
+            "ca-overview",
+            "mg-overview",
+            "zn-overview"
+          ]
+        }
+      ],
+      "reviewed": "2026-11-17"
+    },
+    "pathway": {
+      "title": "Three minerals follow separate routes",
+      "summary": "Zinc, magnesium and calcium are distinct ions with their own absorption and regulation. A combination tablet does not create a shared metabolic pathway.",
+      "tracks": [
+        {
+          "label": "Calcium: mineral balance and signalling",
+          "steps": [
+            {
+              "label": "Calcium is released and absorbed",
+              "detail": "Intestinal calcium absorption depends on the food or compound, dose and vitamin D status.",
+              "compartment": "Intestine",
+              "icon": "digest"
+            },
+            {
+              "label": "Circulating calcium is tightly regulated",
+              "detail": "The body controls a small circulating calcium pool while bone holds most calcium stores.",
+              "compartment": "Blood / bone",
+              "icon": "blood"
+            },
+            {
+              "label": "Calcium supports bone and signalling",
+              "detail": "Calcium provides bone structure and participates in muscle, nerve and other cellular signals.",
+              "compartment": "Bone / cells",
+              "icon": "bone"
+            }
+          ]
+        },
+        {
+          "label": "Magnesium: enzyme and ion functions",
+          "steps": [
+            {
+              "label": "Dissolved compounds supply magnesium ions",
+              "detail": "The intestine absorbs a proportion of dietary magnesium; compound and dose affect availability.",
+              "compartment": "Intestine",
+              "icon": "digest"
+            },
+            {
+              "label": "Cells use magnesium as a cofactor",
+              "detail": "Magnesium supports enzyme systems involved in energy metabolism and protein synthesis.",
+              "compartment": "Cells",
+              "icon": "molecule"
+            },
+            {
+              "label": "Enzymes and ion transport sustain function",
+              "detail": "Magnesium-dependent processes contribute to nerve signalling and muscle contraction.",
+              "compartment": "Cells / muscle",
+              "icon": "muscle"
+            }
+          ]
+        },
+        {
+          "label": "Zinc: enzyme and synthesis functions",
+          "steps": [
+            {
+              "label": "The intestine absorbs dietary zinc",
+              "detail": "The absorbed fraction varies with zinc intake and meal composition, including phytate content.",
+              "compartment": "Intestine",
+              "icon": "digest"
+            },
+            {
+              "label": "Zinc participates in cellular metabolism",
+              "detail": "Zinc is required for the catalytic activity of hundreds of enzymes.",
+              "compartment": "Cells",
+              "icon": "molecule"
+            },
+            {
+              "label": "Cellular processes use available zinc",
+              "detail": "Zinc contributes to protein and DNA synthesis, signalling and cell division.",
+              "compartment": "Cells",
+              "icon": "cell"
+            }
+          ]
+        }
+      ],
+      "caveat": "Parallel mineral roles do not demonstrate a special combined benefit. Compare each elemental amount and the person's need rather than the tablet's total mass.",
+      "sourceIds": [
+        "ca-overview",
+        "mg-overview",
+        "zn-overview"
+      ]
+    }
+  }
+}

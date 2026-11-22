@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "category": "l-carnitine",
+  "brand": "Carbamide Forte",
+  "product": "L-Carnitine L-Tartrate Powder 2000 mg",
+  "variants": [
+    {
+      "order": 8,
+      "offer": {
+        "brand": "Carbamide Forte",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-11-19",
+        "flavour": "Blackcurrant",
+        "product": "L-Carnitine L-Tartrate Powder 2000 mg",
+        "form": "Powder",
+        "type": "L-Carnitine L-tartrate",
+        "subclass": "L-carnitine tartrate powder with chromium picolinate",
+        "grams": 150,
+        "servingGrams": 5,
+        "carnitineMg": null,
+        "carnitineCompoundMg": 2000,
+        "energyPerServing": 5.25,
+        "declaredNutrients": [
+          "carnitineMg",
+          "carnitineCompoundMg"
+        ],
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B0CBSH83YR.PT01.jpg?v=1791357450",
+        "basis": "Exact Blackcurrant 150 g bottle and manufacturer facts panel: one 5 g scoop provides L-carnitine L-tartrate 2000 mg, energy 5.25 kcal and chromium picolinate 200 micrograms.",
+        "notes": "Tartrate compound mass is not converted to free L-carnitine. Net 150 g and label 5 g serving are independently recorded; the marketed 30-serving count is not used as a substitute for net weight. Chromium picolinate compound mass is not elemental chromium.",
+        "additionalIngredients": [
+          {
+            "name": "Chromium picolinate compound",
+            "amount": 200,
+            "unit": "µg",
+            "basis": "per 5 g label serving"
+          }
+        ],
+        "packCount": null,
+        "servingUnits": null,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B0CBSH83YR.PT01.jpg?v=1791357450"
+        ],
+        "id": "l-carnitine-67625391816817",
+        "price": 549,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://mycf.in/products/l-carnitine-powder-for-daily-training-performance-support?variant=67625391816817"
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 4041,
+      "observation": {
+        "category": "l-carnitine",
+        "offerId": "l-carnitine-67625391816817",
+        "date": "2026-11-19",
+        "price": 549,
+        "currency": "INR",
+        "sourceUrl": "https://mycf.in/products/l-carnitine-powder-for-daily-training-performance-support?variant=67625391816817",
+        "evidenceUrl": "https://mycf.in/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "67625391816817",
+        "matchBasis": "Official public Shopify feed fetched 2026-11-19; exact variant ID and unconditional price matched. INR currency confirmed in the live official product HTML. Net pack, serving and ingredient basis use the specific referenced manufacturer label."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 176,
+      "profile": {
+        "category": "l-carnitine",
+        "brand": "Carbamide Forte",
+        "base": "https://mycf.in",
+        "handle": "l-carnitine-powder-for-daily-training-performance-support",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-11-19",
+        "variantIds": [
+          "67625391816817"
+        ],
+        "flavour": "Blackcurrant",
+        "product": "L-Carnitine L-Tartrate Powder 2000 mg",
+        "form": "Powder",
+        "type": "L-Carnitine L-tartrate",
+        "subclass": "L-carnitine tartrate powder with chromium picolinate",
+        "grams": 150,
+        "servingGrams": 5,
+        "carnitineMg": null,
+        "carnitineCompoundMg": 2000,
+        "energyPerServing": 5.25,
+        "declaredNutrients": [
+          "carnitineMg",
+          "carnitineCompoundMg"
+        ],
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B0CBSH83YR.PT01.jpg?v=1791357450",
+        "basis": "Exact Blackcurrant 150 g bottle and manufacturer facts panel: one 5 g scoop provides L-carnitine L-tartrate 2000 mg, energy 5.25 kcal and chromium picolinate 200 micrograms.",
+        "notes": "Tartrate compound mass is not converted to free L-carnitine. Net 150 g and label 5 g serving are independently recorded; the marketed 30-serving count is not used as a substitute for net weight. Chromium picolinate compound mass is not elemental chromium.",
+        "additionalIngredients": [
+          {
+            "name": "Chromium picolinate compound",
+            "amount": 200,
+            "unit": "Âµg",
+            "basis": "per 5 g label serving"
+          }
+        ],
+        "packCount": null,
+        "servingUnits": null,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B0CBSH83YR.PT01.jpg?v=1791357450"
+        ],
+        "id": "l-carnitine-67625391816817"
+      }
+    }
+  ]
+}

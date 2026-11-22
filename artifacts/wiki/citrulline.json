@@ -1,0 +1,251 @@
+{
+  "schemaVersion": 1,
+  "order": 18,
+  "category": {
+    "id": "citrulline",
+    "label": "Citrulline",
+    "file": "citrulline.json",
+    "page": "citrulline.html",
+    "measurement": "units",
+    "supportsPowder": true,
+    "mainNutrient": "citrullineMg",
+    "referenceQuantity": 1000,
+    "referenceUnit": "mg",
+    "compoundLabel": "labelled free L-citrulline",
+    "nutrientFields": [
+      {
+        "key": "citrullineMg",
+        "label": "Free L-citrulline",
+        "unit": "mg",
+        "table": true
+      },
+      {
+        "key": "citrullineMalateMg",
+        "label": "Citrulline malate compound",
+        "unit": "mg",
+        "table": true,
+        "costQuantity": 1000,
+        "costTable": true
+      }
+    ],
+    "comparisonNote": "Free L-citrulline and citrulline malate are distinct label profiles. Malate compound mass and a declared ratio are not converted to free L-citrulline. Compare the same form and verified label serving; a nitric-oxide mechanism or ingredient cost does not establish exercise benefit.",
+    "searchAliases": [
+      "citrulline"
+    ],
+    "extraFacets": [
+      [
+        "citrullineMalateRatio",
+        "Declared citrulline-malate ratio"
+      ]
+    ]
+  },
+  "catalog": {
+    "checked": "2026-11-20",
+    "category": "citrulline"
+  },
+  "guide": {
+    "id": "citrulline-guide",
+    "category": "citrulline",
+    "title": "Citrulline: separate L-citrulline from citrulline malate",
+    "summary": "The label can describe free L-citrulline or a citrulline-malate material. Their full weights are not interchangeable active amounts.",
+    "evidence": "A 2026 synthesis found a small average exercise effect for citrulline malate, with low to very low certainty. A trial matching delivered citrulline did not demonstrate a clear added malate advantage in its tested outcomes. A nitric-oxide pathway does not guarantee a useful workout effect.",
+    "limitations": "Studies differ in composition, exercise tests and participants, and many findings are not robust. A ratio on the front of a pack does not verify its actual composition. Evidence for one form or protocol cannot automatically be transferred to another.",
+    "catalogReading": "Keep full citrulline-malate compound mass separate from explicitly declared L-citrulline. This catalog does not convert a nominal 2:1 or other ratio into inferred free L-citrulline or rank equal grams of both forms as equivalent. Check label serving and overlap with pre-workout and arginine.",
+    "safety": "Gastrointestinal discomfort can occur, and long-term safety data are limited. Review medicines and medical conditions with a clinician before using it, particularly where blood-pressure treatment is involved. Do not use a pump claim to replace medical assessment.",
+    "sourceIds": [
+      "exercise",
+      "citrulline-meta",
+      "citrulline-forms-trial",
+      "citrulline-critical",
+      "food-performance-watermelon",
+      "supplement-quality-ods"
+    ],
+    "reviewed": "2026-11-18",
+    "author": "Supplement Research editorial synthesis",
+    "bodySteps": [
+      "After absorption, citrulline can be converted to arginine, particularly by the kidneys.",
+      "Arginine can supply nitric-oxide production, which participates in normal regulation of blood vessels. Malate has a separate metabolic role.",
+      "A plausible pathway and higher circulating amino-acid levels do not establish improved strength, recovery or a benefit from the added malate."
+    ],
+    "bodySources": [
+      "exercise",
+      "citrulline-critical"
+    ],
+    "treatment": "These sports studies do not establish citrulline as a treatment for cardiovascular disease, erectile dysfunction or persistent fatigue. Medical use requires condition-specific evidence and supervision.",
+    "whoMayBenefit": "An adult evaluating a specific performance outcome can review the modest, uncertain findings with a qualified sports professional. The evidence does not identify a group that must take it routinely or prove a deficiency from poor performance.",
+    "routineUse": "No universal need for a citrulline supplement is established. Treat a pre-workout blend, isolated citrulline and arginine as possible overlapping exposures to review, rather than automatic additions to one stack.",
+    "sectionSources": [
+      "exercise",
+      "citrulline-meta",
+      "citrulline-forms-trial",
+      "citrulline-critical"
+    ],
+    "buyingGuide": {
+      "whoCanConsider": [
+        "Healthy adult athletes with a defined exercise test or training objective can consider the small, uncertain performance findings.",
+        "Adults comparing isolated L-citrulline with citrulline malate or a pre-workout can examine declared ingredient amounts and form without assuming equal grams are equivalent."
+      ],
+      "whoShouldReview": [
+        "People using blood-pressure or other relevant medicines, or with cardiovascular or kidney conditions, need individual review.",
+        "People with unexplained fatigue or symptoms attributed to poor circulation need assessment rather than a pump supplement.",
+        "Under-18s, pregnancy and breastfeeding require guidance beyond an adult sports-product comparison."
+      ],
+      "foodSummary": "Watermelon supplies citrulline. Its content varies, and a normal fruit portion or juice serving is not assumed to match an isolated L-citrulline or citrulline-malate amount.",
+      "foods": [
+        {
+          "name": "Watermelon juice used in a controlled feeding study",
+          "relationship": "direct",
+          "detail": "Study-specific juice composition, not a universal value for watermelon flesh, rind or a commercial juice. This portion is not an intake recommendation.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": null,
+          "amounts": [
+            {
+              "nutrient": "Citrulline",
+              "min": 1,
+              "max": null,
+              "unit": "g",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "780 g study juice"
+              },
+              "sourceIds": [
+                "food-performance-watermelon"
+              ]
+            }
+          ]
+        }
+      ],
+      "foodSourceIds": [
+        "food-performance-watermelon",
+        "exercise"
+      ],
+      "value": {
+        "routineScore": 2,
+        "targetedScore": 3,
+        "targetedUse": "An otherwise healthy adult evaluating an optional, measurable exercise-performance benefit after training and nutrition are adequate.",
+        "reason": "The latest citrulline-malate synthesis found a small average effect with low to very low certainty. That supports at most a situational purchase, without a reliable benefit or proof that malate is superior.",
+        "worthWhen": [
+          "The buyer has a specific outcome and accepts that a benefit may be small or absent.",
+          "The label distinguishes free L-citrulline from full citrulline-malate mass, and overlap with pre-workout or arginine is reviewed."
+        ],
+        "skipWhen": [
+          "The purchase relies on a pump claim, an assumed conversion of a nominal ratio, or treating compound grams as free L-citrulline.",
+          "It crowds out higher-priority food, training or recovery needs."
+        ],
+        "evidence": "limited",
+        "scope": "Applies to an optional adult exercise goal. Evidence and amounts for L-citrulline and citrulline malate remain separate; the score does not rate treatment of a medical condition.",
+        "sourceIds": [
+          "exercise",
+          "citrulline-meta",
+          "citrulline-forms-trial",
+          "citrulline-critical"
+        ]
+      },
+      "reviewed": "2026-11-18",
+      "practices": {
+        "dos": [
+          {
+            "title": "Identify free or compound content",
+            "detail": "Keep explicitly declared L-citrulline separate from full citrulline-malate mass when comparing products."
+          },
+          {
+            "title": "Review the outcome and overlap",
+            "detail": "Choose a specific exercise outcome to assess and check any citrulline or arginine already in a pre-workout."
+          }
+        ],
+        "donts": [
+          {
+            "title": "Don't infer content from a nominal ratio",
+            "detail": "A citrulline-malate ratio alone does not verify free L-citrulline or make equal compound weights equivalent."
+          },
+          {
+            "title": "Don't treat a pump as a clinical result",
+            "detail": "A sensation or blood-flow claim does not establish treatment benefit or justify displacing higher-priority food and recovery needs."
+          }
+        ],
+        "sourceIds": [
+          "exercise",
+          "citrulline-meta",
+          "citrulline-forms-trial",
+          "citrulline-critical"
+        ]
+      }
+    },
+    "intakeGuide": {
+      "kind": "no-established-target",
+      "summary": "No established dietary requirement or universal performance dose. Free L-citrulline and citrulline malate amounts cannot be treated as equivalent.",
+      "targets": [],
+      "limits": [],
+      "notes": [
+        "No automatic dose increase is assigned for training frequency or experience."
+      ],
+      "sourceIds": [
+        "exercise",
+        "citrulline-meta",
+        "citrulline-forms-trial",
+        "citrulline-critical"
+      ],
+      "reviewed": "2026-11-17"
+    },
+    "medicalGuide": {
+      "summary": "Condition-specific evidence, separate from sports benefits and purchase priority.",
+      "conditions": [
+        {
+          "condition": "Cardiovascular disease / erectile dysfunction",
+          "level": "insufficient",
+          "findings": "Exercise and blood-flow findings do not establish a treatment indication for these conditions.",
+          "limits": "These sports studies do not establish citrulline as a treatment for cardiovascular disease, erectile dysfunction or persistent fatigue. Medical use requires condition-specific evidence and supervision.",
+          "sourceIds": [
+            "exercise",
+            "citrulline-meta",
+            "citrulline-forms-trial",
+            "citrulline-critical"
+          ]
+        }
+      ],
+      "reviewed": "2026-11-17"
+    },
+    "pathway": {
+      "title": "Citrulline supplies arginine through the kidneys",
+      "summary": "Citrulline can raise the supply of arginine, which is used in nitric-oxide signalling. Citrulline malate also contains malate; its total mass is not all L-citrulline.",
+      "tracks": [
+        {
+          "label": "The citrulline to arginine route",
+          "steps": [
+            {
+              "label": "Absorbed citrulline enters the circulation",
+              "detail": "Oral L-citrulline is absorbed and becomes available for tissue metabolism.",
+              "compartment": "Intestine",
+              "icon": "digest"
+            },
+            {
+              "label": "Kidneys convert citrulline into arginine",
+              "detail": "Renal metabolism converts circulating citrulline into arginine and releases arginine into the blood.",
+              "compartment": "Kidney",
+              "icon": "kidney"
+            },
+            {
+              "label": "Arginine supplies nitric-oxide production",
+              "detail": "Cells can use arginine as a substrate for nitric-oxide synthesis.",
+              "compartment": "Cells",
+              "icon": "molecule"
+            },
+            {
+              "label": "Nitric oxide participates in vascular signalling",
+              "detail": "Nitric oxide helps regulate blood-vessel relaxation. A change in this pathway is not itself a performance result.",
+              "compartment": "Blood vessels",
+              "icon": "signal"
+            }
+          ]
+        }
+      ],
+      "caveat": "Malate is a separate metabolic component; this diagram does not establish an added malate benefit. Higher blood arginine does not guarantee better strength, recovery or endurance.",
+      "sourceIds": [
+        "citrulline-critical",
+        "exercise"
+      ]
+    }
+  }
+}

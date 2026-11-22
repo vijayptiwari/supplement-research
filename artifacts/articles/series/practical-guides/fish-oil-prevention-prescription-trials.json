@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "order": 41,
+  "article": {
+    "id": "fish-oil-prevention-prescription-trials",
+    "category": "fish-oil",
+    "series": "practical-guides",
+    "title": "Why fish-oil heart-health trials can give different answers",
+    "summary": "Read VITAL, REDUCE-IT and STRENGTH as different clinical questions rather than votes for or against every omega-3 product.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "One headline says omega-3s protect the heart; another says fish oil failed. The apparent contradiction often begins before anyone opens a bottle: different trials enrolled different people, supplied different preparations and asked different questions. A healthy person considering an optional retail product is not automatically represented by a trial of a prescription treatment in high-risk patients. Understanding those boundaries makes the evidence more useful and reduces the chance of paying for a claim borrowed from an unrelated intervention.",
+    "sections": [
+      {
+        "id": "define-prevention",
+        "title": "Primary prevention and treatment are different decisions",
+        "body": "A trial that asks whether a supplement prevents a first major event addresses a different decision from treatment in people with established disease or persistent risk despite medical care. Neither population should be treated as a universal proxy for all adults. Before looking at the outcome, identify why participants entered the study and what other treatment they received. This prevents a clinical result from becoming a general instruction that everyone should buy an omega-3 supplement or that every medical use is ineffective.",
+        "sourceIds": [
+          "omega-overview",
+          "omega-vital"
+        ]
+      },
+      {
+        "id": "vital",
+        "title": "What the VITAL result actually addresses",
+        "body": "VITAL tested marine omega-3 supplementation in a large US primary-prevention population. It did not significantly reduce the primary major cardiovascular-event or invasive-cancer outcomes. That finding is important when evaluating broad routine-prevention claims, but it does not show that all fish foods, every omega-3 dose or each prescription indication are interchangeable. Secondary and subgroup findings require their own interpretation; selecting only a favourable result while ignoring the prespecified main outcome gives a distorted picture of the study.",
+        "sourceIds": [
+          "omega-vital"
+        ]
+      },
+      {
+        "id": "reduce-it",
+        "title": "Why a prescription EPA result is not a retail guarantee",
+        "body": "REDUCE-IT studied icosapent ethyl in statin-treated patients with elevated triglycerides and substantial cardiovascular risk. The treatment reduced its primary cardiovascular endpoint under that protocol. That result belongs to the tested medicine, selected population and background care. It cannot be reproduced on paper simply by adding enough ordinary fish-oil capsules to match a headline gram number. The ingredient profile, preparation and clinical oversight differ, and a prescription-treatment decision should stay with the treating team.",
+        "sourceIds": [
+          "well-omega-reduce-it",
+          "omega-overview"
+        ]
+      },
+      {
+        "id": "strength",
+        "title": "A different high-risk trial did not reproduce the benefit",
+        "body": "STRENGTH compared a high-dose EPA+DHA carboxylic-acid preparation with corn oil in high-risk statin-treated patients. It did not show a significant reduction in its primary composite cardiovascular outcome and was stopped after an assessment of futility. This is evidence against assuming that all high-dose omega-3 preparations share one clinical effect. It does not, by itself, isolate which difference between trials explains their results. Formulation, participants and comparators changed together, so a single-variable marketing explanation is too confident.",
+        "sourceIds": [
+          "well-omega-strength"
+        ]
+      },
+      {
+        "id": "marker-and-event",
+        "title": "Lowering a risk marker is not identical to preventing an event",
+        "body": "Triglyceride reduction, circulating fatty-acid levels and major cardiovascular events are different outcomes. A preparation can change a laboratory measure without establishing the same effect on heart attacks or mortality in every setting. Ask which endpoint supports the advertised claim and whether that endpoint was measured directly. This distinction also explains why medical treatment of marked triglyceride elevation is not the same question as a general wellness purchase by someone who has not had their situation assessed.",
+        "sourceIds": [
+          "omega-overview",
+          "well-omega-strength"
+        ]
+      },
+      {
+        "id": "harms",
+        "title": "Potential harms belong in the comparison",
+        "body": "High-dose omega-3 trials have reported atrial-fibrillation signals in some settings, and medicine use and bleeding concerns can affect an individual decision. A more concentrated pack therefore should not be ranked solely by the amount it can deliver. Discuss high-dose use or treatment ambitions with a clinician, especially when heart-rhythm history or anticoagulant treatment is relevant. Trial safety findings are part of the evidence, rather than inconvenient details that disappear when a product is described as natural.",
+        "sourceIds": [
+          "omega-overview",
+          "well-omega-strength"
+        ]
+      },
+      {
+        "id": "food-context",
+        "title": "Do not translate the trial table into a food-equivalence claim",
+        "body": "Seafood, a capsule and a prescription product can differ in their wider nutritional and clinical context. Eating patterns include foods and substitutions that a supplement trial does not fully represent. Plant ALA also is not the same declared ingredient as direct EPA and DHA. This does not require dismissing any one source; it requires reading the actual question. Food guidance can support a dietary discussion without proving that a certain number of capsules reproduces the outcome of a fish-containing dietary pattern.",
+        "sourceIds": [
+          "food-omega3",
+          "omega-overview"
+        ]
+      },
+      {
+        "id": "decision",
+        "title": "The useful buying decision is narrower than the slogan",
+        "body": "For a retail comparison, establish the purpose first, then check the actual EPA+DHA amount, complete serving and appropriate quality evidence. For a medical indication, discuss the tested treatment and eligibility with the clinician rather than self-assembling a substitute. If the purpose is only a broad promise of heart protection, the primary-prevention evidence deserves careful attention before spending. This approach leaves room for legitimate uses while refusing to turn one positive or negative trial into a verdict on every product.",
+        "sourceIds": [
+          "omega-vital",
+          "well-omega-reduce-it",
+          "supplement-quality-ods"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "omega-overview",
+      "omega-vital",
+      "well-omega-reduce-it",
+      "well-omega-strength",
+      "food-omega3",
+      "supplement-quality-ods"
+    ]
+  }
+}

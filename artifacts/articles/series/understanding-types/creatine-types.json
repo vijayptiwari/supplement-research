@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "order": 69,
+  "article": {
+    "id": "creatine-types",
+    "category": "creatine",
+    "series": "understanding-types",
+    "title": "Creatine types: the ingredient, the format and the evidence",
+    "summary": "Understand monohydrate, HCl, nitrate, buffered creatine and ethyl ester, then compare powder, capsules and gummies on what they actually deliver.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "A tub can describe three different things at once: its chemical ingredient, how that ingredient was processed, and how it is delivered. Creatine monohydrate is an ingredient. Micronized describes particle processing. A powder, capsule or gummy is a delivery format. Keeping these separate makes it easier to evaluate evidence and price without confusing convenience or a premium name with greater biological effect.",
+    "sections": [
+      {
+        "id": "ingredient-and-format",
+        "title": "Ask three different label questions",
+        "body": "First identify the chemical ingredient and whether it is a single compound or a blend. Then identify the processing description, such as micronization. Finally identify the delivery format and the number of units needed for one full serving. A capsule containing monohydrate and a monohydrate powder can share the same ingredient while differing in convenience, added ingredients, serving size and cost. The package front rarely answers all of these questions.",
+        "sourceIds": [
+          "creatine-forms-review",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "base-versus-compound",
+        "title": "Compound weight is not creatine-base weight",
+        "body": "Pure monohydrate is approximately 87.9% creatine by molecular mass, HCl 78.2%, and nitrate 67.5%; the rest belongs to water or the associated chemical component. These are theoretical composition fractions, not absorption percentages or ratings of clinical potency. A label may already declare creatine-base content rather than compound mass, so do not apply the fraction twice. Identify the stated basis before converting a serving. A verified content assay is more informative than calculating from an ambiguous label.",
+        "sourceIds": [
+          "creatine-forms-review"
+        ]
+      },
+      {
+        "id": "micronization",
+        "title": "Micronized is a processing description",
+        "body": "Micronization reduces particle size and can affect dissolution, texture and powder handling. When the ingredient remains creatine monohydrate, it does not become a different creatine molecule. A processing result is not automatically a human performance result, and evidence for one preparation cannot certify every product carrying the same adjective. Record micronization as a processing flag, then evaluate the ingredient amount, quality and any formulation-specific clinical claim separately.",
+        "sourceIds": [
+          "creatine-formulation-review",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "stability-and-testing",
+        "title": "Match stability evidence to the finished formulation",
+        "body": "Creatine stability depends on its environment and storage. A laboratory study of a dissolved effervescent preparation found concentration changes during prolonged storage; that experiment is not a test of every drink or gummy. For a moist or ready-to-eat product, ask whether an appropriate analytical method verifies creatine content in the actual finished formulation and whether stability data support its expiry and storage instructions. An ingredient supplier's certificate does not by itself establish finished-product shelf life.",
+        "sourceIds": [
+          "creatine-solution-stability",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "comparing-value",
+        "title": "Compare the same delivered quantity",
+        "body": "Use the total purchase price, complete serving count and the declared or measured creatine amount on a consistent basis. Cost per gram of verified creatine base can help compare chemical forms; cost per full evidence-relevant serving helps compare finished products. Neither calculation proves two forms produce equivalent outcomes. Gummies and capsules may justify a convenience premium for someone who prefers them, but convenience should be priced separately from an unproven performance advantage. Keep blend amounts or unclear label bases marked as unknown rather than manufacturing precise numbers.",
+        "sourceIds": [
+          "creatine-forms-review",
+          "supplement-quality-ods"
+        ]
+      }
+    ],
+    "forms": [
+      {
+        "name": "Creatine monohydrate",
+        "kind": "ingredient",
+        "description": "Creatine crystallized with one water molecule per creatine molecule. It is the main reference ingredient in exercise research.",
+        "metabolism": "After ingestion, available creatine can enter tissues and join the creatine-phosphocreatine system. Its crystal water is not an impurity or a reason to dismiss it.",
+        "evidence": "An extensive exercise literature supports increased muscle stores and benefits for appropriate high-intensity training outcomes. Response still depends on the person and training context.",
+        "value": "Use a clearly labelled, quality-verified monohydrate as the reference when judging whether another ingredient's premium buys demonstrated benefit.",
+        "sourceIds": [
+          "creatine-position",
+          "creatine-loading-rct"
+        ]
+      },
+      {
+        "name": "Creatine hydrochloride (HCl)",
+        "kind": "ingredient",
+        "description": "A creatine salt associated with hydrochloride. Greater solubility is commonly promoted as a reason to use a smaller serving.",
+        "metabolism": "Solubility concerns dissolution; it does not establish how much reaches muscle or how much a lower serving can replace.",
+        "evidence": "An eight-week randomized study of 40 men found training-related improvements with HCl and monohydrate protocols. It did not establish a convincing HCl advantage and did not measure muscle creatine.",
+        "value": "Do not pay for a universal lower-dose or superior-uptake claim without an adequately designed comparison. Compare the actual label basis and delivered amount.",
+        "sourceIds": [
+          "creatine-hcl-rct"
+        ]
+      },
+      {
+        "name": "Creatine nitrate",
+        "kind": "ingredient",
+        "description": "A salt containing creatine and nitrate. Its total mass cannot be counted entirely as creatine.",
+        "metabolism": "It introduces both creatine and nitrate exposures; a response to the combination cannot automatically be attributed to more efficient creatine delivery.",
+        "evidence": "A 28-day trial found some bench-press effects with a tested nitrate protocol but no treatment effect on several sprint tests. Only monohydrate retained a clear muscle-creatine increase at day 28.",
+        "value": "Evaluate the creatine and nitrate amounts separately. A combination rationale is not evidence that nitrate universally replaces or outperforms monohydrate.",
+        "sourceIds": [
+          "creatine-nitrate-rct"
+        ]
+      },
+      {
+        "name": "Buffered creatine",
+        "kind": "ingredient",
+        "description": "Usually a creatine-containing preparation with buffering agents intended to alter pH. The exact formulation matters; this name does not identify one universal new molecule.",
+        "metabolism": "A proposed reduction in stomach degradation must translate into measured creatine availability and a meaningful outcome; the pH claim alone cannot establish that chain.",
+        "evidence": "A randomized 28-day study of one buffered preparation found no greater muscle-creatine, body-composition or training adaptation benefit than monohydrate, including at matched creatine-protocol amounts.",
+        "value": "The tested premium claim did not produce a demonstrated advantage. Results from one formulation should not be turned into a statement that every buffered blend is identical.",
+        "sourceIds": [
+          "creatine-buffered-rct"
+        ]
+      },
+      {
+        "name": "Creatine ethyl ester",
+        "kind": "ingredient",
+        "description": "A chemically modified creatine derivative, rather than ordinary monohydrate packaged differently.",
+        "metabolism": "Changing the molecule can change its behaviour. A chemical modification intended to improve uptake still needs human evidence that useful creatine reaches tissue.",
+        "evidence": "In a seven-week randomized study of 30 men, ethyl ester did not improve strength or body composition more than monohydrate and was less effective at increasing muscle creatine; serum creatinine rose more.",
+        "value": "The direct comparison offers no basis for a performance premium. Higher creatinine in this formulation study should not be casually labelled kidney injury.",
+        "sourceIds": [
+          "creatine-ethyl-ester-rct"
+        ]
+      },
+      {
+        "name": "Powder",
+        "kind": "delivery",
+        "description": "A way to deliver an ingredient, usually measured by a scoop or scale. Powder can contain monohydrate, another form or a multi-ingredient blend.",
+        "metabolism": "The declared ingredient supplies the creatine; being a powder does not create a separate metabolic pathway.",
+        "evidence": "The strong monohydrate research base supports the studied ingredient and regimens. It does not certify every powder's identity, purity or scoop accuracy.",
+        "value": "Check ingredient quantity per serving and usable servings per container. Compare like ingredients before attributing a price difference to effectiveness.",
+        "sourceIds": [
+          "creatine-position",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "name": "Capsules or tablets",
+        "kind": "delivery",
+        "description": "Unit-based packaging that can make portions and travel convenient. The amount per capsule may be smaller than the full labelled serving.",
+        "metabolism": "The dosage form must release its ingredient; the ingredient's identity and delivered amount still determine the relevant creatine exposure.",
+        "evidence": "A capsule is not a novel creatine ingredient. Evidence for monohydrate cannot establish that a differently dosed or mixed capsule is superior to powder.",
+        "value": "Calculate the cost using all capsules or tablets needed for the complete serving, and inspect excipients, swallowing preference and quality documentation.",
+        "sourceIds": [
+          "creatine-forms-review",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "name": "Gummies or jelly",
+        "kind": "delivery",
+        "description": "An edible formulation containing a specified creatine ingredient alongside a gel matrix and other ingredients. Count the entire serving, not one gummy unless the label says so.",
+        "metabolism": "A stable, correctly formulated product must deliver available creatine. Taste, texture and convenience do not establish content, shelf stability or superior uptake.",
+        "evidence": "A 2026 trial in 32 female beach-volleyball athletes reported improved jump and change-of-direction outcomes with one gummy product. It had no placebo or powder comparator and cannot establish a gummy-format advantage.",
+        "value": "Ask for finished-product content and shelf-life evidence for the exact formulation. Compare cost per full serving, added ingredients and storage requirements; this is not a verdict on untested brands.",
+        "sourceIds": [
+          "creatine-gummy-rct",
+          "creatine-solution-stability",
+          "supplement-quality-ods"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "creatine-position",
+      "creatine-loading-rct",
+      "creatine-forms-review",
+      "creatine-formulation-review",
+      "creatine-hcl-rct",
+      "creatine-nitrate-rct",
+      "creatine-buffered-rct",
+      "creatine-ethyl-ester-rct",
+      "creatine-gummy-rct",
+      "creatine-solution-stability",
+      "supplement-quality-ods"
+    ]
+  }
+}

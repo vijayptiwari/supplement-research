@@ -1,0 +1,975 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "NAKPRO",
+  "product": "Nakpro Pea Protein Isolate",
+  "variants": [
+    {
+      "order": 355,
+      "offer": {
+        "id": 355,
+        "brand": "NAKPRO",
+        "product": "Nakpro Pea Protein Isolate",
+        "type": "Plant — pea",
+        "flavour": "Chocolate",
+        "kg": 1,
+        "price": 1299,
+        "stock": "In stock",
+        "protein": 72,
+        "scoop": 36,
+        "serving": 36,
+        "subclass": "Plant isolate",
+        "energy": 375,
+        "url": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40133969510480",
+        "nutritionUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40133969510480",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Brand flavour-group table, per-serving kcal / serving g × 100",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40133969510480",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 356,
+      "offer": {
+        "id": 356,
+        "brand": "NAKPRO",
+        "product": "Nakpro Pea Protein Isolate",
+        "type": "Plant — pea",
+        "flavour": "Chocolate",
+        "kg": 2,
+        "price": 2499,
+        "stock": "In stock",
+        "protein": 72,
+        "scoop": 36,
+        "serving": 36,
+        "subclass": "Plant isolate",
+        "energy": 375,
+        "url": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40916532822096",
+        "nutritionUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40916532822096",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Brand flavour-group table, per-serving kcal / serving g × 100",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40916532822096",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 357,
+      "offer": {
+        "id": 357,
+        "brand": "NAKPRO",
+        "product": "Nakpro Pea Protein Isolate",
+        "type": "Plant — pea",
+        "flavour": "Mango",
+        "kg": 1,
+        "price": 1299,
+        "stock": "In stock",
+        "protein": 72,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Plant isolate",
+        "energy": null,
+        "url": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40171511054416",
+        "nutritionUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40171511054416",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop weight not verified. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40171511054416",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 358,
+      "offer": {
+        "id": 358,
+        "brand": "NAKPRO",
+        "product": "Nakpro Pea Protein Isolate",
+        "type": "Plant — pea",
+        "flavour": "Mango",
+        "kg": 2,
+        "price": 2499,
+        "stock": "In stock",
+        "protein": 72,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Plant isolate",
+        "energy": null,
+        "url": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40916532854864",
+        "nutritionUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40916532854864",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop weight not verified. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40916532854864",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 359,
+      "offer": {
+        "id": 359,
+        "brand": "NAKPRO",
+        "product": "Nakpro Pea Protein Isolate",
+        "type": "Plant — pea",
+        "flavour": "Unflavoured",
+        "kg": 1,
+        "price": 799,
+        "stock": "In stock",
+        "protein": 72,
+        "scoop": 36,
+        "serving": 36,
+        "subclass": "Plant isolate",
+        "energy": 386.00000000000006,
+        "url": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=41702645465168",
+        "nutritionUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=41702645465168",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Label/table protein differs from the existing catalog basis. Existing indicative protein % retained; verify exact pack. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Brand flavour-group table, per-serving kcal / serving g × 100",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=41702645465168",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 360,
+      "offer": {
+        "id": 360,
+        "brand": "NAKPRO",
+        "product": "Nakpro Pea Protein Isolate",
+        "type": "Plant — pea",
+        "flavour": "Unflavoured",
+        "kg": 2,
+        "price": 1499,
+        "stock": "In stock",
+        "protein": 72,
+        "scoop": 36,
+        "serving": 36,
+        "subclass": "Plant isolate",
+        "energy": 386.00000000000006,
+        "url": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=43019872927824",
+        "nutritionUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=43019872927824",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Label/table protein differs from the existing catalog basis. Existing indicative protein % retained; verify exact pack. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Brand flavour-group table, per-serving kcal / serving g × 100",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=43019872927824",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 361,
+      "offer": {
+        "id": 361,
+        "brand": "NAKPRO",
+        "product": "Nakpro Pea Protein Isolate",
+        "type": "Plant — pea",
+        "flavour": "Vanilla",
+        "kg": 1,
+        "price": 1299,
+        "stock": "In stock",
+        "protein": 72,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Plant isolate",
+        "energy": null,
+        "url": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40133969543248",
+        "nutritionUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40133969543248",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop weight not verified. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40133969543248",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 362,
+      "offer": {
+        "id": 362,
+        "brand": "NAKPRO",
+        "product": "Nakpro Pea Protein Isolate",
+        "type": "Plant — pea",
+        "flavour": "Vanilla",
+        "kg": 2,
+        "price": 2499,
+        "stock": "In stock",
+        "protein": 72,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Plant isolate",
+        "energy": null,
+        "url": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40916532887632",
+        "nutritionUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40916532887632",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop weight not verified. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40916532887632",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 714,
+      "observation": {
+        "category": "protein",
+        "offerId": 355,
+        "date": "2023-12-07",
+        "price": 899,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40133969510480",
+        "evidenceUrl": "https://web.archive.org/web/20231207042731/https://nakpro.com/products/nakpro-pea-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40133969510480",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 715,
+      "observation": {
+        "category": "protein",
+        "offerId": 357,
+        "date": "2023-12-07",
+        "price": 899,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40171511054416",
+        "evidenceUrl": "https://web.archive.org/web/20231207042731/https://nakpro.com/products/nakpro-pea-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40171511054416",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 716,
+      "observation": {
+        "category": "protein",
+        "offerId": 361,
+        "date": "2023-12-07",
+        "price": 899,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40133969543248",
+        "evidenceUrl": "https://web.archive.org/web/20231207042731/https://nakpro.com/products/nakpro-pea-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40133969543248",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 717,
+      "observation": {
+        "category": "protein",
+        "offerId": 355,
+        "date": "2024-12-31",
+        "price": 1049,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40133969510480",
+        "evidenceUrl": "https://web.archive.org/web/20241231145540id_/https://nakpro.com/products/nakpro-pea-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40133969510480",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 718,
+      "observation": {
+        "category": "protein",
+        "offerId": 356,
+        "date": "2024-12-31",
+        "price": 1999,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40916532822096",
+        "evidenceUrl": "https://web.archive.org/web/20241231145540id_/https://nakpro.com/products/nakpro-pea-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40916532822096",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 719,
+      "observation": {
+        "category": "protein",
+        "offerId": 357,
+        "date": "2024-12-31",
+        "price": 1049,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40171511054416",
+        "evidenceUrl": "https://web.archive.org/web/20241231145540id_/https://nakpro.com/products/nakpro-pea-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40171511054416",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 720,
+      "observation": {
+        "category": "protein",
+        "offerId": 358,
+        "date": "2024-12-31",
+        "price": 1999,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40916532854864",
+        "evidenceUrl": "https://web.archive.org/web/20241231145540id_/https://nakpro.com/products/nakpro-pea-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40916532854864",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 721,
+      "observation": {
+        "category": "protein",
+        "offerId": 361,
+        "date": "2024-12-31",
+        "price": 1049,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40133969543248",
+        "evidenceUrl": "https://web.archive.org/web/20241231145540id_/https://nakpro.com/products/nakpro-pea-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40133969543248",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 722,
+      "observation": {
+        "category": "protein",
+        "offerId": 362,
+        "date": "2024-12-31",
+        "price": 1999,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40916532887632",
+        "evidenceUrl": "https://web.archive.org/web/20241231145540id_/https://nakpro.com/products/nakpro-pea-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40916532887632",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 723,
+      "observation": {
+        "category": "protein",
+        "offerId": 355,
+        "date": "2025-06-28",
+        "price": 1199,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40133969510480",
+        "evidenceUrl": "https://web.archive.org/web/20250628072212id_/https://nakpro.com/products/nakpro-pea-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40133969510480",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 724,
+      "observation": {
+        "category": "protein",
+        "offerId": 356,
+        "date": "2025-06-28",
+        "price": 2299,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40916532822096",
+        "evidenceUrl": "https://web.archive.org/web/20250628072212id_/https://nakpro.com/products/nakpro-pea-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40916532822096",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 725,
+      "observation": {
+        "category": "protein",
+        "offerId": 357,
+        "date": "2025-06-28",
+        "price": 1199,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40171511054416",
+        "evidenceUrl": "https://web.archive.org/web/20250628072212id_/https://nakpro.com/products/nakpro-pea-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40171511054416",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 726,
+      "observation": {
+        "category": "protein",
+        "offerId": 358,
+        "date": "2025-06-28",
+        "price": 2299,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40916532854864",
+        "evidenceUrl": "https://web.archive.org/web/20250628072212id_/https://nakpro.com/products/nakpro-pea-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40916532854864",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 727,
+      "observation": {
+        "category": "protein",
+        "offerId": 361,
+        "date": "2025-06-28",
+        "price": 1199,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40133969543248",
+        "evidenceUrl": "https://web.archive.org/web/20250628072212id_/https://nakpro.com/products/nakpro-pea-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40133969543248",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 728,
+      "observation": {
+        "category": "protein",
+        "offerId": 362,
+        "date": "2025-06-28",
+        "price": 2299,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40916532887632",
+        "evidenceUrl": "https://web.archive.org/web/20250628072212id_/https://nakpro.com/products/nakpro-pea-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40916532887632",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 729,
+      "observation": {
+        "category": "protein",
+        "offerId": 355,
+        "date": "2025-09-17",
+        "price": 1199,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40133969510480",
+        "evidenceUrl": "https://web.archive.org/web/20250917084225id_/https://nakpro.com/products/nakpro-pea-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40133969510480",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 730,
+      "observation": {
+        "category": "protein",
+        "offerId": 356,
+        "date": "2025-09-17",
+        "price": 2299,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40916532822096",
+        "evidenceUrl": "https://web.archive.org/web/20250917084225id_/https://nakpro.com/products/nakpro-pea-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40916532822096",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 731,
+      "observation": {
+        "category": "protein",
+        "offerId": 357,
+        "date": "2025-09-17",
+        "price": 1199,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40171511054416",
+        "evidenceUrl": "https://web.archive.org/web/20250917084225id_/https://nakpro.com/products/nakpro-pea-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40171511054416",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 732,
+      "observation": {
+        "category": "protein",
+        "offerId": 358,
+        "date": "2025-09-17",
+        "price": 2299,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40916532854864",
+        "evidenceUrl": "https://web.archive.org/web/20250917084225id_/https://nakpro.com/products/nakpro-pea-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40916532854864",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 733,
+      "observation": {
+        "category": "protein",
+        "offerId": 361,
+        "date": "2025-09-17",
+        "price": 1199,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40133969543248",
+        "evidenceUrl": "https://web.archive.org/web/20250917084225id_/https://nakpro.com/products/nakpro-pea-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40133969543248",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 734,
+      "observation": {
+        "category": "protein",
+        "offerId": 362,
+        "date": "2025-09-17",
+        "price": 2299,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40916532887632",
+        "evidenceUrl": "https://web.archive.org/web/20250917084225id_/https://nakpro.com/products/nakpro-pea-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40916532887632",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2544,
+      "observation": {
+        "category": "protein",
+        "offerId": 355,
+        "date": "2026-10-25",
+        "price": 1299,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40133969510480",
+        "evidenceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "40133969510480"
+      }
+    },
+    {
+      "order": 2545,
+      "observation": {
+        "category": "protein",
+        "offerId": 356,
+        "date": "2026-10-25",
+        "price": 2548,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40916532822096",
+        "evidenceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "40916532822096"
+      }
+    },
+    {
+      "order": 2546,
+      "observation": {
+        "category": "protein",
+        "offerId": 357,
+        "date": "2026-10-25",
+        "price": 1299,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40171511054416",
+        "evidenceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "40171511054416"
+      }
+    },
+    {
+      "order": 2547,
+      "observation": {
+        "category": "protein",
+        "offerId": 358,
+        "date": "2026-10-25",
+        "price": 2548,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40916532854864",
+        "evidenceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "40916532854864"
+      }
+    },
+    {
+      "order": 2548,
+      "observation": {
+        "category": "protein",
+        "offerId": 359,
+        "date": "2026-10-25",
+        "price": 1049,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=41702645465168",
+        "evidenceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "41702645465168"
+      }
+    },
+    {
+      "order": 2549,
+      "observation": {
+        "category": "protein",
+        "offerId": 360,
+        "date": "2026-10-25",
+        "price": 2048,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=43019872927824",
+        "evidenceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "43019872927824"
+      }
+    },
+    {
+      "order": 2550,
+      "observation": {
+        "category": "protein",
+        "offerId": 361,
+        "date": "2026-10-25",
+        "price": 1299,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40133969543248",
+        "evidenceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "40133969543248"
+      }
+    },
+    {
+      "order": 2551,
+      "observation": {
+        "category": "protein",
+        "offerId": 362,
+        "date": "2026-10-25",
+        "price": 2548,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40916532887632",
+        "evidenceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "40916532887632"
+      }
+    },
+    {
+      "order": 3225,
+      "observation": {
+        "category": "protein",
+        "offerId": 355,
+        "date": "2026-08-01",
+        "price": 1129,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40133969510480",
+        "evidenceUrl": "https://web.archive.org/web/20260801193028/https://nakpro.com/products/nakpro-pea-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40133969510480",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3226,
+      "observation": {
+        "category": "protein",
+        "offerId": 356,
+        "date": "2026-08-01",
+        "price": 2208,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40916532822096",
+        "evidenceUrl": "https://web.archive.org/web/20260801193028/https://nakpro.com/products/nakpro-pea-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40916532822096",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3227,
+      "observation": {
+        "category": "protein",
+        "offerId": 357,
+        "date": "2026-08-01",
+        "price": 1129,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40171511054416",
+        "evidenceUrl": "https://web.archive.org/web/20260801193028/https://nakpro.com/products/nakpro-pea-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40171511054416",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3228,
+      "observation": {
+        "category": "protein",
+        "offerId": 358,
+        "date": "2026-08-01",
+        "price": 2208,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40916532854864",
+        "evidenceUrl": "https://web.archive.org/web/20260801193028/https://nakpro.com/products/nakpro-pea-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40916532854864",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3229,
+      "observation": {
+        "category": "protein",
+        "offerId": 359,
+        "date": "2026-08-01",
+        "price": 899,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=41702645465168",
+        "evidenceUrl": "https://web.archive.org/web/20260801193028/https://nakpro.com/products/nakpro-pea-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "41702645465168",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3230,
+      "observation": {
+        "category": "protein",
+        "offerId": 361,
+        "date": "2026-08-01",
+        "price": 1129,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40133969543248",
+        "evidenceUrl": "https://web.archive.org/web/20260801193028/https://nakpro.com/products/nakpro-pea-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40133969543248",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3231,
+      "observation": {
+        "category": "protein",
+        "offerId": 362,
+        "date": "2026-08-01",
+        "price": 2208,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40916532887632",
+        "evidenceUrl": "https://web.archive.org/web/20260801193028/https://nakpro.com/products/nakpro-pea-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40916532887632",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 4402,
+      "observation": {
+        "category": "protein",
+        "offerId": 355,
+        "date": "2026-11-19",
+        "price": 1299,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40133969510480",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "40133969510480"
+      }
+    },
+    {
+      "order": 4403,
+      "observation": {
+        "category": "protein",
+        "offerId": 356,
+        "date": "2026-11-19",
+        "price": 2499,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40916532822096",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "40916532822096"
+      }
+    },
+    {
+      "order": 4404,
+      "observation": {
+        "category": "protein",
+        "offerId": 357,
+        "date": "2026-11-19",
+        "price": 1299,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40171511054416",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "40171511054416"
+      }
+    },
+    {
+      "order": 4405,
+      "observation": {
+        "category": "protein",
+        "offerId": 358,
+        "date": "2026-11-19",
+        "price": 2499,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40916532854864",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "40916532854864"
+      }
+    },
+    {
+      "order": 4406,
+      "observation": {
+        "category": "protein",
+        "offerId": 359,
+        "date": "2026-11-19",
+        "price": 799,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=41702645465168",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "41702645465168"
+      }
+    },
+    {
+      "order": 4407,
+      "observation": {
+        "category": "protein",
+        "offerId": 360,
+        "date": "2026-11-19",
+        "price": 1499,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=43019872927824",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "43019872927824"
+      }
+    },
+    {
+      "order": 4408,
+      "observation": {
+        "category": "protein",
+        "offerId": 361,
+        "date": "2026-11-19",
+        "price": 1299,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40133969543248",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "40133969543248"
+      }
+    },
+    {
+      "order": 4409,
+      "observation": {
+        "category": "protein",
+        "offerId": 362,
+        "date": "2026-11-19",
+        "price": 2499,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-pea-protein-isolate?variant=40916532887632",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "40916532887632"
+      }
+    }
+  ],
+  "refreshSources": []
+}

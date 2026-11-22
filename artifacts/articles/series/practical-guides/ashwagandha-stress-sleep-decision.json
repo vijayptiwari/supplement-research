@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "order": 39,
+  "article": {
+    "id": "ashwagandha-stress-sleep-decision",
+    "category": "ashwagandha",
+    "series": "practical-guides",
+    "title": "Ashwagandha for stress or sleep: define the problem before buying",
+    "summary": "A practical way to interpret short trials, choose meaningful outcomes and recognise when persistent symptoms need a different response.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "Stress and poor sleep often arrive together, which makes a single adaptogen story attractive. It also makes it easy to attribute too much to one supplement. An adult with a stressful month, someone with chronic insomnia and someone with a diagnosed anxiety disorder are not interchangeable research populations. Before asking which extract is strongest, ask what problem needs attention and what improvement would matter. The following decision process uses the evidence without converting a small short-term result into a promise of lasting relief.",
+    "sections": [
+      {
+        "id": "name-the-problem",
+        "title": "Name the outcome that matters",
+        "body": "Feeling less stressed, falling asleep sooner and functioning better during the day are related but distinct outcomes. Write down the concern in ordinary language before reading a product claim. This makes it easier to notice when the advertised evidence measures something else, such as a laboratory marker. A vague aim to lower cortisol can make any changing test result look successful even when daily life has not improved. Persistent or severe symptoms deserve assessment of their cause rather than a supplement-only explanation.",
+        "sourceIds": [
+          "ash-overview",
+          "well-ash-safety"
+        ]
+      },
+      {
+        "id": "what-trials-measure",
+        "title": "Read the measured result rather than the slogan",
+        "body": "The often-cited root-extract study enrolled adults with chronic stress and followed them for 60 days. It measured stress-related scales and cortisol, not every stress disorder or a lifetime prevention outcome. This is useful evidence for a narrow question, with limitations from sample size, duration and preparation. Ask whether a quoted percentage describes a change within the supplement group or a comparison against placebo. Those are different calculations, and an impressive relative number can conceal the actual size and meaning of a difference.",
+        "sourceIds": [
+          "ash-trial"
+        ]
+      },
+      {
+        "id": "cortisol-is-not-a-score",
+        "title": "A cortisol result is not a complete health score",
+        "body": "Cortisol participates in normal physiology. A product associated with a lower measurement is not therefore proven to improve every consequence attributed to stress. The important chain is whether the tested intervention improves a relevant outcome in an appropriate population, with acceptable risks. A biomarker can help researchers explore that chain, but cannot replace it. Avoid treating a test value, a feeling of sedation or a botanical mechanism as interchangeable proof of better mental health or restorative sleep.",
+        "sourceIds": [
+          "ash-overview",
+          "ash-trial"
+        ]
+      },
+      {
+        "id": "sleep-context",
+        "title": "Keep sleep evidence in its own context",
+        "body": "Some preparations have been investigated for sleep, but the research varies in participants, products and outcome measures. A stress trial cannot automatically answer whether an adult with persistent insomnia will benefit. Review sleep opportunity, work schedule and the pattern of the complaint alongside any proposed supplement. The practical question is whether an intervention addresses the actual problem, not whether a package includes the word sleep. Continuing symptoms can justify a broader clinical discussion even when the product is well specified.",
+        "sourceIds": [
+          "ash-overview",
+          "well-ash-safety"
+        ]
+      },
+      {
+        "id": "change-one-thing",
+        "title": "Avoid a stack that makes the result uninterpretable",
+        "body": "Starting several sleep or stress products together makes it difficult to identify either benefit or an unwanted effect. For a buying decision, first inventory what is already present in teas, blends and capsules. If an optional intervention is considered with appropriate advice, agree what will be assessed and when it will be reviewed. This is a method for judging value, not a treatment schedule. Taking the largest stack can increase cost and uncertainty while making the original question harder to answer.",
+        "sourceIds": [
+          "supplement-quality-ods",
+          "well-ash-safety"
+        ]
+      },
+      {
+        "id": "safety-before-strength",
+        "title": "Safety can outweigh a stronger-looking label",
+        "body": "Short-term study tolerability is not proof of safety for indefinite use. Official summaries describe drowsiness and gastrointestinal effects, reports of liver injury, and concerns involving thyroid or autoimmune conditions and several medicines. Pregnancy and breastfeeding require particular caution; the NCCIH guidance advises avoidance. Read this information before comparing strength. Someone with a relevant condition, planned surgery or medication use needs advice about the actual product, including co-ingredients, rather than reassurance from the word natural.",
+        "sourceIds": [
+          "well-ash-safety"
+        ]
+      },
+      {
+        "id": "review-the-purchase",
+        "title": "Reassess usefulness rather than assuming lifelong need",
+        "body": "A fair value judgement asks whether a relevant, noticeable improvement occurred and whether the cost and drawbacks remain acceptable. An unchanged symptom does not automatically mean that a stronger extract or another brand is required. It can mean that the intervention is not addressing the problem, that the evidence was not applicable, or that assessment is needed. Avoid turning an optional trial into an unexamined subscription. The published short studies do not establish a universal maintenance programme for every adult.",
+        "sourceIds": [
+          "ash-overview",
+          "ash-trial",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "next-step",
+        "title": "Bring an interpretable question to the next discussion",
+        "body": "A useful discussion records the symptom, its duration, current medicines, other supplements, the exact formulation and the outcome being sought. This is more informative than asking whether ashwagandha works in the abstract. It also helps separate a reasonable optional purchase from a claim that exceeds the evidence. The relevant guide and product label can support that discussion, while professional assessment handles the diagnosis and care plan. Choosing to buy nothing remains a valid result when the need or expected benefit is unclear.",
+        "sourceIds": [
+          "well-ash-safety",
+          "supplement-quality-ods"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "ash-overview",
+      "well-ash-safety",
+      "ash-trial",
+      "supplement-quality-ods"
+    ]
+  }
+}

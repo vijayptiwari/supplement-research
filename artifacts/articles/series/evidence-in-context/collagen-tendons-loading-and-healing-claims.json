@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "order": 10,
+  "article": {
+    "id": "collagen-tendons-loading-and-healing-claims",
+    "category": "collagen",
+    "series": "evidence-in-context",
+    "title": "Collagen and tendons: what loading studies can tell us about repair",
+    "summary": "Blood markers, tendon size, stiffness and pain are different outcomes. Follow the human studies before interpreting collagen as an injury-healing product.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "The tendon story sounds persuasive: tendons contain collagen, so eating collagen should help a damaged tendon rebuild. Human research makes the picture more interesting and less direct. Some studies measure a circulating marker, some examine tendon structure during training, and a small clinical study asks whether symptoms improve alongside rehabilitation. These are useful pieces of evidence, but they are not interchangeable. Understanding where each sits helps a runner, lifter or ordinary reader separate a possible nutritional adjunct from a product that promises to repair an injury on its own.",
+    "sections": [
+      {
+        "id": "materials-and-instructions",
+        "title": "Supplying building materials does not specify where they go",
+        "body": "Digestion breaks dietary collagen into amino acids and smaller peptides. Human absorption experiments have detected collagen-derived peptides in blood, which supports exposure to more than a perfectly intact protein simply passing through the gut. It does not show that those peptides travel directly to a painful Achilles tendon or become new tendon in a guaranteed amount. Tissue adaptation also needs a biological stimulus and time. This is why a tendon study conducted alongside a loading programme asks a more useful question than an absorption claim alone. It tests whether adding the ingredient changes an outcome beyond the same programme without it. Faster appearance in blood and faster clinical recovery should never be treated as equivalent statements.",
+        "sourceIds": [
+          "collagen-absorption-iwai-2005",
+          "synth-collagen-achilles-jerger-2022"
+        ]
+      },
+      {
+        "id": "marker-study",
+        "title": "A blood marker is an early clue, not an injury scan",
+        "body": "Shaw and colleagues studied vitamin-C-enriched gelatin before brief exercise in a small crossover experiment. The higher gelatin condition increased a circulating marker associated with collagen synthesis; the researchers also used serum in an engineered-ligament model. The work helped establish a plausible link between nutrition and a loading stimulus. It did not show an injured tendon healing faster, prevent a rupture, or measure return to sport. Circulating markers can reflect processes in more than one tissue, so calling the result a direct measurement of tendon repair goes beyond the design. Its practical role is to motivate tissue-specific and clinical studies, rather than serve as the final proof for a rehabilitation claim.",
+        "sourceIds": [
+          "collagen-gelatin-shaw-2017"
+        ]
+      },
+      {
+        "id": "structural-training-trial",
+        "title": "A training trial moved the question closer to the tendon",
+        "body": "A fourteen-week randomized study compared specific collagen peptides with placebo while healthy men performed the same resistance-training programme. Achilles tendon cross-sectional area increased more in the collagen group. Both groups improved maximal torque, which reminds us that the shared training intervention mattered. A greater structural adaptation is relevant, but larger tendon area is not automatically proof of less pain or fewer future injuries. The trial also tested a particular peptide preparation, so it cannot establish equivalence for every collagen product. Commercial involvement in this research should be considered when judging the need for independent replication. The useful claim stays close to the endpoint: a tested formulation influenced a measured training adaptation in healthy participants.",
+        "sourceIds": [
+          "synth-collagen-achilles-jerger-2022"
+        ]
+      },
+      {
+        "id": "stiffness-and-performance",
+        "title": "Stiffness is a mechanical property, not a synonym for feeling stiff",
+        "body": "A sixteen-week trial in fifty young sedentary men examined collagen peptides, muscle and Achilles stiffness, and rapid torque production. The investigators reported changes in stiffness and selected rapid-force measures in the collagen group, without corresponding changes in tendon or muscle area or maximal voluntary torque. The abstract's within-group results should not be inflated into a claim that every between-group comparison proved superiority. More importantly, mechanically measured stiffness is different from the unpleasant sensation of a stiff joint. In a healthy muscle-tendon system it can relate to force transmission; in a patient, the significance depends on the condition. The study was not a trial of treatment for tendon tears or a test of return-to-sport safety.",
+        "sourceIds": [
+          "synth-collagen-stiffness-miyamoto-2025"
+        ]
+      },
+      {
+        "id": "pain-and-rehabilitation",
+        "title": "The clinical signal came with a structured rehabilitation programme",
+        "body": "Praet and colleagues studied twenty people with chronic mid-portion Achilles tendinopathy in a small crossover pilot. Participants received specific peptides or placebo while following calf-strengthening and return-to-running work. Symptom-and-function scores improved more during the collagen periods. This makes the study more directly relevant to patients than a blood marker alone. Its size, proprietary preparation, commercial funding and crossover design limit certainty. Rehabilitation adaptations also continue across periods, so the second period cannot simply reset the tendon to its original state. The result supports investigating collagen as an addition to rehabilitation. It cannot show that a supplement alone heals the tendon, works for an acute rupture, or removes the need for a diagnosis and an appropriate loading plan.",
+        "sourceIds": [
+          "synth-collagen-achilles-praet-2019"
+        ]
+      },
+      {
+        "id": "acute-muscle-study-context",
+        "title": "A negative acute muscle result does not settle every tendon question",
+        "body": "An acute study comparing collagen, whey and placebo after exercise did not show an extra early muscle connective-protein synthesis response from collagen. That finding is useful protection against the idea that any collagen exposure must immediately increase synthesis everywhere. It also has boundaries: a muscle biopsy over hours is not an Achilles tendon measurement over months. The positive structural studies and the less convincing acute response should be discussed at the level each measured. Choosing only the favourable long-term study exaggerates certainty; using one short experiment to dismiss every possible tendon effect also overreaches. The disagreement is a reason to improve comparisons, especially with adequate background protein and relevant tissue outcomes.",
+        "sourceIds": [
+          "comparison-collagen-muscle-aussieker-2023",
+          "synth-collagen-achilles-jerger-2022"
+        ]
+      },
+      {
+        "id": "evaluate-specific-claim",
+        "title": "Read a recovery claim by tracing its evidence back to the outcome",
+        "body": "For an article or advertisement, start with the verb. Supports collagen synthesis, changes tendon size, reduces a symptom score and repairs a tear are four different claims. Next identify whether participants had an injury, what rehabilitation both groups received, which formulation was tested, and how long they were followed. Check whether a result was a true comparison between groups or just a change from baseline in one group. Ask whether the trial measured outcomes a person actually values, such as sustained function and return to activity, rather than using a surrogate to imply them. This reading method makes a modest positive study more useful because it protects its real result from being stretched into an unsupported promise.",
+        "sourceIds": [
+          "collagen-gelatin-shaw-2017",
+          "synth-collagen-stiffness-miyamoto-2025",
+          "synth-collagen-achilles-praet-2019"
+        ]
+      },
+      {
+        "id": "decision-in-context",
+        "title": "Keep the supplement in its supporting role",
+        "body": "For someone with tendon pain, the first useful investment is understanding the condition and the load it can tolerate. The trials do not support replacing rehabilitation with a tub of peptides or using reduced pain as permission to return to full training. An adequate diet remains relevant, and collagen should not automatically replace a broader dietary protein source when muscle nutrition is the main goal. A buyer considering it as an optional adjunct should want transparent ingredient amounts, source and allergen information, and realistic expectations. Current human results contain worthwhile signals, particularly around selected structural adaptations and a small rehabilitation pilot. They remain a more limited evidence base than the everyday phrase tendon healing suggests.",
+        "sourceIds": [
+          "synth-collagen-achilles-praet-2019",
+          "comparison-collagen-muscle-aussieker-2023",
+          "food-protein",
+          "supplement-quality-ods",
+          "food-allergens"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "collagen-absorption-iwai-2005",
+      "collagen-gelatin-shaw-2017",
+      "synth-collagen-achilles-jerger-2022",
+      "synth-collagen-stiffness-miyamoto-2025",
+      "synth-collagen-achilles-praet-2019",
+      "comparison-collagen-muscle-aussieker-2023",
+      "food-protein",
+      "supplement-quality-ods",
+      "food-allergens"
+    ],
+    "evidenceNotes": [
+      {
+        "finding": "Collagen plus resistance training produced a greater Achilles tendon area adaptation than the same training with placebo.",
+        "sourceIds": [
+          "synth-collagen-achilles-jerger-2022"
+        ],
+        "design": "Fourteen-week randomized placebo-controlled trial.",
+        "population": "Healthy male volunteers.",
+        "outcome": "Tendon structure, mechanical properties and muscle measures.",
+        "limits": "A specific commercial peptide preparation; structural adaptation is not demonstrated injury prevention or repair."
+      },
+      {
+        "finding": "Symptoms and function improved more during collagen periods alongside calf rehabilitation.",
+        "sourceIds": [
+          "synth-collagen-achilles-praet-2019"
+        ],
+        "design": "Small double-blind crossover pilot over six months.",
+        "population": "Twenty people with chronic mid-portion Achilles tendinopathy.",
+        "outcome": "VISA-A symptom-and-function scores and tendon vascularity.",
+        "limits": "Commercial funding, small sample and potential carryover; no supplement-only arm or proof for acute tears."
+      }
+    ]
+  }
+}

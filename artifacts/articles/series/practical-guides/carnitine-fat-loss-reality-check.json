@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "order": 47,
+  "article": {
+    "id": "carnitine-fat-loss-reality-check",
+    "category": "l-carnitine",
+    "series": "practical-guides",
+    "title": "L-carnitine for fat loss: audit the claim before the bottle",
+    "summary": "Follow the gap between mitochondrial fat transport, muscle loading, body-weight studies and a meaningful personal buying decision.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "A common sales argument begins with a true statement: carnitine helps move long-chain fatty acids into mitochondria. It then jumps to a much larger conclusion that taking more must make body fat disappear faster. That second statement needs human evidence of its own. Understanding the steps between intake, tissue availability and a measured body-composition outcome helps explain why results can be mixed. It also makes it easier to identify a product claim that is selling a plausible mechanism rather than a demonstrated benefit.",
+    "sections": [
+      {
+        "id": "transport-not-a-promise",
+        "title": "A transport role is not a proportional fat-loss equation",
+        "body": "Carnitine participates in a cellular transport system used in energy metabolism. The presence of that role does not show that carnitine availability limits fat loss in an otherwise healthy person, or that adding more changes the final outcome. Many interacting processes determine fuel use and body composition. For a purchase claim, ask where the human evidence connects the proposed supplement to the promised result. A diagram of normal physiology can explain a rationale, but it cannot replace a controlled outcome comparison.",
+        "sourceIds": [
+          "carnitine-overview",
+          "carnitine-physiology"
+        ]
+      },
+      {
+        "id": "healthy-supply",
+        "title": "Healthy synthesis changes the deficiency story",
+        "body": "The body can synthesize carnitine from amino-acid precursors, and healthy adults generally do not require a supplement to maintain normal supply. A low intake from plant foods therefore is not automatically a diagnosis of deficiency. Genuine deficiency states and certain clinical situations involve a different assessment and treatment question. Do not convert a food-composition comparison into a claim that every vegetarian trainee needs a bottle. Dietary preference, symptoms and a retail label cannot establish a specific metabolic disorder by themselves.",
+        "sourceIds": [
+          "carnitine-overview"
+        ]
+      },
+      {
+        "id": "muscle-loading",
+        "title": "An uptake experiment is not an instant pre-workout result",
+        "body": "A small human experiment increased muscle carnitine after a prolonged protocol combining carnitine with substantial carbohydrate intake. The duration and accompanying nutrition are integral to that result. It should not be reframed as proof that a single small serving before exercise instantly loads muscle or accelerates body-fat loss. Nor does the study create a reason to copy its carbohydrate protocol without context. Tissue measurements, changes in fuel handling and a sustainable weight-management outcome are related research questions, rather than interchangeable findings.",
+        "sourceIds": [
+          "well-carnitine-muscle"
+        ]
+      },
+      {
+        "id": "weight-study",
+        "title": "Read a direct weight-loss trial on its own terms",
+        "body": "A trial in moderately obese women combining L-carnitine with aerobic training did not demonstrate an additional weight-loss benefit. That is a useful check against a universal mechanism-based promise, but one selected population cannot settle every possible use. It also should not be dismissed simply because its result is less marketable. Compare the actual participants, intervention and outcome with the claim being sold. A study measuring a different endpoint or using another derivative does not automatically reverse the result.",
+        "sourceIds": [
+          "well-carnitine-weight-trial"
+        ]
+      },
+      {
+        "id": "pooled-average",
+        "title": "A small pooled average is not a guaranteed response",
+        "body": "The existing 37-trial synthesis found a small average reduction in body weight without consistent overall changes in every body-composition measure. Such an average combines differing studies and does not predict what will happen to a particular buyer. Body weight, body-fat percentage and waist circumference are distinct measurements. When a product quotes the most favourable number, check which measurement it describes and what accompanies it. The evidence is more limited than a promise of rapid fat burning for every person using any carnitine form.",
+        "sourceIds": [
+          "carnitine-weight"
+        ]
+      },
+      {
+        "id": "avoid-surrogate-shopping",
+        "title": "Do not buy a sensation or a metabolism number",
+        "body": "A product can be marketed with fuel-oxidation language or combined with ingredients that produce a noticeable feeling. Neither makes a subjective sensation proof of lasting fat loss. Ask whether the advertised result was measured over a relevant period and whether the exact ingredient was tested separately. A multi-ingredient pre-workout cannot establish which component caused a change. For value, compare the expected benefit and uncertainty with the purchase cost instead of allowing a strong sensation or metabolic explanation to stand in for the desired outcome.",
+        "sourceIds": [
+          "carnitine-overview",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "safety",
+        "title": "Tolerability and medical context can change the decision",
+        "body": "Gastrointestinal effects and an unusual body odour have been reported with supplementation, while conditions and medicines can affect suitability. A product used for a diagnosed deficiency or a drug-related problem belongs in appropriate clinical care. Do not extrapolate reassuring study tolerability into safety at any amount or in every person. Read the whole formula rather than the carnitine headline, particularly when other stimulants or nutrients are included. A theoretically attractive ingredient is poor value if the product is unsuitable for the person considering it.",
+        "sourceIds": [
+          "carnitine-overview"
+        ]
+      },
+      {
+        "id": "practical-verdict",
+        "title": "Require a specific reason to spend",
+        "body": "A useful decision records the intended outcome, evidence for the particular form, complete serving and cost, along with remaining uncertainty. If the case rests only on the fact that carnitine transports fatty acids, the clinical bridge is missing. Prioritise an appropriate overall nutrition and training plan and seek assessment where needed rather than treating an optional product as its substitute. Declining a purchase with an unclear added benefit is a sound result. Better information should reduce unnecessary stacking, not create another compulsory ingredient.",
+        "sourceIds": [
+          "carnitine-overview",
+          "well-carnitine-weight-trial",
+          "supplement-quality-ods"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "carnitine-overview",
+      "carnitine-physiology",
+      "well-carnitine-muscle",
+      "well-carnitine-weight-trial",
+      "carnitine-weight",
+      "supplement-quality-ods"
+    ]
+  }
+}

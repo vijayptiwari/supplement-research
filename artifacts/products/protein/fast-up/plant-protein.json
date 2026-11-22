@@ -1,0 +1,255 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "Fast&Up",
+  "product": "Plant Protein",
+  "variants": [
+    {
+      "order": 746,
+      "offer": {
+        "id": 746,
+        "brand": "Fast&Up",
+        "product": "Plant Protein",
+        "type": "Plant — pea + rice",
+        "flavour": "Alphonso Mango",
+        "kg": 1,
+        "price": 3115,
+        "stock": "In stock",
+        "protein": 69.71,
+        "scoop": 37.3,
+        "serving": 37.3,
+        "subclass": "Plant blend (pea + rice)",
+        "energy": 409.64,
+        "url": "https://www.fastandup.in/products/plant-protein-alphonso-mango-25-servings?variant=41092268916811",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0574/6035/9243/files/2_40154725-0687-4cc7-89c0-47c1790263ed.jpg?v=1780926763",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Previously missing protein % added from flavour-matched panel; linked cost recalculates. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-matched label image, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.fastandup.in/products/plant-protein-alphonso-mango-25-servings?variant=41092268916811",
+          "evidenceUrl": "https://www.fastandup.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 747,
+      "offer": {
+        "id": 747,
+        "brand": "Fast&Up",
+        "product": "Plant Protein",
+        "type": "Plant — pea + rice",
+        "flavour": "Cookies & Cream",
+        "kg": 1,
+        "price": 3115,
+        "stock": "In stock",
+        "protein": 69.52,
+        "scoop": 37.4,
+        "serving": 37.4,
+        "subclass": "Plant blend (pea + rice)",
+        "energy": 408.88,
+        "url": "https://www.fastandup.in/products/plant-protein-cookies-cream-1-kg?variant=41948445245515",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0574/6035/9243/files/cookie-cream.jpg?v=1781010696",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Previously missing protein % added from flavour-matched panel; linked cost recalculates. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-matched label image, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.fastandup.in/products/plant-protein-cookies-cream-1-kg?variant=41948445245515",
+          "evidenceUrl": "https://www.fastandup.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 748,
+      "offer": {
+        "id": 748,
+        "brand": "Fast&Up",
+        "product": "Plant Protein",
+        "type": "Plant — pea + rice",
+        "flavour": "Kesar Kulfi",
+        "kg": 1,
+        "price": 3115,
+        "stock": "Sold out",
+        "protein": 76.47,
+        "scoop": 34,
+        "serving": 34,
+        "subclass": "Plant blend (pea + rice)",
+        "energy": 436.68,
+        "url": "https://www.fastandup.in/products/plant-protein-powder-special-festive-pack?variant=41092262625355",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0574/6035/9243/files/2_d339eeab-2a4e-4eef-8cda-7b73cd8e9b0f.jpg?v=1780924359",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Previously missing protein % added from flavour-matched panel; linked cost recalculates. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-matched label image, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.fastandup.in/products/plant-protein-powder-special-festive-pack?variant=41092262625355",
+          "evidenceUrl": "https://www.fastandup.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 749,
+      "offer": {
+        "id": 749,
+        "brand": "Fast&Up",
+        "product": "Plant Protein",
+        "type": "Plant — pea + rice",
+        "flavour": "Rich Chocolate",
+        "kg": 1,
+        "price": 3115,
+        "stock": "In stock",
+        "protein": 70.27027027027027,
+        "scoop": 37,
+        "serving": 37,
+        "subclass": "Plant blend (pea + rice)",
+        "energy": 411.89189189189193,
+        "url": "https://www.fastandup.in/products/plant-protein-rich-chocolate-1kg?variant=41568859848779",
+        "nutritionUrl": "https://www.fastandup.in/products/plant-protein-rich-chocolate-1kg?variant=41568859848779",
+        "basis": "26g protein / 37g scoop; brand product description",
+        "notes": "Brand product-page serving basis; flavour-specific label values may vary. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Brand serving table, kcal / serving g × 100",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.fastandup.in/products/plant-protein-rich-chocolate-1kg?variant=41568859848779",
+          "evidenceUrl": "https://www.fastandup.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 2935,
+      "observation": {
+        "category": "protein",
+        "offerId": 746,
+        "date": "2026-10-25",
+        "price": 2648,
+        "currency": "INR",
+        "sourceUrl": "https://www.fastandup.in/products/plant-protein-alphonso-mango-25-servings?variant=41092268916811",
+        "evidenceUrl": "https://www.fastandup.in/products/plant-protein-alphonso-mango-25-servings.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "41092268916811"
+      }
+    },
+    {
+      "order": 2936,
+      "observation": {
+        "category": "protein",
+        "offerId": 747,
+        "date": "2026-10-25",
+        "price": 2648,
+        "currency": "INR",
+        "sourceUrl": "https://www.fastandup.in/products/plant-protein-cookies-cream-1-kg?variant=41948445245515",
+        "evidenceUrl": "https://www.fastandup.in/products/plant-protein-cookies-cream-1-kg.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "41948445245515"
+      }
+    },
+    {
+      "order": 2937,
+      "observation": {
+        "category": "protein",
+        "offerId": 748,
+        "date": "2026-10-25",
+        "price": 2648,
+        "currency": "INR",
+        "sourceUrl": "https://www.fastandup.in/products/plant-protein-powder-special-festive-pack?variant=41092262625355",
+        "evidenceUrl": "https://www.fastandup.in/products/plant-protein-powder-special-festive-pack.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "41092262625355"
+      }
+    },
+    {
+      "order": 2938,
+      "observation": {
+        "category": "protein",
+        "offerId": 749,
+        "date": "2026-10-25",
+        "price": 2648,
+        "currency": "INR",
+        "sourceUrl": "https://www.fastandup.in/products/plant-protein-rich-chocolate-1kg?variant=41568859848779",
+        "evidenceUrl": "https://www.fastandup.in/products/plant-protein-rich-chocolate-1kg.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "41568859848779"
+      }
+    },
+    {
+      "order": 4793,
+      "observation": {
+        "category": "protein",
+        "offerId": 746,
+        "date": "2026-11-19",
+        "price": 3115,
+        "currency": "INR",
+        "sourceUrl": "https://www.fastandup.in/products/plant-protein-alphonso-mango-25-servings?variant=41092268916811",
+        "evidenceUrl": "https://www.fastandup.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "41092268916811"
+      }
+    },
+    {
+      "order": 4794,
+      "observation": {
+        "category": "protein",
+        "offerId": 747,
+        "date": "2026-11-19",
+        "price": 3115,
+        "currency": "INR",
+        "sourceUrl": "https://www.fastandup.in/products/plant-protein-cookies-cream-1-kg?variant=41948445245515",
+        "evidenceUrl": "https://www.fastandup.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "41948445245515"
+      }
+    },
+    {
+      "order": 4795,
+      "observation": {
+        "category": "protein",
+        "offerId": 748,
+        "date": "2026-11-19",
+        "price": 3115,
+        "currency": "INR",
+        "sourceUrl": "https://www.fastandup.in/products/plant-protein-powder-special-festive-pack?variant=41092262625355",
+        "evidenceUrl": "https://www.fastandup.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "41092262625355"
+      }
+    },
+    {
+      "order": 4796,
+      "observation": {
+        "category": "protein",
+        "offerId": 749,
+        "date": "2026-11-19",
+        "price": 3115,
+        "currency": "INR",
+        "sourceUrl": "https://www.fastandup.in/products/plant-protein-rich-chocolate-1kg?variant=41568859848779",
+        "evidenceUrl": "https://www.fastandup.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "41568859848779"
+      }
+    }
+  ],
+  "refreshSources": []
+}

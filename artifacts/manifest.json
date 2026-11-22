@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "layoutVersion": 1,
+  "metadataFiles": [
+    "brands.json",
+    "catalog-data-requirements.json",
+    "catalog-research-summary.json",
+    "catalog-research.json",
+    "history-research.json",
+    "recommender.json",
+    "references.json",
+    "research-policy.json",
+    "site.json",
+    "testing-product-matches.json",
+    "trustified-reports.json"
+  ]
+}

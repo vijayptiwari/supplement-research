@@ -1,0 +1,1040 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "NAKPRO",
+  "product": "Nakpro Plant Protein Powder",
+  "variants": [
+    {
+      "order": 416,
+      "offer": {
+        "id": 416,
+        "brand": "NAKPRO",
+        "product": "Nakpro Plant Protein Powder",
+        "type": "Plant — pea + rice",
+        "flavour": "Chocolate",
+        "kg": 1,
+        "price": 1399,
+        "stock": "In stock",
+        "protein": 70,
+        "scoop": 36,
+        "serving": 36,
+        "subclass": "Plant blend (pea + rice)",
+        "energy": 383,
+        "url": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40031814647888",
+        "nutritionUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40031814647888",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Brand flavour-group table, per-serving kcal / serving g × 100",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40031814647888",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 417,
+      "offer": {
+        "id": 417,
+        "brand": "NAKPRO",
+        "product": "Nakpro Plant Protein Powder",
+        "type": "Plant — pea + rice",
+        "flavour": "Chocolate",
+        "kg": 2,
+        "price": 2699,
+        "stock": "In stock",
+        "protein": 70,
+        "scoop": 36,
+        "serving": 36,
+        "subclass": "Plant blend (pea + rice)",
+        "energy": 383,
+        "url": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40912843341904",
+        "nutritionUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40912843341904",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Brand flavour-group table, per-serving kcal / serving g × 100",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40912843341904",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 418,
+      "offer": {
+        "id": 418,
+        "brand": "NAKPRO",
+        "product": "Nakpro Plant Protein Powder",
+        "type": "Plant — pea + rice",
+        "flavour": "Mango",
+        "kg": 1,
+        "price": 1399,
+        "stock": "In stock",
+        "protein": 70,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Plant blend (pea + rice)",
+        "energy": null,
+        "url": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40171515281488",
+        "nutritionUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40171515281488",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop weight not verified. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40171515281488",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 419,
+      "offer": {
+        "id": 419,
+        "brand": "NAKPRO",
+        "product": "Nakpro Plant Protein Powder",
+        "type": "Plant — pea + rice",
+        "flavour": "Mango",
+        "kg": 2,
+        "price": 2699,
+        "stock": "In stock",
+        "protein": 70,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Plant blend (pea + rice)",
+        "energy": null,
+        "url": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40912843374672",
+        "nutritionUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40912843374672",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop weight not verified. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40912843374672",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 420,
+      "offer": {
+        "id": 420,
+        "brand": "NAKPRO",
+        "product": "Nakpro Plant Protein Powder",
+        "type": "Plant — pea + rice",
+        "flavour": "Vanilla",
+        "kg": 1,
+        "price": 1399,
+        "stock": "In stock",
+        "protein": 70,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Plant blend (pea + rice)",
+        "energy": null,
+        "url": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40089590726736",
+        "nutritionUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40089590726736",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop weight not verified. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40089590726736",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 421,
+      "offer": {
+        "id": 421,
+        "brand": "NAKPRO",
+        "product": "Nakpro Plant Protein Powder",
+        "type": "Plant — pea + rice",
+        "flavour": "Vanilla",
+        "kg": 2,
+        "price": 2699,
+        "stock": "In stock",
+        "protein": 70,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Plant blend (pea + rice)",
+        "energy": null,
+        "url": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40912843407440",
+        "nutritionUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40912843407440",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop weight not verified. Energy per 100g not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40912843407440",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 1018,
+      "observation": {
+        "category": "protein",
+        "offerId": 416,
+        "date": "2023-12-01",
+        "price": 915,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40031814647888",
+        "evidenceUrl": "https://web.archive.org/web/20231201101947id_/https://nakpro.com/products/nakpro-plant-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40031814647888",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1019,
+      "observation": {
+        "category": "protein",
+        "offerId": 418,
+        "date": "2023-12-01",
+        "price": 915,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40171515281488",
+        "evidenceUrl": "https://web.archive.org/web/20231201101947id_/https://nakpro.com/products/nakpro-plant-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40171515281488",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1020,
+      "observation": {
+        "category": "protein",
+        "offerId": 420,
+        "date": "2023-12-01",
+        "price": 915,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40089590726736",
+        "evidenceUrl": "https://web.archive.org/web/20231201101947id_/https://nakpro.com/products/nakpro-plant-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40089590726736",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1021,
+      "observation": {
+        "category": "protein",
+        "offerId": 416,
+        "date": "2024-04-16",
+        "price": 949,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40031814647888",
+        "evidenceUrl": "https://web.archive.org/web/20240416212742id_/https://nakpro.com/products/nakpro-plant-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40031814647888",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1022,
+      "observation": {
+        "category": "protein",
+        "offerId": 418,
+        "date": "2024-04-16",
+        "price": 949,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40171515281488",
+        "evidenceUrl": "https://web.archive.org/web/20240416212742id_/https://nakpro.com/products/nakpro-plant-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40171515281488",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1023,
+      "observation": {
+        "category": "protein",
+        "offerId": 420,
+        "date": "2024-04-16",
+        "price": 949,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40089590726736",
+        "evidenceUrl": "https://web.archive.org/web/20240416212742id_/https://nakpro.com/products/nakpro-plant-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40089590726736",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1024,
+      "observation": {
+        "category": "protein",
+        "offerId": 416,
+        "date": "2024-07-12",
+        "price": 949,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40031814647888",
+        "evidenceUrl": "https://web.archive.org/web/20240712151923id_/https://nakpro.com/products/nakpro-plant-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40031814647888",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1025,
+      "observation": {
+        "category": "protein",
+        "offerId": 418,
+        "date": "2024-07-12",
+        "price": 949,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40171515281488",
+        "evidenceUrl": "https://web.archive.org/web/20240712151923id_/https://nakpro.com/products/nakpro-plant-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40171515281488",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1026,
+      "observation": {
+        "category": "protein",
+        "offerId": 420,
+        "date": "2024-07-12",
+        "price": 949,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40089590726736",
+        "evidenceUrl": "https://web.archive.org/web/20240712151923id_/https://nakpro.com/products/nakpro-plant-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40089590726736",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1027,
+      "observation": {
+        "category": "protein",
+        "offerId": 416,
+        "date": "2024-12-31",
+        "price": 1049,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40031814647888",
+        "evidenceUrl": "https://web.archive.org/web/20241231145544id_/https://nakpro.com/products/nakpro-plant-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40031814647888",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1028,
+      "observation": {
+        "category": "protein",
+        "offerId": 417,
+        "date": "2024-12-31",
+        "price": 1999,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40912843341904",
+        "evidenceUrl": "https://web.archive.org/web/20241231145544id_/https://nakpro.com/products/nakpro-plant-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40912843341904",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1029,
+      "observation": {
+        "category": "protein",
+        "offerId": 418,
+        "date": "2024-12-31",
+        "price": 1049,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40171515281488",
+        "evidenceUrl": "https://web.archive.org/web/20241231145544id_/https://nakpro.com/products/nakpro-plant-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40171515281488",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1030,
+      "observation": {
+        "category": "protein",
+        "offerId": 419,
+        "date": "2024-12-31",
+        "price": 1999,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40912843374672",
+        "evidenceUrl": "https://web.archive.org/web/20241231145544id_/https://nakpro.com/products/nakpro-plant-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40912843374672",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1031,
+      "observation": {
+        "category": "protein",
+        "offerId": 420,
+        "date": "2024-12-31",
+        "price": 1049,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40089590726736",
+        "evidenceUrl": "https://web.archive.org/web/20241231145544id_/https://nakpro.com/products/nakpro-plant-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40089590726736",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1032,
+      "observation": {
+        "category": "protein",
+        "offerId": 421,
+        "date": "2024-12-31",
+        "price": 1999,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40912843407440",
+        "evidenceUrl": "https://web.archive.org/web/20241231145544id_/https://nakpro.com/products/nakpro-plant-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40912843407440",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1033,
+      "observation": {
+        "category": "protein",
+        "offerId": 416,
+        "date": "2025-06-10",
+        "price": 1249,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40031814647888",
+        "evidenceUrl": "https://web.archive.org/web/20250610121537id_/https://nakpro.com/products/nakpro-plant-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40031814647888",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1034,
+      "observation": {
+        "category": "protein",
+        "offerId": 417,
+        "date": "2025-06-10",
+        "price": 2399,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40912843341904",
+        "evidenceUrl": "https://web.archive.org/web/20250610121537id_/https://nakpro.com/products/nakpro-plant-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40912843341904",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1035,
+      "observation": {
+        "category": "protein",
+        "offerId": 418,
+        "date": "2025-06-10",
+        "price": 1249,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40171515281488",
+        "evidenceUrl": "https://web.archive.org/web/20250610121537id_/https://nakpro.com/products/nakpro-plant-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40171515281488",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1036,
+      "observation": {
+        "category": "protein",
+        "offerId": 419,
+        "date": "2025-06-10",
+        "price": 2399,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40912843374672",
+        "evidenceUrl": "https://web.archive.org/web/20250610121537id_/https://nakpro.com/products/nakpro-plant-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40912843374672",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1037,
+      "observation": {
+        "category": "protein",
+        "offerId": 420,
+        "date": "2025-06-10",
+        "price": 1249,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40089590726736",
+        "evidenceUrl": "https://web.archive.org/web/20250610121537id_/https://nakpro.com/products/nakpro-plant-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40089590726736",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1038,
+      "observation": {
+        "category": "protein",
+        "offerId": 421,
+        "date": "2025-06-10",
+        "price": 2399,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40912843407440",
+        "evidenceUrl": "https://web.archive.org/web/20250610121537id_/https://nakpro.com/products/nakpro-plant-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40912843407440",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1039,
+      "observation": {
+        "category": "protein",
+        "offerId": 416,
+        "date": "2025-07-19",
+        "price": 1249,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40031814647888",
+        "evidenceUrl": "https://web.archive.org/web/20250719212132/https://nakpro.com/products/nakpro-plant-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40031814647888",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1040,
+      "observation": {
+        "category": "protein",
+        "offerId": 417,
+        "date": "2025-07-19",
+        "price": 2399,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40912843341904",
+        "evidenceUrl": "https://web.archive.org/web/20250719212132/https://nakpro.com/products/nakpro-plant-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40912843341904",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1041,
+      "observation": {
+        "category": "protein",
+        "offerId": 418,
+        "date": "2025-07-19",
+        "price": 1249,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40171515281488",
+        "evidenceUrl": "https://web.archive.org/web/20250719212132/https://nakpro.com/products/nakpro-plant-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40171515281488",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1042,
+      "observation": {
+        "category": "protein",
+        "offerId": 419,
+        "date": "2025-07-19",
+        "price": 2399,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40912843374672",
+        "evidenceUrl": "https://web.archive.org/web/20250719212132/https://nakpro.com/products/nakpro-plant-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40912843374672",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1043,
+      "observation": {
+        "category": "protein",
+        "offerId": 420,
+        "date": "2025-07-19",
+        "price": 1249,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40089590726736",
+        "evidenceUrl": "https://web.archive.org/web/20250719212132/https://nakpro.com/products/nakpro-plant-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40089590726736",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1044,
+      "observation": {
+        "category": "protein",
+        "offerId": 421,
+        "date": "2025-07-19",
+        "price": 2399,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40912843407440",
+        "evidenceUrl": "https://web.archive.org/web/20250719212132/https://nakpro.com/products/nakpro-plant-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40912843407440",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1045,
+      "observation": {
+        "category": "protein",
+        "offerId": 416,
+        "date": "2025-10-17",
+        "price": 1149,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40031814647888",
+        "evidenceUrl": "https://web.archive.org/web/20251017142241id_/https://nakpro.com/products/nakpro-plant-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40031814647888",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1046,
+      "observation": {
+        "category": "protein",
+        "offerId": 417,
+        "date": "2025-10-17",
+        "price": 2207,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40912843341904",
+        "evidenceUrl": "https://web.archive.org/web/20251017142241id_/https://nakpro.com/products/nakpro-plant-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40912843341904",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1047,
+      "observation": {
+        "category": "protein",
+        "offerId": 418,
+        "date": "2025-10-17",
+        "price": 1149,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40171515281488",
+        "evidenceUrl": "https://web.archive.org/web/20251017142241id_/https://nakpro.com/products/nakpro-plant-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40171515281488",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1048,
+      "observation": {
+        "category": "protein",
+        "offerId": 419,
+        "date": "2025-10-17",
+        "price": 2207,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40912843374672",
+        "evidenceUrl": "https://web.archive.org/web/20251017142241id_/https://nakpro.com/products/nakpro-plant-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40912843374672",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1049,
+      "observation": {
+        "category": "protein",
+        "offerId": 420,
+        "date": "2025-10-17",
+        "price": 1149,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40089590726736",
+        "evidenceUrl": "https://web.archive.org/web/20251017142241id_/https://nakpro.com/products/nakpro-plant-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40089590726736",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1050,
+      "observation": {
+        "category": "protein",
+        "offerId": 421,
+        "date": "2025-10-17",
+        "price": 2207,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40912843407440",
+        "evidenceUrl": "https://web.archive.org/web/20251017142241id_/https://nakpro.com/products/nakpro-plant-protein-powder",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40912843407440",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2605,
+      "observation": {
+        "category": "protein",
+        "offerId": 416,
+        "date": "2026-10-25",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40031814647888",
+        "evidenceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "40031814647888"
+      }
+    },
+    {
+      "order": 2606,
+      "observation": {
+        "category": "protein",
+        "offerId": 417,
+        "date": "2026-10-25",
+        "price": 2698,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40912843341904",
+        "evidenceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "40912843341904"
+      }
+    },
+    {
+      "order": 2607,
+      "observation": {
+        "category": "protein",
+        "offerId": 418,
+        "date": "2026-10-25",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40171515281488",
+        "evidenceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "40171515281488"
+      }
+    },
+    {
+      "order": 2608,
+      "observation": {
+        "category": "protein",
+        "offerId": 419,
+        "date": "2026-10-25",
+        "price": 2698,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40912843374672",
+        "evidenceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "40912843374672"
+      }
+    },
+    {
+      "order": 2609,
+      "observation": {
+        "category": "protein",
+        "offerId": 420,
+        "date": "2026-10-25",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40089590726736",
+        "evidenceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "40089590726736"
+      }
+    },
+    {
+      "order": 2610,
+      "observation": {
+        "category": "protein",
+        "offerId": 421,
+        "date": "2026-10-25",
+        "price": 2698,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40912843407440",
+        "evidenceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "40912843407440"
+      }
+    },
+    {
+      "order": 3285,
+      "observation": {
+        "category": "protein",
+        "offerId": 416,
+        "date": "2026-08-04",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40031814647888",
+        "evidenceUrl": "https://web.archive.org/web/20260804200929/https://nakpro.com/products/nakpro-plant-protein-powder?srsltid=AfmBOoo_1WhJ9gjcMZjLKco9vnKlcn5oRA7vEvHcTDmR6X41nlOpZUef",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40031814647888",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3286,
+      "observation": {
+        "category": "protein",
+        "offerId": 417,
+        "date": "2026-08-04",
+        "price": 2698,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40912843341904",
+        "evidenceUrl": "https://web.archive.org/web/20260804200929/https://nakpro.com/products/nakpro-plant-protein-powder?srsltid=AfmBOoo_1WhJ9gjcMZjLKco9vnKlcn5oRA7vEvHcTDmR6X41nlOpZUef",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40912843341904",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3287,
+      "observation": {
+        "category": "protein",
+        "offerId": 418,
+        "date": "2026-08-04",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40171515281488",
+        "evidenceUrl": "https://web.archive.org/web/20260804200929/https://nakpro.com/products/nakpro-plant-protein-powder?srsltid=AfmBOoo_1WhJ9gjcMZjLKco9vnKlcn5oRA7vEvHcTDmR6X41nlOpZUef",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40171515281488",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3288,
+      "observation": {
+        "category": "protein",
+        "offerId": 419,
+        "date": "2026-08-04",
+        "price": 2698,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40912843374672",
+        "evidenceUrl": "https://web.archive.org/web/20260804200929/https://nakpro.com/products/nakpro-plant-protein-powder?srsltid=AfmBOoo_1WhJ9gjcMZjLKco9vnKlcn5oRA7vEvHcTDmR6X41nlOpZUef",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40912843374672",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3289,
+      "observation": {
+        "category": "protein",
+        "offerId": 420,
+        "date": "2026-08-04",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40089590726736",
+        "evidenceUrl": "https://web.archive.org/web/20260804200929/https://nakpro.com/products/nakpro-plant-protein-powder?srsltid=AfmBOoo_1WhJ9gjcMZjLKco9vnKlcn5oRA7vEvHcTDmR6X41nlOpZUef",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40089590726736",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3290,
+      "observation": {
+        "category": "protein",
+        "offerId": 421,
+        "date": "2026-08-04",
+        "price": 2698,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40912843407440",
+        "evidenceUrl": "https://web.archive.org/web/20260804200929/https://nakpro.com/products/nakpro-plant-protein-powder?srsltid=AfmBOoo_1WhJ9gjcMZjLKco9vnKlcn5oRA7vEvHcTDmR6X41nlOpZUef",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "40912843407440",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 4463,
+      "observation": {
+        "category": "protein",
+        "offerId": 416,
+        "date": "2026-11-19",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40031814647888",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "40031814647888"
+      }
+    },
+    {
+      "order": 4464,
+      "observation": {
+        "category": "protein",
+        "offerId": 417,
+        "date": "2026-11-19",
+        "price": 2699,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40912843341904",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "40912843341904"
+      }
+    },
+    {
+      "order": 4465,
+      "observation": {
+        "category": "protein",
+        "offerId": 418,
+        "date": "2026-11-19",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40171515281488",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "40171515281488"
+      }
+    },
+    {
+      "order": 4466,
+      "observation": {
+        "category": "protein",
+        "offerId": 419,
+        "date": "2026-11-19",
+        "price": 2699,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40912843374672",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "40912843374672"
+      }
+    },
+    {
+      "order": 4467,
+      "observation": {
+        "category": "protein",
+        "offerId": 420,
+        "date": "2026-11-19",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40089590726736",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "40089590726736"
+      }
+    },
+    {
+      "order": 4468,
+      "observation": {
+        "category": "protein",
+        "offerId": 421,
+        "date": "2026-11-19",
+        "price": 2699,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/nakpro-plant-protein-powder?variant=40912843407440",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "40912843407440"
+      }
+    }
+  ],
+  "refreshSources": []
+}

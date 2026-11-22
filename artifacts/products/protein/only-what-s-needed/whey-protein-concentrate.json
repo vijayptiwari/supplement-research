@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "Only What's Needed",
+  "product": "Whey Protein Concentrate",
+  "variants": [
+    {
+      "order": 869,
+      "offer": {
+        "id": "protein-own-ownapp-00015",
+        "brand": "Only What's Needed",
+        "product": "Whey Protein Concentrate",
+        "flavour": "Cocoa",
+        "packaging": "Pouch",
+        "source": "Not specified",
+        "price": 3899,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://onlywhatsneeded.in/product/whey-protein-2",
+        "nutritionUrl": "https://i.mscwlns.co/media/misc/pdp_rcl/whey-protein-2/NI-table%20%283%29_bjk6hv.jpg?tr=w-800",
+        "labelSources": [
+          "https://onlywhatsneeded.in/product/whey-protein-2",
+          "https://i.mscwlns.co/media/misc/pdp_rcl/whey-protein-2/NI-table%20%283%29_bjk6hv.jpg?tr=w-800"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "sourceSku": "OWNAPP.00015",
+        "sourceVariantId": "OWNAPP.00015",
+        "form": "Powder",
+        "kg": 1,
+        "type": "Whey",
+        "subclass": "Whey concentrate",
+        "protein": 72.73,
+        "scoop": 33,
+        "serving": 33,
+        "energy": 388.5,
+        "basis": "Exact official retail pack and ordinary INR listed price reviewed on 20 November 2026. Nutrition values are manufacturer declarations, not independent assay results. Trustified was used for discovery; a report on another batch or product does not certify this listing.",
+        "notes": "Exact manufacturer SKU OWNAPP.00015 and product URL were matched to the explicit ProductGroup variant. Label declares 72.73 g protein and 388.50 kcal per 100 g,33 g scoop.93% whey concentrate ingredient inclusion is not protein concentration. Contains milk; whey is instantized with lecithin. Actual 1 kg retail pack. Unrelated copied hair-loss metadata in the website state was ignored; only matching product name,SKU,variant and reviewed panel were used.",
+        "allergens": [
+          "Milk"
+        ]
+      }
+    },
+    {
+      "order": 870,
+      "offer": {
+        "id": "protein-own-ownapk-0054",
+        "brand": "Only What's Needed",
+        "product": "Whey Protein Concentrate",
+        "flavour": "Cocoa",
+        "packaging": "2 x 1kg pouches",
+        "source": "Not specified",
+        "price": 7699,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://onlywhatsneeded.in/product/whey-protein-3",
+        "nutritionUrl": "https://i.mscwlns.co/media/misc/pdp_rcl/whey-protein-2/NI-table%20%283%29_bjk6hv.jpg?tr=w-800",
+        "labelSources": [
+          "https://onlywhatsneeded.in/product/whey-protein-3",
+          "https://i.mscwlns.co/media/misc/pdp_rcl/whey-protein-2/NI-table%20%283%29_bjk6hv.jpg?tr=w-800"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "sourceSku": "OWNAPK.0054",
+        "sourceVariantId": "OWNAPK.0054",
+        "form": "Powder",
+        "kg": 2,
+        "type": "Whey",
+        "subclass": "Whey concentrate",
+        "protein": 72.73,
+        "scoop": 33,
+        "serving": 33,
+        "energy": 388.5,
+        "basis": "Exact official retail pack and ordinary INR listed price reviewed on 20 November 2026. Nutrition values are manufacturer declarations, not independent assay results. Trustified was used for discovery; a report on another batch or product does not certify this listing.",
+        "notes": "Exact manufacturer SKU OWNAPK.0054 and product URL were matched to the explicit ProductGroup variant. Label declares 72.73 g protein and 388.50 kcal per 100 g,33 g scoop.93% whey concentrate ingredient inclusion is not protein concentration. Contains milk; whey is instantized with lecithin. This is an explicitly offered 2 kg retail pack made from 2 x 1 kg pouches, not an extrapolated single-pack price. Unrelated copied hair-loss metadata in the website state was ignored; only matching product name,SKU,variant and reviewed panel were used.",
+        "allergens": [
+          "Milk"
+        ]
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5309,
+      "observation": {
+        "category": "protein",
+        "offerId": "protein-own-ownapp-00015",
+        "date": "2026-11-20",
+        "price": 3899,
+        "currency": "INR",
+        "sourceUrl": "https://onlywhatsneeded.in/product/whey-protein-2",
+        "evidenceUrl": "https://onlywhatsneeded.in/product/whey-protein",
+        "kind": "official-live",
+        "variantId": "OWNAPP.00015",
+        "matchBasis": "Official ProductGroup exact SKU, variantURL and explicit reviewed variant name 24g Whey Protein Concentrate | 1Kg Pack | Cocoa; net pack weight cross-checked against selected product page, ordinary INR listed price and stock. Structured weight is absent; strict reviewed-weight fallback is required."
+      }
+    },
+    {
+      "order": 5310,
+      "observation": {
+        "category": "protein",
+        "offerId": "protein-own-ownapk-0054",
+        "date": "2026-11-20",
+        "price": 7699,
+        "currency": "INR",
+        "sourceUrl": "https://onlywhatsneeded.in/product/whey-protein-3",
+        "evidenceUrl": "https://onlywhatsneeded.in/product/whey-protein",
+        "kind": "official-live",
+        "variantId": "OWNAPK.0054",
+        "matchBasis": "Official ProductGroup exact SKU, variantURL and explicit reviewed variant name 24g Whey Protein Concentrate | 2Kg Pack (1Kg x 2) | Cocoa; net pack weight cross-checked against selected product page, ordinary INR listed price and stock. Structured weight is absent; strict reviewed-weight fallback is required."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 392,
+      "profile": {
+        "id": "protein-own-ownapp-00015",
+        "brand": "Only What's Needed",
+        "product": "Whey Protein Concentrate",
+        "flavour": "Cocoa",
+        "packaging": "Pouch",
+        "source": "Not specified",
+        "nutritionUrl": "https://i.mscwlns.co/media/misc/pdp_rcl/whey-protein-2/NI-table%20%283%29_bjk6hv.jpg?tr=w-800",
+        "labelSources": [
+          "https://onlywhatsneeded.in/product/whey-protein-2",
+          "https://i.mscwlns.co/media/misc/pdp_rcl/whey-protein-2/NI-table%20%283%29_bjk6hv.jpg?tr=w-800"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "form": "Powder",
+        "kg": 1,
+        "type": "Whey",
+        "subclass": "Whey concentrate",
+        "protein": 72.73,
+        "scoop": 33,
+        "serving": 33,
+        "energy": 388.5,
+        "basis": "Exact official retail pack and ordinary INR listed price reviewed on 20 November 2026. Nutrition values are manufacturer declarations, not independent assay results. Trustified was used for discovery; a report on another batch or product does not certify this listing.",
+        "notes": "Exact manufacturer SKU OWNAPP.00015 and product URL were matched to the explicit ProductGroup variant. Label declares 72.73 g protein and 388.50 kcal per 100 g,33 g scoop.93% whey concentrate ingredient inclusion is not protein concentration. Contains milk; whey is instantized with lecithin. Actual 1 kg retail pack. Unrelated copied hair-loss metadata in the website state was ignored; only matching product name,SKU,variant and reviewed panel were used.",
+        "allergens": [
+          "Milk"
+        ],
+        "category": "protein",
+        "kind": "jsonld",
+        "base": "https://onlywhatsneeded.in",
+        "productUrl": "https://onlywhatsneeded.in/product/whey-protein",
+        "variantUrl": "https://onlywhatsneeded.in/product/whey-protein-2",
+        "variantSku": "OWNAPP.00015",
+        "variantId": "OWNAPP.00015",
+        "variantName": "24g Whey Protein Concentrate | 1Kg Pack | Cocoa",
+        "cacheKey": "own-whey-protein-2",
+        "grams": 1000,
+        "netWeightEvidenceUrl": "https://onlywhatsneeded.in/product/whey-protein-2",
+        "netWeightEvidenceGrams": 1000,
+        "netWeightEvidenceChecked": "2026-11-20",
+        "netWeightEvidenceTitle": "24g Whey Protein Concentrate | 1Kg Pack | Cocoa",
+        "allowRetailMultipack": false
+      }
+    },
+    {
+      "order": 393,
+      "profile": {
+        "id": "protein-own-ownapk-0054",
+        "brand": "Only What's Needed",
+        "product": "Whey Protein Concentrate",
+        "flavour": "Cocoa",
+        "packaging": "2 x 1kg pouches",
+        "source": "Not specified",
+        "nutritionUrl": "https://i.mscwlns.co/media/misc/pdp_rcl/whey-protein-2/NI-table%20%283%29_bjk6hv.jpg?tr=w-800",
+        "labelSources": [
+          "https://onlywhatsneeded.in/product/whey-protein-3",
+          "https://i.mscwlns.co/media/misc/pdp_rcl/whey-protein-2/NI-table%20%283%29_bjk6hv.jpg?tr=w-800"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "form": "Powder",
+        "kg": 2,
+        "type": "Whey",
+        "subclass": "Whey concentrate",
+        "protein": 72.73,
+        "scoop": 33,
+        "serving": 33,
+        "energy": 388.5,
+        "basis": "Exact official retail pack and ordinary INR listed price reviewed on 20 November 2026. Nutrition values are manufacturer declarations, not independent assay results. Trustified was used for discovery; a report on another batch or product does not certify this listing.",
+        "notes": "Exact manufacturer SKU OWNAPK.0054 and product URL were matched to the explicit ProductGroup variant. Label declares 72.73 g protein and 388.50 kcal per 100 g,33 g scoop.93% whey concentrate ingredient inclusion is not protein concentration. Contains milk; whey is instantized with lecithin. This is an explicitly offered 2 kg retail pack made from 2 x 1 kg pouches, not an extrapolated single-pack price. Unrelated copied hair-loss metadata in the website state was ignored; only matching product name,SKU,variant and reviewed panel were used.",
+        "allergens": [
+          "Milk"
+        ],
+        "category": "protein",
+        "kind": "jsonld",
+        "base": "https://onlywhatsneeded.in",
+        "productUrl": "https://onlywhatsneeded.in/product/whey-protein",
+        "variantUrl": "https://onlywhatsneeded.in/product/whey-protein-3",
+        "variantSku": "OWNAPK.0054",
+        "variantId": "OWNAPK.0054",
+        "variantName": "24g Whey Protein Concentrate | 2Kg Pack (1Kg x 2) | Cocoa",
+        "cacheKey": "own-whey-protein-3",
+        "grams": 2000,
+        "netWeightEvidenceUrl": "https://onlywhatsneeded.in/product/whey-protein-3",
+        "netWeightEvidenceGrams": 2000,
+        "netWeightEvidenceChecked": "2026-11-20",
+        "netWeightEvidenceTitle": "24g Whey Protein Concentrate | 2Kg Pack (1Kg x 2) | Cocoa",
+        "allowRetailMultipack": true
+      }
+    }
+  ]
+}

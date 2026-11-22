@@ -1,0 +1,987 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "Foodstrong",
+  "product": "Whey Protein",
+  "variants": [
+    {
+      "order": 879,
+      "offer": {
+        "id": "protein-foodstrong-46883204694246",
+        "brand": "Foodstrong",
+        "product": "Whey Protein",
+        "flavour": "Chocolate Almond",
+        "packaging": "Pouch",
+        "source": "Not specified",
+        "price": 2999,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://foodstrong.in/products/daily-whey-protein-chocolate-almond?variant=46883204694246",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0430/7986/0381/files/DP01_NI.jpg?v=1791804054",
+        "labelSources": [
+          "https://foodstrong.in/products/daily-whey-protein-chocolate-almond?variant=46883204694246",
+          "https://cdn.shopify.com/s/files/1/0430/7986/0381/files/DP01_NI.jpg?v=1791804054"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "46883204694246",
+        "form": "Powder",
+        "basis": "Exact manufacturer product and retail pack, ordinary INR listed price and selected stock reviewed on 20 November 2026. Label amounts are manufacturer declarations, not independent assay results. Trustified is used for discovery; a report on a different batch or formulation does not certify this offer.",
+        "notes": "The exact Chocolate Almond gallery composition panel was reviewed separately. Declared composition: 26 g protein and 126 kcal per 34 g scoop; per100 g values are calculated from those serving amounts. Rounded serving counts do not replace the actual selected1/2kg pack. The manufacturer advertises added turmeric across the range, but some ingredient graphics omit it; curcumin quantity is not established. Review the current pack composition and herb exposure before stack inclusion. Enzyme ingredients are bromelain and papain; amounts are not declared. Advertising about anti-inflammatory effects, hormone-free sourcing, zero bloating or improved absorption is not adopted as verified comparative benefit.",
+        "kg": 1,
+        "type": "Whey",
+        "subclass": "Whey concentrate + isolate",
+        "protein": 76.47058823529412,
+        "scoop": 34,
+        "serving": 34,
+        "energy": 370.5882352941177,
+        "requiresProductReview": true,
+        "productReviewReason": "Added turmeric/curcumin is advertised but its dose and some gallery ingredient lists are inconsistent; review exact formulation before stack inclusion.",
+        "additionalIngredients": [
+          {
+            "name": "Curcumin / turmeric extract",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving; inclusion advertised, quantity not verified"
+          },
+          {
+            "name": "Bromelain",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Papain",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "allergens": [
+          "Milk",
+          "Almond"
+        ]
+      }
+    },
+    {
+      "order": 880,
+      "offer": {
+        "id": "protein-foodstrong-46832280142054",
+        "brand": "Foodstrong",
+        "product": "Whey Protein",
+        "flavour": "Chocolate Almond",
+        "packaging": "Pouch",
+        "source": "Not specified",
+        "price": 5599,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://foodstrong.in/products/whey-protein-chocolate-almond-2-kg?variant=46832280142054",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0430/7986/0381/files/DP012KG-11.jpg?v=1762418299",
+        "labelSources": [
+          "https://foodstrong.in/products/whey-protein-chocolate-almond-2-kg?variant=46832280142054",
+          "https://cdn.shopify.com/s/files/1/0430/7986/0381/files/DP012KG-11.jpg?v=1762418299"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "46832280142054",
+        "form": "Powder",
+        "basis": "Exact manufacturer product and retail pack, ordinary INR listed price and selected stock reviewed on 20 November 2026. Label amounts are manufacturer declarations, not independent assay results. Trustified is used for discovery; a report on a different batch or formulation does not certify this offer.",
+        "notes": "The exact Chocolate Almond gallery composition panel was reviewed separately. Declared composition: 26 g protein and 126 kcal per 34 g scoop; per100 g values are calculated from those serving amounts. Rounded serving counts do not replace the actual selected1/2kg pack. The manufacturer advertises added turmeric across the range, but some ingredient graphics omit it; curcumin quantity is not established. Review the current pack composition and herb exposure before stack inclusion. Enzyme ingredients are bromelain and papain; amounts are not declared. Advertising about anti-inflammatory effects, hormone-free sourcing, zero bloating or improved absorption is not adopted as verified comparative benefit.",
+        "kg": 2,
+        "type": "Whey",
+        "subclass": "Whey concentrate + isolate",
+        "protein": 76.47058823529412,
+        "scoop": 34,
+        "serving": 34,
+        "energy": 370.5882352941177,
+        "requiresProductReview": true,
+        "productReviewReason": "Added turmeric/curcumin is advertised but its dose and some gallery ingredient lists are inconsistent; review exact formulation before stack inclusion.",
+        "additionalIngredients": [
+          {
+            "name": "Curcumin / turmeric extract",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving; inclusion advertised, quantity not verified"
+          },
+          {
+            "name": "Bromelain",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Papain",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "allergens": [
+          "Milk",
+          "Almond"
+        ]
+      }
+    },
+    {
+      "order": 881,
+      "offer": {
+        "id": "protein-foodstrong-46883213246694",
+        "brand": "Foodstrong",
+        "product": "Whey Protein",
+        "flavour": "Coffee",
+        "packaging": "Pouch",
+        "source": "Not specified",
+        "price": 2999,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://foodstrong.in/products/whey-protein-coffee-1kg?variant=46883213246694",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0430/7986/0381/files/DP02_NI.jpg?v=1791804055",
+        "labelSources": [
+          "https://foodstrong.in/products/whey-protein-coffee-1kg?variant=46883213246694",
+          "https://cdn.shopify.com/s/files/1/0430/7986/0381/files/DP02_NI.jpg?v=1791804055"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "46883213246694",
+        "form": "Powder",
+        "basis": "Exact manufacturer product and retail pack, ordinary INR listed price and selected stock reviewed on 20 November 2026. Label amounts are manufacturer declarations, not independent assay results. Trustified is used for discovery; a report on a different batch or formulation does not certify this offer.",
+        "notes": "The exact Coffee gallery composition panel was reviewed separately. Declared composition: 26 g protein and 128.2 kcal per 35 g scoop; per100 g values are calculated from those serving amounts. Rounded serving counts do not replace the actual selected1/2kg pack. The manufacturer advertises added turmeric across the range, but some ingredient graphics omit it; curcumin quantity is not established. Review the current pack composition and herb exposure before stack inclusion. Enzyme ingredients are bromelain and papain; amounts are not declared. Advertising about anti-inflammatory effects, hormone-free sourcing, zero bloating or improved absorption is not adopted as verified comparative benefit. Coffee is declared at3% inclusion; caffeine quantity is not given and is not inferred from coffee mass.",
+        "kg": 1,
+        "type": "Whey",
+        "subclass": "Whey concentrate + isolate",
+        "protein": 74.28571428571429,
+        "scoop": 35,
+        "serving": 35,
+        "energy": 366.2857142857142,
+        "requiresProductReview": true,
+        "productReviewReason": "Added turmeric/curcumin is advertised but its dose and some gallery ingredient lists are inconsistent; review exact formulation before stack inclusion. Coffee contains unquantified caffeine.",
+        "additionalIngredients": [
+          {
+            "name": "Curcumin / turmeric extract",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving; inclusion advertised, quantity not verified"
+          },
+          {
+            "name": "Bromelain",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Papain",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Coffee",
+            "amount": 1050,
+            "unit": "mg",
+            "basis": "per35g serving; ingredient inclusion3%"
+          },
+          {
+            "name": "Caffeine",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "allergens": [
+          "Milk"
+        ]
+      }
+    },
+    {
+      "order": 882,
+      "offer": {
+        "id": "protein-foodstrong-46883223208166",
+        "brand": "Foodstrong",
+        "product": "Whey Protein",
+        "flavour": "Vanilla",
+        "packaging": "Pouch",
+        "source": "Not specified",
+        "price": 2999,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://foodstrong.in/products/daily-whey-protein-vanilla-1-kg?variant=46883223208166",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0430/7986/0381/files/10_5d997a1d-fc22-4038-81b7-5197b2b8715e.jpg?v=1791048852",
+        "labelSources": [
+          "https://foodstrong.in/products/daily-whey-protein-vanilla-1-kg?variant=46883223208166",
+          "https://cdn.shopify.com/s/files/1/0430/7986/0381/files/10_5d997a1d-fc22-4038-81b7-5197b2b8715e.jpg?v=1791048852"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "46883223208166",
+        "form": "Powder",
+        "basis": "Exact manufacturer product and retail pack, ordinary INR listed price and selected stock reviewed on 20 November 2026. Label amounts are manufacturer declarations, not independent assay results. Trustified is used for discovery; a report on a different batch or formulation does not certify this offer.",
+        "notes": "The exact Vanilla gallery composition panel was reviewed separately. Declared composition: 26.1 g protein and 128 kcal per 34 g scoop; per100 g values are calculated from those serving amounts. Rounded serving counts do not replace the actual selected1/2kg pack. The manufacturer advertises added turmeric across the range, but some ingredient graphics omit it; curcumin quantity is not established. Review the current pack composition and herb exposure before stack inclusion. Enzyme ingredients are bromelain and papain; amounts are not declared. Advertising about anti-inflammatory effects, hormone-free sourcing, zero bloating or improved absorption is not adopted as verified comparative benefit.",
+        "kg": 1,
+        "type": "Whey",
+        "subclass": "Whey concentrate + isolate",
+        "protein": 76.76470588235294,
+        "scoop": 34,
+        "serving": 34,
+        "energy": 376.4705882352941,
+        "requiresProductReview": true,
+        "productReviewReason": "Added turmeric/curcumin is advertised but its dose and some gallery ingredient lists are inconsistent; review exact formulation before stack inclusion.",
+        "additionalIngredients": [
+          {
+            "name": "Curcumin / turmeric extract",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving; inclusion advertised, quantity not verified"
+          },
+          {
+            "name": "Bromelain",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Papain",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "allergens": [
+          "Milk"
+        ]
+      }
+    },
+    {
+      "order": 883,
+      "offer": {
+        "id": "protein-foodstrong-46883215868134",
+        "brand": "Foodstrong",
+        "product": "Whey Protein",
+        "flavour": "Mango",
+        "packaging": "Pouch",
+        "source": "Not specified",
+        "price": 2999,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://foodstrong.in/products/whey-protein-mango-1-kg?variant=46883215868134",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0430/7986/0381/files/DP04_NI.jpg?v=1791804054",
+        "labelSources": [
+          "https://foodstrong.in/products/whey-protein-mango-1-kg?variant=46883215868134",
+          "https://cdn.shopify.com/s/files/1/0430/7986/0381/files/DP04_NI.jpg?v=1791804054"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "46883215868134",
+        "form": "Powder",
+        "basis": "Exact manufacturer product and retail pack, ordinary INR listed price and selected stock reviewed on 20 November 2026. Label amounts are manufacturer declarations, not independent assay results. Trustified is used for discovery; a report on a different batch or formulation does not certify this offer.",
+        "notes": "The exact Mango gallery composition panel was reviewed separately. The selected Mango gallery contains conflicting24 g front,25 g footer and26 g nutrition-table protein claims. Protein concentration remains unknown pending an internally consistent current pack label. Its calorie value also disagrees with the stated macronutrients and is left unknown. Rounded serving counts do not replace the actual selected1/2kg pack. The manufacturer advertises added turmeric across the range, but some ingredient graphics omit it; curcumin quantity is not established. Review the current pack composition and herb exposure before stack inclusion. Enzyme ingredients are bromelain and papain; amounts are not declared. Advertising about anti-inflammatory effects, hormone-free sourcing, zero bloating or improved absorption is not adopted as verified comparative benefit.",
+        "kg": 1,
+        "type": "Whey",
+        "subclass": "Whey concentrate + isolate",
+        "protein": null,
+        "scoop": 35,
+        "serving": 35,
+        "energy": null,
+        "requiresProductReview": true,
+        "productReviewReason": "Added turmeric/curcumin is advertised but its dose and some gallery ingredient lists are inconsistent; review exact formulation before stack inclusion. Mango gallery has unresolved24/25/26g protein claims.",
+        "additionalIngredients": [
+          {
+            "name": "Curcumin / turmeric extract",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving; inclusion advertised, quantity not verified"
+          },
+          {
+            "name": "Bromelain",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Papain",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "allergens": [
+          "Milk"
+        ]
+      }
+    },
+    {
+      "order": 884,
+      "offer": {
+        "id": "protein-foodstrong-46883273605350",
+        "brand": "Foodstrong",
+        "product": "Whey Protein",
+        "flavour": "Malai Kulfi",
+        "packaging": "Pouch",
+        "source": "Not specified",
+        "price": 2999,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://foodstrong.in/products/whey-protein-malai-kulfi-1-kg?variant=46883273605350",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0430/7986/0381/files/DP07_NI.jpg?v=1791804054",
+        "labelSources": [
+          "https://foodstrong.in/products/whey-protein-malai-kulfi-1-kg?variant=46883273605350",
+          "https://cdn.shopify.com/s/files/1/0430/7986/0381/files/DP07_NI.jpg?v=1791804054"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "46883273605350",
+        "form": "Powder",
+        "basis": "Exact manufacturer product and retail pack, ordinary INR listed price and selected stock reviewed on 20 November 2026. Label amounts are manufacturer declarations, not independent assay results. Trustified is used for discovery; a report on a different batch or formulation does not certify this offer.",
+        "notes": "The exact Malai Kulfi gallery composition panel was reviewed separately. Declared composition: 24.5 g protein and 134.2 kcal per 35 g scoop; per100 g values are calculated from those serving amounts. Rounded serving counts do not replace the actual selected1/2kg pack. The manufacturer advertises added turmeric across the range, but some ingredient graphics omit it; curcumin quantity is not established. Review the current pack composition and herb exposure before stack inclusion. Enzyme ingredients are bromelain and papain; amounts are not declared. Advertising about anti-inflammatory effects, hormone-free sourcing, zero bloating or improved absorption is not adopted as verified comparative benefit. Generic body copy says26g, but the exact detailed Malai Kulfi panel declares24.5g; the detailed composition panel is used.",
+        "kg": 1,
+        "type": "Whey",
+        "subclass": "Whey concentrate + isolate",
+        "protein": 70,
+        "scoop": 35,
+        "serving": 35,
+        "energy": 383.4285714285714,
+        "requiresProductReview": true,
+        "productReviewReason": "Added turmeric/curcumin is advertised but its dose and some gallery ingredient lists are inconsistent; review exact formulation before stack inclusion.",
+        "additionalIngredients": [
+          {
+            "name": "Curcumin / turmeric extract",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving; inclusion advertised, quantity not verified"
+          },
+          {
+            "name": "Bromelain",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Papain",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "allergens": [
+          "Milk",
+          "Almond"
+        ]
+      }
+    },
+    {
+      "order": 885,
+      "offer": {
+        "id": "protein-foodstrong-46883272491238",
+        "brand": "Foodstrong",
+        "product": "Whey Protein",
+        "flavour": "Cookies & Cream",
+        "packaging": "Pouch",
+        "source": "Not specified",
+        "price": 2999,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://foodstrong.in/products/whey-protein-cookies-cream-1kg?variant=46883272491238",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0430/7986/0381/files/10_458531f5-ece5-421c-bf19-3b90a60f01d5.jpg?v=1791048847",
+        "labelSources": [
+          "https://foodstrong.in/products/whey-protein-cookies-cream-1kg?variant=46883272491238",
+          "https://cdn.shopify.com/s/files/1/0430/7986/0381/files/10_458531f5-ece5-421c-bf19-3b90a60f01d5.jpg?v=1791048847"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "46883272491238",
+        "form": "Powder",
+        "basis": "Exact manufacturer product and retail pack, ordinary INR listed price and selected stock reviewed on 20 November 2026. Label amounts are manufacturer declarations, not independent assay results. Trustified is used for discovery; a report on a different batch or formulation does not certify this offer.",
+        "notes": "The exact Cookies & Cream gallery composition panel was reviewed separately. Declared composition: 24.4 g protein and 125.6 kcal per 35 g scoop; per100 g values are calculated from those serving amounts. Rounded serving counts do not replace the actual selected1/2kg pack. The manufacturer advertises added turmeric across the range, but some ingredient graphics omit it; curcumin quantity is not established. Review the current pack composition and herb exposure before stack inclusion. Enzyme ingredients are bromelain and papain; amounts are not declared. Advertising about anti-inflammatory effects, hormone-free sourcing, zero bloating or improved absorption is not adopted as verified comparative benefit. Generic body copy says26g, but the exact detailed Cookies & Cream panel declares24.4g; the detailed composition panel is used.",
+        "kg": 1,
+        "type": "Whey",
+        "subclass": "Whey concentrate + isolate",
+        "protein": 69.71428571428571,
+        "scoop": 35,
+        "serving": 35,
+        "energy": 358.85714285714283,
+        "requiresProductReview": true,
+        "productReviewReason": "Added turmeric/curcumin is advertised but its dose and some gallery ingredient lists are inconsistent; review exact formulation before stack inclusion.",
+        "additionalIngredients": [
+          {
+            "name": "Curcumin / turmeric extract",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving; inclusion advertised, quantity not verified"
+          },
+          {
+            "name": "Bromelain",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Papain",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "allergens": [
+          "Milk"
+        ]
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5324,
+      "observation": {
+        "category": "protein",
+        "offerId": "protein-foodstrong-46883204694246",
+        "date": "2026-11-20",
+        "price": 2999,
+        "currency": "INR",
+        "sourceUrl": "https://foodstrong.in/products/daily-whey-protein-chocolate-almond?variant=46883204694246",
+        "evidenceUrl": "https://foodstrong.in/products/daily-whey-protein-chocolate-almond.json",
+        "kind": "official-live",
+        "variantId": "46883204694246",
+        "matchBasis": "Official Shopify exact variant ID 46883204694246; actual net pack in product title and selected pack gallery, ordinary INR selling price and variant stock reviewed."
+      }
+    },
+    {
+      "order": 5325,
+      "observation": {
+        "category": "protein",
+        "offerId": "protein-foodstrong-46832280142054",
+        "date": "2026-11-20",
+        "price": 5599,
+        "currency": "INR",
+        "sourceUrl": "https://foodstrong.in/products/whey-protein-chocolate-almond-2-kg?variant=46832280142054",
+        "evidenceUrl": "https://foodstrong.in/products/whey-protein-chocolate-almond-2-kg.json",
+        "kind": "official-live",
+        "variantId": "46832280142054",
+        "matchBasis": "Official Shopify exact variant ID 46832280142054; actual net pack in product title and selected pack gallery, ordinary INR selling price and variant stock reviewed."
+      }
+    },
+    {
+      "order": 5326,
+      "observation": {
+        "category": "protein",
+        "offerId": "protein-foodstrong-46883213246694",
+        "date": "2026-11-20",
+        "price": 2999,
+        "currency": "INR",
+        "sourceUrl": "https://foodstrong.in/products/whey-protein-coffee-1kg?variant=46883213246694",
+        "evidenceUrl": "https://foodstrong.in/products/whey-protein-coffee-1kg.json",
+        "kind": "official-live",
+        "variantId": "46883213246694",
+        "matchBasis": "Official Shopify exact variant ID 46883213246694; actual net pack in product title and selected pack gallery, ordinary INR selling price and variant stock reviewed."
+      }
+    },
+    {
+      "order": 5327,
+      "observation": {
+        "category": "protein",
+        "offerId": "protein-foodstrong-46883223208166",
+        "date": "2026-11-20",
+        "price": 2999,
+        "currency": "INR",
+        "sourceUrl": "https://foodstrong.in/products/daily-whey-protein-vanilla-1-kg?variant=46883223208166",
+        "evidenceUrl": "https://foodstrong.in/products/daily-whey-protein-vanilla-1-kg.json",
+        "kind": "official-live",
+        "variantId": "46883223208166",
+        "matchBasis": "Official Shopify exact variant ID 46883223208166; actual net pack in product title and selected pack gallery, ordinary INR selling price and variant stock reviewed."
+      }
+    },
+    {
+      "order": 5328,
+      "observation": {
+        "category": "protein",
+        "offerId": "protein-foodstrong-46883215868134",
+        "date": "2026-11-20",
+        "price": 2999,
+        "currency": "INR",
+        "sourceUrl": "https://foodstrong.in/products/whey-protein-mango-1-kg?variant=46883215868134",
+        "evidenceUrl": "https://foodstrong.in/products/whey-protein-mango-1-kg.json",
+        "kind": "official-live",
+        "variantId": "46883215868134",
+        "matchBasis": "Official Shopify exact variant ID 46883215868134; actual net pack in product title and selected pack gallery, ordinary INR selling price and variant stock reviewed."
+      }
+    },
+    {
+      "order": 5329,
+      "observation": {
+        "category": "protein",
+        "offerId": "protein-foodstrong-46883273605350",
+        "date": "2026-11-20",
+        "price": 2999,
+        "currency": "INR",
+        "sourceUrl": "https://foodstrong.in/products/whey-protein-malai-kulfi-1-kg?variant=46883273605350",
+        "evidenceUrl": "https://foodstrong.in/products/whey-protein-malai-kulfi-1-kg.json",
+        "kind": "official-live",
+        "variantId": "46883273605350",
+        "matchBasis": "Official Shopify exact variant ID 46883273605350; actual net pack in product title and selected pack gallery, ordinary INR selling price and variant stock reviewed."
+      }
+    },
+    {
+      "order": 5330,
+      "observation": {
+        "category": "protein",
+        "offerId": "protein-foodstrong-46883272491238",
+        "date": "2026-11-20",
+        "price": 2999,
+        "currency": "INR",
+        "sourceUrl": "https://foodstrong.in/products/whey-protein-cookies-cream-1kg?variant=46883272491238",
+        "evidenceUrl": "https://foodstrong.in/products/whey-protein-cookies-cream-1kg.json",
+        "kind": "official-live",
+        "variantId": "46883272491238",
+        "matchBasis": "Official Shopify exact variant ID 46883272491238; actual net pack in product title and selected pack gallery, ordinary INR selling price and variant stock reviewed."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 407,
+      "profile": {
+        "id": "protein-foodstrong-46883204694246",
+        "brand": "Foodstrong",
+        "product": "Whey Protein",
+        "flavour": "Chocolate Almond",
+        "packaging": "Pouch",
+        "source": "Not specified",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0430/7986/0381/files/DP01_NI.jpg?v=1791804054",
+        "labelSources": [
+          "https://foodstrong.in/products/daily-whey-protein-chocolate-almond?variant=46883204694246",
+          "https://cdn.shopify.com/s/files/1/0430/7986/0381/files/DP01_NI.jpg?v=1791804054"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "form": "Powder",
+        "basis": "Exact manufacturer product and retail pack, ordinary INR listed price and selected stock reviewed on 20 November 2026. Label amounts are manufacturer declarations, not independent assay results. Trustified is used for discovery; a report on a different batch or formulation does not certify this offer.",
+        "notes": "The exact Chocolate Almond gallery composition panel was reviewed separately. Declared composition: 26 g protein and 126 kcal per 34 g scoop; per100 g values are calculated from those serving amounts. Rounded serving counts do not replace the actual selected1/2kg pack. The manufacturer advertises added turmeric across the range, but some ingredient graphics omit it; curcumin quantity is not established. Review the current pack composition and herb exposure before stack inclusion. Enzyme ingredients are bromelain and papain; amounts are not declared. Advertising about anti-inflammatory effects, hormone-free sourcing, zero bloating or improved absorption is not adopted as verified comparative benefit.",
+        "kg": 1,
+        "type": "Whey",
+        "subclass": "Whey concentrate + isolate",
+        "protein": 76.47058823529412,
+        "scoop": 34,
+        "serving": 34,
+        "energy": 370.5882352941177,
+        "requiresProductReview": true,
+        "productReviewReason": "Added turmeric/curcumin is advertised but its dose and some gallery ingredient lists are inconsistent; review exact formulation before stack inclusion.",
+        "additionalIngredients": [
+          {
+            "name": "Curcumin / turmeric extract",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving; inclusion advertised, quantity not verified"
+          },
+          {
+            "name": "Bromelain",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Papain",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "allergens": [
+          "Milk",
+          "Almond"
+        ],
+        "category": "protein",
+        "kind": "shopify",
+        "base": "https://foodstrong.in",
+        "handle": "daily-whey-protein-chocolate-almond",
+        "variantIds": [
+          "46883204694246"
+        ],
+        "cacheKey": "foodstrong-46883204694246",
+        "grams": 1000
+      }
+    },
+    {
+      "order": 408,
+      "profile": {
+        "id": "protein-foodstrong-46832280142054",
+        "brand": "Foodstrong",
+        "product": "Whey Protein",
+        "flavour": "Chocolate Almond",
+        "packaging": "Pouch",
+        "source": "Not specified",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0430/7986/0381/files/DP012KG-11.jpg?v=1762418299",
+        "labelSources": [
+          "https://foodstrong.in/products/whey-protein-chocolate-almond-2-kg?variant=46832280142054",
+          "https://cdn.shopify.com/s/files/1/0430/7986/0381/files/DP012KG-11.jpg?v=1762418299"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "form": "Powder",
+        "basis": "Exact manufacturer product and retail pack, ordinary INR listed price and selected stock reviewed on 20 November 2026. Label amounts are manufacturer declarations, not independent assay results. Trustified is used for discovery; a report on a different batch or formulation does not certify this offer.",
+        "notes": "The exact Chocolate Almond gallery composition panel was reviewed separately. Declared composition: 26 g protein and 126 kcal per 34 g scoop; per100 g values are calculated from those serving amounts. Rounded serving counts do not replace the actual selected1/2kg pack. The manufacturer advertises added turmeric across the range, but some ingredient graphics omit it; curcumin quantity is not established. Review the current pack composition and herb exposure before stack inclusion. Enzyme ingredients are bromelain and papain; amounts are not declared. Advertising about anti-inflammatory effects, hormone-free sourcing, zero bloating or improved absorption is not adopted as verified comparative benefit.",
+        "kg": 2,
+        "type": "Whey",
+        "subclass": "Whey concentrate + isolate",
+        "protein": 76.47058823529412,
+        "scoop": 34,
+        "serving": 34,
+        "energy": 370.5882352941177,
+        "requiresProductReview": true,
+        "productReviewReason": "Added turmeric/curcumin is advertised but its dose and some gallery ingredient lists are inconsistent; review exact formulation before stack inclusion.",
+        "additionalIngredients": [
+          {
+            "name": "Curcumin / turmeric extract",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving; inclusion advertised, quantity not verified"
+          },
+          {
+            "name": "Bromelain",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Papain",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "allergens": [
+          "Milk",
+          "Almond"
+        ],
+        "category": "protein",
+        "kind": "shopify",
+        "base": "https://foodstrong.in",
+        "handle": "whey-protein-chocolate-almond-2-kg",
+        "variantIds": [
+          "46832280142054"
+        ],
+        "cacheKey": "foodstrong-46832280142054",
+        "grams": 2000
+      }
+    },
+    {
+      "order": 409,
+      "profile": {
+        "id": "protein-foodstrong-46883213246694",
+        "brand": "Foodstrong",
+        "product": "Whey Protein",
+        "flavour": "Coffee",
+        "packaging": "Pouch",
+        "source": "Not specified",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0430/7986/0381/files/DP02_NI.jpg?v=1791804055",
+        "labelSources": [
+          "https://foodstrong.in/products/whey-protein-coffee-1kg?variant=46883213246694",
+          "https://cdn.shopify.com/s/files/1/0430/7986/0381/files/DP02_NI.jpg?v=1791804055"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "form": "Powder",
+        "basis": "Exact manufacturer product and retail pack, ordinary INR listed price and selected stock reviewed on 20 November 2026. Label amounts are manufacturer declarations, not independent assay results. Trustified is used for discovery; a report on a different batch or formulation does not certify this offer.",
+        "notes": "The exact Coffee gallery composition panel was reviewed separately. Declared composition: 26 g protein and 128.2 kcal per 35 g scoop; per100 g values are calculated from those serving amounts. Rounded serving counts do not replace the actual selected1/2kg pack. The manufacturer advertises added turmeric across the range, but some ingredient graphics omit it; curcumin quantity is not established. Review the current pack composition and herb exposure before stack inclusion. Enzyme ingredients are bromelain and papain; amounts are not declared. Advertising about anti-inflammatory effects, hormone-free sourcing, zero bloating or improved absorption is not adopted as verified comparative benefit. Coffee is declared at3% inclusion; caffeine quantity is not given and is not inferred from coffee mass.",
+        "kg": 1,
+        "type": "Whey",
+        "subclass": "Whey concentrate + isolate",
+        "protein": 74.28571428571429,
+        "scoop": 35,
+        "serving": 35,
+        "energy": 366.2857142857142,
+        "requiresProductReview": true,
+        "productReviewReason": "Added turmeric/curcumin is advertised but its dose and some gallery ingredient lists are inconsistent; review exact formulation before stack inclusion. Coffee contains unquantified caffeine.",
+        "additionalIngredients": [
+          {
+            "name": "Curcumin / turmeric extract",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving; inclusion advertised, quantity not verified"
+          },
+          {
+            "name": "Bromelain",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Papain",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Coffee",
+            "amount": 1050,
+            "unit": "mg",
+            "basis": "per35g serving; ingredient inclusion3%"
+          },
+          {
+            "name": "Caffeine",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "allergens": [
+          "Milk"
+        ],
+        "category": "protein",
+        "kind": "shopify",
+        "base": "https://foodstrong.in",
+        "handle": "whey-protein-coffee-1kg",
+        "variantIds": [
+          "46883213246694"
+        ],
+        "cacheKey": "foodstrong-46883213246694",
+        "grams": 1000
+      }
+    },
+    {
+      "order": 410,
+      "profile": {
+        "id": "protein-foodstrong-46883223208166",
+        "brand": "Foodstrong",
+        "product": "Whey Protein",
+        "flavour": "Vanilla",
+        "packaging": "Pouch",
+        "source": "Not specified",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0430/7986/0381/files/10_5d997a1d-fc22-4038-81b7-5197b2b8715e.jpg?v=1791048852",
+        "labelSources": [
+          "https://foodstrong.in/products/daily-whey-protein-vanilla-1-kg?variant=46883223208166",
+          "https://cdn.shopify.com/s/files/1/0430/7986/0381/files/10_5d997a1d-fc22-4038-81b7-5197b2b8715e.jpg?v=1791048852"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "form": "Powder",
+        "basis": "Exact manufacturer product and retail pack, ordinary INR listed price and selected stock reviewed on 20 November 2026. Label amounts are manufacturer declarations, not independent assay results. Trustified is used for discovery; a report on a different batch or formulation does not certify this offer.",
+        "notes": "The exact Vanilla gallery composition panel was reviewed separately. Declared composition: 26.1 g protein and 128 kcal per 34 g scoop; per100 g values are calculated from those serving amounts. Rounded serving counts do not replace the actual selected1/2kg pack. The manufacturer advertises added turmeric across the range, but some ingredient graphics omit it; curcumin quantity is not established. Review the current pack composition and herb exposure before stack inclusion. Enzyme ingredients are bromelain and papain; amounts are not declared. Advertising about anti-inflammatory effects, hormone-free sourcing, zero bloating or improved absorption is not adopted as verified comparative benefit.",
+        "kg": 1,
+        "type": "Whey",
+        "subclass": "Whey concentrate + isolate",
+        "protein": 76.76470588235294,
+        "scoop": 34,
+        "serving": 34,
+        "energy": 376.4705882352941,
+        "requiresProductReview": true,
+        "productReviewReason": "Added turmeric/curcumin is advertised but its dose and some gallery ingredient lists are inconsistent; review exact formulation before stack inclusion.",
+        "additionalIngredients": [
+          {
+            "name": "Curcumin / turmeric extract",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving; inclusion advertised, quantity not verified"
+          },
+          {
+            "name": "Bromelain",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Papain",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "allergens": [
+          "Milk"
+        ],
+        "category": "protein",
+        "kind": "shopify",
+        "base": "https://foodstrong.in",
+        "handle": "daily-whey-protein-vanilla-1-kg",
+        "variantIds": [
+          "46883223208166"
+        ],
+        "cacheKey": "foodstrong-46883223208166",
+        "grams": 1000
+      }
+    },
+    {
+      "order": 411,
+      "profile": {
+        "id": "protein-foodstrong-46883215868134",
+        "brand": "Foodstrong",
+        "product": "Whey Protein",
+        "flavour": "Mango",
+        "packaging": "Pouch",
+        "source": "Not specified",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0430/7986/0381/files/DP04_NI.jpg?v=1791804054",
+        "labelSources": [
+          "https://foodstrong.in/products/whey-protein-mango-1-kg?variant=46883215868134",
+          "https://cdn.shopify.com/s/files/1/0430/7986/0381/files/DP04_NI.jpg?v=1791804054"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "form": "Powder",
+        "basis": "Exact manufacturer product and retail pack, ordinary INR listed price and selected stock reviewed on 20 November 2026. Label amounts are manufacturer declarations, not independent assay results. Trustified is used for discovery; a report on a different batch or formulation does not certify this offer.",
+        "notes": "The exact Mango gallery composition panel was reviewed separately. The selected Mango gallery contains conflicting24 g front,25 g footer and26 g nutrition-table protein claims. Protein concentration remains unknown pending an internally consistent current pack label. Its calorie value also disagrees with the stated macronutrients and is left unknown. Rounded serving counts do not replace the actual selected1/2kg pack. The manufacturer advertises added turmeric across the range, but some ingredient graphics omit it; curcumin quantity is not established. Review the current pack composition and herb exposure before stack inclusion. Enzyme ingredients are bromelain and papain; amounts are not declared. Advertising about anti-inflammatory effects, hormone-free sourcing, zero bloating or improved absorption is not adopted as verified comparative benefit.",
+        "kg": 1,
+        "type": "Whey",
+        "subclass": "Whey concentrate + isolate",
+        "protein": null,
+        "scoop": 35,
+        "serving": 35,
+        "energy": null,
+        "requiresProductReview": true,
+        "productReviewReason": "Added turmeric/curcumin is advertised but its dose and some gallery ingredient lists are inconsistent; review exact formulation before stack inclusion. Mango gallery has unresolved24/25/26g protein claims.",
+        "additionalIngredients": [
+          {
+            "name": "Curcumin / turmeric extract",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving; inclusion advertised, quantity not verified"
+          },
+          {
+            "name": "Bromelain",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Papain",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "allergens": [
+          "Milk"
+        ],
+        "category": "protein",
+        "kind": "shopify",
+        "base": "https://foodstrong.in",
+        "handle": "whey-protein-mango-1-kg",
+        "variantIds": [
+          "46883215868134"
+        ],
+        "cacheKey": "foodstrong-46883215868134",
+        "grams": 1000
+      }
+    },
+    {
+      "order": 412,
+      "profile": {
+        "id": "protein-foodstrong-46883273605350",
+        "brand": "Foodstrong",
+        "product": "Whey Protein",
+        "flavour": "Malai Kulfi",
+        "packaging": "Pouch",
+        "source": "Not specified",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0430/7986/0381/files/DP07_NI.jpg?v=1791804054",
+        "labelSources": [
+          "https://foodstrong.in/products/whey-protein-malai-kulfi-1-kg?variant=46883273605350",
+          "https://cdn.shopify.com/s/files/1/0430/7986/0381/files/DP07_NI.jpg?v=1791804054"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "form": "Powder",
+        "basis": "Exact manufacturer product and retail pack, ordinary INR listed price and selected stock reviewed on 20 November 2026. Label amounts are manufacturer declarations, not independent assay results. Trustified is used for discovery; a report on a different batch or formulation does not certify this offer.",
+        "notes": "The exact Malai Kulfi gallery composition panel was reviewed separately. Declared composition: 24.5 g protein and 134.2 kcal per 35 g scoop; per100 g values are calculated from those serving amounts. Rounded serving counts do not replace the actual selected1/2kg pack. The manufacturer advertises added turmeric across the range, but some ingredient graphics omit it; curcumin quantity is not established. Review the current pack composition and herb exposure before stack inclusion. Enzyme ingredients are bromelain and papain; amounts are not declared. Advertising about anti-inflammatory effects, hormone-free sourcing, zero bloating or improved absorption is not adopted as verified comparative benefit. Generic body copy says26g, but the exact detailed Malai Kulfi panel declares24.5g; the detailed composition panel is used.",
+        "kg": 1,
+        "type": "Whey",
+        "subclass": "Whey concentrate + isolate",
+        "protein": 70,
+        "scoop": 35,
+        "serving": 35,
+        "energy": 383.4285714285714,
+        "requiresProductReview": true,
+        "productReviewReason": "Added turmeric/curcumin is advertised but its dose and some gallery ingredient lists are inconsistent; review exact formulation before stack inclusion.",
+        "additionalIngredients": [
+          {
+            "name": "Curcumin / turmeric extract",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving; inclusion advertised, quantity not verified"
+          },
+          {
+            "name": "Bromelain",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Papain",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "allergens": [
+          "Milk",
+          "Almond"
+        ],
+        "category": "protein",
+        "kind": "shopify",
+        "base": "https://foodstrong.in",
+        "handle": "whey-protein-malai-kulfi-1-kg",
+        "variantIds": [
+          "46883273605350"
+        ],
+        "cacheKey": "foodstrong-46883273605350",
+        "grams": 1000
+      }
+    },
+    {
+      "order": 413,
+      "profile": {
+        "id": "protein-foodstrong-46883272491238",
+        "brand": "Foodstrong",
+        "product": "Whey Protein",
+        "flavour": "Cookies & Cream",
+        "packaging": "Pouch",
+        "source": "Not specified",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0430/7986/0381/files/10_458531f5-ece5-421c-bf19-3b90a60f01d5.jpg?v=1791048847",
+        "labelSources": [
+          "https://foodstrong.in/products/whey-protein-cookies-cream-1kg?variant=46883272491238",
+          "https://cdn.shopify.com/s/files/1/0430/7986/0381/files/10_458531f5-ece5-421c-bf19-3b90a60f01d5.jpg?v=1791048847"
+        ],
+        "labelChecked": "2026-11-20",
+        "sourceType": "manufacturer",
+        "form": "Powder",
+        "basis": "Exact manufacturer product and retail pack, ordinary INR listed price and selected stock reviewed on 20 November 2026. Label amounts are manufacturer declarations, not independent assay results. Trustified is used for discovery; a report on a different batch or formulation does not certify this offer.",
+        "notes": "The exact Cookies & Cream gallery composition panel was reviewed separately. Declared composition: 24.4 g protein and 125.6 kcal per 35 g scoop; per100 g values are calculated from those serving amounts. Rounded serving counts do not replace the actual selected1/2kg pack. The manufacturer advertises added turmeric across the range, but some ingredient graphics omit it; curcumin quantity is not established. Review the current pack composition and herb exposure before stack inclusion. Enzyme ingredients are bromelain and papain; amounts are not declared. Advertising about anti-inflammatory effects, hormone-free sourcing, zero bloating or improved absorption is not adopted as verified comparative benefit. Generic body copy says26g, but the exact detailed Cookies & Cream panel declares24.4g; the detailed composition panel is used.",
+        "kg": 1,
+        "type": "Whey",
+        "subclass": "Whey concentrate + isolate",
+        "protein": 69.71428571428571,
+        "scoop": 35,
+        "serving": 35,
+        "energy": 358.85714285714283,
+        "requiresProductReview": true,
+        "productReviewReason": "Added turmeric/curcumin is advertised but its dose and some gallery ingredient lists are inconsistent; review exact formulation before stack inclusion.",
+        "additionalIngredients": [
+          {
+            "name": "Curcumin / turmeric extract",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving; inclusion advertised, quantity not verified"
+          },
+          {
+            "name": "Bromelain",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Papain",
+            "amount": null,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "allergens": [
+          "Milk"
+        ],
+        "category": "protein",
+        "kind": "shopify",
+        "base": "https://foodstrong.in",
+        "handle": "whey-protein-cookies-cream-1kg",
+        "variantIds": [
+          "46883272491238"
+        ],
+        "cacheKey": "foodstrong-46883272491238",
+        "grams": 1000
+      }
+    }
+  ]
+}

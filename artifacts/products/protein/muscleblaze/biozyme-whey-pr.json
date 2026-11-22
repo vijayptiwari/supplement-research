@@ -1,0 +1,211 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "MuscleBlaze",
+  "product": "Biozyme Whey PR",
+  "variants": [
+    {
+      "order": 248,
+      "offer": {
+        "id": 248,
+        "brand": "MuscleBlaze",
+        "product": "Biozyme Whey PR",
+        "type": "Whey — blend",
+        "flavour": "Chocolate Fudge",
+        "kg": 2,
+        "price": 7299,
+        "stock": "In stock",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Whey blend",
+        "energy": null,
+        "url": "https://www.muscleblaze.com/sv/muscleblaze-biozyme-whey-pr/SP-122029?navKey=VRNT-232197",
+        "nutritionUrl": "https://www.muscleblaze.com/sv/muscleblaze-biozyme-whey-pr/SP-122029?navKey=VRNT-232197",
+        "basis": "Nutrition table not exposed; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-biozyme-whey-pr/SP-122029?navKey=VRNT-232197",
+          "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-biozyme-whey-pr/SP-122029?navKey=VRNT-232197",
+          "matchBasis": "Official selected product schema SKU matches exact navigation key"
+        }
+      }
+    },
+    {
+      "order": 249,
+      "offer": {
+        "id": 249,
+        "brand": "MuscleBlaze",
+        "product": "Biozyme Whey PR",
+        "type": "Whey + fermented yeast",
+        "flavour": "Molten Chocolate Cake",
+        "kg": 1,
+        "price": 3749,
+        "stock": "In stock",
+        "protein": 67,
+        "scoop": 45,
+        "serving": 45,
+        "subclass": "Mixed source (whey + yeast)",
+        "energy": 374.52,
+        "url": "https://www.muscleblaze.com/sv/muscleblaze-biozyme-whey-pr/SP-122029?navKey=VRNT-249465",
+        "nutritionUrl": "https://www.muscleblaze.com/sv/muscleblaze-biozyme-whey-pr/SP-122029?navKey=VRNT-249465",
+        "basis": "Exact variant nutrition table, protein per 100g",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Exact page nutrition table, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-biozyme-whey-pr/SP-122029?navKey=VRNT-249465",
+          "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-biozyme-whey-pr/SP-122029?navKey=VRNT-249465",
+          "matchBasis": "Official selected product schema SKU matches exact navigation key"
+        }
+      }
+    },
+    {
+      "order": 250,
+      "offer": {
+        "id": 250,
+        "brand": "MuscleBlaze",
+        "product": "Biozyme Whey PR",
+        "type": "Whey + fermented yeast",
+        "flavour": "Molten Chocolate Cake",
+        "kg": 2,
+        "price": 7299,
+        "stock": "In stock",
+        "protein": 67,
+        "scoop": 45,
+        "serving": 45,
+        "subclass": "Mixed source (whey + yeast)",
+        "energy": 374.96,
+        "url": "https://www.muscleblaze.com/sv/muscleblaze-biozyme-whey-pr/SP-122029?navKey=VRNT-249463",
+        "nutritionUrl": "https://www.muscleblaze.com/sv/muscleblaze-biozyme-whey-pr/SP-122029?navKey=VRNT-249463",
+        "basis": "Exact variant nutrition table, protein per 100g",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Exact page nutrition table, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-biozyme-whey-pr/SP-122029?navKey=VRNT-249463",
+          "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-biozyme-whey-pr/SP-122029?navKey=VRNT-249463",
+          "matchBasis": "Official selected product schema SKU matches exact navigation key"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 497,
+      "observation": {
+        "category": "protein",
+        "offerId": 248,
+        "date": "2026-08-08",
+        "price": 7399,
+        "currency": "INR",
+        "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-biozyme-whey-pr/SP-122029?navKey=VRNT-232197",
+        "evidenceUrl": "https://web.archive.org/web/20260808101117id_/https://www.muscleblaze.com/sv/muscleblaze-biozyme-whey-pr/SP-122029?navKey=VRNT-232197",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "VRNT-232197",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2437,
+      "observation": {
+        "category": "protein",
+        "offerId": 248,
+        "date": "2026-10-25",
+        "price": 6899,
+        "currency": "INR",
+        "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-biozyme-whey-pr/SP-122029?navKey=VRNT-232197",
+        "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-biozyme-whey-pr/SP-122029?navKey=VRNT-232197",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "VRNT-232197"
+      }
+    },
+    {
+      "order": 2438,
+      "observation": {
+        "category": "protein",
+        "offerId": 249,
+        "date": "2026-10-25",
+        "price": 3599,
+        "currency": "INR",
+        "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-biozyme-whey-pr/SP-122029?navKey=VRNT-249465",
+        "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-biozyme-whey-pr/SP-122029?navKey=VRNT-249465",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "VRNT-249465"
+      }
+    },
+    {
+      "order": 2439,
+      "observation": {
+        "category": "protein",
+        "offerId": 250,
+        "date": "2026-10-25",
+        "price": 6899,
+        "currency": "INR",
+        "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-biozyme-whey-pr/SP-122029?navKey=VRNT-249463",
+        "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-biozyme-whey-pr/SP-122029?navKey=VRNT-249463",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "VRNT-249463"
+      }
+    },
+    {
+      "order": 4296,
+      "observation": {
+        "category": "protein",
+        "offerId": 248,
+        "date": "2026-11-19",
+        "price": 7299,
+        "currency": "INR",
+        "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-biozyme-whey-pr/SP-122029?navKey=VRNT-232197",
+        "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-biozyme-whey-pr/SP-122029?navKey=VRNT-232197",
+        "kind": "official-live",
+        "matchBasis": "Official selected product schema SKU matches exact navigation key",
+        "variantId": "VRNT-232197"
+      }
+    },
+    {
+      "order": 4297,
+      "observation": {
+        "category": "protein",
+        "offerId": 249,
+        "date": "2026-11-19",
+        "price": 3749,
+        "currency": "INR",
+        "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-biozyme-whey-pr/SP-122029?navKey=VRNT-249465",
+        "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-biozyme-whey-pr/SP-122029?navKey=VRNT-249465",
+        "kind": "official-live",
+        "matchBasis": "Official selected product schema SKU matches exact navigation key",
+        "variantId": "VRNT-249465"
+      }
+    },
+    {
+      "order": 4298,
+      "observation": {
+        "category": "protein",
+        "offerId": 250,
+        "date": "2026-11-19",
+        "price": 7299,
+        "currency": "INR",
+        "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-biozyme-whey-pr/SP-122029?navKey=VRNT-249463",
+        "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-biozyme-whey-pr/SP-122029?navKey=VRNT-249463",
+        "kind": "official-live",
+        "matchBasis": "Official selected product schema SKU matches exact navigation key",
+        "variantId": "VRNT-249463"
+      }
+    }
+  ],
+  "refreshSources": []
+}

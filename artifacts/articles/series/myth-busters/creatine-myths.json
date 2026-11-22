@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 1,
+  "order": 68,
+  "article": {
+    "id": "creatine-myths",
+    "category": "creatine",
+    "series": "myth-busters",
+    "title": "10 creatine myths, checked against human evidence",
+    "summary": "Separate established exercise benefits from exaggerated risks, premium-form promises and claims that the research has not settled.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "Creatine attracts unusually confident claims in both directions: a harmless miracle for everyone, or a shortcut that inevitably causes damage. The evidence is more useful when each claim is checked separately. Most exercise research concerns creatine monohydrate; results from healthy participants do not automatically apply to a person with a medical condition or to every product sold under the creatine name.",
+    "sections": [
+      {
+        "id": "what-creatine-does",
+        "title": "Start with the energy system",
+        "body": "Creatine is made in the body and also occurs in foods such as meat and fish. Much of the body's supply is in skeletal muscle. Creatine kinase helps move phosphate between creatine and ATP, producing a phosphocreatine reserve that can help regenerate ATP when energy demand rises quickly. Increasing muscle stores can support repeated high-intensity efforts and training adaptations. This explains why a store-building supplement should not be judged by whether a scoop produces an immediate sensation.",
+        "sourceIds": [
+          "creatine-position"
+        ]
+      },
+      {
+        "id": "reading-the-verdicts",
+        "title": "A verdict is specific to the question",
+        "body": "A trial finding no detectable difference is not proof that every person responds identically or that a rare effect is impossible. Look at the population, duration, actual ingredient, comparison group and measured outcome. A change in a hormone or blood marker is not interchangeable with hair loss, kidney injury or improved performance. A useful product claim should connect its specific formulation to the outcome being advertised.",
+        "sourceIds": [
+          "creatine-hair-rct",
+          "creatine-kidney-rct",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "buy-after-understanding",
+        "title": "Use the evidence before choosing a product",
+        "body": "Check the ingredient identity, amount per full serving, number of servings and evidence for the stated purpose. Then examine independent quality documentation for the actual product or batch where available. A quality seal can address specified composition or contamination checks; it does not prove a supplement will improve your result. Compare prices using the same quantity basis, and keep an unverified label claim separate from a measured content result.",
+        "sourceIds": [
+          "supplement-quality-ods"
+        ]
+      }
+    ],
+    "myths": [
+      {
+        "claim": "Creatine is an anabolic steroid.",
+        "verdict": "False",
+        "explanation": "Creatine has a different chemical structure and mechanism from testosterone-like anabolic steroids. Its central exercise role concerns the creatine-phosphocreatine energy system, rather than acting as an androgen receptor drug. Both can appear in conversations about strength and muscle, but sharing a training outcome does not make them the same substance.",
+        "sourceIds": [
+          "creatine-misconceptions",
+          "creatine-position"
+        ]
+      },
+      {
+        "claim": "Any extra weight or fullness from creatine is body fat.",
+        "verdict": "Misleading",
+        "explanation": "Early body-mass changes can include water. A controlled study in resistance-trained men and women found increased total body water and body mass without a change in the relative fluid distribution. Water, fat and new muscle tissue are different measurements. A short-term scale increase alone cannot identify fat gain, and a lean-mass reading can also include water.",
+        "sourceIds": [
+          "creatine-water-rct"
+        ]
+      },
+      {
+        "claim": "Creatine has been proved to cause hair loss.",
+        "verdict": "Not established",
+        "explanation": "The often-cited concern began with a small hormone study that did not measure hair loss. A 2025 placebo-controlled trial directly assessed hair and androgens over 12 weeks: 38 men completed the study, with hair data for 37. It found no supplement-related change in DHT or measured hair outcomes. This is reassuring evidence, while a small, short trial cannot rule out every long-term or individual possibility.",
+        "sourceIds": [
+          "creatine-hair-rct"
+        ]
+      },
+      {
+        "claim": "Creatine inevitably damages the kidneys.",
+        "verdict": "Unsupported in studied healthy adults",
+        "explanation": "In a 12-week randomized trial of healthy resistance-trained adults eating a high-protein diet, creatine did not impair directly measured kidney filtration. Creatinine is also a breakdown product of creatine, so a creatinine-based result requires context rather than automatic interpretation as injury. Evidence in healthy adults does not establish safety for someone with kidney disease, unexplained abnormal tests or relevant medication use; those situations need clinical assessment.",
+        "sourceIds": [
+          "creatine-kidney-rct",
+          "creatine-misconceptions"
+        ]
+      },
+      {
+        "claim": "Creatine does nothing unless you use a loading phase.",
+        "verdict": "False",
+        "explanation": "Loading changes how quickly muscle stores rise, not whether they can rise. In a classic muscle-biopsy study, a lower daily intake over 28 days produced a similar eventual increase to a faster loading approach. The practical distinction is speed versus a more gradual approach, rather than an obligatory loading ritual. The study's regimens describe research protocols, not an individualized prescription.",
+        "sourceIds": [
+          "creatine-loading-rct"
+        ]
+      },
+      {
+        "claim": "Everyone must cycle off creatine to keep it working.",
+        "verdict": "No established requirement",
+        "explanation": "Research has used continuous supplementation, and there is no established compulsory on-off cycle needed to preserve its effect in healthy adults. After stopping, raised muscle stores gradually return toward baseline. Choosing to stop because of intolerance, a medical investigation or changed goals is a separate decision from a claim that every user must follow a fixed cycle.",
+        "sourceIds": [
+          "creatine-position"
+        ]
+      },
+      {
+        "claim": "Missing the post-workout window makes creatine ineffective.",
+        "verdict": "Overstated",
+        "explanation": "Creatine works substantially through tissue stores built over time. An eight-week trial comparing intake before training, after training and placebo did not establish a clear pre-versus-post advantage. That small trial does not settle every timing question, but it cannot support treating one narrow workout window as essential. Consistent intake and the full training context matter more than an advertised minute-by-minute rule.",
+        "sourceIds": [
+          "creatine-timing-rct",
+          "creatine-loading-rct"
+        ]
+      },
+      {
+        "claim": "Creatine has no relevance outside the gym, so brain research can be ignored.",
+        "verdict": "Too absolute; cognitive benefits remain uncertain",
+        "explanation": "Creatine is studied beyond exercise, including cognition. A preregistered trial with 123 participants suggested at most a small possible cognitive effect; key tests did not show clear conventional statistical evidence of benefit, and exploratory tasks were not improved. Interest in brain energy metabolism therefore warrants research, not a promise of sharper thinking for everyone. Studying a neurological condition also does not establish a treatment.",
+        "sourceIds": [
+          "creatine-cognition-rct",
+          "creatine-parkinson-trial"
+        ]
+      },
+      {
+        "claim": "Creatine automatically dehydrates you and makes exercising in heat unsafe.",
+        "verdict": "Not supported by controlled heat testing",
+        "explanation": "In a controlled crossover study, short-term creatine did not worsen hydration or temperature regulation in trained men exercising in heat after dehydration. This does not mean dehydration or heat illness becomes harmless, or that everyone needs the same fluid intake. Normal heat precautions and individualized hydration remain necessary; the study provides no basis for forcing excessive water solely because creatine is being used.",
+        "sourceIds": [
+          "creatine-heat-rct"
+        ]
+      },
+      {
+        "claim": "A newer or more soluble form must outperform monohydrate.",
+        "verdict": "Not demonstrated as a general rule",
+        "explanation": "Dissolving easily is a formulation property, not proof of greater muscle uptake or training benefit. Head-to-head trials found no advantage for a tested buffered formulation, while ethyl ester did not improve on monohydrate and was less effective at raising muscle creatine. This also means all forms cannot simply be assumed equivalent. Ask for evidence for the exact ingredient, delivered amount and claimed outcome.",
+        "sourceIds": [
+          "creatine-buffered-rct",
+          "creatine-ethyl-ester-rct"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "creatine-position",
+      "creatine-misconceptions",
+      "creatine-water-rct",
+      "creatine-hair-rct",
+      "creatine-kidney-rct",
+      "creatine-loading-rct",
+      "creatine-timing-rct",
+      "creatine-cognition-rct",
+      "creatine-parkinson-trial",
+      "creatine-heat-rct",
+      "creatine-buffered-rct",
+      "creatine-ethyl-ester-rct",
+      "supplement-quality-ods"
+    ]
+  }
+}

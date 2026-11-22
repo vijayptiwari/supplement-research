@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "category": "glutathione",
+  "brand": "Carbamide Forte",
+  "product": "Japanese Reduced L-Glutathione Effervescent",
+  "variants": [
+    {
+      "order": 3,
+      "offer": {
+        "brand": "Carbamide Forte",
+        "product": "Japanese Reduced L-Glutathione Effervescent",
+        "form": "Tablet",
+        "type": "Reduced L-glutathione",
+        "subclass": "Effervescent blend",
+        "packCount": 15,
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official exact product listing and declared count. Only explicitly verified serving quantities are used.",
+        "notes": "Product handle mentions 600 mg, but the current visible page does not establish a consistent per-tablet payload. Active quantity and serving basis remain unverified.",
+        "labelChecked": "2026-10-31",
+        "glutathioneMg": null,
+        "id": "glutathione-42588941484145",
+        "price": 499,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://mycf.in/products/carbamide-forte-japanese-reduced-l-glutathione-tablet-600mg-for-skin-health-l-glutathione-with-vitamin-c-hyaluronic-acid-vitamin-e-biotin-15-glutathione-effervescent-tablets?variant=42588941484145",
+        "nutritionUrl": "https://mycf.in/products/carbamide-forte-japanese-reduced-l-glutathione-tablet-600mg-for-skin-health-l-glutathione-with-vitamin-c-hyaluronic-acid-vitamin-e-biotin-15-glutathione-effervescent-tablets",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://mycf.in/products/carbamide-forte-japanese-reduced-l-glutathione-tablet-600mg-for-skin-health-l-glutathione-with-vitamin-c-hyaluronic-acid-vitamin-e-biotin-15-glutathione-effervescent-tablets?variant=42588941484145",
+          "evidenceUrl": "https://mycf.in/products/carbamide-forte-japanese-reduced-l-glutathione-tablet-600mg-for-skin-health-l-glutathione-with-vitamin-c-hyaluronic-acid-vitamin-e-biotin-15-glutathione-effervescent-tablets.json",
+          "matchBasis": "Official public Shopify product; exact variant ID 42588941484145 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3748,
+      "observation": {
+        "category": "glutathione",
+        "offerId": "glutathione-42588941484145",
+        "date": "2026-10-29",
+        "price": 499,
+        "currency": "INR",
+        "sourceUrl": "https://mycf.in/products/carbamide-forte-japanese-reduced-l-glutathione-tablet-600mg-for-skin-health-l-glutathione-with-vitamin-c-hyaluronic-acid-vitamin-e-biotin-15-glutathione-effervescent-tablets?variant=42588941484145",
+        "evidenceUrl": "https://mycf.in/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "42588941484145"
+      }
+    },
+    {
+      "order": 3871,
+      "observation": {
+        "category": "glutathione",
+        "offerId": "glutathione-42588941484145",
+        "date": "2026-11-19",
+        "price": 499,
+        "currency": "INR",
+        "sourceUrl": "https://mycf.in/products/carbamide-forte-japanese-reduced-l-glutathione-tablet-600mg-for-skin-health-l-glutathione-with-vitamin-c-hyaluronic-acid-vitamin-e-biotin-15-glutathione-effervescent-tablets?variant=42588941484145",
+        "evidenceUrl": "https://mycf.in/products/carbamide-forte-japanese-reduced-l-glutathione-tablet-600mg-for-skin-health-l-glutathione-with-vitamin-c-hyaluronic-acid-vitamin-e-biotin-15-glutathione-effervescent-tablets.json",
+        "kind": "official-live",
+        "variantId": "42588941484145",
+        "matchBasis": "Official public Shopify product; exact variant ID 42588941484145 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 38,
+      "profile": {
+        "category": "glutathione",
+        "brand": "Carbamide Forte",
+        "base": "https://mycf.in",
+        "handle": "carbamide-forte-japanese-reduced-l-glutathione-tablet-600mg-for-skin-health-l-glutathione-with-vitamin-c-hyaluronic-acid-vitamin-e-biotin-15-glutathione-effervescent-tablets",
+        "product": "Japanese Reduced L-Glutathione Effervescent",
+        "form": "Tablet",
+        "type": "Reduced L-glutathione",
+        "subclass": "Effervescent blend",
+        "packCount": 15,
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official exact product listing and declared count. Only explicitly verified serving quantities are used.",
+        "notes": "Product handle mentions 600 mg, but the current visible page does not establish a consistent per-tablet payload. Active quantity and serving basis remain unverified.",
+        "labelChecked": "2026-10-31",
+        "glutathioneMg": null,
+        "variantTitles": [
+          "Pack of 1"
+        ]
+      }
+    }
+  ]
+}

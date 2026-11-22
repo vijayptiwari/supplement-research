@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "order": 61,
+  "article": {
+    "id": "citrulline-pump-performance",
+    "category": "citrulline",
+    "series": "practical-guides",
+    "title": "Citrulline for pump and performance: choose the endpoint before the claim",
+    "summary": "Why blood markers, extra repetitions, perceived effort and competition results should not be grouped into one benefit.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "Citrulline is often described with a chain of attractive ideas: more arginine, more nitric oxide, more blood flow and therefore a better workout. The chain contains several different research questions. A useful article should not simply repeat the mechanism or dismiss it; it should explain what would have to be measured to justify the outcome a buyer actually wants. That approach also makes uncertain or mixed results easier to interpret honestly.",
+    "sections": [
+      {
+        "id": "define-the-endpoint",
+        "title": "Start with the result that matters to the reader",
+        "body": "A better repetition test, a faster race and a pleasant feeling of muscle fullness are not identical outcomes. Neither is a change in perceived exertion automatically an improvement in performance. When examining an advertisement, translate its broad promise into a specific measurement and time period. Ask whether the study used that outcome or a substitute that merely sounds related. This protects against moving the goalposts: a product should not claim muscle growth from a short marker study and then defend itself only with a pump anecdote.",
+        "sourceIds": [
+          "citrulline-critical",
+          "citrulline-forms-trial"
+        ]
+      },
+      {
+        "id": "pathway-check",
+        "title": "A pathway can be plausible without being a useful intervention",
+        "body": "Citrulline can increase arginine availability, which connects it to nitric-oxide physiology. That does not establish the size or reliability of a later exercise effect, or show that a person’s current nutrition creates the relevant limitation. A mechanism explains why a trial might be worth doing. It cannot replace the placebo comparison, the practical effect size or the question of tolerability. Treat a pathway illustration as an explanation of selected biology rather than a guarantee that adding a powder improves every step in that pathway.",
+        "sourceIds": [
+          "citrulline-critical",
+          "exercise"
+        ]
+      },
+      {
+        "id": "read-average",
+        "title": "A small pooled effect is not a forecast for an individual session",
+        "body": "A recent citrulline-malate synthesis reported a small average exercise effect with low to very low certainty. Its limitations and variable results matter alongside the favourable pooled direction. An average across different protocols cannot supply a dependable personal response, and a subgroup pattern may be less stable than it looks. Read whether the tests reflect your intended activity and whether effects were consistent. The appropriate conclusion can be that further study is warranted while a confident universal buying recommendation remains unjustified.",
+        "sourceIds": [
+          "citrulline-meta"
+        ]
+      },
+      {
+        "id": "malate-not-proof",
+        "title": "The malate question requires a relevant comparator",
+        "body": "If the advertised advantage is the addition of malate, compare preparations that establish how much citrulline is delivered. Otherwise a larger total mixture could be mistaken for an ingredient advantage. A placebo-controlled crossover trial using matched citrulline found no clear added malate benefit in its tested neuromuscular outcomes. The experiment does not establish that every possible use is ineffective, but it provides no general reason to assume that a malate label deserves a performance premium. Ratio arithmetic and clinical effectiveness remain separate questions.",
+        "sourceIds": [
+          "citrulline-forms-trial"
+        ]
+      },
+      {
+        "id": "formulation-match",
+        "title": "A pre-workout result may not be a citrulline result",
+        "body": "A finished mixture may contain caffeine and several other active ingredients. If the whole product changes an outcome, the study cannot automatically assign that effect to citrulline without an appropriate design. The same caution applies when an ingredient trial is used to endorse a blend whose quantities are not disclosed. Match the actual formula, amount and comparison group before transferring a finding. A familiar ingredient list is not evidence that the finished product reproduces a published exposure or delivers an independent benefit from each component.",
+        "sourceIds": [
+          "preworkout-review",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "meaningful-experiment",
+        "title": "Avoid turning normal session variation into a certainty",
+        "body": "Workout performance changes with fatigue, familiarity, training load and other factors, so an unusually good session cannot isolate a supplement effect. If someone elects to assess an optional product, a defined outcome and consistent context are more useful than a changing set of favourable impressions. Symptoms or unusual discomfort should not be explained as necessary proof of action. Persistent problems and relevant medicines or health conditions require appropriate review. A personal observation may guide preferences, but it should not be presented as a controlled scientific comparison.",
+        "sourceIds": [
+          "exercise",
+          "citrulline-forms-trial"
+        ]
+      },
+      {
+        "id": "value-conclusion",
+        "title": "Let the evidence strength influence how much is worth paying",
+        "body": "A transparent label and a lower matching-ingredient cost make a product easier to compare, not necessarily worth buying. Consider whether the plausible benefit is relevant, sufficiently supported and important enough to justify the expense. Avoid paying extra solely for a ratio, a pump photograph or a mechanistic promise. Food, training and other established basics remain part of the decision. Choosing not to add citrulline is a reasonable response when the purpose is vague or the premium depends on certainty that the human evidence does not provide.",
+        "sourceIds": [
+          "supplement-quality-ods",
+          "citrulline-meta",
+          "exercise"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "citrulline-critical",
+      "citrulline-forms-trial",
+      "exercise",
+      "citrulline-meta",
+      "preworkout-review",
+      "supplement-quality-ods"
+    ]
+  }
+}

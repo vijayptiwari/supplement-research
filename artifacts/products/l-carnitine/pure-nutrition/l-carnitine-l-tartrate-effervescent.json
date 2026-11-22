@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "category": "l-carnitine",
+  "brand": "Pure Nutrition",
+  "product": "L-Carnitine L-Tartrate Effervescent",
+  "variants": [
+    {
+      "order": 3,
+      "offer": {
+        "brand": "Pure Nutrition",
+        "product": "L-Carnitine L-Tartrate Effervescent",
+        "form": "Tablet",
+        "type": "L-carnitine L-tartrate",
+        "subclass": "Effervescent compound blend",
+        "source": "Not specified",
+        "flavour": "Orange",
+        "packaging": "Single retail pack",
+        "basis": "Official back-label image specifies two-tablet composition serving, 2000 mg L-carnitine L-tartrate and 4.8 kcal. Current selected listing states 20 tablets.",
+        "notes": "Label conflict: the image prints 20 servings despite a two-tablet composition serving and current 20-tablet pack; usage instructions say one tablet. Calculations use 20 tablets and the two-tablet composition basis (10 computed servings), not the contradictory printed serving count. Free L-carnitine is unverified.",
+        "labelChecked": "2026-11-17",
+        "packCount": 20,
+        "servingUnits": 2,
+        "carnitineCompoundMg": 2000,
+        "energyPerServing": 4.8,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0618/9629/4654/files/rop_2_cea9fa0f-13a2-4fd3-9d7e-1c4aa71afa5b.jpg?v=1775468647"
+        ],
+        "carnitineMg": null,
+        "id": "l-carnitine-47506319343870",
+        "price": 474.33,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://purenutrition.in/products/pure-nutrition-l-carnitine-l-tartrate-effervescent-tablets-orange-flavour-20-tablets?variant=47506319343870",
+        "nutritionUrl": "https://purenutrition.in/products/pure-nutrition-l-carnitine-l-tartrate-effervescent-tablets-orange-flavour-20-tablets",
+        "searchAliases": [
+          "lclt"
+        ],
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://purenutrition.in/products/pure-nutrition-l-carnitine-l-tartrate-effervescent-tablets-orange-flavour-20-tablets?variant=47506319343870",
+          "evidenceUrl": "https://purenutrition.in/products/pure-nutrition-l-carnitine-l-tartrate-effervescent-tablets-orange-flavour-20-tablets.json",
+          "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3807,
+      "observation": {
+        "category": "l-carnitine",
+        "offerId": "l-carnitine-47506319343870",
+        "date": "2026-11-17",
+        "price": 474.33,
+        "currency": "INR",
+        "sourceUrl": "https://purenutrition.in/products/pure-nutrition-l-carnitine-l-tartrate-effervescent-tablets-orange-flavour-20-tablets?variant=47506319343870",
+        "evidenceUrl": "https://purenutrition.in/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Directly fetched official Shopify feed; exact variant ID, flavour and single retail pack verified against official product page. Conditional discounts excluded.",
+        "variantId": "47506319343870"
+      }
+    },
+    {
+      "order": 4001,
+      "observation": {
+        "category": "l-carnitine",
+        "offerId": "l-carnitine-47506319343870",
+        "date": "2026-11-19",
+        "price": 474.33,
+        "currency": "INR",
+        "sourceUrl": "https://purenutrition.in/products/pure-nutrition-l-carnitine-l-tartrate-effervescent-tablets-orange-flavour-20-tablets?variant=47506319343870",
+        "evidenceUrl": "https://purenutrition.in/products/pure-nutrition-l-carnitine-l-tartrate-effervescent-tablets-orange-flavour-20-tablets.json",
+        "kind": "official-live",
+        "variantId": "47506319343870",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 91,
+      "profile": {
+        "category": "l-carnitine",
+        "brand": "Pure Nutrition",
+        "base": "https://purenutrition.in",
+        "handle": "pure-nutrition-l-carnitine-l-tartrate-effervescent-tablets-orange-flavour-20-tablets",
+        "product": "L-Carnitine L-Tartrate Effervescent",
+        "form": "Tablet",
+        "type": "L-carnitine L-tartrate",
+        "subclass": "Effervescent compound blend",
+        "source": "Not specified",
+        "flavour": "Orange",
+        "packaging": "Single retail pack",
+        "basis": "Official back-label image specifies two-tablet composition serving, 2000 mg L-carnitine L-tartrate and 4.8 kcal. Current selected listing states 20 tablets.",
+        "notes": "Label conflict: the image prints 20 servings despite a two-tablet composition serving and current 20-tablet pack; usage instructions say one tablet. Calculations use 20 tablets and the two-tablet composition basis (10 computed servings), not the contradictory printed serving count. Free L-carnitine is unverified.",
+        "labelChecked": "2026-11-17",
+        "variantIds": [
+          "47506319343870"
+        ],
+        "packCount": 20,
+        "servingUnits": 2,
+        "carnitineCompoundMg": 2000,
+        "energyPerServing": 4.8,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0618/9629/4654/files/rop_2_cea9fa0f-13a2-4fd3-9d7e-1c4aa71afa5b.jpg?v=1775468647"
+        ],
+        "carnitineMg": null,
+        "searchAliases": [
+          "lclt"
+        ]
+      }
+    }
+  ]
+}

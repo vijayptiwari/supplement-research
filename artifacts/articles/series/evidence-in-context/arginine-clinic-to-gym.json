@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "order": 16,
+  "article": {
+    "id": "arginine-clinic-to-gym",
+    "category": "l-arginine",
+    "series": "evidence-in-context",
+    "title": "Arginine from the clinic to the gym: when better blood flow is the wrong question",
+    "summary": "Vascular disease, a recent heart attack and a healthy training session are different research settings. Follow the outcomes before borrowing their claims.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "Imagine two advertisements quoting the same amino acid. One shows a diagram of nitric oxide and blood vessels; the other promises more repetitions. The diagram may be biologically reasonable while the training claim remains unproved. Arginine is a useful case study because researchers have tested it against unusually different problems: impaired walking from vascular disease, recovery after a heart attack, and gym performance. Reading those studies together reveals why the person, route of administration and final outcome matter more than a confident pathway illustration.",
+    "sections": [
+      {
+        "id": "the-question",
+        "title": "Start with the problem the trial actually tried to solve",
+        "body": "A healthy lifter wants a useful training session. A patient with peripheral arterial disease may want to walk farther before leg pain forces a stop. Someone recovering from a heart attack needs treatment that improves meaningful cardiovascular outcomes without causing harm. Calling all three situations “circulation support” erases the reasons those trials were done. It also creates an easy marketing shortcut: borrow a medical setting to make a sports product sound powerful, then borrow the familiarity of a dietary amino acid to make medical use sound routine. Neither direction is justified without evidence for the actual person and goal.",
+        "sourceIds": [
+          "context-arginine-nopain-2007",
+          "arginine-mi",
+          "pe-arginine-aakg-acute-2012"
+        ]
+      },
+      {
+        "id": "substrate",
+        "title": "More substrate is an intervention, not an outcome",
+        "body": "Arginine participates in nitric-oxide production, but supplying more precursor does not guarantee that the relevant vascular system will respond as hoped. The NO-PAIN trial makes that distinction concrete. In 133 patients with intermittent claudication, six months of oral arginine increased circulating arginine, yet did not improve the intended vascular and walking outcomes over placebo. Walking improvement was smaller in the arginine group. This is stronger information than a claim that a capsule was absorbed: the investigators followed the proposed chain far enough to see that higher exposure did not deliver the desired functional benefit in that setting.",
+        "sourceIds": [
+          "context-arginine-nopain-2007"
+        ]
+      },
+      {
+        "id": "route",
+        "title": "An infusion result cannot be pasted onto a retail tub",
+        "body": "A separate randomized study in critical limb ischemia found an acute blood-flow response to intravenous arginine. That finding and NO-PAIN are not interchangeable experiments with contradictory verdicts on one identical product. Administration through a vein, immediate physiological measurements, oral use over months and walking ability answer different questions. A shopper should therefore notice the verbs in a citation: infused, ingested, measured or followed. This is particularly useful when a product page quotes an impressive result but removes the administration route. The omitted detail may be the very reason the experiment cannot tell you what the powder will do.",
+        "sourceIds": [
+          "context-arginine-infusion-1996",
+          "context-arginine-nopain-2007"
+        ]
+      },
+      {
+        "id": "safety-population",
+        "title": "The heart-attack trial sets a boundary, not a gym risk calculator",
+        "body": "VINTAGE MI randomized 153 people after a myocardial infarction. Arginine did not improve the selected vascular or cardiac measurements, and the mortality imbalance prompted concern about use after a heart attack. That is a clinically important warning against treating arginine as routine cardiovascular self-care. It is not a way to calculate an otherwise healthy athlete’s chance of an adverse event: the population and medical circumstances are different. Responsible interpretation keeps both points visible. A disease-specific harm signal should not be hidden, and it should not be exaggerated into a precise prediction for populations that were never studied.",
+        "sourceIds": [
+          "arginine-mi"
+        ]
+      },
+      {
+        "id": "sport-transfer",
+        "title": "A pump is not a bridge from clinical research to strength",
+        "body": "Sports evidence needs sports outcomes. An acute crossover study of AAKG in 16 trained and untrained men did not improve the tested maximal-strength or total-load outcomes. An earlier eight-week AAKG study reported advantages in selected strength or power measures, alongside several outcomes that did not improve. These findings leave room for different protocols to produce different results; they do not support a universal promise. They also concern AAKG, a formulation that should not silently stand in for every free-form arginine product. A convincing sports claim would specify the preparation, comparator and training result rather than lean on vascular language.",
+        "sourceIds": [
+          "pe-arginine-aakg-acute-2012",
+          "pe-arginine-aakg-training-2006"
+        ]
+      },
+      {
+        "id": "comparison",
+        "title": "Read apparent disagreements as a map of conditions",
+        "body": "Place the studies beside one another and the useful question changes from “Does arginine work?” to “Which effect, in whom, with which intervention?” The infusion experiment concerns an immediate vascular response. NO-PAIN concerns oral use and impaired walking. VINTAGE MI concerns a vulnerable post-infarction population. The AAKG experiments concern performance tests and training. These differences are not technical clutter to be edited out of a consumer article. They explain why combining all positive sentences into a single confidence score would mislead. Agreement about a pathway does not remove disagreement or uncertainty about the outcome a reader actually wants.",
+        "sourceIds": [
+          "context-arginine-infusion-1996",
+          "context-arginine-nopain-2007",
+          "arginine-mi",
+          "pe-arginine-aakg-training-2006"
+        ]
+      },
+      {
+        "id": "shopping",
+        "title": "What would justify paying more?",
+        "body": "For a gym purchase, a premium needs more than a bigger “NO” badge, a warm sensation or a medical-looking graphic. Look for a disclosed formulation and research that measures a relevant performance outcome against a sensible comparator. A trial against placebo can test whether a preparation adds something under its study conditions; it cannot automatically establish superiority over another ingredient or a well-planned training routine. If a seller claims that its special form is better absorbed, ask for the next step: did that difference produce better training results? Our editorial judgement is that an untested bridge between absorption and performance does not justify an evidence premium.",
+        "sourceIds": [
+          "exercise",
+          "pe-arginine-aakg-acute-2012",
+          "pe-arginine-aakg-training-2006"
+        ]
+      },
+      {
+        "id": "decision",
+        "title": "Keep the decision attached to the setting",
+        "body": "For healthy sport, arginine remains a context-dependent purchase with inconsistent performance findings, rather than a necessary foundation of a stack. For cardiovascular disease or a recent heart attack, the research belongs in a clinical conversation, not a self-designed “blood-flow” stack. What would change this assessment? Independent, adequately sized trials using a clearly identified oral product, a relevant population and an outcome that improves what people can do, with safety follow-up appropriate to the setting. Until then, a mechanistic story can explain why researchers asked a question. It cannot substitute for the answer.",
+        "sourceIds": [
+          "exercise",
+          "arginine-mi",
+          "context-arginine-nopain-2007",
+          "pe-arginine-aakg-acute-2012"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "context-arginine-nopain-2007",
+      "arginine-mi",
+      "pe-arginine-aakg-acute-2012",
+      "context-arginine-infusion-1996",
+      "pe-arginine-aakg-training-2006",
+      "exercise"
+    ],
+    "evidenceNotes": [
+      {
+        "finding": "Higher circulating arginine did not translate into better walking performance in NO-PAIN.",
+        "sourceIds": [
+          "context-arginine-nopain-2007"
+        ],
+        "design": "Randomized placebo-controlled trial; six months of oral supplementation.",
+        "population": "133 patients with peripheral arterial disease and intermittent claudication.",
+        "outcome": "Plasma arginine increased, but the intended nitric-oxide and functional benefits were not demonstrated; walking improvement was smaller than with placebo.",
+        "limits": "A vascular-disease population; not an estimate of efficacy or risk in healthy lifters."
+      },
+      {
+        "finding": "A post-heart-attack trial found no intended benefit and raised a mortality concern.",
+        "sourceIds": [
+          "arginine-mi"
+        ],
+        "design": "Randomized double-blind placebo-controlled VINTAGE MI trial.",
+        "population": "153 patients following myocardial infarction.",
+        "outcome": "No improvement in the selected vascular stiffness or cardiac-function outcomes; mortality imbalance prompted safety concern.",
+        "limits": "Specific post-infarction clinical setting. This does not quantify risk for otherwise healthy supplement users."
+      }
+    ]
+  }
+}

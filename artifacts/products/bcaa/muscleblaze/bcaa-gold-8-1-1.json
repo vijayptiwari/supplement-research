@@ -1,0 +1,192 @@
+{
+  "schemaVersion": 1,
+  "category": "bcaa",
+  "brand": "MuscleBlaze",
+  "product": "BCAA Gold 8:1:1",
+  "variants": [
+    {
+      "order": 10,
+      "offer": {
+        "id": "bcaa-hk-106283",
+        "brand": "MuscleBlaze",
+        "product": "BCAA Gold 8:1:1",
+        "form": "Powder",
+        "type": "BCAA 8:1:1",
+        "subclass": "BCAA + glutamine + electrolytes",
+        "flavour": "Green Apple",
+        "packaging": "Single retail pack",
+        "price": 2239,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://www.muscleblaze.com/sv/muscleblaze-bcaa-gold-8:1:1-amino-acids-supplements/SP-59969?navKey=VRNT-106283",
+        "nutritionUrl": "https://img4.hkrtcdn.com/42379/prd_4237873-MuscleBlaze-BCAA-Gold-811-Amino-Acids-Supplements-0.99-lb-30-Servings-Green-Apple_o.jpg",
+        "labelSources": [
+          "https://www.muscleblaze.com/sv/muscleblaze-bcaa-gold-8:1:1-amino-acids-supplements/SP-59969?navKey=VRNT-106283",
+          "https://img4.hkrtcdn.com/42379/prd_4237873-MuscleBlaze-BCAA-Gold-811-Amino-Acids-Supplements-0.99-lb-30-Servings-Green-Apple_o.jpg",
+          "https://img6.hkrtcdn.com/42379/prd_4237865-MuscleBlaze-BCAA-Gold-811-Amino-Acids-Supplements-0.99-lb-30-Servings-Green-Apple_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "106283",
+        "sourceProductId": "59969",
+        "source": "Not specified",
+        "notes": "Use the actual current panel: one 7.5 g scoop has 3.5 g BCAA and the pack has 60 servings. Older promotional claims or images suggesting a double serving are not substituted.",
+        "basis": "Exact official brand selected variant. The linked current product gallery nutrition panel was individually reviewed; amounts are per stated label serving. Product claims are manufacturer declarations, not independent assay results.",
+        "energyPerServing": 2.56,
+        "bcaaMg": 3500,
+        "leucineMg": 2800,
+        "isoleucineMg": 350,
+        "valineMg": 350,
+        "grams": 450,
+        "packCount": null,
+        "servingGrams": 7.5,
+        "additionalIngredients": [
+          {
+            "name": "L-glutamine",
+            "amount": 1250,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "L-citrulline DL-malate",
+            "amount": 500,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "Electrolyte compound blend",
+            "amount": 638,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "Sodium",
+            "amount": 134,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "Potassium",
+            "amount": 74,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          }
+        ],
+        "declaredNutrients": [
+          "bcaaMg",
+          "leucineMg",
+          "isoleucineMg",
+          "valineMg"
+        ]
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5181,
+      "observation": {
+        "category": "bcaa",
+        "offerId": "bcaa-hk-106283",
+        "date": "2026-11-19",
+        "price": 2239,
+        "currency": "INR",
+        "sourceUrl": "https://www.muscleblaze.com/sv/muscleblaze-bcaa-gold-8:1:1-amino-acids-supplements/SP-59969?navKey=VRNT-106283",
+        "evidenceUrl": "https://www.muscleblaze.com/sv/muscleblaze-bcaa-gold-8:1:1-amino-acids-supplements/SP-59969?navKey=VRNT-106283",
+        "kind": "official-live",
+        "variantId": "106283",
+        "matchBasis": "Official selected numeric variant 106283 and SP-59969 matched to exact flavour/pack attributes; unconditional INR offer_pr, is_published=true and variant oos checked; no coupon or loyalty prices."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 290,
+      "profile": {
+        "id": "bcaa-hk-106283",
+        "brand": "MuscleBlaze",
+        "product": "BCAA Gold 8:1:1",
+        "form": "Powder",
+        "type": "BCAA 8:1:1",
+        "subclass": "BCAA + glutamine + electrolytes",
+        "flavour": "Green Apple",
+        "packaging": "Single retail pack",
+        "currency": "INR",
+        "nutritionUrl": "https://img4.hkrtcdn.com/42379/prd_4237873-MuscleBlaze-BCAA-Gold-811-Amino-Acids-Supplements-0.99-lb-30-Servings-Green-Apple_o.jpg",
+        "labelSources": [
+          "https://www.muscleblaze.com/sv/muscleblaze-bcaa-gold-8:1:1-amino-acids-supplements/SP-59969?navKey=VRNT-106283",
+          "https://img4.hkrtcdn.com/42379/prd_4237873-MuscleBlaze-BCAA-Gold-811-Amino-Acids-Supplements-0.99-lb-30-Servings-Green-Apple_o.jpg",
+          "https://img6.hkrtcdn.com/42379/prd_4237865-MuscleBlaze-BCAA-Gold-811-Amino-Acids-Supplements-0.99-lb-30-Servings-Green-Apple_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "source": "Not specified",
+        "notes": "Use the actual current panel: one 7.5 g scoop has 3.5 g BCAA and the pack has 60 servings. Older promotional claims or images suggesting a double serving are not substituted.",
+        "basis": "Exact official brand selected variant. The linked current product gallery nutrition panel was individually reviewed; amounts are per stated label serving. Product claims are manufacturer declarations, not independent assay results.",
+        "energyPerServing": 2.56,
+        "bcaaMg": 3500,
+        "leucineMg": 2800,
+        "isoleucineMg": 350,
+        "valineMg": 350,
+        "grams": 450,
+        "packCount": null,
+        "servingGrams": 7.5,
+        "additionalIngredients": [
+          {
+            "name": "L-glutamine",
+            "amount": 1250,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "L-citrulline DL-malate",
+            "amount": 500,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "Electrolyte compound blend",
+            "amount": 638,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "Sodium",
+            "amount": 134,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          },
+          {
+            "name": "Potassium",
+            "amount": 74,
+            "unit": "mg",
+            "basis": "per stated label serving"
+          }
+        ],
+        "declaredNutrients": [
+          "bcaaMg",
+          "leucineMg",
+          "isoleucineMg",
+          "valineMg"
+        ],
+        "category": "bcaa",
+        "kind": "hk-product",
+        "base": "https://www.muscleblaze.com",
+        "productUrl": "https://www.muscleblaze.com/sv/muscleblaze-bcaa-gold-8:1:1-amino-acids-supplements/SP-59969?navKey=VRNT-106283",
+        "variantUrl": "https://www.muscleblaze.com/sv/muscleblaze-bcaa-gold-8:1:1-amino-acids-supplements/SP-59969?navKey=VRNT-106283",
+        "variantId": "106283",
+        "productId": "59969",
+        "sourceBrand": "MuscleBlaze",
+        "variantAttributes": {
+          "sn-bca-flv": "Green Apple",
+          "gen-pro-siz": "0.99 lb",
+          "sn-ser-pack": "60 Servings"
+        },
+        "cacheKey": "hk-performance-106283",
+        "packSizeLabel": "0.99 lb",
+        "netWeightEvidenceUrl": "https://img6.hkrtcdn.com/42379/prd_4237865-MuscleBlaze-BCAA-Gold-811-Amino-Acids-Supplements-0.99-lb-30-Servings-Green-Apple_o.jpg",
+        "netWeightEvidenceGrams": 450,
+        "netWeightEvidenceChecked": "2026-11-19"
+      }
+    }
+  ]
+}

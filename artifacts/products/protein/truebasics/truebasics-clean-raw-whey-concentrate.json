@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "TrueBasics",
+  "product": "TrueBasics Clean Raw Whey Concentrate",
+  "variants": [
+    {
+      "order": 822,
+      "offer": {
+        "id": 822,
+        "brand": "TrueBasics",
+        "product": "TrueBasics Clean Raw Whey Concentrate",
+        "type": "Whey — concentrate",
+        "flavour": "Unflavoured",
+        "kg": 1,
+        "price": 3799,
+        "stock": "In stock",
+        "protein": 80,
+        "scoop": 30,
+        "serving": 30,
+        "subclass": "Whey concentrate",
+        "energy": 393.33,
+        "url": "https://www.truebasics.com/sv/truebasics-clean-raw-whey-concentrate/SP-136503?navKey=VRNT-271469",
+        "nutritionUrl": "https://www.truebasics.com/sv/truebasics-clean-raw-whey-concentrate/SP-136503",
+        "basis": "24g protein / 30g serving; unflavoured raw concentrate",
+        "notes": "Instantized unsweetened whey concentrate tested for heavy metals and pesticide residues.",
+        "energyBasis": "Brand official label / serving instructions",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.truebasics.com/sv/truebasics-clean-raw-whey-concentrate/SP-136503?navKey=VRNT-271469",
+          "evidenceUrl": "https://www.truebasics.com/sv/truebasics-clean-raw-whey-concentrate/SP-136503",
+          "matchBasis": "Official selected product schema flavour and net pack match"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 2992,
+      "observation": {
+        "category": "protein",
+        "offerId": 822,
+        "date": "2026-10-25",
+        "price": 3799,
+        "currency": "INR",
+        "sourceUrl": "https://www.truebasics.com/sv/truebasics-clean-raw-whey-concentrate/SP-136503",
+        "evidenceUrl": "https://www.truebasics.com/sv/truebasics-clean-raw-whey-concentrate/SP-136503",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": null
+      }
+    },
+    {
+      "order": 4850,
+      "observation": {
+        "category": "protein",
+        "offerId": 822,
+        "date": "2026-11-19",
+        "price": 3799,
+        "currency": "INR",
+        "sourceUrl": "https://www.truebasics.com/sv/truebasics-clean-raw-whey-concentrate/SP-136503?navKey=VRNT-271469",
+        "evidenceUrl": "https://www.truebasics.com/sv/truebasics-clean-raw-whey-concentrate/SP-136503",
+        "kind": "official-live",
+        "matchBasis": "Official selected product schema flavour and net pack match",
+        "variantId": "VRNT-271469"
+      }
+    }
+  ],
+  "refreshSources": []
+}

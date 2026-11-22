@@ -2,7 +2,7 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';
 import {createSnapshot,isoDate,retailerQuoteIssues} from '../docs/model.js';
-import {loadBundle} from './build_site.mjs';
+import {loadArtifactSources,writeArtifactDocuments} from './artifact_store.mjs';
 
 const unique=(rows,key=JSON.stringify)=>[...new Map(rows.map(r=>[key(r),r])).values()];
 const offerKey=r=>r.category+'/'+r.offerId;
@@ -59,6 +59,7 @@ export function applyCatalogResearch(bundle,sources,prior,fragments,{asOf}={}){
  const snapshot=createSnapshot(bundle);if(snapshot.quality.errors.length)throw Error('Research merge validation failed:\n'+JSON.stringify(snapshot.quality.errors,null,2));
  const added=new Set(audit.additions.map(r=>r.category+'/'+r.offerId)),updated=new Set(audit.updates.filter(r=>r.reviewType!=='label'&&!added.has(offerKey(r))).map(r=>r.category+'/'+r.offerId));
  audit.coverage=Object.values(snapshot.categories).map(c=>({category:c.id,label:c.label,beforeOffers:before[c.id],offers:c.offers.length,brands:c.stats.brands,priceChecks: c.offers.filter(r=>updated.has(c.id+'/'+r.id)).length,newOffers:c.offers.filter(r=>added.has(c.id+'/'+r.id)).length,verifiedPrices:c.stats.verifiedPrices,priceCheckedOnAuditDate:c.offers.filter(r=>r.priceAudit.checked===asOf&&r.priceAudit.status==='verified').length,knownLabelServing:c.offers.filter(r=>r.isUnitOffer?r.packServings!=null:r.serving!=null).length,labelsCheckedOnAuditDate:c.offers.filter(r=>r.labelChecked===asOf).length,labelsReviewedDuringPeriod:c.offers.filter(r=>r.labelChecked>=audit.reviewStart&&r.labelChecked<=asOf).length,knownActiveCost:c.stats.knownCost,retailerQuotes:c.offers.reduce((sum,r)=>sum+(r.retailerQuotes?.length||0),0)}));
+ audit.coverageCategories=audit.coverage.map(c=>c.category);
  audit.summary={offers:snapshot.stats.offers,brands:snapshot.stats.brands,newOffers:audit.additions.length,existingOffersPriceChecked:updated.size,priceCheckedOnAuditDate:audit.coverage.reduce((sum,c)=>sum+c.priceCheckedOnAuditDate,0),labelsCheckedOnAuditDate:audit.coverage.reduce((sum,c)=>sum+c.labelsCheckedOnAuditDate,0),labelsReviewedDuringPeriod:audit.coverage.reduce((sum,c)=>sum+c.labelsReviewedDuringPeriod,0),verifiedPrices:snapshot.stats.verifiedPrices,categories:audit.categoriesCovered.length,exclusions:audit.exclusions.length,retailerQuotes:audit.retailerQuotes.length};
  return {audit,bundle,sources,touched:[...touched]};
 }
@@ -66,15 +67,22 @@ export function applyCatalogResearch(bundle,sources,prior,fragments,{asOf}={}){
 // Fetchers never directly replace a category, and a partial follow-up never
 // discards the preceding whole-catalog review or its historical observations.
 export async function mergeCatalogResearch(files,{asOf=new Date().toISOString().slice(0,10),root=fileURLToPath(new URL('../',import.meta.url))}={}){
- const bundle=await loadBundle(),sources=JSON.parse(await fs.readFile(path.join(root,'docs/data/additional-sources.json'),'utf8'));
- let prior=null;try{prior=JSON.parse(await fs.readFile(path.join(root,'docs/data/catalog-research.json'),'utf8'));}catch{}
+ const source=await loadArtifactSources(root),bundle=source.bundle,sources=source.additionalSources;
+ const prior=source.legacyDocuments['catalog-research.json']||null;
  const fragments=await Promise.all(files.map(file=>fs.readFile(file,'utf8').then(JSON.parse)));
  const {audit,touched}=applyCatalogResearch(bundle,sources,prior,fragments,{asOf});
+ if(source.source==='artifacts'){
+  const documents=source.legacyDocuments;for(const id of touched)documents[bundle.config.categories.find(c=>c.id===id).file]=bundle.categories[id];
+  documents[bundle.config.brandsFile]=bundle.brands;documents['additional-sources.json']=sources;
+  documents[bundle.config.observationsFile]={...documents[bundle.config.observationsFile],checked:asOf,observations:bundle.observations};
+  documents['catalog-research.json']=audit;documents['catalog-research-summary.json']={checked:asOf,reviewStart:audit.reviewStart,scope:audit.scope,summary:audit.summary,coverage:audit.coverage,coverageCategories:audit.coverageCategories,reportFile:'catalog-research.json',requirementsFile:'catalog-data-requirements.json'};
+  await writeArtifactDocuments(documents,{root,expectedRevision:source.revision});console.log(JSON.stringify(audit.summary));return audit;
+ }
  const data=path.join(root,'docs/data'),write=(name,value)=>fs.writeFile(path.join(data,name),JSON.stringify(value,null,2)+'\n');
  for(const id of touched)await write(bundle.config.categories.find(c=>c.id===id).file,bundle.categories[id]);
  await write('brands.json',bundle.brands);await write('additional-sources.json',sources);
  const ledger=JSON.parse(await fs.readFile(path.join(data,bundle.config.observationsFile),'utf8'));ledger.checked=asOf;ledger.observations=bundle.observations;await write(bundle.config.observationsFile,ledger);
- await write('catalog-research.json',audit);await write('catalog-research-summary.json',{checked:asOf,reviewStart:audit.reviewStart,scope:audit.scope,summary:audit.summary,coverage:audit.coverage,reportFile:'catalog-research.json',requirementsFile:'catalog-data-requirements.json'});
+ await write('catalog-research.json',audit);await write('catalog-research-summary.json',{checked:asOf,reviewStart:audit.reviewStart,scope:audit.scope,summary:audit.summary,coverage:audit.coverage,coverageCategories:audit.coverageCategories,reportFile:'catalog-research.json',requirementsFile:'catalog-data-requirements.json'});
  console.log(JSON.stringify(audit.summary));return audit;
 }
 if(process.argv[1]&&path.resolve(process.argv[1])===fileURLToPath(import.meta.url)){const args=process.argv.slice(2),flag=args.indexOf('--as-of'),asOf=flag<0?new Date().toISOString().slice(0,10):args.splice(flag,2)[1];if(!/^\d{4}-\d{2}-\d{2}$/.test(asOf))throw Error('Use --as-of YYYY-MM-DD.');await mergeCatalogResearch(args,{asOf});}

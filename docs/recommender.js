@@ -5,7 +5,11 @@ import {stackCategoryMarkup,dailyQuantityUnit,auditStackMarkup,stackPackLabel} f
 import {escapeHtml as esc,formatDate} from './model.js';
 export function recommend(snapshot,input){
  const policy=snapshot.recommender,goals=new Set(input.goals||[]),existing=new Set(input.existing||[]),restricted=input.context!=='adult-clear',budget=input.budget===''||input.budget==null?null:Number(input.budget);
- const items=policy.rules.filter(rule=>existing.has(rule.category)||rule.goals.some(g=>goals.has(g))).map(rule=>{
+ // A newly published wiki is discoverable before a category-specific buying
+ // rule exists. Held categories still need an explicit educational review;
+ // missing selection rules must never become an automatic product shortlist.
+ const configured=new Set(policy.rules.map(rule=>rule.category)),unmodeled=[...existing].filter(category=>Object.hasOwn(snapshot.categories,category)&&!configured.has(category)).map(category=>({category,goals:[],review:true,status:'Review existing supplement',reason:'No category-specific stack selection policy is published for this supplement. Review its evidence guide, exact product and your individual need before combining it with other supplements.',sources:snapshot.research?.articles?.find(a=>a.category===category)?.sourceIds||[]}));
+ const items=[...policy.rules,...unmodeled].filter(rule=>existing.has(rule.category)||rule.goals.some(g=>goals.has(g))).map(rule=>{
   const held=existing.has(rule.category),gapMissing=rule.gate==='proteinGap'&&input.proteinGap!=='yes',review=restricted||rule.review||snapshot.categories[rule.category].educationOnly;
   let reason=rule.reason;if(held)reason='You already take this category. Review your current product before adding another. '+reason;if(gapMissing)reason='No confirmed protein gap was entered. Food may already meet your needs; no powder is added automatically. '+reason;
   const eligible=!held&&!gapMissing&&!review;

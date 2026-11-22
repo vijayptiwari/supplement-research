@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "category": "vitamin-d",
+  "brand": "HK Vitals",
+  "product": "Vitamin D3",
+  "variants": [
+    {
+      "order": 5,
+      "offer": {
+        "brand": "HK Vitals",
+        "product": "Vitamin D3",
+        "form": "Capsule",
+        "type": "D3 (cholecalciferol)",
+        "subclass": "Single vitamin",
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official nutrition panel: one capsule (0.40 g), 600 IU Vitamin D3 and 0.98 kcal per capsule.",
+        "notes": "The nutrition panel specifies a capsule; a separate lifestyle image calls it a tablet. Capsule form follows the actual product and nutrition panel. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+        "packCount": 60,
+        "vitaminDIu": 600,
+        "id": "hkv-d3-60",
+        "price": 389,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://www.hkvitals.com/sv/hk-vitals-vitamin-d3/SP-100530?navKey=VRNT-187072",
+        "nutritionUrl": "https://img2.hkrtcdn.com/35036/prd_3503581-HK-Vitals-Vitamin-D3-by-HealthKart-60-capsules_o.jpg",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack (60 units)",
+        "labelChecked": "2026-11-19",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.hkvitals.com/sv/hk-vitals-vitamin-d3/SP-100530?navKey=VRNT-187072",
+          "evidenceUrl": "https://www.hkvitals.com/sv/hk-vitals-vitamin-d3/SP-100530?navKey=VRNT-187072",
+          "matchBasis": "Official HK Vitals SSR reviewData selected numeric variant 187072; explicit pack '60 capsules', unconditional offer_pr INR and isPublish=true/oos=false. Excludes loyalty and coupon rewards."
+        },
+        "vitaminDMcg": 15,
+        "energyPerServing": 0.98,
+        "labelSources": [
+          "https://www.hkvitals.com/sv/hk-vitals-vitamin-d3/SP-100530?navKey=VRNT-187072",
+          "https://img2.hkrtcdn.com/35036/prd_3503581-HK-Vitals-Vitamin-D3-by-HealthKart-60-capsules_o.jpg"
+        ],
+        "sourceType": "manufacturer",
+        "sourceVariantId": "187072",
+        "sourceProductId": "100530"
+      }
+    },
+    {
+      "order": 11,
+      "offer": {
+        "form": "Capsule",
+        "source": "Not specified",
+        "servingUnits": 1,
+        "product": "Vitamin D3",
+        "type": "D3 (cholecalciferol)",
+        "subclass": "Single vitamin",
+        "vitaminDIu": 600,
+        "vitaminDMcg": 15,
+        "energyPerServing": 0.98,
+        "basis": "Official nutrition panel: one capsule (0.40 g), 600 IU Vitamin D3 and 0.98 kcal per capsule.",
+        "notes": "The nutrition panel specifies a capsule; a separate lifestyle image calls it a tablet. Capsule form follows the actual product and nutrition panel. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+        "brand": "HK Vitals",
+        "id": "vitamin-d-hkv-187074",
+        "packCount": 90,
+        "flavour": "Unflavoured",
+        "price": 579,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://www.hkvitals.com/sv/hk-vitals-vitamin-d3/SP-100530?navKey=VRNT-187074",
+        "nutritionUrl": "https://img2.hkrtcdn.com/35036/prd_3503581-HK-Vitals-Vitamin-D3-by-HealthKart-60-capsules_o.jpg",
+        "labelSources": [
+          "https://www.hkvitals.com/sv/hk-vitals-vitamin-d3/SP-100530?navKey=VRNT-187074",
+          "https://img2.hkrtcdn.com/35036/prd_3503581-HK-Vitals-Vitamin-D3-by-HealthKart-60-capsules_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "packaging": "Single retail pack (90 units)",
+        "sourceVariantId": "187074",
+        "sourceProductId": "100530"
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3740,
+      "observation": {
+        "category": "vitamin-d",
+        "offerId": "hkv-d3-60",
+        "date": "2026-10-29",
+        "price": 389,
+        "currency": "INR",
+        "sourceUrl": "https://www.hkvitals.com/products/vitamin-d3",
+        "evidenceUrl": "https://www.hkvitals.com/products/vitamin-d3",
+        "kind": "official-live",
+        "matchBasis": "Official primary product page and explicitly selected pack",
+        "variantId": null
+      }
+    },
+    {
+      "order": 3952,
+      "observation": {
+        "category": "vitamin-d",
+        "offerId": "hkv-d3-60",
+        "date": "2026-11-19",
+        "price": 389,
+        "currency": "INR",
+        "sourceUrl": "https://www.hkvitals.com/products/vitamin-d3",
+        "evidenceUrl": "https://www.hkvitals.com/products/vitamin-d3",
+        "kind": "official-live",
+        "variantId": null,
+        "matchBasis": "Official primary product page; explicit 60-unit pack and main listed INR price. Bundles, coupons, prepaid rewards and other sizes excluded."
+      }
+    },
+    {
+      "order": 5117,
+      "observation": {
+        "category": "vitamin-d",
+        "offerId": "hkv-d3-60",
+        "date": "2026-11-19",
+        "price": 389,
+        "currency": "INR",
+        "sourceUrl": "https://www.hkvitals.com/sv/hk-vitals-vitamin-d3/SP-100530?navKey=VRNT-187072",
+        "evidenceUrl": "https://www.hkvitals.com/sv/hk-vitals-vitamin-d3/SP-100530?navKey=VRNT-187072",
+        "kind": "official-live",
+        "matchBasis": "Official HK Vitals SSR reviewData selected numeric variant 187072; explicit pack '60 capsules', unconditional offer_pr INR and isPublish=true/oos=false. Excludes loyalty and coupon rewards.",
+        "variantId": "187072"
+      }
+    },
+    {
+      "order": 5118,
+      "observation": {
+        "category": "vitamin-d",
+        "offerId": "vitamin-d-hkv-187074",
+        "date": "2026-11-19",
+        "price": 579,
+        "currency": "INR",
+        "sourceUrl": "https://www.hkvitals.com/sv/hk-vitals-vitamin-d3/SP-100530?navKey=VRNT-187074",
+        "evidenceUrl": "https://www.hkvitals.com/sv/hk-vitals-vitamin-d3/SP-100530?navKey=VRNT-187074",
+        "kind": "official-live",
+        "matchBasis": "Official HK Vitals SSR reviewData selected numeric variant 187074; explicit pack '90 capsules', unconditional offer_pr INR and isPublish=true/oos=false. Excludes loyalty and coupon rewards.",
+        "variantId": "187074"
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 32,
+      "profile": {
+        "form": "Capsule",
+        "source": "Not specified",
+        "servingUnits": 1,
+        "product": "Vitamin D3",
+        "type": "D3 (cholecalciferol)",
+        "subclass": "Single vitamin",
+        "vitaminDIu": 600,
+        "vitaminDMcg": 15,
+        "energyPerServing": 0.98,
+        "basis": "Official nutrition panel: one capsule (0.40 g), 600 IU Vitamin D3 and 0.98 kcal per capsule.",
+        "notes": "The nutrition panel specifies a capsule; a separate lifestyle image calls it a tablet. Capsule form follows the actual product and nutrition panel. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+        "brand": "HK Vitals",
+        "id": "hkv-d3-60",
+        "packCount": 60,
+        "flavour": "Unflavoured",
+        "nutritionUrl": "https://img2.hkrtcdn.com/35036/prd_3503581-HK-Vitals-Vitamin-D3-by-HealthKart-60-capsules_o.jpg",
+        "labelSources": [
+          "https://www.hkvitals.com/sv/hk-vitals-vitamin-d3/SP-100530?navKey=VRNT-187072",
+          "https://img2.hkrtcdn.com/35036/prd_3503581-HK-Vitals-Vitamin-D3-by-HealthKart-60-capsules_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "packaging": "Single retail pack (60 units)",
+        "sourceVariantId": "187072",
+        "sourceProductId": "100530",
+        "category": "vitamin-d",
+        "kind": "hk-product",
+        "base": "https://www.hkvitals.com",
+        "handle": "vitamin-d3",
+        "productUrl": "https://www.hkvitals.com/sv/hk-vitals-vitamin-d3/SP-100530?navKey=VRNT-187072",
+        "variantUrl": "https://www.hkvitals.com/sv/hk-vitals-vitamin-d3/SP-100530?navKey=VRNT-187072",
+        "variantId": "187072",
+        "productId": 100530,
+        "sourceBrand": "HK Vitals",
+        "variantAttributes": {
+          "fn-att-quant": "60 capsules"
+        }
+      }
+    },
+    {
+      "order": 230,
+      "profile": {
+        "form": "Capsule",
+        "source": "Not specified",
+        "servingUnits": 1,
+        "product": "Vitamin D3",
+        "type": "D3 (cholecalciferol)",
+        "subclass": "Single vitamin",
+        "vitaminDIu": 600,
+        "vitaminDMcg": 15,
+        "energyPerServing": 0.98,
+        "basis": "Official nutrition panel: one capsule (0.40 g), 600 IU Vitamin D3 and 0.98 kcal per capsule.",
+        "notes": "The nutrition panel specifies a capsule; a separate lifestyle image calls it a tablet. Capsule form follows the actual product and nutrition panel. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+        "brand": "HK Vitals",
+        "id": "vitamin-d-hkv-187074",
+        "packCount": 90,
+        "flavour": "Unflavoured",
+        "nutritionUrl": "https://img2.hkrtcdn.com/35036/prd_3503581-HK-Vitals-Vitamin-D3-by-HealthKart-60-capsules_o.jpg",
+        "labelSources": [
+          "https://www.hkvitals.com/sv/hk-vitals-vitamin-d3/SP-100530?navKey=VRNT-187074",
+          "https://img2.hkrtcdn.com/35036/prd_3503581-HK-Vitals-Vitamin-D3-by-HealthKart-60-capsules_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "packaging": "Single retail pack (90 units)",
+        "sourceVariantId": "187074",
+        "sourceProductId": "100530",
+        "category": "vitamin-d",
+        "kind": "hk-product",
+        "base": "https://www.hkvitals.com",
+        "handle": "vitamin-d3",
+        "productUrl": "https://www.hkvitals.com/sv/hk-vitals-vitamin-d3/SP-100530?navKey=VRNT-187074",
+        "variantUrl": "https://www.hkvitals.com/sv/hk-vitals-vitamin-d3/SP-100530?navKey=VRNT-187074",
+        "variantId": "187074",
+        "productId": 100530,
+        "sourceBrand": "HK Vitals",
+        "variantAttributes": {
+          "fn-att-quant": "90 capsules"
+        }
+      }
+    }
+  ]
+}

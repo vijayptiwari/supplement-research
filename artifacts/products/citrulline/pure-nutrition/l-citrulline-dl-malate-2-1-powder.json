@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "category": "citrulline",
+  "brand": "Pure Nutrition",
+  "product": "L-Citrulline DL-Malate 2:1 Powder",
+  "variants": [
+    {
+      "order": 6,
+      "offer": {
+        "brand": "Pure Nutrition",
+        "product": "L-Citrulline DL-Malate 2:1 Powder",
+        "form": "Powder",
+        "type": "L-citrulline DL-malate",
+        "subclass": "2:1 compound",
+        "source": "Not specified",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "grams": 200,
+        "servingGrams": 3,
+        "basis": "Official product specifications and inspected instructions image specify 200 g pack and one level 3 g scoop, with stated 2:1 citrulline-to-DL-malate ratio.",
+        "notes": "The 3 g is the powder serving. A separate numeric compound payload was not verified, so neither compound nor free L-citrulline mass is inferred from the ratio or serving weight.",
+        "labelChecked": "2026-11-17",
+        "citrullineMalateRatio": "2:1",
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0618/9629/4654/files/pure-nutrition-citrulline-label-instructions.jpg?v=1789448792"
+        ],
+        "citrullineMg": null,
+        "citrullineMalateMg": null,
+        "energyPerServing": null,
+        "id": "citrulline-67681804747006",
+        "price": 542.23,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://purenutrition.in/products/100-pure-l-citrulline-dl-malate-2-1-powder-unflavoured-faster-recovery-reduce-muscle-fatigue?variant=67681804747006",
+        "nutritionUrl": "https://purenutrition.in/products/100-pure-l-citrulline-dl-malate-2-1-powder-unflavoured-faster-recovery-reduce-muscle-fatigue",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://purenutrition.in/products/100-pure-l-citrulline-dl-malate-2-1-powder-unflavoured-faster-recovery-reduce-muscle-fatigue?variant=67681804747006",
+          "evidenceUrl": "https://purenutrition.in/products/100-pure-l-citrulline-dl-malate-2-1-powder-unflavoured-faster-recovery-reduce-muscle-fatigue.json",
+          "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3834,
+      "observation": {
+        "category": "citrulline",
+        "offerId": "citrulline-67681804747006",
+        "date": "2026-11-17",
+        "price": 542.23,
+        "currency": "INR",
+        "sourceUrl": "https://purenutrition.in/products/100-pure-l-citrulline-dl-malate-2-1-powder-unflavoured-faster-recovery-reduce-muscle-fatigue?variant=67681804747006",
+        "evidenceUrl": "https://purenutrition.in/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Direct official same-day source; exact retail variant and weight. Member, prepaid and coupon discounts excluded.",
+        "variantId": "67681804747006"
+      }
+    },
+    {
+      "order": 4025,
+      "observation": {
+        "category": "citrulline",
+        "offerId": "citrulline-67681804747006",
+        "date": "2026-11-19",
+        "price": 542.23,
+        "currency": "INR",
+        "sourceUrl": "https://purenutrition.in/products/100-pure-l-citrulline-dl-malate-2-1-powder-unflavoured-faster-recovery-reduce-muscle-fatigue?variant=67681804747006",
+        "evidenceUrl": "https://purenutrition.in/products/100-pure-l-citrulline-dl-malate-2-1-powder-unflavoured-faster-recovery-reduce-muscle-fatigue.json",
+        "kind": "official-live",
+        "variantId": "67681804747006",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 118,
+      "profile": {
+        "category": "citrulline",
+        "brand": "Pure Nutrition",
+        "base": "https://purenutrition.in",
+        "handle": "100-pure-l-citrulline-dl-malate-2-1-powder-unflavoured-faster-recovery-reduce-muscle-fatigue",
+        "product": "L-Citrulline DL-Malate 2:1 Powder",
+        "form": "Powder",
+        "type": "L-citrulline DL-malate",
+        "subclass": "2:1 compound",
+        "source": "Not specified",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "grams": 200,
+        "servingGrams": 3,
+        "basis": "Official product specifications and inspected instructions image specify 200 g pack and one level 3 g scoop, with stated 2:1 citrulline-to-DL-malate ratio.",
+        "notes": "The 3 g is the powder serving. A separate numeric compound payload was not verified, so neither compound nor free L-citrulline mass is inferred from the ratio or serving weight.",
+        "labelChecked": "2026-11-17",
+        "variantIds": [
+          "67681804747006"
+        ],
+        "citrullineMalateRatio": "2:1",
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0618/9629/4654/files/pure-nutrition-citrulline-label-instructions.jpg?v=1789448792"
+        ],
+        "citrullineMg": null,
+        "citrullineMalateMg": null,
+        "energyPerServing": null
+      }
+    }
+  ]
+}

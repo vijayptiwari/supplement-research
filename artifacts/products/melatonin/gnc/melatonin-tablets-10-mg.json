@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "category": "melatonin",
+  "brand": "GNC",
+  "product": "Melatonin Tablets 10 mg",
+  "variants": [
+    {
+      "order": 7,
+      "offer": {
+        "brand": "GNC",
+        "product": "Melatonin Tablets 10 mg",
+        "form": "Tablet",
+        "type": "Melatonin",
+        "subclass": "Release profile not specified",
+        "packCount": 60,
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official exact product listing and declared count. Only explicitly verified serving quantities are used.",
+        "notes": "Exact official 60-tablet product handle and selected variant identify the pack. The 10 mg title does not establish the per-tablet serving basis; active-content cost remains unknown.",
+        "labelChecked": "2026-10-31",
+        "melatoninMg": null,
+        "id": "melatonin-52521447555303",
+        "price": 599,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://www.guardian.in/products/gnc-melatonin-10mg-60-tablets?variant=52521447555303",
+        "nutritionUrl": "https://www.guardian.in/products/gnc-melatonin-10mg-60-tablets",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.guardian.in/products/gnc-melatonin-10mg-60-tablets?variant=52521447555303",
+          "evidenceUrl": "https://www.guardian.in/products/gnc-melatonin-10mg-60-tablets.json",
+          "matchBasis": "Official public Shopify product; exact variant ID 52521447555303 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3758,
+      "observation": {
+        "category": "melatonin",
+        "offerId": "melatonin-52521447555303",
+        "date": "2026-10-29",
+        "price": 449,
+        "currency": "INR",
+        "sourceUrl": "https://www.guardian.in/products/gnc-melatonin-10mg-60-tablets?variant=52521447555303",
+        "evidenceUrl": "https://www.guardian.in/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "52521447555303"
+      }
+    },
+    {
+      "order": 3881,
+      "observation": {
+        "category": "melatonin",
+        "offerId": "melatonin-52521447555303",
+        "date": "2026-11-19",
+        "price": 599,
+        "currency": "INR",
+        "sourceUrl": "https://www.guardian.in/products/gnc-melatonin-10mg-60-tablets?variant=52521447555303",
+        "evidenceUrl": "https://www.guardian.in/products/gnc-melatonin-10mg-60-tablets.json",
+        "kind": "official-live",
+        "variantId": "52521447555303",
+        "matchBasis": "Official public Shopify product; exact variant ID 52521447555303 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 48,
+      "profile": {
+        "category": "melatonin",
+        "brand": "GNC",
+        "base": "https://www.guardian.in",
+        "handle": "gnc-melatonin-10mg-60-tablets",
+        "product": "Melatonin Tablets 10 mg",
+        "form": "Tablet",
+        "type": "Melatonin",
+        "subclass": "Release profile not specified",
+        "packCount": 60,
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official exact product listing and declared count. Only explicitly verified serving quantities are used.",
+        "notes": "Exact official 60-tablet product handle and selected variant identify the pack. The 10 mg title does not establish the per-tablet serving basis; active-content cost remains unknown.",
+        "labelChecked": "2026-10-31",
+        "melatoninMg": null
+      }
+    }
+  ]
+}

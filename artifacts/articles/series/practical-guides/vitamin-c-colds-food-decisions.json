@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "order": 33,
+  "article": {
+    "id": "vitamin-c-colds-food-decisions",
+    "category": "vitamin-c",
+    "series": "practical-guides",
+    "title": "Vitamin C for colds: prevention, duration and an everyday buying decision",
+    "summary": "Learn why preventing a cold, shortening one and treating symptoms after they start are different evidence questions.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "Cold-season marketing often combines three promises: avoid infections, recover faster and compensate for an imperfect diet. Those promises require different evidence. Vitamin C is an essential nutrient, but that fact alone does not identify the effect of an extra tablet in someone whose intake is already adequate. This article separates the questions so that a purchase can be judged against its actual purpose rather than a broad immunity slogan. The same method helps assess other products promoted around seasonal illness.",
+    "sections": [
+      {
+        "id": "essential",
+        "title": "Nutritional adequacy remains a meaningful objective",
+        "body": "Humans need dietary vitamin C, and inadequate intake can eventually cause deficiency. Maintaining an adequate supply supports normal physiology, but preventing deficiency is different from proving that a supplement prevents common colds in adequately nourished adults. A person can have a sound reason to improve a poor diet without needing a disease-prevention claim to justify it. Clarify which of these objectives applies before interpreting a trial or selecting a strength. The ingredient's essential status should not be turned into a promise of unlimited extra benefit.",
+        "sourceIds": [
+          "c-overview",
+          "c-food"
+        ]
+      },
+      {
+        "id": "incidence",
+        "title": "A general-population prevention promise is not well supported",
+        "body": "A major synthesis of placebo-controlled trials found that regular vitamin C supplementation did not reduce cold incidence in the general population. Some groups exposed to brief severe physical stress had different findings, so the population boundary should remain visible. A result in an extreme setting is not a reason to label every gym session equivalent or automatically prescribe extra vitamin C to all athletes. The relevant question is whether the studied circumstances resemble the advertised use, rather than whether any favourable subgroup can be found.",
+        "sourceIds": [
+          "c-cold-review"
+        ]
+      },
+      {
+        "id": "duration",
+        "title": "A modest duration finding is a narrower claim",
+        "body": "The same review found a modest shortening of colds during regular supplementation. That outcome concerns how long illness lasted under the studied protocols, not complete protection against infection or a cure. Small average changes can still be of interest, but their practical value should be judged alongside cost, tolerance and uncertainty about individual response. Do not translate a percentage reduction into a guaranteed number of saved days for every person. The timing and consistency of the intervention also matter when applying the result.",
+        "sourceIds": [
+          "c-cold-review"
+        ]
+      },
+      {
+        "id": "after-onset",
+        "title": "Starting after symptoms begin asks another question",
+        "body": "Evidence from people who were already taking a supplement cannot automatically establish benefit from beginning it when a sore throat appears. Prevention, regular use and treatment after onset are distinct study designs. The reviewed treatment trials did not show a consistent effect from starting vitamin C after symptoms began. That does not settle every possible future regimen, but it prevents a confident rescue claim from being borrowed from another question. Read when participants started the intervention before using the study to justify an urgent purchase.",
+        "sourceIds": [
+          "c-cold-review"
+        ]
+      },
+      {
+        "id": "food",
+        "title": "Use food for dietary adequacy without turning it into a cure",
+        "body": "Fruit and vegetables can contribute vitamin C alongside other useful nutrients and ordinary meal variety. Food composition depends on the item, preparation and storage, so a familiar food name is not a fixed treatment dose. The guide retains source-specific portions where quantities are available. Those entries help review nutritional contribution; they are not instructions to replace medical assessment with a particular fruit or to regard food and a trial supplement regimen as clinically interchangeable. A sustainable food routine can have value without a cold-cure claim.",
+        "sourceIds": [
+          "c-food",
+          "food-india-nin-fruits",
+          "food-usda-sr28"
+        ]
+      },
+      {
+        "id": "amount",
+        "title": "A larger number is not a stronger immunity score",
+        "body": "Absorption, tissue handling and urinary losses change with intake, while large oral amounts can cause gastrointestinal problems. The largest front-panel milligram figure therefore should not be treated as a proportional measure of benefit. Reference intakes, safety limits and clinical regimens also describe different things. International references shown in this library are identified as such, rather than presented as personal Indian dosing instructions. Count overlapping multivitamins and other products before deciding that a second high-strength bottle adds a useful contribution.",
+        "sourceIds": [
+          "c-overview"
+        ]
+      },
+      {
+        "id": "illness",
+        "title": "A supplement decision does not replace appropriate illness care",
+        "body": "Persistent, severe or otherwise concerning symptoms need the assessment appropriate to the situation, not an assumption that a higher vitamin amount will resolve them. Cold research also should not be stretched into treatment claims for unrelated infections or other diseases. If a clinician has identified a deficiency or another specific indication, that plan is a different context from seasonal self-supplementation. Keep the two separate when reading labels, sharing advice or deciding whether an advertisement overstates what its cited research actually establishes.",
+        "sourceIds": [
+          "c-overview",
+          "c-cold-review"
+        ]
+      },
+      {
+        "id": "value",
+        "title": "What would make the purchase worthwhile?",
+        "body": "State the intended benefit before checking price: improving dietary adequacy, following a clinical plan or exploring a modest and uncertain change in cold duration. Then compare evidence relevant to that objective, the exact formulation, complete serving, tolerance and cost. A product that prevents neither a purchase need nor an advertised illness can still look cheap per milligram. The useful decision is the one that connects a real requirement with a credible intervention, including the option of meeting needs through food or buying nothing additional.",
+        "sourceIds": [
+          "supplement-quality-ods",
+          "c-food"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "c-overview",
+      "c-food",
+      "c-cold-review",
+      "food-india-nin-fruits",
+      "food-usda-sr28",
+      "supplement-quality-ods"
+    ]
+  }
+}

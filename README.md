@@ -4,24 +4,44 @@
 
 Research across protein, creatine, amino acids, pre-workouts and counted supplement categories from dated public product listings, labels and archived prices. The website is a static app powered by one validated dataset revision. Counts, filter choices, ranges, rankings, costs, evidence coverage, trend colours, dates, examples, metadata and downloads are derived from that revision. No quarterly UI edits are needed.
 
+## File-based source architecture
+
+All editable product and content data lives in [artifacts/](artifacts/README.md):
+
+```text
+artifacts/
+  wiki/<supplement-id>.json
+  articles/<independent-article-id>.json
+  articles/series/<series-id>/_series.json
+  articles/series/<series-id>/<article-id>.json
+  products/<supplement-id>/<brand-slug>/<product-slug>.json
+```
+
+Wiki files own category definitions and complete education guides. Product files own exact variants, dated price observations and refresh-source profiles. Articles can belong to a series or stand independently. The build discovers these files without a hand-maintained content list. Existing public URLs are preserved. Shared references, site settings, policies and audits are metadata files directly under `artifacts/`.
+
 ## Quarterly update workflow
 
-1. Update `docs/data/catalog.json` and/or `docs/data/creatine.json`. Retain stable offer IDs for the same exact brand, product, flavour, weight and packaging; assign new IDs to different variants. Set each category's `checked` date to the research date in `YYYY-MM-DD` format.
-2. Add dated exact-variant prices to `docs/data/price-observations.json`. Retain old observations, exclusions and reasons. Price evidence must match the offer ID, category and official product URL. Do not extrapolate prices to unavailable sizes or flavours.
-3. Record missing nutrition as `null`, with source URLs, basis and uncertainty in the offer notes. Update price, weight, concentration, energy and scoop inputs only after checking the exact variant. Energy uses **kcal per 100 g**, not kJ or kcal per serving. Creatine concentration uses the **labelled compound**, not a presumed free-creatine equivalent.
-4. Run `npm test` and `npm run build`. Review `dist/data/quality-report.json` and the local site with `npm start`. Fix validation errors; inspect warnings and conflicts. Build errors prevent publication, while explicit unknowns remain visible.
-5. Commit and push the dataset changes to `main`. GitHub Actions validates, builds and deploys `dist/` to GitHub Pages. UI code and generated statistics do not need to be edited.
+1. Edit the relevant `artifacts/products/<supplement>/<brand>/<product>.json`. Retain stable exact-offer IDs; assign new IDs to different variants. Prices and label inputs live under `variants[].offer`.
+2. Append exact dated evidence to that product's `priceHistory[].observation`. Keep old evidence and explicit exclusions. Update the category's separate product `catalog.checked` date in `artifacts/wiki/<supplement>.json`; do not redate its guide unless the education was actually reviewed.
+3. Keep missing nutrition as `null`, with source URLs and limitations. Energy is **kcal per 100 g** for the relevant powder fields. Label-serving amounts, elemental mineral content and chemical compound mass remain distinct.
+4. Run `npm run validate:artifacts`, `npm test`, `python -m unittest discover -s tests -p 'test_*.py'` and `npm run build`. Inspect `dist/data/quality-report.json` and preview with `npm start`.
+5. Commit source changes and push to `main`. GitHub Actions validates and publishes `dist/`. No quarterly UI edits are needed.
 
-After a successful deployment, an open visible page checks for a new revision every minute, on returning to the tab, and through **Refresh data**. It downloads a new snapshot only when its version changes. Filters, layout, sorting and an open evidence dialog are retained. A failed or corrupt update keeps the last validated revision with an error status. This refreshes the **published research dataset**; it does not check merchant prices live. The status bar distinguishes dataset dates from the browser's last update check.
+Maintained catalog, archival-price and Trustified import tools write through the artifact store. Staged updates reject concurrent manual edits, retain unrelated content and preserve label-review dates. [The source guide](artifacts/README.md) documents new categories, articles, products and the staged export/import workflow.
+
+Open visible pages check for a published revision every minute, when returning to the tab and through **Refresh data**. They swap the complete validated snapshot together and retain existing controls. Invalid updates keep the last valid revision. This refreshes published research, not merchant checkout prices.
 
 ## Source files and calculations
 
-- `docs/data/site.json`: category definitions, comparison quantities, ranking limit, freshness policy, quick-pick rules and polling interval.
-- `docs/data/catalog.json`: protein inputs; pack weight in `kg`, labelled `protein` percentage.
-- `docs/data/creatine.json`: creatine inputs; net pack weight in `grams`, labelled `creatine` compound percentage.
-- `docs/data/price-observations.json`: append-only dated evidence ledger (except correcting an explicitly documented mistake).
-- `docs/data/brands.json`: optional official brand directory. Catalog counts and available brands come from offers, so adding a new brand does not require a UI change.
-- `docs/model.js`: shared normalization, validation and calculations used by the browser, build and tests.
+- `artifacts/wiki/`: category measurement definitions, product research dates and complete education guides.
+- `artifacts/products/`: product variants, label inputs, price evidence and refresh profiles, grouped by supplement and brand.
+- `artifacts/articles/`: independent articles and file-defined series.
+- `artifacts/site.json`: display, currency, freshness and polling policies; categories are discovered from wiki files.
+- `artifacts/references.json` and `research-policy.json`: shared citations and editorial/clinical/intake policies.
+- `artifacts/brands.json` and `recommender.json`: optional brand details and reviewed selection policies.
+- `docs/model.js`: shared validation and calculations used by the browser, build and tests.
+
+`dist/data/` contains generated compatibility exports and the content-addressed browser snapshot. The old editable `docs/data/*.json` collection has been migrated and removed; editing a generated export does not update the sources. The archived Excel workbook is retained.
 
 Compound cost = price / (net pack grams × labelled percentage / 100). Powder cost = price / net pack grams. Comparison-portion cost = compound cost × the configured reference grams. The portion is not the manufacturer's scoop or intake advice. Protein per scoop uses the recorded scoop weight and concentration. Missing energy stays unknown, including on the homepage; a recorded zero remains zero.
 
@@ -43,7 +63,7 @@ npm test
 npm run build
 ```
 
-The collector searches HTML captures and optional archived product JSON/JS feeds through the [Internet Archive CDX API](https://github.com/internetarchive/wayback/tree/master/wayback-cdx-server), follows index pagination, checks capture timestamps, and accepts prices only when an exact variant or SKU can be matched. Local response caches support repeatable review and retries. Use `--cached-only --alternatives 2` for an offline re-audit, or `--skip-known-failures` when trying additional capture dates without repeating already failed requests. Previous manual exclusions are retained. `docs/data/history-research.json` records attempted public sources, archive retrieval failures and quotes collected per quarter; a failed lookup or absent archive is not proof of a product launch date. Review the research log and exclusions before publishing. Incomplete index queries are explicitly flagged, and incomplete historical coverage is shown on the site.
+The collector searches HTML captures and optional archived product JSON/JS feeds through the [Internet Archive CDX API](https://github.com/internetarchive/wayback/tree/master/wayback-cdx-server), follows index pagination, checks capture timestamps, and accepts prices only when an exact variant or SKU can be matched. Local response caches support repeatable review and retries. Use `--cached-only --alternatives 2` for an offline re-audit, or `--skip-known-failures` when trying additional capture dates without repeating already failed requests. Previous manual exclusions are retained. `artifacts/history-research.json` records attempted public sources, archive retrieval failures and quotes collected per quarter; a failed lookup or absent archive is not proof of a product launch date. Review the research log and exclusions before publishing. Incomplete index queries are explicitly flagged, and incomplete historical coverage is shown on the site.
 
 ## Price evidence and trends
 
@@ -79,7 +99,7 @@ Deployment follows the [GitHub Pages custom workflow requirements](https://docs.
 
 ## Count-based supplement categories
 
-Ashwagandha, Fish Oil, Vitamin D, Magnesium, ZMC, Glutathione, Melatonin, Biotin, Vitamin C, Vitamin B and Folic Acid / Folate use counted packs, not inferred kilogram prices. `docs/data/additional-sources.json` records curated official product handles, label sources, serving basis and separate label-check dates. Raw category files and the observation ledger supply all displayed prices, counts, nutrient amounts, filters and calculations.
+Ashwagandha, Fish Oil, Vitamin D, Magnesium, ZMC, Glutathione, Melatonin, Biotin, Vitamin C, Vitamin B and Folic Acid / Folate use counted packs, not inferred kilogram prices. Per-product `refreshSources` entries record curated official product handles, label sources, serving basis and separate label-check dates. Raw category files and the observation ledger supply all displayed prices, counts, nutrient amounts, filters and calculations.
 
 Refresh official prices with `python scripts/build_additional_catalog.py --as-of YYYY-MM-DD --refresh`, review changes and exact pack counts, then run tests and build. To update selected categories only, append `--categories glutathione melatonin`; other category files and research dates stay unchanged. Review labels separately before changing their check dates. This is a quarterly research update workflow, not a live merchant checkout-price feed; deployed dataset revisions refresh automatically in the browser.
 
@@ -106,14 +126,14 @@ Their guides and stack review distinguish mechanisms from demonstrated outcomes,
 
 ## Articles and research
 
-`docs/data/research.json` contains the category guides, editorial review dates, selected reference metadata, summaries and limitations. It is bundled into the same content-addressed dataset as the catalogs, so editing the data and publishing a validated build updates the reading library without editing UI components. `research.html` supports category, topic and reference-type filters, with shareable query parameters. Catalog pages link directly to the relevant guide collection.
+The wiki/article files and shared research metadata contain the category guides, editorial review dates, selected reference metadata, summaries and limitations. It is bundled into the same content-addressed dataset as the catalogs, so editing the data and publishing a validated build updates the reading library without editing UI components. `research.html` supports category, topic and reference-type filters, with shareable query parameters. Catalog pages link directly to the relevant guide collection.
 
 This is curated educational coverage, not a systematic review or a brand endorsement. Preserve population, formulation, outcome and safety context. Check original sources and disclosures, update review dates only after review, and distinguish publication years from the date a reference was checked. Dataset validation rejects unsafe source URLs, duplicate IDs and unresolved citations. Avoid extrapolating component evidence to ZMC combinations or one extract to all Ashwagandha products.
 
 
 ## Supplement stack recommender
 
-`recommender.html` provides goal presets, requirements, existing-category checks and a total upfront pack budget. Rules and explanatory evidence live in `docs/data/recommender.json`, bundled with the catalog and research dataset. `docs/recommender.js` evaluates those rules and current verified, in-stock offers. It is a transparent rules-based tool, not an AI diagnosis or a dosing engine.
+`recommender.html` provides goal presets, requirements, existing-category checks and a total upfront pack budget. Rules and explanatory evidence live in `artifacts/recommender.json`, bundled with the catalog and research dataset. `docs/recommender.js` evaluates those rules and current verified, in-stock offers. It is a transparent rules-based tool, not an AI diagnosis or a dosing engine.
 
 Protein requires a self-identified dietary gap. Creatine candidates are pure unflavoured monohydrate; fish oil requires verified serving and EPA+DHA inputs. Stress, mineral, melatonin, glutathione and micronutrient categories provide educational review rather than automatic product picks. Underage, pregnancy/breastfeeding, medicines, health conditions and uncertain contexts pause product shortlists. Existing categories are not suggested again; ZMC and B-complex / biotin / folate overlap are explained. Ingredient preferences are not vegan or allergen certification.
 
@@ -135,7 +155,7 @@ The research reader retains all clinical sections and references and links direc
 
 ## Suitability, foods and purchase priority
 
-Every current research article includes a `buyingGuide` in `docs/data/research.json`: who can consider it, who should review use first, a food-source summary, individual foods marked `direct`, `precursor` or `different-form`, and source IDs. An empty food list is valid only with an explanatory summary, such as no ordinary food equivalent for a botanical extract. Do not imply that precursor foods or different chemical forms supply a supplement-equivalent amount.
+Every current research article includes a `buyingGuide` in the wiki/article files and shared research metadata: who can consider it, who should review use first, a food-source summary, individual foods marked `direct`, `precursor` or `different-form`, and source IDs. An empty food list is valid only with an explanatory summary, such as no ordinary food equivalent for a botanical extract. Do not imply that precursor foods or different chemical forms supply a supplement-equivalent amount.
 
 `valuePolicy` defines the five-level editorial purchase-priority scale and its routine-use baseline. Each guide stores separate `routineScore` and `targetedScore` values, a named `targetedUse`, formulation/population `scope`, reasoning, worth/skip conditions and supporting references. These numbers are editorial judgments, not clinical trial results, a validated risk score, laboratory certification or brand-quality ratings. A high targeted rating does not establish that a visitor has that need or that every product in the category fits it.
 
@@ -144,7 +164,7 @@ The reader exposes audience, food and value sections; the library filters by pur
 
 ## Food amounts, intake references and combined stack review
 
-Every current guide has source-linked food quantities (or an explicit quantity gap), an `intakeGuide` and a `medicalGuide` in `docs/data/research.json`. Exact food preparation and the original serving basis are preserved. USDA entries retain NDB identifiers. Dry laboratory samples, precursors, natural folate and different forms are explicitly labelled; none is silently converted into an equivalent supplement dose.
+Every current guide has source-linked food quantities (or an explicit quantity gap), an `intakeGuide` and a `medicalGuide` in the wiki/article files and shared research metadata. Exact food preparation and the original serving basis are preserved. USDA entries retain NDB identifiers. Dry laboratory samples, precursors, natural folate and different forms are explicitly labelled; none is silently converted into an equivalent supplement dose.
 
 `intakePolicy` contains expandable training profiles and adult age bands. Use goal and workload rather than invented dosing tiers for 2/3/5 sessions or beginner/advanced training. US NIH/National Academies RDA/AI references are explicitly distinguished from Indian recommendations, studied supplemental protocols and safety ceilings. Body mass is optional; no default mass or daily product quantity is assigned. `medicalPolicy` separates established indication-specific care, supportive use, mixed findings and unestablished treatment claims. Disease terms retrieve education, never automatic product treatments. Citations, units, ranges, context and serving bases are validated before accepting a dataset revision.
 
@@ -163,7 +183,7 @@ Active-content and serving-cost formulas explain price comparisons without treat
 
 ## Illustrated pathways and editorial series
 
-All category guides have a `pathway` in `docs/data/research.json`: a title, summary, up to three labelled tracks, three or four steps per track (`label`, `detail`, `compartment`, `icon`), an interpretation caveat and `sourceIds`. Optional `returnLabel` denotes an evidenced recycling route, not a generic feedback arrow. `pathwayPolicy` states the limits of these simplified diagrams. Combination products use parallel ingredient routes, while uncertain mechanisms remain explicit. `docs/pathways.js` draws accessible native SVG illustrations, with horizontal and vertical layouts selected by available content width; the text mechanism remains available. Sources must resolve and belong to the parent guide before publication.
+All category guides have a `pathway` in the wiki/article files and shared research metadata: a title, summary, up to three labelled tracks, three or four steps per track (`label`, `detail`, `compartment`, `icon`), an interpretation caveat and `sourceIds`. Optional `returnLabel` denotes an evidenced recycling route, not a generic feedback arrow. `pathwayPolicy` states the limits of these simplified diagrams. Combination products use parallel ingredient routes, while uncertain mechanisms remain explicit. `docs/pathways.js` draws accessible native SVG illustrations, with horizontal and vertical layouts selected by available content width; the text mechanism remains available. Sources must resolve and belong to the parent guide before publication.
 
 The selector and contents share one sticky guide rail. The original controls move into that rail without cloning IDs or losing event bindings. On narrow screens the compact supplement selector stays above collapsible contents; measured header/navigation heights keep chapter anchors visible.
 
@@ -199,7 +219,7 @@ Search and filtered variants carry noindex metadata and retain the base canonica
 
 ## Product research refresh: 19 November 2026
 
-The catalog now contains 1,248 exact offers across 41 brands and 24 categories. This audit added 77 offers and reverified 1,167 of the 1,171 previous exact prices; unresolved packs retain their earlier evidence dates. Source snapshots and individual product research are compiled in `docs/data/catalog-research.json`; the small snapshot summary drives the public audit section without making every visitor download the full research log. `catalog-data-requirements.json` defines shared and category-specific requirements, and records excluded pricing/identity cases. These are selected public-source checks, not independent ingredient assays or proof of authenticity.
+The catalog now contains 1,248 exact offers across 41 brands and 24 categories. This audit added 77 offers and reverified 1,167 of the 1,171 previous exact prices; unresolved packs retain their earlier evidence dates. Source snapshots and individual product research are compiled in `artifacts/catalog-research.json`; the small snapshot summary drives the public audit section without making every visitor download the full research log. `catalog-data-requirements.json` defines shared and category-specific requirements, and records excluded pricing/identity cases. These are selected public-source checks, not independent ingredient assays or proof of authenticity.
 
 Price observations and label checks remain separate. 80 label profiles were reviewed on the audit date, including explicit gaps and conflicts. Examples include actual biotin versus botanical extract mass, elemental versus compound mineral quantities, free amino acids versus salts, and native type II collagen versus hydrolysed peptides or mixed complexes. Additional declared ingredients outside the modeled nutrient keys appear in pack details and are flagged in stack arithmetic rather than counted as zero.
 
@@ -229,8 +249,8 @@ Examples of preserved label distinctions include 96.8% monohydrate plus FOS vers
 
 Added 40 verified pack listings across Alpino, Mille, Only What's Needed, One Science Nutrition, Cutler Nutrition, Foodstrong and XLR8. The catalog now contains 1,475 category entries across 52 brands. Exact prices, stock and labels have their own source dates; incomplete and contradictory label values stay explicit. Source profiles support future price refreshes without UI edits, including strict reviewed-weight evidence for exact ProductGroup variants and exact Dukaan SKU selection with the storefront's `sku_id` parameter.
 
-The independently versioned testing ledger is `docs/data/trustified-reports.json`. It retains 291 source-URL/batch records across 90 source brand names: 216 reported passed, 39 failed, 32 expired and 4 unknown. These are published source records, not a claim that 291 distinct laboratory tests were performed. Aliases, certification pages and retests can describe the same sample. Adjacent date text has been separated from batch identifiers, with raw observations and contradictions preserved. Foods and categories outside the current lineup are documented as exclusions.
+The independently versioned testing ledger is `artifacts/trustified-reports.json`. It retains 291 source-URL/batch records across 90 source brand names: 216 reported passed, 39 failed, 32 expired and 4 unknown. These are published source records, not a claim that 291 distinct laboratory tests were performed. Aliases, certification pages and retests can describe the same sample. Adjacent date text has been separated from batch identifiers, with raw observations and contradictions preserved. Foods and categories outside the current lineup are documented as exclusions.
 
 The Sources & data quality page provides brand, category, status and batch search. Exact pack details, catalog filters and comparisons use the same ledger. Results are linked only through reviewed product-line mappings; no current retail batch is verified. A linked failed sample creates a conservative review hold for automatic stacks and cost rankings, while the price and label remain visible. Passing records do not clear separate formulation concerns, and results are never inherited by every product from the same brand. Expired source listings are separate from retail-pack expiry.
 
-`docs/data/testing-product-matches.json` contains exact catalog names, explicit source identities and source-URL allowlists where generic product names are ambiguous. Regenerate the ledger with `node scripts/import_trustified_reports.mjs PUBLIC_HARVEST.json`, then run the normal checks and build. New report data, counts and evidence links refresh through the existing atomic dataset revision; a testing-only update does not redate prices or label reviews. Review changed formulations and identity conflicts before adding new mappings. Product-category downloads contain report IDs rather than duplicating the complete report gallery for every flavour.
+`artifacts/testing-product-matches.json` contains exact catalog names, explicit source identities and source-URL allowlists where generic product names are ambiguous. Regenerate the ledger with `node scripts/import_trustified_reports.mjs PUBLIC_HARVEST.json`, then run the normal checks and build. New report data, counts and evidence links refresh through the existing atomic dataset revision; a testing-only update does not redate prices or label reviews. Review changed formulations and identity conflicts before adding new mappings. Product-category downloads contain report IDs rather than duplicating the complete report gallery for every flavour.

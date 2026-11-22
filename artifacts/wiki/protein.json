@@ -1,0 +1,364 @@
+{
+  "schemaVersion": 1,
+  "order": 0,
+  "category": {
+    "id": "protein",
+    "label": "Protein",
+    "file": "catalog.json",
+    "page": "protein.html",
+    "concentrationField": "protein",
+    "compoundLabel": "protein",
+    "referenceGrams": 24
+  },
+  "catalog": {
+    "checked": "2026-11-20",
+    "trendAudit": {
+      "checked": "2026-10-25",
+      "comparisonQuarter": "Q3 2026",
+      "method": "Latest retrievable exact-variant official-store archived observation within July–September 2026 versus verified current selling price. Not a quarter average or completed Q4 comparison.",
+      "unknownMeaning": "No defensible comparison; not unchanged.",
+      "syntheticHistoryRemoved": true
+    }
+  },
+  "guide": {
+    "id": "protein-guide",
+    "category": "protein",
+    "title": "Protein supplements: total intake, training and label quality",
+    "summary": "A powder is one way to supply dietary protein. The useful comparison starts with actual protein content and the training context.",
+    "evidence": "Trial syntheses support modest additional gains when protein supplementation accompanies resistance training. The benefit depends on the wider diet and training programme.",
+    "limitations": "Trials do not establish that every whey, plant or fermented product has the same effect. A price ranking is not a ranking of digestibility, amino-acid quality or clinical benefit.",
+    "catalogReading": "Use cost per gram of labelled protein rather than cost per gram of powder. Check serving size, concentration, ingredient source and label evidence separately.",
+    "safety": "Check food allergens and individual dietary restrictions. People with medically restricted protein intake need individual advice.",
+    "sourceIds": [
+      "protein-review",
+      "exercise",
+      "digestion",
+      "food-protein",
+      "food-protein-vegetarian",
+      "food-kidney-diet",
+      "food-allergens",
+      "food-usda-sr28",
+      "protein-diabetes-ada",
+      "supplement-quality-ods"
+    ],
+    "reviewed": "2026-11-18",
+    "author": "Supplement Research editorial synthesis",
+    "bodySteps": [
+      "Stomach and intestinal enzymes break dietary protein into smaller peptides and amino acids.",
+      "The small intestine absorbs these building blocks into circulation.",
+      "Tissues use amino acids to make proteins; resistance training provides a stimulus for muscle adaptation."
+    ],
+    "bodySources": [
+      "digestion",
+      "exercise"
+    ],
+    "treatment": "Protein supplementation can help address inadequate intake within a nutrition plan. Powder alone does not cure muscle wasting or an illness causing poor nutrition.",
+    "whoMayBenefit": "People unable to meet assessed protein needs through food, including some athletes or people receiving supervised nutritional care.",
+    "routineUse": "Everyone needs dietary protein; everyone does not need protein powder. Reassess the food gap rather than assuming lifelong use.",
+    "sectionSources": [
+      "digestion",
+      "exercise",
+      "protein-review"
+    ],
+    "buyingGuide": {
+      "whoCanConsider": [
+        "Adults whose food intake leaves a protein gap, including people with higher requirements from training.",
+        "People who find an appropriate powder more practical than adding another protein-containing meal."
+      ],
+      "whoShouldReview": [
+        "Kidney disease or an existing protein-restricted diet requires an individualized nutrition plan.",
+        "Milk, egg, soy or other food allergy requires ingredient and allergen review; whey is milk-derived."
+      ],
+      "foodSummary": "Food can supply protein without a powder. Judge the need from total intake, preferences and practical meal choices.",
+      "foods": [
+        {
+          "name": "Lentils, mature seeds, cooked, boiled, without salt",
+          "relationship": "direct",
+          "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": "USDA NDB 16070",
+          "amounts": [
+            {
+              "nutrient": "Protein",
+              "min": 9.02,
+              "max": null,
+              "unit": "g",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "100 g edible food"
+              },
+              "sourceIds": [
+                "food-usda-sr28"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tofu, raw, firm, prepared with calcium sulfate",
+          "relationship": "direct",
+          "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": "USDA NDB 16426",
+          "amounts": [
+            {
+              "nutrient": "Protein",
+              "min": 17.27,
+              "max": null,
+              "unit": "g",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "100 g edible food"
+              },
+              "sourceIds": [
+                "food-usda-sr28"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Chicken, broilers or fryers, breast, meat only, cooked, roasted",
+          "relationship": "direct",
+          "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": "USDA NDB 05064",
+          "amounts": [
+            {
+              "nutrient": "Protein",
+              "min": 31.02,
+              "max": null,
+              "unit": "g",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "100 g edible food"
+              },
+              "sourceIds": [
+                "food-usda-sr28"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Egg, whole, cooked, hard-boiled",
+          "relationship": "direct",
+          "detail": "Approximate composition for the stated food and preparation; not an absorbed amount.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Retains the source serving and preparation; not a supplement-dose equivalent.",
+          "foodId": "USDA NDB 01129",
+          "amounts": [
+            {
+              "nutrient": "Protein",
+              "min": 12.58,
+              "max": null,
+              "unit": "g",
+              "per": {
+                "amount": 1,
+                "unit": "source-serving",
+                "label": "100 g edible food"
+              },
+              "sourceIds": [
+                "food-usda-sr28"
+              ]
+            }
+          ]
+        }
+      ],
+      "foodSourceIds": [
+        "food-protein",
+        "food-protein-vegetarian",
+        "food-usda-sr28"
+      ],
+      "value": {
+        "routineScore": 2,
+        "targetedScore": 4,
+        "targetedUse": "Filling an identified dietary protein gap when a suitable powder is practical.",
+        "reason": "Useful convenience when intake is short; additional powder has little purchase priority once the protein requirement is already met.",
+        "worthWhen": [
+          "A food-intake review shows a gap.",
+          "The chosen protein source, price and tolerability fit the person."
+        ],
+        "skipWhen": [
+          "Food already supplies adequate protein.",
+          "Buying it would displace needed meals or essential food spending."
+        ],
+        "evidence": "strong",
+        "scope": "Editorial purchase priority for meeting protein needs; the score does not certify a brand, batch or medical suitability.",
+        "sourceIds": [
+          "exercise",
+          "protein-review",
+          "food-protein",
+          "food-kidney-diet",
+          "food-allergens"
+        ]
+      },
+      "reviewed": "2026-11-18",
+      "practices": {
+        "dos": [
+          {
+            "title": "Count food first",
+            "detail": "Check whether your normal meals leave an assessed protein gap before paying for a powder."
+          },
+          {
+            "title": "Compare actual protein",
+            "detail": "Use labelled protein per serving and cost per gram of protein; check the source and allergens."
+          }
+        ],
+        "donts": [
+          {
+            "title": "Don't count powder as protein",
+            "detail": "A scoop's full weight includes ingredients beyond protein; compare the declared concentration and serving size."
+          },
+          {
+            "title": "Don't buy more automatically",
+            "detail": "Extra powder has low purchase priority when food already meets your needs or it displaces necessary meals."
+          }
+        ],
+        "sourceIds": [
+          "exercise",
+          "protein-review"
+        ]
+      }
+    },
+    "intakeGuide": {
+      "kind": "daily-target",
+      "summary": "Assess total daily protein from food first; powder only fills a genuine gap.",
+      "targets": [
+        {
+          "key": "protein",
+          "label": "Protein",
+          "min": 0.8,
+          "max": null,
+          "unit": "g",
+          "basis": "total-daily",
+          "perKg": true,
+          "profileIds": [
+            "everyday"
+          ],
+          "sex": "any",
+          "minAge": 19,
+          "maxAge": null,
+          "referenceType": "RDA",
+          "notes": "General adult RDA baseline, not an optimum for every older adult or clinical situation.",
+          "sourceIds": [
+            "exercise"
+          ]
+        },
+        {
+          "key": "protein",
+          "label": "Protein",
+          "min": 1.2,
+          "max": 2,
+          "unit": "g",
+          "basis": "total-daily",
+          "perKg": true,
+          "profileIds": [
+            "general-fitness",
+            "strength-power",
+            "hypertrophy",
+            "endurance",
+            "hybrid"
+          ],
+          "sex": "any",
+          "minAge": 19,
+          "maxAge": null,
+          "referenceType": "sports-range",
+          "notes": "Broad sports nutrition range from all food and supplements. Recreational needs vary; the upper end is not required just because training is frequent.",
+          "sourceIds": [
+            "exercise"
+          ]
+        }
+      ],
+      "limits": [],
+      "notes": [
+        "No automatic dose increase is assigned for training frequency or experience."
+      ],
+      "sourceIds": [
+        "exercise"
+      ],
+      "reviewed": "2026-11-17"
+    },
+    "medicalGuide": {
+      "summary": "Condition-specific evidence, separate from sports benefits and purchase priority.",
+      "conditions": [
+        {
+          "condition": "Protein inadequacy / nutrition support",
+          "level": "conditional",
+          "findings": "Food or supplementation can address an assessed shortfall; treatment also requires the cause and total diet to be addressed.",
+          "limits": "Protein supplementation can help address inadequate intake within a nutrition plan. Powder alone does not cure muscle wasting or an illness causing poor nutrition.",
+          "sourceIds": [
+            "digestion",
+            "exercise",
+            "protein-review"
+          ]
+        },
+        {
+          "condition": "Diabetes",
+          "level": "insufficient",
+          "findings": "Protein powder is not a diabetes treatment. Protein needs should be individualized; kidney disease can materially change the plan.",
+          "limits": "Protein supplementation can help address inadequate intake within a nutrition plan. Powder alone does not cure muscle wasting or an illness causing poor nutrition.",
+          "sourceIds": [
+            "protein-diabetes-ada",
+            "food-kidney-diet"
+          ]
+        },
+        {
+          "condition": "Muscle injury or persistent weakness",
+          "level": "insufficient",
+          "findings": "Supporting ordinary training recovery does not establish treatment for an injury, muscle disease or rhabdomyolysis.",
+          "limits": "Protein supplementation can help address inadequate intake within a nutrition plan. Powder alone does not cure muscle wasting or an illness causing poor nutrition.",
+          "sourceIds": [
+            "digestion",
+            "exercise",
+            "protein-review"
+          ]
+        }
+      ],
+      "reviewed": "2026-11-17"
+    },
+    "pathway": {
+      "title": "From dietary protein to tissue proteins",
+      "summary": "Protein is digested into smaller building blocks before tissues can use it. The powder itself does not travel intact to muscle.",
+      "tracks": [
+        {
+          "label": "Digestion, delivery and rebuilding",
+          "steps": [
+            {
+              "label": "Food proteins enter the stomach",
+              "detail": "Stomach acid and enzymes begin breaking down proteins from food or supplements.",
+              "compartment": "Stomach",
+              "icon": "digest"
+            },
+            {
+              "label": "Enzymes release smaller building blocks",
+              "detail": "Pancreatic and intestinal enzymes continue digestion into peptides and amino acids.",
+              "compartment": "Intestine",
+              "icon": "molecule"
+            },
+            {
+              "label": "Absorbed amino acids enter circulation",
+              "detail": "The intestinal lining absorbs the digested building blocks; blood distributes amino acids to tissues.",
+              "compartment": "Intestine / blood",
+              "icon": "blood"
+            },
+            {
+              "label": "Cells assemble their own proteins",
+              "detail": "Tissues use amino acids for ongoing protein turnover; resistance exercise stimulates muscle protein synthesis.",
+              "compartment": "Tissues / muscle",
+              "icon": "muscle"
+            }
+          ]
+        }
+      ],
+      "caveat": "This is normal protein metabolism. More powder does not guarantee more muscle when total intake and training already meet needs.",
+      "sourceIds": [
+        "digestion",
+        "exercise"
+      ]
+    }
+  }
+}

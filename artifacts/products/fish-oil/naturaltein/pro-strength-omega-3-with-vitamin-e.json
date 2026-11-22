@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "category": "fish-oil",
+  "brand": "Naturaltein",
+  "product": "Pro Strength Omega 3 with Vitamin E",
+  "variants": [
+    {
+      "order": 7,
+      "offer": {
+        "brand": "Naturaltein",
+        "product": "Pro Strength Omega 3 with Vitamin E",
+        "form": "Softgel",
+        "type": "Fish oil (form not verified)",
+        "subclass": "With Vitamin E",
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official product listing; only explicitly verified label amounts are recorded.",
+        "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities.",
+        "id": "fish-oil-42577549951059",
+        "packCount": 60,
+        "price": 399,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://naturaltein.in/products/pro-strength-omega-3?variant=42577549951059",
+        "nutritionUrl": "https://naturaltein.in/products/pro-strength-omega-3",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-10-29",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://naturaltein.in/products/pro-strength-omega-3?variant=42577549951059",
+          "evidenceUrl": "https://naturaltein.in/products/pro-strength-omega-3.json",
+          "matchBasis": "Official public Shopify product; exact variant ID 42577549951059 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3710,
+      "observation": {
+        "category": "fish-oil",
+        "offerId": "fish-oil-42577549951059",
+        "date": "2026-10-29",
+        "price": 399,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/pro-strength-omega-3?variant=42577549951059",
+        "evidenceUrl": "https://naturaltein.in/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "42577549951059"
+      }
+    },
+    {
+      "order": 3861,
+      "observation": {
+        "category": "fish-oil",
+        "offerId": "fish-oil-42577549951059",
+        "date": "2026-11-19",
+        "price": 399,
+        "currency": "INR",
+        "sourceUrl": "https://naturaltein.in/products/pro-strength-omega-3?variant=42577549951059",
+        "evidenceUrl": "https://naturaltein.in/products/pro-strength-omega-3.json",
+        "kind": "official-live",
+        "variantId": "42577549951059",
+        "matchBasis": "Official public Shopify product; exact variant ID 42577549951059 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 11,
+      "profile": {
+        "category": "fish-oil",
+        "brand": "Naturaltein",
+        "base": "https://naturaltein.in",
+        "handle": "pro-strength-omega-3",
+        "product": "Pro Strength Omega 3 with Vitamin E",
+        "form": "Softgel",
+        "type": "Fish oil (form not verified)",
+        "subclass": "With Vitamin E",
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official product listing; only explicitly verified label amounts are recorded.",
+        "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities."
+      }
+    }
+  ]
+}

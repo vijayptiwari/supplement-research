@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "NAKPRO",
+  "product": "Nakpro Platinum Raw Whey Protein Isolate (jar)",
+  "variants": [
+    {
+      "order": 431,
+      "offer": {
+        "id": 431,
+        "brand": "NAKPRO",
+        "product": "Nakpro Platinum Raw Whey Protein Isolate (jar)",
+        "type": "Whey — isolate",
+        "flavour": "Unflavored",
+        "kg": 1,
+        "price": 4549,
+        "stock": "Sold out",
+        "protein": 90,
+        "scoop": 34,
+        "serving": 34,
+        "subclass": "Whey isolate",
+        "energy": 373.5294117647059,
+        "url": "https://nakpro.com/products/raw-platinum-whey-protein-isolate?variant=41989030019152",
+        "nutritionUrl": "https://nakpro.com/products/raw-platinum-whey-protein-isolate?variant=41989030019152",
+        "basis": "Brand advertised protein per 100g (product title); indicative for this flavour",
+        "notes": "Flavour-specific label may differ from the product-family claim. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Brand flavour-group table, per-serving kcal / serving g × 100",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nakpro.com/products/raw-platinum-whey-protein-isolate?variant=41989030019152",
+          "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 2620,
+      "observation": {
+        "category": "protein",
+        "offerId": 431,
+        "date": "2026-10-25",
+        "price": 4549,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/raw-platinum-whey-protein-isolate?variant=41989030019152",
+        "evidenceUrl": "https://nakpro.com/products/raw-platinum-whey-protein-isolate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "41989030019152"
+      }
+    },
+    {
+      "order": 3294,
+      "observation": {
+        "category": "protein",
+        "offerId": 431,
+        "date": "2026-08-01",
+        "price": 4449,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/raw-platinum-whey-protein-isolate?variant=41989030019152",
+        "evidenceUrl": "https://web.archive.org/web/20260801192807/https://nakpro.com/products/raw-platinum-whey-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "41989030019152",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 4478,
+      "observation": {
+        "category": "protein",
+        "offerId": 431,
+        "date": "2026-11-19",
+        "price": 4549,
+        "currency": "INR",
+        "sourceUrl": "https://nakpro.com/products/raw-platinum-whey-protein-isolate?variant=41989030019152",
+        "evidenceUrl": "https://nakpro.com/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "41989030019152"
+      }
+    }
+  ],
+  "refreshSources": []
+}

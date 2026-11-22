@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "order": 0,
+  "article": {
+    "id": "vitamin-d-meal-absorption-outcomes",
+    "category": "vitamin-d",
+    "series": "evidence-in-context",
+    "title": "Does vitamin D need a fatty meal? Follow the evidence beyond absorption",
+    "summary": "A meal can change how a vitamin D dose is absorbed. That is only the beginning of the journey from a capsule to a useful health outcome.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "Taking a vitamin D capsule with a meal sounds like a small practical detail. Online, that detail often becomes a much bigger promise: add enough fat, choose the right time, and the supplement will work dramatically better. The research supports a more interesting story. A study can measure vitamin D entering the circulation, another can measure the later blood-status response, and a third can count fractures. These are different questions. Following the differences helps you use meal advice sensibly without turning an absorption experiment into a disease-prevention claim. It also explains why an ordinary, repeatable routine may matter more than an elaborate supplement ritual.",
+    "sections": [
+      {
+        "id": "three-questions",
+        "title": "First separate entry, status and benefit",
+        "body": "Imagine three checkpoints. At the first, researchers ask how much vitamin D appears in blood after a dose. At the second, they measure 25-hydroxyvitamin D, commonly used to assess vitamin D status over a longer period. At the third, they ask whether people experience fewer clinically important problems. A capsule can perform differently at one checkpoint without changing the others in the same way. Vitamin D must be absorbed and metabolised, but a convincing biological route does not tell us the size of the final benefit. This distinction is especially helpful when an advertisement cites an impressive percentage while leaving the measured endpoint unnamed.",
+        "sourceIds": [
+          "d-overview",
+          "nutrients-d-meal-2013",
+          "d-vital"
+        ]
+      },
+      {
+        "id": "fat-soluble",
+        "title": "Fat soluble does not mean a high-fat meal is compulsory",
+        "body": "Vitamin D is fat soluble, so meal composition is a plausible influence on its intestinal handling. Plausible is a starting point for testing, rather than a reason to assume that more dietary fat always produces a better result. The preparation also matters: a supplement or a fortified food is not an isolated nutrient floating in a laboratory dish. NIH guidance notes that fat in the gut enhances absorption, while some vitamin D is absorbed without dietary fat. For a shopper, that means the words fat soluble cannot establish a mandatory oily meal, a special fat supplement, or a universal gram target. Those additions require evidence of their own.",
+        "sourceIds": [
+          "d-overview",
+          "nutrients-d-meal-2013"
+        ]
+      },
+      {
+        "id": "meal-study",
+        "title": "The trial in which absorption and blood status parted company",
+        "body": "A randomised study in 62 older adults compared taking vitamin D with no meal, a low-fat meal or a high-fat meal. The investigators followed absorption and the later 25-hydroxyvitamin D response. Meal conditions affected the former, but the groups did not differ significantly in the latter. The low-fat condition also performed better for absorption than a simple more-fat-is-better story would predict. This is useful precisely because the result is untidy: the early appearance of a nutrient did not provide a reliable shortcut to its longer-term status effect. The study did not test fractures, symptoms or the performance of every retail formulation.",
+        "sourceIds": [
+          "nutrients-d-meal-2013"
+        ]
+      },
+      {
+        "id": "different-design",
+        "title": "Why another meal study can produce a different answer",
+        "body": "A separate randomised experiment in young healthy adults, whose average starting vitamin D status was low, found a greater blood-status rise after a single dose when the meal contained more fat. That does not erase the previous study. Participants, meals, dosing pattern and follow-up differed. The finding supports an influence of meal context in that protocol; it does not prove a universal minimum fat intake or a long-term health advantage. Read together, the trials make a bounded case for taking practical instructions seriously while resisting precision that the evidence cannot supply. A rule that sounds exact is not necessarily one tested in people like you using your product.",
+        "sourceIds": [
+          "nutrients-d-meal-2015",
+          "nutrients-d-meal-2013"
+        ]
+      },
+      {
+        "id": "outcome-test",
+        "title": "A better blood result still needs an outcome test",
+        "body": "The VITAL fracture trial provides a separate reality check. Among generally healthy midlife and older adults who were not selected for vitamin D deficiency, adding vitamin D did not reduce total, nonvertebral or hip fractures. This was not a trial of meal timing, and it does not deny the importance of treating genuine deficiency. It shows why one cannot join two unrelated findings into a guaranteed benefit: better absorption in one setting plus vitamin D biology does not equal fewer fractures in every user. The relevant question becomes what problem supplementation is intended to address, and whether the outcome evidence includes that population and that problem.",
+        "sourceIds": [
+          "d-vital"
+        ]
+      },
+      {
+        "id": "diagnostic-context",
+        "title": "When food timing is not the main uncertainty",
+        "body": "If someone has persistent low status despite a prescribed plan, timing is only one possible explanation. Adherence, formulation, intestinal disease and other aspects of clinical context can matter. The useful response is to review the plan with the treating professional rather than continually adding fat or escalating the amount. Conversely, feeling well does not create a reason to chase an ever-higher laboratory result. The Endocrine Society prevention guideline distinguishes several population groups and does not recommend routine testing for healthy adults generally. That guidance concerns prevention in people without an established treatment indication; it should not be used to interrupt an individual clinician's investigation or replacement plan.",
+        "sourceIds": [
+          "nutrients-d-guideline-2024",
+          "d-overview"
+        ]
+      },
+      {
+        "id": "routine",
+        "title": "Build a routine that can survive an ordinary week",
+        "body": "Where supplementation has an appropriate purpose, follow the preparation's instructions and the professional plan. Linking it to a familiar meal can make the routine easier to remember; the studies do not establish a special clock time that everyone should obey. There is no demonstrated need here to buy an extra absorption booster. If a product claims to outperform alternatives, ask what was measured, whether people were randomised, how long they were followed and whether the comparison used equivalent amounts. An early blood curve, a status result and a fracture outcome belong in separate boxes. A premium is easier to justify when the seller identifies which box the evidence actually fills.",
+        "sourceIds": [
+          "nutrients-d-meal-2013",
+          "nutrients-d-meal-2015",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "decision",
+        "title": "What this changes about a vitamin D purchase",
+        "body": "The sensible decision is smaller than the marketing promise. Use meal advice as a practical administration detail, not a guarantee of better health. Make the product's amount and instructions clear, avoid duplicate sources, and keep the reason for taking it visible. If that reason is treatment, its monitoring belongs to the care plan. If the reason is general prevention, use prevention evidence rather than borrowing claims from deficiency treatment. An absorption advantage can be scientifically real and still have uncertain importance for your intended outcome. Keeping that uncertainty visible prevents a useful vitamin from becoming an endlessly optimised purchase with no defined benefit to assess.",
+        "sourceIds": [
+          "nutrients-d-guideline-2024",
+          "d-vital",
+          "supplement-quality-ods"
+        ]
+      }
+    ],
+    "evidenceNotes": [
+      {
+        "finding": "Meal conditions changed early vitamin D absorption without a significant between-group difference in the later 25-hydroxyvitamin D response.",
+        "sourceIds": [
+          "nutrients-d-meal-2013"
+        ],
+        "design": "Randomised three-month meal-condition trial.",
+        "population": "62 healthy men and postmenopausal women aged 50–69.",
+        "outcome": "Absorption and blood-status response.",
+        "limits": "Study regimen and older healthy participants; no clinical outcome assessment."
+      },
+      {
+        "finding": "A single-dose study found a greater subsequent 25-hydroxyvitamin D rise with a higher-fat meal.",
+        "sourceIds": [
+          "nutrients-d-meal-2015"
+        ],
+        "design": "Double-blind randomised controlled meal experiment.",
+        "population": "Young healthy adults.",
+        "outcome": "Blood status two weeks after a dose.",
+        "limits": "Different protocol from repeated-dose research; no evidence of fewer fractures or a universal meal-fat requirement."
+      },
+      {
+        "finding": "Routine additional vitamin D did not reduce fractures in the studied population.",
+        "sourceIds": [
+          "d-vital"
+        ],
+        "design": "Large randomised placebo-controlled trial ancillary analysis.",
+        "population": "Midlife and older adults not selected for deficiency.",
+        "outcome": "Total, nonvertebral and hip fractures.",
+        "limits": "Does not test meal timing or replacement in established deficiency."
+      }
+    ],
+    "sourceIds": [
+      "d-overview",
+      "nutrients-d-meal-2013",
+      "d-vital",
+      "nutrients-d-meal-2015",
+      "nutrients-d-guideline-2024",
+      "supplement-quality-ods"
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "category": "l-arginine",
+  "brand": "Carbamide Forte",
+  "product": "L-Arginine HCl 1000 mg + Chromium Picolinate",
+  "variants": [
+    {
+      "order": 10,
+      "offer": {
+        "brand": "Carbamide Forte",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-11-19",
+        "flavour": "Unflavoured",
+        "product": "L-Arginine HCl 1000 mg + Chromium Picolinate",
+        "form": "Capsule",
+        "type": "L-Arginine hydrochloride",
+        "subclass": "Arginine HCl with chromium picolinate",
+        "packCount": 10,
+        "servingUnits": 2,
+        "arginineMg": null,
+        "arginineCompoundMg": 1000,
+        "declaredNutrients": [
+          "arginineMg",
+          "arginineCompoundMg"
+        ],
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B0CN2RS1J4.PT01.jpg?v=1780643980",
+        "basis": "Official specific 10-capsule panel states two capsules per serving and L-arginine HCl 1000 mg per serving.",
+        "notes": "Also contains chromium picolinate 200 micrograms per serving; this is the declared compound, not an inferred elemental chromium quantity. Free arginine and energy are unverified. Marketing efficacy and testing statements are not independent certification.",
+        "additionalIngredients": [
+          {
+            "name": "Chromium picolinate compound",
+            "amount": 200,
+            "unit": "µg",
+            "basis": "per two-capsule label serving"
+          }
+        ],
+        "servingGrams": null,
+        "grams": null,
+        "energyPerServing": null,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B0CN2RS1J4.PT01.jpg?v=1780643980"
+        ],
+        "id": "l-arginine-43308550586481",
+        "price": 85,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://mycf.in/products/l-arginine-hcl-1000mg-supplement?variant=43308550586481"
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 4039,
+      "observation": {
+        "category": "l-arginine",
+        "offerId": "l-arginine-43308550586481",
+        "date": "2026-11-19",
+        "price": 85,
+        "currency": "INR",
+        "sourceUrl": "https://mycf.in/products/l-arginine-hcl-1000mg-supplement?variant=43308550586481",
+        "evidenceUrl": "https://mycf.in/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "43308550586481",
+        "matchBasis": "Official public Shopify feed fetched 2026-11-19; exact variant ID and unconditional price matched. INR currency confirmed in the live official product HTML. Net pack, serving and ingredient basis use the specific referenced manufacturer label."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 174,
+      "profile": {
+        "category": "l-arginine",
+        "brand": "Carbamide Forte",
+        "base": "https://mycf.in",
+        "handle": "l-arginine-hcl-1000mg-supplement",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-11-19",
+        "variantIds": [
+          "43308550586481"
+        ],
+        "flavour": "Unflavoured",
+        "product": "L-Arginine HCl 1000 mg + Chromium Picolinate",
+        "form": "Capsule",
+        "type": "L-Arginine hydrochloride",
+        "subclass": "Arginine HCl with chromium picolinate",
+        "packCount": 10,
+        "servingUnits": 2,
+        "arginineMg": null,
+        "arginineCompoundMg": 1000,
+        "declaredNutrients": [
+          "arginineMg",
+          "arginineCompoundMg"
+        ],
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B0CN2RS1J4.PT01.jpg?v=1780643980",
+        "basis": "Official specific 10-capsule panel states two capsules per serving and L-arginine HCl 1000 mg per serving.",
+        "notes": "Also contains chromium picolinate 200 micrograms per serving; this is the declared compound, not an inferred elemental chromium quantity. Free arginine and energy are unverified. Marketing efficacy and testing statements are not independent certification.",
+        "additionalIngredients": [
+          {
+            "name": "Chromium picolinate compound",
+            "amount": 200,
+            "unit": "Âµg",
+            "basis": "per two-capsule label serving"
+          }
+        ],
+        "servingGrams": null,
+        "grams": null,
+        "energyPerServing": null,
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B0CN2RS1J4.PT01.jpg?v=1780643980"
+        ],
+        "id": "l-arginine-43308550586481"
+      }
+    }
+  ]
+}

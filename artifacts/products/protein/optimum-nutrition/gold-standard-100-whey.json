@@ -1,0 +1,252 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "Optimum Nutrition",
+  "product": "Gold Standard 100% Whey",
+  "variants": [
+    {
+      "order": 623,
+      "offer": {
+        "id": 623,
+        "brand": "Optimum Nutrition",
+        "product": "Gold Standard 100% Whey",
+        "type": "Whey — blend",
+        "flavour": "Double Rich Chocolate",
+        "kg": 4,
+        "price": 19399,
+        "stock": "In stock",
+        "protein": 79,
+        "scoop": 30.4,
+        "serving": 30.4,
+        "subclass": "Whey blend",
+        "energy": 383,
+        "url": "https://www.optimumnutrition.co.in/products/gold-standard-100-whey-protein-powder-double-rich-chocolate-1118951?variant=46438070976738",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0738/8649/9042/files/1118951_8.jpg?v=1759920243",
+        "basis": "Exact 4kg pack label, protein per 100g",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-matched label image, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.optimumnutrition.co.in/products/gold-standard-100-whey-protein-powder-double-rich-chocolate-1118951?variant=46438070976738",
+          "evidenceUrl": "https://www.optimumnutrition.co.in/products.json?limit=250&page=1",
+          "matchBasis": "Single official variant and explicit product net pack"
+        }
+      }
+    },
+    {
+      "order": 624,
+      "offer": {
+        "id": 624,
+        "brand": "Optimum Nutrition",
+        "product": "Gold Standard 100% Whey",
+        "type": "Whey — blend",
+        "flavour": "Vanilla Ice Cream",
+        "kg": 4,
+        "price": 19399,
+        "stock": "In stock",
+        "protein": 77,
+        "scoop": 31,
+        "serving": 31,
+        "subclass": "Whey blend",
+        "energy": 387,
+        "url": "https://www.optimumnutrition.co.in/products/gold-standard-100-whey-protein-powder-vanilla-ice-cream-1118945?variant=46438070845666",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0738/8649/9042/files/1118945_8.jpg?v=1759921191",
+        "basis": "Exact 4kg pack label, protein per 100g",
+        "notes": "Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-matched label image, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.optimumnutrition.co.in/products/gold-standard-100-whey-protein-powder-vanilla-ice-cream-1118945?variant=46438070845666",
+          "evidenceUrl": "https://www.optimumnutrition.co.in/products.json?limit=250&page=1",
+          "matchBasis": "Single official variant and explicit product net pack"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 1599,
+      "observation": {
+        "category": "protein",
+        "offerId": 623,
+        "date": "2025-06-13",
+        "price": 13254,
+        "currency": "INR",
+        "sourceUrl": "https://www.optimumnutrition.co.in/products/gold-standard-100-whey-protein-powder-double-rich-chocolate-1118951",
+        "evidenceUrl": "https://web.archive.org/web/20250613044943id_/https://www.optimumnutrition.co.in/products/gold-standard-100-whey-protein-powder-double-rich-chocolate-1118951",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "46438070976738",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1600,
+      "observation": {
+        "category": "protein",
+        "offerId": 623,
+        "date": "2025-09-06",
+        "price": 13254,
+        "currency": "INR",
+        "sourceUrl": "https://www.optimumnutrition.co.in/products/gold-standard-100-whey-protein-powder-double-rich-chocolate-1118951",
+        "evidenceUrl": "https://web.archive.org/web/20250906103521id_/https://www.optimumnutrition.co.in/products/gold-standard-100-whey-protein-powder-double-rich-chocolate-1118951",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "46438070976738",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1601,
+      "observation": {
+        "category": "protein",
+        "offerId": 623,
+        "date": "2026-04-21",
+        "price": 14999,
+        "currency": "INR",
+        "sourceUrl": "https://www.optimumnutrition.co.in/products/gold-standard-100-whey-protein-powder-double-rich-chocolate-1118951",
+        "evidenceUrl": "https://web.archive.org/web/20260421195635id_/https://www.optimumnutrition.co.in/products/gold-standard-100-whey-protein-powder-double-rich-chocolate-1118951",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "46438070976738",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1602,
+      "observation": {
+        "category": "protein",
+        "offerId": 623,
+        "date": "2026-09-28",
+        "price": 18929,
+        "currency": "INR",
+        "sourceUrl": "https://www.optimumnutrition.co.in/products/gold-standard-100-whey-protein-powder-double-rich-chocolate-1118951",
+        "evidenceUrl": "https://web.archive.org/web/20260928071318id_/https://www.optimumnutrition.co.in/products/gold-standard-100-whey-protein-powder-double-rich-chocolate-1118951",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "46438070976738",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1603,
+      "observation": {
+        "category": "protein",
+        "offerId": 624,
+        "date": "2026-04-21",
+        "price": 14999,
+        "currency": "INR",
+        "sourceUrl": "https://www.optimumnutrition.co.in/products/gold-standard-100-whey-protein-powder-vanilla-ice-cream-1118945",
+        "evidenceUrl": "https://web.archive.org/web/20260421185156id_/https://www.optimumnutrition.co.in/products/gold-standard-100-whey-protein-powder-vanilla-ice-cream-1118945",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "46438070845666",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2812,
+      "observation": {
+        "category": "protein",
+        "offerId": 623,
+        "date": "2026-10-25",
+        "price": 17649,
+        "currency": "INR",
+        "sourceUrl": "https://www.optimumnutrition.co.in/products/gold-standard-100-whey-protein-powder-double-rich-chocolate-1118951",
+        "evidenceUrl": "https://www.optimumnutrition.co.in/products/gold-standard-100-whey-protein-powder-double-rich-chocolate-1118951.json",
+        "kind": "official-live",
+        "matchBasis": "Official single-variant product",
+        "variantId": "46438070976738"
+      }
+    },
+    {
+      "order": 2813,
+      "observation": {
+        "category": "protein",
+        "offerId": 624,
+        "date": "2026-10-25",
+        "price": 17649,
+        "currency": "INR",
+        "sourceUrl": "https://www.optimumnutrition.co.in/products/gold-standard-100-whey-protein-powder-vanilla-ice-cream-1118945",
+        "evidenceUrl": "https://www.optimumnutrition.co.in/products/gold-standard-100-whey-protein-powder-vanilla-ice-cream-1118945.json",
+        "kind": "official-live",
+        "matchBasis": "Official single-variant product",
+        "variantId": "46438070845666"
+      }
+    },
+    {
+      "order": 3552,
+      "observation": {
+        "category": "protein",
+        "offerId": 623,
+        "date": "2025-04-23",
+        "price": 13254,
+        "currency": "INR",
+        "sourceUrl": "https://www.optimumnutrition.co.in/products/gold-standard-100-whey-protein-powder-double-rich-chocolate-1118951",
+        "evidenceUrl": "https://web.archive.org/web/20250423171333id_/https://www.optimumnutrition.co.in/products/gold-standard-100-whey-protein-powder-double-rich-chocolate-1118951",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "46438070976738",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3553,
+      "observation": {
+        "category": "protein",
+        "offerId": 623,
+        "date": "2025-08-16",
+        "price": 13254,
+        "currency": "INR",
+        "sourceUrl": "https://www.optimumnutrition.co.in/products/gold-standard-100-whey-protein-powder-double-rich-chocolate-1118951",
+        "evidenceUrl": "https://web.archive.org/web/20250816201252id_/https://www.optimumnutrition.co.in/products/gold-standard-100-whey-protein-powder-double-rich-chocolate-1118951",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "46438070976738",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 4670,
+      "observation": {
+        "category": "protein",
+        "offerId": 623,
+        "date": "2026-11-19",
+        "price": 19399,
+        "currency": "INR",
+        "sourceUrl": "https://www.optimumnutrition.co.in/products/gold-standard-100-whey-protein-powder-double-rich-chocolate-1118951?variant=46438070976738",
+        "evidenceUrl": "https://www.optimumnutrition.co.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Single official variant and explicit product net pack",
+        "variantId": "46438070976738"
+      }
+    },
+    {
+      "order": 4671,
+      "observation": {
+        "category": "protein",
+        "offerId": 624,
+        "date": "2026-11-19",
+        "price": 19399,
+        "currency": "INR",
+        "sourceUrl": "https://www.optimumnutrition.co.in/products/gold-standard-100-whey-protein-powder-vanilla-ice-cream-1118945?variant=46438070845666",
+        "evidenceUrl": "https://www.optimumnutrition.co.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Single official variant and explicit product net pack",
+        "variantId": "46438070845666"
+      }
+    }
+  ],
+  "refreshSources": []
+}

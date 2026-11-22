@@ -1,7 +1,9 @@
-import fs from 'node:fs';
+import {loadBundle} from './build_site.mjs';
+import {createSnapshot} from '../docs/model.js';
 
-const proteinData = JSON.parse(fs.readFileSync('docs/data/catalog.json', 'utf8'));
-const creatineData = JSON.parse(fs.readFileSync('docs/data/creatine.json', 'utf8'));
+const snapshot=createSnapshot(await loadBundle());
+const proteinData=snapshot.categories.protein;
+const creatineData=snapshot.categories.creatine;
 
 console.log('--- PROTEIN SCORING ANALYSIS ---');
 const proteinOffers = proteinData.offers.filter(r => r.cost != null && r.protein != null && r.energy != null);

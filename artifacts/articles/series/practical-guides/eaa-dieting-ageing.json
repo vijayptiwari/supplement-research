@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "order": 57,
+  "article": {
+    "id": "eaa-dieting-ageing",
+    "category": "eaa",
+    "series": "practical-guides",
+    "title": "EAAs during dieting or ageing: why the study population changes the answer",
+    "summary": "Read energy-deficit and older-adult research without turning it into a universal muscle-preservation promise.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "A result can be promising in a specific nutritional situation and still be a weak reason for everybody to buy a supplement. EAA research illustrates this well: an older person with limited intake, a participant in a short laboratory energy deficit and a well-fed resistance-trained athlete do not begin with the same question. Understanding those differences helps readers use the evidence without treating every measured change as proof of a common daily requirement.",
+    "sections": [
+      {
+        "id": "define-context",
+        "title": "Identify the nutrition problem before the intervention",
+        "body": "Age or a calorie target alone does not establish which part of someone’s diet is inadequate. Food quantity, protein quality, appetite, illness and exercise may all contribute to the context being investigated. Researchers often control these factors more carefully than a commercial testimonial does. Before applying a trial, ask what problem its intervention was designed to address. A formulation that helps within constrained intake is not automatically a useful extra on top of adequate varied meals, and a sports supplement is not a diagnosis of deficiency.",
+        "sourceIds": [
+          "food-performance-protein",
+          "eaa-position"
+        ]
+      },
+      {
+        "id": "energy-deficit",
+        "title": "Whole-body protein balance and muscle synthesis are different outcomes",
+        "body": "A small crossover study in young adults examined an EAA-enriched whey preparation during short periods of energy deficit. It found a favourable whole-body protein-balance result while the measured mixed-muscle protein-synthesis outcome did not differ between treatments. Those endpoints should be reported together. The preparation also contained whey, so the finding cannot simply be assigned to any EAA-only drink. It is a useful research signal within a specific design, rather than proof that a retail mixture prevents muscle loss throughout a prolonged diet.",
+        "sourceIds": [
+          "eaa-deficit-trial"
+        ]
+      },
+      {
+        "id": "older-adults",
+        "title": "Older-adult findings do not settle every athlete’s question",
+        "body": "In a small randomized study of older women, essential amino acids were associated with increases in lean body mass and basal muscle protein synthesis, but the tested strength measure remained unchanged. That distinction prevents a composition result from becoming a claim of improved function. The sample was also too specific to establish an identical response in younger athletes or people with different illnesses. The relevant lesson is to retain the outcome and population boundaries rather than treating either a favourable or null result as a verdict on all EAA use.",
+        "sourceIds": [
+          "pe-eaa-older-women-2009"
+        ]
+      },
+      {
+        "id": "acute-versus-adaptation",
+        "title": "An acute response is part of the question, not the final answer",
+        "body": "Tracer studies measure physiological responses over a defined observation window. These can explain why a formulation is being considered and help compare nutritional exposures. They do not directly measure months of strength development, mobility or independence. Similarly, changes in a signalling pathway should not be interpreted as a guarantee of later muscle growth. Read the duration and endpoint together, and look for longer studies when the advertised benefit concerns long-term performance. Short studies remain valuable when their result is presented at the scale actually measured.",
+        "sourceIds": [
+          "comparison-eaa-leucine-churchward-2012",
+          "pe-eaa-older-women-2009"
+        ]
+      },
+      {
+        "id": "what-comparator",
+        "title": "Check whether food or adequate protein was actually the alternative",
+        "body": "A placebo comparison asks whether the tested supplement differs from that placebo under those conditions. It may not establish superiority to a suitable meal or an already adequate protein intake. Some experiments compare specific modified protein preparations rather than ordinary retail EAA products. Match the comparator to the buying question: would this replace a food gap, add convenience or claim an extra effect beyond sufficient nutrition? Without that step, a positive trial can answer a narrower question than the advertisement suggests.",
+        "sourceIds": [
+          "eaa-deficit-trial",
+          "comparison-eaa-leucine-churchward-2012",
+          "food-performance-protein"
+        ]
+      },
+      {
+        "id": "preserve-nutrition",
+        "title": "Do not reduce a diet to its amino-acid total",
+        "body": "Food can contribute energy, vitamins, minerals and other components alongside protein. An amino-acid drink does not automatically replace that wider nutritional role. During restricted eating, using supplements to conceal an increasingly poor diet can leave the underlying problem unresolved. For an older person with appetite loss or unexplained weight change, assessment is more useful than assuming a stronger amino-acid product is the answer. The full eating pattern and appropriate activity deserve attention alongside any optional formulation, rather than being treated as background details.",
+        "sourceIds": [
+          "food-protein",
+          "food-performance-protein",
+          "eaa-position"
+        ]
+      },
+      {
+        "id": "decision",
+        "title": "Use formulation-specific evidence to decide whether further review is worthwhile",
+        "body": "A practical review records the intended outcome, full ingredient profile, relevant study population, complete-serving cost and a reason to reassess continued use. Quality documentation can support composition claims but cannot turn an uncertain outcome into a guaranteed benefit. Medicines, disease-related nutrition needs or prescribed protein restrictions require individual professional input. For a healthy reader with sufficient suitable protein, the evidence does not create an automatic EAA purchase. For a constrained nutrition setting, it may justify a targeted discussion rather than a universal sports-stack rule.",
+        "sourceIds": [
+          "supplement-quality-ods",
+          "eaa-position",
+          "food-kidney-diet"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "food-performance-protein",
+      "eaa-position",
+      "eaa-deficit-trial",
+      "pe-eaa-older-women-2009",
+      "comparison-eaa-leucine-churchward-2012",
+      "food-protein",
+      "supplement-quality-ods",
+      "food-kidney-diet"
+    ]
+  }
+}

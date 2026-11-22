@@ -1,0 +1,193 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "HK Vitals",
+  "product": "Protein for Women",
+  "variants": [
+    {
+      "order": 839,
+      "offer": {
+        "id": "protein-hk-206008",
+        "brand": "HK Vitals",
+        "product": "Protein for Women",
+        "type": "Milk + soy",
+        "subclass": "Whey + soy + casein fortified blend",
+        "form": "Powder",
+        "flavour": "Chocolate",
+        "kg": 1,
+        "grams": 1000,
+        "price": 1999,
+        "currency": "INR",
+        "stock": "In stock",
+        "scoop": 25,
+        "serving": 25,
+        "energy": 340.4,
+        "url": "https://www.healthkart.com/sv/healthkart-hk-vitals-protein-for-women/SP-94862?navKey=VRNT-206008",
+        "nutritionUrl": "https://img1.hkrtcdn.com/38916/normal_3891513_o.jpg",
+        "labelSources": [
+          "https://www.healthkart.com/sv/healthkart-hk-vitals-protein-for-women/SP-94862?navKey=VRNT-206008",
+          "https://img1.hkrtcdn.com/38916/normal_3891513_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Individually reviewed selected HealthKart variant and its current nutrition-panel image; explicit net kg weight is recorded in the selected product technical details. Protein concentration uses the stated per-100 g label value rather than recomputing a conflicting percentage from rounded serving grams.",
+        "notes": "Vegetarian does not mean dairy-free or vegan: this contains whey, soy and casein. The 1,200 mg plant collagen-builder blend is not collagen peptide payload. Garcinia, green tea and cinnamon are co-ingredients; this is not a plain-protein shortcut in a stack.",
+        "energyBasis": "Stated label kcal per 100 g",
+        "sourceType": "retailer",
+        "retailer": "HealthKart",
+        "seller": "Bright Nutricare Private Limited",
+        "sourceProductId": "94862",
+        "sourceVariantId": "206008",
+        "packaging": "Jar",
+        "protein": 50,
+        "additionalIngredients": [
+          {
+            "name": "Garcinia cambogia extract",
+            "amount": 200,
+            "unit": "mg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Cinnamon extract",
+            "amount": 50,
+            "unit": "mg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Green tea extract",
+            "amount": 100,
+            "unit": "mg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Collagen builder blend (amla, lemon, acerola)",
+            "amount": 1200,
+            "unit": "mg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Biotin",
+            "amount": 40,
+            "unit": "mcg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Vitamin E",
+            "amount": 10,
+            "unit": "mg",
+            "basis": "per stated powder serving"
+          }
+        ],
+        "requiresProductReview": true,
+        "productReviewReason": "Contains garcinia cambogia, green tea and cinnamon extracts. This combination needs review beyond the dietary protein requirement."
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5193,
+      "observation": {
+        "category": "protein",
+        "offerId": "protein-hk-206008",
+        "date": "2026-11-19",
+        "price": 1999,
+        "currency": "INR",
+        "sourceUrl": "https://www.healthkart.com/sv/healthkart-hk-vitals-protein-for-women/SP-94862?navKey=VRNT-206008",
+        "evidenceUrl": "https://www.healthkart.com/sv/healthkart-hk-vitals-protein-for-women/SP-94862?navKey=VRNT-206008",
+        "kind": "official-live",
+        "variantId": "206008",
+        "matchBasis": "HealthKart selected product numeric id 206008, SP-94862, brand, flavour, retail packaging and explicit net gram/kg weight reviewed against current label evidence; unconditional offer_pr excludes loyalty or coupons."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 302,
+      "profile": {
+        "id": "protein-hk-206008",
+        "brand": "HK Vitals",
+        "product": "Protein for Women",
+        "type": "Milk + soy",
+        "subclass": "Whey + soy + casein fortified blend",
+        "form": "Powder",
+        "flavour": "Chocolate",
+        "kg": 1,
+        "grams": 1000,
+        "currency": "INR",
+        "scoop": 25,
+        "serving": 25,
+        "energy": 340.4,
+        "nutritionUrl": "https://img1.hkrtcdn.com/38916/normal_3891513_o.jpg",
+        "labelSources": [
+          "https://www.healthkart.com/sv/healthkart-hk-vitals-protein-for-women/SP-94862?navKey=VRNT-206008",
+          "https://img1.hkrtcdn.com/38916/normal_3891513_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Individually reviewed selected HealthKart variant and its current nutrition-panel image; explicit net kg weight is recorded in the selected product technical details. Protein concentration uses the stated per-100 g label value rather than recomputing a conflicting percentage from rounded serving grams.",
+        "notes": "Vegetarian does not mean dairy-free or vegan: this contains whey, soy and casein. The 1,200 mg plant collagen-builder blend is not collagen peptide payload. Garcinia, green tea and cinnamon are co-ingredients; this is not a plain-protein shortcut in a stack.",
+        "energyBasis": "Stated label kcal per 100 g",
+        "sourceType": "retailer",
+        "retailer": "HealthKart",
+        "seller": "Bright Nutricare Private Limited",
+        "packaging": "Jar",
+        "protein": 50,
+        "additionalIngredients": [
+          {
+            "name": "Garcinia cambogia extract",
+            "amount": 200,
+            "unit": "mg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Cinnamon extract",
+            "amount": 50,
+            "unit": "mg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Green tea extract",
+            "amount": 100,
+            "unit": "mg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Collagen builder blend (amla, lemon, acerola)",
+            "amount": 1200,
+            "unit": "mg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Biotin",
+            "amount": 40,
+            "unit": "mcg",
+            "basis": "per stated powder serving"
+          },
+          {
+            "name": "Vitamin E",
+            "amount": 10,
+            "unit": "mg",
+            "basis": "per stated powder serving"
+          }
+        ],
+        "category": "protein",
+        "kind": "hk-product",
+        "base": "https://www.healthkart.com",
+        "productUrl": "https://www.healthkart.com/sv/healthkart-hk-vitals-protein-for-women/SP-94862?navKey=VRNT-206008",
+        "variantUrl": "https://www.healthkart.com/sv/healthkart-hk-vitals-protein-for-women/SP-94862?navKey=VRNT-206008",
+        "variantId": "206008",
+        "productId": "94862",
+        "sourceBrand": "HealthKart",
+        "variantAttributes": {
+          "gen-pro-siz": "2.2 lb",
+          "gen-sn-flv": "Chocolate, 100% VEG"
+        },
+        "cacheKey": "healthkart-206008",
+        "packSizeLabel": "2.2 lb",
+        "netWeightEvidenceUrl": "https://www.healthkart.com/sv/healthkart-hk-vitals-protein-for-women/SP-94862?navKey=VRNT-206008",
+        "netWeightEvidenceGrams": 1000,
+        "netWeightEvidenceChecked": "2026-11-19",
+        "requiresProductReview": true,
+        "productReviewReason": "Contains garcinia cambogia, green tea and cinnamon extracts. This combination needs review beyond the dietary protein requirement."
+      }
+    }
+  ]
+}

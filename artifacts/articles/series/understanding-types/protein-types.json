@@ -1,0 +1,257 @@
+{
+  "schemaVersion": 1,
+  "order": 67,
+  "article": {
+    "id": "protein-types",
+    "category": "protein",
+    "series": "understanding-types",
+    "title": "Protein types explained: ingredients, processing and what is worth paying for",
+    "summary": "A practical guide to whey, casein, egg, plant, yeast and algal proteins, with powder and ready-to-drink formats kept separate from ingredient types.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "A protein label can describe three different things: the organism supplying the protein, the processing used to prepare it, and the format you buy. Whey is a source; isolate and hydrolysate describe different processing characteristics; powder and ready-to-drink describe delivery. Keeping those layers separate makes comparison more useful. Start with dietary fit and the amount of usable protein the product can contribute, then assess the evidence, tolerability and price. There is no single best form for every buyer.",
+    "sections": [
+      {
+        "id": "source-processing-format",
+        "title": "Read the source, processing description and format separately",
+        "body": "Concentration removes some non-protein material; hydrolysis cuts some peptide bonds. A product can therefore be both an isolate and hydrolysed. Ingredient-grade specifications also do not establish the protein percentage of a flavoured finished product, which may contain other ingredients. Likewise, a ready-to-drink bottle can contain whey, casein, soy or a blend. Comparing a source with a format, or assuming every word describes a new biological category, makes the shelf look more complicated than it is.",
+        "sourceIds": [
+          "protein-whey-technical-usdec",
+          "protein-whey-hydrolysate-lockwood-2017",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "digestibility-eaa-and-outcomes",
+        "title": "Digestion speed and amino-acid quality answer different questions",
+        "body": "Amino-acid composition describes what a protein supplies. Digestibility and processing affect availability; digestion speed describes how the response unfolds over time. Essential amino acids, including leucine, matter, but a leucine figure alone cannot replace the rest of the amino-acid profile. Whey and casein can show different acute patterns, while adequately planned plant and mixed diets can both support training adaptations. Avoid turning a short-term blood peak or synthesis response into an automatic ranking of long-term muscle growth.",
+        "sourceIds": [
+          "protein-amino-acids-gorissen-2018",
+          "protein-digestion-boirie-1997",
+          "protein-plant-diet-hevia-2021"
+        ]
+      },
+      {
+        "id": "label-and-price-arithmetic",
+        "title": "Compare declared protein, not the size of the scoop",
+        "body": "Use the finished product's declared protein grams per serving. If only a percentage is available, declared protein per serving equals serving mass multiplied by that percentage divided by 100. Total declared pack protein equals net pack mass multiplied by the same fraction. Divide the pack price by that protein total to compare cost per gram of labelled protein. This is transparent price arithmetic, not a measurement of digestibility or independent confirmation of the label. Different flavour or pack variants can have different declarations.",
+        "sourceIds": [
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "lactose-allergy-and-product-fit",
+        "title": "Lower lactose is useful for some people; milk allergy is different",
+        "body": "Isolate ingredients commonly contain less lactose than concentrate ingredients, but check the actual finished product rather than assuming zero lactose. Both remain milk-derived proteins. Milk allergy concerns milk proteins and cannot be resolved by choosing a lower-lactose whey. Egg and soy are also relevant allergens. If an ingredient repeatedly causes symptoms, changing the price tier is not a substitute for finding the cause. People with kidney disease or medically restricted protein intake need a plan suited to their condition.",
+        "sourceIds": [
+          "protein-whey-technical-usdec",
+          "food-allergens",
+          "food-kidney-diet"
+        ]
+      },
+      {
+        "id": "evidence-and-buying-order",
+        "title": "Use total diet and practical fit before a premium processing claim",
+        "body": "Establish the food gap first, then choose a source that fits diet, allergens, taste and budget. Compare its declared composition and supporting quality evidence before paying for a processing upgrade. The protein's place in the full day's intake usually deserves attention before an exact pre- versus post-workout ritual. For a novel source, ask which ingredient was actually studied, whether the outcome was an acute laboratory response or a training result, and whether the study population resembles the intended user.",
+        "sourceIds": [
+          "exercise",
+          "protein-timing-schoenfeld-2017",
+          "protein-yeast-bai-2026",
+          "protein-algae-myo-2023"
+        ]
+      }
+    ],
+    "forms": [
+      {
+        "name": "Whey protein concentrate",
+        "kind": "ingredient",
+        "description": "A milk-derived whey ingredient with some lactose, fat and other non-protein material remaining. Concentrates come in different grades; the ingredient name does not fix a flavoured product's protein percentage.",
+        "metabolism": "Digestive enzymes release peptides and amino acids. Whey can produce a relatively rapid amino-acid rise compared with intact casein under controlled meal conditions.",
+        "evidence": "Concentrates have been tested in resistance-training studies. Their lower concentration compared with isolate is not, by itself, evidence of inferior muscle gains at a comparable protein intake.",
+        "value": "Assess cost per gram of labelled protein and tolerance. A well-specified concentrate may be a sensible option when its lactose and other ingredients fit the buyer.",
+        "sourceIds": [
+          "protein-whey-technical-usdec",
+          "digestion",
+          "protein-digestion-boirie-1997",
+          "protein-whey-hydrolysate-lockwood-2017"
+        ]
+      },
+      {
+        "name": "Whey protein isolate",
+        "kind": "ingredient",
+        "description": "A more purified whey ingredient, generally containing less lactose and fat than concentrate. Ingredient-grade composition is not a guarantee for every finished formula.",
+        "metabolism": "It still undergoes protein digestion. Greater concentration changes the protein-to-powder ratio; it does not bypass digestion or make a scoop automatically more anabolic.",
+        "evidence": "The processing description alone does not establish a long-term advantage over an otherwise suitable product delivering comparable protein.",
+        "value": "Pay extra for a relevant feature such as a verified lower-lactose formulation or greater protein density. It remains unsuitable for a milk-protein allergy.",
+        "sourceIds": [
+          "protein-whey-technical-usdec",
+          "digestion",
+          "food-allergens"
+        ]
+      },
+      {
+        "name": "Hydrolysed whey protein",
+        "kind": "ingredient",
+        "description": "Whey processed to split some protein into smaller peptides. Hydrolysates can originate from different whey grades and vary in the extent of hydrolysis.",
+        "metabolism": "Some peptide-bond breakdown occurs before ingestion, but intestinal processing and amino-acid uptake are still required.",
+        "evidence": "An eight-week training study compared extensively hydrolysed whey with concentrate variants. Strength improvements were similar across groups, so it cannot support a blanket hydrolysate advantage; individual outcomes and study limits matter.",
+        "value": "Treat a premium as a claim needing a relevant justification. 'Hydrolysed' alone does not demonstrate better muscle growth, tolerability for everyone or safety with milk allergy.",
+        "sourceIds": [
+          "protein-whey-hydrolysate-lockwood-2017",
+          "digestion",
+          "food-allergens"
+        ]
+      },
+      {
+        "name": "Casein and caseinates",
+        "kind": "ingredient",
+        "description": "Milk-derived proteins distinct from whey. Micellar casein and caseinate ingredients are processed differently, so not every product has identical physical or digestive behaviour.",
+        "metabolism": "Intact casein produced a slower, more sustained amino-acid response than whey in a classic human tracer study. Mixed meals and processing can change the pattern.",
+        "evidence": "That acute study measured whole-body protein handling, not a universal advantage for bedtime use or long-term hypertrophy. 'Slower' and 'better' are different conclusions.",
+        "value": "Consider texture, convenience and protein cost within the whole diet. A slower label is not a reason that everyone needs a separate night-time product.",
+        "sourceIds": [
+          "protein-digestion-boirie-1997",
+          "food-allergens"
+        ]
+      },
+      {
+        "name": "Egg protein",
+        "kind": "ingredient",
+        "description": "Usually an egg-white-derived powder, although whole-egg ingredients also exist. It is animal-derived, but contains no dairy protein unless the formula adds it.",
+        "metabolism": "Egg proteins are digested into peptides and amino acids. A small human study found cooked egg protein substantially more digestible than raw egg protein.",
+        "evidence": "Whole eggs and equal-protein egg whites produced different acute muscle-protein-synthesis responses in one trial. That does not establish a universal ranking for commercial egg powders.",
+        "value": "A potential dairy-free ingredient choice when eggs fit the diet; check the formula and egg-allergy suitability. Compare with ordinary egg foods as well as powders.",
+        "sourceIds": [
+          "protein-egg-cooking-evenepoel-1998",
+          "protein-whole-eggs-2017",
+          "food-allergens",
+          "food-protein"
+        ]
+      },
+      {
+        "name": "Soy protein",
+        "kind": "ingredient",
+        "description": "A plant protein sold as concentrates, isolates and in foods. Its amino-acid pattern differs from whey and from other plant sources.",
+        "metabolism": "Digestion supplies amino acids, including essential amino acids. Availability depends on the preparation and the amount consumed, not simply the word 'plant'.",
+        "evidence": "A protein-matched training study using soy isolate within a vegan diet found no detected difference in muscle or strength adaptations versus a mixed diet using whey. This does not prove every soy and whey serving is equivalent.",
+        "value": "Can fit a plant-based diet when the ingredient and allergen profile are suitable. Compare actual protein content and evidence rather than assuming a plant premium is required.",
+        "sourceIds": [
+          "protein-amino-acids-gorissen-2018",
+          "protein-plant-diet-hevia-2021",
+          "food-allergens"
+        ]
+      },
+      {
+        "name": "Pea protein",
+        "kind": "ingredient",
+        "description": "A pulse-derived ingredient commonly sold as concentrate, isolate or part of a blend. Its amino-acid pattern should be assessed as a specific ingredient.",
+        "metabolism": "Pea protein undergoes digestion; amino-acid supply reflects composition and available protein. Some amino acids are relatively limiting compared with others.",
+        "evidence": "A 12-week upper-limb training trial found no detected difference between its pea and whey groups. The overall between-group muscle-thickness result was not clearly significant, and a favourable pea-versus-placebo finding involved a weaker-participant subgroup.",
+        "value": "Evaluate declared grams and the overall diet. Do not turn a subgroup finding or a 'plant blend' label into proof of superiority or exact equivalence.",
+        "sourceIds": [
+          "protein-amino-acids-gorissen-2018",
+          "protein-pea-babault-2015"
+        ]
+      },
+      {
+        "name": "Rice protein",
+        "kind": "ingredient",
+        "description": "A grain-derived protein ingredient, often used in plant blends. It has an amino-acid pattern different from pulse proteins such as pea.",
+        "metabolism": "Digestion supplies amino acids; protein quantity and the relative supply of essential amino acids matter together.",
+        "evidence": "An eight-week study in trained men compared large, equal-protein rice and whey servings and did not detect between-group differences in measured adaptations. This small trial cannot establish that all lower-dose products are interchangeable.",
+        "value": "Assess the finished product's protein and amino-acid information. A high-dose study is not evidence that any small rice-protein serving supplies the same useful contribution.",
+        "sourceIds": [
+          "protein-amino-acids-gorissen-2018",
+          "protein-rice-joy-2013"
+        ]
+      },
+      {
+        "name": "Multi-source protein blends",
+        "kind": "ingredient",
+        "description": "Mixtures may combine whey and casein, several plant sources, or animal and microbial proteins. The ingredients and their proportions determine what the blend actually is.",
+        "metabolism": "Each ingredient contributes its own digestible amino-acid supply; combining sources can change the overall pattern and digestion profile.",
+        "evidence": "Complementary amino-acid profiles provide a nutritional rationale, but a rationale does not demonstrate that an undisclosed blend outperforms a simpler protein. Evidence for one formulation does not validate all mixtures.",
+        "value": "Ask for source proportions and finished-product composition. A longer ingredient list is not an independent indicator of quality or value.",
+        "sourceIds": [
+          "protein-amino-acids-gorissen-2018",
+          "food-protein-vegetarian",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "name": "Yeast-derived protein",
+        "kind": "ingredient",
+        "description": "Protein obtained from yeast biomass through fermentation and processing. Species and preparation matter; nutritional yeast flakes, extracted yeast protein and a yeast-whey blend are different products.",
+        "metabolism": "Its proteins still require digestive breakdown and amino-acid absorption. Fermentation does not mean that the ingredient bypasses digestion.",
+        "evidence": "Human trials now include a 2024 training study of a specific Saccharomyces cerevisiae ingredient and a 2026 trial in older adults. These do not establish category-wide equivalence to whey; the 2024 study was manufacturer-funded and included subgroup analyses.",
+        "value": "Require an identified ingredient, amino-acid information and relevant quality checks. Novelty or sustainability claims alone do not establish muscle outcomes or justify an undefined premium.",
+        "sourceIds": [
+          "protein-yeast-briskey-2024",
+          "protein-yeast-bai-2026",
+          "digestion",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "name": "Spirulina, chlorella and algal protein ingredients",
+        "kind": "ingredient",
+        "description": "A broad group, not a single interchangeable protein. Spirulina is a cyanobacterium; chlorella is a microalga. Whole biomass, processed biomass and extracted protein need separate assessment.",
+        "metabolism": "Human work found different post-meal amino-acid availability across spirulina, whole-cell chlorella and split-cell chlorella preparations, showing why species and processing matter.",
+        "evidence": "One acute trial found similar muscle-protein-synthesis responses after protein-matched algal preparations and mycoprotein. It did not test long-term hypertrophy or show equivalence to every whey product. The comparator was mycoprotein, not whey.",
+        "value": "Check actual protein grams, species, preparation and contaminant testing. A small greens serving cannot be evaluated as a full protein serving simply because the biomass is protein-rich.",
+        "sourceIds": [
+          "protein-algae-myo-2023",
+          "protein-algae-availability-2024",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "name": "Protein powder",
+        "kind": "delivery",
+        "description": "A dry delivery format for any suitable protein source or mixture; it is not a distinct protein type.",
+        "metabolism": "Mixing powder into a drink does not remove the need for digestion. The protein source and accompanying ingredients help determine the response.",
+        "evidence": "Evidence for a particular ingredient and intake cannot be transferred to every powder. The scoop's full mass is not its protein content.",
+        "value": "Compare declared pack protein and cost, measuring practicality and ingredient fit. Account for whatever is mixed into the drink when judging the full meal.",
+        "sourceIds": [
+          "digestion",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "name": "Ready-to-drink protein beverage",
+        "kind": "delivery",
+        "description": "A prepared drink that may contain dairy, plant or blended proteins. Bottle volume describes the drink, not its protein dose.",
+        "metabolism": "It still undergoes digestion and absorption; being liquid does not establish superiority over powder or food.",
+        "evidence": "Judge the actual protein source and composition rather than treating 'ready-to-drink' as an independently proven muscle-building ingredient.",
+        "value": "A convenience choice. Compare cost per gram of labelled protein, the full bottle's calories and ingredients, storage requirements and the amount actually consumed.",
+        "sourceIds": [
+          "digestion",
+          "supplement-quality-ods"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "digestion",
+      "exercise",
+      "food-protein",
+      "food-protein-vegetarian",
+      "food-kidney-diet",
+      "food-allergens",
+      "supplement-quality-ods",
+      "protein-whey-technical-usdec",
+      "protein-whey-hydrolysate-lockwood-2017",
+      "protein-digestion-boirie-1997",
+      "protein-amino-acids-gorissen-2018",
+      "protein-plant-diet-hevia-2021",
+      "protein-timing-schoenfeld-2017",
+      "protein-egg-cooking-evenepoel-1998",
+      "protein-whole-eggs-2017",
+      "protein-pea-babault-2015",
+      "protein-rice-joy-2013",
+      "protein-yeast-briskey-2024",
+      "protein-yeast-bai-2026",
+      "protein-algae-myo-2023",
+      "protein-algae-availability-2024"
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "order": 7,
+  "article": {
+    "id": "fish-oil-atrial-fibrillation-benefit-risk",
+    "category": "fish-oil",
+    "series": "evidence-in-context",
+    "title": "Fish oil and heart rhythm: why the benefit–risk question changes with the product",
+    "summary": "Atrial fibrillation findings deserve a place beside cardiovascular benefits. Read absolute event rates and distinguish dietary fish, ordinary supplements and prescription regimens.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "Fish oil is often sold with a heart on the label, which makes a possible heart-rhythm risk seem contradictory. Yet a treatment can improve one outcome and increase another. That is why large trials collect harms alongside benefits. Recent omega-3 research makes this trade-off particularly important: formulations, amounts and participant risk differ, and some high-dose trials reported more atrial fibrillation. The appropriate response is neither panic about eating fish nor copying a prescription regimen with retail capsules. It is to ask what is being taken, for which purpose, in which population, and what the trials show on both sides of the balance.",
+    "sections": [
+      {
+        "id": "af",
+        "title": "Heart health contains several distinct outcomes",
+        "body": "Atrial fibrillation, or AF, is an abnormal heart rhythm, not another name for a heart attack. Preventing an ischaemic event, lowering triglycerides and preventing AF are therefore different claims. A favourable result for one cannot erase an unfavourable result for another. AF can be asymptomatic or cause symptoms such as palpitations, breathlessness or fatigue; symptoms alone cannot establish the diagnosis. This distinction matters when interpreting a heart-health logo. The symbol does not tell you which outcome was studied, whether the effect was significant, or whether the product increased a different risk. The clinical question must be more precise than whether omega-3 is good for the heart.",
+        "sourceIds": [
+          "nutrients-af-symptoms-nhlbi",
+          "omega-overview"
+        ]
+      },
+      {
+        "id": "vital",
+        "title": "A lower-dose primary-prevention trial did not find a significant AF difference",
+        "body": "VITAL Rhythm followed older adults without a prior cardiovascular event history in a randomised comparison of marine EPA plus DHA with placebo. Over more than five years, incident AF was not significantly different between groups. This is reassuring within the regimen and population studied, but it is not evidence that every omega-3 amount has zero AF risk. A non-significant finding also does not establish that the supplement prevents AF; the investigators did not support that use. The result gives one well-defined piece of the picture. It cannot be used to dismiss a signal from a different formulation given at a substantially higher amount to higher-risk patients.",
+        "sourceIds": [
+          "nutrients-omega-vital-rhythm-2021"
+        ]
+      },
+      {
+        "id": "reduce",
+        "title": "A beneficial prescription trial still had an AF trade-off",
+        "body": "REDUCE-IT studied prescription icosapent ethyl in statin-treated people with elevated triglycerides and established cardiovascular disease or diabetes plus risk factors. It reduced the main composite of ischaemic events compared with placebo. Hospitalisation for AF or flutter was also higher. Both findings belong in the same account. The study supports a clinician-led benefit–risk decision in a selected group; it does not support replacing the tested medicine with an arbitrary amount of retail fish oil. Equally, a patient should not discard an appropriate prescription solely because an adverse event is mentioned online. The relevant question is the combined balance in that patient's clinical context.",
+        "sourceIds": [
+          "well-omega-reduce-it"
+        ]
+      },
+      {
+        "id": "strength",
+        "title": "Another high-dose trial found the risk without the hoped-for main benefit",
+        "body": "STRENGTH tested a different concentrated EPA-and-DHA formulation in high-risk, statin-treated patients. The main cardiovascular outcome did not improve, while investigator-reported new-onset AF was more frequent in the omega-3 group. This makes it difficult to defend a blanket claim that concentrated omega-3 is always a better heart-health purchase. It also does not identify a simple culprit ingredient: comparing separate trials cannot isolate EPA from DHA, placebo choice or differences in participants and design. The useful conclusion is bounded. A product's concentration and biochemical effects do not establish a favourable clinical balance, and one successful prescription formulation cannot confer its outcome evidence on all others.",
+        "sourceIds": [
+          "well-omega-strength"
+        ]
+      },
+      {
+        "id": "numbers",
+        "title": "Read the event rates before the headline percentage",
+        "body": "In REDUCE-IT, AF or flutter requiring hospitalisation occurred in 3.1% with the active treatment and 2.1% with placebo. That is a one-percentage-point difference over the trial follow-up, rather than a claim that everyone faces the same risk. STRENGTH reported investigator-identified new-onset AF, a different definition, so its figure should not be presented as directly interchangeable. Likewise, the main cardiovascular composite includes several events rather than one uniform experience. Absolute differences, follow-up and outcome definitions help make the trade-off understandable. They cannot be combined into a personal calculation without the starting risk and clinical circumstances that the trial averages do not supply.",
+        "sourceIds": [
+          "well-omega-reduce-it",
+          "well-omega-strength"
+        ]
+      },
+      {
+        "id": "dose",
+        "title": "A cross-trial pattern is not a head-to-head dose experiment",
+        "body": "It is reasonable to notice that some high-dose trials showed an AF signal while VITAL Rhythm did not show a significant difference at its studied regimen. It is less reasonable to draw a precise universal safety threshold from that comparison. The trials did not randomise the same population across all those doses and formulations while holding everything else constant. They also differed in baseline risk and how AF was collected. Avoid both unsupported extrapolations: low-dose means no risk in anyone, and any omega-3 exposure has the risk seen with high-dose treatment. This is a case where acknowledging uncertainty produces a more useful decision than pretending that the literature supplies a clean cutoff.",
+        "sourceIds": [
+          "nutrients-omega-vital-rhythm-2021",
+          "well-omega-strength"
+        ]
+      },
+      {
+        "id": "food",
+        "title": "Fish as food is a different intervention",
+        "body": "Dietary fish contributes protein and other nutrients and can replace other foods in a meal pattern. That is a different exposure from adding a concentrated capsule on top of an unchanged diet. The American Heart Association recommends fish within a healthy dietary pattern; that recommendation should not be read as an endorsement of every supplement or as permission to recreate a prescription dose. Conversely, the high-dose trial findings do not establish that ordinary fish consumption carries the same AF risk. Food advice, nutritional supplementation and medical treatment should retain their own evidence. If fish is not eaten, discuss suitable dietary options without assuming that the largest EPA-and-DHA number supplies the most benefit.",
+        "sourceIds": [
+          "nutrients-omega-aha-fish",
+          "food-omega3"
+        ]
+      },
+      {
+        "id": "decision",
+        "title": "A better purchase begins with a specific purpose",
+        "body": "Before comparing prices, distinguish a nutritional source from treatment for a clinical problem. Check the actual EPA and DHA amounts rather than total oil alone, and disclose all products to the clinician if you have cardiovascular disease, a rhythm history or a prescription plan. Do not add capsules to imitate a trial without that assessment. The AF evidence makes automatic escalation particularly hard to justify for general wellness. It also makes balanced reporting essential: a possible harm does not invalidate a proven benefit in a selected treatment setting. Value means a credible benefit for the intended user at an acceptable risk, not simply the most concentrated bottle or the most reassuring logo.",
+        "sourceIds": [
+          "omega-overview",
+          "food-omega3",
+          "well-omega-reduce-it",
+          "supplement-quality-ods"
+        ]
+      }
+    ],
+    "evidenceNotes": [
+      {
+        "finding": "EPA plus DHA did not significantly change incident AF versus placebo.",
+        "sourceIds": [
+          "nutrients-omega-vital-rhythm-2021"
+        ],
+        "design": "Randomised placebo-controlled VITAL Rhythm ancillary trial.",
+        "population": "25,119 older adults in the analysis without prior AF or cardiovascular disease at entry.",
+        "outcome": "Incident AF over a median 5.3 years.",
+        "limits": "Does not show AF prevention, exclude every possible risk or generalise to higher-dose prescription regimens."
+      },
+      {
+        "finding": "Ischaemic events were reduced while AF/flutter hospitalisations were more frequent.",
+        "sourceIds": [
+          "well-omega-reduce-it"
+        ],
+        "design": "Randomised placebo-controlled prescription icosapent-ethyl trial.",
+        "population": "Statin-treated people with elevated triglycerides and high cardiovascular risk.",
+        "outcome": "Composite ischaemic events and AF/flutter hospitalisation.",
+        "limits": "Selected clinical population and formulation; retail fish oil is not an interchangeable intervention."
+      },
+      {
+        "finding": "The primary cardiovascular outcome did not improve and new-onset AF was more frequent.",
+        "sourceIds": [
+          "well-omega-strength"
+        ],
+        "design": "Randomised high-dose EPA-plus-DHA formulation versus corn-oil trial.",
+        "population": "High-risk statin-treated patients.",
+        "outcome": "Major cardiovascular events and investigator-reported new-onset AF.",
+        "limits": "Different formulation, comparator and AF definition from REDUCE-IT; cannot isolate an ingredient or exact dose threshold."
+      }
+    ],
+    "sourceIds": [
+      "nutrients-af-symptoms-nhlbi",
+      "omega-overview",
+      "nutrients-omega-vital-rhythm-2021",
+      "well-omega-reduce-it",
+      "well-omega-strength",
+      "nutrients-omega-aha-fish",
+      "food-omega3",
+      "supplement-quality-ods"
+    ]
+  }
+}

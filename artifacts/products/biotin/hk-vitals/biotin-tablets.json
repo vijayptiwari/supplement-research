@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 1,
+  "category": "biotin",
+  "brand": "HK Vitals",
+  "product": "Biotin Tablets",
+  "variants": [
+    {
+      "order": 9,
+      "offer": {
+        "form": "Tablet",
+        "source": "Not specified",
+        "servingUnits": 2,
+        "product": "Biotin Tablets",
+        "type": "Sunflower seed extract + Jatamansi root extract",
+        "subclass": "Ayurvedic botanical combination; biotin payload unquantified",
+        "biotinMcg": null,
+        "additionalIngredients": [
+          {
+            "name": "Sunflower (Helianthus annuus) seed extract",
+            "amount": 170,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Jatamansi (Nardostachys jatamansi) root extract",
+            "amount": 10,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "basis": "Official composition states each tablet contains sunflower seed extract 85 mg and Jatamansi root extract 5 mg. Official directions use two tablets; recorded botanical amounts are doubled to that serving.",
+        "notes": "The current Ayurvedic formula does not quantify biotin in micrograms. Seed-extract mass is not biotin mass; active-content cost must remain unknown. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+        "brand": "HK Vitals",
+        "id": "biotin-hkv-185730",
+        "packCount": 60,
+        "flavour": "Unflavoured",
+        "price": 389,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://www.hkvitals.com/sv/hk-vitals-biotin/SP-99762?navKey=VRNT-185730",
+        "nutritionUrl": "https://img8.hkrtcdn.com/35045/prd_3504437-HK-Vitals-Biotin-by-HealthKart-60-tablets-Unflavoured_o.jpg",
+        "labelSources": [
+          "https://www.hkvitals.com/sv/hk-vitals-biotin/SP-99762?navKey=VRNT-185730",
+          "https://img8.hkrtcdn.com/35045/prd_3504437-HK-Vitals-Biotin-by-HealthKart-60-tablets-Unflavoured_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "packaging": "Single retail pack (60 units)",
+        "sourceVariantId": "185730",
+        "sourceProductId": "99762"
+      }
+    },
+    {
+      "order": 10,
+      "offer": {
+        "form": "Tablet",
+        "source": "Not specified",
+        "servingUnits": 2,
+        "product": "Biotin Tablets",
+        "type": "Sunflower seed extract + Jatamansi root extract",
+        "subclass": "Ayurvedic botanical combination; biotin payload unquantified",
+        "biotinMcg": null,
+        "additionalIngredients": [
+          {
+            "name": "Sunflower (Helianthus annuus) seed extract",
+            "amount": 170,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Jatamansi (Nardostachys jatamansi) root extract",
+            "amount": 10,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "basis": "Official composition states each tablet contains sunflower seed extract 85 mg and Jatamansi root extract 5 mg. Official directions use two tablets; recorded botanical amounts are doubled to that serving.",
+        "notes": "The current Ayurvedic formula does not quantify biotin in micrograms. Seed-extract mass is not biotin mass; active-content cost must remain unknown. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+        "brand": "HK Vitals",
+        "id": "biotin-hkv-185732",
+        "packCount": 90,
+        "flavour": "Unflavoured",
+        "price": 539,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://www.hkvitals.com/sv/hk-vitals-biotin/SP-99762?navKey=VRNT-185732",
+        "nutritionUrl": "https://img8.hkrtcdn.com/35045/prd_3504437-HK-Vitals-Biotin-by-HealthKart-60-tablets-Unflavoured_o.jpg",
+        "labelSources": [
+          "https://www.hkvitals.com/sv/hk-vitals-biotin/SP-99762?navKey=VRNT-185732",
+          "https://img8.hkrtcdn.com/35045/prd_3504437-HK-Vitals-Biotin-by-HealthKart-60-tablets-Unflavoured_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "packaging": "Single retail pack (90 units)",
+        "sourceVariantId": "185732",
+        "sourceProductId": "99762"
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 5125,
+      "observation": {
+        "category": "biotin",
+        "offerId": "biotin-hkv-185730",
+        "date": "2026-11-19",
+        "price": 389,
+        "currency": "INR",
+        "sourceUrl": "https://www.hkvitals.com/sv/hk-vitals-biotin/SP-99762?navKey=VRNT-185730",
+        "evidenceUrl": "https://www.hkvitals.com/sv/hk-vitals-biotin/SP-99762?navKey=VRNT-185730",
+        "kind": "official-live",
+        "matchBasis": "Official HK Vitals SSR reviewData selected numeric variant 185730; explicit pack '60 tablet(s)', unconditional offer_pr INR and isPublish=true/oos=false. Excludes loyalty and coupon rewards.",
+        "variantId": "185730"
+      }
+    },
+    {
+      "order": 5126,
+      "observation": {
+        "category": "biotin",
+        "offerId": "biotin-hkv-185732",
+        "date": "2026-11-19",
+        "price": 539,
+        "currency": "INR",
+        "sourceUrl": "https://www.hkvitals.com/sv/hk-vitals-biotin/SP-99762?navKey=VRNT-185732",
+        "evidenceUrl": "https://www.hkvitals.com/sv/hk-vitals-biotin/SP-99762?navKey=VRNT-185732",
+        "kind": "official-live",
+        "matchBasis": "Official HK Vitals SSR reviewData selected numeric variant 185732; explicit pack '90 tablet(s)', unconditional offer_pr INR and isPublish=true/oos=false. Excludes loyalty and coupon rewards.",
+        "variantId": "185732"
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 235,
+      "profile": {
+        "form": "Tablet",
+        "source": "Not specified",
+        "servingUnits": 2,
+        "product": "Biotin Tablets",
+        "type": "Sunflower seed extract + Jatamansi root extract",
+        "subclass": "Ayurvedic botanical combination; biotin payload unquantified",
+        "biotinMcg": null,
+        "additionalIngredients": [
+          {
+            "name": "Sunflower (Helianthus annuus) seed extract",
+            "amount": 170,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Jatamansi (Nardostachys jatamansi) root extract",
+            "amount": 10,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "basis": "Official composition states each tablet contains sunflower seed extract 85 mg and Jatamansi root extract 5 mg. Official directions use two tablets; recorded botanical amounts are doubled to that serving.",
+        "notes": "The current Ayurvedic formula does not quantify biotin in micrograms. Seed-extract mass is not biotin mass; active-content cost must remain unknown. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+        "brand": "HK Vitals",
+        "id": "biotin-hkv-185730",
+        "packCount": 60,
+        "flavour": "Unflavoured",
+        "nutritionUrl": "https://img8.hkrtcdn.com/35045/prd_3504437-HK-Vitals-Biotin-by-HealthKart-60-tablets-Unflavoured_o.jpg",
+        "labelSources": [
+          "https://www.hkvitals.com/sv/hk-vitals-biotin/SP-99762?navKey=VRNT-185730",
+          "https://img8.hkrtcdn.com/35045/prd_3504437-HK-Vitals-Biotin-by-HealthKart-60-tablets-Unflavoured_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "packaging": "Single retail pack (60 units)",
+        "sourceVariantId": "185730",
+        "sourceProductId": "99762",
+        "category": "biotin",
+        "kind": "hk-product",
+        "base": "https://www.hkvitals.com",
+        "handle": "biotin",
+        "productUrl": "https://www.hkvitals.com/sv/hk-vitals-biotin/SP-99762?navKey=VRNT-185730",
+        "variantUrl": "https://www.hkvitals.com/sv/hk-vitals-biotin/SP-99762?navKey=VRNT-185730",
+        "variantId": "185730",
+        "productId": 99762,
+        "sourceBrand": "HK Vitals",
+        "variantAttributes": {
+          "fn-att-quant": "60 tablet(s)",
+          "spc-att-flvr": "Unflavoured"
+        }
+      }
+    },
+    {
+      "order": 236,
+      "profile": {
+        "form": "Tablet",
+        "source": "Not specified",
+        "servingUnits": 2,
+        "product": "Biotin Tablets",
+        "type": "Sunflower seed extract + Jatamansi root extract",
+        "subclass": "Ayurvedic botanical combination; biotin payload unquantified",
+        "biotinMcg": null,
+        "additionalIngredients": [
+          {
+            "name": "Sunflower (Helianthus annuus) seed extract",
+            "amount": 170,
+            "unit": "mg",
+            "basis": "per label serving"
+          },
+          {
+            "name": "Jatamansi (Nardostachys jatamansi) root extract",
+            "amount": 10,
+            "unit": "mg",
+            "basis": "per label serving"
+          }
+        ],
+        "basis": "Official composition states each tablet contains sunflower seed extract 85 mg and Jatamansi root extract 5 mg. Official directions use two tablets; recorded botanical amounts are doubled to that serving.",
+        "notes": "The current Ayurvedic formula does not quantify biotin in micrograms. Seed-extract mass is not biotin mass; active-content cost must remain unknown. Exact retail count follows the selected live product variant; per-serving amounts come from its current official family gallery label, whose illustrated container may show another count.",
+        "brand": "HK Vitals",
+        "id": "biotin-hkv-185732",
+        "packCount": 90,
+        "flavour": "Unflavoured",
+        "nutritionUrl": "https://img8.hkrtcdn.com/35045/prd_3504437-HK-Vitals-Biotin-by-HealthKart-60-tablets-Unflavoured_o.jpg",
+        "labelSources": [
+          "https://www.hkvitals.com/sv/hk-vitals-biotin/SP-99762?navKey=VRNT-185732",
+          "https://img8.hkrtcdn.com/35045/prd_3504437-HK-Vitals-Biotin-by-HealthKart-60-tablets-Unflavoured_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "sourceType": "manufacturer",
+        "packaging": "Single retail pack (90 units)",
+        "sourceVariantId": "185732",
+        "sourceProductId": "99762",
+        "category": "biotin",
+        "kind": "hk-product",
+        "base": "https://www.hkvitals.com",
+        "handle": "biotin",
+        "productUrl": "https://www.hkvitals.com/sv/hk-vitals-biotin/SP-99762?navKey=VRNT-185732",
+        "variantUrl": "https://www.hkvitals.com/sv/hk-vitals-biotin/SP-99762?navKey=VRNT-185732",
+        "variantId": "185732",
+        "productId": 99762,
+        "sourceBrand": "HK Vitals",
+        "variantAttributes": {
+          "fn-att-quant": "90 tablet(s)",
+          "spc-att-flvr": "Unflavoured"
+        }
+      }
+    }
+  ]
+}

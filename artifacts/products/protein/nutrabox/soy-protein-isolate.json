@@ -1,0 +1,812 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "Nutrabox",
+  "product": "Soy Protein Isolate",
+  "variants": [
+    {
+      "order": 597,
+      "offer": {
+        "id": 597,
+        "brand": "Nutrabox",
+        "product": "Soy Protein Isolate",
+        "type": "Plant — soy",
+        "flavour": "Cafe Latte",
+        "kg": 1,
+        "price": 1299,
+        "stock": "In stock",
+        "protein": 81.08,
+        "scoop": 37,
+        "serving": 37,
+        "subclass": "Plant isolate",
+        "energy": 359.58,
+        "url": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=67597482229934",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0038/0656/0365/files/nutritional_info_of_nutrabox_soy_protein.webp?v=1792662015",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Previously missing protein % added from flavour-matched panel; linked cost recalculates. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-matched label image, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=67597482229934",
+          "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 598,
+      "offer": {
+        "id": 598,
+        "brand": "Nutrabox",
+        "product": "Soy Protein Isolate",
+        "type": "Plant — soy",
+        "flavour": "Chocolate",
+        "kg": 1,
+        "price": 1299,
+        "stock": "In stock",
+        "protein": 81.08,
+        "scoop": 37,
+        "serving": 37,
+        "subclass": "Plant isolate",
+        "energy": 359.58,
+        "url": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=46353187897518",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0038/0656/0365/files/nutritional_info_of_nutrabox_soy_protein.webp?v=1792662015",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Previously missing protein % added from flavour-matched panel; linked cost recalculates. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-matched label image, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=46353187897518",
+          "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 599,
+      "offer": {
+        "id": 599,
+        "brand": "Nutrabox",
+        "product": "Soy Protein Isolate",
+        "type": "Plant — soy",
+        "flavour": "Kheer",
+        "kg": 1,
+        "price": 1299,
+        "stock": "Sold out",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Plant isolate",
+        "energy": null,
+        "url": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=67604603732142",
+        "nutritionUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=67604603732142",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=67604603732142",
+          "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 600,
+      "offer": {
+        "id": 600,
+        "brand": "Nutrabox",
+        "product": "Soy Protein Isolate",
+        "type": "Plant — soy",
+        "flavour": "Mango",
+        "kg": 1,
+        "price": 1299,
+        "stock": "In stock",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Plant isolate",
+        "energy": null,
+        "url": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=46353325883566",
+        "nutritionUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=46353325883566",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=46353325883566",
+          "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 601,
+      "offer": {
+        "id": 601,
+        "brand": "Nutrabox",
+        "product": "Soy Protein Isolate",
+        "type": "Plant — soy",
+        "flavour": "Strawberry",
+        "kg": 1,
+        "price": 1299,
+        "stock": "Sold out",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Plant isolate",
+        "energy": null,
+        "url": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=49343402868910",
+        "nutritionUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=49343402868910",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=49343402868910",
+          "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 602,
+      "offer": {
+        "id": 602,
+        "brand": "Nutrabox",
+        "product": "Soy Protein Isolate",
+        "type": "Plant — soy",
+        "flavour": "Unflavored",
+        "kg": 1,
+        "price": 1249,
+        "stock": "In stock",
+        "protein": 88.2,
+        "scoop": 34,
+        "serving": 34,
+        "subclass": "Plant isolate",
+        "energy": 372.58,
+        "url": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=46353325949102",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0038/0656/0365/files/nutritional_info_of_soy_unflavored.webp?v=1792662038",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Previously missing protein % added from flavour-matched panel; linked cost recalculates. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Flavour-matched label image, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=46353325949102",
+          "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    },
+    {
+      "order": 603,
+      "offer": {
+        "id": 603,
+        "brand": "Nutrabox",
+        "product": "Soy Protein Isolate",
+        "type": "Plant — soy",
+        "flavour": "Vanilla",
+        "kg": 1,
+        "price": 1299,
+        "stock": "In stock",
+        "protein": null,
+        "scoop": null,
+        "serving": null,
+        "subclass": "Plant isolate",
+        "energy": null,
+        "url": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=46353325916334",
+        "nutritionUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=46353325916334",
+        "basis": "Exact protein concentration not verified; cost intentionally blank",
+        "notes": "Scoop weight not verified. Energy per 100g not verified. Protein percentage not verified.",
+        "energyBasis": "",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=46353325916334",
+          "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+          "matchBasis": "Exact official Shopify variant ID"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 1531,
+      "observation": {
+        "category": "protein",
+        "offerId": 598,
+        "date": "2025-05-12",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=46353187897518",
+        "evidenceUrl": "https://web.archive.org/web/20250512152929id_/https://nutrabox.in/products/nutrabox-soy-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "46353187897518",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1532,
+      "observation": {
+        "category": "protein",
+        "offerId": 600,
+        "date": "2025-05-12",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=46353325883566",
+        "evidenceUrl": "https://web.archive.org/web/20250512152929id_/https://nutrabox.in/products/nutrabox-soy-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "46353325883566",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1533,
+      "observation": {
+        "category": "protein",
+        "offerId": 602,
+        "date": "2025-05-12",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=46353325949102",
+        "evidenceUrl": "https://web.archive.org/web/20250512152929id_/https://nutrabox.in/products/nutrabox-soy-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "46353325949102",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1534,
+      "observation": {
+        "category": "protein",
+        "offerId": 603,
+        "date": "2025-05-12",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=46353325916334",
+        "evidenceUrl": "https://web.archive.org/web/20250512152929id_/https://nutrabox.in/products/nutrabox-soy-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "46353325916334",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1535,
+      "observation": {
+        "category": "protein",
+        "offerId": 598,
+        "date": "2025-09-15",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=46353187897518",
+        "evidenceUrl": "https://web.archive.org/web/20250915223424id_/https://nutrabox.in/products/nutrabox-soy-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "46353187897518",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1536,
+      "observation": {
+        "category": "protein",
+        "offerId": 600,
+        "date": "2025-09-15",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=46353325883566",
+        "evidenceUrl": "https://web.archive.org/web/20250915223424id_/https://nutrabox.in/products/nutrabox-soy-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "46353325883566",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1537,
+      "observation": {
+        "category": "protein",
+        "offerId": 602,
+        "date": "2025-09-15",
+        "price": 1299,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=46353325949102",
+        "evidenceUrl": "https://web.archive.org/web/20250915223424id_/https://nutrabox.in/products/nutrabox-soy-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "46353325949102",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1538,
+      "observation": {
+        "category": "protein",
+        "offerId": 603,
+        "date": "2025-09-15",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=46353325916334",
+        "evidenceUrl": "https://web.archive.org/web/20250915223424id_/https://nutrabox.in/products/nutrabox-soy-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "46353325916334",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1539,
+      "observation": {
+        "category": "protein",
+        "offerId": 600,
+        "date": "2025-10-03",
+        "price": 1299,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=46353325883566",
+        "evidenceUrl": "https://web.archive.org/web/20251003154632id_/https://nutrabox.in/products/nutrabox-soy-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "46353325883566",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1540,
+      "observation": {
+        "category": "protein",
+        "offerId": 602,
+        "date": "2025-10-03",
+        "price": 1199,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=46353325949102",
+        "evidenceUrl": "https://web.archive.org/web/20251003154632id_/https://nutrabox.in/products/nutrabox-soy-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "46353325949102",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1541,
+      "observation": {
+        "category": "protein",
+        "offerId": 603,
+        "date": "2025-10-03",
+        "price": 1299,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=46353325916334",
+        "evidenceUrl": "https://web.archive.org/web/20251003154632id_/https://nutrabox.in/products/nutrabox-soy-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "46353325916334",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1542,
+      "observation": {
+        "category": "protein",
+        "offerId": 600,
+        "date": "2026-03-05",
+        "price": 1299,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=46353325883566",
+        "evidenceUrl": "https://web.archive.org/web/20260305114553id_/https://nutrabox.in/products/nutrabox-soy-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "46353325883566",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1543,
+      "observation": {
+        "category": "protein",
+        "offerId": 602,
+        "date": "2026-03-05",
+        "price": 1249,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=46353325949102",
+        "evidenceUrl": "https://web.archive.org/web/20260305114553id_/https://nutrabox.in/products/nutrabox-soy-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "46353325949102",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1544,
+      "observation": {
+        "category": "protein",
+        "offerId": 603,
+        "date": "2026-03-05",
+        "price": 1299,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=46353325916334",
+        "evidenceUrl": "https://web.archive.org/web/20260305114553id_/https://nutrabox.in/products/nutrabox-soy-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "46353325916334",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1545,
+      "observation": {
+        "category": "protein",
+        "offerId": 598,
+        "date": "2026-05-16",
+        "price": 1299,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=46353187897518",
+        "evidenceUrl": "https://web.archive.org/web/20260516114744id_/https://nutrabox.in/products/nutrabox-soy-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "46353187897518",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1546,
+      "observation": {
+        "category": "protein",
+        "offerId": 600,
+        "date": "2026-05-16",
+        "price": 1299,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=46353325883566",
+        "evidenceUrl": "https://web.archive.org/web/20260516114744id_/https://nutrabox.in/products/nutrabox-soy-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "46353325883566",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1547,
+      "observation": {
+        "category": "protein",
+        "offerId": 602,
+        "date": "2026-05-16",
+        "price": 1249,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=46353325949102",
+        "evidenceUrl": "https://web.archive.org/web/20260516114744id_/https://nutrabox.in/products/nutrabox-soy-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "46353325949102",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 1548,
+      "observation": {
+        "category": "protein",
+        "offerId": 603,
+        "date": "2026-05-16",
+        "price": 1299,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=46353325916334",
+        "evidenceUrl": "https://web.archive.org/web/20260516114744id_/https://nutrabox.in/products/nutrabox-soy-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "46353325916334",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 2786,
+      "observation": {
+        "category": "protein",
+        "offerId": 597,
+        "date": "2026-10-25",
+        "price": 1299,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=67597482229934",
+        "evidenceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "67597482229934"
+      }
+    },
+    {
+      "order": 2787,
+      "observation": {
+        "category": "protein",
+        "offerId": 598,
+        "date": "2026-10-25",
+        "price": 1299,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=46353187897518",
+        "evidenceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "46353187897518"
+      }
+    },
+    {
+      "order": 2788,
+      "observation": {
+        "category": "protein",
+        "offerId": 599,
+        "date": "2026-10-25",
+        "price": 1299,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=67604603732142",
+        "evidenceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "67604603732142"
+      }
+    },
+    {
+      "order": 2789,
+      "observation": {
+        "category": "protein",
+        "offerId": 600,
+        "date": "2026-10-25",
+        "price": 1299,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=46353325883566",
+        "evidenceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "46353325883566"
+      }
+    },
+    {
+      "order": 2790,
+      "observation": {
+        "category": "protein",
+        "offerId": 601,
+        "date": "2026-10-25",
+        "price": 1299,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=49343402868910",
+        "evidenceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "49343402868910"
+      }
+    },
+    {
+      "order": 2791,
+      "observation": {
+        "category": "protein",
+        "offerId": 602,
+        "date": "2026-10-25",
+        "price": 1249,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=46353325949102",
+        "evidenceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "46353325949102"
+      }
+    },
+    {
+      "order": 2792,
+      "observation": {
+        "category": "protein",
+        "offerId": 603,
+        "date": "2026-10-25",
+        "price": 1299,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=46353325916334",
+        "evidenceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate.json",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID",
+        "variantId": "46353325916334"
+      }
+    },
+    {
+      "order": 3516,
+      "observation": {
+        "category": "protein",
+        "offerId": 598,
+        "date": "2025-08-10",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=46353187897518",
+        "evidenceUrl": "https://web.archive.org/web/20250810130244id_/https://nutrabox.in/products/nutrabox-soy-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "46353187897518",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3517,
+      "observation": {
+        "category": "protein",
+        "offerId": 600,
+        "date": "2025-08-10",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=46353325883566",
+        "evidenceUrl": "https://web.archive.org/web/20250810130244id_/https://nutrabox.in/products/nutrabox-soy-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "46353325883566",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3518,
+      "observation": {
+        "category": "protein",
+        "offerId": 602,
+        "date": "2025-08-10",
+        "price": 1299,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=46353325949102",
+        "evidenceUrl": "https://web.archive.org/web/20250810130244id_/https://nutrabox.in/products/nutrabox-soy-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "46353325949102",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 3519,
+      "observation": {
+        "category": "protein",
+        "offerId": 603,
+        "date": "2025-08-10",
+        "price": 1399,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=46353325916334",
+        "evidenceUrl": "https://web.archive.org/web/20250810130244id_/https://nutrabox.in/products/nutrabox-soy-protein-isolate",
+        "kind": "official-archive",
+        "matchBasis": "Shopify exact embedded variant ID",
+        "variantId": "46353325916334",
+        "qualityStatus": "verified",
+        "exclusionReason": null
+      }
+    },
+    {
+      "order": 4644,
+      "observation": {
+        "category": "protein",
+        "offerId": 597,
+        "date": "2026-11-19",
+        "price": 1299,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=67597482229934",
+        "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "67597482229934"
+      }
+    },
+    {
+      "order": 4645,
+      "observation": {
+        "category": "protein",
+        "offerId": 598,
+        "date": "2026-11-19",
+        "price": 1299,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=46353187897518",
+        "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "46353187897518"
+      }
+    },
+    {
+      "order": 4646,
+      "observation": {
+        "category": "protein",
+        "offerId": 599,
+        "date": "2026-11-19",
+        "price": 1299,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=67604603732142",
+        "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "67604603732142"
+      }
+    },
+    {
+      "order": 4647,
+      "observation": {
+        "category": "protein",
+        "offerId": 600,
+        "date": "2026-11-19",
+        "price": 1299,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=46353325883566",
+        "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "46353325883566"
+      }
+    },
+    {
+      "order": 4648,
+      "observation": {
+        "category": "protein",
+        "offerId": 601,
+        "date": "2026-11-19",
+        "price": 1299,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=49343402868910",
+        "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "49343402868910"
+      }
+    },
+    {
+      "order": 4649,
+      "observation": {
+        "category": "protein",
+        "offerId": 602,
+        "date": "2026-11-19",
+        "price": 1249,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=46353325949102",
+        "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "46353325949102"
+      }
+    },
+    {
+      "order": 4650,
+      "observation": {
+        "category": "protein",
+        "offerId": 603,
+        "date": "2026-11-19",
+        "price": 1299,
+        "currency": "INR",
+        "sourceUrl": "https://nutrabox.in/products/nutrabox-soy-protein-isolate?variant=46353325916334",
+        "evidenceUrl": "https://nutrabox.in/products.json?limit=250&page=1",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify variant ID",
+        "variantId": "46353325916334"
+      }
+    }
+  ],
+  "refreshSources": []
+}

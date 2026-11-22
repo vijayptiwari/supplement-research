@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "order": 15,
+  "article": {
+    "id": "betaine-homocysteine-marker-versus-health",
+    "category": "betaine",
+    "series": "evidence-in-context",
+    "title": "Betaine lowers homocysteine. Does that make it a heart-health supplement?",
+    "summary": "A reproducible laboratory effect is not automatically a prevention benefit. Compare betaine's homocysteine findings, lipid results and specialist medical use before interpreting a methylation claim.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "The promise is unusually tidy: betaine supports methylation, methylation lowers homocysteine, and lower homocysteine should mean a healthier heart. The first steps have a sound biochemical basis and human trials can demonstrate a marker change. The last step is a separate clinical claim. Understanding that gap helps explain why betaine can be a legitimate specialist medicine in one setting, an uncertain fitness purchase in another, and still lack proof as a routine cardiovascular-prevention supplement for a healthy shopper. The most informative reading follows more than one marker and keeps the population and outcome attached to each study.",
+    "sections": [
+      {
+        "id": "what-methyl-donation-means",
+        "title": "Methyl donation describes a reaction, not a general health upgrade",
+        "body": "Betaine, also called trimethylglycine or TMG, can donate a methyl group in the reaction that converts homocysteine to methionine through the enzyme BHMT. That is a specific biochemical role, rather than a score for how well the entire body is methylating. Enzyme experiments help explain the pathway but do not tell a consumer that more substrate is needed. They also do not validate every outcome advertised on a TMG label. The first question for a clinical claim is whether the marker changes in people; the next is whether that change improves something that matters to them. A pathway image should make those questions easier to ask, rather than allow a chemical arrow to stand in for a successful prevention trial.",
+        "sourceIds": [
+          "betaine-bhmt",
+          "synth-betaine-homocysteine-olthof-2003"
+        ]
+      },
+      {
+        "id": "marker-effect-real",
+        "title": "The homocysteine effect is a genuine human finding",
+        "body": "A placebo-controlled study by Olthof and colleagues found that repeated betaine intake lowered fasting homocysteine in healthy adults, with a dose-related pattern across the regimens studied. This is more informative than a claim based solely on a cell experiment. It establishes an effect on the biochemical outcome over the study period. It does not show fewer heart attacks, strokes or deaths, because those were not the outcomes tested. The trial's experimental quantities and duration should not be turned into a personal dosing recommendation. A reader can accept the marker result without accepting an accompanying prevention promise. In fact, keeping the result narrow makes it more credible: betaine changed the measure the investigators set out to examine.",
+        "sourceIds": [
+          "synth-betaine-homocysteine-olthof-2003"
+        ]
+      },
+      {
+        "id": "lipids-complicate-story",
+        "title": "Another marker moved in a less favourable direction",
+        "body": "An analysis of randomized studies from the same research programme examined blood lipids as well as homocysteine. In the higher tested betaine regimen, LDL cholesterol and triglycerides increased relative to placebo over six weeks. This does not prove that every serving or duration produces the same change, or that the study demonstrated cardiovascular harm. It does undermine a one-marker definition of success. If a product lowers one risk-associated measure while increasing another, the net clinical effect cannot be read off the first result alone. The analysis also reused data from contributing trials, so it should not be counted as wholly independent replication of their homocysteine results. Its contribution is a broader view of what changed during exposure.",
+        "sourceIds": [
+          "synth-betaine-lipids-2005"
+        ]
+      },
+      {
+        "id": "active-men-short-trial",
+        "title": "A shorter active-men trial did not show the same lipid change",
+        "body": "A 2022 crossover study in physically active men examined betaine over three weeks. It reported a homocysteine reduction without clear changes in the measured lipid, inflammatory or liver-enzyme outcomes. This finding deserves to sit beside the earlier lipid result. Differences in participants, duration and exposure can change what is detected, and a null lipid result is not proof of lifelong safety. Neither study followed enough people for long enough to answer the cardiovascular-event question. The contrast is useful because it prevents two symmetrical overstatements: that betaine always worsens cholesterol, or that a short study with unchanged cholesterol establishes a heart-health benefit. The correct interpretation remains tied to the actual population, timescale and measured endpoints.",
+        "sourceIds": [
+          "synth-betaine-active-men-2022",
+          "synth-betaine-lipids-2005"
+        ]
+      },
+      {
+        "id": "surrogate-lesson-hope",
+        "title": "A different intervention provides a warning about surrogate reasoning",
+        "body": "HOPE-2 tested homocysteine-lowering B vitamins, not betaine, in 5,522 people with vascular disease or diabetes over about five years. The intervention lowered homocysteine but did not reduce the primary composite of major cardiovascular events. There were differences among individual outcomes, so the result should not be flattened into the claim that homocysteine can never matter. It does demonstrate why a marker reduction cannot by itself prove the desired overall clinical benefit. Because the ingredients and population differed, HOPE-2 is not direct evidence that betaine fails. It is a strong illustration of the missing test: the specific intervention needs relevant clinical outcomes, rather than borrowing certainty from an association and a successful blood test.",
+        "sourceIds": [
+          "synth-homocysteine-hope2-2006"
+        ]
+      },
+      {
+        "id": "medical-use-different",
+        "title": "Specialist treatment of homocystinuria is a different decision",
+        "body": "The EMA describes betaine anhydrous as a medicine used with other treatments for homocystinuria, a group of rare inherited disorders affecting homocysteine metabolism. This is not the same situation as a healthy person seeking a better fitness or heart-health score. The disease, baseline risk, monitoring and intended outcome change the benefit-risk calculation. Prescription-product evidence also cannot automatically validate every TMG powder in a marketplace. A useful guide should explain the legitimate clinical setting without using it as a halo for unrelated purchases. Anyone already receiving specialist treatment should follow that plan; a supplement article cannot substitute for disease-specific monitoring or suggest that an ordinary wellness stack can manage an inherited metabolic disorder.",
+        "sourceIds": [
+          "betaine-medical"
+        ]
+      },
+      {
+        "id": "separate-fitness-and-blood-test",
+        "title": "A fitness goal needs fitness outcomes, not a methylation story",
+        "body": "The sports evidence asks about strength, power, endurance or body composition. A lower homocysteine result cannot establish improvements in those outcomes, just as a favourable training result would not prove prevention of cardiovascular disease. Trial syntheses for betaine contain heterogeneous interventions and outcomes, making a universal performance claim difficult to justify. Keep the reason for considering it visible when reading a product label. If the goal is training performance, the supporting comparison should concern that performance and a relevant population. If the goal is an abnormal laboratory result, the next step is understanding the clinical context rather than treating the value as a target for a self-built supplement stack.",
+        "sourceIds": [
+          "betaine-meta",
+          "betaine-endurance",
+          "synth-betaine-active-men-2022",
+          "betaine-medical"
+        ]
+      },
+      {
+        "id": "what-evidence-would-help",
+        "title": "The value judgement depends on the outcome still missing",
+        "body": "A convincing prevention claim would need adequate follow-up, relevant participants and a clinical comparison that captures benefits and harms, rather than selecting a single favourable marker. Product transparency and accurate TMG amounts remain useful quality questions, but they cannot fill an efficacy gap. A buyer should also distinguish betaine anhydrous from betaine hydrochloride: an acidifying preparation studied for gastric conditions is not interchangeable evidence for a cardiovascular or training goal. The measured homocysteine effect gives betaine a real research story. It does not currently justify telling every reader to buy it for heart health. The informed decision is to keep a demonstrated biochemical action, a specialist medical use and an optional fitness purchase as separate questions.",
+        "sourceIds": [
+          "synth-betaine-homocysteine-olthof-2003",
+          "synth-betaine-lipids-2005",
+          "synth-homocysteine-hope2-2006",
+          "betaine-hcl-trial",
+          "supplement-quality-ods"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "betaine-bhmt",
+      "synth-betaine-homocysteine-olthof-2003",
+      "synth-betaine-lipids-2005",
+      "synth-betaine-active-men-2022",
+      "synth-homocysteine-hope2-2006",
+      "betaine-medical",
+      "betaine-meta",
+      "betaine-endurance",
+      "betaine-hcl-trial",
+      "supplement-quality-ods"
+    ],
+    "evidenceNotes": [
+      {
+        "finding": "Betaine lowered fasting homocysteine in a dose-related pattern in healthy volunteers.",
+        "sourceIds": [
+          "synth-betaine-homocysteine-olthof-2003"
+        ],
+        "design": "Randomized placebo-controlled supplementation study over six weeks.",
+        "population": "Healthy men and women.",
+        "outcome": "Fasting and methionine-load homocysteine responses.",
+        "limits": "Biochemical endpoints; no demonstration of fewer cardiovascular events."
+      },
+      {
+        "finding": "The higher tested betaine exposure increased LDL cholesterol and triglycerides in pooled trial data.",
+        "sourceIds": [
+          "synth-betaine-lipids-2005"
+        ],
+        "design": "Lipid analysis of four randomized nutrient trials, including three betaine studies.",
+        "population": "Healthy adult volunteers; 151 participants across the betaine studies.",
+        "outcome": "Blood lipids during short controlled interventions.",
+        "limits": "No clinical-event assessment; dose, duration and population constrain generalisation, and contributing data overlap earlier trials."
+      },
+      {
+        "finding": "A separate three-week active-men study reported lower homocysteine without clear lipid changes.",
+        "sourceIds": [
+          "synth-betaine-active-men-2022"
+        ],
+        "design": "Double-blind randomized placebo-controlled crossover trial.",
+        "population": "Physically active healthy adult men.",
+        "outcome": "Homocysteine, lipids, selected cytokines and liver enzymes.",
+        "limits": "Short exposure and selected population; does not establish cardiovascular prevention or long-term safety."
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "order": 63,
+  "article": {
+    "id": "beta-alanine-tingling-time",
+    "category": "beta-alanine",
+    "series": "practical-guides",
+    "title": "Beta-alanine: why tingling and a one-off scoop are poor success tests",
+    "summary": "Match the carnosine time course to the exercise question instead of judging the ingredient by an immediate feeling.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "A tingling sensation can be more memorable than a small change in a carefully controlled exercise test. That makes beta-alanine easy to misjudge: some users interpret strong tingling as proof of effectiveness, while others assume that no sensation means nothing happened. The research asks a different question about muscle carnosine and selected exercise outcomes over time. Understanding that distinction makes both the product claim and the decision to buy easier to evaluate.",
+    "sections": [
+      {
+        "id": "two-timescales",
+        "title": "The immediate sensation and the proposed performance pathway differ",
+        "body": "Beta-alanine can contribute to muscle carnosine formation. The supplementation rationale focuses on changing tissue carnosine through repeated exposure, whereas paraesthesia is a transient sensory effect. The two should not be used as interchangeable measurements. A person noticing tingling has not thereby measured muscle carnosine, and someone experiencing little sensation has not demonstrated treatment failure. A product whose main proof is how strongly it feels is answering a different question from a trial that measures tissue content and exercise performance over an appropriate period.",
+        "sourceIds": [
+          "beta-alanine-position",
+          "pe-ba-slow-release-2012"
+        ]
+      },
+      {
+        "id": "primary-trial",
+        "title": "Muscle measurements help explain the rationale",
+        "body": "In a controlled study, beta-alanine supplementation increased measured muscle carnosine and was associated with changes in a high-intensity cycling-capacity test. The study linked a tissue measurement to a defined exercise task; it was not a universal trial of every strength exercise or sporting event. The usefulness of that evidence depends on whether the intended activity resembles what was tested. It also does not prescribe a personal regimen or validate an occasional small contribution hidden within an otherwise unrelated pre-workout formula.",
+        "sourceIds": [
+          "pe-ba-carnosine-hill-2007"
+        ]
+      },
+      {
+        "id": "sport-specific",
+        "title": "A laboratory fatigue effect is not automatically a faster race",
+        "body": "A study in trained sprinters examined carnosine and repeated muscle-contraction performance, illustrating that laboratory fatigue outcomes and competition performance are different endpoints. Broader research similarly shows that task characteristics influence the answer. A gain in a capacity test should not be described as established improvement in every race, maximal lift or muscle-building programme. Read the actual exercise protocol rather than the sport pictured on the package. The relevant question is which limiting demands the task involved and whether the measured difference matters in practice.",
+        "sourceIds": [
+          "pe-ba-sprinters-2007",
+          "beta-alanine-meta"
+        ]
+      },
+      {
+        "id": "sensory-profile",
+        "title": "A less intense sensation can reflect a delivery difference",
+        "body": "A small trial comparing a solution with a slow-release preparation found altered absorption kinetics and fewer reported sensory symptoms with the tested tablet. It did not show that the quieter preparation was less effective or that more tingling improved performance. This is why sensation is a poor way to check content or compare products. A release-system claim still needs evidence for the actual preparation, and an unfamiliar symptom should not automatically be labelled harmless paraesthesia just because beta-alanine appears somewhere in the ingredient list.",
+        "sourceIds": [
+          "pe-ba-slow-release-2012"
+        ]
+      },
+      {
+        "id": "blend-exposure",
+        "title": "A pre-workout contribution may not match the research exposure",
+        "body": "An ingredient can appear on a blend label without the amount or pattern of use matching studies of that ingredient. Beta-alanine provides a useful example because repeated exposure is central to the carnosine question, while a pre-workout may be taken only occasionally. Do not assume a familiar name or a noticeable feeling resolves that mismatch. First identify the full-serving beta-alanine declaration and any other products already supplying it. Missing quantities should remain visible gaps rather than being replaced with a standard assumed amount.",
+        "sourceIds": [
+          "preworkout-review",
+          "beta-alanine-position",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "safety-context",
+        "title": "Studied tolerability is not unlimited safety",
+        "body": "Safety assessments of available research provide information about the exposures and populations actually studied. They cannot establish every long-term pattern of use or every medical context. The absence of a dramatic symptom does not certify safety, just as a mild sensation does not certify benefit. Review medicines, relevant conditions and other ingredients separately. Do not increase an uncertain mixture solely to restore a sensation that has become less noticeable. A product assessment should keep composition, tolerability and meaningful performance outcomes as separate questions throughout the decision.",
+        "sourceIds": [
+          "beta-alanine-safety",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "relevant-value",
+        "title": "Decide whether the specific potential benefit matters enough",
+        "body": "A useful decision starts with the intended activity and the quality of evidence for that task. Then consider whether a transparent product and its cost fit that limited purpose. Beta-alanine is not an automatic requirement for everyone who exercises, and an impressive tingle cannot turn weak task relevance into good value. Training, ordinary nutrition and recovery remain part of the context. Buying a simpler formulation, reassessing an existing blend or deciding against another supplement can be more reasoned outcomes than treating every workout sensation as a sign to purchase more.",
+        "sourceIds": [
+          "beta-alanine-meta",
+          "supplement-quality-ods",
+          "exercise"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "beta-alanine-position",
+      "pe-ba-slow-release-2012",
+      "pe-ba-carnosine-hill-2007",
+      "pe-ba-sprinters-2007",
+      "beta-alanine-meta",
+      "preworkout-review",
+      "supplement-quality-ods",
+      "beta-alanine-safety",
+      "exercise"
+    ]
+  }
+}

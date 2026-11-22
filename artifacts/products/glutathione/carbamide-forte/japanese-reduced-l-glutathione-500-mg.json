@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "category": "glutathione",
+  "brand": "Carbamide Forte",
+  "product": "Japanese Reduced L-Glutathione 500 mg",
+  "variants": [
+    {
+      "order": 2,
+      "offer": {
+        "brand": "Carbamide Forte",
+        "product": "Japanese Reduced L-Glutathione 500 mg",
+        "form": "Tablet",
+        "type": "Reduced L-glutathione",
+        "subclass": "Multi-ingredient blend",
+        "packCount": 30,
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official exact product listing and declared count. Only explicitly verified serving quantities are used.",
+        "notes": "Headline strength is 500 mg. The per-tablet composition and label serving basis were not verified; active-content cost is withheld.",
+        "labelChecked": "2026-10-31",
+        "glutathioneMg": null,
+        "id": "glutathione-42541528809585",
+        "price": 594,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://mycf.in/products/carbamide-forte-japanese-reduced-l-glutathione-tablets-500mg-with-vitamin-c-from-amla-extract-glutathione-with-hyaluronic-acid-vitamin-e-lycopene-biotin-30-veg-tablets-each?variant=42541528809585",
+        "nutritionUrl": "https://mycf.in/products/carbamide-forte-japanese-reduced-l-glutathione-tablets-500mg-with-vitamin-c-from-amla-extract-glutathione-with-hyaluronic-acid-vitamin-e-lycopene-biotin-30-veg-tablets-each",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://mycf.in/products/carbamide-forte-japanese-reduced-l-glutathione-tablets-500mg-with-vitamin-c-from-amla-extract-glutathione-with-hyaluronic-acid-vitamin-e-lycopene-biotin-30-veg-tablets-each?variant=42541528809585",
+          "evidenceUrl": "https://mycf.in/products/carbamide-forte-japanese-reduced-l-glutathione-tablets-500mg-with-vitamin-c-from-amla-extract-glutathione-with-hyaluronic-acid-vitamin-e-lycopene-biotin-30-veg-tablets-each.json",
+          "matchBasis": "Official public Shopify product; exact variant ID 42541528809585 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3747,
+      "observation": {
+        "category": "glutathione",
+        "offerId": "glutathione-42541528809585",
+        "date": "2026-10-29",
+        "price": 594,
+        "currency": "INR",
+        "sourceUrl": "https://mycf.in/products/carbamide-forte-japanese-reduced-l-glutathione-tablets-500mg-with-vitamin-c-from-amla-extract-glutathione-with-hyaluronic-acid-vitamin-e-lycopene-biotin-30-veg-tablets-each?variant=42541528809585",
+        "evidenceUrl": "https://mycf.in/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "42541528809585"
+      }
+    },
+    {
+      "order": 3870,
+      "observation": {
+        "category": "glutathione",
+        "offerId": "glutathione-42541528809585",
+        "date": "2026-11-19",
+        "price": 594,
+        "currency": "INR",
+        "sourceUrl": "https://mycf.in/products/carbamide-forte-japanese-reduced-l-glutathione-tablets-500mg-with-vitamin-c-from-amla-extract-glutathione-with-hyaluronic-acid-vitamin-e-lycopene-biotin-30-veg-tablets-each?variant=42541528809585",
+        "evidenceUrl": "https://mycf.in/products/carbamide-forte-japanese-reduced-l-glutathione-tablets-500mg-with-vitamin-c-from-amla-extract-glutathione-with-hyaluronic-acid-vitamin-e-lycopene-biotin-30-veg-tablets-each.json",
+        "kind": "official-live",
+        "variantId": "42541528809585",
+        "matchBasis": "Official public Shopify product; exact variant ID 42541528809585 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 37,
+      "profile": {
+        "category": "glutathione",
+        "brand": "Carbamide Forte",
+        "base": "https://mycf.in",
+        "handle": "carbamide-forte-japanese-reduced-l-glutathione-tablets-500mg-with-vitamin-c-from-amla-extract-glutathione-with-hyaluronic-acid-vitamin-e-lycopene-biotin-30-veg-tablets-each",
+        "product": "Japanese Reduced L-Glutathione 500 mg",
+        "form": "Tablet",
+        "type": "Reduced L-glutathione",
+        "subclass": "Multi-ingredient blend",
+        "packCount": 30,
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official exact product listing and declared count. Only explicitly verified serving quantities are used.",
+        "notes": "Headline strength is 500 mg. The per-tablet composition and label serving basis were not verified; active-content cost is withheld.",
+        "labelChecked": "2026-10-31",
+        "glutathioneMg": null,
+        "variantTitles": [
+          "Pack of 1"
+        ]
+      }
+    }
+  ]
+}

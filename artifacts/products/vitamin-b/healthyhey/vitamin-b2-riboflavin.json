@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "category": "vitamin-b",
+  "brand": "HealthyHey",
+  "product": "Vitamin B2 Riboflavin",
+  "variants": [
+    {
+      "order": 2,
+      "offer": {
+        "brand": "HealthyHey",
+        "product": "Vitamin B2 Riboflavin",
+        "form": "Capsule",
+        "type": "Riboflavin (B2)",
+        "subclass": "Individual B vitamin",
+        "packCount": 120,
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official listing states 120 capsules and one capsule daily; the amount of riboflavin per capsule remains unverified.",
+        "notes": "Recorded manufacturer label claims are not independent batch testing. Price and stock retain the dated 2026-10-29 official-feed observation.",
+        "labelChecked": "2026-10-31",
+        "declaredNutrients": [
+          "vitaminB2Mg"
+        ],
+        "flavour": "Unflavoured",
+        "vitaminB1Mg": null,
+        "vitaminB2Mg": null,
+        "vitaminB3Mg": null,
+        "vitaminB5Mg": null,
+        "vitaminB6Mg": null,
+        "biotinMcg": null,
+        "vitaminB12Mcg": null,
+        "folicAcidMcg": null,
+        "folateMcgDfe": null,
+        "methylfolateMcg": null,
+        "id": "vitamin-b-44683850088733",
+        "price": 599,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-b2-riboflavin-120-veg-capsules?variant=44683850088733",
+        "nutritionUrl": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-b2-riboflavin-120-veg-capsules",
+        "packaging": "Single retail pack",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-b2-riboflavin-120-veg-capsules?variant=44683850088733",
+          "evidenceUrl": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-b2-riboflavin-120-veg-capsules.json",
+          "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3782,
+      "observation": {
+        "category": "vitamin-b",
+        "offerId": "vitamin-b-44683850088733",
+        "date": "2026-10-29",
+        "price": 559,
+        "currency": "INR",
+        "sourceUrl": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-b2-riboflavin-120-veg-capsules?variant=44683850088733",
+        "evidenceUrl": "https://healthyhey.com/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Exact official Shopify product variant ID, price and single retail-pack count verified; quantities come from separately cited label evidence.",
+        "variantId": "44683850088733"
+      }
+    },
+    {
+      "order": 3938,
+      "observation": {
+        "category": "vitamin-b",
+        "offerId": "vitamin-b-44683850088733",
+        "date": "2026-11-19",
+        "price": 599,
+        "currency": "INR",
+        "sourceUrl": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-b2-riboflavin-120-veg-capsules?variant=44683850088733",
+        "evidenceUrl": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-b2-riboflavin-120-veg-capsules.json",
+        "kind": "official-live",
+        "variantId": "44683850088733",
+        "matchBasis": "Official exact Shopify variant ID; JSON price in INR cross-checked against product.js paise price and explicit stock flag."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 66,
+      "profile": {
+        "category": "vitamin-b",
+        "brand": "HealthyHey",
+        "base": "https://healthyhey.com",
+        "handle": "healthyhey-nutrition-vitamin-b2-riboflavin-120-veg-capsules",
+        "product": "Vitamin B2 Riboflavin",
+        "form": "Capsule",
+        "type": "Riboflavin (B2)",
+        "subclass": "Individual B vitamin",
+        "packCount": 120,
+        "servingUnits": 1,
+        "source": "Not specified",
+        "basis": "Official listing states 120 capsules and one capsule daily; the amount of riboflavin per capsule remains unverified.",
+        "notes": "Recorded manufacturer label claims are not independent batch testing.",
+        "labelChecked": "2026-10-31",
+        "declaredNutrients": [
+          "vitaminB2Mg"
+        ],
+        "flavour": "Unflavoured",
+        "vitaminB1Mg": null,
+        "vitaminB2Mg": null,
+        "vitaminB3Mg": null,
+        "vitaminB5Mg": null,
+        "vitaminB6Mg": null,
+        "biotinMcg": null,
+        "vitaminB12Mcg": null,
+        "folicAcidMcg": null,
+        "folateMcgDfe": null,
+        "methylfolateMcg": null
+      }
+    }
+  ]
+}

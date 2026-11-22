@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "category": "fish-oil",
+  "brand": "Swisse",
+  "product": "Odourless Wild Fish Oil 1000 mg",
+  "variants": [
+    {
+      "order": 11,
+      "offer": {
+        "brand": "Swisse",
+        "product": "Odourless Wild Fish Oil 1000 mg",
+        "form": "Softgel",
+        "type": "Fish oil (form not verified)",
+        "subclass": "Odourless fish oil",
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official product listing; only explicitly verified label amounts are recorded.",
+        "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities.",
+        "id": "fish-oil-44004510105785",
+        "packCount": 200,
+        "price": 2067,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://swisse.co.in/products/swisse-ultiboost-odourless-high-strength-wild-fish-oil-omega-3-1000mg?variant=44004510105785",
+        "nutritionUrl": "https://swisse.co.in/products/swisse-ultiboost-odourless-high-strength-wild-fish-oil-omega-3-1000mg",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-10-29",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://swisse.co.in/products/swisse-ultiboost-odourless-high-strength-wild-fish-oil-omega-3-1000mg?variant=44004510105785",
+          "evidenceUrl": "https://swisse.co.in/products/swisse-ultiboost-odourless-high-strength-wild-fish-oil-omega-3-1000mg.json",
+          "matchBasis": "Official public Shopify product; exact variant ID 44004510105785 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+        }
+      }
+    },
+    {
+      "order": 12,
+      "offer": {
+        "brand": "Swisse",
+        "product": "Odourless Wild Fish Oil 1000 mg",
+        "form": "Softgel",
+        "type": "Fish oil (form not verified)",
+        "subclass": "Odourless fish oil",
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official product listing; only explicitly verified label amounts are recorded.",
+        "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities.",
+        "id": "fish-oil-44004510138553",
+        "packCount": 150,
+        "price": 1979,
+        "currency": "INR",
+        "stock": "Sold out",
+        "url": "https://swisse.co.in/products/swisse-ultiboost-odourless-high-strength-wild-fish-oil-omega-3-1000mg?variant=44004510138553",
+        "nutritionUrl": "https://swisse.co.in/products/swisse-ultiboost-odourless-high-strength-wild-fish-oil-omega-3-1000mg",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "labelChecked": "2026-10-29",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://swisse.co.in/products/swisse-ultiboost-odourless-high-strength-wild-fish-oil-omega-3-1000mg?variant=44004510138553",
+          "evidenceUrl": "https://swisse.co.in/products/swisse-ultiboost-odourless-high-strength-wild-fish-oil-omega-3-1000mg.json",
+          "matchBasis": "Official public Shopify product; exact variant ID 44004510138553 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3714,
+      "observation": {
+        "category": "fish-oil",
+        "offerId": "fish-oil-44004510105785",
+        "date": "2026-10-29",
+        "price": 1997,
+        "currency": "INR",
+        "sourceUrl": "https://swisse.co.in/products/swisse-ultiboost-odourless-high-strength-wild-fish-oil-omega-3-1000mg?variant=44004510105785",
+        "evidenceUrl": "https://swisse.co.in/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "44004510105785"
+      }
+    },
+    {
+      "order": 3715,
+      "observation": {
+        "category": "fish-oil",
+        "offerId": "fish-oil-44004510138553",
+        "date": "2026-10-29",
+        "price": 1979,
+        "currency": "INR",
+        "sourceUrl": "https://swisse.co.in/products/swisse-ultiboost-odourless-high-strength-wild-fish-oil-omega-3-1000mg?variant=44004510138553",
+        "evidenceUrl": "https://swisse.co.in/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Official Shopify exact variant ID; single-pack count verified",
+        "variantId": "44004510138553"
+      }
+    },
+    {
+      "order": 3865,
+      "observation": {
+        "category": "fish-oil",
+        "offerId": "fish-oil-44004510105785",
+        "date": "2026-11-19",
+        "price": 2067,
+        "currency": "INR",
+        "sourceUrl": "https://swisse.co.in/products/swisse-ultiboost-odourless-high-strength-wild-fish-oil-omega-3-1000mg?variant=44004510105785",
+        "evidenceUrl": "https://swisse.co.in/products/swisse-ultiboost-odourless-high-strength-wild-fish-oil-omega-3-1000mg.json",
+        "kind": "official-live",
+        "variantId": "44004510105785",
+        "matchBasis": "Official public Shopify product; exact variant ID 44004510105785 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+      }
+    },
+    {
+      "order": 3866,
+      "observation": {
+        "category": "fish-oil",
+        "offerId": "fish-oil-44004510138553",
+        "date": "2026-11-19",
+        "price": 1979,
+        "currency": "INR",
+        "sourceUrl": "https://swisse.co.in/products/swisse-ultiboost-odourless-high-strength-wild-fish-oil-omega-3-1000mg?variant=44004510138553",
+        "evidenceUrl": "https://swisse.co.in/products/swisse-ultiboost-odourless-high-strength-wild-fish-oil-omega-3-1000mg.json",
+        "kind": "official-live",
+        "variantId": "44004510138553",
+        "matchBasis": "Official public Shopify product; exact variant ID 44004510138553 matched; unconditional listed price and stock, not coupon or subscription. Label profile not refreshed by this price-only check."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 14,
+      "profile": {
+        "category": "fish-oil",
+        "brand": "Swisse",
+        "base": "https://swisse.co.in",
+        "handle": "swisse-ultiboost-odourless-high-strength-wild-fish-oil-omega-3-1000mg",
+        "product": "Odourless Wild Fish Oil 1000 mg",
+        "form": "Softgel",
+        "type": "Fish oil (form not verified)",
+        "subclass": "Odourless fish oil",
+        "servingUnits": null,
+        "source": "Not specified",
+        "basis": "Official product listing; only explicitly verified label amounts are recorded.",
+        "notes": "Unverified nutrient amounts remain unknown; costs use only declared quantities."
+      }
+    }
+  ]
+}

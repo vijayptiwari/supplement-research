@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "order": 36,
+  "article": {
+    "id": "folate-folic-acid-methylfolate-labels",
+    "category": "folic-acid",
+    "series": "practical-guides",
+    "title": "Folic acid, methylfolate and DFE: three label questions before comparing price",
+    "summary": "Understand the ingredient, the nutrient-equivalent unit and the evidence for a particular purpose without inventing a universal form hierarchy.",
+    "author": "Supplement Research editorial synthesis",
+    "reviewed": "2026-11-18",
+    "intro": "Folate labels can place micrograms of an ingredient beside dietary folate equivalents, active-form terminology and large percentage values. These are not all descriptions of the same mass. Confusing them can distort both price comparisons and advice about a clinically important nutrient. The useful sequence is to identify what the product contains, how the amount is expressed and which purpose the evidence actually supports. That sequence is more informative than choosing the form with the most sophisticated name or the largest front-panel number.",
+    "sections": [
+      {
+        "id": "names",
+        "title": "Folate is the wider nutrient term",
+        "body": "Folate describes vitamin B9 forms found in foods and used in supplements or fortification. Folic acid is a particular form, while 5-MTHF or methylfolate describes another preparation. A generic folate headline therefore does not establish which ingredient is present. Read the actual declaration and keep the chemical name with the amount. This matters when comparing trial evidence, interpreting a prevention recommendation or deciding whether two products can be assessed on the same price basis. A shared vitamin number is not enough information.",
+        "sourceIds": [
+          "folate-overview"
+        ]
+      },
+      {
+        "id": "dfe",
+        "title": "Dietary folate equivalents are a reference basis, not a new ingredient",
+        "body": "DFE accounts for differences in the availability of food folate and folic acid under specified conditions. It should not be read as extra ingredient mass added to the micrograms already declared. Context matters to the conversion, and established conversion factors for supplemental methylfolate are not supplied in the same way by NIH guidance. When the basis is unclear, keep both the original declaration and the uncertainty. A precise cost calculation is not useful if its denominator silently changes from ingredient mass to a different nutritional reference.",
+        "sourceIds": [
+          "folate-overview"
+        ]
+      },
+      {
+        "id": "prevention",
+        "title": "The strongest prevention evidence attaches to folic acid",
+        "body": "CDC identifies folic acid as the form shown in studies to help prevent neural tube defects. That evidence supports a specific public-health recommendation; it should not be replaced casually by a general active-form superiority slogan. The finding does not make every other folate preparation useless for every purpose. It means that the indication, tested form and recommendation need to remain linked. A label comparison should preserve that distinction rather than treating all forms as automatically interchangeable because they contribute to folate biology.",
+        "sourceIds": [
+          "folate-prevention"
+        ]
+      },
+      {
+        "id": "mthfr",
+        "title": "A common MTHFR variant is not a reason to declare folic acid unusable",
+        "body": "CDC explains that people with common MTHFR variants can process folic acid and that these variants are not a reason to avoid it. Rare metabolic disorders are a different clinical subject. A consumer genetic result should not automatically become a prescription for the most expensive methyl-labelled product. If a result raises a genuine concern, discuss its meaning in context rather than assuming a marketing explanation has established a personal defect, a dose requirement or a reason to ignore established prevention advice.",
+        "sourceIds": [
+          "nutrients-folate-mthfr-cdc"
+        ]
+      },
+      {
+        "id": "methyl",
+        "title": "Methylfolate still needs an indication and a clear amount",
+        "body": "A preparation's place in a metabolic pathway can be biologically relevant without proving superior outcomes for every buyer. Ask which population, outcome and formulation support the claim being sold. The word methylated does not eliminate the need to read the serving, review other folate sources or consider B12-related issues. A particular clinical plan may appropriately specify a form; a generic retail ranking cannot replace that decision. Keep a mechanistic advantage proposed by a manufacturer separate from a demonstrated benefit for the intended use.",
+        "sourceIds": [
+          "folate-overview",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "b12",
+        "title": "Folate and B12 should not be treated as isolated anaemia shortcuts",
+        "body": "Large folic acid amounts can correct the anaemia associated with B12 deficiency while neurological injury remains unaddressed. This is a reason to assess the nutritional problem appropriately, not a reason to assume everyone needs a combined high-strength product. Symptoms and blood results require clinical interpretation. A buyer who is already using folate should disclose it during assessment, particularly if B12 deficiency or neurological changes are being considered. Improving a laboratory feature is not the same as resolving its underlying cause.",
+        "sourceIds": [
+          "folate-overview",
+          "b12-overview"
+        ]
+      },
+      {
+        "id": "overlap",
+        "title": "Read fortification and combination products separately",
+        "body": "A multivitamin, B-complex and pregnancy-oriented product may each contribute folate, while some foods are fortified. The form and reporting basis may differ. Do not add DFE, folic acid mass and methylfolate mass as though each were an independent quantity on one simple scale. Likewise, do not assume US fortification practices describe every Indian food. Preserve the actual label information and ask for professional interpretation where a total is clinically important. Unknown contributions should remain visible rather than becoming an artificially tidy number.",
+        "sourceIds": [
+          "folate-overview",
+          "supplement-quality-ods"
+        ]
+      },
+      {
+        "id": "price",
+        "title": "Compare like labels for a clearly stated purpose",
+        "body": "A meaningful price comparison begins with ingredient identity, full serving and verified amount. It then asks whether that preparation fits the intended nutritional or clinical purpose. The lowest cost per declared microgram does not identify the appropriate regimen, and a premium form name does not establish that a different amount produces an equivalent outcome. When the label basis cannot be resolved, report the limitation instead of manufacturing a potency ranking. Better understanding can lead to a targeted purchase, a professional discussion or no additional supplement.",
+        "sourceIds": [
+          "supplement-quality-ods",
+          "folate-overview"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "folate-overview",
+      "folate-prevention",
+      "nutrients-folate-mthfr-cdc",
+      "supplement-quality-ods",
+      "b12-overview"
+    ]
+  }
+}

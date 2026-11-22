@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "category": "l-arginine",
+  "brand": "HealthyHey",
+  "product": "L-Arginine 500 mg",
+  "variants": [
+    {
+      "order": 6,
+      "offer": {
+        "brand": "HealthyHey",
+        "product": "L-Arginine 500 mg",
+        "form": "Capsule",
+        "type": "L-arginine",
+        "subclass": "Single amino acid",
+        "source": "Not specified",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "basis": "Official supplement facts specify one vegetarian capsule and 500 mg L-arginine; selected retail pack contains 120 capsules.",
+        "notes": "Manufacturer label quantities do not establish independent batch purity or clinical benefit.",
+        "labelChecked": "2026-11-17",
+        "packCount": 120,
+        "servingUnits": 1,
+        "arginineMg": 500,
+        "energyPerServing": null,
+        "labelSources": [
+          "https://healthyhey.com/products/l-arginine-500mg-120-vegetable-capsules"
+        ],
+        "id": "l-arginine-44640789561629",
+        "price": 709,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://healthyhey.com/products/l-arginine-500mg-120-vegetable-capsules?variant=44640789561629",
+        "nutritionUrl": "https://healthyhey.com/products/l-arginine-500mg-120-vegetable-capsules",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://healthyhey.com/products/l-arginine-500mg-120-vegetable-capsules?variant=44640789561629",
+          "evidenceUrl": "https://healthyhey.com/products/l-arginine-500mg-120-vegetable-capsules.json",
+          "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3801,
+      "observation": {
+        "category": "l-arginine",
+        "offerId": "l-arginine-44640789561629",
+        "date": "2026-11-17",
+        "price": 659,
+        "currency": "INR",
+        "sourceUrl": "https://healthyhey.com/products/l-arginine-500mg-120-vegetable-capsules?variant=44640789561629",
+        "evidenceUrl": "https://healthyhey.com/products.json?limit=250",
+        "kind": "official-live",
+        "matchBasis": "Directly fetched official Shopify feed; exact variant ID, flavour and single retail pack verified against official product page. Conditional discounts excluded.",
+        "variantId": "44640789561629"
+      }
+    },
+    {
+      "order": 3995,
+      "observation": {
+        "category": "l-arginine",
+        "offerId": "l-arginine-44640789561629",
+        "date": "2026-11-19",
+        "price": 709,
+        "currency": "INR",
+        "sourceUrl": "https://healthyhey.com/products/l-arginine-500mg-120-vegetable-capsules?variant=44640789561629",
+        "evidenceUrl": "https://healthyhey.com/products/l-arginine-500mg-120-vegetable-capsules.json",
+        "kind": "official-live",
+        "variantId": "44640789561629",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 85,
+      "profile": {
+        "category": "l-arginine",
+        "brand": "HealthyHey",
+        "base": "https://healthyhey.com",
+        "handle": "l-arginine-500mg-120-vegetable-capsules",
+        "product": "L-Arginine 500 mg",
+        "form": "Capsule",
+        "type": "L-arginine",
+        "subclass": "Single amino acid",
+        "source": "Not specified",
+        "flavour": "Unflavoured",
+        "packaging": "Single retail pack",
+        "basis": "Official supplement facts specify one vegetarian capsule and 500 mg L-arginine; selected retail pack contains 120 capsules.",
+        "notes": "Manufacturer label quantities do not establish independent batch purity or clinical benefit.",
+        "labelChecked": "2026-11-17",
+        "variantIds": [
+          "44640789561629"
+        ],
+        "packCount": 120,
+        "servingUnits": 1,
+        "arginineMg": 500,
+        "energyPerServing": null,
+        "labelSources": [
+          "https://healthyhey.com/products/l-arginine-500mg-120-vegetable-capsules"
+        ]
+      }
+    }
+  ]
+}

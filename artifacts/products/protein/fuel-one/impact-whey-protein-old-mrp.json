@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "Fuel One",
+  "product": "Impact Whey Protein (Old MRP)",
+  "variants": [
+    {
+      "order": 756,
+      "offer": {
+        "id": 756,
+        "brand": "Fuel One",
+        "product": "Impact Whey Protein (Old MRP)",
+        "type": "Whey + fermented yeast",
+        "flavour": "Chocolate",
+        "kg": 1,
+        "price": 1449,
+        "stock": "Sold out",
+        "protein": 50,
+        "scoop": 45,
+        "serving": 45,
+        "subclass": "Mixed source (whey + yeast)",
+        "energy": 382.44,
+        "url": "https://www.fuelone.in/sv/fuel-one-impact-whey-protein-old-mrp/SP-144199?navKey=VRNT-293197",
+        "nutritionUrl": "https://www.fuelone.in/sv/fuel-one-impact-whey-protein-old-mrp/SP-144199?navKey=VRNT-293197",
+        "basis": "Exact variant nutrition table, protein per 100g",
+        "notes": "Stock not independently confirmed; offer listed on official page. Scoop/serving size as stated by brand; level/heaped measures may differ.",
+        "energyBasis": "Exact page nutrition table, stated kcal per 100g",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.fuelone.in/sv/fuel-one-impact-whey-protein-old-mrp/SP-144199?navKey=VRNT-293197",
+          "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-impact-whey-protein-old-mrp/SP-144199?navKey=VRNT-293197",
+          "matchBasis": "Official selected product schema SKU matches exact navigation key"
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 2945,
+      "observation": {
+        "category": "protein",
+        "offerId": 756,
+        "date": "2026-10-25",
+        "price": 1439,
+        "currency": "INR",
+        "sourceUrl": "https://www.fuelone.in/sv/fuel-one-impact-whey-protein-old-mrp/SP-144199?navKey=VRNT-293197",
+        "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-impact-whey-protein-old-mrp/SP-144199?navKey=VRNT-293197",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": "VRNT-293197"
+      }
+    },
+    {
+      "order": 4803,
+      "observation": {
+        "category": "protein",
+        "offerId": 756,
+        "date": "2026-11-19",
+        "price": 1449,
+        "currency": "INR",
+        "sourceUrl": "https://www.fuelone.in/sv/fuel-one-impact-whey-protein-old-mrp/SP-144199?navKey=VRNT-293197",
+        "evidenceUrl": "https://www.fuelone.in/sv/fuel-one-impact-whey-protein-old-mrp/SP-144199?navKey=VRNT-293197",
+        "kind": "official-live",
+        "matchBasis": "Official selected product schema SKU matches exact navigation key",
+        "variantId": "VRNT-293197"
+      }
+    }
+  ],
+  "refreshSources": []
+}

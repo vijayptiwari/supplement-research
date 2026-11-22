@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "category": "pre-workout",
+  "brand": "Carbamide Forte",
+  "product": "Pre Workout — Cola",
+  "variants": [
+    {
+      "order": 3,
+      "offer": {
+        "brand": "Carbamide Forte",
+        "product": "Pre Workout — Cola",
+        "form": "Powder",
+        "type": "Caffeinated multi-ingredient",
+        "subclass": "Amino acids + creatine + botanicals",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "packCount": null,
+        "servingUnits": null,
+        "servingGrams": 5,
+        "labelChecked": "2026-11-17",
+        "basis": "Official Cola label has 5 g and 10 g serving columns. The 5 g column is recorded: 100 mg caffeine anhydrous, 1 g citrulline, 1 g beta-alanine, 250 mg creatine monohydrate, 500 mg taurine and 4.34 kcal.",
+        "notes": "Uses the 5 g label serving, not the doubled 10 g column. Green tea catechin extract 100 mg is also present; total caffeine is not inferred from caffeine anhydrous alone. Labelled arginine HCl is 500 mg compound mass, so a free-arginine quantity is withheld. Creatine refers to the labelled monohydrate compound, not a free-creatine equivalent.",
+        "grams": 200,
+        "flavour": "Cola",
+        "caffeineMg": null,
+        "caffeineAnhydrousMg": 100,
+        "citrullineMg": 1000,
+        "citrullineMalateMg": null,
+        "betaAlanineMg": 1000,
+        "creatineMg": 250,
+        "arginineMg": null,
+        "taurineMg": 500,
+        "energyPerServing": 4.34,
+        "stimulantStatus": "Contains caffeine",
+        "declaredNutrients": [
+          "caffeineMg",
+          "caffeineAnhydrousMg",
+          "citrullineMg",
+          "betaAlanineMg",
+          "creatineMg",
+          "arginineMg",
+          "taurineMg",
+          "arginineCompoundMg"
+        ],
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B0BMWZCHDD.PT08.jpg?v=1788179477",
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/CF_L-Pre_Workout_Powder_200g_Cola_2_1.jpg?v=1747992459",
+          "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B0BMWZCHDD.PT08.jpg?v=1788179477"
+        ],
+        "id": "pre-workout-42703493562481",
+        "price": 599,
+        "currency": "INR",
+        "stock": "Listed; confirm stock",
+        "url": "https://mycf.in/products/carbamide-forte-pre-workout-powder-for-men-women-with-taurine-creatine-monohydrate-pre-workout-supplements-for-energy-focus-strength-cola-flavour-200g?variant=42703493562481",
+        "arginineCompoundMg": 500,
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://mycf.in/products/carbamide-forte-pre-workout-powder-for-men-women-with-taurine-creatine-monohydrate-pre-workout-supplements-for-energy-focus-strength-cola-flavour-200g?variant=42703493562481",
+          "evidenceUrl": "https://mycf.in/products/carbamide-forte-pre-workout-powder-for-men-women-with-taurine-creatine-monohydrate-pre-workout-supplements-for-energy-focus-strength-cola-flavour-200g.json",
+          "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 3824,
+      "observation": {
+        "category": "pre-workout",
+        "offerId": "pre-workout-42703493562481",
+        "date": "2026-11-17",
+        "price": 599,
+        "currency": "INR",
+        "sourceUrl": "https://mycf.in/products/carbamide-forte-pre-workout-powder-for-men-women-with-taurine-creatine-monohydrate-pre-workout-supplements-for-energy-focus-strength-cola-flavour-200g?variant=42703493562481",
+        "evidenceUrl": "https://mycf.in/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "42703493562481",
+        "matchBasis": "Official Shopify public feed fetched 2026-11-17; exact variant ID, unconditional single-pack price, size/flavour and availability matched."
+      }
+    },
+    {
+      "order": 4018,
+      "observation": {
+        "category": "pre-workout",
+        "offerId": "pre-workout-42703493562481",
+        "date": "2026-11-19",
+        "price": 599,
+        "currency": "INR",
+        "sourceUrl": "https://mycf.in/products/carbamide-forte-pre-workout-powder-for-men-women-with-taurine-creatine-monohydrate-pre-workout-supplements-for-energy-focus-strength-cola-flavour-200g?variant=42703493562481",
+        "evidenceUrl": "https://mycf.in/products/carbamide-forte-pre-workout-powder-for-men-women-with-taurine-creatine-monohydrate-pre-workout-supplements-for-energy-focus-strength-cola-flavour-200g.json",
+        "kind": "official-live",
+        "variantId": "42703493562481",
+        "matchBasis": "Official public product data fetched 2026-11-19; exact variant ID matched; unconditional listed single-pack price and variant stock. Label values retain their separately recorded verification date."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 108,
+      "profile": {
+        "category": "pre-workout",
+        "brand": "Carbamide Forte",
+        "base": "https://mycf.in",
+        "handle": "carbamide-forte-pre-workout-powder-for-men-women-with-taurine-creatine-monohydrate-pre-workout-supplements-for-energy-focus-strength-cola-flavour-200g",
+        "product": "Pre Workout â€” Cola",
+        "form": "Powder",
+        "type": "Caffeinated multi-ingredient",
+        "subclass": "Amino acids + creatine + botanicals",
+        "source": "Not specified",
+        "packaging": "Single retail pack",
+        "packCount": null,
+        "servingUnits": null,
+        "servingGrams": 5,
+        "labelChecked": "2026-11-17",
+        "variantIds": [
+          "42703493562481"
+        ],
+        "basis": "Official Cola label has 5 g and 10 g serving columns. The 5 g column is recorded: 100 mg caffeine anhydrous, 1 g citrulline, 1 g beta-alanine, 250 mg creatine monohydrate, 500 mg taurine and 4.34 kcal.",
+        "notes": "Uses the 5 g label serving, not the doubled 10 g column. Green tea catechin extract 100 mg is also present; total caffeine is not inferred from caffeine anhydrous alone. Labelled arginine HCl is 500 mg compound mass, so a free-arginine quantity is withheld. Creatine refers to the labelled monohydrate compound, not a free-creatine equivalent.",
+        "grams": 200,
+        "flavour": "Cola",
+        "caffeineMg": null,
+        "caffeineAnhydrousMg": 100,
+        "citrullineMg": 1000,
+        "citrullineMalateMg": null,
+        "betaAlanineMg": 1000,
+        "creatineMg": 250,
+        "arginineMg": null,
+        "taurineMg": 500,
+        "energyPerServing": 4.34,
+        "stimulantStatus": "Contains caffeine",
+        "declaredNutrients": [
+          "caffeineMg",
+          "caffeineAnhydrousMg",
+          "citrullineMg",
+          "betaAlanineMg",
+          "creatineMg",
+          "arginineMg",
+          "taurineMg",
+          "arginineCompoundMg"
+        ],
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B0BMWZCHDD.PT08.jpg?v=1788179477",
+        "labelSources": [
+          "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/CF_L-Pre_Workout_Powder_200g_Cola_2_1.jpg?v=1747992459",
+          "https://cdn.shopify.com/s/files/1/0062/3345/6753/files/B0BMWZCHDD.PT08.jpg?v=1788179477"
+        ],
+        "arginineCompoundMg": 500
+      }
+    }
+  ]
+}

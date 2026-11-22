@@ -1,0 +1,400 @@
+{
+  "schemaVersion": 1,
+  "category": "protein",
+  "brand": "TrueBasics",
+  "product": "TrueBasics Clean Plant Protein",
+  "variants": [
+    {
+      "order": 823,
+      "offer": {
+        "id": 823,
+        "brand": "TrueBasics",
+        "product": "TrueBasics Clean Plant Protein",
+        "type": "Plant — blend",
+        "flavour": "Chocolate",
+        "kg": 1,
+        "price": 1899,
+        "stock": "In stock",
+        "protein": 65,
+        "scoop": 37,
+        "serving": 37,
+        "subclass": "Pea isolate + brown rice protein",
+        "energy": 407,
+        "url": "https://www.truebasics.com/sv/truebasics-clean-plant-protein/SP-136871?navKey=VRNT-272429",
+        "nutritionUrl": "https://img1.hkrtcdn.com/43004/normal_4300359_o.jpg",
+        "basis": "Reviewed Chocolate 1 kg marketplace panel explicitly states 65 g protein and 407 kcal per 100 g; a 37 g scoop has rounded 24 g protein. Ingredients: pea protein isolate and brown rice protein, cocoa, natural flavour, coconut milk powder and papain.",
+        "notes": "Composition is the brand declaration shown on the selected marketplace listing. Certification or contamination claims require batch-level evidence and are not independently verified by this catalog.",
+        "energyBasis": "Brand official label / serving instructions",
+        "isNew": false,
+        "checked": "2026-10-25",
+        "lastPriceReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.truebasics.com/sv/truebasics-clean-plant-protein/SP-136871?navKey=VRNT-272429",
+          "evidenceUrl": "https://www.truebasics.com/sv/truebasics-clean-plant-protein/SP-136871",
+          "matchBasis": "Official selected product schema flavour and net pack match"
+        },
+        "labelChecked": "2026-11-19",
+        "labelSources": [
+          "https://www.healthkart.com/sv/truebasics-clean-plant-protein/SP-135685?navKey=VRNT-268805",
+          "https://img1.hkrtcdn.com/43004/normal_4300359_o.jpg"
+        ],
+        "lastLabelReview": {
+          "checked": "2026-11-19",
+          "sourceUrl": "https://www.truebasics.com/sv/truebasics-clean-plant-protein/SP-136871?navKey=VRNT-272429",
+          "evidenceUrl": "https://www.healthkart.com/sv/truebasics-clean-plant-protein/SP-135685?navKey=VRNT-268805",
+          "matchBasis": "HealthKart selected product numeric id 268805, SP-135685, brand, flavour, retail packaging and explicit net gram/kg weight reviewed against current label evidence; unconditional offer_pr excludes loyalty or coupons. Label corroboration only; the primary manufacturer price and original price observation remain unchanged."
+        },
+        "retailerQuotes": [
+          {
+            "retailer": "HealthKart",
+            "seller": "Bright Nutricare Private Limited",
+            "price": 1999,
+            "currency": "INR",
+            "checked": "2026-11-19",
+            "sourceUrl": "https://www.healthkart.com/sv/truebasics-clean-plant-protein/SP-135685?navKey=VRNT-268805",
+            "variantId": "268805",
+            "matchBasis": "HealthKart selected product numeric id 268805, SP-135685, brand, flavour, retail packaging and explicit net gram/kg weight reviewed against current label evidence; unconditional offer_pr excludes loyalty or coupons. Same manufacturer product/flavour/net pack as https://www.truebasics.com/sv/truebasics-clean-plant-protein/SP-136871?navKey=VRNT-272429; marketplace has a separate seller SKU. This quote does not replace the primary brand price or establish an archive history.",
+            "stock": "In stock"
+          }
+        ]
+      }
+    },
+    {
+      "order": 835,
+      "offer": {
+        "id": "protein-hk-288757",
+        "brand": "TrueBasics",
+        "product": "TrueBasics Clean Plant Protein",
+        "type": "Plant",
+        "subclass": "Pea isolate + brown rice protein",
+        "form": "Powder",
+        "flavour": "Chocolate",
+        "kg": 2,
+        "grams": 2000,
+        "price": 3899,
+        "currency": "INR",
+        "stock": "In stock",
+        "scoop": 37,
+        "serving": 37,
+        "energy": 407,
+        "url": "https://www.healthkart.com/sv/truebasics-clean-plant-protein/SP-135685?navKey=VRNT-288757",
+        "nutritionUrl": "https://img1.hkrtcdn.com/43004/normal_4300359_o.jpg",
+        "labelSources": [
+          "https://www.healthkart.com/sv/truebasics-clean-plant-protein/SP-135685?navKey=VRNT-288757",
+          "https://img1.hkrtcdn.com/43004/normal_4300359_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Individually reviewed selected HealthKart variant and its current nutrition-panel image; explicit net kg weight is recorded in the selected product technical details. Protein concentration uses the stated per-100 g label value rather than recomputing a conflicting percentage from rounded serving grams.",
+        "notes": "Actual 2 kg retail pack, not a price scaled from 1 kg. Exact variant technical details and front image establish 2 kg; its current gallery uses the same Chocolate per-100 g panel as the 1 kg size. Per-container serving count on that gallery image is not transferred to this pack.",
+        "energyBasis": "Stated label kcal per 100 g",
+        "sourceType": "retailer",
+        "retailer": "HealthKart",
+        "seller": "Bright Nutricare Private Limited",
+        "sourceProductId": "135685",
+        "sourceVariantId": "288757",
+        "packaging": "Pouch",
+        "protein": 65
+      }
+    },
+    {
+      "order": 836,
+      "offer": {
+        "id": "protein-hk-288287",
+        "brand": "TrueBasics",
+        "product": "TrueBasics Clean Plant Protein",
+        "type": "Plant",
+        "subclass": "Pea + brown rice protein",
+        "form": "Powder",
+        "flavour": "Strawberry",
+        "kg": 1,
+        "grams": 1000,
+        "price": 1999,
+        "currency": "INR",
+        "stock": "In stock",
+        "scoop": 34,
+        "serving": 34,
+        "energy": 408.1,
+        "url": "https://www.healthkart.com/sv/truebasics-clean-plant-protein/SP-135685?navKey=VRNT-288287",
+        "nutritionUrl": "https://img1.hkrtcdn.com/46815/normal_4681431_o.jpg",
+        "labelSources": [
+          "https://www.healthkart.com/sv/truebasics-clean-plant-protein/SP-135685?navKey=VRNT-288287",
+          "https://img1.hkrtcdn.com/46815/normal_4681431_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Individually reviewed selected HealthKart variant and its current nutrition-panel image; explicit net kg weight is recorded in the selected product technical details. Protein concentration uses the stated per-100 g label value rather than recomputing a conflicting percentage from rounded serving grams.",
+        "notes": "Selected product metadata says 71% protein but the actual Strawberry nutrition panel says 70 g per 100 g; retain 70% and flag the discrepancy. Do not use Chocolate values.",
+        "energyBasis": "Stated label kcal per 100 g",
+        "sourceType": "retailer",
+        "retailer": "HealthKart",
+        "seller": "Bright Nutricare Private Limited",
+        "sourceProductId": "135685",
+        "sourceVariantId": "288287",
+        "packaging": "Pouch",
+        "protein": 70
+      }
+    },
+    {
+      "order": 837,
+      "offer": {
+        "id": "protein-hk-288799",
+        "brand": "TrueBasics",
+        "product": "TrueBasics Clean Plant Protein",
+        "type": "Plant",
+        "subclass": "Pea isolate + brown rice protein",
+        "form": "Powder",
+        "flavour": "Chocolate",
+        "kg": 1,
+        "grams": 1000,
+        "price": 1899,
+        "currency": "INR",
+        "stock": "In stock",
+        "scoop": 37,
+        "serving": 37,
+        "energy": 407,
+        "url": "https://www.healthkart.com/sv/truebasics-clean-plant-protein/SP-135685?navKey=VRNT-288799",
+        "nutritionUrl": "https://img1.hkrtcdn.com/43004/normal_4300359_o.jpg",
+        "labelSources": [
+          "https://www.healthkart.com/sv/truebasics-clean-plant-protein/SP-135685?navKey=VRNT-288799",
+          "https://img1.hkrtcdn.com/43004/normal_4300359_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Individually reviewed selected HealthKart variant and its current nutrition-panel image; explicit net kg weight is recorded in the selected product technical details. Protein concentration uses the stated per-100 g label value rather than recomputing a conflicting percentage from rounded serving grams.",
+        "notes": "Selected refill pack is distinct from the existing jar. Product technical metadata says Jar despite the explicit selected flavour suffix (Refill Pack); retail selection identity is retained and the metadata conflict is disclosed.",
+        "energyBasis": "Stated label kcal per 100 g",
+        "sourceType": "retailer",
+        "retailer": "HealthKart",
+        "seller": "Bright Nutricare Private Limited",
+        "sourceProductId": "135685",
+        "sourceVariantId": "288799",
+        "packaging": "Refill pouch",
+        "protein": 65
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "order": 2993,
+      "observation": {
+        "category": "protein",
+        "offerId": 823,
+        "date": "2026-10-25",
+        "price": 2099,
+        "currency": "INR",
+        "sourceUrl": "https://www.truebasics.com/sv/truebasics-clean-plant-protein/SP-136871",
+        "evidenceUrl": "https://www.truebasics.com/sv/truebasics-clean-plant-protein/SP-136871",
+        "kind": "official-live",
+        "matchBasis": "Exact SKU JSON-LD INR offer",
+        "variantId": null
+      }
+    },
+    {
+      "order": 4851,
+      "observation": {
+        "category": "protein",
+        "offerId": 823,
+        "date": "2026-11-19",
+        "price": 1899,
+        "currency": "INR",
+        "sourceUrl": "https://www.truebasics.com/sv/truebasics-clean-plant-protein/SP-136871?navKey=VRNT-272429",
+        "evidenceUrl": "https://www.truebasics.com/sv/truebasics-clean-plant-protein/SP-136871",
+        "kind": "official-live",
+        "matchBasis": "Official selected product schema flavour and net pack match",
+        "variantId": "VRNT-272429"
+      }
+    },
+    {
+      "order": 5189,
+      "observation": {
+        "category": "protein",
+        "offerId": "protein-hk-288757",
+        "date": "2026-11-19",
+        "price": 3899,
+        "currency": "INR",
+        "sourceUrl": "https://www.healthkart.com/sv/truebasics-clean-plant-protein/SP-135685?navKey=VRNT-288757",
+        "evidenceUrl": "https://www.healthkart.com/sv/truebasics-clean-plant-protein/SP-135685?navKey=VRNT-288757",
+        "kind": "official-live",
+        "variantId": "288757",
+        "matchBasis": "HealthKart selected product numeric id 288757, SP-135685, brand, flavour, retail packaging and explicit net gram/kg weight reviewed against current label evidence; unconditional offer_pr excludes loyalty or coupons."
+      }
+    },
+    {
+      "order": 5190,
+      "observation": {
+        "category": "protein",
+        "offerId": "protein-hk-288287",
+        "date": "2026-11-19",
+        "price": 1999,
+        "currency": "INR",
+        "sourceUrl": "https://www.healthkart.com/sv/truebasics-clean-plant-protein/SP-135685?navKey=VRNT-288287",
+        "evidenceUrl": "https://www.healthkart.com/sv/truebasics-clean-plant-protein/SP-135685?navKey=VRNT-288287",
+        "kind": "official-live",
+        "variantId": "288287",
+        "matchBasis": "HealthKart selected product numeric id 288287, SP-135685, brand, flavour, retail packaging and explicit net gram/kg weight reviewed against current label evidence; unconditional offer_pr excludes loyalty or coupons."
+      }
+    },
+    {
+      "order": 5191,
+      "observation": {
+        "category": "protein",
+        "offerId": "protein-hk-288799",
+        "date": "2026-11-19",
+        "price": 1899,
+        "currency": "INR",
+        "sourceUrl": "https://www.healthkart.com/sv/truebasics-clean-plant-protein/SP-135685?navKey=VRNT-288799",
+        "evidenceUrl": "https://www.healthkart.com/sv/truebasics-clean-plant-protein/SP-135685?navKey=VRNT-288799",
+        "kind": "official-live",
+        "variantId": "288799",
+        "matchBasis": "HealthKart selected product numeric id 288799, SP-135685, brand, flavour, retail packaging and explicit net gram/kg weight reviewed against current label evidence; unconditional offer_pr excludes loyalty or coupons."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "order": 298,
+      "profile": {
+        "id": "protein-hk-288757",
+        "brand": "TrueBasics",
+        "product": "TrueBasics Clean Plant Protein",
+        "type": "Plant",
+        "subclass": "Pea isolate + brown rice protein",
+        "form": "Powder",
+        "flavour": "Chocolate",
+        "kg": 2,
+        "grams": 2000,
+        "currency": "INR",
+        "scoop": 37,
+        "serving": 37,
+        "energy": 407,
+        "nutritionUrl": "https://img1.hkrtcdn.com/43004/normal_4300359_o.jpg",
+        "labelSources": [
+          "https://www.healthkart.com/sv/truebasics-clean-plant-protein/SP-135685?navKey=VRNT-288757",
+          "https://img1.hkrtcdn.com/43004/normal_4300359_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Individually reviewed selected HealthKart variant and its current nutrition-panel image; explicit net kg weight is recorded in the selected product technical details. Protein concentration uses the stated per-100 g label value rather than recomputing a conflicting percentage from rounded serving grams.",
+        "notes": "Actual 2 kg retail pack, not a price scaled from 1 kg. Exact variant technical details and front image establish 2 kg; its current gallery uses the same Chocolate per-100 g panel as the 1 kg size. Per-container serving count on that gallery image is not transferred to this pack.",
+        "energyBasis": "Stated label kcal per 100 g",
+        "sourceType": "retailer",
+        "retailer": "HealthKart",
+        "seller": "Bright Nutricare Private Limited",
+        "packaging": "Pouch",
+        "protein": 65,
+        "category": "protein",
+        "kind": "hk-product",
+        "base": "https://www.healthkart.com",
+        "productUrl": "https://www.healthkart.com/sv/truebasics-clean-plant-protein/SP-135685?navKey=VRNT-288757",
+        "variantUrl": "https://www.healthkart.com/sv/truebasics-clean-plant-protein/SP-135685?navKey=VRNT-288757",
+        "variantId": "288757",
+        "productId": "135685",
+        "sourceBrand": "TrueBasics",
+        "variantAttributes": {
+          "gen-pro-siz": "4.4 lb",
+          "gen-sn-flv": "Chocolate"
+        },
+        "cacheKey": "healthkart-288757",
+        "packSizeLabel": "4.4 lb",
+        "netWeightEvidenceUrl": "https://www.healthkart.com/sv/truebasics-clean-plant-protein/SP-135685?navKey=VRNT-288757",
+        "netWeightEvidenceGrams": 2000,
+        "netWeightEvidenceChecked": "2026-11-19"
+      }
+    },
+    {
+      "order": 299,
+      "profile": {
+        "id": "protein-hk-288287",
+        "brand": "TrueBasics",
+        "product": "TrueBasics Clean Plant Protein",
+        "type": "Plant",
+        "subclass": "Pea + brown rice protein",
+        "form": "Powder",
+        "flavour": "Strawberry",
+        "kg": 1,
+        "grams": 1000,
+        "currency": "INR",
+        "scoop": 34,
+        "serving": 34,
+        "energy": 408.1,
+        "nutritionUrl": "https://img1.hkrtcdn.com/46815/normal_4681431_o.jpg",
+        "labelSources": [
+          "https://www.healthkart.com/sv/truebasics-clean-plant-protein/SP-135685?navKey=VRNT-288287",
+          "https://img1.hkrtcdn.com/46815/normal_4681431_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Individually reviewed selected HealthKart variant and its current nutrition-panel image; explicit net kg weight is recorded in the selected product technical details. Protein concentration uses the stated per-100 g label value rather than recomputing a conflicting percentage from rounded serving grams.",
+        "notes": "Selected product metadata says 71% protein but the actual Strawberry nutrition panel says 70 g per 100 g; retain 70% and flag the discrepancy. Do not use Chocolate values.",
+        "energyBasis": "Stated label kcal per 100 g",
+        "sourceType": "retailer",
+        "retailer": "HealthKart",
+        "seller": "Bright Nutricare Private Limited",
+        "packaging": "Pouch",
+        "protein": 70,
+        "category": "protein",
+        "kind": "hk-product",
+        "base": "https://www.healthkart.com",
+        "productUrl": "https://www.healthkart.com/sv/truebasics-clean-plant-protein/SP-135685?navKey=VRNT-288287",
+        "variantUrl": "https://www.healthkart.com/sv/truebasics-clean-plant-protein/SP-135685?navKey=VRNT-288287",
+        "variantId": "288287",
+        "productId": "135685",
+        "sourceBrand": "TrueBasics",
+        "variantAttributes": {
+          "gen-pro-siz": "2.2 lb",
+          "gen-sn-flv": "Strawberry"
+        },
+        "cacheKey": "healthkart-288287",
+        "packSizeLabel": "2.2 lb",
+        "netWeightEvidenceUrl": "https://www.healthkart.com/sv/truebasics-clean-plant-protein/SP-135685?navKey=VRNT-288287",
+        "netWeightEvidenceGrams": 1000,
+        "netWeightEvidenceChecked": "2026-11-19"
+      }
+    },
+    {
+      "order": 300,
+      "profile": {
+        "id": "protein-hk-288799",
+        "brand": "TrueBasics",
+        "product": "TrueBasics Clean Plant Protein",
+        "type": "Plant",
+        "subclass": "Pea isolate + brown rice protein",
+        "form": "Powder",
+        "flavour": "Chocolate",
+        "kg": 1,
+        "grams": 1000,
+        "currency": "INR",
+        "scoop": 37,
+        "serving": 37,
+        "energy": 407,
+        "nutritionUrl": "https://img1.hkrtcdn.com/43004/normal_4300359_o.jpg",
+        "labelSources": [
+          "https://www.healthkart.com/sv/truebasics-clean-plant-protein/SP-135685?navKey=VRNT-288799",
+          "https://img1.hkrtcdn.com/43004/normal_4300359_o.jpg"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Individually reviewed selected HealthKart variant and its current nutrition-panel image; explicit net kg weight is recorded in the selected product technical details. Protein concentration uses the stated per-100 g label value rather than recomputing a conflicting percentage from rounded serving grams.",
+        "notes": "Selected refill pack is distinct from the existing jar. Product technical metadata says Jar despite the explicit selected flavour suffix (Refill Pack); retail selection identity is retained and the metadata conflict is disclosed.",
+        "energyBasis": "Stated label kcal per 100 g",
+        "sourceType": "retailer",
+        "retailer": "HealthKart",
+        "seller": "Bright Nutricare Private Limited",
+        "packaging": "Refill pouch",
+        "protein": 65,
+        "category": "protein",
+        "kind": "hk-product",
+        "base": "https://www.healthkart.com",
+        "productUrl": "https://www.healthkart.com/sv/truebasics-clean-plant-protein/SP-135685?navKey=VRNT-288799",
+        "variantUrl": "https://www.healthkart.com/sv/truebasics-clean-plant-protein/SP-135685?navKey=VRNT-288799",
+        "variantId": "288799",
+        "productId": "135685",
+        "sourceBrand": "TrueBasics",
+        "variantAttributes": {
+          "gen-pro-siz": "2.2 lb",
+          "gen-sn-flv": "Chocolate (Refill Pack)"
+        },
+        "cacheKey": "healthkart-288799",
+        "packSizeLabel": "2.2 lb",
+        "netWeightEvidenceUrl": "https://www.healthkart.com/sv/truebasics-clean-plant-protein/SP-135685?navKey=VRNT-288799",
+        "netWeightEvidenceGrams": 1000,
+        "netWeightEvidenceChecked": "2026-11-19"
+      }
+    }
+  ]
+}

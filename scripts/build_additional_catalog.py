@@ -9,6 +9,11 @@ from decimal import Decimal,InvalidOperation
 from html.parser import HTMLParser
 from urllib.parse import parse_qs,urlsplit
 ROOT=pathlib.Path(__file__).resolve().parents[1]
+try:
+ from artifact_bridge import artifact_workspace,reject_legacy_writer
+except ModuleNotFoundError:
+ from scripts.artifact_bridge import artifact_workspace,reject_legacy_writer
+OUTPUT_ROOT=None
 class VisibleText(HTMLParser):
  def __init__(self):super().__init__();self.skip=False;self.parts=[]
  def handle_starttag(self,t,a):
@@ -433,6 +438,7 @@ def observation_key(row):
  return json.dumps(row,sort_keys=True,ensure_ascii=False,separators=(',',':'))
 
 def save_refreshed_categories(root,categories,as_of):
+ reject_legacy_writer(root,'Direct save_refreshed_categories')
  data=root/'docs/data';config_path=data/'site.json'
  definitions=json.loads(config_path.read_text(encoding='utf-8'))['categories'] if config_path.exists() else []
  files={c['id']:c['file'] for c in definitions};pending=[]
@@ -448,9 +454,9 @@ def save_refreshed_categories(root,categories,as_of):
   target.write_text(json.dumps(payload,ensure_ascii=False,indent=2),encoding='utf-8')
   print(payload['category'],len(payload['offers']),'offers',len({r['brand'] for r in payload['offers']}),'brands')
 
-def main():
+def _main():
  parser=argparse.ArgumentParser(description=__doc__);parser.add_argument('--as-of',required=True);parser.add_argument('--refresh',action='store_true');parser.add_argument('--categories',nargs='+',help='Refresh only these category IDs; the default is every category in the source manifest.');args=parser.parse_args();datetime.date.fromisoformat(args.as_of)
- manifest=json.loads((ROOT/'docs/data/additional-sources.json').read_text(encoding='utf-8'));cache=ROOT/'outputs'/('supplements_'+args.as_of.replace('-',''));cache.mkdir(exist_ok=True,parents=True)
+ manifest=json.loads((ROOT/'docs/data/additional-sources.json').read_text(encoding='utf-8'));cache=(OUTPUT_ROOT or ROOT)/'outputs'/('supplements_'+args.as_of.replace('-',''));cache.mkdir(exist_ok=True,parents=True)
  available=list(dict.fromkeys(e['category'] for e in manifest['products']));selected=args.categories or available
  if any(c not in available for c in selected):parser.error('Unknown category: '+', '.join(c for c in selected if c not in available))
  categories={c:[] for c in selected};observations=[];excluded=[]
@@ -505,4 +511,13 @@ def main():
  ledger_path=ROOT/'docs/data/price-observations.json';ledger=json.loads(ledger_path.read_text(encoding='utf-8'));merged={observation_key(r):r for r in ledger['observations']}
  merged.update({observation_key(r):r for r in observations});ledger.update(checked=max(ledger.get('checked',''),args.as_of),observations=list(merged.values()));ledger_path.write_text(json.dumps(ledger,ensure_ascii=False),encoding='utf-8')
  (cache/'excluded.json').write_text(json.dumps(excluded,indent=2),encoding='utf-8')
+
+def main():
+ global ROOT,OUTPUT_ROOT
+ original_root,original_output=ROOT,OUTPUT_ROOT
+ with artifact_workspace(original_root) as work:
+  ROOT,OUTPUT_ROOT=work,original_output or original_root
+  try:return _main()
+  finally:ROOT,OUTPUT_ROOT=original_root,original_output
+
 if __name__=='__main__':main()
