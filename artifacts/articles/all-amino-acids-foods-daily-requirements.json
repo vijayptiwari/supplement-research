@@ -1,0 +1,460 @@
+{
+  "schemaVersion": 1,
+  "order": 75,
+  "article": {
+    "id": "all-amino-acids-foods-daily-requirements",
+    "category": "protein",
+    "relatedCategories": [
+      "eaa",
+      "bcaa",
+      "collagen",
+      "l-arginine",
+      "glutathione"
+    ],
+    "title": "All 20 amino acids explained: roles, food sources and daily needs",
+    "summary": "A practical reference to the nine essential and eleven normally synthesizable amino acids: what they do, quantified food examples, inadequate supply and the difference between daily maintenance requirements and sports nutrition.",
+    "author": "Supplement Research editorial synthesis",
+    "published": "2026-11-26",
+    "reviewed": "2026-11-26",
+    "intro": "Amino acids are often presented as twenty separate ingredients to optimize. In your body they form an interconnected supply for proteins, nitrogen handling and many other molecules. Essential tells you which ones must come from the diet; nonessential describes the ability to synthesize them, not their importance. This guide explains all twenty standard protein-building amino acids, using source-specific food amounts and established adult references where these exist. It also marks the gaps: separate healthy-adult dietary targets are not established for every amino acid, and workout frequency cannot fill that evidence gap. The adult reference figures are educational, not a supplement schedule or a diagnosis.",
+    "sections": [
+      {
+        "id": "what-amino-acids-are",
+        "title": "What amino acids are, and how the body uses them",
+        "body": "Amino acids are small molecules linked together to make proteins. Digestive enzymes release amino acids and small peptides from food; the intestine absorbs them, and tissues use the available pool to build their own proteins. The same ingredients can also supply nitrogen, carbon for energy metabolism and material for other molecules. A biological role does not establish that buying more of an isolated ingredient improves that role.\n\nThis guide covers the 20 standard protein-building amino acids commonly discussed in nutrition. That is a useful reference set, not a claim that only 20 amino acids exist. Human proteins also contain specially incorporated selenocysteine in certain enzymes, and compounds such as citrulline and taurine have different roles. They do not create extra entries in the standard nine-essential-amino-acid requirement table.",
+        "sourceIds": [
+          "aa-essential-biochemistry",
+          "digestion"
+        ]
+      },
+      {
+        "id": "essential-and-conditional",
+        "title": "Essential, nonessential and conditional describe dietary dependence",
+        "body": "The nine essential amino acids are histidine, isoleucine, leucine, lysine, methionine, phenylalanine, threonine, tryptophan and valine. Healthy humans cannot make enough of these from other nutrients, so the diet must supply them. The other eleven in this guide are normally synthesized by the body; nonessential does not mean biologically unimportant.\n\nConditional essentiality means that production may not meet needs during particular developmental, disease or metabolic circumstances. Arginine, cysteine, glutamine, glycine, proline and tyrosine commonly appear in this discussion; serine can also be conditional in particular settings. Lists differ because the context matters. Doing five workouts instead of two does not, by itself, diagnose conditional essentiality or establish a separate supplement dose.",
+        "sourceIds": [
+          "food-performance-amino-acids",
+          "aa-essential-biochemistry"
+        ]
+      },
+      {
+        "id": "how-to-read-the-numbers",
+        "title": "Read the daily requirements before using the food numbers",
+        "body": "The essential-amino-acid figures below are WHO/FAO/UNU adult mean maintenance requirements in milligrams per kilogram of body weight per day. They describe average requirement estimates, not individual RDAs, sports targets, supplement doses, diagnostic thresholds or upper safety limits. FAO reproduces these adult values in its 2013 protein-quality report. The 70 kg examples are arithmetic illustrations: mg/kg/day multiplied by 70, then divided by 1,000 to show grams/day.\n\nMethionine plus cysteine and phenylalanine plus tyrosine are combined requirement groups. Their totals must not be counted twice. The precursor amino acids methionine and phenylalanine remain essential; supplying only cysteine or tyrosine is not a complete substitute. No separate healthy-adult dietary target is set in that table for each of the other body-synthesizable amino acids. This means not separately established, not zero biological need.\n\nDo not confuse mg per kg body weight per day with mg per gram of dietary protein: the latter is a protein-quality scoring pattern, not a daily dose. Meeting a total-protein number also requires attention to amino-acid balance and digestibility.",
+        "sourceIds": [
+          "aa-who-requirements-2007",
+          "aa-fao-quality-2013"
+        ]
+      },
+      {
+        "id": "food-data-and-preparation",
+        "title": "Food quantities: what these reference examples can and cannot tell you",
+        "body": "All food amounts in the individual entries are per 100 g of the edible food in the exact preparation stated here. They come from USDA Standard Reference 28, a published reference dataset. Many amino-acid profiles are calculated from reference patterns and food nitrogen/protein content; these are not independent laboratory assays of each portion you buy. Zero data-point counts in such a profile do not mean zero amino acids.\n\nThe examples are foods also eaten in India, not measurements of Indian cultivars, buffalo milk, paneer, brands or mixed recipes. Cooked lentils are not dry lentils or a watery dal curry. Tofu is not paneer. For milk the denominator is 100 g, not 100 mL. The numbers describe food composition, not a digestibility-adjusted absorbed supply.\n\nExact entries and protein per 100 g: cooked lentils without salt, NDB 16070, 9.02 g protein; raw firm calcium-sulfate tofu, NDB 16426, 17.27 g; hard-boiled whole egg, NDB 01129, 12.58 g; whole 3.25% cow milk without added vitamins A/D, NDB 01211, 3.15 g; roasted chicken breast, meat only, NDB 05064, 31.02 g; dry-roasted unsalted peanuts, NDB 16390, 24.35 g. These examples are not a ranking of the best foods or recommended 100 g portions of each.",
+        "sourceIds": [
+          "food-usda-sr28",
+          "aa-usda-methods"
+        ]
+      },
+      {
+        "id": "measurement-gaps",
+        "title": "Why glutamine, asparagine and cysteine need extra care",
+        "body": "The selected records do not report separate glutamine or asparagine quantities. Standard acid hydrolysis converts glutamine to glutamic acid and asparagine to aspartic acid, so the reported glutamic/aspartic figures can include the corresponding amide contribution. Those separate amounts cannot be recovered from these records. Missing is unknown, not zero; do not count the reported acid value and a guessed amide value as independent measurements.\n\nUSDA also reports cystine, an oxidized form made from two cysteine molecules, rather than a separately measured free-cysteine amount. We retain that label and do not silently relabel or convert it. Food-composition reporting conventions matter when comparing a whole food with a label for an isolated amino acid.",
+        "sourceIds": [
+          "aa-usda-methods",
+          "aa-food-analysis-methods"
+        ]
+      },
+      {
+        "id": "histidine",
+        "title": "Histidine: enzymes, histamine and carnosine",
+        "body": "Essential. Histidine is incorporated into proteins and helps enzymes perform chemical reactions. It is also a precursor of histamine and contributes to carnosine, a dipeptide found in muscle. These roles do not establish that extra histidine is an allergy treatment or a necessary workout supplement.\n\nFood examples per 100 g edible food: cooked lentils 254 mg; roasted chicken breast 963 mg.\n\nAdult mean maintenance reference: 10 mg/kg/day; 0.70 g/day in the 70 kg illustration.",
+        "sourceIds": [
+          "aa-histidine-biochemistry",
+          "food-usda-sr28",
+          "aa-who-requirements-2007"
+        ]
+      },
+      {
+        "id": "isoleucine",
+        "title": "Isoleucine: one of the three branched-chain amino acids",
+        "body": "Essential. Isoleucine supplies material for proteins. Its carbon skeleton can enter energy metabolism, and branched-chain amino-acid metabolism is important in muscle and other tissues. Being an energy substrate does not mean an isolated isoleucine drink improves endurance when the diet already supplies enough.\n\nFood examples per 100 g edible food: firm calcium-sulfate tofu 849 mg; hard-boiled whole egg 686 mg.\n\nAdult mean maintenance reference: 20 mg/kg/day; 1.40 g/day at 70 kg.",
+        "sourceIds": [
+          "aa-bcaa-catabolism",
+          "food-usda-sr28",
+          "aa-who-requirements-2007"
+        ]
+      },
+      {
+        "id": "leucine",
+        "title": "Leucine: a building block that also participates in nutrient signalling",
+        "body": "Essential. Leucine is a protein constituent and participates in regulation of muscle protein synthesis. The signal still needs the other essential amino acids and an appropriate training and nutrition context. A daily maintenance estimate and an experimental per-meal synthesis response answer different questions; neither makes leucine alone a complete protein replacement.\n\nFood examples per 100 g edible food: firm calcium-sulfate tofu 1,392 mg; roasted chicken breast 2,328 mg.\n\nAdult mean maintenance reference: 39 mg/kg/day; 2.73 g/day at 70 kg.",
+        "sourceIds": [
+          "eaa-position",
+          "bcaa-trial",
+          "food-usda-sr28",
+          "aa-who-requirements-2007"
+        ]
+      },
+      {
+        "id": "lysine",
+        "title": "Lysine: body proteins, collagen structure and carnitine production",
+        "body": "Essential. Lysine is used in proteins, including structural proteins, and lysine residues contribute to collagen cross-linking. It also contributes to the pathway that produces carnitine. Cereal-dominated diets can be relatively limited in lysine; adding appropriate pulses or other protein sources can improve the amino-acid pattern without treating lysine as the only nutrient that matters.\n\nFood examples per 100 g edible food: cooked lentils 630 mg; whole cow milk 264 mg.\n\nAdult mean maintenance reference: 30 mg/kg/day; 2.10 g/day at 70 kg.",
+        "sourceIds": [
+          "aa-lysine-metabolism",
+          "aa-fao-quality-2013",
+          "food-usda-sr28",
+          "aa-who-requirements-2007"
+        ]
+      },
+      {
+        "id": "methionine",
+        "title": "Methionine: sulfur supply and methyl-transfer chemistry",
+        "body": "Essential. Methionine is an essential protein constituent and supplies the precursor for S-adenosylmethionine, used in methyl-transfer reactions. Its metabolism can also supply sulfur for cysteine synthesis. These normal pathways do not establish that high-dose methionine improves detoxification or that a healthy reader needs a separate methyl-donor stack.\n\nFood examples per 100 g edible food: hard-boiled whole egg 392 mg; dry-roasted unsalted peanuts 291 mg.\n\nCombined methionine + cysteine adult mean reference: 15 mg/kg/day; 1.05 g/day at 70 kg. This is the combined group, not 1.05 g of each.",
+        "sourceIds": [
+          "aa-amino-metabolism",
+          "food-usda-sr28",
+          "aa-who-requirements-2007"
+        ]
+      },
+      {
+        "id": "phenylalanine",
+        "title": "Phenylalanine: an essential precursor of tyrosine",
+        "body": "Essential. Phenylalanine is used in proteins and normally can be converted to tyrosine. That connects it to pathways producing catecholamines, pigment and thyroid hormones. The existence of a precursor pathway is not evidence that more phenylalanine improves mood or thyroid function. People with phenylketonuria need specialist control of phenylalanine; the general references here are not their treatment plan.\n\nFood examples per 100 g edible food: firm calcium-sulfate tofu 835 mg; dry-roasted unsalted peanuts 1,227 mg.\n\nCombined phenylalanine + tyrosine adult mean reference: 25 mg/kg/day; 1.75 g/day at 70 kg, not that amount of each.",
+        "sourceIds": [
+          "aa-amino-synthesis",
+          "aa-pku-medline",
+          "food-usda-sr28",
+          "aa-who-requirements-2007",
+          "aa-tyrosine-mesh"
+        ]
+      },
+      {
+        "id": "threonine",
+        "title": "Threonine: protein structure and glycoproteins",
+        "body": "Essential. Threonine is incorporated into body proteins. Its hydroxyl-containing side chain is also a site for protein modifications, including carbohydrate attachment in glycoproteins such as mucins. That biological role should not be turned into a claim that a threonine powder treats a gut disorder or that digestive symptoms identify a threonine deficiency.\n\nFood examples per 100 g edible food: cooked lentils 323 mg; hard-boiled whole egg 604 mg.\n\nAdult mean maintenance reference: 15 mg/kg/day; 1.05 g/day at 70 kg.",
+        "sourceIds": [
+          "aa-protein-processing",
+          "food-usda-sr28",
+          "aa-who-requirements-2007",
+          "aa-mucin-glycosylation"
+        ]
+      },
+      {
+        "id": "tryptophan",
+        "title": "Tryptophan: proteins, serotonin, melatonin and niacin pathways",
+        "body": "Essential. Tryptophan is needed for proteins and is a precursor in pathways producing serotonin, melatonin and niacin. Conversion is regulated and depends on the wider nutritional and physiological context. Food tryptophan is not interchangeable with a melatonin tablet, and the pathway does not diagnose the cause of poor sleep or establish a treatment for depression.\n\nFood examples per 100 g edible food: firm calcium-sulfate tofu 235 mg; whole cow milk 40 mg.\n\nAdult mean maintenance reference: 4 mg/kg/day; 0.28 g/day at 70 kg.",
+        "sourceIds": [
+          "aa-tryptophan-medline",
+          "food-usda-sr28",
+          "aa-who-requirements-2007"
+        ]
+      },
+      {
+        "id": "valine",
+        "title": "Valine: protein turnover and branched-chain metabolism",
+        "body": "Essential. Valine is the third BCAA. Along with contributing to body proteins, it can be broken down through pathways that provide substrates for energy metabolism. Leucine, isoleucine and valine work within the wider amino-acid supply; a larger front-label BCAA ratio does not establish a better-balanced diet.\n\nFood examples per 100 g edible food: cooked lentils 448 mg; roasted chicken breast 1,539 mg.\n\nAdult mean maintenance reference: 26 mg/kg/day; 1.82 g/day at 70 kg.",
+        "sourceIds": [
+          "aa-bcaa-catabolism",
+          "food-usda-sr28",
+          "aa-who-requirements-2007"
+        ]
+      },
+      {
+        "id": "nonessential-does-not-mean-unneeded",
+        "title": "The other eleven: normally made by the body, not biologically optional",
+        "body": "The following entries explain amino acids that healthy adults usually synthesize. Their availability depends on pathways using other amino acids, energy and nutrients, not on an independent daily dose of every isolated powder. The WHO/FAO maintenance table does not establish a separate healthy-adult dietary target for alanine, arginine, asparagine, aspartate, glutamate, glutamine, glycine, proline or serine. Cysteine and tyrosine appear within combined sulfur and aromatic requirement groups.\n\nAn omission from that table is not a statement that the body needs none. Clinical nutrition, growth and inherited metabolic disorders can change dietary dependence. These are reasons for individual assessment, not automatic supplement amounts based on workout count.",
+        "sourceIds": [
+          "food-performance-amino-acids",
+          "aa-fao-quality-2013"
+        ]
+      },
+      {
+        "id": "alanine",
+        "title": "Alanine: moving nitrogen and carbon between tissues",
+        "body": "Normally synthesized by the body. The body can make alanine from pyruvate. In the glucose–alanine cycle it helps carry amino nitrogen from muscle to the liver, where its carbon can contribute to glucose production and nitrogen can be disposed of. This explains a normal transport role; it is not evidence that an alanine supplement is needed to fuel an ordinary workout.\n\nFood examples per 100 g edible food: cooked lentils 377 mg; hard-boiled whole egg 700 mg.",
+        "sourceIds": [
+          "aa-alanine-cycle",
+          "food-usda-sr28"
+        ]
+      },
+      {
+        "id": "arginine",
+        "title": "Arginine: the urea cycle, nitric oxide and creatine",
+        "body": "Normally synthesized by the body. Arginine participates in the urea cycle and supplies material for nitric oxide and creatine synthesis. It can be produced through interconnected intestinal, kidney and other tissue pathways, while food also contributes. Dietary dependence can change in selected developmental or clinical contexts. A pump sensation or a blood-flow mechanism does not establish a daily arginine requirement or a treatment for cardiovascular disease.\n\nFood examples per 100 g edible food: dry-roasted unsalted peanuts 2,832 mg; firm calcium-sulfate tofu 1,369 mg.",
+        "sourceIds": [
+          "aa-arginine-metabolism",
+          "food-usda-sr28"
+        ]
+      },
+      {
+        "id": "asparagine",
+        "title": "Asparagine: protein synthesis and carbohydrate attachment",
+        "body": "Normally synthesized by the body. Asparagine synthetase makes asparagine from aspartate using nitrogen supplied by glutamine. Asparagine residues are also attachment sites for N-linked carbohydrate chains on proteins, important in protein processing. Protein-containing foods contribute asparagine, but the selected food records do not quantify it separately. There is no independently reported mg/100 g value to show here, and it must not be entered as zero.",
+        "sourceIds": [
+          "aa-asparagine-synthesis",
+          "aa-protein-processing",
+          "aa-food-analysis-methods"
+        ]
+      },
+      {
+        "id": "aspartate",
+        "title": "Aspartate: nitrogen disposal and nucleotide production",
+        "body": "Normally synthesized by the body. Aspartate can be made from intermediates of energy metabolism. It supplies nitrogen in the urea cycle and participates in nucleotide synthesis. Aspartic acid is the acid name corresponding to aspartate. The reported food amount below can include asparagine converted during analysis; it is not a separately measured free-aspartate amount.\n\nFood examples per 100 g edible food: cooked lentils 998 mg; roasted chicken breast 2,764 mg.",
+        "sourceIds": [
+          "aa-urea-cycle",
+          "aa-nucleotide-metabolism",
+          "food-usda-sr28",
+          "aa-food-analysis-methods"
+        ]
+      },
+      {
+        "id": "cysteine",
+        "title": "Cysteine: disulfide bonds and glutathione",
+        "body": "Normally synthesized by the body. Cysteine can be made using sulfur from methionine. Its sulfur-containing group helps form disulfide bonds that stabilize proteins, and cysteine is a constituent of glutathione. This does not mean extra cysteine or an NAC product is automatically required for detoxification.\n\nUSDA reports cystine, not separate cysteine: hard-boiled egg 292 mg/100 g and cooked lentils 118 mg/100 g. Those reported forms are retained without a silent conversion. Cysteine belongs in the combined methionine + cysteine requirement discussed above; do not add a second independent requirement.",
+        "sourceIds": [
+          "aa-amino-metabolism",
+          "aa-protein-structure",
+          "aa-glutathione-definition",
+          "food-usda-sr28"
+        ]
+      },
+      {
+        "id": "glutamate",
+        "title": "Glutamate: amino nitrogen, neurotransmission and glutathione",
+        "body": "Normally synthesized by the body. Glutamate is central to transfer of amino nitrogen and can be synthesized from the energy-metabolism intermediate alpha-ketoglutarate. In the nervous system it is an important transmitter and a precursor of GABA; it also contributes to glutathione. Dietary glutamate does not simply translate into the same concentration in the brain. The reported glutamic-acid food values can include glutamine converted during analysis.\n\nFood examples per 100 g edible food: firm calcium-sulfate tofu 3,288 mg; whole cow milk 708 mg.",
+        "sourceIds": [
+          "aa-amino-metabolism",
+          "aa-glutamate-neurochemistry",
+          "aa-glutathione-definition",
+          "food-usda-sr28",
+          "aa-food-analysis-methods"
+        ]
+      },
+      {
+        "id": "glutamine",
+        "title": "Glutamine: a nitrogen carrier, donor and cellular fuel",
+        "body": "Normally synthesized by the body. Glutamine can be made from glutamate and helps transport or donate nitrogen for processes including nucleotide synthesis. Some intestinal and immune cells use it as a metabolic fuel. Illness can change its production and utilization, but a gut-fuel mechanism alone does not establish that every healthy person needs a glutamine supplement.\n\nFood proteins contribute glutamine, yet these records do not report its quantity independently. Glutamic-acid values cannot be reverse-engineered into a separate glutamine value. Do not count the same analytical pool twice.",
+        "sourceIds": [
+          "aa-glutamine-nutrition",
+          "aa-food-analysis-methods"
+        ]
+      },
+      {
+        "id": "glycine",
+        "title": "Glycine: collagen and several small but important molecules",
+        "body": "Normally synthesized by the body. Glycine can be synthesized, including from serine. It contributes to collagen structure and the production of glutathione, heme, purines and creatine. These roles make it important, but a calculated metabolic turnover or a theoretical synthesis demand is not the same as an established dietary RDA. Food glycine does not arrive as preassembled collagen in a chosen joint.\n\nFood examples per 100 g edible food: roasted chicken breast 1,524 mg; firm calcium-sulfate tofu 733 mg.",
+        "sourceIds": [
+          "aa-glycine-metabolism",
+          "aa-collagen-synthesis",
+          "food-usda-sr28"
+        ]
+      },
+      {
+        "id": "proline",
+        "title": "Proline: protein shape and collagen structure",
+        "body": "Normally synthesized by the body. Proline has a distinctive ring structure and contributes to the shapes of proteins. Collagen contains much proline and its modified residue hydroxyproline. The body can make proline through pathways connected to glutamate and glutamine. A role in collagen structure is not proof that an extra proline or collagen purchase improves a tendon or wrinkle when dietary needs are covered.\n\nFood examples per 100 g edible food: whole cow milk 311 mg; firm calcium-sulfate tofu 1,084 mg.",
+        "sourceIds": [
+          "aa-collagen-synthesis",
+          "aa-amino-synthesis",
+          "food-usda-sr28"
+        ]
+      },
+      {
+        "id": "serine",
+        "title": "Serine: one-carbon chemistry and membrane components",
+        "body": "Normally synthesized by the body. Serine can be produced from intermediates of glucose metabolism. It contributes to proteins, folate-linked one-carbon reactions that support nucleotide production, and membrane-lipid pathways. Its dietary dependence can change in certain metabolic conditions, so calling it normally synthesizable should not be confused with saying it is unimportant. These biochemical roles do not establish a routine cognitive or exercise supplement requirement.\n\nFood examples per 100 g edible food: hard-boiled whole egg 936 mg; cooked lentils 416 mg.",
+        "sourceIds": [
+          "aa-serine-metabolism",
+          "food-usda-sr28"
+        ]
+      },
+      {
+        "id": "tyrosine",
+        "title": "Tyrosine: catecholamines, pigment and thyroid-hormone precursors",
+        "body": "Normally synthesized by the body. Tyrosine is normally produced from phenylalanine and contributes to body proteins. It is a precursor for catecholamines such as dopamine and adrenaline, and for melanin; iodinated tyrosine residues in thyroglobulin are involved in thyroid-hormone production. Extra tyrosine is not therefore a substitute for diagnosing or treating thyroid disease. Metabolic disorders can change its dietary importance.\n\nFood examples per 100 g edible food: firm calcium-sulfate tofu 701 mg; roasted chicken breast 1,047 mg.",
+        "sourceIds": [
+          "aa-catecholamines",
+          "aa-amino-synthesis",
+          "food-usda-sr28",
+          "aa-tyrosine-mesh",
+          "aa-thyroid-hormone-synthesis"
+        ]
+      },
+      {
+        "id": "when-supply-is-inadequate",
+        "title": "What happens when amino-acid supply is inadequate?",
+        "body": "A sustained shortage of an essential amino acid can limit synthesis of body proteins even when other amino acids are available. If the overall diet also lacks adequate protein and energy, the body can draw on its own tissue proteins; poor maintenance, loss of muscle and impaired growth or recovery can follow. An isolated dietary deficiency is not the same as an inherited inability to metabolize an amino acid.\n\nFor normally synthesizable amino acids, not eating a separate amount does not automatically cause deficiency: body production contributes. Availability can nevertheless become constrained in particular illnesses, developmental settings or metabolic disorders. Fatigue, soreness, hair changes or difficulty gaining muscle cannot identify which amino acid is low. A plasma amino-acid result also needs interpretation with diet, illness, medicines and the clinical picture. Do not use these reference values as a home diagnostic test.",
+        "sourceIds": [
+          "aa-essential-biochemistry",
+          "aa-plasma-testing",
+          "aa-protein-reference"
+        ]
+      },
+      {
+        "id": "activity-and-protein",
+        "title": "How activity changes the plan: total protein first",
+        "body": "There is no validated table assigning a separate dose of every amino acid to two, three or five sessions a week, beginner versus advanced bodybuilding, or powerlifting versus HYROX. The maintenance estimates above are not multiplied by an invented exercise factor. Activity changes the overall nutrition context: training load, energy intake, age, food quality and recovery all matter.\n\nICMR-NIN gives a healthy-adult protein RDA of 0.83 g/kg/day in its reference framework; 70 × 0.83 = 58.1 g/day is an illustration for suitable-quality protein, not a universal optimum for an athlete. The EAR of 0.66 g/kg/day is an average requirement, not an individual target interchangeable with the RDA.\n\nSports guidance commonly uses total protein ranges such as 1.2–2.0 g/kg/day for athletes; ISSN uses approximately 1.4–2.0 for most exercising people seeking training adaptations. The overlapping ranges are planning frameworks, not proven boundaries between sports. Enough suitable food protein naturally supplies more amino acids; that does not create an independent need to buy each one. Requirements in pregnancy, childhood, serious illness, kidney disease or inherited metabolic conditions need a different assessment.",
+        "sourceIds": [
+          "aa-icmr-protein",
+          "exercise",
+          "aa-issn-protein",
+          "food-kidney-diet"
+        ]
+      },
+      {
+        "id": "make-food-work",
+        "title": "Build meals and check adequacy without chasing twenty powders",
+        "body": "Start with enough total food and an appropriate protein plan. Include varied sources that fit your diet: pulses and other legumes, soy foods, dairy where suitable, eggs, fish or meat, nuts and seeds. Differences in amino-acid patterns are one reason dietary variety matters. Plant foods generally contain the essential amino acids in differing proportions; a relatively limiting amount is not the same as complete absence.\n\nUse the actual portion and preparation. For illustration, 150 g of the specified cooked lentils provides about 13.53 g protein and 981 mg leucine; 200 g of the specified tofu provides about 34.54 g protein and 2,784 mg leucine. These are arithmetic composition examples, not complete diets, absorbed amounts or meal prescriptions. Do not compare 100 g dry grain with 100 g cooked pulses without accounting for water.\n\nAssess the whole day rather than assuming an extra amino-acid label fixes an otherwise unsuitable diet. Supplements can be practical for an identified constraint, but their value depends on the goal, exact formulation, cost and evidence. An adequate protein intake does not automatically justify BCAA, EAA or collagen on top; the linked comparison article examines those exceptions and limitations in detail.",
+        "sourceIds": [
+          "food-usda-sr28",
+          "food-performance-amino-acids",
+          "protein-plant-diet-hevia-2021",
+          "eaa-position"
+        ]
+      },
+      {
+        "id": "beyond-the-twenty",
+        "title": "Where citrulline, taurine, carnitine and creatine fit",
+        "body": "Not every compound sold beside an amino-acid powder is one of the standard twenty protein-building amino acids. Citrulline and ornithine participate in nitrogen metabolism; taurine is an amino-sulfonic compound rather than a standard residue in proteins. Carnitine and creatine are compounds whose production involves amino-acid metabolism. Their separate biological roles and research cannot be collapsed into an extra essential-amino-acid requirement.\n\nLikewise, a precursor relationship is not an automatic product recommendation: tryptophan being involved in melatonin production does not prescribe a melatonin pill, and glycine being used in collagen does not establish a need for collagen powder. Learn the role, identify the actual question and then assess the human evidence for a specific intervention.",
+        "sourceIds": [
+          "aa-essential-biochemistry",
+          "aa-urea-cycle",
+          "carnitine-overview",
+          "aa-tryptophan-medline"
+        ]
+      }
+    ],
+    "comparison": {
+      "title": "Activity context changes total protein planning, not twenty separate doses",
+      "columns": [
+        {
+          "key": "protein",
+          "label": "Total-protein reference"
+        },
+        {
+          "key": "example",
+          "label": "70 kg arithmetic example"
+        },
+        {
+          "key": "interpretation",
+          "label": "How to interpret it"
+        }
+      ],
+      "rows": [
+        {
+          "label": "Healthy adult, no structured training",
+          "values": {
+            "protein": "ICMR-NIN RDA: 0.83 g/kg/day.",
+            "example": "58.1 g/day.",
+            "interpretation": "Reference for healthy adults with appropriate protein quality; not a sports optimum."
+          },
+          "sourceIds": [
+            "aa-icmr-protein"
+          ]
+        },
+        {
+          "label": "Recreational fitness, including 2–3 weekly sessions",
+          "values": {
+            "protein": "No universal dose determined by session count alone.",
+            "example": "Choose an appropriate overall plan, not an invented mg-per-amino-acid multiplier.",
+            "interpretation": "Volume, intensity, age, energy intake and dietary adequacy matter."
+          },
+          "sourceIds": [
+            "exercise",
+            "aa-issn-protein"
+          ]
+        },
+        {
+          "label": "Regular endurance or athletic training",
+          "values": {
+            "protein": "Common sports framework: 1.2–2.0 g/kg/day.",
+            "example": "84–140 g/day.",
+            "interpretation": "A broad athlete range, adjusted to load and context; not an individual-AA prescription."
+          },
+          "sourceIds": [
+            "exercise"
+          ]
+        },
+        {
+          "label": "Resistance training / muscle-gain goals",
+          "values": {
+            "protein": "ISSN framework for most exercising people: about 1.4–2.0 g/kg/day.",
+            "example": "98–140 g/day.",
+            "interpretation": "A planning range, not a requirement for extra isolated BCAA or EAA."
+          },
+          "sourceIds": [
+            "aa-issn-protein"
+          ]
+        },
+        {
+          "label": "Hybrid training, HYROX, CrossFit or frequent sessions",
+          "values": {
+            "protein": "Use an individualized sports-protein framework; no separate mode-specific AA table.",
+            "example": "Do not assign a new amino-acid dose solely because training is five days a week.",
+            "interpretation": "Training demands and diet matter more than a sport label or experience tier."
+          },
+          "sourceIds": [
+            "exercise",
+            "aa-issn-protein"
+          ]
+        },
+        {
+          "label": "Energy restriction, older age or a medical nutrition issue",
+          "values": {
+            "protein": "May need a different individualized plan.",
+            "example": "No universal number supplied here.",
+            "interpretation": "Do not infer safety, a deficiency or treatment from the maintenance table; clinical restrictions can change the plan."
+          },
+          "sourceIds": [
+            "exercise",
+            "food-kidney-diet",
+            "aa-icmr-protein"
+          ]
+        }
+      ]
+    },
+    "sourceIds": [
+      "aa-essential-biochemistry",
+      "digestion",
+      "food-performance-amino-acids",
+      "aa-who-requirements-2007",
+      "aa-fao-quality-2013",
+      "food-usda-sr28",
+      "aa-usda-methods",
+      "aa-food-analysis-methods",
+      "aa-histidine-biochemistry",
+      "aa-bcaa-catabolism",
+      "eaa-position",
+      "bcaa-trial",
+      "aa-lysine-metabolism",
+      "aa-amino-metabolism",
+      "aa-amino-synthesis",
+      "aa-pku-medline",
+      "aa-tyrosine-mesh",
+      "aa-protein-processing",
+      "aa-mucin-glycosylation",
+      "aa-tryptophan-medline",
+      "aa-alanine-cycle",
+      "aa-arginine-metabolism",
+      "aa-asparagine-synthesis",
+      "aa-urea-cycle",
+      "aa-nucleotide-metabolism",
+      "aa-protein-structure",
+      "aa-glutathione-definition",
+      "aa-glutamate-neurochemistry",
+      "aa-glutamine-nutrition",
+      "aa-glycine-metabolism",
+      "aa-collagen-synthesis",
+      "aa-serine-metabolism",
+      "aa-catecholamines",
+      "aa-thyroid-hormone-synthesis",
+      "aa-plasma-testing",
+      "aa-protein-reference",
+      "aa-icmr-protein",
+      "exercise",
+      "aa-issn-protein",
+      "food-kidney-diet",
+      "protein-plant-diet-hevia-2021",
+      "carnitine-overview"
+    ]
+  }
+}

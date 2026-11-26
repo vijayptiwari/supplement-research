@@ -2646,6 +2646,338 @@
       "doi": "10.1002/ejsc.12281",
       "pmid": "40100255",
       "checked": "2026-11-26"
+    },
+    {
+      "id": "aa-essential-biochemistry",
+      "title": "NCBI Bookshelf: Biochemistry, Essential Amino Acids",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK557845/",
+      "kind": "Biochemistry reference",
+      "summary": "Defines the standard protein-building amino acids, nutritional essentiality and their general roles.",
+      "limitations": "A biochemical reference, not evidence that every isolated amino acid improves health or performance.",
+      "year": null,
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "aa-who-requirements-2007",
+      "title": "WHO/FAO/UNU: Protein and amino acid requirements in human nutrition",
+      "url": "https://iris.who.int/bitstream/handle/10665/43411/WHO_TRS_935_eng.pdf",
+      "kind": "Expert consultation report",
+      "summary": "Table 23, printed page 150: adult mean maintenance requirements in mg/kg/day; sections 8.3–8.5 discuss interpretation and uncertainty.",
+      "limitations": "Average requirements are not sports doses, diagnostic thresholds or upper limits. The sulfur and aromatic requirements are combined groups.",
+      "year": 2007,
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "aa-fao-quality-2013",
+      "title": "FAO: Dietary protein quality evaluation in human nutrition",
+      "url": "https://www.fao.org/4/i3124e/i3124e.pdf",
+      "kind": "Expert consultation report",
+      "summary": "Table 3, printed page 27, reproduces adult maintenance AA requirements; the report distinguishes requirements from protein-quality scoring patterns.",
+      "limitations": "Do not confuse mg/kg body weight/day with mg/g dietary protein or treat food composition as absorbed supply.",
+      "year": 2013,
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "aa-usda-methods",
+      "title": "USDA SR28 documentation: food and amino-acid composition methods",
+      "url": "https://www.ars.usda.gov/ARSUserFiles/80400525/Data/SR/SR28/sr28_doc.pdf",
+      "kind": "Official dataset documentation",
+      "summary": "Pages 25–26 explain amino-acid profiles, analytical sources and calculations from patterns and food protein/nitrogen.",
+      "limitations": "Reference profiles can be calculated. Zero data-point counts do not imply zero nutrient amounts; preparation and reporting form must be retained.",
+      "year": 2015,
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "aa-food-analysis-methods",
+      "title": "MEXT: Notes on analytical reporting of food amino acids",
+      "url": "https://www.mext.go.jp/component/english/__icsFiles/afieldfile/2017/09/21/1388554_Amino-Acid_Chap1_Prov.pdf",
+      "kind": "Official analytical-method reference",
+      "summary": "Explains hydrolysis-related reporting of asparagine with aspartic acid and glutamine with glutamic acid.",
+      "limitations": "Used only for analytical interpretation; historical nutritional-classification statements in this document are not used for adult essentiality or requirements.",
+      "year": null,
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "aa-histidine-biochemistry",
+      "title": "NCBI Bookshelf: Biochemistry, Histidine",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK538201/",
+      "kind": "Biochemistry reference",
+      "summary": "Describes histidine in proteins and enzymes and as a precursor of histamine and muscle dipeptides.",
+      "limitations": "Biological roles do not establish a need for supplementation or treatment benefits.",
+      "year": null,
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "aa-bcaa-catabolism",
+      "title": "Branched-chain Amino Acids: Catabolism in Skeletal Muscle and Implications for Muscle and Whole-body Metabolism",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8329528/",
+      "kind": "Mechanistic review",
+      "summary": "Reviews the regulated metabolism of leucine, isoleucine and valine across muscle and other tissues.",
+      "limitations": "Pathway information and substrate oxidation are not proof of added performance benefits from isolated BCAA products.",
+      "year": 2021,
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "aa-lysine-metabolism",
+      "title": "Lysine: Sources, Metabolism, Physiological Importance, and Use as a Supplement",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12469518/",
+      "kind": "Biochemical and physiological review",
+      "summary": "Explains lysine in proteins and pathways including collagen-related structure and carnitine production.",
+      "limitations": "Mechanisms and selected clinical uses do not prescribe extra lysine to adequately nourished readers.",
+      "year": 2025,
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "aa-amino-metabolism",
+      "title": "Amino Acid Metabolism",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8015690/",
+      "kind": "Biochemical review",
+      "summary": "Explains interconnected amino-acid pathways, methionine-derived methyl transfer, transsulfuration and amino-nitrogen metabolism.",
+      "limitations": "Mechanistic biology is distinct from evidence for routine supplementation or disease treatment.",
+      "year": 2021,
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "aa-amino-synthesis",
+      "title": "NCBI Bookshelf: Amino Acid Synthesis and Degradation",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK559250/",
+      "kind": "Biochemistry reference",
+      "summary": "Reviews amino-acid synthesis and degradation, precursor relationships and inherited metabolic disorders.",
+      "limitations": "Describes pathways and clinical mechanisms rather than healthy-adult supplement prescriptions.",
+      "year": null,
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "aa-pku-medline",
+      "title": "MedlinePlus Genetics: Phenylketonuria",
+      "url": "https://medlineplus.gov/genetics/condition/phenylketonuria/",
+      "kind": "Official clinical information",
+      "summary": "Explains impaired phenylalanine metabolism in PKU and the need for specialist management.",
+      "limitations": "General adult dietary references cannot be used to self-manage an inherited metabolic disorder.",
+      "year": null,
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "aa-protein-processing",
+      "title": "Cooper: Protein Folding and Processing",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK9843/",
+      "kind": "Cell-biology textbook chapter",
+      "summary": "Explains protein processing and carbohydrate attachment to amino-acid residues.",
+      "limitations": "A molecular-biology reference, not evidence that an isolated amino acid treats a digestive or immune condition.",
+      "year": null,
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "aa-tryptophan-medline",
+      "title": "MedlinePlus: Tryptophan, functions and food sources",
+      "url": "https://medlineplus.gov/ency/article/002332.htm",
+      "kind": "Official nutrition reference",
+      "summary": "Describes tryptophan as an essential protein constituent and precursor in serotonin, melatonin and niacin pathways.",
+      "limitations": "Precursor roles do not establish equivalence to hormone products or treatment for sleep and mood disorders.",
+      "year": null,
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "aa-alanine-cycle",
+      "title": "Felig: The glucose–alanine cycle",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/4567003/",
+      "kind": "Human metabolic physiology review",
+      "summary": "Explains alanine transport between tissues and its relationship to nitrogen handling and glucose production.",
+      "limitations": "Used for established physiology, not as a modern supplement-efficacy or daily-dose study.",
+      "year": 1973,
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "aa-arginine-metabolism",
+      "title": "Arginine metabolism and physiological functions",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34251644/",
+      "kind": "Biochemical review",
+      "summary": "Describes arginine in nitrogen disposal and pathways producing nitric oxide and creatine.",
+      "limitations": "Used for the biochemical roles; broad claims about supplementation are not adopted as clinical advice.",
+      "year": 2021,
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "aa-asparagine-synthesis",
+      "title": "Asparagine synthetase: Function, structure, and role in disease",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5723983/",
+      "kind": "Biochemical review",
+      "summary": "Describes asparagine synthesis from aspartate using glutamine-derived nitrogen.",
+      "limitations": "Cellular mechanisms do not establish an independent healthy-adult dietary or sports-supplement requirement.",
+      "year": 2017,
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "aa-urea-cycle",
+      "title": "NCBI Bookshelf: Physiology, Urea Cycle",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK513323/",
+      "kind": "Physiology reference",
+      "summary": "Explains the nitrogen-disposal cycle and roles of arginine, citrulline, ornithine and aspartate.",
+      "limitations": "A pathway reference, not permission to treat a urea-cycle disorder with retail amino acids.",
+      "year": null,
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "aa-nucleotide-metabolism",
+      "title": "Nucleotide Metabolism",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8247561/",
+      "kind": "Biochemical review",
+      "summary": "Explains nitrogen and carbon contributions to nucleotide synthesis, including amino-acid inputs.",
+      "limitations": "Normal biosynthesis does not establish that extra substrate improves health in an adequately nourished person.",
+      "year": 2021,
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "aa-protein-structure",
+      "title": "Alberts et al.: The Shape and Structure of Proteins",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK26830/",
+      "kind": "Cell-biology textbook chapter",
+      "summary": "Explains amino-acid side chains, protein folding and stabilizing disulfide bonds.",
+      "limitations": "Structural roles are not evidence of a therapeutic benefit from isolated amino-acid supplements.",
+      "year": null,
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "aa-glutathione-definition",
+      "title": "National Cancer Institute: Glutathione",
+      "url": "https://www.cancer.gov/publications/dictionaries/cancer-drug/def/glutathione",
+      "kind": "Official biochemical definition",
+      "summary": "Identifies glutathione as a tripeptide containing glutamate, cysteine and glycine.",
+      "limitations": "The definition does not certify supplement absorption, antioxidant claims or disease treatment.",
+      "year": null,
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "aa-glutamate-neurochemistry",
+      "title": "Basic Neurochemistry: Glutamate and Aspartate Are the Major Excitatory Transmitters in the Brain",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK28252/",
+      "kind": "Neurochemistry textbook chapter",
+      "summary": "Describes glutamate and GABA neurotransmission and their metabolic relationships.",
+      "limitations": "Food composition must not be treated as a direct measure of brain neurotransmitter concentrations.",
+      "year": 1999,
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "aa-glutamine-nutrition",
+      "title": "National Academies: Glutamine",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK230973/",
+      "kind": "Expert nutrition review",
+      "summary": "Discusses glutamine metabolism, nitrogen donation and utilization by intestinal and immune tissues.",
+      "limitations": "Physiological demand and clinical contexts do not establish a routine healthy-adult gut-repair or recovery supplement need.",
+      "year": null,
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "aa-glycine-metabolism",
+      "title": "Insulin resistance and glycine metabolism in humans",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29094215/",
+      "kind": "Metabolic review",
+      "summary": "Describes glycine in proteins and pathways producing compounds including glutathione, heme and creatine.",
+      "limitations": "Metabolic turnover and theoretical demand estimates are not established dietary RDAs.",
+      "year": 2018,
+      "doi": "10.1007/s00726-017-2508-0",
+      "pmid": "29094215",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "aa-collagen-synthesis",
+      "title": "NCBI Bookshelf: Biochemistry, Collagen Synthesis",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK507709/",
+      "kind": "Biochemistry reference",
+      "summary": "Describes collagen structure, glycine and proline content, and modified residues such as hydroxyproline.",
+      "limitations": "Protein structure does not prove that swallowed collagen is deposited intact in a chosen tissue.",
+      "year": null,
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "aa-serine-metabolism",
+      "title": "Sources and Sinks of Serine in Nutrition, Health, and Disease",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10783795/",
+      "kind": "Metabolic review",
+      "summary": "Reviews serine production and roles in proteins, one-carbon metabolism and lipid pathways.",
+      "limitations": "Pathway roles and selected diseases do not establish routine supplementation for healthy readers.",
+      "year": 2023,
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "aa-catecholamines",
+      "title": "NCBI Bookshelf: Physiology, Catecholamines",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK507716/",
+      "kind": "Physiology reference",
+      "summary": "Describes catecholamine production from tyrosine and the regulation of these chemical messengers.",
+      "limitations": "A precursor relationship is not proof of improved mood, focus or exercise performance from extra tyrosine.",
+      "year": null,
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "aa-plasma-testing",
+      "title": "MedlinePlus: Plasma amino-acid testing",
+      "url": "https://medlineplus.gov/ency/article/003361.htm",
+      "kind": "Official clinical test information",
+      "summary": "Explains why amino-acid measurements need interpretation alongside diet, illness, medicines and inherited metabolic conditions.",
+      "limitations": "Symptoms or a single test result cannot self-diagnose a dietary shortage of a particular amino acid.",
+      "year": null,
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "aa-protein-reference",
+      "title": "National Research Council: Protein and Amino Acids",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK234922/",
+      "kind": "Expert dietary-reference chapter",
+      "summary": "Explains amino-acid essentiality, protein turnover, nitrogen balance and the consequences of inadequate supply.",
+      "limitations": "Historical requirement numbers are not used here; current cited WHO/FAO and Indian references supply the article numerical guidance.",
+      "year": null,
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "aa-icmr-protein",
+      "title": "ICMR-NIN: Nutrient Requirements for Indians—RDA and EAR",
+      "url": "https://www.nin.res.in/RDA_Full_Report_2024.html",
+      "kind": "Official Indian dietary-reference report",
+      "summary": "The underlying RDA/EAR 2020 expert framework gives healthy-adult protein EAR 0.66 and RDA 0.83 g/kg/day; the official viewer provides the full report.",
+      "limitations": "Protein quality, individual context and population matter. These maintenance values are not athlete-specific amino-acid doses.",
+      "year": 2020,
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "aa-issn-protein",
+      "title": "ISSN position stand: Protein and exercise",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5477153/",
+      "kind": "Sports-nutrition position stand",
+      "summary": "Summarizes approximately 1.4–2.0 g/kg/day total protein for most exercising people seeking training adaptations.",
+      "limitations": "A broad sports framework, not a separate daily requirement for every amino acid. Read the disclosed commercial relationships.",
+      "year": 2017,
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "aa-mucin-glycosylation",
+      "title": "Essentials of Glycobiology: O-GalNAc Glycans",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1896/",
+      "kind": "Glycobiology textbook chapter",
+      "summary": "Explains carbohydrate attachment to serine and threonine residues in mucins and related glycoproteins.",
+      "limitations": "Normal protein processing is not evidence that threonine supplementation treats digestive disease.",
+      "year": null,
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "aa-tyrosine-mesh",
+      "title": "National Library of Medicine MeSH: Tyrosine",
+      "url": "https://www.ncbi.nlm.nih.gov/mesh/68014443",
+      "kind": "Official biochemical terminology reference",
+      "summary": "Identifies tyrosine as a phenylalanine-derived amino acid and precursor for compounds including catecholamines, thyroid hormones and melanin.",
+      "limitations": "A biochemical definition does not establish clinical benefits of isolated tyrosine.",
+      "year": null,
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "aa-thyroid-hormone-synthesis",
+      "title": "NCBI Bookshelf: Physiology, Thyroid Hormone",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK500006/",
+      "kind": "Physiology textbook chapter",
+      "summary": "Describes iodination and coupling of tyrosine residues in thyroglobulin during thyroid-hormone synthesis.",
+      "limitations": "Physiology does not establish that extra tyrosine treats hypothyroidism or replaces medical assessment.",
+      "year": 2023,
+      "checked": "2026-11-26"
     }
   ]
 }
