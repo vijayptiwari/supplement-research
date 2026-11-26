@@ -1,6 +1,6 @@
 import {guideHref} from './routes.js';
 import {testingStatusLabels} from './testing-evidence.js';
-import {escapeHtml as esc,formatDate,https} from './model.js';
+import {escapeHtml as esc,formatDate,https} from './presentation.js';
 import {nutrientCostFields,nutrientCostKey} from './units.js';
 const key=pick=>JSON.stringify([pick.category,String(pick.id)]);
 const lookup=(snapshot,pick)=>Object.hasOwn(snapshot.categories||{},pick.category)?snapshot.categories[pick.category]?.offers?.find(offer=>String(offer.id)===String(pick.id)):null;

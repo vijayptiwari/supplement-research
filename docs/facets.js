@@ -1,4 +1,4 @@
-import {escapeHtml as esc} from './model.js';
+import {escapeHtml as esc} from './presentation.js';
 
 const selectedValues=value=>(Array.isArray(value)?value:value==null||value===''?[]:[value]).filter(v=>v!=null&&v!=='').map(String);
 export function isFacetChecked(value,inputValue){return selectedValues(value).includes(String(inputValue));}

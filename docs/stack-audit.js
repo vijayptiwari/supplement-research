@@ -1,5 +1,5 @@
 import {articleHref} from './routes.js';
-import {escapeHtml as esc} from './model.js';
+import {escapeHtml as esc} from './presentation.js';
 import {nutrientUnits} from './units.js';
 import {buyingAudience,buyingFoods,buyingValue,buyingPractices,buyingQuality,productSelectionMarkup} from './guidance.js';
 import {intakeMarkup,medicalMarkup,matchingReferences} from './intake.js';

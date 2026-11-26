@@ -3,19 +3,26 @@ import {applyContentMetadata,metadataForLocation} from './seo.js';
 import {articleHref,guideHref,guideIdForLocation} from './routes.js';
 import {referenceDefaults,normalizeReferenceContext,intakeControls,readIntakeControls,workloadMarkup,intakeMarkup,medicalMarkup,clinicalSearchText} from './intake.js';
 import {categoryIcon,categoryGuideNavigation} from './marketplace.js';
-import {escapeHtml as esc,formatDate} from './model.js';
+import {escapeHtml as esc,formatDate} from './presentation.js';
 import {buyingGuideSearchText,buyingPriority,buyingAudience,buyingFoods,buyingValue,buyingPractices,buyingQuality,productSelectionMarkup} from './guidance.js';
 import {pathwayMarkup,pathwaySearchText} from './pathways.js';
 export function selectResearch(research,{category='',kind='',q='',priority='',priorityContext='routine'}={}){
  const threshold=Number(priority),scoreKey=priorityContext==='targeted'?'targetedScore':'routineScore';
- const query=q.trim().toLowerCase(),eligible=research.articles.filter(a=>(!category||a.category===category)&&(!(threshold>=1&&threshold<=5)||a.buyingGuide?.value[scoreKey]>=threshold)),articles=eligible.filter(a=>!query||[a.title,a.summary,a.evidence,a.catalogReading,...(a.bodySteps||[]),a.treatment,a.whoMayBenefit,a.routineUse,a.safety,buyingGuideSearchText(a.buyingGuide),clinicalSearchText(a),pathwaySearchText(a.pathway)].join(' ').toLowerCase().includes(query));
- const ids=new Set(eligible.flatMap(a=>a.sourceIds));
- const matchedIds=new Set(articles.flatMap(a=>a.sourceIds));
- const sources=research.sources.filter(s=>ids.has(s.id)&&(!kind||s.kind===kind)&&(!query||matchedIds.has(s.id)||[s.title,s.summary,s.limitations].join(' ').toLowerCase().includes(query)));
+ const query=q.trim().toLowerCase(),eligible=research.articles.filter(a=>(!category||a.category===category)&&(!(threshold>=1&&threshold<=5)||a.buyingGuide?.value?.[scoreKey]>=threshold)),articles=eligible.filter(a=>!query||researchSearchText(a).toLowerCase().includes(query));
+ const ids=new Set(eligible.flatMap(a=>a.sourceIds||[]));
+ const matchedIds=new Set(articles.flatMap(a=>a.sourceIds||[]));
+ const sources=(research.sources||[]).filter(s=>ids.has(s.id)&&(!kind||s.kind===kind)&&(!query||matchedIds.has(s.id)||[s.title,s.summary,s.limitations].join(' ').toLowerCase().includes(query)));
  return {articles,sources};
+}
+/** A summary may provide indexed terms while a full guide supplies its own text. */
+export function researchSearchText(article){
+ if(typeof article.searchText==='string')return article.searchText;
+ const buyingText=article._contentLoaded===false?'':buyingGuideSearchText(article.buyingGuide);
+ return [article.title,article.summary,article.evidence,article.catalogReading,...(article.bodySteps||[]),article.treatment,article.whoMayBenefit,article.routineUse,article.safety,buyingText,clinicalSearchText(article),pathwaySearchText(article.pathway)].join(' ');
 }
 const external=(s)=>`<a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.title)} ↗</a>`;
 export function guideMarkup(a,c,refs,policy=null,intakePolicy=null,medicalPolicy=null,context=referenceDefaults(),selectionPolicy=null,selectionRule=null,educationPolicy=null,pathwayPolicy=null,editorial=null){
+ if(a._contentLoaded===false)return `<section class="empty-state" aria-busy="true"><h2>${esc(a.title)}</h2><p>The complete guide is loading.</p></section>`;
  const g=a.buyingGuide,paragraph=text=>`<p>${esc(text)}</p>`;
  const sections=[
   ['benefits','What the evidence supports',paragraph(a.evidence)],
@@ -42,7 +49,7 @@ export function guideMarkup(a,c,refs,policy=null,intakePolicy=null,medicalPolicy
  const journey=[['process','Understand'],['practices','Use responsibly'],['labels','Judge value'],['products','Explore products']].filter(([key])=>(key!=='practices'||g?.practices)&&(key!=='products'||!c.educationOnly));
  return `<div class="article-layout"><div class="guide-sidebar"><div class="guide-selector-slot"></div><aside class="article-toc"><button type="button" class="contents-toggle" aria-expanded="false">In this guide <span>+</span></button><span class="section-kicker">IN THIS GUIDE</span><div class="toc-category">${categoryIcon(c.id)}<strong>${esc(c.label)}</strong></div><a href="#${esc(a.id)}-process">01 · How it works</a>${sections.map(([id,title],i)=>`<a href="#${esc(a.id)}-${id}">${String(i+2).padStart(2,'0')} · ${title}</a>`).join('')}<a href="#${esc(a.id)}-sources">${referenceNumber} · References</a>${c.educationOnly?'':`<a class="article-catalog" href="#${esc(productId)}">Next: explore products →</a>`}<small class="toc-disclaimer">Published evidence and labels. Editorial buying guidance with a stated context.</small></aside></div><article class="research-article" id="${esc(a.id)}"><div class="article-masthead"><div class="guide-category-symbol tone-${esc(c.id)}">${categoryIcon(c.id)}</div><span class="section-kicker">${esc(c.label)} / EVIDENCE GUIDE</span><h1>${esc(a.title)}</h1><p class="article-deck">${esc(a.summary)}</p><div class="article-byline"><a href="editorial-policy.html">${esc(a.author)}</a><span>Reviewed ${formatDate(a.reviewed)} · ${Math.max(1,Math.ceil(words/200))} min read</span></div><nav class="guide-learning-path" aria-label="Learning path">${journey.map(([key,label],i)=>`<a href="#${esc(a.id)}-${key}"><span>${String(i+1).padStart(2,'0')}</span>${esc(label)}</a>`).join('')}</nav></div><section class="article-section body-process" id="${esc(a.id)}-process"><span class="section-kicker">01 / THE PROCESS</span><h3>How it works in your body</h3>${pathwayMarkup(a.pathway,refs,a.id,pathwayPolicy)}<details class="mechanism-text"${a.pathway?'':' open'}><summary>Read the mechanism in text</summary><ol>${a.bodySteps.map(step=>`<li>${esc(step)}</li>`).join('')}</ol></details><p class="source-line">Sources: ${a.bodySources.map(id=>external(refs.get(id))).join(' · ')}</p></section>${sections.map(([id,title,html],i)=>`<section class="article-section ${id==='safety'?'safety-section':''}" id="${esc(a.id)}-${id}"><span class="section-kicker">${String(i+2).padStart(2,'0')}</span><h3>${title}</h3>${html}</section>`).join('')}<section class="article-section" id="${esc(a.id)}-sources"><span class="section-kicker">${referenceNumber} / REFERENCES</span><h3>Go to the original research</h3><ol class="article-references">${a.sourceIds.map(id=>`<li>${external(refs.get(id))}<small>${esc(refs.get(id).kind)}</small></li>`).join('')}</ol></section>${c.educationOnly?`<section class="article-next education-product-handoff" id="${esc(productId)}"><span class="section-kicker">CONTINUE LEARNING</span><h3>Review the evidence before a purchase</h3><p>${esc(c.scope||'This category currently publishes education. Product offers and price comparisons have not been audited.')}</p><div class="education-product-actions"><a href="articles.html?category=${esc(c.id)}">Read ${esc(c.label)} articles →</a><a href="recommender.html">Review your stack →</a></div></section>`:`<section class="article-next education-product-handoff" id="${esc(productId)}" aria-label="Explore products after the guide"><div><span class="section-kicker">PUT YOUR KNOWLEDGE TO WORK</span><h3>Explore ${esc(c.label)} products</h3><p>${esc(educationPolicy?.handoff||'Use what you have learned to assess the need, label and cost. Choosing no supplement is a valid outcome.')}</p><small>${packCount==null?'Review exact packs, label amounts and dated prices.':`${packCount.toLocaleString('en-IN')} exact pack offers · ${c.stats.brands} brands · dated source evidence`}</small><div class="education-product-actions"><a class="primary-link" href="${esc(c.page)}">Explore ${esc(c.label)} products →</a><a href="recommender.html">Review it in a stack →</a></div></div></section>`}</article></div>`;
 }
-const referenceContexts=new WeakMap(),navigationObservers=new WeakMap();
+const referenceContexts=new WeakMap(),navigationObservers=new WeakMap(),guideRequests=new WeakMap();
 // Move the original controls instead of recreating their selection, focus and bindings.
 export function placeResearchToolbar(root,readingGuide=false){
  const toolbar=root.querySelector('.library-toolbar'),home=root.querySelector('#research-toolbar-home'),slot=readingGuide&&root.querySelector('.guide-selector-slot'),destination=slot||home;
@@ -55,8 +62,9 @@ function syncGuideNavigation(root){
  measure();
  if(typeof ResizeObserver!=='undefined'){const observer=new ResizeObserver(measure);if(header)observer.observe(header);if(rail)observer.observe(rail);navigationObservers.set(root,observer);}
 }
-export function renderResearch(snapshot){
+export function renderResearch(snapshot,{loadGuide}={}){
  const data=snapshot.research,root=document.querySelector('#research-library');if(!data||!root)return;
+ guideRequests.set(root,(guideRequests.get(root)||0)+1);root.removeAttribute('aria-busy');
  const context=normalizeReferenceContext(data.intakePolicy,referenceContexts.get(root));referenceContexts.set(root,context);
  if(!root.dataset.ready){
  root.innerHTML=`<div id="research-toolbar-home"><div class="library-toolbar"><label for="research-category">Supplement<select id="research-category"></select></label><label for="research-query">Search the library<input id="research-query" type="search" placeholder="Try foods, a dietary need or an ingredient"></label></div></div><div class="buying-guide-controls" id="buying-filter-controls"><label for="research-priority-context">Purchase context<select id="research-priority-context"><option value="routine">Routine use with an adequate diet</option><option value="targeted">A stated need · read each guide’s scope</option></select></label><label for="research-priority">Minimum purchase priority<select id="research-priority"></select></label></div><p class="buying-policy-note" id="buying-policy-note"></p><nav class="topic-strip" aria-label="Research topics" id="research-topics"></nav><p id="research-count" class="library-meta" role="status"></p><div id="research-guides"></div><details class="reference-library"><summary>Research &amp; further reading</summary><div class="reference-toolbar"><p>Explore the original studies and expert overviews.</p><label for="research-kind">Reference type<select id="research-kind"></select></label></div><div id="research-sources" class="research-grid"></div></details>`;
@@ -86,9 +94,31 @@ export function renderResearch(snapshot){
  applyContentMetadata(metadataForLocation(snapshot,location,document.body.dataset));
  };
  const handleInput=e=>{const controls=e.target.closest('[data-intake-controls]');if(!controls){update();return;}Object.assign(context,readIntakeControls(controls));const article=e.target.closest('.research-article'),a=data.articles.find(a=>a.id===article.id),refs=new Map(data.sources.map(s=>[s.id,s]));article.querySelector('[data-intake-result]').innerHTML=intakeMarkup(a.intakeGuide,context,refs)+workloadMarkup(context,data.intakePolicy)+`<p class="intake-policy">${esc(data.intakePolicy.experienceNote)}</p>`;};
- const openSelectedGuide=()=>{document.querySelector('#research-query').value='';history.replaceState(null,'',location.pathname+location.search);delete root.dataset.fragmentHandled;update();const masthead=root.querySelector('.article-masthead'),target=masthead||root,heading=target.querySelector('h1');if(heading){heading.setAttribute('tabindex','-1');heading.focus({preventScroll:true});}target.scrollIntoView({block:'start'});};
+ const focusGuide=()=>{const masthead=root.querySelector('.article-masthead'),target=masthead||root,heading=target.querySelector('h1');if(heading){heading.setAttribute('tabindex','-1');heading.focus({preventScroll:true});}target.scrollIntoView({block:'start'});};
+ const openSelectedGuide=async()=>{
+  const selectedCategory=cat.value,guide=data.articles.find(article=>article.category===selectedCategory);
+  document.querySelector('#research-query').value='';delete root.dataset.fragmentHandled;
+  const request=(guideRequests.get(root)||0)+1;guideRequests.set(root,request);
+  if(guide?._contentLoaded===false||!selectedCategory&&loadGuide){
+   if(!loadGuide){location.assign(guideHref(selectedCategory));return;}
+   root.setAttribute('aria-busy','true');document.querySelector('#research-count').textContent='Loading the complete guide…';
+   try{
+    const next=await loadGuide(selectedCategory);
+    if(guideRequests.get(root)!==request)return;
+    if(selectedCategory&&!next?.research?.articles?.some(article=>article.category===selectedCategory&&article._contentLoaded!==false))throw Error('The complete guide could not be loaded.');
+    history.replaceState(null,'',selectedCategory?guideHref(selectedCategory):'research.html');
+    renderResearch(next,{loadGuide});focusGuide();
+   }catch(error){
+    if(guideRequests.get(root)!==request)return;
+    cat.value=root.dataset.activeCategory||'';root.removeAttribute('aria-busy');
+    document.querySelector('#research-count').textContent='The guide could not be refreshed. Your previous guide remains available. Try again.';
+   }
+   return;
+  }
+  root.removeAttribute('aria-busy');history.replaceState(null,'',location.pathname+location.search);update();focusGuide();
+ };
  root.oninput=e=>{if(e.target!==cat)handleInput(e);};root.onchange=e=>{if(e.target===cat)openSelectedGuide();else if(e.target.id!=='research-query')handleInput(e);};root.onclick=e=>{const contents=e.target.closest('.contents-toggle');if(contents){const open=contents.getAttribute('aria-expanded')!=='true';contents.setAttribute('aria-expanded',String(open));contents.closest('.article-toc').classList.toggle('is-open',open);contents.querySelector('span').textContent=open?'−':'+';}const chapter=e.target.closest('.article-toc a');if(chapter){const toc=chapter.closest('.article-toc'),toggle=toc.querySelector('.contents-toggle');toc.classList.remove('is-open');toggle.setAttribute('aria-expanded','false');toggle.querySelector('span').textContent='+';syncGuideNavigation(root);}const b=e.target.closest('[data-topic]');if(b){cat.value=b.dataset.topic;openSelectedGuide();}};update();
  if(location.hash&&root.dataset.fragmentHandled!==location.hash){root.dataset.fragmentHandled=location.hash;try{const target=document.getElementById(decodeURIComponent(location.hash.slice(1)));if(target)requestAnimationFrame(()=>target.scrollIntoView({block:'start'}));}catch{}}
 }
 
-export function researchIndexMarkup(snapshot,articles=snapshot.research.articles){const data=snapshot.research;return `<div class="guide-grid">${articles.map((a,i)=>`<a class="guide-card" href="${esc(guideHref(a.category))}"><div class="guide-card-visual tone-${esc(a.category)}">${categoryIcon(a.category)}</div><div class="guide-card-top"><span class="section-kicker">${esc(snapshot.categories[a.category].label)}</span><span class="guide-index">${String(i+1).padStart(2,'0')}</span></div><h2>${esc(a.title)}</h2><p>${esc(a.summary)}</p>${buyingPriority(a.buyingGuide,data.valuePolicy,{compact:true})}<span class="guide-card-bottom">${a.sourceIds.length} sources <span>Read guide ↗</span></span></a>`).join('')}</div>`;}
+export function researchIndexMarkup(snapshot,articles=snapshot.research.articles){const data=snapshot.research;return `<div class="guide-grid">${articles.map((a,i)=>`<a class="guide-card" href="${esc(guideHref(a.category))}"><div class="guide-card-visual tone-${esc(a.category)}">${categoryIcon(a.category)}</div><div class="guide-card-top"><span class="section-kicker">${esc(snapshot.categories[a.category].label)}</span><span class="guide-index">${String(i+1).padStart(2,'0')}</span></div><h2>${esc(a.title)}</h2><p>${esc(a.summary)}</p>${buyingPriority(a.buyingGuide,data.valuePolicy,{compact:true})}<span class="guide-card-bottom">${a.sourceCount??a.sourceIds?.length??0} sources <span>Read guide ↗</span></span></a>`).join('')}</div>`;}

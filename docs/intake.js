@@ -1,4 +1,4 @@
-import {escapeHtml as esc} from './model.js';
+import {escapeHtml as esc} from './presentation.js';
 
 const finite=n=>typeof n==='number'&&Number.isFinite(n);
 const num=n=>new Intl.NumberFormat('en-IN',{maximumFractionDigits:3}).format(n);
@@ -44,4 +44,4 @@ export function medicalMarkup(guide,policy,refs){
  if(!guide)return '';
  return `<p>${esc(guide.summary)}</p><div class="medical-evidence-list">${guide.conditions.map(e=>`<div class="medical-evidence" data-evidence-level="${esc(e.level)}"><span class="evidence-level">${esc(policy?.levels?.[e.level]||e.level)}</span><h4>${esc(e.condition)}</h4><p>${esc(e.findings)}</p><p class="source-line">${referenceSources(e.sourceIds,refs)}</p></div>`).join('')}</div><p class="medical-policy">${esc(policy?.summary||'Condition-specific evidence does not establish a personal treatment plan.')}</p>`;
 }
-export const clinicalSearchText=a=>[a.intakeGuide?.summary,...(a.intakeGuide?.notes||[]),...(a.intakeGuide?.targets||[]).flatMap(t=>[t.label,t.min,t.max,t.unit,t.notes,t.referenceType]),...(a.intakeGuide?.limits||[]).flatMap(t=>[t.label,t.max,t.unit,t.notes]),a.medicalGuide?.summary,...(a.medicalGuide?.conditions||[]).flatMap(e=>[e.condition,e.findings,e.limits])].join(' ');
+export {clinicalSearchText} from './search-text.js';

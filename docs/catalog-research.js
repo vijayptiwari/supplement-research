@@ -1,4 +1,4 @@
-import {escapeHtml as esc,formatDate} from './model.js';
+import {escapeHtml as esc,formatDate} from './presentation.js';
 
 export function catalogResearchMarkup(snapshot){
  const report=snapshot.catalogResearch;if(!report)return '';

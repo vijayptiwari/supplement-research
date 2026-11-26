@@ -1,8 +1,6 @@
 import {articleHref,guideHref} from './routes.js';
-import {clinicalSearchText} from './intake.js';
-import {escapeHtml as esc,formatDate} from './model.js';
-import {buyingGuideSearchText} from './guidance.js';
-import {pathwaySearchText} from './pathways.js';
+import {escapeHtml as esc,formatDate} from './presentation.js';
+import {clinicalSearchText,buyingGuideSearchText,pathwaySearchText} from './search-text.js';
 import {editorialCategories} from './editorial-model.js';
 
 const positive=value=>typeof value==='number'&&Number.isFinite(value)&&value>0;
@@ -14,29 +12,73 @@ const guideText=(guide,category)=>normalizeSearch([category.label,...(category.s
 const offerText=(offer,category)=>normalizeSearch([category.productSearchLabel||category.label,...(category.searchAliases||[]),...(offer.searchAliases||[]),...(category.nutrientFields||[]).filter(f=>offer.declaredNutrients?.includes(f.key)||offer[f.key]!=null).flatMap(f=>[f.label,...(f.searchAliases||[])]),/b[\s-]?complex/i.test([offer.product,offer.type,offer.subclass].join(' '))?'bcomplex':'',offer.brand,offer.product,offer.type,offer.subclass,offer.flavour,offer.grade,offer.formulation,offer.source,offer.form,offer.packaging,offer.stimulantStatus].join(' '));
 const sourcePrice=offer=>positive(offer.price)&&offer.priceAudit?.status==='verified';
 const pricedFirst=(a,b)=>a.price-b.price||String(a.id).localeCompare(String(b.id));
+const searchTokens=text=>unique(normalizeSearch(text).split(' ')).join(' ');
+const pick=(object,fields)=>Object.fromEntries(fields.filter(key=>object[key]!==undefined).map(key=>[key,object[key]]));
+const editorialSearchEvidence=(article,categories)=>[
+ ...editorialCategories(article).flatMap(id=>[categories[id]?.label,...(categories[id]?.searchAliases||[])]),
+ article.intro,...(article.sections||[]).flatMap(s=>[s.title,s.body]),
+ ...(article.myths||[]).flatMap(m=>[m.claim,m.verdict,m.explanation]),
+ ...(article.forms||[]).flatMap(f=>[f.name,f.description,f.metabolism,f.evidence,f.value]),
+ ...(article.evidenceNotes||[]).flatMap(n=>[n.finding,n.design,n.population,n.outcome,n.limits]),
+ ...(article.comparison?.rows||[]).flatMap(row=>[row.label,...Object.values(row.values)])
+].join(' ');
+
+/** Compact discovery data. The browser needs matching tokens and result facts,
+ * not complete article bodies, assay galleries or per-pack price histories. */
+export function buildSearchIndex(snapshot){
+ if(snapshot.searchIndex===true)return structuredClone(snapshot);
+ const sourceIds=new Set((snapshot.research?.sources||[]).map(source=>source.id));
+ const categories=Object.fromEntries(Object.values(snapshot.categories||{}).map(category=>[category.id,{
+  ...pick(category,['id','label','page','searchAliases']),
+  offers:(category.offers||[]).map(offer=>({
+   ...pick(offer,['id','brand','product','flavour','type','subclass','form','grams','kg','packCount','isUnitOffer','price','stock']),
+   ...(offer.priceAudit?{priceAudit:pick(offer.priceAudit,['status','checked'])}:{}),
+   searchText:searchTokens(offerText(offer,category))
+  }))
+ }]));
+ const summary=(article,editorial=false)=>{
+  const category=snapshot.categories[article.category];
+  const searchable=editorial?{...article,evidence:editorialSearchEvidence(article,snapshot.categories)}:article;
+  return {
+   ...pick(article,['id','category','relatedCategories','series','title','summary','reviewed','author']),
+   editorial,href:editorial?articleHref(article.id):guideHref(article.category),
+   sourceCount:(article.sourceIds||[]).filter(id=>sourceIds.has(id)).length,
+   searchText:searchTokens(guideText(searchable,category)+' '+pathwaySearchText(article.pathway))
+  };
+ };
+ return {
+  schemaVersion:1,searchIndex:true,
+  config:pick(snapshot.config||{},['locale','currency']),categories,
+  research:{articles:(snapshot.research?.articles||[]).map(article=>summary(article)),editorial:{articles:(snapshot.research?.editorial?.articles||[]).map(article=>summary(article,true))},sources:[]}
+ };
+}
 
 /** AND-term discovery over exact offer inputs and educational guides. */
 export function searchCatalog(snapshot,{q='',category='',kind='all'}={}){
  const query=String(q??'').trim(),terms=termsFor(query),mode=['all','products','guides'].includes(kind)?kind:'all';
+ const indexed=snapshot.searchIndex===true;
  const categories=Object.values(snapshot.categories||{}),sourceMap=new Map((snapshot.research?.sources||[]).map(source=>[source.id,source])),families=new Map();
  for(const c of categories)for(const offer of c.offers){
   const key=JSON.stringify([c.id,offer.brand,offer.product]);
   if(!families.has(key))families.set(key,{id:key,category:c.id,categoryLabel:c.label,page:c.page,brand:offer.brand,product:offer.product,variants:[],allVariants:[]});
-  const family=families.get(key);family.allVariants.push(offer);if(matches(offerText(offer,c),terms))family.variants.push(offer);
+  const family=families.get(key);family.allVariants.push(offer);if(matches(indexed?offer.searchText||'':offerText(offer,c),terms))family.variants.push(offer);
  }
  const allProducts=[...families.values()].filter(family=>family.variants.length).map(family=>{
   const sourced=family.variants.filter(sourcePrice).sort(pricedFirst),available=sourced.filter(offer=>offer.stock==='In stock'),representative=available[0]||sourced[0]||null;
   return {...family,matchingCount:family.variants.length,totalCount:family.allVariants.length,verifiedCount:sourced.length,availableCount:available.length,minPrice:available[0]?.price??null,lowestSourcedPrice:sourced[0]?.price??null,priceStatus:available.length?'available':sourced.length?'sourced-unavailable':'unverified',representative,types:unique(family.variants.map(offer=>offer.type)),subclasses:unique(family.variants.map(offer=>offer.subclass)),flavours:unique(family.variants.map(offer=>offer.flavour)),packLabels:unique(family.variants.map(packLabel))};
  }).sort((a,b)=>a.categoryLabel.localeCompare(b.categoryLabel)||a.brand.localeCompare(b.brand)||a.product.localeCompare(b.product));
- const editorial=(snapshot.research?.editorial?.articles||[]).map(a=>({...a,editorial:true,href:articleHref(a.id),evidence:[...editorialCategories(a).flatMap(id=>[snapshot.categories[id]?.label,...(snapshot.categories[id]?.searchAliases||[])]),a.intro,...a.sections.flatMap(s=>[s.title,s.body]),...(a.myths||[]).flatMap(m=>[m.claim,m.verdict,m.explanation]),...(a.forms||[]).flatMap(f=>[f.name,f.description,f.metabolism,f.evidence,f.value]),...(a.evidenceNotes||[]).flatMap(n=>[n.finding,n.design,n.population,n.outcome,n.limits]),...(a.comparison?.rows||[]).flatMap(row=>[row.label,...Object.values(row.values)])].join(' ')}));
- const allGuides=[...(snapshot.research?.articles||[]),...editorial].filter(guide=>snapshot.categories[guide.category]&&matches(guideText(guide,snapshot.categories[guide.category])+' '+normalizeSearch(pathwaySearchText(guide.pathway)),terms)).map(guide=>({...guide,href:guide.href||guideHref(guide.category),categoryLabel:editorialCategories(guide).map(id=>snapshot.categories[id]?.label||id).join(' · '),sourceRefs:(guide.sourceIds||[]).map(id=>sourceMap.get(id)).filter(Boolean)}));
+ const editorial=(snapshot.research?.editorial?.articles||[]).map(a=>indexed?a:{...a,editorial:true,href:articleHref(a.id),evidence:editorialSearchEvidence(a,snapshot.categories)});
+ const allGuides=[...(snapshot.research?.articles||[]),...editorial].filter(guide=>snapshot.categories[guide.category]&&matches(indexed?guide.searchText||'':guideText(guide,snapshot.categories[guide.category])+' '+normalizeSearch(pathwaySearchText(guide.pathway)),terms)).map(guide=>{
+  const sourceRefs=indexed?[]:(guide.sourceIds||[]).map(id=>sourceMap.get(id)).filter(Boolean);
+  return {...guide,href:guide.href||guideHref(guide.category),categoryLabel:editorialCategories(guide).map(id=>snapshot.categories[id]?.label||id).join(' · '),sourceRefs,sourceCount:indexed?guide.sourceCount:sourceRefs.length};
+ });
  const facets=categories.map(c=>{const products=mode==='guides'?0:allProducts.filter(p=>p.category===c.id).length,guides=mode==='products'?0:allGuides.filter(g=>editorialCategories(g).includes(c.id)).length;return {id:c.id,label:c.label,products,guides,total:products+guides};});
  const products=mode==='guides'?[]:allProducts.filter(p=>!category||p.category===category),guides=mode==='products'?[]:allGuides.filter(g=>!category||editorialCategories(g).includes(category));
  return {query,terms,category,kind:mode,products,guides,facets,allCategoryTotal:(mode==='guides'?0:allProducts.length)+(mode==='products'?0:allGuides.length),totals:{products:products.length,guides:guides.length,variants:products.reduce((sum,p)=>sum+p.matchingCount,0),all:products.length+guides.length}};
 }
 function packLabel(offer){
  if(offer.form==='Powder')return offer.grams==null?'Pack size unverified':`${offer.grams} g powder`;
- if(offer.isUnitOffer||offer.packCount!=null)return `${offer.packCount} ${{Tablet:'tablets',Capsule:'capsules',Softgel:'softgels',Gummy:'gummies','Oral strip':'oral strips'}[offer.form]||'units'}`;
+ if(offer.isUnitOffer||offer.packCount!=null)return positive(offer.packCount)?`${offer.packCount} ${{Tablet:'tablets',Capsule:'capsules',Softgel:'softgels',Gummy:'gummies','Oral strip':'oral strips'}[offer.form]||'units'}`:'Pack size unverified';
  return offer.kg!=null?`${offer.kg} kg`:offer.grams!=null?`${offer.grams} g`:'Pack size unverified';
 }
 function catalogLink(product){const params=new URLSearchParams({brand:product.brand,product:product.product});return product.page+'?'+params;}
@@ -45,7 +87,7 @@ function productMarkup(product,snapshot){
  const price=product.priceStatus==='available'?`<span class="discover-price-label">Sourced in-stock price from</span><strong class="discover-price">${money(product.minPrice)}</strong>`:product.priceStatus==='sourced-unavailable'?`<span class="discover-price-label">Verified quote from ${money(product.lowestSourcedPrice)}</span><strong class="discover-price-note">No verified in-stock pack</strong>`:'<strong class="discover-price-note">Current price unverified</strong>';
  return `<article class="discover-product"><div class="discover-product-heading"><span class="discover-eyebrow">${esc(product.categoryLabel)}</span><span class="discover-brand">${esc(product.brand)}</span></div><h3><a href="${esc(catalogLink(product))}">${esc(product.product)}</a></h3><p class="discover-form">${esc(product.types.join(' / '))}${product.subclasses.length?' · '+esc(product.subclasses.join(' / ')):''}</p><p class="discover-pack">${esc(product.packLabels.join(' · '))}</p><p class="discover-match">${product.matchingCount} matching ${product.matchingCount===1?'pack':'packs'} · ${product.flavours.length} ${product.flavours.length===1?'flavour':'flavours'}${product.totalCount>product.matchingCount?' · '+product.totalCount+' total product packs':''}</p><div class="discover-price-block">${price}${r?`<small>${esc(packLabel(r))} · ${esc(r.flavour)} · observed ${formatDate(r.priceAudit.checked)}</small>`:''}</div><div class="discover-product-actions"><a class="discover-primary" href="${esc(catalogLink(product))}">Compare packs →</a><a href="${esc(guideHref(product.category))}">Learn about ${esc(product.categoryLabel)}</a></div></article>`;
 }
-function guideMarkup(guide){return `<article class="discover-guide"><span class="discover-eyebrow">${esc(guide.categoryLabel)} · ${guide.editorial?'Article':'Evidence guide'}</span><h3><a href="${esc(guide.href)}">${esc(guide.title)}</a></h3><p>${esc(guide.summary)}</p><div class="discover-guide-meta">${guide.sourceRefs.length} cited ${guide.sourceRefs.length===1?'reference':'references'} · reviewed ${formatDate(guide.reviewed)}</div><a class="discover-guide-link" href="${esc(guide.href)}">Read ${guide.editorial?'article':'the guide'} →</a></article>`;}
+function guideMarkup(guide){const count=guide.sourceCount??guide.sourceRefs?.length??0;return `<article class="discover-guide"><span class="discover-eyebrow">${esc(guide.categoryLabel)} · ${guide.editorial?'Article':'Evidence guide'}</span><h3><a href="${esc(guide.href)}">${esc(guide.title)}</a></h3><p>${esc(guide.summary)}</p><div class="discover-guide-meta">${count} cited ${count===1?'reference':'references'} · reviewed ${formatDate(guide.reviewed)}</div><a class="discover-guide-link" href="${esc(guide.href)}">Read ${guide.editorial?'article':'the guide'} →</a></article>`;}
 
 /** Owns only #search-results-root. No data or user profile is persisted. */
 export function renderSearch(snapshot){

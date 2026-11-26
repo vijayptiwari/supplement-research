@@ -29,7 +29,7 @@ Wiki files own category definitions and complete education guides. Product files
 
 Maintained catalog, archival-price and Trustified import tools write through the artifact store. Staged updates reject concurrent manual edits, retain unrelated content and preserve label-review dates. [The source guide](artifacts/README.md) documents new categories, articles, products and the staged export/import workflow.
 
-Open visible pages check for a published revision every minute, when returning to the tab and through **Refresh data**. They swap the complete validated snapshot together and retain existing controls. Invalid updates keep the last valid revision. This refreshes published research, not merchant checkout prices.
+Open visible pages check for a published revision every minute, when returning to the tab and through **Refresh data**. They assemble the resources needed for the current page from one validated revision and retain existing controls. Invalid or incomplete updates keep the last valid view. This refreshes published research, not merchant checkout prices.
 
 ## Source files and calculations
 
@@ -39,9 +39,12 @@ Open visible pages check for a published revision every minute, when returning t
 - `artifacts/site.json`: display, currency, freshness and polling policies; categories are discovered from wiki files.
 - `artifacts/references.json` and `research-policy.json`: shared citations and editorial/clinical/intake policies.
 - `artifacts/brands.json` and `recommender.json`: optional brand details and reviewed selection policies.
-- `docs/model.js`: shared validation and calculations used by the browser, build and tests.
+- `docs/model.js`: complete source validation and normalization at build time and for the full audit dataset.
+- `scripts/browser_datasets.mjs`: generates summary, category, article, guide, product-detail, search and tool resources from the validated source model.
+- `docs/data-store.js`: verifies hashes, loads the current page's resources and commits complete views from one revision.
+- `docs/site.js`: shared shell with lazy page controllers; display helpers are separate from source validators.
 
-`dist/data/` contains generated compatibility exports and the content-addressed browser snapshot. The old editable `docs/data/*.json` collection has been migrated and removed; editing a generated export does not update the sources. The archived Excel workbook is retained.
+`dist/data/` contains generated compatibility exports, immutable browser resources and their manifest. The old editable `docs/data/*.json` collection has been migrated and removed; editing a generated export does not update the sources. The archived Excel workbook is retained.
 
 Compound cost = price / (net pack grams × labelled percentage / 100). Powder cost = price / net pack grams. Comparison-portion cost = compound cost × the configured reference grams. The portion is not the manufacturer's scoop or intake advice. Protein per scoop uses the recorded scoop weight and concentration. Missing energy stays unknown, including on the homepage; a recorded zero remains zero.
 
@@ -87,7 +90,9 @@ npm start
 
 Open http://localhost:8080. Serve **`dist/`**, not `docs/` directly: the build creates the version manifest and validated snapshot. No application dependencies, backend or API keys are required.
 
-The build produces normalized catalog JSON, price-audit JSON/CSV, a field-level quality report and dataset-driven SEO/JSON-LD. It publishes one content-addressed `snapshot.<sha256>.json` and a small `version.json` pointer. The browser verifies the hash, validates the whole revision and swaps it atomically, avoiding mixed category versions. Generated exports support offline auditing; the website has no export controls. JSON download files belong to the latest deployed build. Original dated Excel workbooks remain archival files and are not presented as current downloads; editing a workbook alone does not update the website.
+The build produces normalized catalog JSON, price-audit JSON/CSV, a field-level quality report and dataset-driven SEO/JSON-LD. A small `version.json` points to an immutable `manifest.<sha256>.json`, which lists hashed page resources. Home pages load summaries; readers load the current guide or article; catalogs load one category; exact pack details load one product line. Search and the stack builder have their own projections. The complete `snapshot.<sha256>.json` remains available for the audit view and compatibility. The browser verifies resource hashes before atomically replacing a view, keeping revisions separate and rejecting stale asynchronous results. Generated exports support offline auditing; the website has no export controls. JSON download files belong to the latest deployed build. Original dated Excel workbooks remain archival files and are not presented as current downloads; editing a workbook alone does not update the website.
+
+Run `npm run measure:payloads` after building to write `outputs/browser-payloads.json`. It measures uncompressed JSON bytes and the entry module's static import graph, not browser timing or Core Web Vitals. Add valid artifacts, validate and publish to update content without changing UI code; new calculation units or recommendation policies still need reviewed code.
 
 `.github/workflows/check.yml` runs tests and the build before deploying the Pages artifact. GitHub Pages must use **GitHub Actions** as its build source. A rejected update leaves the last successful deployment available. Generated `dist/` is ignored by Git; edit source inputs rather than generated bundles. Relative paths support the repository subpath.
 

@@ -1,4 +1,4 @@
-import {pageMetadata} from './model.js';
+import {pageMetadata} from './catalog-model.js';
 import {editorialNarrativeWords,editorialSeriesLabel} from './editorial-model.js';
 import {articleHref,guideHref,articleIdForLocation,guideIdForLocation} from './routes.js';
 
@@ -11,7 +11,7 @@ export function contentMetadata(snapshot,{kind='',id='',query=''}={}){
  const organization={'@type':'Organization','@id':base+'#organization',name,url:base};
  const breadcrumbs=[{name:'Home',url:base}];
  if(article){
-  path=articleHref(article.id);type='article';metadata={title:article.title+' · '+name,description:excerpt(article.summary),structured:{'@type':'Article',headline:article.title,description:article.summary,dateModified:article.reviewed,author:{'@type':'Organization',name:article.author,url:absolute(snapshot,'editorial-policy.html')},publisher:{'@id':organization['@id']},inLanguage:'en-IN',articleSection:editorialSeriesLabel(article,snapshot.research.editorial),wordCount:editorialNarrativeWords(article),citation:article.sourceIds.map(id=>snapshot.research.sources.find(s=>s.id===id)?.url).filter(Boolean)}};
+  path=articleHref(article.id);type='article';metadata={title:article.title+' · '+name,description:excerpt(article.summary),structured:{'@type':'Article',headline:article.title,description:article.summary,dateModified:article.reviewed,author:{'@type':'Organization',name:article.author,url:absolute(snapshot,'editorial-policy.html')},publisher:{'@id':organization['@id']},inLanguage:'en-IN',articleSection:editorialSeriesLabel(article,snapshot.research.editorial),wordCount:article.wordCount??editorialNarrativeWords(article),citation:(article.sourceIds||[]).map(id=>snapshot.research.sources.find(s=>s.id===id)?.url).filter(Boolean)}};
   if(article.published)metadata.structured.datePublished=article.published;
   breadcrumbs.push({name:'Articles',url:absolute(snapshot,'articles.html')},{name:article.title,url:absolute(snapshot,path)});
  }else if(guide){

@@ -33,6 +33,6 @@ test('explicit catalog routes remain usable and their learning links begin at th
 
 test('catalog and search pages use the same guide rail as the home page',async()=>{
  const js=await fs.readFile(new URL('../docs/site.js',import.meta.url),'utf8');
- assert.ok(js.includes('categoryNav.innerHTML=categoryGuideNavigation(next.config.categories,active)'));
+ assert.match(js,/categoryNav\.innerHTML\s*=\s*marketplace\.categoryGuideNavigation\(\s*current\.config\.categories,\s*active/);
  assert.ok(!js.includes("categoryId||pageType==='search'?c.page"));
 });

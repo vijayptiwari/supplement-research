@@ -1,12 +1,9 @@
 import {guideHref} from './routes.js';
-import {escapeHtml as esc,formatDate} from './model.js';
+import {escapeHtml as esc,formatDate} from './presentation.js';
 import {productChecksFor,productCheckText} from './product-policy.js';
 
 export const buyingGuideFor=(snapshot,category)=>snapshot.research?.articles?.find(a=>a.category===category)?.buyingGuide;
-export function buyingGuideSearchText(g){
- if(!g)return '';
- return [...g.whoCanConsider,...g.whoShouldReview,g.foodSummary,...g.foods.flatMap(f=>[f.name,f.detail,f.quantityNote,JSON.stringify(f.amounts||[])]),g.value.targetedUse,g.value.reason,g.value.scope,...g.value.worthWhen,...g.value.skipWhen,...[...(g.practices?.dos||[]),...(g.practices?.donts||[])].flatMap(i=>[i.title,i.detail])].join(' ');
-}
+export {buyingGuideSearchText} from './search-text.js';
 export const sourceLinks=(ids,refs)=>ids.map(id=>{const s=refs.get(id);return s?`<a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.title)} ↗</a>`:'';}).filter(Boolean).join(' · ');
 const list=items=>`<ul>${items.map(text=>`<li>${esc(text)}</li>`).join('')}</ul>`;
 const scoreLabel=(policy,score)=>policy?.scale?.find(s=>s.score===score)?.label||'Assessment unavailable';

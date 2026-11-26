@@ -1,4 +1,4 @@
-import {escapeHtml as esc,formatDate,https,positive,isoDate} from './model.js';
+import {escapeHtml as esc,formatDate,https,positive,isoDate} from './presentation.js';
 
 export const primarySourceLabel=r=>r.sourceType==='retailer'?`${r.retailer} product listing`:'Official product listing';
 

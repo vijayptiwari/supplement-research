@@ -2,7 +2,7 @@ import {guideHref} from './routes.js';
 import {offerMatchesProductPolicy} from './product-policy.js';
 import {intakeControls,readIntakeControls,referenceDefaults,workloadMarkup} from './intake.js';
 import {stackCategoryMarkup,dailyQuantityUnit,auditStackMarkup,stackPackLabel} from './stack-audit.js';
-import {escapeHtml as esc,formatDate} from './model.js';
+import {escapeHtml as esc,formatDate} from './presentation.js';
 export function recommend(snapshot,input){
  const policy=snapshot.recommender,goals=new Set(input.goals||[]),existing=new Set(input.existing||[]),restricted=input.context!=='adult-clear',budget=input.budget===''||input.budget==null?null:Number(input.budget);
  // A newly published wiki is discoverable before a category-specific buying

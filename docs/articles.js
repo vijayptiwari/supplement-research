@@ -1,6 +1,6 @@
 import {applyContentMetadata,metadataForLocation} from './seo.js';
 import {articleHref,guideHref,articleIdForLocation} from './routes.js';
-import {escapeHtml as esc,formatDate,https} from './model.js';
+import {escapeHtml as esc,formatDate,https} from './presentation.js';
 import {categoryIcon} from './marketplace.js';
 import {pathwayMarkup} from './pathways.js';
 import {editorialCategories,editorialCoverage,editorialCollections,editorialSeriesId,editorialSeriesLabel,standaloneSeriesId} from './editorial-model.js';
@@ -8,6 +8,7 @@ export {editorialCategories} from './editorial-model.js';
 
 const normalized=value=>String(value??'').normalize('NFKD').replace(/\p{Diacritic}/gu,'').toLowerCase().replace(/[^\p{Letter}\p{Number}]+/gu,' ').trim();
 const textValues=value=>Array.isArray(value)?value.flatMap(textValues):value&&typeof value==='object'?Object.entries(value).filter(([key])=>!['sourceIds','id','reviewed'].includes(key)).flatMap(([,item])=>textValues(item)):typeof value==='string'?[value]:[];
+export const editorialSearchText=article=>textValues(article).join(' ');
 const token=value=>String(value??'').replace(/[^a-zA-Z0-9_-]/g,'-');
 const categoryPage=value=>typeof value==='string'&&/^[a-zA-Z0-9][a-zA-Z0-9_-]*\.html$/.test(value)?value:null;
 const paragraphs=value=>(Array.isArray(value)?value:[value]).filter(Boolean).flatMap(text=>String(text).split(/\n\s*\n/)).map(text=>`<p>${esc(text)}</p>`).join('');
@@ -16,11 +17,12 @@ const linkFor=(state={})=>{if(state.article)return articleHref(state.article);co
 /** Filters published editorial data without modifying the dataset or its order. */
 export function selectEditorial(editorial,{series='',category='',q=''}={}){
  const terms=normalized(q).split(' ').filter(Boolean),seriesNames=new Map(editorialCollections(editorial).map(item=>[item.id,item.label]));
- return (editorial?.articles||[]).filter(article=>(!series||editorialSeriesId(article)===series)&&(!category||editorialCategories(article).includes(category))&&terms.every(term=>normalized([...textValues(article),seriesNames.get(editorialSeriesId(article))].join(' ')).includes(term)));
+ return (editorial?.articles||[]).filter(article=>(!series||editorialSeriesId(article)===series)&&(!category||editorialCategories(article).includes(category))&&terms.every(term=>normalized([article.searchText||editorialSearchText(article),seriesNames.get(editorialSeriesId(article))].join(' ')).includes(term)));
 }
 
+/** Summary files retain the reading time without shipping every article body. */
 export function editorialReadingMinutes(article){
- const words=textValues(article).join(' ').trim().split(/\s+/).filter(Boolean).length;
+ const words=Number.isFinite(article.wordCount)&&article.wordCount>=0?article.wordCount:textValues(article).join(' ').trim().split(/\s+/).filter(Boolean).length;
  return Math.max(1,Math.ceil(words/200));
 }
 
@@ -47,6 +49,7 @@ function comparisonMarkup(comparison,article,refs,numbers,prefix){
 /** The full reader is derived only from the editorial entry and current snapshot. */
 export function editorialMarkup(article,snapshot){
  if(!article)return '<section class="editorial-empty"><span class="section-kicker">ARTICLE UNAVAILABLE</span><h1>We could not find that article.</h1><p>It may have moved or been removed from the latest dataset. Browse the library to find a current article.</p><a class="primary-link" href="articles.html">Browse all articles →</a></section>';
+ if(article._contentLoaded===false)return `<section class="editorial-empty" aria-busy="true"><h1>${esc(article.title)}</h1><p>The complete article is loading.</p></section>`;
  const editorial=snapshot.research?.editorial,category=snapshot.categories?.[article.category],series=editorialCollections(editorial).find(item=>item.id===editorialSeriesId(article)),guide=snapshot.research?.articles?.find(item=>item.category===article.category),pathway=guide?.pathway||category?.pathway,refs=new Map((snapshot.research?.sources||[]).map(source=>[source.id,source]));
  const ids=[...new Set([...articleSourceIds(article),...(pathway?.sourceIds||[])])].filter(id=>refs.has(id)),numbers=new Map(ids.map((id,index)=>[id,index+1])),prefix='editorial-'+token(article.id),myths=article.myths||[],forms=article.forms||[],sections=article.sections||[];
  const toc=[['intro','Start here'],...(article.evidenceNotes?.length?[['evidence','What the sources tested']]:[]),...(article.comparison?[['comparison','Compare at a glance']]:[]),...(myths.length?[['myths',`${myths.length} myths, checked`]]:[]),...(forms.length?[['types','Ingredient types & delivery formats']]:[]),...(pathway?[['process','How it works in your body']]:[]),...sections.map((section,index)=>[`section-${token(section.id||index+1)}`,section.title]),['sources','Sources & further reading'],['next','Put it into practice']];
@@ -76,6 +79,10 @@ export function renderArticles(snapshot){
  document.body.classList.toggle('reading-editorial',!!articleId);
  if(!editorial){root.innerHTML='<section class="editorial-empty"><h1>Articles are being prepared.</h1><p>Visit the supplement guides while this library is being updated.</p><a href="research.html">Explore evidence guides →</a></section>';delete root.dataset.mode;return;}
  if(articleId){
+  // Keep the complete server-rendered reader visible until its body has arrived.
+  // A list summary is deliberately insufficient to replace cited article content.
+  if(editorial.articles.find(article=>article.id===articleId)?._contentLoaded===false){root.setAttribute('aria-busy','true');return;}
+  root.removeAttribute('aria-busy');
   applyContentMetadata(metadataForLocation(snapshot,location,document.body.dataset));
   const previousFocus=root.contains(document.activeElement)?document.activeElement:null,focusedHref=previousFocus?.closest('a')?.getAttribute('href'),focusedContents=previousFocus?.classList.contains('editorial-contents-toggle'),contentsOpen=root.dataset.articleId===articleId&&root.querySelector('.editorial-sidebar')?.classList.contains('is-open');
   root.innerHTML=editorialMarkup(editorial.articles.find(article=>article.id===articleId),snapshot);root.dataset.mode='reader';root.dataset.articleId=articleId;measureReader(root);

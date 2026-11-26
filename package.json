@@ -5,6 +5,7 @@
   "scripts": {
     "test": "node --test tests/*.test.js",
     "build": "node scripts/build_site.mjs",
+    "measure:payloads": "node scripts/measure_browser_payloads.mjs dist --output outputs/browser-payloads.json",
     "start": "npm run build && python -m http.server 8080 --directory dist",
     "validate:artifacts": "node scripts/artifact_store.mjs validate",
     "migrate:artifacts": "node scripts/migrate_to_artifacts.mjs",

@@ -69,6 +69,23 @@ npm start
 
 Commit the changed source files. GitHub Actions rebuilds the static site, including search, filters, SEO pages, exports and the atomic browser dataset. Open pages continue to refresh published dataset revisions automatically.
 
+## Artifact discovery and browser loading
+
+Add a valid wiki, product line, variant, article or series descriptor in its documented directory, then validate, build and publish. The build discovers these files and generates category navigation, filters, article listings, search data and reading pages without editing JavaScript or maintaining a second list of content IDs. New calculation units or recommendation rules still require a reviewed implementation.
+
+GitHub Pages serves the last published build. Editing a local artifact does not change the live website until that build is deployed. After publication, open pages check the version pointer and replace their dataset together. A failed or incomplete refresh keeps the last usable version visible.
+
+The browser first reads shared category/content summaries, then requests the current catalog, guide, article or tool dataset. Full product evidence is loaded when its details are opened. Search uses a compact index instead of downloading every article body and price-history record. The complete dataset and audit exports remain available for evidence review.
+
+To measure the generated payloads after building:
+
+```sh
+npm run build
+node scripts/measure_browser_payloads.mjs dist --output outputs/browser-payloads.json
+```
+
+The report counts actual file bytes for the version pointer, manifest and resources needed by each page type, compares them with the full legacy bundle, and lists the static JavaScript imports reached from `site.js`. Counts are uncompressed bytes on disk. Dynamic page modules, HTTP compression, cache reuse and browser timing are outside that measurement; this is not a Core Web Vitals score.
+
 Maintained research tools write back through the artifact store. Python refreshes use an isolated compatibility workspace; imports validate the complete data and reject a stale source revision. The writer also checks for manual edits made during staging. User documentation and media are retained. Retired direct `docs/data` patchers are blocked.
 
 For a manual staged workflow, use `npm run export:data`, edit the exported JSON in `outputs/artifact-export/docs/data/`, then run `npm run import:data`. These exports are temporary and are not another source of truth. Export again if source files changed in the meantime.

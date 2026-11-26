@@ -1,4 +1,4 @@
-import {escapeHtml as esc,formatDate} from './model.js';
+import {escapeHtml as esc,formatDate} from './presentation.js';
 import {nutrientCostFields,nutrientCostKey} from './units.js';
 import {primarySourceLabel,retailerQuotesMarkup} from './retailer-quotes.js';
 import {productReviewMarkup} from './product-review.js';

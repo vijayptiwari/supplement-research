@@ -1,4 +1,4 @@
-import {escapeHtml as esc} from './model.js';
+import {escapeHtml as esc} from './presentation.js';
 
 // Schematic organ symbols, not anatomical or molecular structure diagrams.
 const symbols={
@@ -16,7 +16,7 @@ const symbols={
  food:'<path d="M6 34h52c-2 16-11 24-26 24S8 50 6 34Zm5 6h42M13 11l9 12m13-14-3 15m19-12-9 12"/><path d="M17 7c-6-2-10 4-5 9m25-10c4-4 9 0 6 5M51 9c6 1 9 6 5 10"/>'
 };
 
-export const pathwaySearchText=pathway=>pathway?[pathway.title,pathway.summary,pathway.caveat,...pathway.tracks.flatMap(t=>[t.label,t.returnLabel,...t.steps.flatMap(s=>[s.label,s.detail,s.compartment])])].filter(Boolean).join(' '):'';
+export {pathwaySearchText} from './search-text.js';
 export const pathwayIconNames=Object.keys(symbols);
 export function pathwaySymbol(name){return symbols[name]||symbols.molecule;}
 

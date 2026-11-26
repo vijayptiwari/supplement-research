@@ -27,7 +27,7 @@ export function csv(offers,category='protein'){
  const rows=offers.map(r=>({...r,historyWindowQuarters:r.trend?.historyWindowQuarters,completedQuartersTracked:r.trend?.completedQuartersTracked,fullHistoryVerified:r.trend?.fullHistoryVerified,endpointQuarter:r.trend?.endpointQuarter,endpointChangePct:r.trend?.endpointChangePct,currentPriceStatus:r.priceAudit?.status,quarterComparisonStatus:r.trend?.status,baselinePrice:r.trend?.prevPrice,baselineDate:r.trend?.baselineDate,changePct:r.trend?.pct,direction:r.trend?.direction,baselineSource:r.trend?.baselineSource,currentPriceSource:r.priceAudit?.sourceUrl}));
  return '\uFEFF'+[keys,...rows.map(r=>keys.map(k=>r[k]??''))].map(row=>row.map(x=>'"'+(typeof x==='string'?x.replace(/^[=+@-]/,"'$&"):String(x)).replaceAll('"','""')+'"').join(',')).join('\r\n');
 }
-export {scoreProtein,scoreCreatine} from './model.js';
+export {scoreProtein,scoreCreatine} from './catalog-model.js';
 
 export function groupOffersByProduct(offers, category='protein'){
   const groups = new Map();

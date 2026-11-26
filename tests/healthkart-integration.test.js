@@ -33,7 +33,7 @@ test('retailer presentation identifies seller, date, stale quotes and escapes so
  assert.equal(retailerQuotesMarkup({retailerQuotes:[{...quote,sourceUrl:'javascript:alert(1)'}]},{money,asOf:'2026-11-20'}),'');
  assert.equal(primarySourceLabel({sourceType:'retailer',retailer:'HealthKart'}),'HealthKart product listing');
  const s=createSnapshot(await bundle),c=s.categories['fish-oil'],r={...c.offers[0],retailerQuotes:[quote]};assert.ok(unitDetails(c,r,[r],{money,num,link,history:'',maxAgeDays:100}).includes('HealthKart listed price'));
- const site=await fs.readFile(new URL('../docs/site.js',import.meta.url),'utf8');assert.ok(site.includes('retailerQuotesMarkup(r,{money,asOf:c.asOf,maxAgeDays:snapshot.config.maxPriceAgeDays})'));
+ const site=await fs.readFile(new URL('../docs/offer-dialog.js',import.meta.url),'utf8');assert.ok(site.includes('retailerQuotesMarkup(r, {')&&site.includes('maxAgeDays: snapshot.config.maxPriceAgeDays'));
 });
 
 test('a partial follow-up retains previous category audit, profiles and observations with true dates',async()=>{
@@ -74,7 +74,7 @@ test('protein formulas with additional review needs remain searchable but cannot
  assert.ok(s.recommender.productPolicy.common.some(c=>c.field==='requiresProductReview'&&c.op==='neq'&&c.value===true));
  const html=productReviewMarkup({requiresProductReview:true,productReviewReason:'<script>bad()</script>'});assert.ok(!html.includes('<script>'));assert.ok(html.includes('&lt;script&gt;'));
  const c=s.categories['fish-oil'],r={...c.offers[0],requiresProductReview:true,productReviewReason:'Review combination ingredients.'};assert.ok(unitDetails(c,r,[r],{money,num,link,history:''}).includes('Review combination ingredients.'));
- const site=await fs.readFile(new URL('../docs/site.js',import.meta.url),'utf8');assert.ok(site.includes('${productReviewMarkup(r)}'));
+ const site=await fs.readFile(new URL('../docs/offer-dialog.js',import.meta.url),'utf8');assert.ok(site.includes('${productReviewMarkup(r)}'));
 });
 
 test('manual product-review flags are validated for powders and unit products',async()=>{

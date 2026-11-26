@@ -98,8 +98,8 @@ test('the built Articles page retains runtime shell contracts, fingerprinted imp
   const {snapshot,assetVersion}=await buildSite(destination),html=await fs.readFile(path.join(destination,'articles.html'),'utf8'),site=await fs.readFile(path.join(destination,'site.js'),'utf8'),articles=await fs.readFile(path.join(destination,'articles.js'),'utf8'),sitemap=await fs.readFile(path.join(destination,'sitemap.xml'),'utf8');
   for(const fragment of ['data-page="articles"','id="articles-library"','id="global-search"','id="category-nav"','id="dataset-status"','id="refresh-data"','aria-controls="navigation"','aria-label="Use system theme"','id="evidence"','id="close"','id="evidence-body"','href="articles.html"'])assert.ok(html.includes(fragment),fragment);
   assert.ok(html.includes(`site.js?v=${assetVersion}`));assert.ok(html.includes(`marketplace.css?v=${assetVersion}`));assert.ok(html.includes('application/ld+json'));assert.ok(!html.includes('DATA_METADATA'));
-  assert.ok(site.includes(`from './articles.js?v=${assetVersion}'`));assert.ok(site.includes("pageType==='articles')renderArticles(next)"));
-  assert.ok(articles.includes(`from './pathways.js?v=${assetVersion}'`));assert.ok(articles.includes(`from './model.js?v=${assetVersion}'`));
+  assert.ok(site.includes(`import("./articles.js?v=${assetVersion}")`));assert.match(site,/module\.renderArticles\(current\)/);
+  assert.ok(articles.includes(`from './pathways.js?v=${assetVersion}'`));assert.ok(articles.includes(`from './presentation.js?v=${assetVersion}'`));
   assert.ok(sitemap.includes(snapshot.config.baseUrl+'articles.html'));
  }finally{await fs.rm(destination,{recursive:true,force:true});}
 });
