@@ -1,0 +1,239 @@
+{
+  "schemaVersion": 1,
+  "order": 74,
+  "article": {
+    "id": "protein-target-met-bcaa-eaa-collagen",
+    "category": "protein",
+    "relatedCategories": [
+      "bcaa",
+      "eaa",
+      "collagen"
+    ],
+    "series": "comparisons",
+    "title": "Protein target met: do you still need BCAA, EAA or collagen?",
+    "summary": "Once protein intake is adequate, which extras actually earn their place? Human studies help separate overlapping amino acids, specialist nutrition uses and the different question of collagen for joints or tendons.",
+    "author": "Supplement Research editorial synthesis",
+    "published": "2026-11-26",
+    "reviewed": "2026-11-26",
+    "intro": "You have reviewed your meals, reached an appropriate protein target and chosen sources that cover the essential amino acids. Then a stack recommends BCAA for recovery, EAA for muscle and collagen for support. Are these three missing pieces, or three more purchases? For a healthy person seeking additional muscle growth, adequate protein usually leaves little reason to add a separate BCAA or EAA product. Collagen is also unnecessary for completing that amino-acid requirement. A specific joint or tendon question deserves its own evidence review, however. This article explains the reasoning, the possible exceptions and what the studies actually measured. It is a focused synthesis, not an exhaustive systematic review or a personalized nutrition prescription.",
+    "comparison": {
+      "title": "If suitable protein intake is already covered, what changes the decision?",
+      "columns": [
+        {
+          "key": "default",
+          "label": "Usual decision for extra muscle gain"
+        },
+        {
+          "key": "candidate",
+          "label": "Who might consider it?"
+        },
+        {
+          "key": "question",
+          "label": "Evidence question to ask"
+        }
+      ],
+      "rows": [
+        {
+          "label": "BCAA",
+          "values": {
+            "default": "Usually skip: three essential amino acids are already supplied by suitable protein sources.",
+            "candidate": "No established routine need for a healthy, adequately nourished lifter. Specialist liver-disease nutrition is a separate context.",
+            "question": "Was it compared with adequate complete protein, or only placebo?"
+          },
+          "sourceIds": [
+            "eaa-position",
+            "bcaa-trial",
+            "adequacy-bcaa-hepatic-aamann-2026"
+          ]
+        },
+        {
+          "label": "Complete EAA mixture",
+          "values": {
+            "default": "Usually unnecessary as an automatic addition once appropriate protein amount and quality are covered.",
+            "candidate": "Selected constrained-intake, older-adult or supervised postoperative situations; adequacy must be assessed rather than assumed.",
+            "question": "Did it improve strength, function or muscle retention, or only an acute laboratory measure?"
+          },
+          "sourceIds": [
+            "pe-eaa-older-women-2009",
+            "adequacy-eaa-surgery-dreyer-2018",
+            "eaa-deficit-trial"
+          ]
+        },
+        {
+          "label": "Collagen preparation",
+          "values": {
+            "default": "Not required to complete protein intake; plain collagen is not interchangeable with complete muscle-oriented protein.",
+            "candidate": "Someone considering a specific, assessed joint-symptom or tendon-loading goal, with realistic expectations and appropriate care.",
+            "question": "Does the exact formulation improve the relevant human outcome beyond the comparison treatment?"
+          },
+          "sourceIds": [
+            "collagen-muscle-oikawa-2020",
+            "adequacy-collagen-knee-zdzieblik-2021",
+            "adequacy-collagen-tendon-nulty-2025"
+          ]
+        }
+      ]
+    },
+    "sections": [
+      {
+        "id": "check-the-premise",
+        "title": "First, make sure the protein target is the right one",
+        "body": "Meeting a number in a tracking app does not automatically establish adequate nutrition. The useful premise is an appropriate total intake for your age, training, energy intake and health, with enough essential amino acids from suitable foods or supplements. A target intended for basic adult requirements and a target chosen to support resistance training answer different questions.\n\nMorton and colleagues combined 49 resistance-training trials involving 1,863 people. Their model estimated diminishing additional gains in fat-free mass (non-fat body tissue, not just muscle) around 1.62 g/kg/day, with a wide 95% confidence interval of 1.03–2.20. That is a population-level estimate with uncertainty, not a switch at which every person's needs are met. It also did not directly test whether adding BCAA or EAA to every adequate diet helps. The sensible interpretation is to assess the diet before buying another source of the same building blocks.",
+        "sourceIds": [
+          "protein-review"
+        ]
+      },
+      {
+        "id": "same-building-blocks",
+        "title": "Protein, EAA and BCAA overlap; they are not three separate requirements",
+        "body": "Digestion breaks dietary protein into peptides and amino acids. The nine essential amino acids must be supplied by the diet; BCAA means three of them: leucine, isoleucine and valine. Suitable complete protein supplies all nine, including those three. A free EAA mixture supplies the essential set without first requiring digestion of an intact protein. A BCAA mixture supplies only the subset unless other ingredients are added.\n\nLeucine helps signal muscle protein synthesis, but signalling and supplying every necessary building block are different jobs. More signal cannot create an essential amino acid that is missing. Equally, faster absorption does not automatically produce more muscle over months. Once a suitable diet already covers the requirement, an extra amino-acid drink needs a demonstrated additional purpose, not just a different product name.",
+        "sourceIds": [
+          "eaa-position",
+          "comparison-eaa-leucine-churchward-2012"
+        ]
+      },
+      {
+        "id": "bcaa-evidence",
+        "title": "BCAA can have an effect without earning a place in your stack",
+        "body": "It would be inaccurate to say BCAA does nothing. Jackman and colleagues studied ten trained young men: BCAA increased the four-hour muscle-protein-synthesis response by 22% compared with placebo after exercise. There was no direct whey or complete-EAA arm, and no measurement of months of muscle growth.\n\nRecovery findings also exist. In Howatson's small trial, twelve men performed a demanding drop-jump protocol; BCAA improved selected soreness, muscle-damage and force-recovery measures relative to placebo. Six participants per group and an artificial damage protocol leave substantial uncertainty. Neither study answers the most relevant shopping question: does BCAA add a worthwhile benefit when suitable protein and energy intake are already covered? An effect against placebo is not evidence that you need it on top of your meals.",
+        "sourceIds": [
+          "bcaa-trial",
+          "adequacy-bcaa-recovery-howatson-2012"
+        ]
+      },
+      {
+        "id": "bcaa-candidates",
+        "title": "Who is the right BCAA candidate, then?",
+        "body": "For an otherwise healthy lifter with an appropriate, varied protein intake, these studies do not establish a routine need for a separate BCAA purchase. A protein shortfall is better approached as a whole-diet problem than as an automatic deficiency of just three amino acids.\n\nMedical uses should not be erased or borrowed for marketing. A 2026 Cochrane review found low-certainty evidence that BCAA may reduce hepatic encephalopathy in cirrhosis, while effects on mortality remained very uncertain. That concerns specialist management of serious liver disease. It does not identify a gym supplement, dose or self-treatment plan for a healthy reader.",
+        "sourceIds": [
+          "bcaa-trial",
+          "adequacy-bcaa-hepatic-aamann-2026"
+        ]
+      },
+      {
+        "id": "eaa-candidates",
+        "title": "EAA is a more complete tool, but completeness does not make it compulsory",
+        "body": "A small-volume EAA formulation can be practical when eating sufficient suitable food is difficult. An older adult with persistently poor appetite or someone in a supervised recovery programme may warrant an individual nutrition review. Those situations are often exceptions to the premise that needs are already reliably met.\n\nIn Dillon's three-month trial of fourteen older women, EAA supplementation increased lean mass and basal muscle protein synthesis, but strength did not improve. The background diet was not strictly controlled, so this does not prove a benefit after confirmed optimal intake. In a separate trial of 39 people undergoing knee replacement, an EAA intervention attenuated loss of thigh-muscle volume without a between-group improvement in strength or function. These findings support investigating specific clinical contexts, not automatically giving every older person or gym-goer an EAA drink.",
+        "sourceIds": [
+          "pe-eaa-older-women-2009",
+          "adequacy-eaa-surgery-dreyer-2018"
+        ]
+      },
+      {
+        "id": "energy-deficit",
+        "title": "Even with substantial protein, an energy deficit changes the research question",
+        "body": "Gwin and colleagues studied ten adults during short, controlled periods of roughly 30% energy restriction with background protein around 1.6 g/kg/day. An EAA-enriched whey formulation improved acute whole-body protein balance compared with the study's alternatives, while mixed-muscle protein synthesis did not differ.\n\nThis is a meaningful finding that a blanket 'extra amino acids can never help' claim would miss. Each underfeeding period lasted five days, and outcomes were measured acutely after exercise using an EAA-plus-whey blend. This is not proof that an EAA-only tub produces greater long-term muscle retention during every fat-loss diet. Whole-body balance includes tissues beyond muscle. Treat this as a possible targeted nutrition strategy to assess, rather than a compulsory cutting supplement.",
+        "sourceIds": [
+          "eaa-deficit-trial"
+        ]
+      },
+      {
+        "id": "plant-and-fasted-training",
+        "title": "Plant-based eating and fasted training are not diagnoses of an amino-acid gap",
+        "body": "A vegan label alone does not establish inadequate essential amino acids. Hevia-Larraín and colleagues followed 38 young men through twelve weeks of resistance training with protein matched at 1.6 g/kg/day, using soy supplementation in habitual vegans and whey in omnivores. Both groups improved without detected differences in the measured muscle and strength outcomes. The diets were not randomly assigned, and the result does not make every plant serving equivalent; it shows why the actual amount and combination matter.\n\nLikewise, training before breakfast does not itself measure the adequacy of your day's diet. If meal timing, tolerance or appetite prevents you from executing a suitable plan, address that constraint. Calling a workout fasted does not establish a unique requirement for BCAA, or prove that an EAA drink adds benefit after the overall requirement is covered.",
+        "sourceIds": [
+          "protein-plant-diet-hevia-2021",
+          "eaa-position"
+        ]
+      },
+      {
+        "id": "collagen-and-muscle",
+        "title": "Collagen counts as protein, but its amino-acid profile changes the comparison",
+        "body": "Plain collagen is rich in glycine and proline, lacks tryptophan and contains less leucine than whey. Calling it zero protein is wrong; treating its grams as an interchangeable stand-alone source of essential amino acids is also misleading. If a large part of your tracked total comes from collagen, recheck the premise that suitable protein intake has been completed.\n\nOikawa's short trial in 22 older women found greater muscle-protein-synthesis responses with whey than collagen peptides. A 2024 controlled study completed by 31 older men similarly found that adding whey or pea protein increased integrated muscle protein synthesis above its baseline diet at the recommended dietary allowance (RDA), whereas collagen did not. These are synthesis studies in older adults, not universal forecasts of long-term muscle gain, but they argue against replacing a suitable main protein source with collagen for a muscle-building goal.",
+        "sourceIds": [
+          "collagen-muscle-oikawa-2020",
+          "adequacy-protein-source-mckendry-2024"
+        ]
+      },
+      {
+        "id": "protein-matched-recovery",
+        "title": "For extra recovery, look for a fair protein comparison",
+        "body": "Robberechts and colleagues compared whey plus collagen with a similar total amount of whey in 22 young fit men during three weeks of eccentric exercise training. Average total protein intake, including supplements, was 1.76 g/kg/day, although individuals ranged from 1.27 to 2.47. The blend did not improve the measured damage, recovery, strength or power outcomes over whey alone. The men were not regular strength trainers, and the study was small and short.\n\nThis is more directly relevant to an already substantial protein intake than comparing collagen with a non-protein placebo. It does not prove that collagen never helps an injured tendon or a specific joint symptom. It does show why the claim 'add collagen for better recovery' needs a defined outcome and an appropriate comparator.",
+        "sourceIds": [
+          "adequacy-collagen-whey-robberechts-2024"
+        ]
+      },
+      {
+        "id": "positive-studies-and-comparators",
+        "title": "Positive whey-plus-collagen studies still need a close reading",
+        "body": "A 2025 experiment in 28 men found effects on synthesis after a whey-plus-collagen blend compared with a noncaloric placebo. It did not include whey alone. Connective-protein synthesis was higher at rest, but not significantly higher in the exercised leg. It cannot isolate what collagen added to whey or establish injury healing.\n\nA newer 2026 trial in 40 men reported favourable muscle-mass estimates, strength and bone-density measurements with combined whey and collagen over eight weeks. However, the combined group received 30 g whey plus 10 g collagen, while the whey-only group received 30 g whey. Total supplemental protein was unequal, and muscle mass was estimated using bioimpedance. The positive results belong in the discussion, but they do not settle whether collagen beats an equal additional amount of complete protein once intake is adequate.",
+        "sourceIds": [
+          "adequacy-collagen-blend-aussieker-2025",
+          "adequacy-collagen-training-seyhan-2026"
+        ]
+      },
+      {
+        "id": "joint-candidates",
+        "title": "A joint-symptom candidate is different from someone buying more muscle protein",
+        "body": "Someone with assessed activity-related knee discomfort may reasonably discuss a trial of a studied collagen preparation alongside appropriate care. In a 2021 study with 180 completers, a specific peptide preparation improved activity-related knee pain modestly over twelve weeks. Not all pain or mobility outcomes improved, the work was partly industry-funded, and it did not specifically establish benefit after a verified optimal protein intake.\n\nUndenatured type II collagen is another distinct intervention. A supplier-sponsored 180-day trial in 191 people with knee osteoarthritis reported symptom benefits with a particular ingredient. Native type II preparations and hydrolysed collagen peptides are not interchangeable products or quantity units. Neither result establishes cartilage regrowth, replaces established care or makes collagen necessary for every healthy joint.",
+        "sourceIds": [
+          "adequacy-collagen-knee-zdzieblik-2021",
+          "collagen-uc2-lugo-2016"
+        ]
+      },
+      {
+        "id": "tendons-and-mechanisms",
+        "title": "Tendon findings are promising in places; the missing comparison still matters",
+        "body": "A 2025 trial in twenty middle-aged men combined collagen with twelve weeks of resistance training and found favourable changes in selected patellar-tendon measurements, without extra muscle or strength benefits. Habitual protein before supplementation averaged about 1.1 g/kg/day. It therefore cannot establish the same added effect after a higher muscle-oriented protein target has already been met.\n\nEarlier gelatin research by Shaw and colleagues involved eight men, circulating markers and an engineered-ligament experiment. That is useful mechanism work, not evidence that a scoop heals a human tendon. A person with a tendon-loading or rehabilitation goal can discuss the uncertainty with their physiotherapist or clinician. Progressive rehabilitation and assessment remain central; a blood marker or plausible pathway cannot diagnose the need for collagen.",
+        "sourceIds": [
+          "adequacy-collagen-tendon-nulty-2025",
+          "collagen-gelatin-shaw-2017"
+        ]
+      },
+      {
+        "id": "skin-claims",
+        "title": "Skin goals also require more than a protein or collagen slogan",
+        "body": "Collagen's role in skin does not prove that eating more improves an already well-nourished person's skin. Myung and Park's 2025 synthesis of 23 randomized trials found pooled benefits for some skin measures, but these were not retained when analyses were restricted to higher-quality trials or to trials without company funding, as classified by that review. Funding subgroups are not randomized experiments themselves, and this review does not prove that every formulation has zero effect. It does make a confident universal anti-aging recommendation difficult to justify. A skin concern deserves assessment of its cause, rather than assuming that the missing ingredient is another protein powder.",
+        "sourceIds": [
+          "collagen-skin-meta-2025"
+        ]
+      },
+      {
+        "id": "use-the-candidate-test",
+        "title": "Apply the candidate test to your own situation",
+        "body": "Healthy lifter, suitable protein intake, no distinct clinical or joint issue: the default is to keep the stack simple. BCAA or EAA may duplicate an existing supply without a demonstrated extra training benefit. Collagen is not required to finish that protein intake.\n\nLow appetite, a restricted eating pattern or supervised postoperative recovery: review whether nutrition is actually adequate and whether a small-volume EAA intervention serves a specific purpose. Age, soreness or dieting alone is not an automatic prescription.\n\nAssessed joint symptoms or a tendon-loading goal: collagen is a separate optional discussion about a particular formulation and outcome. Adequate protein does not prove that it cannot help that outcome; current studies also do not show that every adequately nourished athlete needs it. Agree on a symptom or function to track and a reassessment point, rather than buying indefinitely because a mechanism sounds convincing. These are editorial decision rules drawn from the evidence above, not trial-validated eligibility criteria.",
+        "sourceIds": [
+          "adequacy-eaa-surgery-dreyer-2018",
+          "adequacy-collagen-whey-robberechts-2024",
+          "adequacy-collagen-knee-zdzieblik-2021"
+        ]
+      },
+      {
+        "id": "judge-value",
+        "title": "Before paying, ask what the extra product must deliver",
+        "body": "Name the goal first: filling a dietary gap, making intake easier, a measured rehabilitation outcome or a particular joint symptom. Then check whether a human study used the same ingredient, population and outcome. A placebo comparison, an equal-protein comparison and an unequal-protein comparison can support different conclusions.\n\nRead the label at the full serving: all nine essentials for a complete EAA mixture; the actual collagen preparation for a collagen claim; individual quantities rather than a proprietary-blend total. Compare the cost of the studied ingredient and practical serving, not the cheapest gram across unlike products. A larger BCAA ratio, a marine origin or the word hydrolysed does not supply the missing clinical comparison.\n\nFinally, assess the exact product's allergens, ingredient evidence and relevant batch documentation. A cited scientific study does not certify a catalog brand. Check duplication with protein powders and pre-workouts. Where kidney disease, a prescribed protein restriction or another medical nutrition issue is present, the appropriate target and formulation need individual review. The study regimens described here are evidence details, not doses assigned to the reader.",
+        "sourceIds": [
+          "supplement-quality-ods",
+          "food-kidney-diet",
+          "adequacy-collagen-training-seyhan-2026"
+        ]
+      }
+    ],
+    "sourceIds": [
+      "protein-review",
+      "eaa-position",
+      "comparison-eaa-leucine-churchward-2012",
+      "bcaa-trial",
+      "adequacy-bcaa-recovery-howatson-2012",
+      "adequacy-bcaa-hepatic-aamann-2026",
+      "pe-eaa-older-women-2009",
+      "adequacy-eaa-surgery-dreyer-2018",
+      "eaa-deficit-trial",
+      "protein-plant-diet-hevia-2021",
+      "collagen-muscle-oikawa-2020",
+      "adequacy-protein-source-mckendry-2024",
+      "adequacy-collagen-whey-robberechts-2024",
+      "adequacy-collagen-blend-aussieker-2025",
+      "adequacy-collagen-training-seyhan-2026",
+      "adequacy-collagen-knee-zdzieblik-2021",
+      "collagen-uc2-lugo-2016",
+      "adequacy-collagen-tendon-nulty-2025",
+      "collagen-gelatin-shaw-2017",
+      "collagen-skin-meta-2025",
+      "supplement-quality-ods",
+      "food-kidney-diet",
+      "digestion",
+      "exercise"
+    ]
+  }
+}

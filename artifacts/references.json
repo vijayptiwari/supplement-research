@@ -2539,6 +2539,113 @@
       "limitations": "Nutrition package differed in energy, protein and other components, preventing HMB-only attribution. Selected diagnoses, attrition and Abbott funding/manufacturer involvement limit interpretation.",
       "year": 2016,
       "checked": "2026-11-18"
+    },
+    {
+      "id": "adequacy-bcaa-recovery-howatson-2012",
+      "title": "Howatson et al.: BCAA and recovery after damaging exercise",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22569039/",
+      "kind": "Small randomized placebo-controlled trial",
+      "summary": "Twelve men performed a drop-jump protocol; BCAA improved selected soreness, creatine-kinase and force-recovery outcomes versus placebo.",
+      "limitations": "Six participants per group; acute recovery outcomes without an equal complete-protein comparison or long-term muscle-growth assessment.",
+      "year": 2012,
+      "doi": "10.1186/1550-2783-9-20",
+      "pmid": "22569039",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "adequacy-bcaa-hepatic-aamann-2026",
+      "title": "Aamann et al.: BCAA for hepatic encephalopathy (Cochrane review)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41542879/",
+      "kind": "Systematic review of randomized trials",
+      "summary": "Low-certainty evidence suggests benefit for hepatic encephalopathy in cirrhosis; mortality effects remain very uncertain.",
+      "limitations": "Specialist liver-disease treatment context, not evidence for routine fitness supplementation or self-treatment.",
+      "year": 2026,
+      "doi": "10.1002/14651858.CD001939.pub5",
+      "pmid": "41542879",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "adequacy-eaa-surgery-dreyer-2018",
+      "title": "Dreyer et al.: EAA supplementation after total knee arthroplasty",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30280129/",
+      "kind": "Randomized double-blind placebo-controlled trial",
+      "summary": "Thirty-nine adults undergoing knee replacement received EAA or placebo; EAA attenuated thigh-muscle volume loss without between-group strength or functional benefits.",
+      "limitations": "Supervised postoperative care, not an established routine need for healthy protein-sufficient athletes.",
+      "year": 2018,
+      "doi": "10.2106/JBJS.OA.18.00006",
+      "pmid": "30280129",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "adequacy-protein-source-mckendry-2024",
+      "title": "McKendry et al.: Whey, pea and collagen above the RDA in older men",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38762187/",
+      "kind": "Randomized controlled feeding and tracer study",
+      "summary": "Thirty-one older men completed a controlled study with an RDA-level diet followed by added whey, pea or collagen; integrated muscle synthesis increased with whey and pea, not collagen.",
+      "limitations": "Short study in older men using synthesis outcomes; not long-term hypertrophy or proof of a benefit above every individualized adequate intake.",
+      "year": 2024,
+      "doi": "10.1016/j.ajcnut.2024.05.009",
+      "pmid": "38762187",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "adequacy-collagen-whey-robberechts-2024",
+      "title": "Robberechts et al.: Protein-matched whey versus whey plus collagen for recovery",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37922892/",
+      "kind": "Randomized double-blind human training trial",
+      "summary": "A similar total whey or whey-plus-collagen regimen produced no detected differences in damage or functional recovery outcomes in 22 fit men.",
+      "limitations": "Three weeks; substantial but variable protein intake. Published online in 2023, print issue 2024.",
+      "year": 2024,
+      "doi": "10.1123/ijsnem.2023-0070",
+      "pmid": "37922892",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "adequacy-collagen-blend-aussieker-2025",
+      "title": "Aussieker et al.: Whey-plus-collagen and acute muscle protein synthesis",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39501478/",
+      "kind": "Randomized double-blind human tracer trial",
+      "summary": "Twenty-eight men received a whey-collagen blend or noncaloric placebo after unilateral exercise; synthesis responses differed for particular tissues and conditions.",
+      "limitations": "No whey-only comparator, five-hour observation and no injury-healing endpoint. Online 2024; print 2025.",
+      "year": 2025,
+      "doi": "10.1249/MSS.0000000000003596",
+      "pmid": "39501478",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "adequacy-collagen-training-seyhan-2026",
+      "title": "Seyhan et al.: Combined whey and collagen during resistance training",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42426859/",
+      "kind": "Randomized controlled training trial",
+      "summary": "Forty men trained for eight weeks; the combined supplement group had favourable selected muscle-mass, strength and bone-density measurements.",
+      "limitations": "The combined group received more supplemental protein than whey alone; small groups and bioimpedance muscle estimates limit collagen-specific conclusions.",
+      "year": 2026,
+      "doi": "10.1186/s13102-026-01846-y",
+      "pmid": "42426859",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "adequacy-collagen-knee-zdzieblik-2021",
+      "title": "Zdzieblik et al.: Specific collagen peptides for activity-related knee discomfort",
+      "url": "https://www.mdpi.com/2072-6643/13/2/523",
+      "kind": "Randomized double-blind placebo-controlled trial",
+      "summary": "A specific collagen preparation improved activity-related knee pain modestly in a twelve-week trial with 180 completers.",
+      "limitations": "Other symptom and mobility outcomes did not consistently differ; GELITA partly funded the work. Adequate protein intake was not the tested enrollment condition.",
+      "year": 2021,
+      "doi": "10.3390/nu13020523",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "adequacy-collagen-tendon-nulty-2025",
+      "title": "Nulty et al.: Collagen and patellar-tendon adaptations in middle-aged men",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40100255/",
+      "kind": "Small randomized controlled training trial",
+      "summary": "Twenty men completed twelve weeks of training; collagen improved selected tendon measures without additional muscle or strength benefits.",
+      "limitations": "Habitual protein averaged about 1.1 g/kg/day before supplementation; this does not establish the same benefit after a higher protein target is already met.",
+      "year": 2025,
+      "doi": "10.1002/ejsc.12281",
+      "pmid": "40100255",
+      "checked": "2026-11-26"
     }
   ]
 }
