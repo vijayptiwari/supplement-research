@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-11-20",
+  "reviewed": "2026-11-27",
   "goals": [
     {
       "id": "strength",
@@ -420,6 +420,36 @@
         "collagen-muscle-oikawa-2020",
         "collagen-uc2-lugo-2016",
         "collagen-skin-meta-2025"
+      ]
+    },
+    {
+      "category": "vitamin-e",
+      "goals": [
+        "micronutrients",
+        "skin-claims"
+      ],
+      "review": true,
+      "status": "Review the need and the exact vitamin E form",
+      "reason": "Assess dietary supply and a specific indication before buying an antioxidant capsule. Higher strength, skin or hair claims do not establish added benefit. Review blood-thinning medicines and overlapping products; an IU-only or unexplained ingredient amount is not automatically a verified nutrient-equivalent quantity.",
+      "sources": [
+        "ve-overview",
+        "ve-prevention-uspstf",
+        "ve-label-fda"
+      ]
+    },
+    {
+      "category": "calcium",
+      "goals": [
+        "bone",
+        "micronutrients"
+      ],
+      "review": true,
+      "status": "Assess food calcium and the remaining gap",
+      "reason": "Count dietary calcium and existing mineral products before choosing a supplement. Compare elemental calcium per label serving, not salt mass. Review medicine timing, kidney or stone history and added vitamin D/K. Adequate calcium is part of bone-health care; this does not automatically select a tablet or replace osteoporosis treatment.",
+      "sources": [
+        "ca-overview",
+        "ca-bhof-2022",
+        "ca-india-consensus-2026"
       ]
     }
   ],

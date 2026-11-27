@@ -37,7 +37,7 @@
         "id": "zmc-hkv-188310",
         "packCount": 60,
         "flavour": "Unflavoured",
-        "price": 239,
+        "price": 269,
         "currency": "INR",
         "stock": "In stock",
         "url": "https://www.hkvitals.com/sv/hk-vitals-calcium-plus-vitamin-d3/SP-101006?navKey=VRNT-188310",
@@ -58,10 +58,10 @@
           "vitaminDMcg"
         ],
         "lastPriceReview": {
-          "checked": "2026-11-20",
+          "checked": "2026-11-27",
           "sourceUrl": "https://www.hkvitals.com/sv/hk-vitals-calcium-plus-vitamin-d3/SP-101006?navKey=VRNT-188310",
           "evidenceUrl": "https://www.hkvitals.com/sv/hk-vitals-calcium-plus-vitamin-d3/SP-101006?navKey=VRNT-188310",
-          "matchBasis": "Fresh official HK Vitals exact legacy selected URL returned published SP-101006 / VRNT-188310 with matching brand, complete quantity/flavour attributes and unconditional INR offer_pr; profile/offer now retain explicit navKey rather than a mutable family default."
+          "matchBasis": "Fresh official exact URL SP-101006 / VRNT-188310 displays 60 unflavoured tablets, INR 269 and enabled Add to Cart. One tablet serving is stated; nutrient amounts retain their separately dated 19 November official supplement-facts review."
         }
       }
     }
@@ -95,6 +95,20 @@
         "kind": "official-live",
         "variantId": "188310",
         "matchBasis": "Fresh official HK Vitals exact legacy selected URL returned published SP-101006 / VRNT-188310 with matching brand, complete quantity/flavour attributes and unconditional INR offer_pr; profile/offer now retain explicit navKey rather than a mutable family default."
+      }
+    },
+    {
+      "observation": {
+        "category": "zmc",
+        "offerId": "zmc-hkv-188310",
+        "date": "2026-11-27",
+        "price": 269,
+        "currency": "INR",
+        "sourceUrl": "https://www.hkvitals.com/sv/hk-vitals-calcium-plus-vitamin-d3/SP-101006?navKey=VRNT-188310",
+        "evidenceUrl": "https://www.hkvitals.com/sv/hk-vitals-calcium-plus-vitamin-d3/SP-101006?navKey=VRNT-188310",
+        "kind": "official-live",
+        "variantId": "188310",
+        "matchBasis": "Fresh official exact URL SP-101006 / VRNT-188310 displays 60 unflavoured tablets, INR 269 and enabled Add to Cart. One tablet serving is stated; nutrient amounts retain their separately dated 19 November official supplement-facts review."
       }
     }
   ],

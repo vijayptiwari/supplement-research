@@ -5,11 +5,12 @@ import {createSnapshot} from '../docs/model.js';
 import {searchCatalog} from '../docs/search.js';
 import {buildComparison} from '../docs/compare.js';
 import {recommend} from '../docs/recommender.js';
+import {auditStack} from '../docs/stack-audit.js';
 
 const snapshot=loadBundle().then(createSnapshot);
 test('new categories connect sourced exact packs, education, comparison and cost calculations',async()=>{
  const s=await snapshot;assert.deepEqual(s.quality.errors,[]);
- for(const id of ['glutathione','melatonin','biotin','vitamin-c','vitamin-b','folic-acid']){
+ for(const id of ['glutathione','melatonin','biotin','vitamin-c','vitamin-b','folic-acid','vitamin-e','calcium']){
   const c=s.categories[id];assert.equal(c.measurement,'units');assert.ok(c.offers.length);
   const result=searchCatalog(s,{q:id,category:id});assert.ok(result.products.length);assert.equal(result.guides.filter(g=>!g.editorial).length,1);
   assert.ok(c.offers.some(r=>r.priceAudit.status==='verified'));
@@ -31,7 +32,16 @@ test('new categories connect sourced exact packs, education, comparison and cost
 
 test('vitamin categories remain educational review items, including adult-clear contexts',async()=>{
  const s=await snapshot,r=recommend(s,{goals:s.recommender.goals.map(g=>g.id),context:'adult-clear',existing:[],diet:'any',budget:'',milkAllergy:'no',fishAllergy:'no'});
- for(const id of ['biotin','vitamin-c','vitamin-b','folic-acid']){const item=r.items.find(i=>i.category===id);assert.ok(item);assert.equal(item.review,true);assert.equal(item.eligible,false);assert.deepEqual(item.offers,[]);}
+ for(const id of ['biotin','vitamin-c','vitamin-b','folic-acid','vitamin-e','calcium']){const item=r.items.find(i=>i.category===id);assert.ok(item);assert.equal(item.review,true);assert.equal(item.eligible,false);assert.deepEqual(item.offers,[]);}
+});
+
+test('calcium overlap is reviewed and entered daily nutrient totals include the new categories',async()=>{
+ const s=await snapshot,r=recommend(s,{goals:['bone'],context:'adult-clear',existing:['zmc','calcium'],diet:'any',budget:'',milkAllergy:'no',fishAllergy:'no'});
+ assert.ok(r.warnings.some(w=>w.includes('ZMC may overlap with separate calcium')));
+ const calcium=s.categories.calcium.offers.find(r=>r.calciumMg!=null&&r.servingUnits!=null),vitaminE=s.categories['vitamin-e'].offers.find(r=>r.vitaminEMg!=null&&r.servingUnits!=null);
+ const audit=auditStack(s,[{category:'calcium',offerId:calcium.id,quantity:calcium.servingUnits},{category:'vitamin-e',offerId:vitaminE.id,quantity:2*vitaminE.servingUnits}],{age:31,sex:'male'});
+ assert.equal(audit.rows.find(r=>r.key==='calciumMg').amount,calcium.calciumMg);
+ assert.equal(audit.rows.find(r=>r.key==='vitaminEMg').amount,2*vitaminE.vitaminEMg);
 });
 
 test('vitamin searches follow declared ingredients instead of broadcasting every B vitamin or folate form',async()=>{

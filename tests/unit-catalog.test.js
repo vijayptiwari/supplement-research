@@ -8,6 +8,21 @@ test('fish oil costs use label servings and EPA+DHA rather than total oil',()=>{
 test('combined omega amount never invents component split; unknown servings never become one',()=>{let r=normalizeUnitInputs({...raw,epaMg:null,dhaMg:null,epaDhaMg:600},fish).offer;assert.equal(r.epaMg,null);assert.equal(r.referenceCost,100/3);r=normalizeUnitInputs({...raw,servingUnits:null},fish).offer;assert.equal(r.servingCost,null);assert.equal(r.referenceCost,null);assert.equal(r.unitCost,10);});
 test('Vitamin D conversions agree and contradictory units fail validation',()=>{const d={...fish,mainNutrient:'vitaminDIu'};let r=normalizeUnitInputs({...raw,vitaminDIu:600},d).offer;assert.equal(r.vitaminDMcg,15);r=normalizeUnitInputs({...raw,vitaminDMcg:125},d).offer;assert.equal(r.vitaminDIu,5000);assert.ok(normalizeUnitInputs({...raw,vitaminDIu:600,vitaminDMcg:100},d).issues.some(i=>i.severity==='error'));});
 test('mineral salt mass cannot substitute for elemental magnesium',()=>{const d={...fish,mainNutrient:'magnesiumMg',referenceQuantity:100};let r=normalizeUnitInputs({...raw,magnesiumCompoundMg:864},d).offer;assert.equal(r.magnesiumMg,null);assert.equal(r.referenceCost,null);r=normalizeUnitInputs({...raw,magnesiumCompoundMg:864,magnesiumMg:121,mineralBasis:'elemental'},d).offer;assert.ok(Math.abs(r.referenceCost-2000/121)<1e-10);assert.ok(normalizeUnitInputs({...raw,magnesiumMg:121},d).issues.some(i=>i.field==='magnesiumMg'&&i.severity==='error'));});
+
+test('calcium costs need elemental content and do not use carbonate mass',()=>{
+ const c={...fish,id:'calcium',mainNutrient:'calciumMg',referenceQuantity:100,nutrientFields:[{key:'calciumMg',label:'Elemental calcium',unit:'mg'}]};
+ const input={price:600,packCount:60,form:'Tablet',servingUnits:2,calciumCompoundMg:1250};
+ let r=normalizeUnitInputs(input,c).offer;assert.equal(r.calciumMg,null);assert.equal(r.referenceCost,null);assert.equal(r.servingCost,20);
+ r=normalizeUnitInputs({...input,calciumMg:500,mineralBasis:'elemental'},c).offer;assert.equal(r.referenceCost,4);
+ assert.ok(normalizeUnitInputs({...input,calciumMg:500},c).issues.some(i=>i.field==='calciumMg'&&i.severity==='error'));
+});
+
+test('vitamin E costs preserve declared milligrams without guessing activity from IU or ester mass',()=>{
+ const c={...fish,id:'vitamin-e',mainNutrient:'vitaminEMg',referenceQuantity:10,nutrientFields:[{key:'vitaminEMg',label:'Vitamin E',unit:'mg'}]};
+ const input={price:600,packCount:120,form:'Capsule',servingUnits:1,vitaminEIu:400,tocopherylAcetateMg:400};
+ let r=normalizeUnitInputs(input,c).offer;assert.equal(r.vitaminEMg,null);assert.equal(r.referenceCost,null);assert.equal(r.servingCost,5);
+ r=normalizeUnitInputs({...input,vitaminEMg:10,type:'D-alpha-tocopherol'},c).offer;assert.equal(r.referenceCost,5);
+});
 test('ZMC requires all three minerals and has no combined mineral mass score',()=>{const d={...fish,id:'zmc',mainNutrient:'multi'};const x={...raw,declaredActives:['calcium','magnesium','zinc'],calciumMg:250,magnesiumMg:100,zincMg:4,mineralBasis:'elemental'};const r=normalizeUnitInputs(x,d).offer;assert.equal(r.referenceCost,20);assert.equal(r.activeUnitCost,null);assert.ok(normalizeUnitInputs({...x,declaredActives:['zinc','magnesium']},d).issues.some(i=>i.severity==='error'));});
 test('withanolides need a verified standardized extract, not total root blend mass',()=>{const d={...fish,mainNutrient:'ashwagandhaMg'};assert.equal(normalizeUnitInputs({...raw,ashwagandhaMg:1500,withanolidesPct:5},d).offer.withanolidesMg,null);assert.equal(normalizeUnitInputs({...raw,standardizedExtractMg:500,withanolidesPct:5},d).offer.withanolidesMg,25);});
 test('data-only updates recalculate pack costs and dynamic unit filters',()=>{const r=normalizeUnitInputs({...raw,unitCost:999,referenceCost:999},fish).offer;assert.equal(r.unitCost,10);assert.equal(filterOffers([r],{packCount:['60'],epaDhaMgMin:900,complete:true},fish.id,fish).length,1);assert.equal(filterOffers([r],{packCount:['120']},fish.id,fish).length,0);assert.equal(normalizeUnitInputs({...raw,price:900},fish).offer.referenceCost,30);});

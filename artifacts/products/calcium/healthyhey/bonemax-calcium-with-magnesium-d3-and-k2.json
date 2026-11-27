@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "category": "calcium",
+  "brand": "HealthyHey",
+  "product": "BoneMax Calcium with Magnesium, D3 and K2",
+  "variants": [
+    {
+      "offer": {
+        "id": "calcium-44641620066589",
+        "brand": "HealthyHey",
+        "product": "BoneMax Calcium with Magnesium, D3 and K2",
+        "form": "Capsule",
+        "type": "Calcium carbonate",
+        "subclass": "Calcium, magnesium, D3 and K2 combination",
+        "source": "Not specified",
+        "servingUnits": null,
+        "packCount": 60,
+        "calciumMg": null,
+        "calciumBasis": null,
+        "magnesiumMg": null,
+        "vitaminDMcg": null,
+        "vitaminK2Mcg": null,
+        "price": 549,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://healthyhey.com/products/vegan-calcium-with-magnesium-vitamin-d3-vitamin-k2-mk7-bonemax-bone-health-complex?variant=44641620066589",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/2181/1153/files/Bone_Max_120_1.jpg?v=1753427016",
+        "labelSources": [
+          "https://healthyhey.com/products/vegan-calcium-with-magnesium-vitamin-d3-vitamin-k2-mk7-bonemax-bone-health-complex?variant=44641620066589",
+          "https://cdn.shopify.com/s/files/1/2181/1153/files/Bone_Max_120_1.jpg?v=1753427016"
+        ],
+        "labelChecked": "2026-11-26",
+        "flavour": "Unflavoured",
+        "packaging": "Brand-listed retail pack (60 capsules)",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "44641620066589",
+        "declaredNutrients": [
+          "calciumMg",
+          "magnesiumMg",
+          "vitaminDMcg",
+          "vitaminK2Mcg"
+        ],
+        "basis": "Official ingredient text identifies calcium carbonate, magnesium aspartate, vitamin D3 from lichen and vitamin K2 MK-7. The exact 60-capsule pack and INR price are verified independently of the supplement-facts quantities.",
+        "notes": "Supplement-facts serving and elemental calcium quantities have not yet been verified from the linked panel. Marketing instructions for two capsules are not substituted for a verified panel serving. Active-calcium cost remains unavailable; no carbonate-mass conversion is inferred. The gallery contains both 60- and 120-capsule containers, so the exact selected pack controls pack count.",
+        "lastPriceReview": {
+          "checked": "2026-11-27",
+          "sourceUrl": "https://healthyhey.com/products/vegan-calcium-with-magnesium-vitamin-d3-vitamin-k2-mk7-bonemax-bone-health-complex?variant=44641620066589",
+          "evidenceUrl": "https://healthyhey.com/products/vegan-calcium-with-magnesium-vitamin-d3-vitamin-k2-mk7-bonemax-bone-health-complex?variant=44641620066589",
+          "matchBasis": "Fresh official browser store product tool and page confirm exact variant 44641620066589, selected 60 capsules, unconditional INR 549 and available stock on 27 November 2026. Ingredient forms are verified; no unverified panel amounts or serving have been inferred."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "observation": {
+        "category": "calcium",
+        "offerId": "calcium-44641620066589",
+        "date": "2026-11-26",
+        "price": 549,
+        "currency": "INR",
+        "sourceUrl": "https://healthyhey.com/products/vegan-calcium-with-magnesium-vitamin-d3-vitamin-k2-mk7-bonemax-bone-health-complex?variant=44641620066589",
+        "evidenceUrl": "https://healthyhey.com/products/vegan-calcium-with-magnesium-vitamin-d3-vitamin-k2-mk7-bonemax-bone-health-complex?variant=44641620066589",
+        "kind": "official-live",
+        "variantId": "44641620066589",
+        "matchBasis": "Fresh official store product tool confirms exact variant 44641620066589, selected 60 capsules, unconditional INR 549 and available stock. The 120-capsule option is a separate variant and its price is not inferred."
+      }
+    },
+    {
+      "observation": {
+        "category": "calcium",
+        "offerId": "calcium-44641620066589",
+        "date": "2026-11-27",
+        "price": 549,
+        "currency": "INR",
+        "sourceUrl": "https://healthyhey.com/products/vegan-calcium-with-magnesium-vitamin-d3-vitamin-k2-mk7-bonemax-bone-health-complex?variant=44641620066589",
+        "evidenceUrl": "https://healthyhey.com/products/vegan-calcium-with-magnesium-vitamin-d3-vitamin-k2-mk7-bonemax-bone-health-complex?variant=44641620066589",
+        "kind": "official-live",
+        "variantId": "44641620066589",
+        "matchBasis": "Fresh official browser store product tool and page confirm exact variant 44641620066589, selected 60 capsules, unconditional INR 549 and available stock on 27 November 2026. Ingredient forms are verified; no unverified panel amounts or serving have been inferred."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "profile": {
+        "base": "https://healthyhey.com",
+        "handle": "vegan-calcium-with-magnesium-vitamin-d3-vitamin-k2-mk7-bonemax-bone-health-complex",
+        "variantIds": [
+          44641620066589
+        ],
+        "brand": "HealthyHey",
+        "product": "BoneMax Calcium with Magnesium, D3 and K2",
+        "form": "Capsule",
+        "type": "Calcium carbonate",
+        "subclass": "Calcium, magnesium, D3 and K2 combination",
+        "source": "Not specified",
+        "servingUnits": null,
+        "packCount": 60,
+        "calciumMg": null,
+        "calciumBasis": null,
+        "magnesiumMg": null,
+        "vitaminDMcg": null,
+        "vitaminK2Mcg": null,
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/2181/1153/files/Bone_Max_120_1.jpg?v=1753427016",
+        "labelSources": [
+          "https://healthyhey.com/products/vegan-calcium-with-magnesium-vitamin-d3-vitamin-k2-mk7-bonemax-bone-health-complex?variant=44641620066589",
+          "https://cdn.shopify.com/s/files/1/2181/1153/files/Bone_Max_120_1.jpg?v=1753427016"
+        ],
+        "labelChecked": "2026-11-26",
+        "flavour": "Unflavoured",
+        "packaging": "Brand-listed retail pack (60 capsules)",
+        "sourceType": "manufacturer",
+        "sourceVariantId": "44641620066589",
+        "declaredNutrients": [
+          "calciumMg",
+          "magnesiumMg",
+          "vitaminDMcg",
+          "vitaminK2Mcg"
+        ],
+        "basis": "Official ingredient text identifies calcium carbonate, magnesium aspartate, vitamin D3 from lichen and vitamin K2 MK-7. The exact 60-capsule pack and INR price are verified independently of the supplement-facts quantities.",
+        "notes": "Supplement-facts serving and elemental calcium quantities have not yet been verified from the linked panel. Marketing instructions for two capsules are not substituted for a verified panel serving. Active-calcium cost remains unavailable; no carbonate-mass conversion is inferred. The gallery contains both 60- and 120-capsule containers, so the exact selected pack controls pack count.",
+        "category": "calcium",
+        "id": "calcium-44641620066589"
+      }
+    }
+  ]
+}

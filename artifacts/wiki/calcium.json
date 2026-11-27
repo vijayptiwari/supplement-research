@@ -1,0 +1,526 @@
+{
+  "schemaVersion": 1,
+  "order": 25,
+  "category": {
+    "id": "calcium",
+    "label": "Calcium",
+    "file": "calcium.json",
+    "page": "calcium.html",
+    "measurement": "units",
+    "mainNutrient": "calciumMg",
+    "referenceQuantity": 100,
+    "referenceUnit": "mg",
+    "compoundLabel": "elemental calcium",
+    "nutrientFields": [
+      {
+        "key": "calciumMg",
+        "label": "Elemental calcium",
+        "unit": "mg",
+        "table": true
+      },
+      {
+        "key": "calciumCompoundMg",
+        "label": "Calcium compound (not elemental)",
+        "unit": "mg",
+        "table": false
+      },
+      {
+        "key": "vitaminDIu",
+        "label": "Vitamin D",
+        "unit": "IU",
+        "table": false
+      },
+      {
+        "key": "vitaminK2Mcg",
+        "label": "Vitamin K2",
+        "unit": "µg",
+        "table": false
+      },
+      {
+        "key": "magnesiumMg",
+        "label": "Elemental magnesium",
+        "unit": "mg",
+        "table": false
+      },
+      {
+        "key": "zincMg",
+        "label": "Elemental zinc",
+        "unit": "mg",
+        "table": false
+      }
+    ],
+    "comparisonNote": "Costs use explicitly labelled elemental calcium per verified serving. Carbonate, citrate, citrate-malate and other salt masses are stored separately and never substituted for the mineral. Compare added nutrients separately and retain unknown amounts as unknown.",
+    "searchAliases": [
+      "elemental calcium"
+    ]
+  },
+  "catalog": {
+    "checked": "2026-11-27",
+    "category": "calcium"
+  },
+  "guide": {
+    "id": "calcium-guide",
+    "category": "calcium",
+    "title": "Calcium: food intake, elemental amounts and bone health",
+    "summary": "Calcium is essential for bones and cell signalling. A useful supplement fills an assessed dietary gap; a large salt weight or a bone-health promise cannot establish that gap.",
+    "evidence": "Calcium supports normal mineralization and is part of care for selected bone and mineral disorders. Meeting requirements and treating osteoporosis are different tasks: calcium alone does not replace fracture-risk assessment or prescribed treatment.",
+    "limitations": "Studies of blanket supplementation in community-dwelling older adults have not consistently reduced fractures. Those findings do not mean that correcting low intake or a diagnosed mineral disorder is unnecessary; the population, vitamin D status and outcome matter.",
+    "catalogReading": "Compare explicitly labelled elemental calcium per label serving and its calculated cost. Calcium carbonate, citrate and citrate-malate name ingredients; their whole compound masses are not the calcium amount. Keep vitamin D, vitamin K2, magnesium and other co-ingredients separate.",
+    "safety": "Review kidney disease, previous stones, high blood calcium and medicines before supplementing. Excess can cause harm; constipation and bloating can limit tolerability. Calcium can reduce absorption of levothyroxine and some antibiotics or HIV medicines, so follow the medicine-specific spacing instructions with a pharmacist.",
+    "sourceIds": [
+      "ca-overview",
+      "ca-iom-physiology",
+      "ca-iom-requirements",
+      "ca-bhof-2022",
+      "ca-fracture-community-2017",
+      "ca-india-consensus-2026",
+      "ca-india-rda-summary",
+      "ca-kidney-stones-niddk",
+      "food-usda-sr28",
+      "supplement-quality-ods"
+    ],
+    "reviewed": "2026-11-26",
+    "author": "Supplement Research editorial synthesis",
+    "bodySteps": [
+      "The intestine absorbs calcium ions from food and dissolved supplement compounds through active and passive routes; active transport depends on vitamin D.",
+      "Most body calcium is held in bones and teeth. A small circulating pool supports muscle contraction, nerve signalling and other cellular functions.",
+      "Hormones coordinate intestinal absorption, kidney handling and bone turnover to maintain circulating calcium. A normal blood result does not prove that dietary intake has been adequate."
+    ],
+    "bodySources": [
+      "ca-iom-physiology",
+      "ca-overview"
+    ],
+    "treatment": "Clinician-directed calcium is used in disorders such as hypocalcemia, calcium-deficiency rickets or osteomalacia and as nutritional support in osteoporosis care. Causes and vitamin D status must be assessed; an oral retail tablet is not a universal treatment for bone pain, cramps or an acute low-calcium episode.",
+    "whoMayBenefit": "People with persistently inadequate food intake, selected malabsorption problems, or a bone/mineral condition with an assessed need. Dairy avoidance can create a gap, but fortified foods and calcium-set tofu can help meet requirements without a tablet.",
+    "routineUse": "No group should automatically buy calcium merely because it trains, reaches a birthday or has a symptom. Estimate food intake and consider the relevant life stage before deciding whether any supplemental amount is needed.",
+    "sectionSources": [
+      "ca-india-consensus-2026",
+      "ca-bhof-2022",
+      "ca-overview"
+    ],
+    "buyingGuide": {
+      "whoCanConsider": [
+        "Adults with a measured dietary shortfall that suitable foods cannot readily fill.",
+        "People with a diagnosed bone or mineral disorder whose clinician has specified calcium within a wider care plan."
+      ],
+      "whoShouldReview": [
+        "Kidney impairment, kidney stones, high calcium levels or parathyroid disease need individual assessment.",
+        "People taking levothyroxine, certain antibiotics, dolutegravir or lithium should review timing and safety."
+      ],
+      "foodSummary": "Dairy, calcium-set tofu, some fortified foods, seeds and edible-bone fish can contribute. Values below retain exact USDA foods and preparation; they are not measurements of all Indian varieties or a measure of absorbed supply.",
+      "foods": [
+        {
+          "name": "Whole cow milk, 3.25% fat, without added vitamins A/D",
+          "relationship": "direct",
+          "detail": "Milk composition reference; not a measurement of buffalo milk or a local brand. The denominator is grams, not millilitres.",
+          "quantityStatus": "quantified",
+          "quantityNote": "USDA SR28 nutrient 301, mg per 100 g edible food in the specified preparation; reference composition, not absorbed calcium or an Indian recipe assay.",
+          "foodId": "USDA-SR28:01211",
+          "amounts": [
+            {
+              "nutrient": "Calcium",
+              "min": 113,
+              "max": null,
+              "unit": "mg",
+              "per": {
+                "amount": 100,
+                "unit": "g",
+                "label": "100 g edible food"
+              },
+              "sourceIds": [
+                "food-usda-sr28"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Raw firm tofu prepared with calcium sulfate",
+          "relationship": "direct",
+          "detail": "Calcium-setting changes tofu composition substantially. This reference is not interchangeable with other tofu, paneer or a brand label.",
+          "quantityStatus": "quantified",
+          "quantityNote": "USDA SR28 nutrient 301, mg per 100 g edible food in the specified preparation; reference composition, not absorbed calcium or an Indian recipe assay.",
+          "foodId": "USDA-SR28:16426",
+          "amounts": [
+            {
+              "nutrient": "Calcium",
+              "min": 683,
+              "max": null,
+              "unit": "mg",
+              "per": {
+                "amount": 100,
+                "unit": "g",
+                "label": "100 g edible food"
+              },
+              "sourceIds": [
+                "food-usda-sr28"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Almonds",
+          "relationship": "direct",
+          "detail": "A composition reference for almonds; portion size and total dietary intake still matter.",
+          "quantityStatus": "quantified",
+          "quantityNote": "USDA SR28 nutrient 301, mg per 100 g edible food in the specified preparation; reference composition, not absorbed calcium or an Indian recipe assay.",
+          "foodId": "USDA-SR28:12061",
+          "amounts": [
+            {
+              "nutrient": "Calcium",
+              "min": 269,
+              "max": null,
+              "unit": "mg",
+              "per": {
+                "amount": 100,
+                "unit": "g",
+                "label": "100 g edible food"
+              },
+              "sourceIds": [
+                "food-usda-sr28"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Whole dried sesame seeds",
+          "relationship": "direct",
+          "detail": "Whole dried seeds, not hulled sesame, tahini or a cooked recipe. A 100 g reference is not a suggested serving.",
+          "quantityStatus": "quantified",
+          "quantityNote": "USDA SR28 nutrient 301, mg per 100 g edible food in the specified preparation; reference composition, not absorbed calcium or an Indian recipe assay.",
+          "foodId": "USDA-SR28:12023",
+          "amounts": [
+            {
+              "nutrient": "Calcium",
+              "min": 975,
+              "max": null,
+              "unit": "mg",
+              "per": {
+                "amount": 100,
+                "unit": "g",
+                "label": "100 g edible food"
+              },
+              "sourceIds": [
+                "food-usda-sr28"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Atlantic sardines canned in oil, drained solids with bone",
+          "relationship": "direct",
+          "detail": "The edible soft bones are included. Boneless fish is not the same calcium source.",
+          "quantityStatus": "quantified",
+          "quantityNote": "USDA SR28 nutrient 301, mg per 100 g edible food in the specified preparation; reference composition, not absorbed calcium or an Indian recipe assay.",
+          "foodId": "USDA-SR28:15088",
+          "amounts": [
+            {
+              "nutrient": "Calcium",
+              "min": 382,
+              "max": null,
+              "unit": "mg",
+              "per": {
+                "amount": 100,
+                "unit": "g",
+                "label": "100 g edible food"
+              },
+              "sourceIds": [
+                "food-usda-sr28"
+              ]
+            }
+          ]
+        }
+      ],
+      "foodSourceIds": [
+        "food-usda-sr28",
+        "ca-overview"
+      ],
+      "value": {
+        "routineScore": 2,
+        "targetedScore": 4,
+        "targetedUse": "Filling a verified dietary gap or supporting an assessed bone/mineral care plan.",
+        "reason": "The need for adequate calcium is established; the value of an extra tablet depends on intake, health context and the elemental amount actually provided.",
+        "worthWhen": [
+          "Food intake has been assessed and a practical calcium gap remains.",
+          "The elemental amount, serving size, tolerability, medicine timing and total daily intake have been checked."
+        ],
+        "skipWhen": [
+          "Adequate intake is already achieved without a supplement.",
+          "The purchase rests on a larger salt weight, a premium ingredient name or a guarantee of fracture prevention."
+        ],
+        "evidence": "strong",
+        "scope": "Editorial priority for meeting calcium needs; not a score for treating osteoporosis, preventing every fracture or choosing a particular brand.",
+        "sourceIds": [
+          "ca-bhof-2022",
+          "ca-fracture-community-2017",
+          "ca-india-consensus-2026"
+        ]
+      },
+      "reviewed": "2026-11-26",
+      "practices": {
+        "dos": [
+          {
+            "title": "Read elemental calcium per serving",
+            "detail": "Use the declared elemental milligrams and the number of tablets in the label serving. A compound quantity is a different measurement."
+          },
+          {
+            "title": "Choose a form for the actual constraint",
+            "detail": "Carbonate is generally taken with food; citrate is less dependent on stomach acid. Consider tolerability and cost rather than assuming the most expensive salt is best."
+          },
+          {
+            "title": "Count calcium from the whole day",
+            "detail": "Include food, fortified drinks, multivitamins, mineral stacks and calcium-containing antacids before choosing a gap-filling amount."
+          }
+        ],
+        "donts": [
+          {
+            "title": "Do not treat a daily target as a supplement dose",
+            "detail": "A 1,000 mg total-intake reference does not mean adding a 1,000 mg tablet to an already calcium-rich diet."
+          },
+          {
+            "title": "Do not replace a clinical bone-health plan",
+            "detail": "A supplement does not substitute for assessment of fractures, osteoporosis, malabsorption or an abnormal blood calcium result."
+          },
+          {
+            "title": "Do not cut out food calcium after a stone without advice",
+            "detail": "Stone prevention depends on the stone type and urine findings. Adequate food calcium can reduce intestinal oxalate absorption; supplements need separate review."
+          }
+        ],
+        "sourceIds": [
+          "ca-overview",
+          "ca-bhof-2022",
+          "ca-kidney-stones-niddk",
+          "ca-india-consensus-2026"
+        ]
+      }
+    },
+    "intakeGuide": {
+      "kind": "daily-target",
+      "summary": "Use an identified dietary-reference framework and count food plus supplements. The table uses U.S. FNB adult age/sex references for consistency with the existing ZMC guide; it does not prescribe a pill amount.",
+      "targets": [
+        {
+          "key": "calciumMg",
+          "label": "Elemental calcium — U.S. FNB adult reference",
+          "min": 1000,
+          "max": null,
+          "unit": "mg",
+          "basis": "total-daily",
+          "perKg": false,
+          "profileIds": [
+            "everyday",
+            "general-fitness",
+            "strength-power",
+            "hypertrophy",
+            "endurance",
+            "hybrid"
+          ],
+          "sex": "any",
+          "minAge": 19,
+          "maxAge": 50,
+          "referenceType": "RDA",
+          "notes": "Food plus supplements, not a tablet dose. The country/framework is stated because reference systems can differ.",
+          "sourceIds": [
+            "ca-iom-requirements"
+          ]
+        },
+        {
+          "key": "calciumMg",
+          "label": "Elemental calcium — U.S. FNB adult reference",
+          "min": 1000,
+          "max": null,
+          "unit": "mg",
+          "basis": "total-daily",
+          "perKg": false,
+          "profileIds": [
+            "everyday",
+            "general-fitness",
+            "strength-power",
+            "hypertrophy",
+            "endurance",
+            "hybrid"
+          ],
+          "sex": "male",
+          "minAge": 51,
+          "maxAge": 70,
+          "referenceType": "RDA",
+          "notes": "Food plus supplements, not a tablet dose. The country/framework is stated because reference systems can differ.",
+          "sourceIds": [
+            "ca-iom-requirements"
+          ]
+        },
+        {
+          "key": "calciumMg",
+          "label": "Elemental calcium — U.S. FNB adult reference",
+          "min": 1200,
+          "max": null,
+          "unit": "mg",
+          "basis": "total-daily",
+          "perKg": false,
+          "profileIds": [
+            "everyday",
+            "general-fitness",
+            "strength-power",
+            "hypertrophy",
+            "endurance",
+            "hybrid"
+          ],
+          "sex": "female",
+          "minAge": 51,
+          "maxAge": 70,
+          "referenceType": "RDA",
+          "notes": "Food plus supplements, not a tablet dose. The country/framework is stated because reference systems can differ.",
+          "sourceIds": [
+            "ca-iom-requirements"
+          ]
+        },
+        {
+          "key": "calciumMg",
+          "label": "Elemental calcium — U.S. FNB adult reference",
+          "min": 1200,
+          "max": null,
+          "unit": "mg",
+          "basis": "total-daily",
+          "perKg": false,
+          "profileIds": [
+            "everyday",
+            "general-fitness",
+            "strength-power",
+            "hypertrophy",
+            "endurance",
+            "hybrid"
+          ],
+          "sex": "any",
+          "minAge": 71,
+          "maxAge": null,
+          "referenceType": "RDA",
+          "notes": "Food plus supplements, not a tablet dose. The country/framework is stated because reference systems can differ.",
+          "sourceIds": [
+            "ca-iom-requirements"
+          ]
+        }
+      ],
+      "limits": [
+        {
+          "key": "calciumMg",
+          "label": "Total calcium UL — U.S. FNB reference",
+          "max": 2500,
+          "unit": "mg",
+          "basis": "total-daily",
+          "minAge": 19,
+          "maxAge": 50,
+          "notes": "A ceiling for generally healthy adults, not a target or assurance of safety in kidney disease or other medical conditions.",
+          "sourceIds": [
+            "ca-overview"
+          ]
+        },
+        {
+          "key": "calciumMg",
+          "label": "Total calcium UL — U.S. FNB reference",
+          "max": 2000,
+          "unit": "mg",
+          "basis": "total-daily",
+          "minAge": 51,
+          "maxAge": null,
+          "notes": "A ceiling for generally healthy adults, not a target or assurance of safety in kidney disease or other medical conditions.",
+          "sourceIds": [
+            "ca-overview"
+          ]
+        }
+      ],
+      "notes": [
+        "The ICMR-NIN 2020 summary published by FSSAI lists 1,000 mg/day calcium for adult men and women across sedentary, moderate and heavy-work categories. This is an Indian total-intake reference, not a supplemental dose.",
+        "No dose multiplier is assigned to two, three or five sessions a week, bodybuilding experience, CrossFit, HYROX or powerlifting.",
+        "Pregnancy, lactation, adolescents and treatment of mineral disorders need their own assessment. Adult references should not be applied to children.",
+        "Higher labelling percentages, larger compound weights and the upper limit do not establish a need for more calcium."
+      ],
+      "sourceIds": [
+        "ca-iom-requirements",
+        "ca-overview",
+        "ca-india-rda-summary",
+        "ca-india-consensus-2026"
+      ],
+      "reviewed": "2026-11-26"
+    },
+    "medicalGuide": {
+      "summary": "Calcium has established nutritional and selected clinical uses, while evidence for routine preventive tablets depends on the population. Clinical replacement is distinct from self-treating symptoms.",
+      "conditions": [
+        {
+          "condition": "Hypocalcemia and calcium-related mineralization disorders",
+          "level": "established",
+          "findings": "Calcium replacement can be part of treatment after identifying the cause; rickets, osteomalacia and hypoparathyroidism may require specific management. Acute symptomatic hypocalcemia is not a retail self-care problem.",
+          "limits": "Vitamin D, magnesium, kidney function and the underlying diagnosis can change the regimen.",
+          "sourceIds": [
+            "ca-india-consensus-2026",
+            "ca-overview"
+          ]
+        },
+        {
+          "condition": "Osteoporosis care",
+          "level": "conditional",
+          "findings": "Adequate calcium and vitamin D support a broader osteoporosis plan. A tablet alone does not reverse every cause of bone fragility or replace indicated medicines, exercise and fall-risk management.",
+          "limits": "An adequate total intake is supportive care, not a guarantee of fracture prevention.",
+          "sourceIds": [
+            "ca-bhof-2022"
+          ]
+        },
+        {
+          "condition": "Routine fracture prevention in community-dwelling older adults",
+          "level": "mixed",
+          "findings": "A systematic review of randomized trials did not find reduced fracture incidence from routine calcium, vitamin D or their combination in community-dwelling adults older than 50. This population is distinct from selected deficient patients or institutional care.",
+          "limits": "Do not extrapolate this result to withholding needed replacement or stopping an existing treatment plan.",
+          "sourceIds": [
+            "ca-fracture-community-2017"
+          ]
+        },
+        {
+          "condition": "Previous calcium kidney stones",
+          "level": "conditional",
+          "findings": "Appropriate food calcium may help bind oxalate in the gut. Stone history is a reason to individualize supplements, not to eliminate calcium-rich foods automatically.",
+          "limits": "Stone type, urine results and kidney function determine the plan.",
+          "sourceIds": [
+            "ca-kidney-stones-niddk"
+          ]
+        }
+      ],
+      "reviewed": "2026-11-26"
+    },
+    "pathway": {
+      "title": "From intestinal calcium to a regulated mineral pool",
+      "summary": "Calcium is a mineral ion, not a protein or an energy source. Its movement between intestine, blood, kidney and bone is regulated.",
+      "tracks": [
+        {
+          "label": "Absorption, storage and signalling",
+          "steps": [
+            {
+              "label": "Food and compounds release calcium",
+              "detail": "Digestion and dissolution make calcium available for intestinal absorption. Vitamin D supports active uptake.",
+              "compartment": "Intestine",
+              "icon": "digest"
+            },
+            {
+              "label": "A small blood pool supplies tissues",
+              "detail": "Circulating calcium supports signalling, nerve activity and muscle contraction; blood levels are tightly controlled.",
+              "compartment": "Blood / tissues",
+              "icon": "blood"
+            },
+            {
+              "label": "Bone stores calcium in mineral",
+              "detail": "Bone deposition and resorption exchange calcium with the circulating pool as part of lifelong remodelling.",
+              "compartment": "Bone",
+              "icon": "bone"
+            },
+            {
+              "label": "Kidneys and hormones adjust balance",
+              "detail": "Renal handling and hormonal feedback help maintain calcium balance alongside intestinal absorption and bone turnover.",
+              "compartment": "Kidney / endocrine system",
+              "icon": "kidney"
+            }
+          ]
+        }
+      ],
+      "caveat": "A normal physiological role does not prove that an extra tablet improves strength or prevents a fracture. Blood calcium is not a simple dietary-intake score.",
+      "sourceIds": [
+        "ca-iom-physiology"
+      ]
+    }
+  }
+}

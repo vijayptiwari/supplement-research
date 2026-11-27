@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "category": "calcium",
+  "brand": "INLIFE",
+  "product": "Calcium, Zinc and Magnesium with D2, K2, Folate and B12",
+  "variants": [
+    {
+      "offer": {
+        "id": "calcium-48087633756325",
+        "brand": "INLIFE",
+        "product": "Calcium, Zinc and Magnesium with D2, K2, Folate and B12",
+        "form": "Tablet",
+        "type": "Calcium citrate malate, magnesium hydroxide and zinc sulphate",
+        "subclass": "Mineral + vitamin combination",
+        "flavour": "Unflavoured",
+        "source": "Not specified",
+        "packCount": 240,
+        "servingUnits": 1,
+        "price": 1233,
+        "currency": "INR",
+        "stock": "In stock",
+        "url": "https://inlifehealthcare.com/products/calcium-tablets-supplement?variant=48087633756325",
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/webp_3.webp?v=1791356637",
+        "labelSources": [
+          "https://inlifehealthcare.com/products/calcium-tablets-supplement",
+          "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/webp_3.webp?v=1791356637"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Official supplement facts per one tablet: calcium250 mg, magnesium100 mg, zinc10 mg, folic acid129.4 micrograms, K2 55 micrograms, D2 600 IU and B12 2.2 micrograms.",
+        "notes": "Vitamin D is ergocalciferol D2, not D3. Calcium is the declared elemental amount, not calcium citrate malate salt weight. This exact 240-tablet pack is cross-listed from the reviewed ZMC record; its genuine previous price observations and 19 November label date are preserved. Current selected-pack price and stock were freshly verified on 27 November.",
+        "packaging": "Brand-listed retail pack (240 tablets)",
+        "calciumMg": 250,
+        "magnesiumMg": 100,
+        "zincMg": 10,
+        "folicAcidMcg": 129.4,
+        "vitaminDIu": 600,
+        "vitaminK2Mcg": 55,
+        "vitaminB12Mcg": 2.2,
+        "energyPerServing": 4.23,
+        "mineralBasis": "elemental",
+        "declaredNutrients": [
+          "calciumMg",
+          "magnesiumMg",
+          "zincMg",
+          "folicAcidMcg",
+          "vitaminDIu",
+          "vitaminK2Mcg",
+          "vitaminB12Mcg"
+        ],
+        "declaredActives": [
+          "calcium",
+          "magnesium",
+          "zinc"
+        ],
+        "calciumBasis": "elemental",
+        "sourceType": "manufacturer",
+        "lastPriceReview": {
+          "checked": "2026-11-27",
+          "sourceUrl": "https://inlifehealthcare.com/products/calcium-tablets-supplement?variant=48087633756325",
+          "evidenceUrl": "https://inlifehealthcare.com/products/calcium-tablets-supplement?variant=48087633756325",
+          "matchBasis": "Fresh official browser selected variant 48087633756325, Value Pack (240 Tablets), unconditional INR 1,233 and enabled Add to Cart on 27 November 2026. Nutrient quantities preserve the separately reviewed 19 November official panel."
+        }
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "observation": {
+        "category": "calcium",
+        "offerId": "calcium-48087633756325",
+        "date": "2026-11-19",
+        "price": 1233,
+        "currency": "INR",
+        "sourceUrl": "https://inlifehealthcare.com/products/calcium-tablets-supplement?variant=48087633756325",
+        "evidenceUrl": "https://inlifehealthcare.com/products.json?limit=250",
+        "kind": "official-live",
+        "variantId": "48087633756325",
+        "matchBasis": "Official public Shopify feed exact variant ID and explicitly listed retail count; unconditional INR variant price. Label serving and payload independently checked against official label panel."
+      }
+    },
+    {
+      "observation": {
+        "category": "calcium",
+        "offerId": "calcium-48087633756325",
+        "date": "2026-11-27",
+        "price": 1233,
+        "currency": "INR",
+        "sourceUrl": "https://inlifehealthcare.com/products/calcium-tablets-supplement?variant=48087633756325",
+        "evidenceUrl": "https://inlifehealthcare.com/products/calcium-tablets-supplement?variant=48087633756325",
+        "kind": "official-live",
+        "variantId": "48087633756325",
+        "matchBasis": "Fresh official browser selected variant 48087633756325, Value Pack (240 Tablets), unconditional INR 1,233 and enabled Add to Cart on 27 November 2026. Nutrient quantities preserve the separately reviewed 19 November official panel."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "profile": {
+        "brand": "INLIFE",
+        "product": "Calcium, Zinc and Magnesium with D2, K2, Folate and B12",
+        "form": "Tablet",
+        "type": "Calcium citrate malate, magnesium hydroxide and zinc sulphate",
+        "subclass": "Mineral + vitamin combination",
+        "flavour": "Unflavoured",
+        "source": "Not specified",
+        "packCount": 240,
+        "servingUnits": 1,
+        "nutritionUrl": "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/webp_3.webp?v=1791356637",
+        "labelSources": [
+          "https://inlifehealthcare.com/products/calcium-tablets-supplement",
+          "https://cdn.shopify.com/s/files/1/0609/8318/1477/files/webp_3.webp?v=1791356637"
+        ],
+        "labelChecked": "2026-11-19",
+        "basis": "Official supplement facts per one tablet: calcium250 mg, magnesium100 mg, zinc10 mg, folic acid129.4 micrograms, K2 55 micrograms, D2 600 IU and B12 2.2 micrograms.",
+        "notes": "Vitamin D is ergocalciferol D2, not D3. Calcium is the declared elemental amount, not calcium citrate malate salt weight. This exact 240-tablet pack is cross-listed from the reviewed ZMC record; its genuine previous price observations and 19 November label date are preserved. Current selected-pack price and stock were freshly verified on 27 November.",
+        "packaging": "Brand-listed retail pack (240 tablets)",
+        "calciumMg": 250,
+        "magnesiumMg": 100,
+        "zincMg": 10,
+        "folicAcidMcg": 129.4,
+        "vitaminDIu": 600,
+        "vitaminK2Mcg": 55,
+        "vitaminB12Mcg": 2.2,
+        "energyPerServing": 4.23,
+        "mineralBasis": "elemental",
+        "declaredNutrients": [
+          "calciumMg",
+          "magnesiumMg",
+          "zincMg",
+          "folicAcidMcg",
+          "vitaminDIu",
+          "vitaminK2Mcg",
+          "vitaminB12Mcg"
+        ],
+        "declaredActives": [
+          "calcium",
+          "magnesium",
+          "zinc"
+        ],
+        "category": "calcium",
+        "base": "https://inlifehealthcare.com",
+        "handle": "calcium-tablets-supplement",
+        "variantIds": [
+          48087633756325
+        ],
+        "allowRetailMultipack": true,
+        "id": "calcium-48087633756325",
+        "calciumBasis": "elemental",
+        "sourceType": "manufacturer"
+      }
+    }
+  ]
+}

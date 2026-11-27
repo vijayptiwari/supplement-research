@@ -18,8 +18,8 @@ export function recommend(snapshot,input){
  });
  const warnings=[];
  if(restricted)warnings.push('Personalized product suggestions are paused. If you are under 19, pregnant or breastfeeding, take medicines, have a health condition, or are unsure, review supplements with a qualified clinician. You can still read the educational category notes.');
- if(existing.has('zmc')&&(existing.has('magnesium')||existing.has('vitamin-d')))warnings.push('Your existing ZMC may overlap with separate magnesium or vitamin D. Check the exact labels before combining.');
- if(items.some(i=>i.category==='zmc')&&items.some(i=>['magnesium','vitamin-d'].includes(i.category)))warnings.push('Bone-health categories are alternatives to review, not instructions to take all three together. ZMC can already contain magnesium and vitamin D.');
+ if(existing.has('zmc')&&['magnesium','vitamin-d','calcium'].some(id=>existing.has(id)))warnings.push('Your existing ZMC may overlap with separate calcium, magnesium or vitamin D. Check the exact labels before combining.');
+ if(items.some(i=>i.category==='zmc')&&items.some(i=>['magnesium','vitamin-d','calcium'].includes(i.category)))warnings.push('Bone-health categories are alternatives to review, not instructions to take every product together. ZMC can already contain calcium, magnesium and vitamin D.');
  if((existing.has('vitamin-b')&&(existing.has('biotin')||existing.has('folic-acid')))||(items.some(i=>i.category==='vitamin-b')&&items.some(i=>['biotin','folic-acid'].includes(i.category))))warnings.push('Review the exact B-vitamin profile before combining products. A B-complex may already contain biotin or folic acid; an individual B12 product has a different profile. These review items are not instructions to take every category.');
  const reviewed=new Set([...existing,...items.map(i=>i.category)]);
  if(['protein','bcaa','eaa'].filter(id=>reviewed.has(id)).length>1)warnings.push('Complete dietary protein supplies all nine essential amino acids; BCAAs are three of those EAAs. Protein, BCAA and EAA review cards are not instructions to buy all three. Check your food and protein intake before paying for overlapping amino acids.');

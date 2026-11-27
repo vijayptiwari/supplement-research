@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "category": "vitamin-e",
+  "brand": "HealthyHey",
+  "product": "Vitamin E from Sunflower",
+  "variants": [
+    {
+      "offer": {
+        "id": "vitamin-e-44687334375709",
+        "form": "Capsule",
+        "type": "D-alpha-tocopherol",
+        "subclass": "Natural alpha-tocopherol",
+        "source": "Sunflower",
+        "servingUnits": 1,
+        "packCount": 120,
+        "vitaminEMg": 10,
+        "price": 549,
+        "url": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-e-capsules-vitamin-e-for-skin-hair-sunflower-d-alpha-tocpherol-120-veg-capsules?variant=44687334375709",
+        "nutritionUrl": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-e-capsules-vitamin-e-for-skin-hair-sunflower-d-alpha-tocpherol-120-veg-capsules",
+        "labelSources": [
+          "https://healthyhey.com/products/healthyhey-nutrition-vitamin-e-capsules-vitamin-e-for-skin-hair-sunflower-d-alpha-tocpherol-120-veg-capsules"
+        ],
+        "labelChecked": "2026-11-26",
+        "declaredNutrients": [
+          "vitaminEMg"
+        ],
+        "basis": "Official product facts state one vegetable capsule supplies 10 mg natural vitamin E (D-alpha-tocopherol) from sunflower; the named retail pack contains 120 capsules.",
+        "notes": "Only the declared 10 mg natural alpha-tocopherol amount is counted; no oil mass or IU conversion is substituted. Brand skin, hair and cognitive marketing is not adopted as established benefit. Conditional prepaid discounts are excluded.",
+        "brand": "HealthyHey",
+        "product": "Vitamin E from Sunflower",
+        "currency": "INR",
+        "sourceType": "manufacturer",
+        "flavour": "Unflavoured",
+        "stock": "In stock",
+        "packaging": "Brand-listed retail pack (120 units)",
+        "lastPriceReview": {
+          "checked": "2026-11-26",
+          "sourceUrl": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-e-capsules-vitamin-e-for-skin-hair-sunflower-d-alpha-tocpherol-120-veg-capsules?variant=44687334375709",
+          "evidenceUrl": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-e-capsules-vitamin-e-for-skin-hair-sunflower-d-alpha-tocpherol-120-veg-capsules?variant=44687334375709",
+          "matchBasis": "Fresh official browser page and store product tool both confirm variant 44687334375709 / SKU HHVITE6010, 120 capsules, unconditional INR 549 and available stock. Visible supplement facts state one capsule supplies 10 mg natural vitamin E from sunflower."
+        },
+        "sourceVariantId": "44687334375709",
+        "sourceSku": "HHVITE6010"
+      }
+    }
+  ],
+  "priceHistory": [
+    {
+      "observation": {
+        "category": "vitamin-e",
+        "offerId": "vitamin-e-44687334375709",
+        "date": "2026-11-26",
+        "price": 549,
+        "currency": "INR",
+        "sourceUrl": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-e-capsules-vitamin-e-for-skin-hair-sunflower-d-alpha-tocpherol-120-veg-capsules?variant=44687334375709",
+        "evidenceUrl": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-e-capsules-vitamin-e-for-skin-hair-sunflower-d-alpha-tocpherol-120-veg-capsules?variant=44687334375709",
+        "kind": "official-live",
+        "variantId": "44687334375709",
+        "matchBasis": "Fresh official browser page and store product tool both confirm variant 44687334375709 / SKU HHVITE6010, 120 capsules, unconditional INR 549 and available stock. Visible supplement facts state one capsule supplies 10 mg natural vitamin E from sunflower."
+      }
+    }
+  ],
+  "refreshSources": [
+    {
+      "profile": {
+        "base": "https://healthyhey.com",
+        "handle": "healthyhey-nutrition-vitamin-e-capsules-vitamin-e-for-skin-hair-sunflower-d-alpha-tocpherol-120-veg-capsules",
+        "variantIds": [
+          44687334375709
+        ],
+        "form": "Capsule",
+        "type": "D-alpha-tocopherol",
+        "subclass": "Natural alpha-tocopherol",
+        "source": "Sunflower",
+        "servingUnits": 1,
+        "packCount": 120,
+        "vitaminEMg": 10,
+        "nutritionUrl": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-e-capsules-vitamin-e-for-skin-hair-sunflower-d-alpha-tocpherol-120-veg-capsules",
+        "labelSources": [
+          "https://healthyhey.com/products/healthyhey-nutrition-vitamin-e-capsules-vitamin-e-for-skin-hair-sunflower-d-alpha-tocpherol-120-veg-capsules"
+        ],
+        "labelChecked": "2026-11-26",
+        "declaredNutrients": [
+          "vitaminEMg"
+        ],
+        "basis": "Official product facts state one vegetable capsule supplies 10 mg natural vitamin E (D-alpha-tocopherol) from sunflower; the named retail pack contains 120 capsules.",
+        "notes": "Only the declared 10 mg natural alpha-tocopherol amount is counted; no oil mass or IU conversion is substituted. Brand skin, hair and cognitive marketing is not adopted as established benefit. Conditional prepaid discounts are excluded.",
+        "brand": "HealthyHey",
+        "product": "Vitamin E from Sunflower",
+        "sourceType": "manufacturer",
+        "flavour": "Unflavoured",
+        "packaging": "Brand-listed retail pack (120 units)",
+        "sourceVariantId": "44687334375709",
+        "sourceSku": "HHVITE6010",
+        "category": "vitamin-e",
+        "id": "vitamin-e-44687334375709"
+      }
+    }
+  ]
+}

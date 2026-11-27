@@ -1,5 +1,5 @@
 {
-  "checked": "2026-11-20",
+  "checked": "2026-11-27",
   "scope": "Exact public retail offers available in India; selected new product labels checked individually. A current price check does not reverify the nutritional label or establish independent laboratory testing.",
   "categoriesCovered": [
     "ashwagandha",
@@ -25,7 +25,9 @@
     "betaine",
     "hmb",
     "protein",
-    "creatine"
+    "creatine",
+    "vitamin-e",
+    "calcium"
   ],
   "updates": [
     {
@@ -21041,6 +21043,51 @@
         "matchBasis": "Exact official citrulline-malate product: clear manufacturer nutrition graphic replaces the curved bottle-side panel as the primary label pointer; declared quantities unchanged."
       },
       "reviewType": "label"
+    },
+    {
+      "category": "zmc",
+      "offerId": "zmc-48087633756325",
+      "fields": [
+        "price",
+        "stock"
+      ],
+      "evidence": {
+        "checked": "2026-11-27",
+        "sourceUrl": "https://inlifehealthcare.com/products/calcium-tablets-supplement?variant=48087633756325",
+        "evidenceUrl": "https://inlifehealthcare.com/products/calcium-tablets-supplement?variant=48087633756325",
+        "matchBasis": "Fresh official browser selected variant 48087633756325, Value Pack (240 Tablets), unconditional INR 1,233 and enabled Add to Cart on 27 November 2026. Nutrient quantities preserve the separately reviewed 19 November official panel."
+      },
+      "reviewType": "price"
+    },
+    {
+      "category": "zmc",
+      "offerId": "zmc-hkv-188310",
+      "fields": [
+        "price",
+        "stock"
+      ],
+      "evidence": {
+        "checked": "2026-11-27",
+        "sourceUrl": "https://www.hkvitals.com/sv/hk-vitals-calcium-plus-vitamin-d3/SP-101006?navKey=VRNT-188310",
+        "evidenceUrl": "https://www.hkvitals.com/sv/hk-vitals-calcium-plus-vitamin-d3/SP-101006?navKey=VRNT-188310",
+        "matchBasis": "Fresh official exact URL SP-101006 / VRNT-188310 displays 60 unflavoured tablets, INR 269 and enabled Add to Cart. One tablet serving is stated; nutrient amounts retain their separately dated 19 November official supplement-facts review."
+      },
+      "reviewType": "price"
+    },
+    {
+      "category": "vitamin-d",
+      "offerId": "vitamin-d-hkv-188310",
+      "fields": [
+        "price",
+        "stock"
+      ],
+      "evidence": {
+        "checked": "2026-11-27",
+        "sourceUrl": "https://www.hkvitals.com/sv/hk-vitals-calcium-plus-vitamin-d3/SP-101006?navKey=VRNT-188310",
+        "evidenceUrl": "https://www.hkvitals.com/sv/hk-vitals-calcium-plus-vitamin-d3/SP-101006?navKey=VRNT-188310",
+        "matchBasis": "Fresh official exact URL SP-101006 / VRNT-188310 displays 60 unflavoured tablets, INR 269 and enabled Add to Cart. One tablet serving is stated; nutrient amounts retain their separately dated 19 November official supplement-facts review."
+      },
+      "reviewType": "price"
     }
   ],
   "additions": [
@@ -23475,6 +23522,38 @@
       "product": "Crea Rush Creatine HCl with BCAA and Taurine",
       "url": "https://xlr8sport.com/products/creatine-hcl-post-workout-supplement-crearush?sku_id=60674971",
       "checked": "2026-11-20"
+    },
+    {
+      "category": "vitamin-e",
+      "offerId": "vitamin-e-44687334375709",
+      "brand": "HealthyHey",
+      "product": "Vitamin E from Sunflower",
+      "url": "https://healthyhey.com/products/healthyhey-nutrition-vitamin-e-capsules-vitamin-e-for-skin-hair-sunflower-d-alpha-tocpherol-120-veg-capsules?variant=44687334375709",
+      "checked": "2026-11-26"
+    },
+    {
+      "category": "calcium",
+      "offerId": "calcium-48087633756325",
+      "brand": "INLIFE",
+      "product": "Calcium, Zinc and Magnesium with D2, K2, Folate and B12",
+      "url": "https://inlifehealthcare.com/products/calcium-tablets-supplement?variant=48087633756325",
+      "checked": "2026-11-19"
+    },
+    {
+      "category": "calcium",
+      "offerId": "calcium-hkv-188310",
+      "brand": "HK Vitals",
+      "product": "Calcium + Vitamin D3",
+      "url": "https://www.hkvitals.com/sv/hk-vitals-calcium-plus-vitamin-d3/SP-101006?navKey=VRNT-188310",
+      "checked": "2026-11-19"
+    },
+    {
+      "category": "calcium",
+      "offerId": "calcium-44641620066589",
+      "brand": "HealthyHey",
+      "product": "BoneMax Calcium with Magnesium, D3 and K2",
+      "url": "https://healthyhey.com/products/vegan-calcium-with-magnesium-vitamin-d3-vitamin-k2-mk7-bonemax-bone-health-complex?variant=44641620066589",
+      "checked": "2026-11-26"
     }
   ],
   "research": [
@@ -60333,9 +60412,9 @@
       "priceChecks": 825,
       "newOffers": 59,
       "verifiedPrices": 885,
-      "priceCheckedOnAuditDate": 46,
+      "priceCheckedOnAuditDate": 0,
       "knownLabelServing": 666,
-      "labelsCheckedOnAuditDate": 46,
+      "labelsCheckedOnAuditDate": 0,
       "labelsReviewedDuringPeriod": 63,
       "knownActiveCost": 757,
       "retailerQuotes": 4
@@ -60349,9 +60428,9 @@
       "priceChecks": 195,
       "newOffers": 31,
       "verifiedPrices": 226,
-      "priceCheckedOnAuditDate": 23,
+      "priceCheckedOnAuditDate": 0,
       "knownLabelServing": 99,
-      "labelsCheckedOnAuditDate": 23,
+      "labelsCheckedOnAuditDate": 0,
       "labelsReviewedDuringPeriod": 31,
       "knownActiveCost": 123,
       "retailerQuotes": 4
@@ -60365,9 +60444,9 @@
       "priceChecks": 11,
       "newOffers": 3,
       "verifiedPrices": 14,
-      "priceCheckedOnAuditDate": 2,
+      "priceCheckedOnAuditDate": 0,
       "knownLabelServing": 9,
-      "labelsCheckedOnAuditDate": 2,
+      "labelsCheckedOnAuditDate": 0,
       "labelsReviewedDuringPeriod": 4,
       "knownActiveCost": 8,
       "retailerQuotes": 0
@@ -60381,9 +60460,9 @@
       "priceChecks": 14,
       "newOffers": 11,
       "verifiedPrices": 25,
-      "priceCheckedOnAuditDate": 9,
+      "priceCheckedOnAuditDate": 0,
       "knownLabelServing": 16,
-      "labelsCheckedOnAuditDate": 11,
+      "labelsCheckedOnAuditDate": 0,
       "labelsReviewedDuringPeriod": 13,
       "knownActiveCost": 16,
       "retailerQuotes": 3
@@ -60397,9 +60476,9 @@
       "priceChecks": 6,
       "newOffers": 13,
       "verifiedPrices": 19,
-      "priceCheckedOnAuditDate": 7,
+      "priceCheckedOnAuditDate": 1,
       "knownLabelServing": 16,
-      "labelsCheckedOnAuditDate": 5,
+      "labelsCheckedOnAuditDate": 0,
       "labelsReviewedDuringPeriod": 14,
       "knownActiveCost": 16,
       "retailerQuotes": 0
@@ -60413,9 +60492,9 @@
       "priceChecks": 13,
       "newOffers": 9,
       "verifiedPrices": 23,
-      "priceCheckedOnAuditDate": 2,
+      "priceCheckedOnAuditDate": 0,
       "knownLabelServing": 15,
-      "labelsCheckedOnAuditDate": 2,
+      "labelsCheckedOnAuditDate": 0,
       "labelsReviewedDuringPeriod": 10,
       "knownActiveCost": 15,
       "retailerQuotes": 0
@@ -60429,9 +60508,9 @@
       "priceChecks": 5,
       "newOffers": 8,
       "verifiedPrices": 13,
-      "priceCheckedOnAuditDate": 4,
+      "priceCheckedOnAuditDate": 2,
       "knownLabelServing": 10,
-      "labelsCheckedOnAuditDate": 3,
+      "labelsCheckedOnAuditDate": 0,
       "labelsReviewedDuringPeriod": 9,
       "knownActiveCost": 10,
       "retailerQuotes": 0
@@ -60445,9 +60524,9 @@
       "priceChecks": 6,
       "newOffers": 15,
       "verifiedPrices": 21,
-      "priceCheckedOnAuditDate": 13,
+      "priceCheckedOnAuditDate": 0,
       "knownLabelServing": 18,
-      "labelsCheckedOnAuditDate": 13,
+      "labelsCheckedOnAuditDate": 0,
       "labelsReviewedDuringPeriod": 15,
       "knownActiveCost": 15,
       "retailerQuotes": 0
@@ -60461,9 +60540,9 @@
       "priceChecks": 12,
       "newOffers": 3,
       "verifiedPrices": 15,
-      "priceCheckedOnAuditDate": 2,
+      "priceCheckedOnAuditDate": 0,
       "knownLabelServing": 14,
-      "labelsCheckedOnAuditDate": 2,
+      "labelsCheckedOnAuditDate": 0,
       "labelsReviewedDuringPeriod": 6,
       "knownActiveCost": 13,
       "retailerQuotes": 0
@@ -60477,9 +60556,9 @@
       "priceChecks": 6,
       "newOffers": 12,
       "verifiedPrices": 18,
-      "priceCheckedOnAuditDate": 5,
+      "priceCheckedOnAuditDate": 0,
       "knownLabelServing": 17,
-      "labelsCheckedOnAuditDate": 3,
+      "labelsCheckedOnAuditDate": 0,
       "labelsReviewedDuringPeriod": 12,
       "knownActiveCost": 13,
       "retailerQuotes": 0
@@ -60493,9 +60572,9 @@
       "priceChecks": 9,
       "newOffers": 21,
       "verifiedPrices": 30,
-      "priceCheckedOnAuditDate": 7,
+      "priceCheckedOnAuditDate": 0,
       "knownLabelServing": 26,
-      "labelsCheckedOnAuditDate": 4,
+      "labelsCheckedOnAuditDate": 0,
       "labelsReviewedDuringPeriod": 21,
       "knownActiveCost": 25,
       "retailerQuotes": 0
@@ -60509,9 +60588,9 @@
       "priceChecks": 12,
       "newOffers": 21,
       "verifiedPrices": 33,
-      "priceCheckedOnAuditDate": 6,
+      "priceCheckedOnAuditDate": 0,
       "knownLabelServing": 30,
-      "labelsCheckedOnAuditDate": 3,
+      "labelsCheckedOnAuditDate": 0,
       "labelsReviewedDuringPeriod": 21,
       "knownActiveCost": 30,
       "retailerQuotes": 0
@@ -60525,9 +60604,9 @@
       "priceChecks": 4,
       "newOffers": 19,
       "verifiedPrices": 23,
-      "priceCheckedOnAuditDate": 4,
+      "priceCheckedOnAuditDate": 0,
       "knownLabelServing": 21,
-      "labelsCheckedOnAuditDate": 3,
+      "labelsCheckedOnAuditDate": 0,
       "labelsReviewedDuringPeriod": 19,
       "knownActiveCost": 17,
       "retailerQuotes": 0
@@ -60541,9 +60620,9 @@
       "priceChecks": 9,
       "newOffers": 6,
       "verifiedPrices": 15,
-      "priceCheckedOnAuditDate": 3,
+      "priceCheckedOnAuditDate": 0,
       "knownLabelServing": 15,
-      "labelsCheckedOnAuditDate": 3,
+      "labelsCheckedOnAuditDate": 0,
       "labelsReviewedDuringPeriod": 6,
       "knownActiveCost": 13,
       "retailerQuotes": 0
@@ -60557,9 +60636,9 @@
       "priceChecks": 7,
       "newOffers": 7,
       "verifiedPrices": 14,
-      "priceCheckedOnAuditDate": 1,
+      "priceCheckedOnAuditDate": 0,
       "knownLabelServing": 14,
-      "labelsCheckedOnAuditDate": 1,
+      "labelsCheckedOnAuditDate": 0,
       "labelsReviewedDuringPeriod": 7,
       "knownActiveCost": 0,
       "retailerQuotes": 0
@@ -60573,9 +60652,9 @@
       "priceChecks": 6,
       "newOffers": 7,
       "verifiedPrices": 13,
-      "priceCheckedOnAuditDate": 1,
+      "priceCheckedOnAuditDate": 0,
       "knownLabelServing": 12,
-      "labelsCheckedOnAuditDate": 1,
+      "labelsCheckedOnAuditDate": 0,
       "labelsReviewedDuringPeriod": 7,
       "knownActiveCost": 12,
       "retailerQuotes": 0
@@ -60589,9 +60668,9 @@
       "priceChecks": 4,
       "newOffers": 6,
       "verifiedPrices": 10,
-      "priceCheckedOnAuditDate": 2,
+      "priceCheckedOnAuditDate": 0,
       "knownLabelServing": 7,
-      "labelsCheckedOnAuditDate": 2,
+      "labelsCheckedOnAuditDate": 0,
       "labelsReviewedDuringPeriod": 6,
       "knownActiveCost": 5,
       "retailerQuotes": 0
@@ -60605,9 +60684,9 @@
       "priceChecks": 4,
       "newOffers": 11,
       "verifiedPrices": 15,
-      "priceCheckedOnAuditDate": 3,
+      "priceCheckedOnAuditDate": 0,
       "knownLabelServing": 15,
-      "labelsCheckedOnAuditDate": 3,
+      "labelsCheckedOnAuditDate": 0,
       "labelsReviewedDuringPeriod": 11,
       "knownActiveCost": 15,
       "retailerQuotes": 0
@@ -60621,9 +60700,9 @@
       "priceChecks": 7,
       "newOffers": 6,
       "verifiedPrices": 13,
-      "priceCheckedOnAuditDate": 3,
+      "priceCheckedOnAuditDate": 0,
       "knownLabelServing": 12,
-      "labelsCheckedOnAuditDate": 3,
+      "labelsCheckedOnAuditDate": 0,
       "labelsReviewedDuringPeriod": 6,
       "knownActiveCost": 5,
       "retailerQuotes": 0
@@ -60637,9 +60716,9 @@
       "priceChecks": 5,
       "newOffers": 3,
       "verifiedPrices": 8,
-      "priceCheckedOnAuditDate": 2,
+      "priceCheckedOnAuditDate": 0,
       "knownLabelServing": 8,
-      "labelsCheckedOnAuditDate": 2,
+      "labelsCheckedOnAuditDate": 0,
       "labelsReviewedDuringPeriod": 5,
       "knownActiveCost": 8,
       "retailerQuotes": 0
@@ -60701,24 +60780,56 @@
       "priceChecks": 0,
       "newOffers": 27,
       "verifiedPrices": 27,
-      "priceCheckedOnAuditDate": 23,
+      "priceCheckedOnAuditDate": 0,
       "knownLabelServing": 27,
-      "labelsCheckedOnAuditDate": 23,
+      "labelsCheckedOnAuditDate": 0,
       "labelsReviewedDuringPeriod": 27,
       "knownActiveCost": 27,
+      "retailerQuotes": 0
+    },
+    {
+      "category": "vitamin-e",
+      "label": "Vitamin E",
+      "beforeOffers": 0,
+      "offers": 1,
+      "brands": 1,
+      "priceChecks": 0,
+      "newOffers": 1,
+      "verifiedPrices": 1,
+      "priceCheckedOnAuditDate": 0,
+      "knownLabelServing": 1,
+      "labelsCheckedOnAuditDate": 0,
+      "labelsReviewedDuringPeriod": 1,
+      "knownActiveCost": 1,
+      "retailerQuotes": 0
+    },
+    {
+      "category": "calcium",
+      "label": "Calcium",
+      "beforeOffers": 0,
+      "offers": 3,
+      "brands": 3,
+      "priceChecks": 0,
+      "newOffers": 3,
+      "verifiedPrices": 3,
+      "priceCheckedOnAuditDate": 3,
+      "knownLabelServing": 2,
+      "labelsCheckedOnAuditDate": 0,
+      "labelsReviewedDuringPeriod": 3,
+      "knownActiveCost": 2,
       "retailerQuotes": 0
     }
   ],
   "summary": {
-    "offers": 1475,
+    "offers": 1479,
     "brands": 52,
-    "newOffers": 304,
+    "newOffers": 308,
     "existingOffersPriceChecked": 1167,
-    "priceCheckedOnAuditDate": 168,
-    "labelsCheckedOnAuditDate": 158,
-    "labelsReviewedDuringPeriod": 319,
-    "verifiedPrices": 1473,
-    "categories": 24,
+    "priceCheckedOnAuditDate": 6,
+    "labelsCheckedOnAuditDate": 0,
+    "labelsReviewedDuringPeriod": 323,
+    "verifiedPrices": 1477,
+    "categories": 26,
     "exclusions": 52,
     "retailerQuotes": 11
   },
@@ -60894,6 +61005,8 @@
     "taurine",
     "betaine",
     "hmb",
-    "collagen"
+    "collagen",
+    "vitamin-e",
+    "calcium"
   ]
 }

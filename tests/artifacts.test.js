@@ -107,7 +107,7 @@ test('exports cannot write into authoritative sources and reads reject active wr
 test('the maintained research merger writes product artifacts and retains all unrelated evidence',async()=>workspace(async temp=>{
  const before=await loadArtifactSources(temp),product=await read(productPath(temp)),r=product.variants[0].offer,fragment=path.join(temp,'review.json');
  await write(fragment,{checked:'2026-11-20',categoriesCovered:['creatine'],updates:[{category:'creatine',offerId:r.id,reviewType:'label',patch:{notes:'Reviewed fixture label note.'},evidence:{checked:'2026-11-20',sourceUrl:r.url,matchBasis:'Exact fixture product identity and label check.'}}]});
- await mergeCatalogResearch([fragment],{root:temp,asOf:'2026-11-20'});const after=await loadArtifactSources(temp);
+ await mergeCatalogResearch([fragment],{root:temp,asOf:before.legacyDocuments['catalog-research.json'].checked});const after=await loadArtifactSources(temp);
  assert.equal((await read(productPath(temp))).variants[0].offer.notes,'Reviewed fixture label note.');assert.deepEqual(after.bundle.observations,before.bundle.observations);assert.deepEqual(after.bundle.categories.protein,before.bundle.categories.protein);assert.deepEqual(after.additionalSources,before.additionalSources);await assert.rejects(fs.access(path.join(temp,'docs/data/creatine.json')),{code:'ENOENT'});
 }));
 

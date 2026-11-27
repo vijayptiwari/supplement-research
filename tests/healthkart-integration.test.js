@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs/promises';
 import {loadArtifactSources} from '../scripts/artifact_store.mjs';
 import {applyCatalogResearch} from '../scripts/merge_catalog_research.mjs';
-import {createSnapshot,normalizeOffer,retailerQuoteIssues} from '../docs/model.js';
+import {createSnapshot,normalizeOffer,retailerQuoteIssues,formatDate} from '../docs/model.js';
 import {retailerQuotesMarkup,primarySourceLabel} from '../docs/retailer-quotes.js';
 import {unitDetails} from '../docs/unit-catalog.js';
 import {catalogResearchMarkup} from '../docs/catalog-research.js';
@@ -39,19 +39,19 @@ test('retailer presentation identifies seller, date, stale quotes and escapes so
 test('a partial follow-up retains previous category audit, profiles and observations with true dates',async()=>{
  const b=structuredClone(await bundle),sources=await read('additional-sources.json'),prior=await read('catalog-research.json'),category='fish-oil',old=b.categories[category].offers[0],oldObservations=structuredClone(b.observations),oldVitaminDate=b.categories['vitamin-d'].checked;
  const fragment={checked:'2026-11-19',categoriesCovered:[category],updates:[],additions:[],observations:[],retailerQuotes:[{category,offerId:old.id,...quote}]};
- const result=applyCatalogResearch(b,sources,prior,[fragment],{asOf:'2026-11-20'}),a=result.audit;
- assert.equal(a.reviewStart,prior.reviewStart||prior.checked);assert.equal(a.checked,'2026-11-20');assert.equal(a.coverage.length,b.config.categories.length);assert.equal(a.summary.newOffers,prior.summary.newOffers);assert.deepEqual(a.additions.map(x=>[x.category,x.offerId]),prior.additions.map(x=>[x.category,x.offerId]));
- assert.deepEqual(b.observations,oldObservations);assert.equal(b.categories['vitamin-d'].checked,oldVitaminDate);assert.equal(b.categories[category].checked,'2026-11-20');assert.equal(old.retailerQuotes[0].checked,'2026-11-19');
+ const result=applyCatalogResearch(b,sources,prior,[fragment],{asOf:prior.checked}),a=result.audit;
+ assert.equal(a.reviewStart,prior.reviewStart||prior.checked);assert.equal(a.checked,prior.checked);assert.equal(a.coverage.length,b.config.categories.length);assert.equal(a.summary.newOffers,prior.summary.newOffers);assert.deepEqual(a.additions.map(x=>[x.category,x.offerId]),prior.additions.map(x=>[x.category,x.offerId]));
+ assert.deepEqual(b.observations,oldObservations);assert.equal(b.categories['vitamin-d'].checked,oldVitaminDate);assert.equal(b.categories[category].checked,prior.checked);assert.equal(old.retailerQuotes[0].checked,'2026-11-19');
  assert.equal(a.summary.retailerQuotes,(prior.retailerQuotes?.length||0)+1);assert.ok(a.summary.labelsReviewedDuringPeriod>=a.summary.labelsCheckedOnAuditDate);
- const second=applyCatalogResearch(b,sources,a,[fragment],{asOf:'2026-11-20'});assert.equal(second.audit.summary.retailerQuotes,a.summary.retailerQuotes);assert.equal(old.retailerQuotes.length,1);
- assert.throws(()=>applyCatalogResearch(b,sources,a,[{...fragment,retailerQuotes:[{category,offerId:old.id,...quote,price:999}]}],{asOf:'2026-11-20'}),/Conflicting same-date/);
- const html=catalogResearchMarkup({...createSnapshot(b),catalogResearch:{...a,reportFile:'catalog-research.json',requirementsFile:'catalog-data-requirements.json'}});assert.ok(html.includes('research period'));assert.ok(html.includes('Prices verified on latest date'));assert.ok(html.includes('19 November 2026'));assert.ok(html.includes('20 November 2026'));
+ const second=applyCatalogResearch(b,sources,a,[fragment],{asOf:prior.checked});assert.equal(second.audit.summary.retailerQuotes,a.summary.retailerQuotes);assert.equal(old.retailerQuotes.length,1);
+ assert.throws(()=>applyCatalogResearch(b,sources,a,[{...fragment,retailerQuotes:[{category,offerId:old.id,...quote,price:999}]}],{asOf:prior.checked}),/Conflicting same-date/);
+ const html=catalogResearchMarkup({...createSnapshot(b),catalogResearch:{...a,reportFile:'catalog-research.json',requirementsFile:'catalog-data-requirements.json'}});assert.ok(html.includes('research period'));assert.ok(html.includes('Prices verified on latest date'));assert.ok(html.includes('19 November 2026'));assert.ok(html.includes(formatDate(prior.checked)));
 });
 
 test('retailer label corroboration cannot masquerade as a new manufacturer price check',async()=>{
  const b=structuredClone(await bundle),sources=await read('additional-sources.json'),prior=await read('catalog-research.json'),category='vitamin-d',row=b.categories[category].offers.find(r=>r.id==='hkv-d3-60'),lastPriceReview=structuredClone(row.lastPriceReview),beforeObservations=structuredClone(b.observations),profile=sources.products.find(p=>p.id===row.id);
  const f={checked:'2026-11-19',categoriesCovered:[category],updates:[{category,offerId:row.id,patch:{id:row.id,labelChecked:'2026-11-19',notes:'Fixture: label reviewed separately.'},evidence:{checked:'2026-11-19',sourceUrl:row.url,evidenceUrl:quote.sourceUrl,matchBasis:'Exact selected pack label only; no primary price reviewed.'},profile:{...profile,category,notes:'Fixture source profile upgraded.'}}]};
- const result=applyCatalogResearch(b,sources,prior,[f],{asOf:'2026-11-20'});
+ const result=applyCatalogResearch(b,sources,prior,[f],{asOf:prior.checked});
  assert.deepEqual(row.lastPriceReview,lastPriceReview);assert.equal(row.lastLabelReview.checked,'2026-11-19');assert.equal(result.audit.summary.existingOffersPriceChecked,prior.summary.existingOffersPriceChecked);assert.deepEqual(b.observations,beforeObservations);assert.equal(sources.products.filter(p=>p.id===row.id).length,1);assert.equal(sources.products.find(p=>p.id===row.id).notes,'Fixture source profile upgraded.');
  assert.ok(result.audit.updates.some(u=>u.offerId===row.id&&u.reviewType==='label'));
 });
@@ -61,10 +61,10 @@ test('reviewed family profiles split by exact pack without leaking labels to unr
  const original={category:'fish-oil',brand:'Fixture brand',handle:'fixture',variantIds:['60','90','180'],servingUnits:null};sources.products.push(original);
  const reviewed={...original,variantIds:['60','90'],servingUnits:1,epaMg:180,dhaMg:120},unreviewed={...original,variantIds:['180']};
  const replacement={match:{category:original.category,brand:original.brand,handle:original.handle},profiles:[reviewed,unreviewed]},fragment={checked:'2026-11-20',sourceProfileReplacements:[replacement]};
- applyCatalogResearch(b,sources,prior,[fragment],{asOf:'2026-11-20'});assert.ok(!sources.products.includes(original));assert.equal(sources.products.find(p=>p.brand===original.brand&&p.variantIds.includes('180')).servingUnits,null);
+ applyCatalogResearch(b,sources,prior,[fragment],{asOf:prior.checked});assert.ok(!sources.products.includes(original));assert.equal(sources.products.find(p=>p.brand===original.brand&&p.variantIds.includes('180')).servingUnits,null);
  assert.equal(sources.products.filter(p=>p.brand===original.brand).length,2);
- applyCatalogResearch(b,sources,prior,[fragment],{asOf:'2026-11-20'});assert.equal(sources.products.filter(p=>p.brand===original.brand).length,2);
- sources.products.push({...original,variantIds:['999']});assert.throws(()=>applyCatalogResearch(b,sources,prior,[fragment],{asOf:'2026-11-20'}),/identify one family/);
+ applyCatalogResearch(b,sources,prior,[fragment],{asOf:prior.checked});assert.equal(sources.products.filter(p=>p.brand===original.brand).length,2);
+ sources.products.push({...original,variantIds:['999']});assert.throws(()=>applyCatalogResearch(b,sources,prior,[fragment],{asOf:prior.checked}),/identify one family/);
 });
 
 test('protein formulas with additional review needs remain searchable but cannot enter automatic stacks',async()=>{
@@ -86,7 +86,7 @@ test('manual product-review flags are validated for powders and unit products',a
 test('equal price facts retain distinct observation evidence metadata and exact repeats are idempotent',async()=>{
  const b=structuredClone(await bundle),sources=await read('additional-sources.json'),prior=await read('catalog-research.json'),original=b.observations.find(o=>o.kind==='official-live'&&o.qualityStatus!=='excluded'),corroboration={...original,matchBasis:'Fixture: independent exact-pack matching review of this same listed-price fact.'};
  const f={checked:'2026-11-20',observations:[structuredClone(original),corroboration]},encode=o=>JSON.stringify(o);
- applyCatalogResearch(b,sources,prior,[f],{asOf:'2026-11-20'});
+ applyCatalogResearch(b,sources,prior,[f],{asOf:prior.checked});
  assert.ok(b.observations.some(o=>encode(o)===encode(original)));assert.ok(b.observations.some(o=>encode(o)===encode(corroboration)));assert.equal(b.observations.filter(o=>encode(o)===encode(original)).length,1);assert.equal(b.observations.filter(o=>encode(o)===encode(corroboration)).length,1);
- const count=b.observations.length;applyCatalogResearch(b,sources,prior,[f],{asOf:'2026-11-20'});assert.equal(b.observations.length,count);
+ const count=b.observations.length;applyCatalogResearch(b,sources,prior,[f],{asOf:prior.checked});assert.equal(b.observations.length,count);
 });

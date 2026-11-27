@@ -1,0 +1,331 @@
+{
+  "schemaVersion": 1,
+  "order": 24,
+  "category": {
+    "id": "vitamin-e",
+    "label": "Vitamin E",
+    "file": "vitamin-e.json",
+    "page": "vitamin-e.html",
+    "measurement": "units",
+    "mainNutrient": "vitaminEMg",
+    "referenceQuantity": 10,
+    "referenceUnit": "mg",
+    "compoundLabel": "labelled vitamin E",
+    "nutrientFields": [
+      {
+        "key": "vitaminEMg",
+        "label": "Vitamin E (declared nutrient)",
+        "unit": "mg",
+        "table": true
+      }
+    ],
+    "comparisonNote": "Cost uses an explicitly declared vitamin E nutrient amount per verified label serving. Preserve natural/synthetic form and declaration basis; tocopheryl ester, mixed-tocopherol and oil masses are not automatically equivalent. IU-only or ambiguous labels remain unknown for mg cost comparison. Reference quantities compare cost and are not recommended doses.",
+    "searchAliases": [
+      "alpha tocopherol",
+      "tocopherol",
+      "tocotrienol",
+      "d-alpha tocopherol",
+      "dl-alpha tocopherol",
+      "RRR alpha tocopherol",
+      "all rac alpha tocopherol"
+    ]
+  },
+  "catalog": {
+    "checked": "2026-11-27",
+    "category": "vitamin-e"
+  },
+  "guide": {
+    "id": "vitamin-e-guide",
+    "category": "vitamin-e",
+    "title": "Vitamin E: food needs, label units and the limits of antioxidant claims",
+    "summary": "Vitamin E protects cellular lipids, but an antioxidant label does not make a high-strength capsule a better health investment.",
+    "evidence": "Alpha-tocopherol is an essential nutrient. Replacement is important in established deficiency; routine vitamin E supplements do not provide a supported strategy for preventing heart disease or cancer in otherwise healthy adults.",
+    "limitations": "A mechanism, blood-level increase or natural-source label is not a clinical outcome. A studied multi-nutrient eye formula cannot be reduced to vitamin E alone. Nutrient-equivalent milligrams, ingredient mass and international units need separate interpretation.",
+    "catalogReading": "Compare the declared vitamin E nutrient amount per verified serving and retain its chemical form. RRR/d-alpha and all-rac/dl-alpha labels have different activity conventions. Tocopheryl acetate mass, mixed-tocopherol mass and total oil weight are not automatically the same as mg alpha-tocopherol. IU-only or unexplained labels stay unquantified for nutrient-cost comparisons.",
+    "safety": "Supplemental vitamin E can increase bleeding risk, especially alongside anticoagulant or antiplatelet medicines. Discuss use with the treating team during cancer therapy and before procedures. Count overlapping multivitamin, fish-oil and antioxidant products. A high label amount and the absence of immediate symptoms do not establish safety.",
+    "sourceIds": [
+      "ve-overview",
+      "ve-dri",
+      "ve-label-fda",
+      "ve-prevention-uspstf",
+      "ve-select-nci",
+      "ve-amd-nei",
+      "ve-aved-genetics",
+      "food-usda-sr28",
+      "supplement-quality-ods"
+    ],
+    "reviewed": "2026-11-26",
+    "author": "Supplement Research editorial synthesis",
+    "bodySteps": [
+      "Intestinal absorption depends on normal fat handling; absorbed vitamin E travels in lipoproteins.",
+      "The liver preferentially retains and redistributes alpha-tocopherol rather than treating every tocopherol or tocotrienol as interchangeable.",
+      "Alpha-tocopherol helps interrupt lipid oxidation in membranes. This normal protective role does not show that extra capsules improve recovery, skin or disease outcomes."
+    ],
+    "bodySources": [
+      "ve-dri",
+      "ve-overview"
+    ],
+    "treatment": "Clinically established vitamin E deficiency needs replacement and investigation of the cause, including malabsorption or rare inherited handling disorders. New neurological symptoms require assessment. A vitamin E product is not a general cure for neuropathy, hair loss, fatigue or skin ageing.",
+    "whoMayBenefit": "People with diagnosed deficiency or a documented absorption/handling problem may need a specific formulation and supervised replacement. Some people with particular stages of age-related macular degeneration may be advised to use the complete AREDS2 combination by an eye specialist.",
+    "routineUse": "Food can supply vitamin E. For an adequately nourished adult, buying a separate high-dose antioxidant capsule is usually a low-value step. Reassess a dietary gap and the reason for treatment rather than increasing strength because training frequency rises.",
+    "sectionSources": [
+      "ve-overview",
+      "ve-aved-genetics",
+      "ve-amd-nei",
+      "ve-prevention-uspstf"
+    ],
+    "buyingGuide": {
+      "whoCanConsider": [
+        "Adults with an assessed dietary gap that practical food changes cannot cover.",
+        "People with confirmed deficiency following a clinician-selected dose and formulation."
+      ],
+      "whoShouldReview": [
+        "People taking anticoagulants, antiplatelets or multiple products containing vitamin E.",
+        "People with bleeding disorders, planned procedures, cancer treatment or suspected malabsorption.",
+        "An eye-disease indication needs a stage-specific review of the complete formula; a vitamin E capsule is not an AREDS2 substitute."
+      ],
+      "foodSummary": "Nuts, seeds and plant oils contribute vitamin E. These USDA examples report alpha-tocopherol, retain the preparation and use a 100 g denominator; portions, cultivars and processing differ. Food adequacy is assessed across the diet, not by choosing the single largest number.",
+      "foods": [
+        {
+          "name": "Almonds",
+          "relationship": "direct",
+          "detail": "USDA SR28 reference composition for this exact preparation, not a measurement of an Indian brand or an absorbed dose.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Per 100 g edible food; scale to the portion actually eaten. This comparison does not recommend eating 100 g of nuts or seeds daily.",
+          "foodId": "USDA NDB 12061",
+          "amounts": [
+            {
+              "nutrient": "Vitamin E (alpha-tocopherol)",
+              "min": 25.63,
+              "max": null,
+              "unit": "mg",
+              "per": {
+                "amount": 100,
+                "unit": "g",
+                "label": "100 g edible food"
+              },
+              "sourceIds": [
+                "food-usda-sr28"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Sunflower seed kernels, dry roasted, without salt",
+          "relationship": "direct",
+          "detail": "USDA SR28 reference composition for this exact preparation, not a measurement of an Indian brand or an absorbed dose.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Per 100 g edible food; scale to the portion actually eaten. This comparison does not recommend eating 100 g of nuts or seeds daily.",
+          "foodId": "USDA NDB 12037",
+          "amounts": [
+            {
+              "nutrient": "Vitamin E (alpha-tocopherol)",
+              "min": 26.1,
+              "max": null,
+              "unit": "mg",
+              "per": {
+                "amount": 100,
+                "unit": "g",
+                "label": "100 g edible food"
+              },
+              "sourceIds": [
+                "food-usda-sr28"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Peanuts, dry-roasted, without salt",
+          "relationship": "direct",
+          "detail": "USDA SR28 reference composition for this exact preparation, not a measurement of an Indian brand or an absorbed dose.",
+          "quantityStatus": "quantified",
+          "quantityNote": "Per 100 g edible food; scale to the portion actually eaten. This comparison does not recommend eating 100 g of nuts or seeds daily.",
+          "foodId": "USDA NDB 16390",
+          "amounts": [
+            {
+              "nutrient": "Vitamin E (alpha-tocopherol)",
+              "min": 4.93,
+              "max": null,
+              "unit": "mg",
+              "per": {
+                "amount": 100,
+                "unit": "g",
+                "label": "100 g edible food"
+              },
+              "sourceIds": [
+                "food-usda-sr28"
+              ]
+            }
+          ]
+        }
+      ],
+      "foodSourceIds": [
+        "food-usda-sr28",
+        "ve-overview"
+      ],
+      "value": {
+        "routineScore": 1,
+        "targetedScore": 5,
+        "targetedUse": "Confirmed vitamin E deficiency, with a clinician-selected replacement formulation and monitoring.",
+        "reason": "Treating a demonstrated deficiency has a clear rationale. An adequate diet plus a prevention or beauty claim is a much weaker reason for buying a high-dose capsule.",
+        "worthWhen": [
+          "The need is established and the formulation and amount match the clinical or dietary plan."
+        ],
+        "skipWhen": [
+          "The aim is routine heart-disease or cancer prevention.",
+          "Natural, mixed-tocopherol, tocotrienol or extra-strength wording is being used as proof of better outcomes without matching human evidence."
+        ],
+        "evidence": "strong",
+        "scope": "The targeted rating applies to established deficiency, not every catalog pack or a prediction of cosmetic benefit. Ratings express editorial purchase priority rather than clinical effect size.",
+        "sourceIds": [
+          "ve-overview",
+          "ve-prevention-uspstf",
+          "ve-select-nci"
+        ]
+      },
+      "reviewed": "2026-11-26",
+      "practices": {
+        "dos": [
+          {
+            "title": "Check the amount and its basis",
+            "detail": "Read the actual serving, nutrient vitamin E declaration and chemical form before comparing per-mg cost."
+          },
+          {
+            "title": "Review existing food and products",
+            "detail": "Check the dietary gap and count vitamin E already present in multivitamins and combination products."
+          }
+        ],
+        "donts": [
+          {
+            "title": "Do not equate every milligram",
+            "detail": "Ingredient ester weight and mixed-tocopherol totals are not automatically alpha-tocopherol nutrient equivalents. IU requires the correct form-specific convention."
+          },
+          {
+            "title": "Do not buy disease prevention from an antioxidant claim",
+            "detail": "Biochemistry is not proof of reduced disease risk. SELECT found harm with a specific high-dose regimen; that is a reason to examine the intervention, not to avoid ordinary vitamin E foods."
+          }
+        ],
+        "sourceIds": [
+          "ve-label-fda",
+          "ve-prevention-uspstf",
+          "ve-select-nci",
+          "ve-overview"
+        ]
+      }
+    },
+    "intakeGuide": {
+      "kind": "daily-target",
+      "summary": "The US National Academies adult RDA is 15 mg/day of alpha-tocopherol activity from food plus supplements. This international reference is labelled as such; it is not an Indian product instruction or a deficiency-treatment dose.",
+      "targets": [
+        {
+          "key": "vitaminEMg",
+          "label": "Vitamin E (alpha-tocopherol; US adult reference)",
+          "min": 15,
+          "max": null,
+          "unit": "mg",
+          "basis": "total-daily",
+          "perKg": false,
+          "profileIds": [
+            "everyday",
+            "general-fitness",
+            "strength-power",
+            "hypertrophy",
+            "endurance",
+            "hybrid"
+          ],
+          "sex": "any",
+          "minAge": 19,
+          "maxAge": null,
+          "referenceType": "RDA",
+          "notes": "Applies to healthy adults outside lactation; US reference for lactation is 19 mg/day. Clinical deficiency, pregnancy/lactation and malabsorption need appropriate assessment.",
+          "sourceIds": [
+            "ve-overview"
+          ]
+        }
+      ],
+      "limits": [],
+      "notes": [
+        "No separate high-dose target is assigned to gym, bodybuilding, endurance or hybrid training.",
+        "The US FNB adult upper limit is 1,000 mg/day of supplemental alpha-tocopherol on its defined safety-reference basis, not a target or a guarantee of safety below it. It is not directly interchangeable with every activity-equivalent mg declaration on a synthetic product label.",
+        "No numerical product safety ceiling is calculated here: published upper limits use a defined supplemental alpha-tocopherol basis that differs from nutritional activity equivalence for some synthetic labels. An unexplained mg or IU declaration cannot be assessed by guessing its basis.",
+        "The FDA label conversion uses 0.67 mg alpha-tocopherol per natural-form IU and 0.45 mg per synthetic-form IU. This is a form-dependent labelling convention, not an instruction to convert any unknown label or a toxicity threshold.",
+        "A reference requirement is not a reason to add that entire amount on top of an already adequate diet."
+      ],
+      "sourceIds": [
+        "ve-overview",
+        "ve-dri",
+        "ve-label-fda"
+      ],
+      "reviewed": "2026-11-26"
+    },
+    "medicalGuide": {
+      "summary": "Separate replacement of deficiency, evidence for a defined combination, and broad prevention claims.",
+      "conditions": [
+        {
+          "condition": "Established vitamin E deficiency",
+          "level": "established",
+          "findings": "Replacement is indicated when deficiency is established; its cause can alter the formulation, amount and monitoring needed.",
+          "limits": "Rare inherited vitamin E handling disorders and malabsorption require specialist care. Neurological symptoms alone cannot identify a dietary deficiency.",
+          "sourceIds": [
+            "ve-overview",
+            "ve-aved-genetics"
+          ]
+        },
+        {
+          "condition": "Selected age-related macular degeneration stages",
+          "level": "conditional",
+          "findings": "The studied AREDS2 combination can help selected people with AMD, particularly intermediate disease, under eye-care guidance.",
+          "limits": "This is a multi-ingredient, stage-specific intervention, not proof that vitamin E alone prevents AMD or reverses established vision loss.",
+          "sourceIds": [
+            "ve-amd-nei"
+          ]
+        },
+        {
+          "condition": "Routine cardiovascular-disease or cancer prevention",
+          "level": "insufficient",
+          "findings": "Evidence does not support vitamin E supplementation for this purpose; USPSTF recommends against it in the population covered by its prevention guidance.",
+          "limits": "That recommendation concerns nonpregnant community-dwelling adults without known deficiency. In SELECT, 400 IU/day synthetic vitamin E alone increased prostate-cancer incidence in the studied older men; dietary vitamin E and all other doses are not thereby shown equivalent.",
+          "sourceIds": [
+            "ve-prevention-uspstf",
+            "ve-select-nci"
+          ]
+        }
+      ],
+      "reviewed": "2026-11-26"
+    },
+    "pathway": {
+      "title": "From dietary fat handling to membrane protection",
+      "summary": "Absorption, liver selection and tissue delivery determine exposure; a larger capsule does not directly quantify a clinical benefit.",
+      "tracks": [
+        {
+          "label": "Absorption and alpha-tocopherol handling",
+          "steps": [
+            {
+              "label": "Vitamin E enters with dietary lipids",
+              "detail": "Normal bile and pancreatic function help intestinal absorption.",
+              "compartment": "Intestine",
+              "icon": "digest"
+            },
+            {
+              "label": "The liver selects alpha-tocopherol",
+              "detail": "Alpha-tocopherol transfer protein supports preferential redistribution in lipoproteins.",
+              "compartment": "Liver / blood",
+              "icon": "liver"
+            },
+            {
+              "label": "Tissue membranes use the nutrient",
+              "detail": "Alpha-tocopherol participates in protection against lipid oxidation.",
+              "compartment": "Cell membranes",
+              "icon": "cell"
+            }
+          ]
+        }
+      ],
+      "caveat": "A simplified physiological route. It does not measure absorption for a catalog brand or establish anti-ageing, athletic or disease-prevention benefits.",
+      "sourceIds": [
+        "ve-dri",
+        "ve-overview"
+      ]
+    }
+  }
+}

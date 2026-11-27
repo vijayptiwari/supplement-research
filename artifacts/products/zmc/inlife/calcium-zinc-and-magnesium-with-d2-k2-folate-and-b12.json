@@ -52,7 +52,13 @@
           "calcium",
           "magnesium",
           "zinc"
-        ]
+        ],
+        "lastPriceReview": {
+          "checked": "2026-11-27",
+          "sourceUrl": "https://inlifehealthcare.com/products/calcium-tablets-supplement?variant=48087633756325",
+          "evidenceUrl": "https://inlifehealthcare.com/products/calcium-tablets-supplement?variant=48087633756325",
+          "matchBasis": "Fresh official browser selected variant 48087633756325, Value Pack (240 Tablets), unconditional INR 1,233 and enabled Add to Cart on 27 November 2026. Nutrient quantities preserve the separately reviewed 19 November official panel."
+        }
       }
     },
     {
@@ -136,6 +142,20 @@
         "kind": "official-live",
         "variantId": "45518579499173",
         "matchBasis": "Official public Shopify feed exact variant ID and explicitly listed retail count; unconditional INR variant price. Label serving and payload independently checked against official label panel."
+      }
+    },
+    {
+      "observation": {
+        "category": "zmc",
+        "offerId": "zmc-48087633756325",
+        "date": "2026-11-27",
+        "price": 1233,
+        "currency": "INR",
+        "sourceUrl": "https://inlifehealthcare.com/products/calcium-tablets-supplement?variant=48087633756325",
+        "evidenceUrl": "https://inlifehealthcare.com/products/calcium-tablets-supplement?variant=48087633756325",
+        "kind": "official-live",
+        "variantId": "48087633756325",
+        "matchBasis": "Fresh official browser selected variant 48087633756325, Value Pack (240 Tablets), unconditional INR 1,233 and enabled Add to Cart on 27 November 2026. Nutrient quantities preserve the separately reviewed 19 November official panel."
       }
     }
   ],

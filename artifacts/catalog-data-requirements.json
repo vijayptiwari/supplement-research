@@ -1,5 +1,5 @@
 {
-  "checked": "2026-11-20",
+  "checked": "2026-11-27",
   "scope": "Publication requirements for exact Indian retail product records; unknown fields remain null and block only calculations needing those inputs.",
   "sharedRequired": [
     "stable offer ID",
@@ -825,6 +825,66 @@
       ],
       "comparisonNote": "Compare label-serving cost and like ingredient materials separately. Hydrolysed peptide mass, mixed collagen-complex mass and native type II ingredient mass are not equivalent potency measures. Type labels do not establish tissue targeting, independent purity or clinical benefit.",
       "checks": "Peptide mass,mixed hydrolysed complex and native typeII ingredients stay separate. Mixedcomplex individualtype/source weights stay unknown. No plant builder, topical mask, total protein or precursor mass is counted as collagen."
+    },
+    {
+      "category": "vitamin-e",
+      "label": "Vitamin E",
+      "measurement": "units",
+      "nutrientFields": [
+        {
+          "key": "vitaminEMg",
+          "label": "Vitamin E (declared nutrient)",
+          "unit": "mg",
+          "table": true
+        }
+      ],
+      "comparisonNote": "Cost uses an explicitly declared vitamin E nutrient amount per verified label serving. Preserve natural/synthetic form and declaration basis; tocopheryl ester, mixed-tocopherol and oil masses are not automatically equivalent. IU-only or ambiguous labels remain unknown for mg cost comparison. Reference quantities compare cost and are not recommended doses.",
+      "checks": "Require a declared vitamin E nutrient amount and its form/basis. Do not substitute tocopheryl ester, mixed-tocopherol or oil mass. IU-only or ambiguous labels retain null mg and no active-content cost."
+    },
+    {
+      "category": "calcium",
+      "label": "Calcium",
+      "measurement": "units",
+      "nutrientFields": [
+        {
+          "key": "calciumMg",
+          "label": "Elemental calcium",
+          "unit": "mg",
+          "table": true
+        },
+        {
+          "key": "calciumCompoundMg",
+          "label": "Calcium compound (not elemental)",
+          "unit": "mg",
+          "table": false
+        },
+        {
+          "key": "vitaminDIu",
+          "label": "Vitamin D",
+          "unit": "IU",
+          "table": false
+        },
+        {
+          "key": "vitaminK2Mcg",
+          "label": "Vitamin K2",
+          "unit": "µg",
+          "table": false
+        },
+        {
+          "key": "magnesiumMg",
+          "label": "Elemental magnesium",
+          "unit": "mg",
+          "table": false
+        },
+        {
+          "key": "zincMg",
+          "label": "Elemental zinc",
+          "unit": "mg",
+          "table": false
+        }
+      ],
+      "comparisonNote": "Costs use explicitly labelled elemental calcium per verified serving. Carbonate, citrate, citrate-malate and other salt masses are stored separately and never substituted for the mineral. Compare added nutrients separately and retain unknown amounts as unknown.",
+      "checks": "Require explicitly elemental calcium per verified label serving. Keep carbonate, citrate and other compound masses distinct; retain separate co-nutrient amounts and unknowns."
     }
   ],
   "marketplaceRules": [

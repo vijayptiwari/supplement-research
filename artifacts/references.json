@@ -2978,6 +2978,164 @@
       "limitations": "Physiology does not establish that extra tyrosine treats hypothyroidism or replaces medical assessment.",
       "year": 2023,
       "checked": "2026-11-26"
+    },
+    {
+      "id": "ve-overview",
+      "title": "NIH ODS: Vitamin E—Health Professional Fact Sheet",
+      "url": "https://ods.od.nih.gov/factsheets/VitaminE-HealthProfessional/",
+      "kind": "Official nutrient overview",
+      "summary": "Reviews alpha-tocopherol forms, deficiency, dietary needs, adverse effects and medicine interactions.",
+      "limitations": "Intake references are the US Food and Nutrition Board framework; a nutrient role is not proof of an added supplement benefit.",
+      "year": null,
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "ve-dri",
+      "title": "National Academies: Dietary Reference Intakes—Vitamin E",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK225461/",
+      "kind": "Expert dietary-reference chapter",
+      "summary": "Explains vitamin E absorption, hepatic selection of alpha-tocopherol, physiological function and the reference-intake framework.",
+      "limitations": "Requirement activity units and the supplemental mass basis for toxicity limits must not be treated as interchangeable.",
+      "year": 2000,
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "ve-label-fda",
+      "title": "FDA: Converting Units of Measure for Folate, Niacin, and Vitamins A, D, and E",
+      "url": "https://www.fda.gov/media/129863/download",
+      "kind": "Official nutrition-label guidance",
+      "summary": "Tables 5–6 distinguish natural/synthetic vitamin E and conversion to mg alpha-tocopherol label claims.",
+      "limitations": "US label guidance is not evidence that an unexplained Indian product ingredient mass is already a nutrient-equivalent amount.",
+      "year": 2019,
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "ve-prevention-uspstf",
+      "title": "USPSTF: Vitamin, Mineral, and Multivitamin Supplementation to Prevent Cardiovascular Disease and Cancer",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-supplementation-to-prevent-cvd-and-cancer-preventive-medication",
+      "kind": "Preventive-care recommendation",
+      "summary": "Recommends against vitamin E supplementation for cardiovascular-disease or cancer prevention in community-dwelling, nonpregnant adults.",
+      "limitations": "This prevention recommendation excludes known deficiency and does not replace indication-specific clinical care.",
+      "year": 2022,
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "ve-select-nci",
+      "title": "NCI: Selenium and Vitamin E Cancer Prevention Trial (SELECT)—Questions and Answers",
+      "url": "https://www.cancer.gov/types/prostate/research/select-trial-results-qa",
+      "kind": "Official trial results explanation",
+      "summary": "Describes SELECT and its increased prostate-cancer incidence with 400 IU/day synthetic vitamin E alone in the studied older men.",
+      "limitations": "The trial concerned a particular dose, form and population; it does not imply that dietary vitamin E causes prostate cancer.",
+      "year": 2015,
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "ve-amd-nei",
+      "title": "National Eye Institute: AREDS 2 Supplements for Age-Related Macular Degeneration",
+      "url": "https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/age-related-macular-degeneration/nutritional-supplements-age-related-macular-degeneration",
+      "kind": "Official indication-specific guidance",
+      "summary": "Explains the combined AREDS2 formula for selected people with age-related macular degeneration.",
+      "limitations": "Benefits of a studied combination are not evidence for vitamin E alone, routine vision prevention or treatment of every AMD stage.",
+      "year": null,
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "ve-aved-genetics",
+      "title": "MedlinePlus Genetics: Ataxia with vitamin E deficiency",
+      "url": "https://medlineplus.gov/genetics/condition/ataxia-with-vitamin-e-deficiency/",
+      "kind": "Official genetic-condition reference",
+      "summary": "Explains how TTPA-related impaired vitamin E handling can cause neurological disease.",
+      "limitations": "A rare inherited disorder requires specialist assessment; symptoms cannot identify deficiency or a retail supplement regimen.",
+      "year": null,
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "ca-iom-physiology",
+      "title": "National Academies: Overview of Calcium",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK56060/",
+      "kind": "Expert dietary-reference chapter",
+      "summary": "Explains calcium absorption, skeletal storage and hormonal regulation involving the intestine, kidneys and bone.",
+      "limitations": "Established physiology does not establish a performance benefit or a personal supplement dose.",
+      "year": 2011,
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "ca-iom-requirements",
+      "title": "National Academies: Dietary Reference Intakes for Adequacy: Calcium and Vitamin D",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK56056/",
+      "kind": "Expert dietary-reference chapter",
+      "summary": "Sets U.S. FNB age- and sex-specific calcium reference intakes for healthy populations.",
+      "limitations": "A total-intake framework, not an individualized treatment regimen; national reference systems and clinical contexts can differ.",
+      "year": 2011,
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "ca-bhof-2022",
+      "title": "LeBoff et al.: The clinician’s guide to prevention and treatment of osteoporosis",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9546973/",
+      "kind": "Professional clinical guideline",
+      "summary": "Addresses adequate calcium, dietary assessment, supplement forms and the broader management of osteoporosis.",
+      "limitations": "Clinical guidance for osteoporosis prevention and care is not proof that every calcium supplement prevents fractures in every adult.",
+      "year": 2022,
+      "doi": "10.1007/s00198-021-05900-y",
+      "pmid": "35478046",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "ca-fracture-community-2017",
+      "title": "Zhao et al.: Association Between Calcium or Vitamin D Supplementation and Fracture Incidence in Community-Dwelling Older Adults: A Systematic Review and Meta-analysis",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29279934/",
+      "kind": "Systematic review and meta-analysis of randomized trials",
+      "summary": "Examines calcium, vitamin D and combined supplementation for fractures in community-dwelling adults older than 50.",
+      "limitations": "Not a replacement protocol for diagnosed deficiency, hypocalcemia or other specific mineral disorders; institutionalized populations are different.",
+      "year": 2017,
+      "doi": "10.1001/jama.2017.19344",
+      "pmid": "29279934",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "ca-india-consensus-2026",
+      "title": "Calcium Supplementation in the Indian Context: A Consensus Statement by the Endocrine Society of India Skeletal Health Taskforce",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13427011/",
+      "kind": "Indian professional consensus statement",
+      "summary": "Addresses dietary assessment, indications for calcium, choice of forms and precautions in Indian clinical practice.",
+      "limitations": "A professional consensus with population and indication-specific recommendations, not a mandate for every adult to buy calcium or use active vitamin D.",
+      "year": 2026,
+      "doi": "10.4103/ijem.ijem_45_26",
+      "pmid": "42541137",
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "ca-india-rda-summary",
+      "title": "FSSAI: Summary of RDA for Indians — ICMR-NIN 2020",
+      "url": "https://www.fssai.gov.in/upload/advisories/2021/08/6109077a384adDirection_RDA_02_08_2021.pdf",
+      "kind": "Official Indian dietary-reference summary",
+      "summary": "Lists calcium 1,000 mg/day for adult men and women across the stated work categories.",
+      "limitations": "A reference for total nutrient intake and label regulation, not an instruction to add that amount as a supplement.",
+      "year": 2021,
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "ca-kidney-stones-niddk",
+      "title": "NIDDK: Eating, Diet, & Nutrition for Kidney Stones",
+      "url": "https://www.niddk.nih.gov/health-information/urologic-diseases/kidney-stones/eating-diet-nutrition",
+      "kind": "Official clinical public guidance",
+      "summary": "Explains stone-type-specific dietary planning and the role of adequate food calcium in binding oxalate.",
+      "limitations": "The appropriate intake depends on stone type, urine findings and clinical care; do not independently stop prescribed supplementation.",
+      "year": null,
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "ve-select-primary-2011",
+      "title": "Klein et al.: Vitamin E and the risk of prostate cancer: the Selenium and Vitamin E Cancer Prevention Trial (SELECT)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21990298/",
+      "kind": "Randomized prevention trial follow-up",
+      "summary": "Reports the updated SELECT analysis, including increased prostate-cancer incidence with vitamin E alone compared with placebo.",
+      "limitations": "Older men and a specific 400 IU/day synthetic vitamin E regimen; the finding is not an estimate for all doses, indications or dietary vitamin E.",
+      "year": 2011,
+      "doi": "10.1001/jama.2011.1437",
+      "pmid": "21990298",
+      "checked": "2026-11-27"
     }
   ]
 }
